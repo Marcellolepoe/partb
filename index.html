@@ -59,14 +59,11 @@
             font-size: 0.9rem;
             cursor: pointer;
             padding: 10px 16px;
-            margin: 20px 0 0 20px;
+            margin: 0 0 20px 0;
             border-radius: 8px;
             transition: all 0.3s ease;
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-            position: absolute;
-            top: 20px;
-            left: 20px;
-            z-index: 10;
+            display: inline-block;
         }
         .back-button:hover {
             background: #D4A574;
@@ -476,7 +473,6 @@
             <button class="home-button hidden" id="global-home-button" onclick="goHome()">🏠 Home</button>
         </div>
     </div>
-    <button class="back-button hidden" id="global-back-button" onclick="goBackToSubjects()">&#8592; Back</button>
     <div class="container">
         <!-- Main Menu -->
         <div id="main-menu" class="main-content">
@@ -512,6 +508,7 @@
 
         <!-- Corporate & Commercial Subjects Menu -->
         <div id="corporate-subjects" class="main-content hidden">
+            <button class="back-button hidden" id="global-back-button" onclick="goBackToSubjects()">&#8592; Back</button>
             <h2 class="menu-title">Corporate & Commercial Topics</h2>
             <div class="subjects-grid">
                 <div class="subject-card" onclick="startQuiz('banking')">
@@ -551,6 +548,7 @@
 
         <!-- Ethics & Professional Responsibility Subjects Menu -->
         <div id="ethics-subjects" class="main-content hidden">
+            <button class="back-button hidden" id="global-back-button" onclick="goBackToSubjects()">&#8592; Back</button>
             <h2 class="menu-title">Ethics & Professional Responsibility Topics</h2>
             <div class="subjects-grid">
                 <div class="subject-card" onclick="alert('Questions for Relationship with Client are coming soon!')">
@@ -570,6 +568,7 @@
 
         <!-- Dispute Resolution Practice Subjects Menu -->
         <div id="dispute-resolution-subjects" class="main-content hidden">
+            <button class="back-button hidden" id="global-back-button" onclick="goBackToSubjects()">&#8592; Back</button>
             <h2 class="menu-title">Dispute Resolution Practice Topics</h2>
             <div class="subjects-grid">
                 <div class="subject-card" onclick="alert('Questions for Civil Litigation are coming soon!')">
@@ -593,6 +592,7 @@
 
         <!-- Private Client Practice Subjects Menu -->
         <div id="private-client-subjects" class="main-content hidden">
+            <button class="back-button hidden" id="global-back-button" onclick="goBackToSubjects()">&#8592; Back</button>
             <h2 class="menu-title">Private Client Practice Topics</h2>
             <div class="subjects-grid">
                 <div class="subject-card" onclick="alert('Questions for Criminal Litigation Practice are coming soon!')">
@@ -628,6 +628,7 @@
 
         <!-- Contemporary Legal Knowledge & Practice Subjects Menu -->
         <div id="contemporary-subjects" class="main-content hidden">
+            <button class="back-button hidden" id="global-back-button" onclick="goBackToSubjects()">&#8592; Back</button>
             <h2 class="menu-title">Contemporary Legal Knowledge & Practice Topics</h2>
             <div class="subjects-grid">
                 <div class="subject-card" onclick="alert('Questions for Data Protection and Cyber Regulations are coming soon!')">
