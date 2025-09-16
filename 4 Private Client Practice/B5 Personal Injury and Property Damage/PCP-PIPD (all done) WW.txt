@@ -1,0 +1,341 @@
+Personal Injury & Property Damage
+Introduction (non-core)	3
+Relevant laws	3
+Useful references	3
+*Actions to take: at the scene	3
+Immediate steps to take upon collision	3
+General Insurance Association (GIA) – Motor Claims Framework (MCF)	3
+MCF (supported by all insurance companies in SG) 3-step reporting process:	3
+Barometers of Liability (BOLA): not legal authority, but used by insurance vis-à-vis other insurance companies	4
+Actions to take: at lawyers office (non-core)	4
+Potential Claimant: To use Workshops, Lawyers or DIY	4
+Potential Defendant: Whether through lawyers or DIY	4
+Repudiation: Insurers refuse insurance cover	5
+*Actions to take: pre-writ (non-core)	6
+Pre-writ considerations	6
+*Multiple collisions	6
+**Pre-action protocol for State Court, none for High Court (State Court PD Appendix B: for personal injury claims and non-injury motor accident claims)	6
+Notice of Accident and Pre-repair Survey (PRS) for NIMA claims (para 2 Appendix B):	7
+Letter of Claim (para 3 Appendix B): “must send a letter of claim (Form 3 in this protocol) to every potential defendant and his insurer.	7
+Potential Defendant’s response (para 4 Appendix B)	8
+Negotiation and 10 days’ notice (para 8 Appendix B)	8
+**FIDReC NIMA scheme: Lodgement of non-injury claims below $3,000 excluding survey fees, interests, costs and disbursements with FIDReC at first instance, unless an exception in para 13 applies (para 12.1-12.2 Appendix B)	9
+*Actions to take: at the Court, post-writ	11
+*Automatic transfer from HC to SC	11
+*Deciding where to sue	11
+High Court characteristics	11
+State Court characteristics	11
+*Enhanced Jurisdiction of State Court (MC OR DC) by Agreement	12
+When is this used?	12
+*Single Joint Expert	12
+Differences between SC and HC – ROC O 12 r 3	12
+Pre-action Protocol Appendix B Paragraph 2 – SJE Process and Pre-repair survey	12
+Factors that Court will consider in appointing an expert (Lee Song Yam [2019] SGMC 24):	12
+*Causation is a liability issue (1st stage in SC) – unable to be disputed during Assessment (2nd stage in SC)	13
+At the Court, post-Judgment	16
+
+
+Introduction (non-core)
+Relevant laws
+* Tort: basis of claim
+* Contract: with various parties after the event to remedy the damage
+* Insurance: statute requires all motor vehicles to be insured for claims for personal injury; insurances contracts are contracts of good faith; may need to advise policy holder or insurance companies vis-à-vis policy holders or against third parties making a claim
+Useful references
+* Motor Accident Guide (2nd ed): Published by the State Courts. Compendium of different scenarios for how liability can be apportioned, and also references cases. 
+* Guidelines for the Assessment of General Damages in Personal Case (3rd ed): summarized guidelines for quantum for various damages, e.g. to various body parts
+* Practitioners Library Assessment of Damages: Personal Injuries and Fatal Accident (3rd ed) (i.e. “bluebook”): More formal textbook of cases for quantum for various damages. Split into different categories of injuries but also has writeups on the law.
+* Actuarial Tables with Explanatory Notes for use in Personal Injury and Death Claims: provides multipliers for claims on future losses (e.g. loss of earning capacity) that require assessment over a period of time; constantly updated as more data is obtained
+* Motor Accident Claims Online (MACO): Online tool by SAL that estimates the value of claim that is not authoritative and more for layperson use. 
+*Actions to take: at the scene
+Immediate steps to take upon collision
+1. Stop vehicle immediately
+2. Call police and/or ambulance immediately if necessary
+3. Exchange particulars, e.g. name, NRIC, contact, insurance company, vehicle licence plate --> if there is refusal of other party to give particulars, just take down the licence plate number which is sufficient
+4. Take proper photographs or video: of damage, position of vehicles, context, surroundings (traffic lights, dividers, overhead bridge, etc.)
+o Retain video recordings of in-vehicle cameras – good evidence if there is dispute
+5. Don’t admit fault or liability (i.e. admitting 100% for tortious liability)
+o May have implications on insurance, as they usually contain terms on admitting fault.
+6. Call tow truck if needed
+7. Ask for advice from the insurers’ hotline if necessary
+
+General Insurance Association (GIA) – Motor Claims Framework (MCF)
+Purpose: Education and promotion of insurance
+
+MCF (supported by all insurance companies in SG) 3-step reporting process: 
+1. Exchange particulars and vehicle number
+2. call insurance company and tow truck
+3. bring vehicle to reporting centre or authorised workshop within 24 hours (or next working day if on a weekend)
+o Make an accident report including all relevant facts and request for a copy: usually of higher probative value as first-hand account shortly after accident
+o Report should be as detailed possible – client should disclose as much information as possible
+o Necessary to make a report whether intending to claim their insurance or not
+o Failure to make a report of accident is a sufficient ground for the insurance company to disclaim their contractual obligation to provide coverage
+o Late reporting (past 24 hours) may incur some penalties
+o Generally no need to make traffic police report if no injuries, but can still do so for record purposes
+
+Barometers of Liability (BOLA): not legal authority, but used by insurance vis-à-vis other insurance companies
+Similar to the Motor Accident Guide but only used by insurance companies. May affect the insurer’s discretion to handle the claim
+
+Actions to take: at lawyers office (non-core)
+Generally, to advise client on their options.
+
+Potential Claimant: To use Workshops, Lawyers or DIY
+* Workshop: when client has already appointed repairer, who also helps to make claims against the other party.
+* Own Damage claim (OD claim): claimant claims repair cost from his own insurance policy with insurance company and lets them handle the rest
+o Fuss-free procedure, insurer pays repairer directly
+o but will affect no-claim bonus reducing premium costs (if claim has been made, the no-claim bonus will be taken away)
+* Third party claim: claim against other driver’s policy
+o Can be through Workshop, Lawyer, or DIY
+* Private Settlement
+o Can be agreed upon personally (at the scene of accident) or through lawyers
+
+Potential Defendant: Whether through lawyers or DIY
+* Private Settlement: careful not to admit fault or liability as there might be other possible claimants and insurance policy generally prohibits the same
+o Defendants will want to do this to preserve their no-claim bonus
+
+* Let defendant’s own insurers handle – insurer handles legal and admin fees
+
+* Defend themselves – then client will need to pay legal fees
+
+Repudiation: Insurers refuse insurance cover
+Common reasons to refuse:
+* Driving under influence of alcohol or drugs
+* Driving an unregistered vehicle or vehicle with prohibited or unapproved modifications
+* Driving with an invalid driving licence (e.g. driver is suspended, disqualified, or simply never had one; query whether foreign driving licence is valid)
+* Driving with passengers exceeding its legal seating capacity (Query: partial coverage only for number of persons within legal seating capacity, or completely refuse coverage?)
+* Admitting fault or liability (Note distinction between stating fact and admitting fault. Advise client to state facts rather than admit fault.)
+* Failing to notify the insurers about the accident or of any proceedings arising from the accident --> just bring it to attention of motor insurers
+o E.g. policy holder failed to notify of offer of composition from Traffic Police (sum of money to pay to settle without going to court) and court held that policy holder was in contractual breach by failing to notify the insurer and so insurance company could disclaim its contractual liabilities in India International v Ho Chai Hong Joanne
+
+
+
+*Actions to take: pre-writ (non-core)
+Pre-writ considerations
+* Personal Injury (PI) or Property Damage (NIMA = non-injury motor accident) or both
+
+* Limitation Periods: PI of 3 years, while NIMA is of 6 years --> if mixed claim then 3 year time bar
+
+* One Cause of Action: PI, NIMA, etc. claims must be in one single action or will be an abuse of court (Ng Koon Chon v Tang Wee Goh) --> there is only one cause of action which may entitle the claimant to various types of reliefs
+
+*Multiple collisions
+* Multiple collisions (C sues more than one D): 
+o Insurers’ market agreement (part of BOLA) that in multiple chain collisions for NIMA claims, the insurer of the car directly behind claimant (i.e. No. 2) will pay and settle 100% of the party directly in front (without seeking contributions from any other vehicles behind, i.e. No. 3, 4, 5…) 
+o If Car 2 is also damaged, it can claim against car directly behind which is Car 3 (insurers of Car 3 under BOLA would have to pay)… and so on…
+o This could have consequences on computing costs in individual claims (but this agreement is only binding on insurers and not the individual parties)
+o But this only applies to NIMA – so may be complicated if there are both NIMA and PI claims 
+
+**Pre-action protocol for State Court, none for High Court (State Court PD Appendix B: for personal injury claims and non-injury motor accident claims)
+* Object of Protocol: promote early settlement of claims mainly through an obligation on claimant to send a letter of claim with sufficient information to defendants, whether other party or insurer, who can then make a serious and genuine offer of settlement
+
+* Applicability: covers all personal injury claims (motor accident, industrial accidents, negligence other than motor accident, fatal accidents) in magistrate court or district court; excludes claims for medical negligence (para 1.2 Appendix B)
+
+* Effect of non-compliance with pre-action protocol: “In exercising its discretion and powers, the court will have regard to compliance with this protocol or lack thereof; see, for example, Order 25, Rules 1, 1A and 8, Order 34A, Rule 1, Order 59, Rule 5, and Order 59 Appendix 2, of the Rules of Court (Cap. 322, R 5).” (para 1.1 Appendix B) 
+--> there may be cost sanctions against the defaulting party, or the complying party’s preferred expert may be chosen instead
+
+Notice of Accident and Pre-repair Survey (PRS) for NIMA claims (para 2 Appendix B): 
+* Claimant to issue a notice to defendant and insurer before commencing repair to the motor vehicle in question
+o “2.2 Within 3 working days of the date of the accident, the claimant must send a notice of accident (Form 1 in this protocol) to the potential defendant and his insurer …”
+
+* Single joint expert (SJE) should be appointed to conduct pre-repair survey to confirm that it is consistent with information about the accident 
+o “2.3 Within 2 working days of receipt of the notice of accident, the insurer must reply to the claimant (Form 2 in this protocol) and if he intends to conduct a pre-repair survey of the claimant’s damaged vehicle, he must include in his reply a list of at least 10 motor surveyors.
+o 2.4 Within 2 working days of receipt of the insurer’s reply, the claimant must reply to the insurer stating whether he agrees or has any objections to the appointment of any of the motor surveyors proposed by the insurer. … The claimant may specifically select one or more of the proposed motor surveyors. [else any one may be selected by the insurer]
+o 2.5 … the insurer must immediately instruct the single joint expert to conduct the pre-repair survey. The single joint expert must complete the pre-repair survey within 2 working days of his appointment.
+o [para 2.6-.29 set out further processes if claimant disagrees with all 10 in list provided by insurer]
+o 2.10 Once the pre-repair survey has been conducted, the claimant and the insurer shall negotiate and, as far as possible, come to an agreement on the cost of repairing the claimant’s vehicle.
+o 2.11 If parties are unable to come to an agreement on the cost of repairing the vehicle after negotiations, the claimant may proceed to repair his vehicle. …”
+
+*Letter of Claim (para 3 Appendix B): claimant “must send a letter of claim (Form 3 in this protocol) to every potential defendant and his insurer.
+* The letter of claim must set out the full particulars of his claim and enclose a list of all the relevant documents relating to both liability and quantum
+o Should contain brief statement of all available and relevant facts on which the claim is based, nature of injury or damage, estimate of general damages, special damages (with each head of damage specified), any witnesses, any police case number 
+o Any nominees for medical experts to act as SJE during trial (if applicable)
+
+* The claimant must also include in his letter of claim a copy each of all relevant supporting documents, where available, such as:
+“(a) full and complete Singapore Accident Statements together with type-written transcripts of all persons involved in the accident, including a sketch plan;
+(b) repairer’s bill and evidence of payment;
+(c) motor surveyor’s report;
+(d) excess bill/receipt;
+(e) vehicle registration card;
+(f) COE/PARF certificates;
+(g) names of all witnesses (where possible to disclose);
+(h) original, coloured copies or scanned photographs of damage to all vehicles;
+(i) original, coloured copies or scanned photographs of the accident scene;
+(j) video recording of the accident (if any);
+(k) accident reconstruction report (if any);
+(l) rental agreement, invoice and receipt for rental of replacement vehicle (if any);
+(m) correspondences with the potential defendant’s insurer relating to pre-repair survey and/or post repair inspection of the claimant’s vehicle;
+(n) any other supporting documents.”
+
+Potential Defendant’s response (para 4 Appendix B)
+* “The potential defendant must send an acknowledgement letter (Form 4 or Form 4A in this protocol) to the claimant within 14 days of receipt of the letter of claim”, else claimant can commence proceedings without any sanction by the Court (para 4.3-4.4)
+
+* “4.6 If the claim is not admitted in full, the potential defendant must:
+(a) give reasons and provide the claimant with a list setting out all the relevant documents;
+(b) include in his reply a copy of each of all relevant supporting documents;
+(c) confirm/state the identity of the person driving his vehicle at the time of the accident and provide the driver’s identification number and address if this is not already stated in the Singapore Accident Statement;
+(d) enclose full and complete Singapore Accident Statements showing the names, identification numbers and addresses of all other persons involved in the accident and typewritten transcripts of their factual accounts of the accident;
+(e) enclose any pre-repair and/or post-repair survey/inspection report(s); and
+(f) specify the particular scenario in the Motor Accident Guide that is applicable to his account of the accident, enclose with his reply a copy of the relevant page of the Motor Accident Guide, and, except where the claim is denied, make an offer on liability (Form 4A in this protocol).”
+
+* “4.10 The letter of claim and the responses are not intended to have the effect of pleadings in an action.”
+
+Negotiation between C and D, if no settlement then 10 days’ notice for C’s intention to proceed with a writ against D (para 8 Appendix B)
+* “8.1 Where the claimant’s position on liability differs from the potential defendant’s, the claimant must within 2 weeks from the date of receipt of the potential defendant’s reply to the letter of claim, make a counter-offer on liability.
+o The claimant must specify the particular scenario in the Motor Accident Guide that is applicable to his account of the accident and 
+o enclose a copy of the relevant page of the Motor Accident Guide (Form 4A in this protocol may be used with the necessary modifications).”
+
+* “8.3 If, after reasonable effort has been made to settle the matter, but there are no reasonable prospects of settlement after a time period of at least 8 weeks from the date of receipt of the letter of claim … the claimant must give 10 clear days’ notice (Form 5 in this protocol), by e-mail, fax or certificate of posting to the potential defendant of his intention to proceed with a writ.
+o He must also inform the potential defendant of the names of all the parties he is suing.”
+
+**FIDReC NIMA scheme: Lodgement of non-injury claims below $3,000 excluding survey fees, interests, costs and disbursements with FIDReC at first instance, unless an exception in para 13 applies (para 12.1-12.2 Appendix B)
+* FIRST PORT OF CALL IF YOU HAVE NIMA PROPERTY DAMAGE CLAIM FOR LESS THAN $3K
+* Exceptions where FIDReC NIMA scheme does NOT apply (para 13(1)):
+“(a) the claimant is a body corporate or partnership; --> i.e. company car damaged
+(b) one or more of the vehicles involved in the accident is a government, a foreign-registered or diplomatic vehicle;
+(c) the potential defendant has a counterclaim of $3,000 or more;
+(d) the potential defendant has a counterclaim of less than $3,000 but the claimant is not claiming under his own insurance policy in respect of the counterclaim;
+(e) the insurer for the claim or counterclaim has repudiated liability;
+(f) an allegation that the claim, counterclaim or defence is tainted by fraud or other conduct constituting a criminal offence in connection with which a police report has been lodged;
+(g) proceedings are still ongoing at FIDReC after a lapse of 6 months from the date when all the relevant documents pertaining to the accident that were requested by FIDReC have been submitted or, from the date of the claimant’s first interview at FIDReC, whichever is later; or
+(h) there is other good and sufficient reason shown to the Court why the claim ought not to have been lodged at FIDReC or the proceedings ought not to have continued at FIDReC,
+the claimant may commence an action in Court directly and all proceedings (if any) before FIDReC shall be abated forthwith, unless the Court otherwise directs.”
+
+* FIDReC in general: alternative dispute resolution scheme where all parties must represent themselves (no external counsel allowed to argue for parties)
+
+* FIDReC NIMA scheme: 
+o Mediation at first stage (free for individual claimants, but small fee of $50 for insurers and financial institutions), 
+o If no resolution at mediation, then adjudication ($250 for claimant and $500 for insurance company - $200 may be refunded to either party after adjudication as determined by the adjudicator); 
+* if claimant decides to proceed with adjudication, then FIDReC would appoint an independent adjudicator from its panel, both parties have to prepare written submissions for adjudicator and there is adjudication hearing
+* Finding binds insurer but not the claimant – can go to court if unhappy with it
+
+Cost-sanctions for non-compliance with para 12 (para 14): “14.1 … the Court in exercising its discretion as to costs, shall have regard to the following, where applicable: 
+--> i.e. where claimant brought court proceedings and did not go for FIDReC mediation/adjudication first when he was eligible
+(a) commencement of court proceedings before adjudication of the claim by FIDReC;
+(b) a finding by the Court that the quantum of damages before apportionment of liability is below $3,000 excluding survey fees, interests, costs and disbursements and the damages quantified and pleaded in the Statement of Claim is for an amount exceeding $3,000; or
+(c) the claimant has failed to obtain a judgment that is more favourable than the award made at the adjudication of the claim by FIDReC.
+
+
+*Actions to take: at the Court, post-writ
+HC = High Court; SC = State Court
+*Automatic transfer from High Court to State Court
+Provided by the Supreme Court of Judicature (Transfer of Specified Proceedings to District Court) Order 2016
+* State Court jurisdiction for road traffic accidents and PI claims from industrial accidents was raised from 250k to 500k in 2016
+* Claim amount between 250k and 500k --> Parties will need to file their writ (originating claim) in HC, then it will get automatically transferred to SC and follow SC procedure thereafter
+* When transferred to SC/DC, jurisdictional limit would be $500K, but it is open to parties to agree to enhance jurisdiction and go beyond $500K
+
+*Deciding where to sue
+High Court characteristics
+START: Pre-trial conference (PTC) before Assistant Registrar (AR) 
+--> JPTC before a Judge near trial 
+--> Trial (for liability) by Judge 
+--> Assessment of damages by AR/Judge
+o Generally, assessment by AR if claim is for <1M, 
+o If claim is for more than 1M, damages assessed by Judge
+
+State Court characteristics
+START: Court Dispute Resolution (CDR) before trial – similar to Mediation + Neutral Evaluation by a CDR Judge
+o Early Neutral Evaluation by CDR judge – aka CDR Indication, on how fault should be split between parties (based on %, likely using MAG)
+o Can be done asynchronously – Registrars’ Circulars 
+o CDR Processes – St Ct PD Appendix C
+o If settlement cannot be reached, the CDR judge will give directions for matter to proceed to trial
+
+--> trial at SC on liability
+--> If matter goes to trial and a decision for liability has been rendered by the court, then after trial matter goes to Assessment of Damages Court Dispute Resolution Conference, or ADCDR for neutral evaluation on quantum, i.e. CDR for assessment of damages 
+o If settlement cannot be reached on quantum, the ADCDR will fix a hearing for assessment of damages
+
+NB: CDR and ADCDR are free of charge, provide parties with an indication outcome
+Cf. HC where there is no such indication based on neutral evaluation; need to go through private mediation
+
+*Enhanced Jurisdiction of State Court (MC OR DC) by Agreement
+s 23(a) State Courts Act – both parties agree by signed memorandum:
+Where the parties to an action agree, by a memorandum signed by them or their respective solicitors, a District Court has jurisdiction under s 19(2) to hear and try the action even though the amount claimed in the action exceeds the District Court limit
+
+Magistrates’ Court – normally limit of $60,000, but with EJ agreement can go above
+District Court – normally limit of $250,000, but with EJ agreement can go above
+
+When is this used?
+* Where damages claimed is increased mid-trial at SC due to new findings
+--> CASE KEPT AT SC
+* Where damages claimed is already more than State Court limits so start at HC – file in HC first, formalise agreement, then apply for transfer to State Courts 
+--> CASE TRANSFERRED FROM HC TO SC
+o Parties may prefer State Courts to obtain free CDR and ADCDR processes
+o Alternatively, parties can just go to a private mediator instead of transferring
+
+*Single Joint Expert
+Differences between SC and HC – ROC O 12 r 3 
+* HC matters – must agree on 1 common expert, no more than 1 for any issue. Court can pick an expert outside list provided by parties
+* SC/MC – under the simplified trial process, parties must also agree on 1 expert; if not, must file application for Court to appoint under the SAPT process. 
+* If neither expert nominated by parties is deemed suitable, the court will appoint another expert.
+* Generally parties can hire their own expert to examine the materials as well, but the reports of their expert will not be admitted and they cannot be called as a witness (Lee Song Yam)
+Pre-action Protocol Appendix B Paragraph 2 – SJE Process and Pre-repair survey
+Factors that Court will consider in appointing an expert (Lee Song Yam [2019] SGMC 24):
+a. Area of expertise and experience of proposed expert;
+b. Costs of a proposed expert’s engagement;
+c. Length of time required for a proposed expert to produce his/her report;
+d. In personal injury cases arising from motor accidents (“PIMA cases”), whether the proposed expert is from a restructured hospital, is the treating physician and/or had the opportunity to evaluate the patient or relevant medical records in order to reach a considered expert opinion;
+e. In non-injury motor accident cases (“NIMA cases”), whether the proposed expert had conducted a pre-repair and/or post-repair inspection of the vehicle;
+f. Whether either party had breached any of the regulations within the NIMA or PIMA pre-action protocols which led to circumstances affecting the position of either party with respect to the appointment of an SJE (e.g. failure to inform the Defendant of the accident within the prescribed timeline leading to the Defendant losing the opportunity to conduct pre-repair inspection). In this regard, the SJE affidavit should also state whether the parties have complied with pre-action protocols; and/or
+g. Allegations in respect of claim inflation, causation, fraud and/or bias.
+
+*Causation is a liability issue (1st stage in SC) – unable to be disputed during Assessment (2nd stage in SC)
+* Proof of Loss for liability – Tan Woo Thian v PriceWaterhouseCoopers [2021] SGCA 
+--> this was a professional negligence claim by TWT against PwC, where claimant had to show D owed a duty, there was a breach, causation and loss suffered (which was caused by D’s negligence). HC judge dismissed the case as there was no proof of loss, but C appealed and argued that since it was bifurcated trial between liability and quantum, there was no need to provide evidence on loss. But CA disagreed – causation is a fundamental element in establishing liability for negligence. C had wrongly conflated the separate questions of whether C can establish that D’s negligence had caused the loss, with the quantum of the loss (which was to be dealt with during assessment of damages).
+o This was a bifurcated trial --> liability and quantum separately considered. Very common
+o Negligence case in the SGCA.  Lawyer did not raise arguments on damages and loss during hearing on liability. Court dismissed the case as they did not give proof of loss. Causation of loss is a key element of liability for negligence.
+
+* Impact on PIPD Practice in State Courts
+o In the CDR Indication (1st stage in SC), Judge indicates apportionment of liability in %, rather than actual quantum. Thus parties also only discuss liability and not causation of loss/quantum. Parties would enter a consent judgment but reserve causation as an issue.
+o SGCA’s holding in Tan Woo Thian indicates that this practice is incorrect, as causation is a key element of liability in question.
+
+* Partial causation issues must be dealt with also at liability stage (1st stage in SC), rather than at damages – Salmizan bin Abdullah v Crapper Ian Anthony [2023] SGHC, but this has been changed on appeal in *Crapper Ian Anthony v Salmizan bin Abdullah [2024] SGCA 21
+o Reiterates Tan Woo Thian. If a party disputes whether the claimant was injured at all, then it MUST be dealt with at the liability stage even if the trial is bifurcated.
+o Partial Causation – can it be dealt with at damages stage? E.g. if D disputes whether only SOME of the injuries on C were caused by him. HC held that if an interlocutory judgment is entered (after liability stage), issues of causation CANNOT be raised at damages stage even if partial. However, this was overturned on appeal in the CA
+
+In this case (involving a claim for negligence resulting in personal injury from a motor vehicle accident, “PIMA”), parties agreed to enter into a consent interlocutory judgment at 90% in favour of the injured person but “leaving issues of damages and causation to be assessed”. This was done to save time and costs in needing to have a full trial on all issues pertaining to liability and quantum of damages.
+
+The Registrar assigned to assess damages however expressed concerns on whether it was legally permissible for parties to enter an interlocutory judgment with express reservation regarding causation (since causation itself was an element to be proven in establishing liability for negligence). The matter was thus transferred to the High Court, where the Court held that this was not permissible. The Court of Appeal however overturned this decision on appeal and held that the approach adopted by the parties herein was in fact legally permissible.
+
+Importantly, the Court of Appeal took the view that an interlocutory judgment simply referred to an intermediate judgment that determines a preliminary or subordinate point but does not finally decide the case (at [47]). Seen in this way, an interlocutory judgment could be entered by consent on issues that do not wholly establish liability; it was for parties to agree on what had been resolved with res judicata effect and what had not (at [48]).
+
+In other words, it was not an all-or-nothing situation where the entire matter of liability had to be resolved by an interlocutory judgment entered into by consent, and there was *no reason why parties could not consent to leave certain issues (like causation) to be determined at the second stage in proceedings.
+
+**MAIN TAKEAWAY ACCORDING TO WILLY TAY: 
+- YOU CAN RESERVE CAUSATION IN 1ST STAGE OF PIPD PROCEEDINGS IN STATE COURTS. 
+- IN PIPD CASES, TRIAL AND LIABILITY (AT 1ST STAGE) HAS ALWAYS BEEN ABOUT THE ACCIDENT AND WHO IS AT FAULT, ANYTHING ELSE (including causation) CAN BE UNDER ASSESSMENT (2ND STAGE)
+
+ 
+At the Court, post-Judgment
+All not asterisked:
+* Involvement of Public Trustee for Motor Vehicle accidents 
+o Any settlement of damages for PI below $5,000 (general and special damages), public trustee approval is NOT needed
+o But if settlement sum and S-C costs exceed $5,000, then you require public trustee approval
+
+* Usual Consequential Orders (s 18(3) Motor Vehicles (Third Party Risks and Compensation) Act)
+o Lawyer will only receive S-C costs and no more; balance go direct to Claimant
+o Essentially to prevent Lawyer from taking damages sum and absconding
+o Approval of S-C costs (by Public Trustee) to ensure there is no overcharging
+o Form 7 Appendix A1 State Courts Practice Direction (2021)
+o See also Public Trustee Circular 1 of 2014 --> basically provides that insurance company should issue payments to two sources: (1) settlement directly to the claimant while (2) solicitor’s and client’s costs straight to the lawyer
+
+“Despite the provisions of any other written law, public officer or an advocate and solicitor, acting in respect of matters referred to in subsection (3), must not receive or accept any payment of money other than (a) costs that are agreed between him or her and the Public Trustee, or (b) assessed costs, in default of such agreement with the Public Trustee; or (c) the costs that the Public Trustee may determine to be the costs of the public officer or advocate and solicitor, if the public officer or advocate and solicitor fails to begin proceedings for assessment of costs within 3 months after the relevant date unless before that time the public officer or the advocate and solicitor has agreed with the Public Trustee on costs”
+
+* Intervening for insurers
+o Even if Insurer repudiates coverage, Motor Vehicles Act provides that insurer must satisfy any judgment that accident victim might obtain for a PI claim
+o Their financial interests may still be affected
+o Thus, insurers may want to apply to intervene in actions 
+
+* Workmen Injury Compensation (especially for PI claims arising from industrial accidents)
+o Redress under Workmen Injury Compensation Scheme – process outside the courts
+o But also have claim in common law in courts. 
+o In State Courts, special provisions under CDR for such workmen injury compensation
+
+* MIB (Motor Insurers’ Bureau) --> ONLY APPLIES FOR PERSONAL INJURIES CLAIMS, NOT SOLE NIMA CLAIMS
+o See Motor Insurers’ Bureau Agreement which also provides procedures on how to make a claim or apply for compensation with MIB
+o Motor Vehicles (Third Party Risk and Compensation) Act
+o Applies where the potential defendant is uninsured or untraced/unknown.
+* E.g. insurer cannot be found or the insurance is found to be void
+o Uninsured defendant and Insurers’ Concerned
+* MIB will ask last known insurer to handle the claim on their behalf (i.e. ask the Insurers’ Concerned to handle it)
+o Untraced / Unknown defendant and MIB
+* If potential insurer totally unknown, seek compensation from MIB directly.
+2
+
+

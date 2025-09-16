@@ -1,0 +1,1149 @@
+Contents
+*Pleading Guilty	2
+*Procedure for Guilty-Plea Hearings	2
+Part 1: Charge will be read to accused	2
+Part 2: Before recording PG – Court will check if accused understands consequences of PG, the prescribed punishment and if accused intends to admit to offense without qualification	3
+Part 3: Accused’s PG will be recorded	3
+Part 4: Prosecution will read SOF to accused => Court will scrutinize SOF => Court will ask accused to confirm SOF	3
+Miscellaneous Issue: No PG for offenses punishable with death	4
+Miscellaneous Issue: If accused agree to PG but does not on that day	4
+Miscellaneous Issue: Methods for accused to retract guilty plea	4
+Sentencing	5
+Procedure for Sentencing	5
+Part 1: Prosecution’s address on sentence	5
+Part 2: Defense counsel’s mitigation of sentence	6
+Part 3: Conduct of Newton Hearing (if necessary)	6
+Part 4: Court pronouncement of sentence and consequential orders	7
+Charges taken into consideration (TIC)	7
+Court power to TIC charges during sentencing	7
+Effect of TIC Charges on sentencing	8
+Status of TIC Charges	8
+Miscellaneous: When accused qualifies a TIC charge	8
+Common Sentences	9
+Timing – when do sentences take effect?	9
+Fines	10
+Court Order: Withdraw outstanding charges	10
+Court order: Disposal of property	11
+Sentencing Philosophy and Principles	11
+Principle 1: Sentencing is not a science and opinions can sometimes diverge	11
+Principle 2: Public interest and the 4 pillars of sentencing	11
+Principle 3: Deterrent sentences and its relationship to custodial terms	12
+Principle 4: Protection of the public	12
+Principle 5: Need for articulation of reasons for deterrent sentences	12
+MaxImum Sentence	12
+One Transaction and Totality Principles	12
+Statutory framework for Concurrent/Consecutive sentences	12
+Procedure at Trial	14
+Step 1: Charge read to accused	14
+Step 2: Accused’s plea is taken	14
+Step 3: Prosecution’s opening address	14
+Step 4: Prosecution’s EIC of Prosecution’s witness	14
+Step 5: Defense cross-examines Prosecution’s witness	15
+Step 6: Prosecution re-examines Prosecution’s witness	15
+Miscellaneous Issue: Court may draw adverse inference when a material witness is not called	15
+Miscellaneous Issue: No particular number of witness is required for proof of any fact	16
+Step 7: Close of Prosecution’s case and Defense’s Submission of No Case to Answer (see Step 8 for continuation)	16
+Step 8: Court must apply test of prima facie case to Prosecution’s case (Continuation from Step 7)	17
+Miscellaneous Issue: Where evidence at close of Prosecution’s case makes out a different charge	17
+Step 9: Court must ask accused to elect whether he wishes to give own evidence before proceeding to Case for Defense	18
+Step 10: Defense’s opening address	18
+Step 11: Assuming that accused elects to give own evidence and testify => Defense’s EIC of accused => Co-accused (if any) cross-examines accused => Prosecution cross-examines accused => Defense re-examines accused	18
+Miscellaneous Issue: Defense can apply for Court to compel attendance of any witness	18
+Step 13: Co-accused and co-accused witnesses must give evidence and be cross-examined and re-examined in the same order	19
+Step 14: At Close of Defense’s case, Prosecution has right to recall Prosecution’s witness for the purpose of rebuttal	19
+Step 15: At Close of Defense’s case, Defense can give closing statement first	19
+Step 16: Prosecution has final right of reply	19
+Step 17: Court has to decide case on test of beyond reasonable doubt	19
+Miscellaneous Issue: Court has discretion to recall any witness (new or old) at close of Defense’s case	20
+Witness’s statement can be used to impeach witness	21
+Miscellaneous Issue: Inconsistent statement	21
+Impeachment Procedure	21
+
+
+
+*Pleading Guilty 
+*PROCEDURE AT GUILTY-PLEA HEARINGS 
+The accused can elect to plead guilty at ANY TIME after being charged (including midway through the pre-trial discovery CCDC process, or midway through trial).
+
+This part focuses on how a valid guilty plea is recorded, and what happens when a guilty plea is problematic. In particular, be mindful of:
+- What happens when the accused challenges an element of the charge(s) against him?
+- What happens when an accused person changes his mind throughout pleading guilty?
+- What happens when either the PP or accused challenges a fact that is material to sentencing?
+
+Negotiations are possible with PP regarding facts to be included in the Statement of Facts (e.g. phrasing, actual factual situation) – but not the integral elements of the offence
+
+Overview of procedure for recording guilty plea:
+1. Charges which the PP intends to proceed with against D are read to him first, and the remaining charges are stood down temporarily
+2. The court will confirm that D wishes to plead guilty and understands the implications pursuant to s227(1)-(2) CPC
+3. PP will read out the Statement of Fact (SOF) to D
+4. D is asked to confirm if he admits to the SOF without qualification
+5. The court will convict D based on the facts in the SOF
+6. D’s consent is obtained for any remaining charge(s) that have been stood down, to be taken into consideration (TIC) for the purpose of sentencing (s148 CPC)
+
+*Part 1: Charge will be read to accused 
+Charge(s) will be read to accused => Accused will be asked whether he wants to PG or claim trial => Accused will PG in same Court 
+- Charges which the PP intends to proceed with are read to the accused first; the remaining charges are temporarily stood down
+
+S158 of CPC
+- In a case tried in Magistrate’s Court or District Court, the following apply:
+a. When an accused is first charged in the court for an offense, a charge must be framed, read and explained to accused
+b. Accused must be asked whether he wishes to claim trial or plead guilty to the charge unless either party to the case applies for, and the Court grants and adjournment without the plea being recorded
+c. If accused after he has been asked to plead:
+(i) Pleads guilty to the charge, Division 3 of Part 11 applies (s223 to s228 of CPC) 
+(ii) Refuses to plead or does not plead or claims trial to the charge, and the case is subject to the criminal case disclosure procedures under s159, Division 2 applies 
+(iii) Refuses to plead or does not plead or claims trial to the charge, and the case is NOT subject to the criminal case disclosure procedures under s159, Division 4 applies 
+
+S227(1) CPC
+- If the accused pleads guilty to the charge after it has been read and explained to him, whether as originally framed or as amended, his plea MUST BE RECORDED and he may be CONVICTED ON IT
+
+*Part 2: Before recording PG – Court will check if accused understands consequences of PG, the prescribed punishment and if accused intends to admit to offense without qualification 
+If accused is NOT represented by lawyer – Court will check with accused
+S227(2)(a) of CPC
+- Before the court records a plea of guilty, it must:
+If the accused is not represented by an advocate, be satisfied that the accused:
+(i) Understands the nature and consequences of the accused’s plea and the punishment prescribed for the offence; and
+(ii) Intends to admit to the offence without qualification
+
+If accused is represented by lawyer – Court will check with lawyer 
+S227(2)(b) of CPC 
+- Before the court records a plea of guilty, it must: 
+If the accused is represented by an advocate, record the advocate’s confirmation that the accused:
+(i) Understands the nature and consequences of the accused’s plea; and
+(ii) Intends to admit to the offence without qualification
+ 
+*Validity of plea
+Understanding nature of guilty plea: 
+- Accused must know what offenses he is pleading guilty to 
+
+Understanding consequences of guilty plea:
+- Accused must know: 
+a. The punishments prescribed by law and possible sentence he might receive 
+b. He CANNOT appeal against conviction (with the guilty plea) but can appeal against any sentence received 
+
+Situations where Court will not accept accused guilty plea: Validity of plea 
+Md Rafiqul Islam Abdul Aziz v PP 
+- Situations where the Court should not accept an accused’s plea of guilt (non-exhaustive):
+a. Court unsatisfied that accused understands nature and consequences of guilty plea: Where the Court is not satisfied that the accused understands the nature and consequences (punishment)of his guilty plea 
+b. Court unsatisfied that accused is admitting to offense without qualification (i.e. D admitting with qualification): Where the Court is not satisfied that the accused intends to admit to the offense without qualification 
+c. Accused qualified guilty plea during mitigation: Where the Court is satisfied that the accused has qualified his guilty plea in mitigation 
+d. Accused pleaded guilty on mistake or misunderstanding: Where the accused pleaded guilty on a mistake or misunderstanding 
+e. Accused pleaded guilty involuntarily: Where the accused did not plead guilty voluntarily  
+
+Example of qualifying the guilty plea:
+- Assume D is charged with one count of theft in dwelling under s380 Penal Code for stealing alcohol from a supermarket
+- Dishonesty is the mens rea or fault element of theft-related offences (s24 and s378 Penal Code)
+- If D tells the court that he simply forgot to pay for the item, he is denying that he possessed the MR for the charge – this qualifies his plea of guilt
+
+*Part 3: Accused’s guilty plea will be recorded  
+S227(1) of CPC
+- If accused pleads guilty to the charge after it had been read and explained to him, the accused’s plea must be recorded and the accused may be convicted on it 
+
+If accused maintains a qualification of plea --> matter must go for trial
+- In practice, the qualification of plea usually arises (1) where the written mitigation plea expressly undermines a material element of the charge or (2) where the accused orally challenges the SOF after it is read out
+
+*Part 4: Prosecution will read Statement of Fact (SOF) to accused => Court will scrutinize SOF => Court will ask accused to confirm SOF 
+Prosecution will read SOF to accused 
+- SOF: Document that will be drafted and read by the prosecution after the accused pleads guilty without any qualification 
+
+Essential ingredients of SOF 
+- The accused need not admit to every single fact in the SOF, as long as what he does admit to contains all the essential ingredients of the offence and what he disputes is irrelevant or immaterial to the ingredients of the offence 
+--> i.e. if D disputes something which is material to an ingredient of the offence, then need to go to trial
+
+- Occasionally, there are peripheral facts which the accused cannot recall or confirm. It is acceptable for the accused not to admit to such peripheral facts as long as he does not qualify the plea. 
+
+- In practice, parties would have made reasonable attempts to iron out the facts between them before the guilty plea hearing
+
+Legal Duty on Court to record and scrutinize SOF 
+Biplob Hossain Younus Akan v PP 
+- There is no statutory duty for the SOF to be provided to the court – there is no reference to an “SOF” in the CPC, BUT
+- Established legal duty for parties to agree on an SOF and for Court to scrutinize the SOF to ensure that all elements of the charge have been made out 
+
+Steps taken by Court to scrutinize SOF
+- Court should scrutinize the SOF in the following steps: 
+1. To evaluate the SOF with fresh lenses and be satisfied that SOF sufficiently discloses the element of the charge 
+2. To take the contents of the SOF at face value and to be very slow in drawing any inferences to supply deficiencies in the SOF 
+3. To be alert to the situation where there is reason to doubt what is stated in the SOF (e.g. where there are internal inconsistencies in SOF) 
+4. If there are doubts as to the sufficiency of the SOF, court should decline to record the plea of guilt 
+5. To satisfy itself that an accused person understands the ingredients of the offense, especially one who is unrepresented
+
+Accused will have to confirm SOF 
+PP v Development 26 Pte Ltd
+- Accused’s guilty plea is an acceptance of only what is set out in the SOF and it cannot extend to additional facts or information outside of the SOF 
+- Accused need not admit to every single fact in the SOF as long as what he does admit to contains all the essential ingredients of the offence
+- If accused challenges any fact in the SOF => But the fact is immaterial or irrelevant to the offense => Court can still convict the accused without changing the SOF 
+
+No PG for offenses punishable with death 
+S227(3) of CPC
+- The General Division of the High Court must not record a plea of guilty in a case where the accused pleads guilty to an offence punishable with death unless evidence is led by the prosecution to prove its case at the trial
+
+If accused agree to PG but does not on that day, then commence trial
+If accused supposed to PG on certain day => But accused refuses to PG => Case will go to trial => Court will fix first date of CCDC
+S227(5) of CPC
+- Where:
+a. The criminal case disclosure procedures apply by virtue of section 159 in relation to a case;
+b. A date is fixed for a plea of guilty to be taken from the accused to whom the case relates; and
+c. On that date, the accused refuses to plead, does not plead or claims trial,
+the court may order the parties to the case to attend a criminal case disclosure conference for the purpose of settling the matters mentioned in section 160 and the procedures in Division 2 of Part 9 apply, with the necessary modifications, in relation to the case.
+
+*Part 5: Retraction of guilty plea (if any) 
+
+Retraction of guilty plea before sentence is passed / during sentencing hearing: Accused can qualify guilty plea during sentencing hearing 
+If accused raises any matter which affects validity of essential element of offense => Court MUST reject guilty plea => Court will revert matter back to trial => UNLESS D’s conduct is an abuse of process
+S228(4) CPC
+- Where the Court is satisfied that any matter raised in plea in mitigation materially affects any legal condition required by law to constitute the offense charged, the Court must reject the plea of guilty 
+
+PP v Dinesh s/o Rajantheran 
+- Court must consider whether the submissions in plea in mitigation have the effect of materially affecting the validity of any essential element of the offense (mens rea and actus reus)
+
+- Notwithstanding s228(4) CPC, the Court has inherent jurisdiction to ensure the observance of due process of law and if Court is satisfied that the accused’s conduct amounts to an abuse of process, Court will not be compelled to reject a qualified plea (i.e. can maintain guilty plea)
+
+Retraction of guilty plea after sentence is passed: Accused must file criminal revision 
+Md Rafiqul Islam Abdul Aziz v PP 
+- Court has powers of revision which can be invoked to remedy a serious injustice and can be used to permit accused to retract his guilty plea. Powers are to be exercised sparingly.
+
+- Before a court accepts a guilty plea, the court:
+a. Should be satisfied that it is D himself who wishes to plead guilty,
+b. Must ensure that D understands the true nature and consequences of his guilty plea, and
+c. Must establish that D intends to admit without qualification to the offence alleged against him
+
+- Accused must show valid and sufficient grounds which satisfy the Court that it is proper and in interests of justice to allow retraction: Court should permit accused to retract guilty plea if he is able to show “valid and sufficient grounds which satisfy the Court that it is proper and in the interests of justice that he should be allowed to do so”:
+a. Accused made guilty plea because of mistake or misunderstanding: Where accused pleaded guilty because there was a mistake or misunderstanding
+b. Accused’s guilty plea was involuntary and not a deliberate choice: Where accused did not make a voluntary and deliberate choice to plead guilty 
+
+- Combined purport of s227(2) and s228(4) CPC is that at all stages of the PG procedure, both when the plea is being taken and during mitigation (at sentencing), the court must be cautious to ensure D intends to unequivocally admit to the offence alleged against him without qualification, before convicting and sentencing him on the charge
+
+Link to threshold of “serious injustice” for filing criminal revision 
+When the accused files a criminal revision, the accused must show a possible existence of a serious injustice for GDHC to exercise revisionary powers (Yunani bin Abdul Hamid v PP). The “valid and sufficient” grounds standard in Md Rafiqul Islam Abdul Aziz v PP is consistent with the “serious injustice” standard espoused in Yunani bin Abdul Hamid v PP. 
+
+
+*Sentencing 
+*A. PROCEDURE FOR SENTENCING 
+
+*Part 1: Prosecution’s address on sentence
+Prosecution will address Court on sentence
+S228(1) of CPC 
+- On conviction of the accused, the prosecution may where it thinks fit address the Court on sentence 
+
+Contents of address on sentence may include 
+S228(2) of CPC
+- The address on sentence may include:
+a. Criminal records of the accused;
+b. Any victim impact statement; and
+c. Any relevant factors which may affect the sentence 
+
+Offender’s antecedents
+Definition of “criminal record”
+S2(1) of CPC
+- Criminal Record means the record of any:
+a. Conviction in any court, or subordinate military court established under s80 of Singapore Armed Forces Act 
+b. Order made under s34(2) of the Misuse of Drugs Act
+c. Supervision order made under s16 of Intoxicating Substances Act
+d. Order made under s30 of Criminal Law (Temporary Provisions) Act 
+e. Order as may be prescribed by the minister charged with the responsibility for home affairs to be a criminal record for the purposes of the code 
+
+Definition of “victim impact statement” 
+S228(7) of CPC
+- “victim impact statement” means any statement relating to any harm suffered by any person as a direct result of an offence, which includes physical bodily harm or psychological or psychiatric harm.
+
+
+Offenses that are compounded
+Offenses where the accused pays a sum of money without a record of a conviction => It can be used to show a pattern of repeating behavior 
+
+PP v Koh Thiam Huat 
+- Accused pleaded guilty and was convicted of one charge of dangerous driving under s64(1) of the Road Traffic Act 
+- Held:
+1. In sentencing, High Court took into account the accused’s relevant compounded traffic offences from 1999 to 2014
+2. Relevant compounded traffic offenses include speeding offenses, failure to conform to red light signal
+
+Allowing a court to take into account a compounded offence allows for a more holistic approach in sentencing – a court should have regard to all relevant factors in sentencing. This is hinted in s228(2)(c) CPC which provides that the PP’s address on sentence may include “any relevant factors which may affect the sentence”. Although this applies only to plead guilty proceedings, s230(1)(x) CPC makes it applicable to trial proceedings as well. Thus, the court must be allowed to take these same factors into account.
+
+Furthermore, the offence of dangerous driving is one that calls for both specific and general deterrence (D’Rozario Pancratius Joseph v PP). Allowing a court to take into account a compounded offence under the Road Traffic Act gives better effect to this need. Whether a traffic offence is compounded may ultimately depend on the prevailing prosecutorial policy of the day. But the need to deter bad driving remains regardless and is better given effect to when a court is allowed to take into account compounded offences.
+
+Absence of Prosecution address: No effect on ultimate sentence
+PP v Tan Fook Sum 
+- A sentence is awarded entirely within discretion of the Court
+- A Trial Judge cannot justify a sentence that is manifestly inadequate by pointing to the omission of the prosecution to press for a harder sentence => Absence of prosecution’s address would not justify a lower sentence  
+
+Prosecution allowed to change sentencing position after prosecution’s address but must explain 
+Janardana Jayasankarr v PP
+- Prosecution is allowed to change its view on sentencing taken initially in the prosecution’s address at any stage of the proceedings 
+- However, if prosecution changes its position in a material way, it should articulate and explain reasons for doing so 
+
+*Part 2: Defence counsel’s mitigation of sentence
+Defence counsel will address the Court on plea in mitigation  
+S228(3) of CPC
+- The court MUST then (after hearing the Prosecution’s address on sentence) hear any plea in mitigation of sentence by the accused and the prosecution has a right of reply
+* See section below on sentencing 
+
+Defense counsel’s duty to not make allegations intended to vilify, insult or annoy any person when making mitigation plea – Rule 14(7)
+Rule 14(7) of PCR
+- Where accused person has pleaded guilty and has been convicted, the legal practitioner representing the accused person, when presenting a plea in mitigation, must not make any allegation which is scandalous or is intended or calculated to vilify, insult or annoy any person 
+
+E.g. unacceptable to engage in victim blaming in matters involving sexual offences (GCM v PP)
+
+Retraction of guilty plea: If accused raises any matter which affects validity of essential element of offense => Court must reject guilty plea => Court will revert matter back to trial => Unless abuse of process
+S228(4) CPC
+- The plea in mitigation must NOT qualify the plea
+- Where the Court is satisfied that any matter raised in plea in mitigation materially affects any legal condition required by law to constitute the offense charged, the Court must reject the plea of guilty 
+
+PP v Dinesh s/o Rajantheran 
+- Court must consider whether the submissions in plea in mitigation have the effect of materially affecting the validity of any essential element of the offense (mens rea and actus reus)
+
+EXCEPTION: If accused’s conduct is an abuse of process, then the qualified plea is unaffected
+- Notwithstanding s228(4), the Court has inherent jurisdiction to ensure the observance of due process of law and if Court is satisfied that the accused’s conduct amounts to an abuse of process, Court will not be compelled to reject a qualified plea
+
+*Part 3: Newton Hearing (if necessary) (during sentencing stage + valid guilty plea)
+Context
+- If there is a dispute over a fact which affects sentencing, Court can hold a Newton Hearing 
+
+Matter will not proceed to this stage if the plea is qualified in any way (i.e. it will go to trial instead). A Newton Hearing relates to sentencing and is predicated on a valid guilty plea.
+
+Upon Court’s own motion or application of prosecution/defence counsel => Court can hold Newton Hearing to hear factual dispute which materially affects sentence 
+S228(5) CPC
+- After the Court has heard the plea in mitigation, it may:
+a. At its discretion or on the application of the prosecution or the accused, hear any evidence to determine the truth or otherwise of the matter raised before the Court which may materially affect the sentence; and
+b. Attach such weight to the matter raised as it considers appropriate after hearing the evidence 
+
+Situations where Court will hold Newton hearing 
+Ng Chun Hian v PP
+- Newton Hearing is conducted when a fact is contested, and that contested fact is material to sentencing 
+* e.g. Dispute on psychiatric evidence 
+- Newton Hearing is an exception (rather than the norm) that should only be held when necessary to resolve factual disputes: Newton Hearing is an exception rather than a norm and it should not be ordinarily convened unless Court is satisfied that it is necessary to do so in order to resolve a difficult question of fact that is material to the Court’s determination of the appropriate sentence 
+
+PP v Chan Yoke Ling Catherine (citation in slides is Ng Chun Hian v PP)
+- Court can decline to hear evidence from the accused if:
+a. The disputed fact would not materially affect sentencing; OR
+b. Accused’s case is absurd or obviously untenable: That case advanced by the accused is “absurd or obviously untenable” 
+
+Anita Damu v PP
+
+Burden of proof in Newton Hearing
+PP v Chan Yoke Ling Catherine 
+- Party who asserts a fact that is contested has the burden of proving that fact 
+- Disputed fact must be formally proved by the prosecution unless the defence’s version is “manifestly false” or “wholly implausible” 
+- Where party proves a fact => Opposing party can challenge the evidence in cross-examination or by calling its own evidence 
+
+Burden on prosecution to prove contested fact if:
+a. Facts very fundamental to prosecution’s case, AND
+b. Prosecution would nevertheless have had to prove in the event of a trial 
+
+Burden on defence counsel to prove contested fact if:
+a. Facts relating to an extraneous matter which the prosecution would not have to prove as part of its case, e.g. accused’s personal background as a mitigating factor,
+b. Facts which are within the knowledge of the accused (s108 of EA: If fact is especially within the knowledge of any person, burden of proving that fact is upon that person), OR
+c. Facts which the law prescribes that the burden of proof lies with the accused 
+
+Standard of proof in Newton Hearing 
+PP v Chan Yoke Ling Catherine 
+- Prosecution: Has to prove a contested fact beyond a reasonable doubt 
+- Cf Defence counsel: prove on a balance of probabilities  
+
+If Newton Hearing is held, the proceedings are akin to that of a trial process and the court will record evidence from witnesses.
+
+CA Guidelines for competing pieces of psychiatric evidence
+- Judge is entitled to choose one evidence over another but not entitled to substitute an evidence with his own opinion as the judge is not qualified.
+
+Example of Newton Hearing:
+- Assume D is charged with one count of theft in dwelling under s380 Penal Code for stealing alcohol from a supermarket. D has a very long history of property offences and faces a significant imprisonment for this sentence.
+- Instead of qualifying the guilty plea, D assets in mitigation that his sentence should be lower as he was suffering from depression that significantly lowered his self-control when he committed the offence. He relies on a report from a private psychiatrist.
+- PP tenders a report from IMH, stating that D was NOT suffering from any mental disorders at the time of the offence.
+- In this scenario, the court will likely have to convene a Newton Hearing as the disputed fact is material to sentencing. Note that D is NOT contesting MR or AR of his crime – he is not qualifying his guilty plea.
+
+*Part 4: Charges taken into consideration (TIC)
+Purpose of TIC Charges 
+Lim Hsien Hwei v PP
+- Purpose of TIC charges:
+1. Punish offences as aggravation 
+2. Save judicial time in determining the accused’s complicity in the offences in a full trial 
+- Accused can expect a more favourable overall sentence by admitting to an outstanding charge and consenting to it being taken into consideration for sentencing purposes rather than contesting that charge and subsequently being convicted of it
+
+Court’s power to TIC charges during sentencing 
+Accused admits to multiple offenses => Accused and PP agree that Accused will PG to one charge and TIC other charges => Court will convict Accused of one charge and TIC other charges in sentencing  
+S148(1) of CPC 
+- If the accused is found guilty of an offence in any criminal proceedings begun by or on behalf of the Public Prosecutor, the court in determining and passing sentence may, with the consent of the prosecution and the accused, take into consideration any other outstanding offences that the accused admits to have committed
+
+Procedure for Court to TIC charges 
+- Accused admits to committing Charge A, B, C and D, and accepts the SOF without qualification, for which the court convicts him
+- Accused and PP agrees that Accused will PG to Charge A and TIC Charge B, C and D
+- Accused will PG to Charge A and confirm SOF without qualification 
+- Court will convict Accused of Charge A and TIC Charge, B, C and D in sentencing 
+
+Effect of TIC Charges on sentencing
+Enhancement of sentence
+PP v Mok Ping Wuen Maurice 
+- Effect of TIC outstanding offences is to enhance the sentence of the original offense that would otherwise be awarded 
+- D merely admits to these offences and must not be convicted of them. In doing so, D saves the court time and trouble in determining his complicity in these offences. Ultimately it is the court’s discretion whether to consider the offence or not
+- NB: The court is more likely to increase the sentence(s) for the proceeded charge(s) (i.e. the main charge(s)) if TIC charge(s) is similar in nature
+
+Framework for TIC charges 
+Lim Hsien Hwei v PP
+- First, Court will hypothesize that the charges taken into consideration are proceeded with conviction and an overall sentence is imposed for both the convicted and charges taken into consideration 
+- Second, Court will measure the difference in severity between this overall sentence and the sentence imposed if only convicted charges were proceeded on 
+- Third, the difference in the sentences will be subjected to a discount and used as a starting point for the extent of enhancement for the sentence imposed for the final sentence
+
+Extent of enhancement: Form of enhancement can only be in respect of the form of punishments prescribed for under the TIC Charge (i.e. can only enhance in the nature of the punishment prescribed by the TIC charge)
+Lim Hsien Hwei v PP
+- When an outstanding offense is TIC for the purpose of enhancing the sentence for another offense which the accused had been convicted of => The enhancement could only be in respect of the forms of punishment which were prescribed for the offense that was taken into consideration 
+
+- Accused convicted of (1) Drink-Driving Offense and (2) Directional Offense was TIC-ed 
+- PP argued that TIC-ed Directional Offense would enhance the disqualification period imposed under Drink-Driving Offense 
+- Held: TIC-ed Directional Offense would increase the fine imposed under Drink-Driving Offense but not the disqualification period imposed 
+1. Directional Offense will lead to an enhanced sentence for Drink-Driving Offense 
+2. However, the enhancement of punishment must be restricted to the forms of punishment provided for under the Directional Offense i.e. either a fine or imprisonment 
+3. Disqualification Order is not a prescribed form of punishment for (2) Directional Offense => Hence, the TIC Directional Offense would not increase the length of disqualification period imposed for the Drink-Driving Offense 
+
+E.g. If accused charged with offense punishable by fine or imprisonment and TIC-ed charge only imprisonment => Judge must give imprisonment then enhance it 
+- If not: PP v UI: In the present case, the Judge appeared to have given insufficient weight to the Outstanding Offences. As the Judge ultimately imposed only the mandatory minimum sentence on the Respondent, ex facie, it was as though the latter had not committed the Outstanding Offences at all
+
+Status of TIC Charges 
+Accused cannot be charged and tried for offenses which have been TIC-ed => Unless original offense has been set aside 
+S148(5) CPC
+- After being sentenced, the accused may not, unless the accused’s conviction for the original offence under subsection (1) is set aside, be charged or tried for any offence that the court had taken into consideration under this section
+
+PP v Mok Ping Wuen Maurice
+- Accused is only taken to have admitted to the TIC offenses and is not taken as being convicted of the TIC offenses 
+
+When accused qualifies a TIC charge 
+- When accused qualifies a TIC charge => Court will revert matter back to trial to trial the TIC-ed charge => This is so as s148(1) of CPC implies that an offense will only be taken into consideration when the accused “admits to have committed” it 
+
+S148(1) of CPC 
+- If the accused is found guilty of an offence in any criminal proceedings begun by or on behalf of the Public Prosecutor, the court in determining and passing sentence may, with the consent of the prosecution and the accused, take into consideration any other outstanding offences that the accused admits to have committed
+
+*Part 5: Court pronouncement of sentence and consequential orders 
+Court can pronounce sentence immediately or on another day
+S228(6) of CPC 
+- Court must pass sentence according to law immediately or on such day as it thinks fit 
+* i.e. Court can either reserve judgement or adjourn the sentencing to a later date
+
+Types of sentences
+General sentencing options:
+- Imprisonment
+- Caning
+- Fines 
+- Probation
+
+Specific sentencing options:
+- Community sentences
+- Reformative training
+- Corrective training
+- Preventative detention
+- Disqualification from driving
+
+Timing – when do sentences take effect? 
+OPTION 1: Sentence of imprisonment / corrective training / preventative detention / reformative training usually takes effect on date it was passed => but Court has discretion to backdate or defer sentence
+S318 of CPC
+- Generally, a sentence of imprisonment/CD/PD takes effect on date it was passed => However, Court has discretion to defer or backdate the sentence 
+- Effect of backdating is to achieve a “discount” in the sentence (backdating does not mean there is an enhanced sentence); and typically the Court will use the date of arrest if the accused has been remanded since then --> i.e. D’s sentence in effect started earlier
+
+S318(1A) of CPC
+- Sentence of reformative training (RT) takes effect on the date it was passed or at such later date as the Court may determine 
+
+OPTION 2: Court has discretion to backdate commencement of sentence to previous date – effectively a discount in the sentence
+S318(3) CPC
+- Court may direct that sentence is to take effect on a date earlier than the date the sentence is passed 
+
+If the court refuses to backdate a sentence, it can in effect achieve an ENHANCED SENTENCE, since the previous time in remand would not be counted as part of the imprisonment sentence.
+
+Court’s MUST consider s318(5) considerations when directing effective date of sentence
+S318(5) CPC
+- Before directing the effective date of sentence, Court must consider all circumstances of the case including: 
+a. Arrest date: Date on which offender was arrested for offense 
+b. Period of custody prior to sentence: Length of period (if any) during which offender was remanded in custody in relation to offense 
+c. Period of remanding in psychiatric institution prior to sentence: Length of period (if any) during which the offender was remanded in a psychiatric institution (whether for observation or otherwise) under Division 5 of Part 13 in relation to the offense 
+d. Period of freedom prior to sentence: Length of period (if any), after the offender was arrested for the offense, during which the offender was not in custody 
+
+If offender remanded earlier in custody or psychiatric institution => Court can backdate 
+S318(4) CPC
+- Where an offender has been remanded in custody, or remanded in a psychiatric institution (whether for observation or otherwise) under Division 5 of Part 13, for an offence, a court must consider directing that a sentence of imprisonment, corrective training or preventive detention, which is to be imposed for that offence, is to take effect on a date earlier than the date the sentence is passed.
+
+If offender arrested and remained under remand till sentencing => Court can backdate to date of arrest
+Navaseelan Balasingam v PP
+- Sentence of imprisonment should be backdated to the date of the arrest 
+- Reason: Whether accused person was under arrest by police or under remand ordered by the Court, the fact is that the accused person is in custody and has lost his liberty 
+
+OPTION 3: Court has discretion to defer commencement of sentence to later date 
+S318(2) CPC
+- Where a Court has directed under s318(2) that a sentence of imprisonment, CT or PD is to take effect on a date later than the date the sentence was passed:
+a. Court may under s318(1), further direct that the sentence is to take effect on another date; AND 
+b. Court may release offender, during the period before the sentence is to take effect, on bail or on the offender’s personal bond 
+
+Court’s considerations when deferring start of sentence to later date 
+Loh Kok Siew v PP
+- Paramount consideration: Court’s paramount consideration will be the accused’s reasons for the postponement of sentence 
+- Other considerations: 
+a. Adjournments that have previously been granted to the accused
+b. Gravity of the offense
+c. Accused’s criminal record and the possibility of re-offending while at liberty
+d. Whether bail imposed will ensure attendance of accused in Court 
+- Balance: Court will have to weigh the reasonableness of accused’s requests against the justice of the case – discretion to postpone should be exercised judiciously and only where good reasons exist
+
+Burden on accused to satisfy the Court of reasons for deferment 
+Loh Kok Siew v PP
+- Burden is on accused to satisfy Court that the circumstances necessitate that Court defer the start of sentence to later date 
+
+Fines
+Quantum of fine 
+S319(1)(a) of CPC
+- Where any fine is imposed and there is no express provision in the law relating to the fine, the following apply: 
+If no maximum sum stated in law – Fine can be unlimited but not excessive: If the maximum sum is not stated in the law, the fine to which the offender is liable is unlimited but must not be excessive
+* High Court – No upper limit (s303 of CPC) 
+* District Court – Fine not exceeding $30k (s303 of CPC)
+* Magistrate Court – Fine not exceeding $10k (s303 of CPC)
+* NB: these limits apply PER CHARGE
+
+Possible Court orders before fine is paid in full
+S319(1)(b) of CPC
+- Court which imposed fine can choose to do any of the following at any time before the fine is paid in full: 
+(i) Extend time for payment of fine: Allow and extend time for payment of fine 
+(ii) Pay fine by instalments: Direct that the fine be paid by instalments 
+(iii) Use accused’s property as security: Order the attachment of any property, movable or immovable, belonging to the offender
+(A) By seizure of such property which may be sold and the proceeds applied towards the payment of the fine; OR 
+(B) By appointing a receiver who is to be at liberty to take possession of and sell such property and apply the proceeds towards the payment of the fine 
+(iv) Garnishing: Direct any person who owes money to the offender to pay the Court the amount of that debt due or accruing or the amount that is sufficient to pay off the fine
+(v) Order imprisonment in default of payment of fine: Direct that in default of payment of fine, offender must suffer imprisonment for a certain term which must be consecutive (cf concurrent) with any other imprisonment to which the offender may be sentenced including any other imprisonment term or terms imposed on the offender under this section in default of payment of fine or to which the offender maybe liable under a commutation of a sentence
+(vi) Search the accused and use any money found to satisfy fine: Direct that the person be searched and that any money found on the person when so searched or which, in the event of his being committed, maybe found on him when taken to prison, is to be applied towards the payment of the fine, and the surplus being returned to him; provided that the money must not be so applied if the court is satisfied that the money does not belong to the person on whom it was found 
+a. Require offender execute bond before (b)(i) and (b)(ii): Before allowing time for payment under para (b)(i) or directing payment by instalments under para (b)(ii), court may require offender to execute a bond with or without sureties on condition that the offender pay the fine or instalments on the day or days directed; Warrant of arrest when breach (b)(i) and (b)(ii): and if fine or any instalment is not paid as ordered, then the whole of the fine remaining unpaid becomes due and payable and Court may issue a warrant for the offender’s arrest 
+b. Imprisonment term in default of payment (b)(v): Imprisonment term for which Court directs offender to be imprisoned in default of payment of a fine is as follows:
+(i) If offense ordinarily punishable with imprisonment of 24 months or more, the term imposed now must not exceed half of the maximum term of imprisonment fixed for the offense 
+(ii) If offense ordinarily punishable with imprisonment of less than 24 months, the term imposed now must not exceed one third of the maximum term of imprisonment fixed for the offense 
+(iii) If offense not ordinarily punishable with imprisonment, the term imposed now must be 6 months or less […]
+
+Court Order: Withdraw outstanding charges 
+If multiple charges made against accused => Accused convicted of some => Prosecution can apply to Court to withdraw remaining charges 
+S147(1) of CPC
+- Where 2 or more charges are made against same person and the person has been convicted on one or more of them, the prosecution may, with consent of the Court, withdraw the remaining charge or any of the remaining charges 
+
+Effect of withdrawal of remaining charges: Acquittal unless original conviction set aside 
+S147(2) CPC
+- The withdrawal has the effect of an acquittal on the remaining charge or charges withdrawn unless the conviction of the initial charge(s) are set aside 
+
+If original conviction set aside => Court can proceed to trial the previously withdrawn charges
+S147(3) CPC
+- Where conviction of the initial 2 or more charges are set aside under s147(2), Court may proceed with the trial of the remaining charge or charges previously withdrawn
+
+Court order: Disposal of property
+Court can order disposal of any property produced before it 
+S364(1) of CPC
+- During or at conclusion of any trial, Court may make an order as it thinks fit for the disposal of any property produced before it 
+
+Court can order disposal of certain types of property
+S364(2) of CPC
+- Subject to any provisions on forfeiture, confiscation, destruction or delivery in any other written law under which property may be seized, a Court may, during or at the conclusion of any criminal proceeding under the CPC, make an order as it thinks fit for the disposal of any property:
+a. Property, which is subject of offense, used or intended to be used to commit offense, evidence of offense: In respect of which an offense is or was alleged to have been committed or which has been used or is intended to have been used for the commission of any offense or which constitutes evidence of an offense; and 
+b. Property, which is in Court or police custody: Which is produced before the Court or is in the Court’s custody or the custody of a police officer or any other person who has seized the property pursuant to any law 
+
+Court cannot make disposal order if case can be appealed 
+S364(3) of CPC
+- If order is made under s364 in a case in which an appeal lies, the order must not be carried out until the period allowed for the appeal has lapsed or the appeal has been dealt with 
+
+Note: 
+- Disposal orders available to court: Forfeiture, confiscation, destruction, delivery to any person 
+- Disposal inquiry will be conducted if there are competing claims to ownership of the property 
+
+Definition of property 
+S364(4) of CPC
+- “property” includes:
+* Not only property that was originally in the possession or under the control of a party to the case; but also
+* Property into or for which it has been converted or exchanged and anything acquired by this conversion or exchange, whether immediately or later 
+
+
+*B. SENTENCING PHILOSOPHY AND PRINCIPLES 
+Sentencing only takes place if there is a conviction (including a successful appeal by PP against D’s acquittal)
+
+Generally not much controversy for conventional sentences
+- Court will have regard to (1) prescribed punishment for the offence and (2) any sentencing guideline judgments or norms
+- 3 main contested areas are
+o Consecutive and concurrent sentencing (imprisonment terms for multiple charges)
+o Sentencing for youthful offenders
+o Community based sentences (s 335 to 354 CPC)
+
+Principle 1: Sentencing is not a science and opinions can sometimes diverge 
+ADF v PP
+- Views on sentencing in difficult cases widely diverge 
+- Serious difference of views in difficult matters of sentencing cannot be said to be not well-considered even if the submissions are widely off the mark 
+
+Lee Shing Chan v PP
+- A more holistic approach is preferred when compared to merely analogizing from precedent 
+
+Principle 2: Public interest and the 4 pillars of sentencing 
+Angliss Singapore Pte Ltd v PP
+- Public interest is an all-embracing reference to the conventional sentencing considerations of retribution, deterrence rehabilitation and prevention 
+- Public interest is not an autonomous or distinct sentencing principle 
+
+Pillar 1: Retribution – punishment must reflect gravity of offence
+PP v Tan Fook Sum 
+- Retributive principle: Offender must pay for what he has done and punishment restores the just order of society which has been disrupted by his crime. The punishment must reflect and befit the seriousness of the crime 
+
+Pillar 2: Deterrence – general and specific
+PP v Law Aik Meng
+- General deterrence: Aims to educate and deter other like-minded members of the general public by making an example of a particular offender 
+=> Favoured where offense is getting more prevalent or where harm occasioned is particularly significant 
+
+PP v Logmanul Hakim bin Buang
+- Specific deterrence: Aims to persuade the accused to refrain from further unlawful conduct. If sufficient degree of unpleasantness and distress is visited on an accused through the imposed sanction, he will take steps to desist from crime in the future to avoid the distress and ignominy of further punishment in the future 
+
+Pillar 3: Prevention i.e. Incapacitation 
+- Underpins Preventative Detention 
+- If offender has proven his history of criminal behaviour to be a menace to the society => He should and must be put away for the protection and safety of the community at large 
+
+Pillar 4: Rehabilitation – reform 
+PP v Mohammad Al-Ansari Bin 
+- Greatest public interest is for a young offender to become a good citizen => Court has difficult task of determining what treatment gives the best chance of realizing the object of rehabilitation 
+
+Sentencing often entails identifying the most relevant principle and proceeding from there. There can be competing considerations (e.g. deterrence vs rehabilitation) when it comes to youthful offenders.
+
+Principle 3: Deterrent sentences and its relationship to custodial terms 
+PP v Nelson Jeyaraj s/o Chandran
+- Held: Court disagreed with District Court’s decision to impose a lighter sentence on each individual harassment by fire charge on the basis of totality principle
+1. Parliament’s intention in enacting current Moneylenders Act is to provide harsher penalties as a deterrence against such offenses 
+2. Deterrence is required as there is evidence that previous penalties were not sufficient in effectively reducing such crimes 
+
+Principle 4: Protection of the public 
+Tan Ngin Hai v PP
+- There is no rule that protection of the public necessarily refers to protecting them only from physical bodily harm => No implication that preventive detention ought to only be restricted to persons with a history of violent behaviour 
+- Test for preventive detention: Whether or not the degree of propensity towards any type of criminal activity at all is such that the offender ought to be taken out of circulation altogether in order that he not be afforded even the slightest opportunity to give sway to criminal tendencies 
+
+Principle 5: Need for articulation of reasons for deterrent sentences
+Tan Kay Beng v PP
+- Deterrence should not be invoked arbitrarily to depart from existing sentencing guidelines
+- Deterrence must be assessed and measured in the context of the particular factual matrix before Court decides exactly how and to what extent deterrence should figure in the equation 
+
+*Maximum Sentence
+- May be imposed even in plead guilty cases
+- Court has to identify a range of conduct characteristic of the most serious instances of the offence in question and consider the nature of the offence:
+o Aggravating features
+o Personal circumstances of the offender, e.g. previous similar convictions?
+
+Angliss Singapore Pte Ltd v PP
+- Maximum sentence should only be imposed for the worst type of cases falling within that prohibition/offense --> must be demonstrated by PP
+- There must be a sense that the sentence is proportionate not only to the culpability of the offender, but also in the context of the legislative scheme
+
+C. *ONE TRANSACTION AND TOTALITY PRINCIPLES
+Statutory framework for Concurrent/Consecutive sentences
+Note: fines cannot run “concurrently” --> they aggregate and stack up 
+
+Power of Court to order concurrent/consecutive sentences
+S306(1) CPC
+- Where a person is convicted at one trial of any 2 or more distinct offences, the Court must sentence the person for those offences to the punishments that it is competent to impose
+
+S306(2) CPC
+- Subject to s307 and s306(4), where these punishments consist of imprisonment, they are to run consecutively in the order that the Court directs, OR they may run concurrently if the Court so directs 
+
+Restrictions on Court’s power to order consecutive sentences
+S306(4) CPC
+- A Magistrate’s Court or District Court may not impose a total term of imprisonment that exceeds twice that which such Court is competent to impose under s303 CPC
+* MC cannot impose consecutive sentence total more than 6 years (since MC only empowered to sentence of max 3 years imprisonment for one offence)
+* DC cannot impose consecutive sentence total more than 20 years (since DC only empowered to sentence of max 3 years imprisonment for one offence)
+
+Restrictions on Court’s power to order concurrent sentences: if person is sentenced to imprisonment for at least 3 distinct offenses => At least 2 must run consecutively
+S307(1) CPC
+- If at one trial a person is convicted and sentenced to imprisonment (must be imprisonment) for at least 3 distinct offences => The Court before which the person is convicted must order the sentences for *at least 2 of those offences to run consecutively 
+- NB: the 3 offences must all have imprisonment terms, so this provision does NOT apply if its 2 imprisonment sentences and 1 fine
+
+Issue: Whether sentences should run concurrently or consecutively for an offender convicted of multiple offenses 
+Step 1: One Transaction Principle for multiple offenses => Determine if any sentences should run concurrently 
+PP v Raveen Balakrishnan
+General rule for ONE TRANSACTION PRINCIPLE: If multiple offenses form a single transaction --> all sentences in respect of those offences should run concurrently (parallel at the same time). 
+
+If the offences are unrelated, then offenses will run consecutively. 
+- Custodial sentences for unrelated offences (distinct offences committed on separate occasions) must run consecutively (one after another)
+
+The one-transaction rule serves as a “filter” for the court to ensure that sentences run concurrently when consecutive sentences are NOT appropriate (Mohamed Shouffee bin Adam). The general rule in Raveen Balakrishnan ensures that the deterrent effect of sentencing is not lost and avoids the appearance that one can get a bulk discount for multiple offending acts.
+
+Reason why offender who has committed unrelated offenses should serve sentences consecutively
+PP v Raveen Balakrishnan
+- Offender who has committed various unrelated offences should be separately punished for each offence and this should be achieved by an order that the individual sentences run consecutively 
+- Reason: 
+a. Offender who has committed multiple offences bears greater culpability as he has caused more harm than an offender who has committed one offence 
+b. Concurrent sentencing would not serve the sentencing considerations that underlie the individual sentences comprising the aggregate term 
+c. Concurrent sentencing would mean that the multiple offences are not vindicated in law 
+
+2-part test to determine if multiple offenses form a single transaction 
+Mohamed Shouffee bin Adam v PP
+Part 1: Proximity test as preliminary threshold
+- Proximity test in PP v Law Aik Meng is a preliminary threshold as to whether multiple offences should be seen as part of a single transaction:
+a. Proximity in time
+b. Proximity in place
+c. Continuity in action 
+d. Continuity in purpose 
+- Lack of proximity would rule out the operation of one-transaction rule but converse is not determinative (i.e. just because it is proximate does not mean it is one transaction)
+- E.g. serial burglar breaks into 2 homes with the second break-in occurring 3 months after the first => No proximity => No one-transaction rule 
+
+Part 2: Whether the multiple offenses violate the same legally protected interest (same legal interest)
+- The “real basis” of the one-transaction rule is *whether D’s offending acts offend the same legal interest
+- E.g. Rapist who rapes unconscious victim and takes her purse => Both offences are proximate as they are committed simultaneously => But they are not one-transaction because they violate different legally protected interests – one is a sexual offence and one is a property offence (Shouffee at [31])
+
+PP v Law Aik Meng – Preliminary threshold 
+- Two or more offences form part of a single transaction when: 
+* The offences involve a repetition of the same behaviour towards the same victim committed within a relatively short space of time 
+
+Common sense is also an important final determinant in whether it should be concurrent/consecutive
+
+Step 2: Look at whether breach s307(1) of CPC
+Restrictions on Court’s power to order concurrent sentences
+If person is sentenced to imprisonment for at least 3 distinct offenses => At least 2 must run consecutively
+S307(1) CPC
+- If at one trial a person is convicted and sentenced to imprisonment for at least 3 distinct offences => The Court before which the person is convicted must order the sentences for at least 2 of those offences to run consecutively 
+
+Step 3: Look at whether breach s306(4) of CPC 
+Restrictions on Court’s power to order consecutive sentences
+S306(4) CPC
+- A MC or DC may not impose a total term of imprisonment that exceeds twice that which such Court is competent to impose under s303
+* MC cannot impose consecutive sentence total more than 6 years
+* DC cannot impose consecutive sentence total more than 20 years 
+
+Step 4: Apply totality principle – an expansion of the one-transaction principle
+Under this principle, the sentencing court would take into account all sorts of overlapping factors that might in some cases, render the overall punishment HARSHER than the offender deserves. These principles are applied as part of the court’s sentencing discretion and are important considerations although they are not mandatory rules (PP v McCrea Michael)
+
+PP v Raveen Balakrishnan
+General rule: After imposing a sentence, the Court should take a final look at the facts and circumstances to ensure that the aggregate sentence is sufficient and proportionate to the offender’s overall criminality
+
+The **total sentence imposed should NOT be a crushing sentence not in keeping with D’s records and prospects. 
+
+E.g. D is convicted of 8 counts of snatch theft under s356 Penal Code (which carries a minimum sentence of 1 year imprisonment per charge), does this mean there would be 8 consecutive sentences of 1 year each? UNLIKELY NOT.
+
+HOWEVER, the *totality principle is still subject to s 307(1) CPC (see restrictions above) – i.e. if at least 3 distinct imprisonment sentences for offences, at least 2 MUST run consecutively. So in the example above, D would be minimally imprisoned for at least 2 years (2 running consecutively, but other 6 running concurrently)
+
+HOWEVER, the totality principle MUST NOT be used to minimise punishment when the facts merit sufficiently severe punishments being meted out – especially against offenders who “maliciously pursue a deliberate course of criminal behaviour” (ADF v PP)
+
+2-part test under totality principle
+Part 1: Whether total sentence is substantially above normal level of sentences for most serious offense 
+- Court should examine whether the aggregate sentence is substantially above the normal level of sentences for the most serious of the individual offences committed 
+
+Part 2: Whether total sentence is crushing on the offender considering his past record and future prospects
+- Court should examine the effect of the aggregate sentence on the offender is crushing and not in keeping with his past record and future prospects 
+- => If the aggregate sentence is considered excessive, the Court may opt for a different combination of sentences to run consecutively or adjust the individual sentences 
+
+
+*Procedure at Trial (if D did not plead guilty)
+Part 12 CPC
+
+*PROSECUTION’S CASE
+Step 1: Charge read to accused  
+S230(1)(a) of CPC
+- At the commencement of the trial, the charge must be read and explained to the accused and the accused’s plea taken
+
+Step 2: Accused’s plea is taken 
+Guilty plea => Move to guilty plea section (above)
+S230(1)(b) of CPC
+- If the accused pleads guilty to the charge, the court must follow the procedure set out in Division 3 of Part 11
+
+No guilty plea i.e. refuse to plead, does not plead, claims trial => Proceed to Step 3
+S230(1)(c) of CPC
+- If the accused refuses to plead or does not plead or claims trial, the court must proceed to hear the case;
+
+Step 3: Prosecution’s opening address 
+Contents of Prosecution’s opening address
+S230(1)(d) of CPC
+- The prosecutor may open the prosecutor’s case and: 
+* State shortly the nature of the offence with which the accused is charged and 
+* The evidence by which the prosecutor proposes to prove the guilt of the accused;
+
+Step 4: Prosecution’s Examination-in-chief (EIC) of Prosecution’s witness
+S230(1)(e) of CPC
+- The prosecutor must then examine the prosecutor’s witnesses (if any) and each of them may in turn be cross?examined by the accused and every co?accused, after which the prosecutor may re?examine them;
+
+When Prosecutor uses Qualified Persons’ report (e.g. HSA report) as evidence => QP need not be called as witness => Unless Court or opposing parties so require 
+S263(1) of CPC
+- Documents presented as the report of a Qualified Person concerning a matter or thing duly submitted to the Qualified Person for examination, analysis or report may be used as evidence in any criminal proceeding and the Qualified Person need not be called as a witness 
+- Unless: The Court or any of the parties requires that person to be examined orally or cross-examined on the report 
+
+Definition of “qualified persons”
+S263(4) CPC
+- Qualified Person means a person specified by the Minister by notification in the Gazette for the purposes of this section 
+- E.g. Health Sciences Authority 
+
+Step 5: Defense cross-examines Prosecution’s witness
+S230(1)(e) of CPC
+- The prosecutor must then examine the prosecutor’s witnesses (if any) and each of them may in turn be cross?examined by the accused and every co?accused, after which the prosecutor may re?examine them;
+
+Step 6: Prosecution re-examines Prosecution’s witness
+S230(1)(e) of CPC
+- The prosecutor must then examine the prosecutor’s witnesses (if any) and each of them may in turn be cross?examined by the accused and every co?accused, after which the prosecutor may re?examine them;
+
+Re-examination must be directed at only matters referred to in cross-examination by Defence
+S140(3) of Evidence Act 
+- Re-examination is to be directed to the explanation of matters referred to in cross-examination 
+
+If re-examination introduces new matters => Opposing party may further cross-examine on new matters
+S140(3) of Evidence Act 
+- If new matter is by permission of the Court, introduced in re-examination, the adverse party (defense) may further cross-examine upon that matter 
+
+No particular number of witness is required for proof of any fact 
+S136 of Evidence Act
+- No particular number of witnesses is in any case required for the proof of any fact  
+
+After proving its case, the PP can offer its remaining witnesses to the Defence.
+
+Court may draw adverse inference when a material witness is not called 
+If Prosecution does not call material witness => Court MAY presume that material witness evidence is unfavourable to Prosecution => Unless PP has good reason to not call witness
+Illustration (g) of s116 of Evidence Act 
+- Court may presume that evidence which could be and is not produced would, if produced, be unfavourable to the person who withholds it (e.g. adverse inference against PP)
+
+Muhammad Nabill bin Mohd Fuad v PP
+- PP had no duty to call material witness => However, Court might be entitled to draw adverse inference that the evidence of that material witness would have been unfavourable to the PP => Unless PP was able to satisfy the Court that it had good reason not to call that witness 
+
+However: Illustration (g) of s116 does not impose upon Court a mandatory presumption 
+=> Court will consider the materiality of the witness in deciding whether to draw adverse inference 
+
+No presumption against PP if: 
+(1) witnesses were not material or indispensable (i.e. they were dispensable) and 
+(2)PP’s case is sufficiently proved by other independent evidence and failure to call left no gaps in PP’s case 
+Satli bin Masot v PP noting Lau Song Seng v PP
+- Illustration (g) of s116 does not impose upon Court a mandatory presumption. Court has discretion whether to draw a presumption based on all the circumstances and importantly the materiality of the witness not produced 
+- Court has declined to draw adverse inference against PP’s failure to call material witness where PP’s case has been sufficiently proved by other independent evidence and the failure to call the particular witness left no gaps in the PP’s case 
+- Appellants were charged for criminal conspiracy to traffic drugs => Court drew adverse inference against PP for failing to call “Ah Heng” on the basis that any direct evidence of conspiracy would only be known to “Ah Heng” 
+
+On the other hand, if a witness was (1) readily available to testify and (2) a central figure in a party’s case theory, then it would be incumbent on the said party to call him (Beh Chew Boo v PP).
+
+Principle 1: Identifying a material witness 
+Beh Chew Boo v PP
+- Lew was a material witness in Prosecution’s case theory: 
+a. Prosecution’s case theory was that the accused – Beh was working for and under the direction of Lew 
+b. Lew’s DNA was found on the drug bundles which suggests that Lew packed the drugs 
+c. The motorcycle where drugs were found belonged to Lew 
+- Lew was also readily available to testify as he was in prison 
+
+Principle 2: It is irrelevant that material witness would not advance prosecution’s case 
+Beh Chew Boo v PP
+- Breached duty to call Lew who was a material witness 
+- Even though Lew’s evidence would not advance PP’s case, PP is duty bound to serve the public interest by assisting the Court to establish the truth and this would include putting forth relevant evidence where Lew was readily available and his denial of involvement in or knowledge about the drug bundles could be refuted immediately by the objective evidence of the presence of his DNA in them 
+
+Principle 3: It is irrelevant that Defense declined to call the material witness 
+Beh Chew Boo v PP
+- Even though defense ultimately declined to call Lew at the conclusion of Beh’s testimony in Court, the PP should have applied to re-open the PP’s case and call Lew to testify
+
+Facts
+- Case was a criminal drug matter involving Beh. PP’s case theory was that Beh was working for and under the direction of Lew. 
+- PP had evidence of Lew’s DNA on the drug bundles which suggests that Lew had packed the drugs 
+- PP also had evidence that the motorcycle where the drugs were found belonged to Lew 
+- PP had failed to call Lew as a witness even though Lew was in prison when Beh’s trial was taking place 
+
+Held: PP failed in their duty to call Lew to testify 
+1. Lew was a material witness to PP’s case: PP had no duty to locate and to call all witnesses to rebut wild or unsubstantiated allegations but the situation here concerned a witness: 
+* Who was readily available to testify and 
+* Who was linked inextricably to the drug bundles and who featured as a central figure in the PP’s case theory
+2. Does not matter that Lew would not advance PP’s case: Even though Lew’s evidence would not advance PP’s case, PP is duty bound to serve the public interest by assisting the Court to establish the truth and this would include putting forth relevant evidence where Lew was readily available and his denial of involvement in or knowledge about the drug bundles could be refuted immediately by the objective evidence of the presence of his DNA in them 
+3. Does not matter that defense rejected offer to call Lew as witness: Even though defense ultimately declined to call Lew at the conclusion of Beh’s testimony in Court, the PP should have applied to re-open the PP’s case and call Lew to testify 
+
+Step 7: Close of Prosecution’s case and Defense’s Submission of No Case to Answer (see Step 8 for continuation)
+After close of Prosecution’s Case => Defense can invite Court to dismiss the case based on the ground that there is no case to answer => Prosecution can reply 
+S230(1)(f) CPC
+- After the prosecutor has concluded the prosecutor’s case, the defence may invite the court to dismiss the case on the ground that there is no case to answer and the prosecutor may reply to the submission;
+- Very low threshold at this point (prima facie case is sufficient)
+
+Submission of No Case to Answer usually appropriate: 
+a. Prosecution’s chain of evidence is inherently incredible (i.e. not plausible)
+b. There is no evidence for a particular element of offense
+
+Ong Lee Koon v PP
+- Submission of No Case to Answer should only be made by the Defense where the chain of evidence is so inherently incredible that notwithstanding the other evidence before the Court, there ought to be an acquittal then and there 
+- Submission of no case to answer should not be made just for the sake of it
+
+Step 8: Court must apply test of prima facie case to Prosecution’s case (Continuation from Step 7)
+If prima facie test passes, i.e. there is prima facie case against D => Court must call on accused to give defense => Move to Case for Defense section
+S230(1)(j) of CPC
+- If after considering the evidence referred to in paragraph (e), the court is of the view that there is some evidence which is not inherently incredible and which satisfies each and every element of the charge as framed by the prosecutor or as altered or framed by the court, the court must call on the accused to give the accused’s defence; 
+--> if prima facie, there is evidence which is not inherently incredible and satisfies every element of the charge, then can proceed to case for defence
+
+If prima facie test fails, i.e. no prima facie case against D => Court must order discharge amounting to an acquittal 
+S230(1)(k)
+- The court must order a discharge amounting to an acquittal if it is of the view that there is no such evidence as referred to in paragraph (j); 
+--> if prima facie, evidence is inherently incredible or if there is no evidence of a particular element of the charge, then ACQUITTAL
+
+Test of prima facie case (no need for BRD) 
+Haw Tua Tau v PP
+- Test: **Whether there was some evidence (that is not inherently incredible and which if he were to accept as accurate) that would establish each essential element in the illegal offense --> if evidence is plausible then move on to Case for Defence
+- Court is not required to decide at this stage whether the evidence adduced by the prosecution satisfied it beyond a reasonable doubt that the accused is guilty 
+ 
+PP v Wong Wee Keong
+Guiding propositions at the close of PP’s case:
+a) All evidence of primary fact should be accepted as being true UNLESS it is so inherently incredible that no reasonable person would be able to accept it as being true or if it has been discredited or shown to be wholly unreliable
+b) Inferences may be drawn by only if they are reasonable
+c) The totality of evidence has to be considered
+
+Where evidence at close of Prosecution’s case makes out a different charge 
+Court can alter/amend the charge or frame a new charge
+S230(1)(g) CPC
+- The court may alter the charge or frame a new charge before calling on the accused to give the accused’s defence and if the court does so, the court must follow the procedure set out in sections 128 to 131;
+
+Court not obliged to search the law for offenses which the accused may have committed 
+PP v Tan Khee Wan Iris 
+- Trial Court is not obliged to “search the law for offenses which an accused person may have committed” 
+- However, Trial Court can and ought to exercise its discretion to amend the charge if the evidence points obviously to another offense 
+
+Procedure for alteration of charge or framing of new charge
+- S128: Court’s power to alter charge or frame new charge
+- S129: Court must assess when the new trial for the new charge should be proceeded with
+- S130: If the altered charge or new charge requires Prosecution’s consent under s10(1) then the trial must not proceed until Prosecution grants consent 
+- S131: Prosecution and Defense can apply to Court to recall or re-summon and examine any witness who may have already been examined, but this time with reference to the new charge.
+=> Court shall not allow application if it is frivolous or vexatious or is meant to cause delay or to frustrate justice 
+
+If accused pleads guilty to altered or new charge => Move to guilty plea section 
+S230(1)(h) CPC
+- If the accused pleads guilty to this altered or new charge, the court must follow the procedure set out in Division 3 of Part 11;
+
+If accused pleads not guilty => Continue to Step 9: Case for Defense 
+S230(1)(i) CPC
+- If the accused refuses to plead or does not plead or claims trial to the altered or new charge, the court must proceed in accordance with the procedure set out hereinafter;
+
+Court is free to grant discharge amounting to an acquittal at any stage of proceedings
+S230(1)(l) CPC
+- Nothing in paragraphs (j) and (k) prevents any court from acquitting the accused at any previous stage of the case if, for reasons to be recorded by the court, it considers the charge to be groundless;
+
+Note: 
+- Court does not have to wait for Prosecution to conclude Prosecution’s case before granting the accused discharge amounting to an acquittal 
+
+*DEFENCE’S CASE
+Step 9: Court must ask accused to elect whether he wishes to give own evidence before proceeding to Case for Defense 
+Court must ask accused if he wishes to give evidence and warn the accused of the consequences if accused does not wish to give evidence => If accused elects not to give evidence, the Court may draw adverse inference against accused 
+S230(1)(m) CPC
+- Before the accused calls any evidence in the accused’s defence, the court must inform the accused that:
+* The accused will be called upon by the court to give evidence in the accused’s own defence and 
+* What the effect will be if, when so called on, the accused refuses to give evidence on oath or affirmation; and
+* The court may inform the accused in the following terms:
+
+“I find that the prosecution has made out a case against you on the charge(s) on which you are being tried. There is some evidence, not inherently incredible, that satisfies each and every element of the charge(s). Accordingly, I call upon you to give evidence in your own defence.
+
+You have 2 courses open to you. 
+
+First, if you elect to give evidence you must give it from the witness box, on oath or affirmation, and be liable to cross?examination. 
+
+Second, if you elect not to give evidence in the witness box, that is to say, remain silent, then I must tell you that the court in deciding whether you are guilty or not, may draw such inferences as appear proper from your refusal to give evidence, including inferences that may be adverse to you.
+
+Let me also say, whichever course you take, it is open to you to call other evidence in your own defence. You may confer with your counsel on the course you wish to take.
+
+I now call upon you to give evidence in your own defence. How do you elect?”
+
+S230(1)(n) CPC
+- After the court has called upon the accused to give the accused’s defence, the accused may
+(i) Plead guilty to the charge, in which event the court must follow the procedure set out in Division 3 of Part 11; or
+(ii) Choose to give the accused’s defence;
+
+Practically: If accused gives inconsistent and unreliable evidence, Defense might not want accused to give evidence and testify. Defense can still call other witnesses to attack the Prosecution’s case 
+- Defense has to decide whether he wishes for accused to give evidence and testify 
+- If accused decides not to give evidence and testify => Court can draw adverse inferences from accused’s refusal but Defense can still call other witnesses to attack the Prosecution’s case 
+=> If accused gives inconsistent and unreliable evidence, defence might not want accused to give evidence and testify 
+
+If the accused is giving evidence in his own defence, he must give it on oath or affirmation and be liable to cross-examination (s291(1) CPC). D’s evidence will be heard first before other Defence witnesses, if any.
+
+Step 10: Defense’s opening address 
+Contents of Defense’s opening address
+S230(1)(o) CPC
+- When the accused is called on to begin the accused’s defence, the accused may, before producing the accused’s evidence, open the accused’s case by stating the facts or law on which the accused intends to rely and make such comments as the accused thinks necessary on the evidence for the prosecution;
+
+Step 11: Assuming that accused elects to give own evidence and testify => (1) Defense’s EIC of accused => (2) Co-accused (if any) cross-examines accused => (3) Prosecution cross-examines accused => (4) Defense re-examines accused 
+S230(1)(p) CPC
+- If the accused is giving evidence in the accused’s own defence, the evidence must be taken in the following order:
+(i) The accused must give evidence and then be cross?examined first by the other co?accused (if any) and then by the prosecutor after which the accused may be re?examined;
+(ii) Any witness for the defence of the accused must give evidence and they may in turn be cross?examined first by the other co?accused (if any) and then by the prosecutor after which the witness may be re?examined;
+(iii) Where there are other co?accused persons, they and their witnesses must then give evidence and be cross?examined and re?examined in like order;
+
+Defense can apply for Court to compel attendance of any witness 
+Note: If not in Case for Defence then must serve notice – See s231 
+
+Defense has to apply to Court 
+S230(1)(q) CPC
+- An accused may apply to the court to issue process for compelling the attendance of any witness for the purpose of examination or cross?examination or to produce any exhibit in court, whether or not the witness has previously been examined in the case;
+
+Court should grant application unless it is frivolous or vexatious or delays justice 
+S230(1)(r) CPC
+- The court must issue process unless it considers that the application made under paragraph (q) should be refused because it is frivolous or vexatious or made to delay or frustrate justice and in such a case the court must record the reasons for the order;
+
+Court may require defense to deposit compelled witness’s reasonable expenses 
+S230(1)(s) CPC
+- Before summoning any witness pursuant to an application under paragraph (q), the court may require that the witness’s reasonable expenses incurred in attending the trial be deposited in court by the defence;
+
+Step 13: Co-accused and co-accused witnesses must give evidence and be cross-examined and re-examined in the same order 
+S230(1)(p) CPC
+- If the accused is giving evidence in the accused’s own defence, the evidence must be taken in the following order:
+(i) The accused must give evidence and then be cross?examined first by the other co?accused (if any) and then by the prosecutor after which the accused may be re?examined;
+(ii) Any witness for the defence of the accused must give evidence and they may in turn be cross?examined first by the other co?accused (if any) and then by the prosecutor after which the witness may be re?examined;
+(iii) Where there are other co?accused persons, they and their witnesses must then give evidence and be cross?examined and re?examined in like order;
+
+Note: Assuming there is co-accused and co-accused’s witnesses 
+- Co-accused counsel EIC co-accused 
+- => Defense (i.e. primary D) cross-examines co-accused 
+- => Prosecution cross-examines co-accused 
+- => Co-accused counsel re-examines co-accused 
+- => Co-accused counsel EIC co-accused’s witnesses 
+- => Defense (i.e. primary D) cross-examines co-accused’s witnesses 
+- => Prosecution cross-examines co-accused’s witnesses 
+- => Co-accused council re-examines co-accused’s witnesses
+
+Step 14: At Close of Defense’s case, Prosecution has right to recall Prosecution’s witness for the purpose of rebuttal (PP re-examines, D re-examines, co-D re-examines, then PP re-examines finally)
+S230(1)(t) CPC
+- At the close of the defence case, the prosecution has the right to call a person as a witness or recall and re?examine a person already examined, for the purpose of rebuttal, and
+- Such witness may be cross?examined by the accused and every co?accused, after which the prosecutor may re?examine the witness;
+
+Purpose of Rebuttal: Prosecution will only be allowed to recall Prosecution’s witness to answer a matter which the Prosecution could not have reasonably foreseen 
+PP v Bridges Christopher
+- Rebuttal evidence will only be allowed in a matter arising from one which the Prosecution could not have reasonable foreseen
+* E.g. where the Prosecution has been misled or taken by surprise or in answer to evidence of Defendant in support of an issue the proof of which lay upon the Defense 
+
+Step 15: At Close of Defense’s case, Defense can give closing statement first
+S230(1)(u) CPC
+- At the close of the defence case, the accused may sum up the accused’s case;
+
+Step 16: Prosecution has final right of reply 
+S230(1)(v) CPC
+- The prosecution has the final right of reply on the whole case;
+
+Step 17: Judgement – court has to decide case on test of beyond reasonable doubt 
+If Court finds accused not guilty => Order discharge amounting to acquittal 
+S230(1)(w) CPC
+- If the court finds the accused not guilty, it must order a discharge amounting to an acquittal, and must, provided no other charge is pending against the accused, forthwith release the accused;
+
+If Court finds accused guilty => Record conviction and pass sentence
+S230(1)(x) CPC
+- If the court finds the accused guilty, it must record a conviction and comply with the procedure in section 228 after which it must pass sentence in accordance with the law
+
+Principle 1: Test of reasonable doubt must be applied to each element of the charge 
+PP v GCK
+- Evidence must establish beyond a reasonable doubt each and every element of the charge against the accused
+
+Principle 2: Definition of reasonable doubt
+Jagatheesan s/o Krishnasamy
+- Definition of reasonable doubt: 
+* A doubt for which one can give a reason, so long as the reason given is logically connected to the evidence. 
+* Any reasonable doubt must be capable of distinct expression and articulation and must have support and foundation in the evidence submitted which in the circumstances is essential to a conviction 
+* Doubts which are merely fanciful will not be sufficient 
+- Objective test: Trial judge must state precisely why and how the evidence supports the Prosecution’s case of the accused’s guilt and cannot merely state that he has been satisfied beyond reasonable doubt
+
+PP v GCK
+- 2 ways to conceptualize reasonable doubt: 
+1. Reasonable doubt from within the Prosecution’s case => Whether there was any internal flaw considering all the evidence adduced by the Prosecution 
+2. Reasonable doubt from totality of the evidence (which includes Defense’s case and its weaknesses)
+
+Principle 3: Reliance on demeanour of witness alone is insufficient to establish an accused’s guilt beyond reasonable doubt 
+Jagatheesan s/o Krishnasamy
+- Reliance on the demeanor of witnesses alone will often be insufficient to establish an accused’s guilty beyond reasonable doubt 
+
+Principle 4: Conviction can be based on evidence of a single witness 
+Jagatheesan s/o Krishnasamy
+- Conviction can be based on the evidence of a single witness but the Court must be mindful of the inherent dangers of doing so and must subject the evidence to close scrutiny 
+- This is especially so if the witness is an accomplice
+
+Principle 5: Sole uncorroborated evidence has to be of an “unusually convincing standard” to be relevant
+PP v GCK
+- Sole uncorroborated evidence has to be of an “unusually convincing standard” 
+- Standard applies to all offenses and not just sexual offenses 
+
+Principle 6: Eyewitness evidence – Whether the quality of the eyewitness’s evidence has been compromised or improved
+PP v GCK
+- Evidence of eyewitnesses are not inherently more or less reliable than the alleged victim’s evidence
+- Question when assessing eyewitness/victim evidence: Whether the particular eyewitness or victim has showed that the quality of his observations had been compromised or improved
+
+Principle 7: Burden of proof always lies with the prosecution, so a tenuous and inadequate defence does not discharge the Prosecution’s burden 
+Tan Edmund v PP
+- A tenuous and inadequate defence does not discharge the Prosecution’s burden (i.e. even if D’s defence is bad, it will not prove PP’s case)
+
+Court has discretion to recall any witness (new or old) at close of Defense’s case
+Court may on its own motion or application of Prosecution/Defense => Summon any witness (new or old) 
+S283(1) CPC
+- Court may, on its own motion or on the application of the Prosecution or Defense, at the close of the case for the Defense, summon a person as a witness or examine a person in attendance as a witness, whether or not summoned, or recall and re-examine a person already examine 
+
+Court’s considerations: Witness’s evidence must be essential to making a just decision 
+S283(2) CPC
+- Court must summon and examine or recall and re-examine such a person if it thinks that the person’s evidence is essential to making a just decision in the case 
+
+Sim Cheng Hui v PP
+- Discretion should be exercised sparingly and judiciously to the just decision of the case 
+
+If charge is altered, parties must recall witnesses unless frivolous or vexatious
+If the charge is altered or a new charge is framed by the court, parties MUST be allowed to recall any witness with reference to the amended charge, unless the Court thinks the application is frivolous or vexatious (s131 CPC)
+
+Appeal against Court’s exercise of power: Show failure of justice
+S283(3) CPC
+The exercise by a Court of its power under s283(1) is not a ground for appeal or for revision, unless the appellant or applicant shows that the examination has led to a failure of justice
+
+*WITNESS’S STATEMENT CAN BE USED TO IMPEACH WITNESS
+S157 of Evidence Act 
+- A witness’s credit may be impeached by the adverse party, or (with the consent of the court) by the party who calls the witness: 
+a. By evidence of persons who testify that they, from their knowledge of the witness, believe him to be unworthy of credit 
+b. By proof that the witness has been bribed or has accepted the offer of a bribe or has received any other corrupt inducement to give his evidence 
+c. By proof of former statements inconsistent with any part of his evidence which is liable to be contradicted 
+
+Inconsistent statement
+Kwang Boon Keong Peter v PP
+- Four classes of discrepancies (only the last two are sufficient to invoke s 157)
+1. Minor
+2. Apparent
+3. Serious
+4. Material
+
+PP v Heah Lian Kin
+- A prior inconsistent statement is not confined to situations where the witnesses gives “two affirmative versions of the facts”
+- If a witness claims that he cannot remember the events stated in his statement even after the statement was to shown to him to refresh his memory, he contradicts the essence of his earlier statement which contains a detailed account of the facts
+
+Impeachment Procedure
+Step 1: Party will have to apply to the Court under s157(c) of EA to cross-examine and impeach witness by proof of the witness’s former inconsistent statement (Muthusamy v PP) 
+- Party will underline material discrepancies in the witness’s former statement in red, covering up the prejudicial portions.
+- Apply under s 157(c) EA to cross-examine witness on the statement and tender a copy of the statement to Court to determine whether material discrepancies exist
+
+Step 2: Court will determine if there are material discrepancies / irreconcilable conflicts between the witness’s testimony and witness’s former statement 
+=> If there are serious or material discrepancies, then the impeachment process will be allowed to continue (Muthusamy v PP) 
+=> if there are no irreconcilable conflicts, impeachment process will not be allowed to proceed
+
+Step 3: If Court determines that the discrepancies are material, court will confirm with witness whether he made the former statement voluntarily 
+=> If witness denies making the statement, party must call the person recording the statement and prove that the witness made the former statement 
+Muthusamy v PP
+- If court is of the opinion that the discrepancies are material, Court will confirm with witness whether he really made the former statement 
+
+Step 4: After proving the former statement or if witness admits to making the former statement, Court will provide the witness with a fair and full opportunity to explain the difference 
+S147(1) of EA
+- Witness’s attention must be called to the inconsistent parts of the former statement before the former statement can be used to contradict the witness’s testimony 
+
+Muthusamy v PP
+- If witness admits or is proven to have made the former statement => Court must show the two conflicting versions to the witness => Witness will be given a fair and full opportunity to explain the difference
+- If witness can explain the difference => Witness will not be impeached 
+
+“Forgetful” witness
+Where witness claims he does not remember what happened, it may be preferable to refresh his memory under s 161 EA.
+- Rationale: may have genuinely forgotten; not deliberately trying to be hostile
+- If refreshing memory fails --> proceed to impeach
+
+(1)  A witness may while under examination refresh his or her memory by referring to any writing made by himself or herself at the time of the transaction concerning which he or she is questioned, or so soon afterwards that the court considers it likely that the transaction was at that time fresh in his or her memory.
+(2)  The witness may also refer to any such writing made by any other person and read by the witness within the time mentioned in subsection (1), if, when the witness read it, the witness knew it to be correct.
+(3)  Whenever the witness may refresh his or her memory by reference to any document, the witness may, with the permission of the court, refer to a copy of such document if the court is satisfied that there is sufficient reason for the non?production of the original.
+(4)  An expert may refresh his or her memory by reference to professional treatises.
+
+Step 5A: If witness cannot explain the difference, Court can impeach the witness 
+Court need not expressly rule on whether witness’s credit is impeached 
+Loganatha Venkatesan v PP
+- There is no need for the Court to expressly rule on whether the witness’s credit is impeached, Court only needs to consider the discrepancies and explanation proffered by the witness for the purpose of an overall assessment of the witness’s credibility
+
+Effect of impeachment: Total rejection of witness’s evidence is unnecessary 
+Low Siew Hwa Kenneth v PP
+- Regardless of impeachment, Court has a duty to evaluate the whole of the witness’s evidence in its entirety to determine which aspect to believe remains and which should be disregarded 
+
+Loganatha Venkatesan 
+- Impeachment does not lead to total rejection of witness’s evidence. 
+- The court must carefully scrutinise the whole of the evidence to determine which aspect might be true and which aspect should be disregarded.
+
+Effect of impeachment: Little or no weight given to witness’s evidence  --> witness’s credit adversely affected
+Low Siew Hwa Kenneth v PP
+- Court must thoroughly assess entirety of witness’s evidence => Court can give little or no weight to evidence of witness who has been impeached
+
+Step 6: After impeaching the witness, the Court can go one step further to replace the witness’s testimony with the witness’s former statement under s147(3) of EA. 
+> (Generally, pursuant to s259 of CPC, witness’s statements are inadmissible as evidence. S147(3) of EA provides an exception for witness’s former statement to be admitted as evidence for impeachment)
+S147(3) of EA
+- Where in any proceedings a previous inconsistent or contradictory statement made by a person called as a witness in those proceedings is proved by virtue of this section, that statement is by virtue of this subsection admissible as evidence of any fact stated therein of which direct oral evidence by the person would be admissible
+
+Step 7: Court will refer to factors under s147(6) to determine the weight ascribed to the witness’s former statement 
+S147(6) EA
+- In determining the weight given to the witness’s former statement, Court will have regard to: 
+* All circumstances from which any inference can be reasonably drawn about accuracy of statement: All circumstances from which any inference can reasonably be drawn as to the accuracy of the statement 
+* Whether statement was made contemporaneously with occurrence or existence of facts stated: Whether or not the statement was made contemporaneously with the occurrence or existence of facts stated in the statement 
+* Whether statement maker had incentive to conceal or misrepresent facts: Whether or not the statement maker (witness) had any incentive to conceal or misrepresent the facts 
+
+Chai Chien Wei Kelvin v PP
+- Factors to be considered by the Court: 
+a. Contemporaneity of statement with the occurrence of facts stated in statement (guarding against inaccuracy)
+b. Whether maker of statement made a misrepresentation 
+c. Whether maker of statement can explain the inconsistency  
+d. Context of whole statement 
+e. Cogency and coherence of the facts in the statement 
+
+Lee Yuen Hong v PP
+- Little weight will be given to statements that were not made contemporaneously with the occurrence or existence of facts
+

@@ -1,0 +1,1386 @@
+Contents
+Relevant provisions of Penal Code (for 2023 exam)	2
+Taking instructions and preliminary advice	2
+Advice to client before he is charged	2
+Advice to client after he is charged	2
+Pleading guilty	3
+Information checklist	3
+Professional ethics of defense counsel	3
+Legal Status of Representations made to PP/AGC and Police	5
+Practical advice	5
+Access to the accused person	6
+Alibi	6
+Bail	7
+Bailable offences – bail is prima facie granted	7
+Non-bailable offences – bail may be granted at court’s discretion	8
+Very non-bailable offences (exceptions to bail)	9
+Sureties for bail	10
+Quantum of bail	10
+Conditions of bail	10
+random notes from contact session 1	16
+Pre-trial negotiations	17
+Ramesh contact session	17
+Criminal Case Disclosure Conference	17
+General provisions on CCDC	17
+Preliminary – does CCDC regime apply?	18
+Steps	19
+Step 1: Court will fix date of first CCDC	19
+Step 2: Prosecution must file and serve Case for Prosecution	19
+Step 3: Court will fix date of second CCDC	20
+Step 4: Defense must file and serve Case for Defense	20
+Step 5A: Prosecution must serve other documents on Defense (Prosecution’s Supplementary Bundle)	20
+Step 5B: Defense must serve other documents on Prosecution	21
+Step 6: Court fix date of third CCDC	21
+Step 7: During third CCDC, Court will fix dates for trial	21
+Consequences of non-compliance with CCDC	22
+Misc. issues	23
+Admissibility of CFD and CFP at trial	23
+Common law disclosure requirements which always apply (not just at CCDC)	23
+Prosecution’s Duty to disclose unused materials under certain conditions (Kadar duty)	23
+Duty to disclose statements of material witnesses (Nabill duty)	26
+
+
+Relevant provisions of Penal Code (for 2023 exam) 
+Punishment for using criminal force otherwise than on grave and sudden provocation
+> BAILABLE, but NOT a fine-only offence (note: may not arrest without warrant)
+352. Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be
+punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $1,500, or with both. 
+
+Assault or use of criminal force to a person with intent to outrage modesty 
+> s 354(1) is BAILABLE, but NOT a fine-only offence (note: may arrest without warrant)
+> s 354(2) is NOT BAILABLE (note: may arrest without warrant)
+354. — (1) Whoever assaults or uses criminal force to any person, intending to outrage or knowing it to be likely that he will thereby outrage the modesty of that person, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with caning, or with any combination of such punishments. 
+(2) Whoever commits an offence under subsection (1) against any person below 14 years of age shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with caning, or with any combination of such punishments. 
+
+Punishment for theft
+> NOT BAILABLE (note: may arrest without warrant) 
+379. Whoever commits theft shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+*Taking instructions and preliminary advice 
+*ADVICE TO CLIENT BEFORE HE IS CHARGED (WHILE POLICE INVESTIGATIONS ARE ONGOING)
+S278 CPC – Taking client’s instructions in relation to allegations/complaints made against client: - while police investigations are ongoing
+1. Ensure thorough understanding of allegations/complaints 
+2. Identify facts in issue as client narrates 
+3. Details of client’s denial or explanation on events leading up to allegations 
+4. Details of client’s connections with complainant, witnesses for prosecution and co-accused persons
+5. Any potential defense of alibi and if there is, sufficient notice must be given to prosecution 
+
+Principle in Browne v Dunn – the significant aspect of instructions is that it will form the basis on which you will put forward your client’s case in relation to the Prosecution’s case
+
+Rule 9(2)(g)-(h), Legal Profession (Professional Conduct) Rules 2015
+s 200, 201, 204A & 213 Penal Code
+Guide to advising client before client is charged: - while police investigations are ongoing
+- Advise importance of: 
+o Statements recorded 
+o S 23 CPC statements (cautioned statements) 
+o Defense of alibi, if applicable
+- Do not advise client to collude or destroy evidence 
+- Do not advise client to conceal evidence or do anything to conceal information or screen him or any person legal punishment
+- A legal practitioner must not “concoct any evidence or contrive any fact, whether or not that evidence or fact will assist in advancing the client’s case”
+
+If client will be charged in court in coming days and bail is available and client wants to post bail, advise him to arrange for a bailor.
+1. Bailor is to be present in court at mention of case
+2. Bailor has to have sufficient security to be able to post client’s bail 
+3. Bailor must bring passport to court, if not surrendered to investigation agency earlier
+4. Bailor must be:
+a. Singapore citizen or PR
+b. Above 21 years old
+c. Not a bankrupt
+d. Not involved in the case 
+
+*ADVICE TO CLIENT AFTER HE IS CHARGED 
+- After client is charged, guide to advising client: - when client is out on police/court bail
+1. Examine charges and take further and detailed instructions on the charges 
+
+2. Decide whether to make written representations to AGC on the charges and get them to review charges with the effect of:
+a. Reducing charges
+b. Proceed with lesser number of charges
+c. Withdrawal of charges 
+* Obtain client’s approval of draft representing representations before submitting to AGC
+* False representations may render client liable to prosecution under s182 of Penal Code 
+
+3. Get client to decide whether to plead guilty or claim trial to the charges
+a. Advise client on merits of prosecution’s case  
+
+4. Seek clarification with client on any areas of doubt on client’s involvement in the charges before trial and before making any representations to AGC 
+
+5. Explain to client the 2 types of statements that investigating agencies (i.e. police, CPIB, CNB, customs) would have recorded: Cautioned statements (s23 CPC) and Long statements (s22 CPC)
+
+6. If client decides to plead guilty 
+* Obtain documentary evidence in support
+* Receive instructions and obtain details and background of client – e.g. may be useful when it comes to bail, or immigration issues
+a. Family background 
+b. Marital status
+c. Academic records
+d. Employment history
+e. Awards or testimonials 
+f. Medical history 
+g. Criminal antecedents 
+
+Sample Schedule of Legal Costs
+1. Retainer / Deposit (if not refundable, to state)
+2. Disbursements
+a. Payment for police reports, medical reports, etc.
+b. Transport costs
+c. Stationary, postage, etc.
+3. Attendance in court
+a. For mention including bail application, if any
+b. PTC, CCMS, CCDC
+c. Hearing (for trial or to plead guilty)
+4. Preparation fee for hearing / trial (bill by hour or agreed sum?)
+5. Refresher fee (in the event where the case is part-heard)
+6. GST
+7. Additional cost(s) not anticipated at time of brief, in the event case proceeds further and new matters / issues surfaced
+
+Pleading guilty 
+Counsel should advise client generally about his plea 
+- If necessary, express advice in strong terms, if evidence is overwhelming 
+- But must make it clear to Client that they have complete freedom of choice and responsibility for the plea 
+- Plea of guilty comes from lips of the Accused but his mind must be in agreement with his plea 
+- If plea is extracted by pressure – it may be found to be a nullity 
+
+Information checklist
+You should have details of the following:
+1. Personal particulars
+2. Academic Background – maybe useful for bail
+3. Employment Background – maybe useful for immigration matters later
+4. Family Background – maybe useful for bail purposes
+5. Previous Antecedents, if any
+6. Medical background, including Medical Reports
+7. The Charge(s)
+8. Statement(s) to Police
+9. Alibi Notice, if any
+10. Instructions whether to plead guilty, claim trial or write to AGC to review case or charge(s)
+11. Exhibits for Defence
+12. Instructions to call for expert evidence for the Defence, if necessary
+
+Make a checklist of information needed:
+a. Information on the case you need
+b. Details of witnesses, if any
+c. Documents to be produced
+d. Medical reports
+
+*PROFESSIONAL ETHICS OF DEFENSE COUNSEL 
+Duty not to provide bail
+Rule 14(3)(a) PCR 
+- A legal practitioner who represents an accused person must not provide any surety or bail for the accused person
+
+Duty to not express opinion of accused’s guilt or allow such opinion to affect his work  
+Rule 14(3)(b) of PCR
+- A legal practitioner who represents an accused person:
+* Must not express his personal opinion as to whether the accused person is guilty
+* Must not allow his personal opinion as to whether the accused person is guilty to affect his professional assessment of the facts or the law, his conduct of criminal proceedings or his duty to the accused person or court 
+
+Duty to attend trial of accused person 
+Rule 14(3)(c)-(d) PCR 
+- A legal practitioner who represents an accused person must not be absent from a trial or hearing without reasonable grounds; if absent from a trial or hearing, must: 
+(i) communicate the grounds for the legal practitioner’s absence to the accused person before the trial or hearing; and 
+(ii) make reasonable efforts to arrange for another legal practitioner to take over the conduct of the trial or hearing
+
+
+Duty to advise accused person properly (on issues of pleading guilty and remaining silent) – Rule 14(5) 
+Rule 14(5) of PCR
+- A legal practitioner:
+a. Must advise an accused person he represents on:
+(i) Advise on whether to plead guilty or claim trial to a charge; and 
+(ii) Advise on whether to give evidence or remain silent in the accused’s defense; and 
+b. Must abide by accused’s decision.
+
+Duties after conviction
+Duty to continue assisting accused after he is convicted and sentenced
+Rule 14(3)(e) of PCR
+- A legal practitioner who represents an accused person must continue to reasonably assist the accused person after the accused person is convicted and sentenced 
+
+Duty to not make allegations intended to vilify, insult or annoy any person when making mitigation plea – Rule 14(7)
+Rule 14(7) of PCR
+- Where accused person has pleaded guilty or has been convicted after trial, the legal practitioner representing the accused person, when presenting a plea in mitigation, must not make any allegation which is scandalous or is intended or calculated to vilify, insult or annoy any person 
+
+When accused confesses to offense to Defense lawyer
+Defense lawyer may continue to represent accused but must not adduce evidence or make submissions inconsistent with the confession
+Rule 14(4) of PCR
+- Where a legal practitioner represents an accused person and the accused person confesses to any offense to the legal practitioner, he:
+a. May continue to represent the accused person; but 
+b. Must not adduce any evidence or make any submission which is inconsistent with the confession by the accused person 
+Rule 15(4) of PCR (cf duty of defence lawyer)
+- A legal practitioner who represents the prosecution must, within a reasonable time after the conviction but before the sentencing of an accused person, inform the court of –
+a. any previous conviction or antecedent of the accused person that the prosecution knows of;
+b. any relevant factors, and any known precedents, relating to the sentence; and
+c. if the accused person is unrepresented, any known mitigating circumstances
+
+When accused absconds – Rule 14(6)
+Rule 14(6) of PCR
+- Where accused absconds, the legal practitioner representing the accused may:
+a. Defense lawyer may apply to be discharged from acting in the matter OR;
+b. Defense lawyer may conduct defense on the basis of instructions received and as if accused was present but elected to remain silent. 
+
+When accused has previous convictions – Rule 14(8)
+Rule 14(8) of PCR
+- Defense lawyer is not required to disclose accused’s previous convictions: Where accused has any previous conviction or antecedent, legal practitioner representing the accused person is not required to disclose such antecedent 
+- Defense lawyer is not allowed to adduce evidence inconsistent with accused’s previous convictions: but must not adduce any evidence or make any submission which is inconsistent with the previous conviction or antecedent of the accused person 
+
+Special Scenario: Use of expert reports in mitigation 
+Duty to ensure expert report is reliable and fit for Court use
+Wong Tian Jun De Beers v PP 
+- Expert witnesses owe a duty to the Court to ensure that their evidence is reliable and fit for Court use 
+a. Expert report must rely on independent information: Expert report cannot be predicated entirely on the truthfulness of the information provided by the accused person => Expert witness should be provided with independent information he could rely on in preparation of the report apart from the narrative the accused person gave him 
+(i) Should use Statement of Facts in expert report 
+(ii) Should ensure that accused person is not lying 
+b. Expert report cannot absolve duty by caveating that it is predicated on truthfulness of the accused: Expert reports cannot simply caveat that their report is predicated on truthfulness of accused person’s account to absolve themselves of their duty to the Court to provide evidence which is reliable and fit for Court use 
+c. Expert report must explain any time gap: Expert reports must explain how it was able to extrapolate conclusions if there is a large time gap
+(i) Expert report claimed to extrapolate conclusions about the accused person’s precise psychiatric state at the time of commission of offenses 4 to 5 years ago and there was no reasoning how the expert report was able to do so 
+
+Failure to comply with duty: Evidence might be rejected and possible adverse costs orders 
+Wong Tian Jun De Beers v PP
+- Failure to comply with duty: 
+a. Raises serious questions in respect of the psychiatrist and also of the solicitors who may have instructed the psychiatrist 
+b. Evidence might be rejected if it is simply not fit for purpose
+c. When evidence is rejected, there may be consequences well beyond making of an adverse costs order
+
+Wong Tian Jun De Beers v PP
+- Held: 
+1. Psychiatric report relied on by accused person is wholly unhelpful and no weight was put on it  
+2. Psychiatric report is also damaging to accused person’s case because it illustrated accused person’s casual disregard for the truth and his willingness to flagrantly lie => This was linked to the accused person’s lack of remorse 
+
+*REPRESENTATIONS MADE TO PP/AGC AND POLICE 
+Representations is a way for the Defence to negotiate with PP
+
+Representations made to PP/AGC are privileged 
+Definition of plea negotiations 
+Knight Glenn Jeyasingam v PP [1999] 1 SLR(R) 1165
+- Definition of “plea negotiations”: Representations made once investigations have begun and are made by the accused person in hopes that charges will be withdrawn or to plead guilty to lesser offenses and with the cumulative effect being a lighter sentence
+- Plea negotiations are separate from the trial
+
+Representations to PP/AGC are privileged 
+- Without prejudice privilege attaches to letters of representation made to the AGC/PP => Implication: Letters are confidential and privileged from disclosure on the basis that they are irrelevant and thus cannot be deemed reliable or relevant as substantive evidence of the guilt of the offense charged
+- Reason: Representations should not alter a party’s ability to discharge its evidential burden at the criminal trial of the offenses charged. Privilege also maintains public confidence in the criminal justice system
+- Privilege can only be lifted after determination of criminal culpability or after negotiated plea was made
+- However, false representations can be dealt with under s182 of Penal Code
+
+Representations made to police are privileged under certain conditions 
+Purpose of representations to police 
+Ng Chye Huay v PP [2006] 1 SLR(R) 157
+- Representations can be made to the police who are also vested with discretion in deciding whether to pursue any particular lead in the course of investigation
+- It is important for open and honest dialogue between accused person and police too as it could sway police’s discretion and save AGC and Courts valuable time and resources
+
+Representations to police are privileged under certain conditions 
+- Privilege attaches to letters of representation made to police but only if the following conditions are satisfied:
+1. Letter must refer specifically to the investigation or charge faced by the accused 
+2. Letter must have been written with the object of reducing the charge or halting investigations and not just to provide general information to the police
+a. Object is deduced from accused person’s actual intention at time of writing letter
+b. Object is also determined by whether a reasonable police officer receiving the letter understands that it has been written as a letter of representation and warrants being treated as such 
+3. Letter must contain a statement that the author of the letter understands the consequences of making a false statement under s182 of Penal Code
+a. If letter does not contain such a statement, police should return letter to sender with explanation of the requirement and the author must re-draft the letter 
+Practical advice – taking instructions
+- Keep attendance notes of your interview(s) with clients
+
+- Do not concoct or adduce evidence for clients 
+
+- Do not make representations or give advice to clients on matters you know not to be true 
+
+- Do not make promises or give assurances which you know you cannot keep
+
+- When taking instructions always pay close attention to possible Defence(s) available to Client based on facts or instructions received 
+o E.g. Alibi Defence or General Exceptions to Penal Code
+o s 278 CPC: Notice of alibi (see below)
+o s 107 Evidence Act: Burden of proving that case of accused comes within exceptions (i.e. burden of proof of defences is on D)
+“When a person is accused of any offence, the burden of proving the existence of circumstances bringing the case within any of the general exceptions in the Penal Code 1871, or within any special exception or proviso contained in any other part of the Penal Code 1871, or in any law defining the offence, is upon the person, and the court is to presume the absence of such circumstances.”
+
+Illustrations
+     (a)  A accused of murder alleges that by reason of unsoundness of mind A did not know the nature of the act.
+     The burden of proof is on A.
+     (b)  A accused of murder alleges that by grave and sudden provocation A was deprived of the power of self?control.
+     The burden of proof is on A.
+     (c)  Section 325 of the Penal Code 1871 provides that whoever, except in the case provided for by section 335, voluntarily causes grievous hurt shall be subject to certain punishments.
+     A is charged with voluntarily causing grievous hurt under section 325.
+     The burden of proving the circumstances, bringing the case under section 335, lies on A.
+
+o s 108 Evidence Act: Burden of proving fact especially within knowledge
+“When any fact is especially within the knowledge of any person, the burden of proving that fact is upon that person.”
+
+Illustrations
+     (a)  When a person does an act with some intention other than that which the character and circumstances of the act suggest, the burden of proving that intention is upon that person.
+     (b)  A is charged with travelling on a railway without a ticket. The burden of proving that A had a ticket is on him or her.
+
+o Remember s 182 Penal Code: False information, with intent to cause a public servant to use his lawful power to the injury of another person –
+“Whoever gives to any public servant any information which he knows or believes to be false, intending thereby to cause, or knowing it to be likely that he will thereby cause, such public servant to use the lawful power of such public servant to the injury or annoyance of any person, or to do or omit anything which such public servant ought not to, or would not, do or omit if the true state of facts respecting which such information is given were known by him, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.”
+
+Illustrations
+     (a)  A informs a superintendent of police that Z, a police officer subordinate to such superintendent, has been guilty of neglect of duty or misconduct, knowing such information to be false, and knowing it to be likely that the information will cause the superintendent to dismiss Z. A has committed the offence defined in this section.
+     (b)  A falsely informs a public servant that Z has contraband opium in a secret place, knowing such information to be false, and knowing that it is likely that the consequence of the information will be a search of Z’s premises, attended with annoyance to Z. A has committed the offence defined in this section.
+     (c)  A falsely informs a policeman that he has been assaulted and robbed by a person whose identity he does not know. A also mentions that he often sees that person going in and out of a block of flats, knowing it to be likely that in consequence of this information, the police will make inquiries and institute searches in the block of flats to the annoyance of the flat dwellers or some of them. A has committed an offence under this section.
+     *(d)  A informs a policeman that A does not know the identity of the suspect of a criminal offence, knowing such information to be false, and knowing it to be likely that in consequence of this information, the policeman will expend additional time and resources to identify the suspect which will not be so expended if A had informed the policeman that A knew the identity of the suspect. A has committed an offence under this section.
+
+- Counsel must have competent understanding of procedural aspects of trial, evidence law, legal ingredients of offence(s) 
+
+- 3 broad areas to obtain client’s instructions 
+o Client’s background 
+o Instructions in relation to the charge(s)
+o Statement(s) given to investigation agencies
+
+- If case is under the CCDC regime, must advise Client that his Defence must not be inconsistent with information he gave the Investigation Officer and recorded in Statement(s) 
+
+- If interviewing witnesses for Defence, Client (accused) should not be present
+
+- Clients come to see you for a service – will seize upon any assurances they receive from you 
+
+- There must always be communication with the Client 
+o Communications should be documented 
+o It is preferred to take instructions in person. 
+o Do not advice or receive instructions over the phone, or via fax or email unless these are the modes of communication with the client, and if need be there should always be a follow-up from previous meetings
+o Do not take instructions or receive information from third persons on behalf of Client. If received information from third party, to inform Client in writing and confirm the contents 
+o Number of interviews is not conclusive – instead counsel must spend quality time with Client
+
+- The interview
+o Appearance / presentation
+o 1st interview: overview of the case and fees
+o 2nd interview and more, if necessary
+
+ACCESS TO THE ACCUSED PERSON 
+Typically, during the 48 hour period, there is no continual access to counsel 
+- Can do a bit of damage control by giving them a pamphlet of rights – found on some gov website – that gives them a list of rights of accused persons 
+- Typically, police/prosecution does not object to the giving of this pamphlet 
+- If refused, can challenge for reasons. 
+- After the reasonable period (around the first 7 days), the burden shifts onto the prosecution to explain why access to the accused person would impede investigations
+
+*ALIBI 
+s 278 CPC – Notice of alibi
+Timeline for when to alert the prosecution 
+- Alibi – the person was not at the scene of the crime because he was elsewhere 
+- There is a deadline to alert the prosecution as to this fact 
+
+Important parts of s 278: 
+- Must give notice of particulars of alibi when offering evidence in support of alibi – s 278(1) CPC
+- Deadline for notice of alibi: either
+o Give to court when accused is first charged for the offence – s 278(5)(a) CPC or 
+o Give in writing to Public Prosecutor or prison officer to be forwarded to the PP, within 14 days from the date the accused is first charged in court – s 278(5)(b) CPC
+- If the accused is not represented at any time before his trial and is not aware of this rule, then this rule will not prevent him from raising an alibi defence – s 278(9) CPC
+
+278.—(1)  In any trial, the accused may not, without the permission of the court, offer evidence in support of an alibi unless the accused gives notice of particulars of the alibi.
+(2)  Without affecting subsection (1), the accused may not call a witness to give such evidence without the permission of the court unless the following conditions apply:
+(a)the notice under subsection (1) includes the name and address of the witness or, if the accused does not know the name or address at the time the accused gives the notice, any information the accused has that might help find the witness;(b)if the name or the address is not included in that notice, the court is satisfied that the accused, before giving the notice, took and continued taking all reasonable steps to find out the name or address;(c)if the name or the address is not included in that notice, but the accused later discovers the name or address or receives other information that might help to find the witness, the accused immediately gives notice of the name, address or other information, as the case may be; (d)if the accused is notified by, or on behalf of, the Public Prosecutor that the witness has not been traced by the name or at the address given, the accused gives notice immediately of the information the accused has or later receives.
+[Act 25 of 2021 wef 01/04/2022]
+(3)  Subject to any directions by the court as to the time it is to be given, evidence to disprove an alibi may be given before or after evidence in support of the alibi.
+(4)  Unless the contrary is proved, a notice offered under this section on behalf of the accused by the accused’s advocate is regarded as having been given with the accused’s authority.
+(5)  A notice under subsection (1) must either be given —
+(a)to the court when the accused is first charged in court in relation to the offence for which the accused is raising the defence of an alibi; or(b)in writing to the Public Prosecutor, or to the officer in charge of the prison where the accused is kept for the officer to forward to the Public Prosecutor, within 14 days from the date the accused is charged in court for the first time with the offence for which the accused is raising the defence of an alibi.
+(6)  A notice under subsection (2)(c) or (d) must be given in writing to the Public Prosecutor.
+(7)  A notice required by this section to be given to the Public Prosecutor may be delivered to the Public Prosecutor, or left at his or her office, or sent in a registered letter addressed to the Public Prosecutor at his or her office.
+(8)  If the Public Prosecutor or any officer of a law enforcement agency interviews any witness who is named in a notice given under this section, the accused or the accused’s advocate is entitled to be present at the interview.
+(9)  The court may not refuse permission under this section if no advocate appears to have been instructed to act for the accused at any time before the accused’s trial and if it is satisfied that the accused was unaware of the provisions of this section.
+[Act 25 of 2021 wef 01/04/2022]
+(10)  In this section, “evidence in support of an alibi” means evidence tending to show that because the accused was present at a place or in an area at a certain time the accused was not, or was unlikely to have been, at the place where the offence was committed at the relevant time.
+*BAIL
+Context
+- Police/agency bail: When an accused is arrested without a warrant, police has 2 choices: 
+1. Either produce accused before Magistrate’s Court within 48 hours; OR 
+2. Release the accused on police bail to secure future attendance for future investigations 
+- Court bail: When accused is brought before Magistrate and is charged => Accused will be released after that, and Court bail will be offered to secure future court attendance. If accused was under a police bail prior to being brought before a court and charged, the Court bail will replace the police bail. 
+- Bail must be offered as a general rule for bailable offenses but it will be offered by Court’s discretion for non-bailable offenses 
+
+Purpose of Bail 
+Abdul Khabir Uddin Tohron Nisa v PP
+- 2 important purposes: 
+1. It helps to preserve the principle that a person is innocent until proven guilty and that innocent people do not normally spend their time in jail 
+2. It ensures that accused persons do not abscond before trial by discouraging them from absconding
+
+Police/agency Bail: Police bail is offered to the accused after their arrest and before they are charged in Court 
+For arrest without warrant: After making arrest, police must immediately release accused on bail or send accused before Magistrate’s Court 
+S67 of CPC
+- A police officer making an arrest without warrant must, without unnecessary delay and subject to the provisions of this Code on bail or previous release, take or send the person arrested before a Magistrate’s Court
+
+For arrest without warrant: Person arrested without warrant must not be detained for more than 48 hours 
+S68 of CPC
+(1) Unless the court orders otherwise under section 92(3)(a) or 93(3B)(a), no police officer may detain in custody a person who has been arrested without a warrant for a longer period than under all the circumstances of the case is reasonable.
+(2) The period must not exceed 48 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate’s Court
+
+For arrest with warrant: Person arrested with warrant must be brought before Court without delay 
+S74 of CPC 
+- Subject to section 72, the police officer or other person executing an arrest warrant must bring the arrested person to the court before which the police officer or other person is required by law to produce the arrested person without unnecessary delay
+
+Court Bail: After the accused is formally charged in Court and until the case concludes, Court may offer Court bail to the accused 
+For arrest with warrant: Court can attach bail and bail conditions to any arrest warrant issued 
+S72 of CPC
+(1) A court issuing an arrest warrant may direct by endorsement on the warrant that, if the person subject to the arrest warrant executes a bond with sufficient sureties for the person’s attendance at the next sitting of the court after the day of arrest and at every subsequent sitting until the court directs otherwise, then the person to whom the warrant is directed must take such security and release the person subject to the arrest warrant from custody.
+(2) The endorsement must state:
+a. The number of sureties; and
+b. The amount that the sureties and the person subject to the arrest warrant are respectively bound.
+(3) When security is taken under this section, the person to whom the warrant is directed must, when required, send the bond to the court.
+
+For arrest with warrant/arrest without warrant: Accused can apply to Court for bail after being charged in Magistrates Court
+
+After accused appears before Magistrate and is charged => Court will decide whether to release the accused on bail  
+Step 1: Determining whether offense is bailable offense or non-bailable offense 
+
+*Bailable offences – bail is prima facie granted 
+Bailable offense: See First Schedule Fifth Column of CPC
+S2(1) of CPC
+- Bailable offense means an offense shown as bailable in First Schedule Fifth Column of CPC or which is made bailable by any other written law 
+- For example:
+
+
+Definition of non-bailable offense 
+S2(1) of CPC
+- An offense that is not a bailable offense 
+
+Step 2A: If bailable offense => Person must be released on bail => Unless s92(3) exception applies 
+Prima facie person arrested for bailable offense must be released on bail 
+S92(1) CPC
+- When person is arrested for a bailable offense, the person MUST be released on bail by police subject to s92(3) exception
+- Generally, there is no discretion to refuse bail 
+
+PP v Yang Yin 
+- When offender is arrested for bailable offense => Bail is available as of right 
+S92(3) Exception applies when 2 Conditions are satisfied 
+S92(3) CPC
+- However, person can be denied release on bail if:
+a. Condition 1: The bailable offense is not a fine-only offense (i.e. punishable with imprisonment); AND
+b. Condition 2: The Court believes that the person will not come for investigations or attend court by the circumstances in the CPR (Rule 5 of CPR)
+o See below for the factors that can influence the court’s decision 
+
+The Court believes that the person will not come for investigations or attend court by the circumstances in the CPR
+Rule 5 of Criminal Procedures Rules 2018 
+- Court must have regard to all the prescribed grounds of belief (mix of facts and factors) to determine if the person will be available for investigations or attend Court: 
+a. Person is not a citizen or PR of Singapore (fact)
+b. Person is not domiciled in Singapore (fact)
+c. Background, antecedents, employment history, occupation, home environment, community ties and financial position of the person 
+d. Association of the person with other individuals 
+e. Nature and seriousness of the offense (factor)
+f. Manner in which the person or accused is likely to be dealt with if convicted (e.g. likely sentence on conviction) (factor)
+g. Nature and strength of evidence relating to the offense 
+h. If the person complied with the conditions imposed under s94 of CPC when he was released on bail on a previous occasion 
+i. Evidence or preparatory acts that the person does not intend to be available for investigations or attend court 
+
+Alternative: Instead of releasing person on bail => Can release on personal bond without sureties OR bail + personal bond without sureties => Subject to s92(3) exception too
+S92(2) CPC
+- Despite subsection (1):
+a. The police officer or the court may, instead of taking bail from the person, release the person if the person signs a personal bond without sureties; and
+b. The court may, instead of releasing the person on bail, release the person on bail and on personal bond by requiring the person to sign a personal bond without sureties, in addition to taking bail from the person.
+
+*Non-bailable offences – bail may be granted at court’s discretion 
+Step 2B: If non-bailable offense => Person may be released on bail => Depends on whether accused can discharge burden of proof
+- Non-bailable: Does NOT mean no bail. It just *shifts the burden of proof to accused to persuade the court why bail should be granted to him (Selvamsylvester). 
+S93(1) CPC
+- Subject to section 95(1), if any person accused of any non?bailable offence is arrested or detained without warrant by a police officer, or appears or is brought before a court, the person may be released on bail by a police officer of or above the rank of sergeant or by the court.
+
+Burden of proof on accused to show that bail should nonetheless be extended to him
+PP v Yang Yin 
+- If offender is charged with non-bailable offenses => Bail is not available to the offender as of right although the Court might in its discretion to offer bail => Burden of proof is thus on offender to show that bail should nonetheless by extended to him 
+- Offender can discharge burden by showing: 
+a. Risk of offender absconding is low
+b. Whether there are reasonable grounds for believing accused is guilty
+c. Nature and gravity of offense: The nature and gravity of the offence charged;
+d. Severity of punishment that might follow: The severity and degree of punishment that might follow;
+e. Danger of absconding: The danger of the accused absconding if released on bail;
+f. Accused’s character, means and standing: The accused’s character, means and standing;
+g. Danger of repeating offense: The danger of the offence being continued or repeated;
+h. Danger of witness tampering: The danger of witnesses being tampered with;
+i. Whether bail is essential for preparing defence: Whether the grant of bail is essential to ensure that the accused has an adequate opportunity to prepare his defence; and
+j. Length of detention and probability of any further delay: The length of the period of detention of the accused and the probability of any further period of delay
+
+If during investigations or trial => No reasonable grounds for believing accused committed non-bailable offense (i.e. unlikely committed non-bailable offense) => Police/Court must release accused 
+S93(2) CPC
+- Subject to section 95(1), if, at any stage of an investigation, inquiry, trial or other proceeding under this Code, there are no reasonable grounds for believing that the accused has committed a non?bailable offence, the police officer or court must release the accused
+If there are grounds for further investigations as to whether accused has committed some other bailable offense => Accused must be released on bail, or on personal bond at discretion of police or Court 
+S93(3) CPC
+- Despite subsection (2), if there are grounds for further investigations as to whether the accused has committed some other bailable offence, then, pending the investigations, the accused must be released on bail or, at the discretion of the police officer or court, on his or her own personal bond.
+*EXCEPTION to s93(2) and s93(3) CPC: 
+Court can order no release on police bail or refuse to grant court bail if the bailable offence is punishable with imprisonment and it believes on prescribed grounds that the person will not attend court (s 93(3B) CPC, r 5 CPR 2018, see list above)
+
+General point: If person released under s93 => Police or Court must record reasons 
+S93(4) CPC
+- If police or court releases any person on bail under this section, must record in writing the reasons for doing so 
+Despite bail being granted for non-bailable offences, the court can cause the released person to be arrested (s93(5) CPC)
+
+*Very non-bailable offences (exceptions to bail) 
+Step 2C: If offense is under s95(1) => Person must not be released on bail => Unless s95(2) applies 
+2 Scenarios under s95(1) 
+S95(1) CPC
+- An accused must not be released on bail or on personal bond if:
+a. Scenario 1: Offense is punishable with death or imprisonment of life: The accused is charged for an offence punishable with death or imprisonment for life (s95(1)(a) CPC);
+b. Scenario 2: Non-bailable offense + Court believes that accused will not surrender to custody or be available for investigations or attend Court: The accused is accused of any non-bailable offence, and the court believes, on any ground prescribed in the Criminal Procedure Rules, that the accused, if released, will not surrender to custody, be available for investigations or attend court (s95(1)(b) CPC); or
+c. Scenario 3: Accused arrested under warrant issued under Extradition Act: The accused has been arrested or taken into custody under a warrant issued under section 12 or 34 of the Extradition Act 1968 or endorsed under section 33 of that Act (s95(1)(c) CPC).
+
+EXCEPTION in s95(2) where the court can still release a person on bail:
+S95(2) CPC
+- Despite subsection (1), the court may:
+a. Court may release juvenile or sick person accused of such offense on bail: Direct that any juvenile or any sick or infirm person accused of such an offence be released on bail;
+b. For offences punishable by death or life imprisonment => If offence punishable with alternative punishment (other than death or life imprisonment) AND offence tried in DC/MAC => Court may release accused on bail: Release on bail an accused charged with an offence mentioned in subsection (1)(a), if: 
+(i) The offence is also punishable with an alternative punishment other than death or life imprisonment; and
+(ii) The offence is to be tried before a District Court or a Magistrate’s Court; or
+c. Even if Scenario 3 applies => Court may release accused on bail if CPR rules are satisfied: Release on bail an accused who has been arrested or taken into custody under a warrant mentioned in subsection (1)(c), if the conditions prescribed in the Criminal Procedure Rules for such release are satisfied
+
+*Sureties for bail – Requirement for bond to be executed by one or more sufficient sureties 
+S99(2) of CPC 
+- When a person is released on bail, the bond must be executed by one or more sufficient sureties 
+
+For Personal Bond – Requirement for bond to be executed by the person to be released 
+S99(1) of CPC
+- Before any person is released on his or her personal bond under this Division, a bond for such sum of money as the police officer or court thinks sufficient must be executed by the person.
+
+Bond conditions 
+- The bond will be executed on condition that: 
+* S99(2) CPC: Released person attends date, time and place mentioned in bond and continue until otherwise directed by police/Court: The released person attends the date, time and place mentioned in the bond and must continue to attend until otherwise directed by police officer or court
+* S99(3) CPC: Released person must appear when called by any Court to answer the charge: Bond binds released person to appear when called on at any court to answer the charge 
+* S99(4) CPC: Released person must not leave Singapore without police/Court permission: Bond condition that released person must not leave Singapore without permission of police officer or Court => Surety’s duties continue even when released person is allowed to leave Singapore (Loh Kim Chiang) 
+
+*Quantum of bail 
+Quantum of bond fixed according to whether it is sufficient to secure attendance of accused 
+S96 CPC
+- Quantum of bond must be fixed with regard whether it is sufficient to secure the attendance of the person arrested or charged 
+
+Note:
+- Drug trafficking usually 50k 
+- Long term drug consumption usually 50k to 70k 
+- If bail amount is below 15k, do not need to give hard cash, a bond is possible by declaration 
+- If bail amount is more than 15k, it is possible to seek court’s permission to vary the bail amount, such that 15k will be by declaration but remaining 85k will still be in cash (if total bail amount is 100k)
+
+If surety is able to ensure attendance of accused => Quantum of bail will be lower 
+Ewe Pang Kooi v PP
+- If surety is someone who is able to ensure attendance of accused in Court then the amount of bail might be lower 
+a. Father who turns his son in to authorities for having committed an offense agrees to stand bail => Quantum might not be very high 
+b. Billionaire bailor => Quantum might need to be very high to be effective in ensuring that the bailor is diligent in his duties in ensuring that the accused shows up 
+- Bail money does not deter the accused from flight. Instead, bail money ensures that the bailor will fulfill his duties as a bailor or cause the accused to cooperate as accused will not wish to see his bailor impoverished by a forfeiture of bail money 
+
+*Conditions of bail or personal bond
+Conditions under s94(1) 
+s94(1) of CPC 
+- Generally, when a police officer or court grants bail/personal bond, the following conditions apply: 
+a. Accused to surrender travel documents: Accused must surrender his travel documents 
+b. Accused to surrender to custody and be available for investigations and court attendance at time and place provided: Accused must surrender to custody, be available for investigations, attend Court on the day and at the time and place provided 
+c. Accused must not commit offense on bail: Accused must not commit any offense while on bail 
+d. Accused must not interfere with witness or obstruct justice: Accused must not interfere with any witness or obstruct the course of justice 
+e. Surety must not be co-accused: The person offered as surety for an accused must not be a co-accused in the same matter 
+
+S94(2) CPC
+- Police officer or Court may impose other conditions as necessary 
+
+Condition of electronic monitoring 
+S94(3) CPC
+- Police officer or Court may require electronic monitoring of the accused’s whereabouts 
+S94(4) CPC
+- If prosecution applies to police officer or Court to impose electronic monitoring => The police officer or Court must do so 
+
+*Consequences of breaching conditions of bail
+Breach of different conditions => Different consequence 
+S103 CPC
+(1) Breach condition by non-attendance => Arrest without warrant: If a released person under a duty to surrender to custody, or to make himself or herself available for investigations or to attend court, does not do so, he or she may be arrested without a warrant (s103(1) CPC)
+(2) Breach condition by leaving Court mid-way => Court issue warrant for arrest: If a released person leaves the court at any time after he or she has surrendered into its custody or after he or she has attended court on the day and at the time appointed for him or her to do so, and before the court is ready to begin or to resume the hearing of the proceedings, the court may issue a warrant for his or her arrest (s103(2) CPC)
+(3) Reasonable grounds to believe that => Arrest without warrant: A released person under a duty to surrender to custody, or to make himself or herself available for investigations or to attend court on the day and at the time and place appointed for him or her to do so, may be arrested without a warrant if (s103(3) CPC):
+a. Likely non-attendance: There are reasonable grounds for believing that he or she is unlikely to surrender to custody, or to make himself or herself available for investigations or to attend court;
+b. Likely break or has broken conditions of bail: There are reasonable grounds for believing that he or she is likely to break or has broken any of the conditions of his or her bail or personal bond; or
+c. Sureties inform police offender likely non-attendance => Sureties wants to be relieved of obligations: Any of his or her sureties informs the police or court that the person is unlikely to surrender to custody, or to make himself or herself available for investigations or to attend court and that the surety therefore wishes to be relieved of his or her obligations as a surety
+
+If offender is arrested under s103 => Court can remand offender in custody or grant new bail subject to conditions 
+S103(4) CPC
+- When offender is arrested under s103, Court can remand person in custody or grant new bail subject to conditions if Court thinks: When such a person is brought before the court pursuant to an arrest under this section and the court thinks that the person: 
+a. Offender likely non-attendance: Is unlikely to surrender to custody, or to make himself or herself available for investigations or to attend court; or
+b. Offender broken or likely to break conditions: Has broken or is likely to break any conditions of his or her bail or personal bond,
+the court may remand the person in custody or grant him or her bail subject to such conditions as it thinks fit
+
+When Court considers whether bail should be granted again under s103(4) 
+PP v Yang Yin 
+- Factors typically considered 
+a. Risk of offender absconding is low 
+b. Whether there are reasonable grounds for believing the accused is guilty of the offence
+c. The nature and gravity of the offence charged;
+d. The severity and degree of punishment that might follow;
+e. The danger of the accused absconding if released on bail;
+f. The accused’s character, means and standing;
+g. The danger of the offence being continued or repeated;
+h. The danger of witnesses being tampered with;
+i. Whether the grant of bail is essential to ensure that the accused has an adequate opportunity to prepare his defence; and
+j. The length of the period of detention of the accused and the probability of any further period of delay.
+
+Actual non-attendance is an offense 
+S103(4) CPC
+- Non-attendance knowingly and without reasonable excuse => Guilty of an offence and liable on conviction to a fine or to imprisonment not exceeding 3 years or both: A released person shall be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 3 years or to both, if the released person knowingly, and without reasonable excuse, fails to comply with any duty imposed on the released person:
+a. To surrender to custody;
+b. To be available for investigations; or
+c. To attend court on the day and at the time and place appointed for the released person to do so.
+
+S103(5) CPC
+- Presumption of no reasonable excuse if: For the purposes of subsection (5), a released person is presumed, until the contrary is proved, to have no reasonable excuse if:
+a. Released person left Singapore without permission and has not returned: On or before the date of the failure to comply with the duty, the released person left Singapore without the permission of a police officer or the court (as the case may be) and has not returned to Singapore; or
+b. Released person remains outside Singapore without permission on date of breach: On the date of the failure to comply with the duty, the released person, being outside Singapore, remains outside Singapore without the permission of the police officer or the court, as the case may be.
+
+Step 7A: Whether accused’s personal bond will be forfeited? 
+If prove s107(2)(a) – 107(2)(c) => Court will carry out s107(2)(d) – s107(2)(h)
+S107(2)  
+- If it is proved to Court’s satisfaction that:
+a. Accused without reasonable excuse failed to comply with duty imposed on him OR: Released person bound by bond has, without reasonable excuse, failed to comply with any duty imposed on him; or 
+b. Accused without reasonable excuse failed to keep the peace OR: Released person bound by bond has, without reasonable excuse, failed to keep the peace; or 
+c. Accused failed to be of good behavior: Released person bound by bond has failed to be of good behavior 
+ 
+S107(2)  
+- Court:
+d. Must record basis of proof: Must record basis of proof
+e. Must forfeit bond: Must forfeit bond 
+f. May summon accused before Court: May summon released person before the Court
+g. May call accused to pay whole or part of bond or explain why sum should not be paid: May call released person to pay whole or part of the bond or to explain why that sum should not be paid 
+h. May order sum be paid in instalments: May order that the sum be paid in instalments 
+
+If accused’s personal bond has insufficient money => Court can make certain orders 
+- If the sum is inadequate: 
+a. Court can issue attachment of property belonging to accused: Court can recover unpaid amount by issuing an order for attachment of any property belonging to the released person (s107(3))
+b. Court can send accused to prison for term lesser than 12 months: Court can send the released person to prison for a term not exceeding 12 months (s107(6))
+c. Unsatisfied part constitutes a judgement debt in favor of Singapore government: The unsatisfied part of the sum constitutes a judgement debt in favor of Singapore government and nothing prevents government from recovering it as such (s107(8))
+
+Step 7B: Whether surety’s bond will be forfeited?
+If prove s107A(2)(a) – 107A(2)(c) => Court will carry out s107A(2)(d) – s107A(2)(h) => If surety gives inadequate explanation and s107A(3)(a) – 107A(3)(c) is proved => Court will carry out s107A(3)(d) – 107A(3)(e)
+S107A(2)
+- If it is proved to Court’s satisfaction that:
+a. Accused without reasonable excuse failed to comply with duty imposed on him OR: Released person bound by bond has, without reasonable excuse, failed to comply with any duty imposed on him; or 
+b. Accused without reasonable excuse failed to keep the peace OR: Released person bound by bond has, without reasonable excuse, failed to keep the peace; or 
+c. Accused failed to be of good behavior: Released person bound by bond has failed to be of good behavior
+
+S107A(2)
+- Court:
+d. Must record basis of proof
+e. Must forfeit bond 
+f. May summon accused before Court: May summon released person before the Court
+g. May call surety to explain why bond should not be forfeited: May call surety to explain why the bond should not be forfeited 
+h. May call accused to pay bond or explain why accused should not pay that sum: May call released person to pay whole or any part of the bond or to explain why released person should not pay that sum 
+
+s107A(3)
+- If surety gives inadequate explanation and it is proved to the Court’s satisfaction that: 
+a. Surety in breach of s104 duties: Surety is in breach of surety’s duties under s104; or 
+b. Surety failed ensure accused keeps the peace: Surety has, without reasonable excuse, failed to ensure released person keeps the peace; or 
+c. Surety failed to ensure accused is of good behavior: Surety has, without reasonable excuse, failed to ensure that the released person is of good behavior
+
+S107A(3) 
+- Court: 
+d. Must record basis of proof 
+e. May having regard to circumstances of case: 
+(i) May forfeit surety’s bond: Forfeit whole or part of the bond; and
+(ii) May order surety to pay amount forfeited: Order surety to pay amount forfeited 
+=> Court can allow surety to pay by instalments (s107A(4))
+
+Surety’s duties under s104
+S104 of CPC 
+- Surety duties: 
+a. Ensure accused surrenders to custody and attends investigation and Court: Must ensure released person surrenders to custody, or makes himself available for investigations or attends court on the day, time and place appointed for him 
+b. Keep in daily communication with accused and lodge police report within 24 hours of losing contact: Must keep in daily communication with the released person and lodges a police report within 24 hours of losing contact with him
+c. Ensure accused is within Singapore: Must ensure released person is within Singapore unless released person has been permitted by police officer or court to leave Singapore 
+
+2-Stage test when Court considers whether surety’s bond should be forfeited under s107A(3)(e) of CPC
+Cher Ting Ting v PP 
+Court will consider question of forfeiture in 2 stages: 
+1. Stage 1: Whether surety has shown sufficient cause for the non-forfeiture of the bond amount 
+2. Stage 2: If surety has failed to show sufficient cause, Court will exercise discretion to determine the extent to which the bond is to be forfeited 
+
+Stage 1: Whether surety has shown sufficient cause for the non-forfeiture of the bond amount 
+Definition of “sufficient cause” 
+- Whether the surety is able to show that he exercised reasonable due diligence in the discharge of his duties as surety: 
+a. Diligent attempts to remind accused of date of appearance + Seek assurance of appearance: Surety must have made diligent attempts to remind the accused of the date of appearance and seek an assurance from him that he would be appearing 
+b. Mere reliance on faith insufficient: Mere reliance on faith alone that accused will show up for court hearings, without more, is insufficient 
+c. Surety cannot defend himself by alleging he delegated duty: Surety’s duties are personal to surety. When surety chooses to delegate his duties to another person, he runs the risk of being in breach of his duties should the accused fail to attend court and surety cannot argue that he had delegated the duty 
+d. When accused goes missing => Making police report alone is insufficient: When accused goes missing, the making of a police report, without more, is insufficient 
+e. When accused goes missing => Passively waiting for accused to return is insufficient => Surety must go and find accused: When accused goes missing, passively waiting and hoping for accused to return is insufficient. Court will consider whether the surety expended effort to look for the accused 
+f. When accused is travelling => Need obtain accused’s details for surety to contact accused: When accused is travelling, omission to obtain from the accused details that would allow the surety to contact or locate him is demonstrative of negligence on the surety 
+g. If surety ignores suspicious circumstances of accused intention to abscond => Surety failed: If surety turns a blind eye towards suspicious circumstances which indicate that accused had intention to abscond, the surety will have failed 
+h. Court consider if surety takes sufficient steps: Court will consider if surety had taken sufficient steps on previous occasions to ensure accused’s attendance in Court 
+
+PP v Mahadi bin Mohamed Daud – Surety failed sufficient cause as did not take any steps to contact accused besides sending a single facsimile one day before date of accused returning from overseas 
+- Respondent had NOT shown sufficient cause as he had not taken any steps to contact the accused beyond sending a single facsimile to the accused one day before the date the accused was to return to Singapore for a hearing scheduled the next day 
+
+Ram Mahtani – Sureties failed sufficient cause 
+- First and second bailors had not exercised due diligence: 
+a. Bailor merely called accused when accused overseas: First bailor had done nothing more than to call the accused while the accused was abroad to ask how things were going and believing that the accused’s love for her and the family would ensure his attendance in court 
+b. Bailor did not obtain accused’s contact number or remind him to return for hearing: Second bailor took no steps to obtain his contact number overseas or to call him to remind him to return in time for the hearing 
+
+Wang Choong Tsuey – Sureties failed sufficient cause
+- Surety knew that accused leaving Singapore without permission but failed to do anything else: Surety was aware that accused had left Singapore despite accused’s claims that he was ill and unfit to attend court. Surety also know accused was prohibited by conditions of bail from leaving Singapore without permission and accused had not obtained such permission. 
+- The circumstances were dubious and the surety should have known something was amiss and failed to exercise due diligence to secure the appearance of the accused. 
+
+Stage 2: If surety has failed to show sufficient cause, Court will exercise discretion to determine the extent to which the bond is to be forfeited 
+Cher Ting Ting v PP
+General rule: 
+- Starting point is forfeiture of the entire amount of the bond
+- However, court will depart from this prima facie position only if the surety satisfies the Court that there are exceptional circumstances warranting such a departure 
+
+Definition of “exceptional circumstances” 
+1. Degree of culpability of surety 
+- If surety connived at, aided or abetted disappearance of accused => Culpability high => Forfeiture of whole bond
+- If surety negligent in performing duties => Forfeiture of whole or substantial part of the bond 
+- If surety used every effort to secure appearance of accused => Surety would be able to show sufficient cause for non-forfeiture under stage 1 and the issue of quantum of forfeiture would not arise 
+- Note: It will not assist surety for him to just say that he could not possibly have placed the accused under close surveillance all the time because surety decided to take on the role of a surety voluntarily 
+
+2. Surety’s financial circumstances is relevant but alone, it is inadequate for reduction in forfeiture 
+- Financial means is relevant but it is alone in adequate for reduction in forfeiture 
+- Note: Surety’s plea that he did not have enough is generally not a sound reason to reduce the amount forfeited. If it was then bail would fail to achieve its purpose of compelling accused to surrender himself and attend court. Also, if the surety is unable to endure the financial consequences, he ought to have considered this before he agreed to undertake the obligation. 
+
+3. Potential impact of forfeiture on the surety’s dependents 
+- E.g. if forfeiture will result in sale of property in which surety lives with his family then court could forfeit a smaller amount 
+- Note: However, surety should have in mind the potential consequences of forfeiture before agreeing to become a surety and in almost every case, the forfeiture of bond will have an impact on family finances and trickle-down effect 
+
+4. Whether surety made efforts to locate accused and secure his subsequent arrest or attendance after the accused’s non-attendance in court 
+- If accused’s eventual appearance in Court leading subsequently to his custody was due to the efforts of the surety who located the accused and secured his attendance then it is good reason for Court to reduce forfeiture 
+- If accused’s eventual arrest was attributable to efforts of the police instead then surety should not get any credit 
+
+5. Whether there is a satisfactory explanation for the accused’s absence e.g. accused is hospitalized
+- Court said that it is open to argue whether this factor should be considered especially where the surety has been negligent, e.g. accused is hospitalized and surety is negligent and does not know what happened to the accused: 
+a. If the argument is accepted then the moral luck of the surety would b the only thing that saves him from complete forfeiture of bail. Surety was negligent and it is only by chance that he does not suffer forfeiture 
+b. Surety who is diligent would have some knowledge of accused’s whereabouts and could save investigation officer time 
+
+If surety insufficient money => Court can make certain orders 
+- If the sum is inadequate: 
+a. Court can issue attachment of property belonging to surety: Court can recover unpaid amount by issuing an order for attachment of any property belonging to the surety (s107A(6)) 
+b. Court can send surety to prison for term lesser than 12 months: Court can send surety to prison for a term not exceeding 12 months (s107A(9)) 
+c. Unsatisfied part constitutes a judgement debt in favor of Singapore government: The unsatisfied part of the sum constitutes a judgement debt in favor of Singapore government and nothing prevents government from recovering it as such (s107A(11)) 
+Court has power to cancel bail at any time 
+S93(5)
+- Any court may at any subsequent stage of any proceeding under this Code cause any person who has been released under this section to be arrested and may commit the person to prison
+
+Issue: Can accused appeal against a bail decision? 
+Accused must file criminal motion in Form 73 to appeal against bail decision 
+Mohamed Razip v PP
+- Accused cannot file an appeal because a bail order is not an “order” of which an appeal can be filed 
+- However, an accused can file a criminal motion (s 406(1) CPC) to invoke the High Court’s powers under s97 of the CPC: 
+
+S97 of CPC
+- High Court has discretion to: 
+a. Release accused on bail 
+b. Vary amount or conditions of bail 
+c. Stay on execution of lower court’s order to release accused on bail 
+d. Direct any person on bail to be arrested and committed to custody 
+
+Where prosecution applies to GDHC appeal against bail => GDHC must stay execution of bail order until decision is made
+S97(2) of CPC
+- Where State Court release accused on bail for a non-bailable offense => Prosecution applies to Gen Div of HC to stay execution of the order to release => Gen Div of HC MUST stay execution of the order to release until they have reviewed and decided whether State Court is right to release accused on bail 
+
+Issue: What is the effect of bail on the accused’s sentence? 
+Sentence usually takes effect on date it was passed => Court has discretion to backdate sentence 
+S318 of CPC
+- Generally, the sentence of imprisonment takes effect on date it was passed => However, Court has discretion to backdate the sentence to when the accused was first remanded 
+
+Sentence can be backdated to take into account time spent in remand even where there has been an intervening period of bail 
+Vasentha d/o Joseph
+- Accused was arrested and served periods in remand before released on bail 
+- The previous periods served were taken into account in sentencing 
+
+Sivanantha a/l Danabala 
+- In Mandatory Minimum Sentence cases, court may take into account the period of detention preceding the period when accused was released on bail when determining the start date of remand 
+- Reason: This ensures that the accused is not excessively punished 
+
+Period in which an accused has been out on bail should not be taken into account in backdating sentence 
+PP v Sivanantha a/l Danabala 
+
+Issue: Can there be release on bail pending appeal of substantive matter? 
+- See below section: Stay of Execution pending Appeal + Bail pending Appeal 
+
+Issue: How can sureties discharge themselves? 
+Surety can discharge themselves under s105 of CPC
+S105 of CPC
+- Surety can at any time apply to Court to discharge the bond 
+- Mechanism: When surety apply to discharge bond => Court issue arrest warrant directing released person to be brought to Court => When released person appears before Court under the warrant or voluntarily, bond will be discharged wholly => Released person will have to provide other sufficient sureties => If not, then released person will be committed to custody 
+
+Issue: Prohibitions against agreement to indemnify surety 
+Agreements to indemnify surety against liability for breach of bail bond are void => Both parties in agreement will be guilty of offense and liable for punishment 
+S106A(1) and s106A(2) (applies to agreements on or after 31 October 2019) 
+- Agreement indemnifying or purporting to indemnify surety against any liability he might incur as a surety to a bail bond is void
+- Person who knowingly enters such an agreement => Guilty of offense and liable on conviction to a fine or to imprisonment not exceeding 3 years or both 
+
+Offense is committed regardless of when agreement was entered into and the consideration used
+S106A(3)
+- Offense is committed: 
+a. Regardless whether agreement is entered into before or after person to be indemnified becomes a surety
+b. Whether or not the person to be indemnifies becomes a surety 
+c. Whether the agreement contemplates compensation in money or money’s worth 
+
+
+ 
+RANDOM NOTES FROM CONTACT SESSION 1 
+Avoid being pressured to a definitive position 
+- And if you give a position, give caveats – “based on what you’re telling me now, …” 
+
+Fees
+- Give an amount of certainty or a fee cap if possible 
+o For trial, complexity is unknown so best not to give fee cap there
+
+Conflict check
+- Get client’s full name and do conflict check before even speaking to the accused person 
+
+Take notes of meeting
+- Because when shit goes bad the client will turn around and blame you 
+
+First appearance in court 
+- Unless taking over conduct of the defence midway through proceedings, first appearance will be on issues of bail or potential remand in IMH 
+
+Scene visit …? 
+
+Interviewing of witnesses 
+- What to ask – whether the accused 
+- Write to the prosecution asking for access to the witness 
+- The police don’t own the witnesses they get ahold of 
+- Record interviews properly 
+- Client must be warned not to discuss the case with witnesses. They may continue talking to witnesses who are their friends/spouses etc., but no discussing the case 
+
+Also look out for accused persons who you suspect have underlying mental health issues – then you can send for treatment etc. 
+- Private psychiatrist or IMH? Private is more expensive but faster. IMH is cheaper and slower because they have a big caseload already 
+- If you go down the private psychiatrist route and the report is favorable, the prosecution will want a second opinion from IMH. Would drag out proceedings more 
+
+At every stage of the case, you must update the client and/or their family about what is happening 
+- The nature of criminal matters is that there will be a number of adjournments sought for the first couple months of a case in order to do a bunch of nonsense 
+- Adjournments are now sought online through ICMS, so the accused himself wouldn’t have gone to court to get the adjournments. So important for you to update them 
+
+Dealing with client’s antecedents 
+- Prosecution knows of client’s antecedents, so no point trying to hide them. Deal with them head on, say they’re old or not relevant to the current offence 
+
+Part-heard cases 
+- The court will not give you all the dates that you think you need for trial 
+- Reason – many cases crack before trial – accused plays chicken with prosecution and one of them folds 
+Pre-trial negotiations 
+Possible things up for negotiations with PP:
+1. PG offer, including number of charges and which charges to proceed with
+2. Type of charges (PG to simple hurt, instead of…)
+3. Statements of Fact (if D claims trial), certain facts can be negotiated (e.g. client met the outrage of modesty victim by chance, rather than alleged stalking)
+4. Sentencing positions (before D pleads guilty)
+5. Trial issues (to streamline focus of the trial – if PP accepts those facts, then don’t need to cross examine and save time --> agreed statement of facts. But be careful of agreed statement of facts and get client to agree)
+
+CCMS can be conducted at ANY time, conditional on PP agreeing.
+
+RAMESH CONTACT SESSION 
+How to arrange to meet the DPP about the case? 
+- In the past, would just meet at the PTC, very ad hoc. But now there’s a format, have to apply on the website for a CCMS, a meeting with the DPP. Have to give reasons, they can approve or reject it. 
+o Generally they are quite likely to agree to a meeting especially if they know why you want to meet 
+- Another way is to write a letter of representation. There is nothing in the CPC or anywhere else about this, and some small amount of caselaw about it. Sent through email (?), uploaded through AGC website.
+o They won’t read it unless you attach a declaration under s 182 Penal Code – a declaration that this is the truth according to your client. 
+o Have to CC the email to the investigating officer 
+- Letter of representation is not really a discussion – just a statement of reasons for why the client is innocent or wants to have charges reduced or whatever. The reply is yes/no and there are no reasons given. The CCMS is a proper discussion, and you may go away realizing why the prosecution is proceeding in the way that it is proceeding. Then can convey that to the client as well. 
+- Prepare for CCMS 
+o Common complaint from DPPs is that defense counsel are not prepared for the CCMS, or are using it as a fishing expedition to find out what evidence there is against their client. 
+- CCMS can be held at any time all the way up till the trial. But know why you want the CCMS
+o If you want to discuss the evidence with prosecution, then doing the CCMS too early is not going to be fruitful 
+o Generally, it’s better to have the meeting later, once the prosecution has all the evidence 
+o If the pre-trial negotiation is about sentencing or plea bargaining, then time is of the essence because of the new guidelines that limit the time in which you can submit those
+
+How much of your case do you actually tell the DPP? 
+- No right or wrong answer. Some DPPs are very open 
+- Ramesh himself is reluctant to reveal too much early on. Have to judge the DPP to see whether they will try to manipulate what you’re saying 
+- If you have a really good piece of evidence to show that the client is innocent, then it may save time and costs for you to just show your hand get the prosecution to drop the whole thing early 
+
+Ask for the transcript 
+
+Evidence 
+- Kadar 
+o Kadar was the first case that said that any material that is admissible, relevant and credible to the guilt or of the accused (or leads to such evidence) must be given to the defence 
+- Nabil – an extension of Kadar 
+o Doesn’t speak about material evidence, but rather speaks about a “material witness” statement – the statement of a material witness
+* Material witness – one who is relevant, who was there or sth like that 
+o If the prosecution decides not to call him, they have to provide his statement to the defence. Don’t need to further decide whether the witness is helpful or not, that is for the defence to decide 
+o The court left open in this case – whether to give the defence the statements of witnesses who have been called 
+- Ramesh says there are some shortcomings with the principles (non-examinable) 
+
+Plead guilty provisions 
+- S 327 CPC – If accused doesn’t PG properly at plead guilty mention, then the case is sent back to CCDC for him to serve the case for the defence 
+
+*Criminal Case Disclosure Conference (CCDC) – pre-trial procedure, where accused claims trial and does not plead guilty. ONLY APPLIES IN DISTRICT COURT CASES (NOT magistrate’s court cases)
+- If accused claims trial => See if CCDC applies => If so, CCDC procedure (Training Unit No. 7) 
+- Regardless of whether CCDC applies => Prosecution has disclosure obligations (Training Unit No, 7)
+*GENERAL PROVISIONS ON CCDC
+Purpose of CCDC
+S160(1) CPC
+- Prosecution and Defense must attend a CCDC as directed by a Court in accordance with Division 2 (s160 – s168) for the purpose of settling the following matters:
+a. Filing of Case for the prosecution and Case for the defense 
+b. Any issues of fact or law which are to be tried by the trial judge at the trial proper
+c. List of witnesses to be called by the parties to the trial 
+d. The statements, documents or exhibits which are intended by the parties to the case to be admitted at the trial
+e. The trial date 
+
+Duties of Magistrate or DJ presiding over CCDC
+Judge must not make an order (relating to s160(1)) if prejudicial to a party who is absent
+S160(2) CPC
+- The Magistrate or District Judge who presides over a CCDC must not make any order in relation to any matter in s160(1) in the absence of any party if the order is prejudicial to that party
+
+Judge who presided over CCDC must not conduct the eventual trial of accused
+S160(3) CPC
+- Where an accused claims trial, the Magistrate or District Judge who had presided over the CCDC in relation to the accused’s case must not conduct the trial 
+
+If accused wants to plead guilty during CCDC => Judge must fix date for the accused’s plea of guilt to be taken
+S160(4) CPC
+- Where accused informs Court during any CCDC that the accused intends to plead guilty to the charge => Court must fix a date for accused’s plea to be taken under Division 3 of Part 11 (s227 – s228) 
+
+Practical points on CCDC 
+- Defence might want to participate in CCDC disclosure regime 
+a. It forces the Prosecution to disclose their case and evidence at an early stage 
+
+- Defence might want to opt out of CCDC disclosure regime
+a. CCDC forces defence to put down its case at an earlier stage which creates a risk that adverse inferences may be drawn against the client during the trial if an inconsistent argument is mounted
+b. Defence can already rely on the informal CCMS system and common law disclosure rules to obtain evidence from the Prosecution 
+
+CCMS (non-examinable)
+- CCMS: Informal method to request for disclosure of evidence
+a. Defence can write in to DPPs specifying certain documents that they want to see and discuss off the record 
+b. DPPs will assess merits of the request and will consider granting the request 
+
+*DOES CCDC REGIME APPLY? 
+Preliminary: Whether CCDC applies to the matter
+Part 1: If 2 requirements satisfied then CCDC will apply as default 
+S159(1) CPC
+- Subject to s159(2), CCDC procedures apply to an offense which:
+a. Requirement 1: Offense is specified in the Second Schedule; and
+b. Requirement 2: Offense is to be tried in a District Court 
+
+Requirement 1: Offense is specified in the Second Schedule CPC
+- Includes Penal Code offenses, offences under Misuse of Drugs Act, etc.
+
+Requirement 2: Offense is to be tried in a District Court 
+- S8(1) CPC: District Court can try offenses which have a maximum term of imprisonment not exceeding 10 years 
+* S7(1) CPC: Magistrates’ Court can try offenses which have a maximum term of imprisonments not exceeding 5-years or fine-only offenses 
+
+Sentencing jurisdiction of District Court 
+S303(2) of CPC
+- Subject to this Code and any other written law, a District Court may pass any of the following sentences:
+a. Imprisonment not exceeding 10 years: Imprisonment not exceeding 10 years;
+b. Fine not exceeding 30k: Fine not exceeding $30,000;
+c. Caning not exceeding 12 strokes: Caning not exceeding 12 strokes;
+d. Any other lawful sentence, including a combination of the sentences it is authorised by law to pass.
+
+Sentencing jurisdiction of Magistrates’ Court: 
+S303(3) of CPC: Subject to this Code and any other written law, a Magistrate’s Court may pass any of the following sentences:
+- Imprisonment less than 3 years: Imprisonment not exceeding 3 years;
+- Fine less than 10k: Fine not exceeding $10,000;
+- Caning less than 6 strokes: Caning not exceeding 6 strokes;
+- Any other lawful sentence, including a combination of the sentences it is authorised by law to pass
+
+TLDR
+- Check 2 things: 
+1. Offense max imprisonment 10 years 
+2. DPP chooses to try it in DC
+a. DPP can choose to try a case in the DC instead of the MC even though he can try it in the MC
+
+Part 2: Even if CCDC applies as default, Defense counsel can opt out of CCDC --> need to opt out before court gives direction for PP to file CFP, if you not would be duty bound to file CFD and failure to do so would lead to an adverse inference
+S159(2) CPC
+- Defense counsel must opt out before date of first CCDC: The criminal case disclosure procedures do not apply if the defence, on or before the date of the first criminal case disclosure conference fixed by a court under section 161(1), or such other date to which the first criminal case disclosure conference is adjourned under section 238, informs the court that the accused does not wish to have the criminal case disclosure procedures apply.
+
+Part 3: Even if CCDC does not apply as default, Prosecution and Defense counsel can agree to opt in 
+S159(3) CPC
+- For any offence other than an offence mentioned in subsection (1), the criminal case disclosure procedures do not apply unless all parties consent to have the procedures apply.
+
+Where CCDC does not apply 
+Court can fix date for trial or transfer case to another Court  
+S170 CPC
+- Where CCDC procedures do not apply by virtue of s159 and on the date the accused is asked by the Court how he wishes to plead and the accused refuses to plead/does not plead guilty/claims trial, the Court may
+a. Proceed to try the accused immediately or on such date as the Court directs; OR 
+b. Transfer the case to another court of equal jurisdiction for the case to be tried in accordance with Part 12 at a later date 
+
+Court can fix date and conduct case conferences to settle administrative matters
+S171 CPC
+- Where CCDC procedures do not apply by virtue of s159, Court may at any time, fix the date for and conduct a case conference to settle any administrative matters in relation to a trial 
+
+*STEPS FOR CCDC
+
+
+Step 1: Court will fix date of first CCDC 
+S161(1) of CPC
+- 1st CCDC to be fixed at least 8 weeks after date which Accused claims trial: In a case where CCDC procedures apply under s159 + Accused refuses to plead or does not plead guilty or claims trial => Court must fix first CCDC date not earlier than 8 weeks from the date the Accused refuses to plead/does not plead guilty/claims trial 
+
+If accused supposed to PG on certain day => But accused refuses to PG => Case will go to trial => Court will fix first date of CCDC
+S227(5) of CPC
+- Where:
+a. The criminal case disclosure procedures apply by virtue of section 159 in relation to a case;
+b. A date is fixed for a plea of guilty to be taken from the accused to whom the case relates; and
+c. On that date, the accused refuses to plead, does not plead or claims trial,
+the court may order the parties to the case to attend a criminal case disclosure conference for the purpose of settling the matters mentioned in section 160 and the procedures in Division 2 of Part 9 apply, with the necessary modifications, in relation to the case.
+
+Step 2: Prosecution must file and serve Case for Prosecution (CFP) 
+S161(2) of CPC
+- Within 2 weeks after first CCDC: If at first CCDC, the defense does not indicate that he wishes to plead guilty then the prosecution must file in Court the Case for the Prosecution + serve a copy of this on the accused and every co-accused => Not later than 2 weeks from the date of the first CCDC or such date to which first CCDC is adjourned 
+* Prosecution must file Case for the Prosecution in Court 
+* Prosecution must serve Case for the Prosecution on accused and every co-accused 
+
+S161(3) of CPC
+- If defense indicates that accused wishes to claim trial to more than one charge => Case for Prosecution must only relate to those charges that the prosecution intends to proceed with at trial 
+
+Contents of Case for Prosecution 
+S162(1) CPC
+- Case for Prosecution must contain: 
+a. Charge which prosecution intends to proceed on: Charge which prosecution intends to proceed with at trial 
+* (Doesn’t matter if prosecution ends up not proceeding on the charges) 
+b. Summary of facts: Summary of facts in support of charge (e.g. if theft, D seen taking an item and leaving without payment)
+c. Witnesses used by prosecution: List of names of witnesses for prosecution 
+* (Doesn’t say role, language that witness speaks, relevance etc.) 
+d. Exhibits used by prosecution: List of exhibits that are intended by the prosecution to be admitted at the trial 
+e. Written statements made by accused used by prosecution: Any written statement made by the accused at any time and recorded by an officer of a law enforcement agency under any law, which the prosecution intends to adduce in evidence as part of the case for the prosecution 
+f. Audiovisual recording statements made by accused used by prosecution: A list of every statement, made by the accused at any time to an officer of a law enforcement agency under any law, that is recorded in the form of an audiovisual recording and that the prosecution intends to adduce in evidence as part of the case for the prosecution 
+g. Transcript of every audiovisual recording statement used: For every statement in para (f), a transcript of the audiovisual recording of that statement 
+
+S162(2) CPC
+- After Case for Prosecution is served on defense, prosecution must, if requested by defense, arrange for defense to view the audiovisual recording at a police station or any prescribed place 
+
+Step 3: Court will fix date of second CCDC
+S161(4) of CPC
+- 2nd CCDC to be fixed at least 7 days from date of filing of Case for Prosecution: The Court may at any time fix a date for second CCDC not earlier than 7 days from the date the Case for the Prosecution is to be filed under s161 
+
+If accused is unrepresented at second CCDC => Court must inform accused of s163(1), s166 and s169(1)
+S164 of CPC
+- At second CCDC as planned under s161(4), if the accused is not represented by an advocate, the Court must explain to the accused the requirements of s163(1) and effect of s166 and the consequences for non-compliance under s169(1)
+
+Step 4: Defense must file and serve Case for Defense (CFD)
+S163(1) of CPC
+- Within 2 weeks after second CCDC: If at the second CCDC, the accused does not indicate that he wishes to plead guilty then the defense must file in Court the Case for the Defense + serve a copy of this on the prosecution and every co-accused => Not later than 2 weeks after the date of the second CCDC 
+* Defense must file Case for the Defense in Court 
+* Defense must serve Case for the Defense on the Prosecution and every co-accused 
+Ramesh: you can apply for an extension past the 2 weeks to file a CFD
+
+Ramesh: 
+(1) for CCDC in High Court transmission cases, it is up to defence whether to file the CFD in response to CFP. It is optional and no adverse inference will be drawn (cf CCDC in District Court cases)
+(2) for CCDC in High Court, CFP must contain prosecution witnesses’ evidence in chief instead of a summary of facts (for CFP in DC cases)
+
+Contents of Case for Defense 
+S165(1) CPC
+- Case for Defense must contain: 
+a. Defense and facts in support of defense: Summary of the defense to the charge and the facts in support of the defense. 
+o E.g. offence of causing hurt, so defence of self-defense – summary should include SD defence, and how defence arose. 
+o E.g. For theft, D had no intention, forgot that he had it without paying, etc.
+o There must be sufficient facts to show what the defence is, essentially with facts of what happened
+b. Witnesses used by defense: List of names of the witnesses for the defense 
+c. Exhibits used by defense: List of exhibits that are intended by the defense to be admitted at the trial 
+d. Objections to anything in the Case for Prosecution: If objection is made to any issue of fact or law in relation to any matter contained in the Case for Prosecution 
+(i) A statement of the nature of the objection 
+(ii) The issue of fact on which evidence will be produced
+(iii) Points of law in support of such objection 
+Illustration 1
+          A is charged with robbery. The summary should state the nature of the defence, the facts on which it is based (for example, that the victim gave the items to A voluntarily) and any issue of law which A intends to rely on (for example, that A’s act did not amount to robbery as the elements of that offence were not made out, or that a general exception in Chapter 4 or right of private defence in Chapter 4A of the Penal Code 1871 applied in this case).
+
+Illustration 2
+          The accused, A, intends to challenge, at the trial, the voluntariness of A’s statements made to the police which statements are intended by the prosecution to be admitted as part of its case. A must specify which of the statements A intends to challenge and the facts that A intends to rely on to support A’s challenge.
+
+If accused is unrepresented => Case for Defense need not state objections to issues of law and points of law in support of defense 
+S165(2) CPC
+- If accused is unrepresented by an advocate, then he need not state any 
+a. Objection to any issue of law in relation to any matter in the Case for Prosecution; or 
+b. Point of law in support of any objection raised by the defense  
+
+Step 5A: Prosecution must serve other documents on Defense (Prosecution’s Supplementary Bundle) --> contains every other written statement of D
+S166(1) of CPC
+- Within 2 weeks after being served Case for Defense: Where Case for Defense has been served on prosecution, prosecution must, within 2 weeks after date on which Case for Defense is served, serve on the defense copies of: 
+a. Every written statement given by accused and which prosecution intends to use: Every other written statement given by the accused and recorded by an officer of a law enforcement agency under any law in relation to the charges which the prosecution intends to proceed with at the trial 
+aa. Every audiovisual recording given by accused and which prosecution intends to use: For every other statement given by the accused and recorded, in the form of an audiovisual recording, by an officer of a law enforcement agency under any law in relation to the charges that the prosecution intends to proceed with at the trial and a transcript of the audiovisual recording 
+b. Documents under s162(1)(d) – exhibits used by prosecution: Each documentary exhibit mentioned in s162(1)(d)
+c. Criminal records: Criminal records (if any) of the accused upon payment of prescribed fee
+
+S166(2) of CPC
+- Prosecution must, if requested by the defense, arrange for defense to view audiovisual recordings of statements under s166(1)(aa) 
+
+Situation: Where Case for Defense is not served on prosecution 
+S166(3) of CPC
+- Where Case for Defense has not been served (by D) on prosecution, the prosecution need not serve the PSB:
+a. Need not serve on the defense any written statement, exhibit, transcript or record mentioned in s166(1); and
+b. Need not arrange for viewing of audiovisual recordings under s166(1)(aa); and
+c. May use any such statement, exhibit, transcript, record or audiovisual recording at the trial 
+
+Step 5B: Defense must serve other documents on Prosecution (Defense’ Supplementary Bundle) --> things in custody of D
+S166(4) of CPC 
+- Within 2 weeks after serving Case for Defense: Where Case for Defense has been served on prosecution, defense must, within 2 weeks after date on which Case for Defense is served, serve on the prosecution: 
+* Documents under s165(1)(c) – exhibits used by defence: A copy of each documentary exhibit set out in s165(1)(c) and is in the possession, custody or power of the accused
+*NB: The obligation to serve the PSB and defence bundles (DSB) are independent of each other.
+
+Step 6: Court fix date of third CCDC 
+S163(2) of CPC
+- Anytime, after Case for Defense is filed by defense and prosecution has served PSB: The Court may at any time fix a date for third CCDC after the Case for the Defense is filed and after the prosecution has served on the defense the documents under s166(1) 
+
+Step 7: During third CCDC, Court will fix dates for trial 
+S167 of CPC
+- If at the third CCDC the accused does not indicate that he wishes to plead guilty, the Court may fix a date for trial 
+
+*Dispensation of personal attendance of accused at CCDC 
+- The defence may indicate that the accused wishes to plead guilty, rather than the accused himself indicating (s167 CPC)
+- Documents can be served on counsel and do not need to be served on the accused personally 
+
+**Consequences of non-compliance with CCDC
+Court can draw inferences from non-compliance 
+S169(1) of CPC 
+- Court may draw inferences as it thinks fit if:
+a. Either party fails to serve Case: Prosecution fails to serve Case for Prosecution on the defense or defense fails to serve Case for Defense after Case for Prosecution has been served on defense 
+b. Either party’s Case lacking in items: The Case for Prosecution or Case for Defense does not contain any part of the items specified in s162 or s165(1), respectively 
+ba.  Prosecution fails to serve documents mentioned under s166(1): Prosecution fails to serve on the defense any copy of a statement, transcript, documentary exhibit or criminal record that the prosecution is required under s166(1) to serve on the defense 
+bb.  Defense fails to serve documents mentioned under s165(1)(c): Defense fails to serve on the prosecution a copy of each documentary exhibit set out in the list mentioned in s165(1)(c) and is in the possession, custody or power of the accused
+c. **Either party puts forth a case at trial that is inconsistent with the CFP or CFD: Either party puts forward a case at trial which differs from or is otherwise inconsistent with the Cases filed by
+
+Court can order a discharge not amounting to acquittal (DNATA) in certain situations  
+S169(2) of CPC
+- Court can order discharge not amounting to an acquittal in relation to a charge that prosecution intends to proceed at trial if
+a. Situation 1: Prosecution fails to serve Case within time under s161: Prosecution fails to serve Case for Prosecution in respect of that charge within the time permitted under s161
+b. Situation 2: Case for Prosecution does not contain items under s162: Case for Prosecution does not contain any part of the items specified in s162
+c. Situation 3: Prosecution fails to serve other documents under s166(1) within time: Prosecution fails to serve on the defense, within the time permitted under s166(1), a copy of a statement, transcript, documentary exhibit or criminal record that the prosecution is required under that provision to serve on the defense 
+Effect: 
+- Discharge not amounting to acquittal – Leaves open the possibility that the Prosecution may choose to revive proceedings against the accused person 
+- Discharge amounting to acquittal – Conclusively disposes of any charges in the absence of an appeal 
+
+Miscellaneous Issue: Procedure for prosecutor or defense to call witness or produce exhibit not disclosed in CFP or CFD
+S231 of CPC
+(1) Must give prior notice in writing to Court and other parties before calling witness/producing exhibit: The prosecutor or defence may, at a trial, call a witness or produce an exhibit not disclosed in the Case for the Prosecution or the Case for the Defence, respectively, only if the prosecutor or defence (as the case may be) has given prior notice in writing to the court and the other parties to the trial of the intention of the prosecutor or defence (as the case may be) to call that witness or to produce that exhibit.
+(2) Notice must state name of witness, outline of witness evidence, brief description of exhibit: The notice must state the name of the witness and an outline of the witness’s evidence, or provide a brief description of the exhibit, as the case may be.
+
+*Statements recorded in audiovisual recordings 
+- The only offence for which this is required is s 375(1)(a) of Penal Code (rape) (Third Schedule of the CPC). 
+- Impact on the CCDC procedure: the Prosecution is not required to produce the audiovisual recording. 
+o The Defence is entitled to view the recording. If a transcript is made, the accused is entitled to it as soon as practicable (s 23(6) of the CPC).
+o The CFP/PSB will include the transcript (s 166(1)(aa) of the CPC), and viewing of the recording will be arranged in accordance with the CPC.
+
+*Admissibility of CFD and CFP at trial 
+a. Case for Defense can be admissible as evidence 
+S258A(1)(a) of CPC
+- Where any person is charged with an offence, the Case for the Defence filed under section 163(1) or 215(1) by or on behalf of that person:
+* CFD is admissible in evidence at that person’s trial (including during the presentation of the prosecutor’s statement under section 230(1)(d)); --> so admissible for use in cross-examination or to impeach the accused’s credit
+* If D’s evidence in court during cross-examination is found to be inconsistent with the CFD, then will probably lose the case and D will likely be convicted
+The court has discretion to refuse to consider the CFD if the prejudicial effect outweighs the probative value 
+
+If accused tenders himself as witness => Case for Defense can be used in cross-examination to impeach the accused’s credit
+S258A(1)(b) of CPC
+- If that person tenders himself or herself as a witness, may be used in cross?examination and for the purpose of impeaching that person’s credit.
+
+b. Certain documents in the Case for Prosecution may also be admitted as if they are part of the prosecution’s opening statement (s 258B CPC)
+
+
+*Common law disclosure requirements which always apply (not just at CCDC) 
+Common Law Disclosure Obligations apply to parties (regardless of CCDC)
+S6 of CPC
+- As regards matters of criminal procedure for which no special provision has been made by the CPC or by any other law for the time being in force, such procedure as the justice of the case may require, and which is not inconsistent with this CPC or such other law, may be adopted
+Disclosure obligations pursuant to the duty the Prosecution owes “to the court and to the wider public to ensure that only the guilty are
+convicted, and that all relevant material is placed before the court to assist it in its determination of the truth”: Muhammad bin Kadar and another v PP [2011] 3 SLR 1205 (“Kadar I”) at [200].
+The Prosecution has an “overarching duty of fairness” and “acts at all times in the public interest”: Muhammad Nabill bin Mohd Fuad v PP
+[2020] 1 SLR 984 (“Nabill”) at [4] and [37].
+
+*PROSECUTION’S DUTY TO DISCLOSE UNUSED MATERIALS UNDER CERTAIN CONDITIONS (KADAR DUTY)
+Contents of Kadar Duty
+Muhammad bin Kadar v PP 
+Kadar Duty: Prosecution has a duty to disclose unused materials which tend to undermine the prosecution’s case or which strengthen the defense’s case if: 
+a. Scenario 1: 
+(1) Material likely to be admissible, and 
+(2) reasonable regarded as prima facie credible and 
+(3) relevant to guilt or innocence of accused – 
+
+Material is likely to be admissible and might reasonably be regarded as prima facie credible and relevant to the guilt or innocence of the accused; OR 
+
+b. Scenario 2: 
+(1) Material likely to be inadmissible but 
+(2) provides real chance of pursuing line of enquiry to material likely to be admissible, and 
+(3) reasonable regarded as prima facie credible and 
+(4) relevant to guilt or innocence of accused – 
+
+Material is likely to be inadmissible but would provide a real chance of pursuing a line or inquiry that leads to material that is:
+(i) Likely to be admissible; and 
+(ii) Might reasonably be regarded as prima facie credible and relevant to the guilt or innocence of the accused 
+
+Materials excluded from Kadar duty
+- The obligation certainly does NOT cover all unused material, or even all evidence inconsistent with the Prosecution’s case (Kadar I at [113])
+- Unused material neutral to accused or against the accused need NOT be disclosed: Prosecution has no duty to disclose unused material which is neutral or adverse to accused (Kadar I at [113]) – i.e. material not good for accused need not be disclosed, cf material which would help accused needs to be disclosed 
+- Additional materials not within prosecution’s knowledge: Prosecution has no duty to search for additional material to disclose to defense as Kadar duty only applies to unused material within prosecution’s knowledge (Kadar II at [14])
+- The Kadar obligation doesn’t affect the operation of any ground for non-disclosure recognized by any law (Kadar II at [18])
+
+Unused materials which MUST be disclosed under Kadar duty
+- Prosecution witness’s previous statement which is inconsistent with his testimony at trial: A previous statement from a prosecution’s witness that is inconsistent with the prosecution’s witness’s testimony at trial (Nabill at [54])
+- => Prosecution should disclose inconsistent previous statement to defense for defense to cross-examine the prosecution’s witness and impeach witness’ credit if appropriate
+
+Unused material which need not be disclosed
+- Anonymous letter mailed to investigators stating accused not guilty: Anonymous letter mailed to investigators stating that the accused is not guilty 
+=> Not admissible, not prima facie credible evidence, does not provide a real prospect of line of inquiry
+- Statement of person confessing to the crime but person not at crime scene: Statement of a person saying that he had committed the crime instead of the accused but it was clear that the person was not at the crime scene 
+=> Not prima facie credible evidence, does not provide a real prospect of line of inquiry 
+- Photograph of crime scene long after offence was committed: Photograph of crime scene a long time after it was committed
+=> Not prima facie relevant 
+
+Time of application 
+Pre-trial 
+- If CCDC applies – Prosecution should file unused materials in Case for Prosecution: Where the CCDC procedure applies, unused materials under the Kadar duty should be filed together with the Case for Prosecution so that the Defense can take a position before the Case for Defense is filed (Kadar I at [113]; Wee Teong Boo) 
+- No CCDC – Prosecution should disclose unused materials before trial starts: Where CCDC procedure does not apply, unused materials under the Kadar duty should be disclosed at least before the trial starts (Kadar I at [113])
+
+Continuing obligation during trial  
+- If Defense raises new arguments => Prosecution has unused materials which can assist the new arguments => Prosecution must disclose unused materials: If defense raises new arguments and the prosecution has unused material which would help the new arguments, then the prosecution must disclose that unused material 
+- Kadar duty is a continuing one and ends only when case is completely disposed: Prosecution’s Kadar duty only ends when the case is completely disposed of (including any appeal) (Kadar I at [113])
+
+Adjournment of trial if Prosecution disclosed unused materials late 
+Kadar v PP
+- Late disclosure of unused materials under Kadar duty may result in an adjournment to give the defense time to consider the material 
+
+Steps for defense to allege breach of Kadar duty
+Presumption of regularity: Prosecution presumed to discharge Kadar duty
+- There is a presumption that the prosecution has discharged its obligations under the Kadar duty: Lee Siew Boon Winston v PP (“Winston Lee (CA)”)
+
+To REBUT AND DISPLACE presumption of regularity: Defense must show reasonable grounds to believe that prosecution has material in its possession which should be disclosed 
+- Court must be satisfied that there is “sufficient reason to doubt that the prosecution has complied with its obligations under the Kadar duty” 
+- Legal test for “sufficient reason”: Defense must show that there are reasonable grounds to believe that the prosecution has in its possession material which should be disclosed (Winston Lee)
+
+Burden of proof shifts: Prosecution must show it has complied with obligations  
+- After defense satisfies the legal test, the burden of proof will shift to the prosecution to show that it has complied with its obligations under the Kadar duty 
+
+Consequences when Prosecution breaches 
+Breach of Kadar duty will not automatically lead to an acquittal  
+Lim Hong Liang v PP
+- Breach of Kadar duty will not automatically lead to an acquittal
+- **There must be material irregularity that occasions a failure of justice for there to be an acquittal 
+=> Reason: Automatic overturn of conviction will not serve the needs of the society especially where the crime committed is serious 
+- The conviction is unsafe where – provided the non-disclosed evidence is clearly admissible, it strongly points towards an acquittal, with a causal link between the Kadar breach and a wrongful conviction (i.e. the Kadar breach would CAUSE a wrongful conviction of the accused)
+- Otherwise, there may be a retrial if s390(1)(b)(i) CPC is satisfied (appellate court may in an appeal from a conviction order the accused to be retried by a court of competent jurisdiction or remit the matter, with the opinion of the appellate court, to the trial court), in light of established principles governing retrials 
+- Acquittals and retrials are not the only 2 binary options, there may be other outcomes
+
+Stage 1: When deciding whether breach should lead to an acquittal or other outcome such as retrial, Court should consider a few factors which include 
+Lim Hong Liang v PP
+- When deciding the consequences of breach of Kadar duty, Court should balance the following factors: 
+a. Effect of breach on the evidence against the accused
+
+b. How the breach prejudiced the accused 
+(i) E.g. if unused material could have opened up a new line of inquiry against a prosecution witness who can no longer be called for retrial, there may be substantial and irremediable prejudice which warrants an acquittal 
+
+c. Whether steps can be taken to remedy the prejudice caused 
+(i) E.g. Wee Teong Boo v PP: Unused material which would adversely affect victim’s credibility was only disclosed to the defense after the victim had completed her evidence and cross-examination. It was a breach of Kadar duty by the prosecution but the prejudice to the defense can be remedied as the defense can apply for the victim to be recalled as a witness under s283(1) of CPC 
+
+d. Cause of breach and conduct of prosecution 
+(i) For acquittal, there must be doubt about the integrity of the prosecution process, prosecutorial non-disclosure alone is insufficient
+(ii) E.g. Lim Hong Liang v PP: If prosecution’s integrity is not affected, an acquittal is unlikely warranted
+
+e. Broader objectives of the administration of justice 
+(i) E.g. certainty and fairness to accused, and also victims especially when the charge is serious
+(ii) Lim Hong Liang: For the judicial system to operate effectively, those who commit crimes must face the consequences. Rendering acquittals TOO readily because of a Kadar breach will ill serve the needs of society, particularly the victims, especially when the crime committed is serious
+
+Re-Trial: Where non-disclosed evidence must be weighed against other evidence and may help tilt the balance one way or another 
+Lim Hong Liang v PP
+- Where non-disclosed evidence does not clearly point towards acquittal but has to be weighed against other evidence to help tilt the balance one way or another + Balance would require a determination by the Court and the attendant process of adducing that evidence properly => Re-trial should be called for instead of acquittal 
+
+Acquittal: Where non-disclosed evidence clearly point towards acquittal 
+Lim Hong Liang v PP
+- Where non-disclosure is an important piece of evidence that clearly or even strongly points towards acquittal and that evidence is clearly admissible => Court should lean towards acquittal 
+- It is not necessary to show that disclosure would have led to an acquittal in the proceedings in the Court below 
+
+Acquittal: Where non-disclosed evidence would have raised reasonable doubt against PP’s sole witness but the sole witness is unavailable for any retrial => Acquittal 
+Lim Hong Liang v PP
+- Where non-disclosed evidence would have raised reasonable doubt in PP’s sole witness’s testimony => But the witness is unavailable for retrial => Accused would have lost a good chance to disprove his guilt and he suffers substantial and irremediable prejudice by PP’s earlier non-disclosure => It may be in interests of justice to grant acquittal 
+
+No acquittal and no retrial (i.e. continue current trial): Where non-disclosed evidence which affected victim’s credibility was disclosed to Defence after victim completed cross-examination, there IS Kadar breach => BUT no prejudice as Defence can apply for the victim to be recalled under s283(1) of CPC to be questioned on the non-disclosed evidence (Wee Teong Boo v PP) 
+
+Stage 2: RETRIAL – If upon weighing factors, Court decides that retrial ought to be appropriate consequence, Court will assess whether it can exercise its powers under s390(1)(b)(i) of CPC to order a retrial in light of established principles in Beh Chai Hock v PP and AOF v PP
+s390(1)(b)(i) of CPC
+- At the hearing of the appeal, the appellate court may, if it considers there is no sufficient ground for interfering dismiss the appeal, or may in an appeal from a conviction => Reverse the finding and sentence and acquit or discharge the accused or order him to be retried by a court of competent jurisdiction, or remit the matter, with the opinion of the appellate court, to the trial court
+Beh Chai Hock v PP
+- Court must have regard to 2 competing principles:
+1. Persons who are guilty of crimes should be brought to justice and should not be allowed to escape scot-free because of some technical blunder by Trial Judge in course of trial 
+2. Fairness to accused person: If PP has failed to prove case against accused once, he should not ordinarily get a second chance to make good the deficiencies of his case 
+AOF v PP
+- Non-exhaustive factors to be considered by Court in deciding whether re-trial should be ordered
+1. Seriousness and prevalence of offense 
+2. Where original trial was prolonged and complex => The expense and length of time for fresh hearing
+3. Accused ought not to be condemned to undergo a trial for second time through no fault of his own unless the interests of justice required so 
+4. Length of time that will elapse between offence and new trial if one is to be ordered 
+5. Whether there was evidence which tended to support accused at original trial which would no longer be available at new trial 
+6. Relative strengths of case presented by PP and defence/accused at ongoing trial 
+7. There may be cases where despite near certainty that accused would be convicted in re-trial => The countervailing reasons are strong enough to refrain from re-trial 
+8. No need for Court to be satisfied of probability of conviction in re-trial for there to be a re-trial 
+
+Difference between Stage 1 and Stage 2
+- Stage 1 focuses on nature of specific Kadar breach, the causes and effect of the breach and steps to remedy the resulting prejudice => Stage 1 may or may not lead to a retrial and can result in other outcomes such as acquittal 
+- Stage 2 concentrates on whether Court has power to bring about the outcome sought in Stage 1 
+a. Certain requirements from statute or case law might be required for Court to bring about outcome sought in Stage 1 
+
+*DUTY TO DISCLOSE STATEMENTS OF MATERIAL WITNESSES NOT CALLED BY PP (WIDER THAN KADAR) (NABILL DUTY) 
+Muhammad Nabill bin Mohd Fuad v PP
+Nabill Duty: 
+- Where material witness is not called by PP => Prosecution has duty to disclose statements of material witnesses regardless of whether it is (i) neutral, (ii) favourable or (iii) unfavourable to the accused person 
+
+- “Material witness” is someone “who can be expected to confirm or conversely contradict an accused person’s defense in material aspects”
+
+- This additional disclosure obligation *do NOT require the PP to carry out a prior assessment of whether a material witness’ statement is prima facie credible and relevant to the guilt or innocence of the accused (cf Kadar duty – as such Nabill duty is much BROADER in scope than Kadar)
+
+Examples of statements which are required to be disclosed
+- Where police took statements from eyewitnesses at the crime scene but decides to not call the eyewitness as witnesses, their statements should nevertheless be disclosed under the Nabill duty 
+Why? 
+- An accused person ought to have access to all relevant information in order to make an informed decision on whether or not to call a material witness 
+- No decision taken yet on whether the Prosecution is required to disclose the statement of a material witness who is a prosecution witness 
+
+Like Kadar, the Nabill obligation does NOT affect the operation of any ground for non-disclosure recognized by law.
+
+Time of application 
+Prosecution’s additional disclosure obligations are triggered if and when (a) the accused raises a defence and (b) the Prosecution has a statement of a witness who may be expected to materially confirm or contradict that defence: Roshdi at [155]
+
+Muhammad Nabill bin Mohd Fuad v PP
+TLDR – same timelines as for Kadar disclosure
+
+Pre-trial 
+- If CCDC applies – Prosecution should file and serve unused materials in Case for Prosecution: Where the CCDC procedure applies, statements under the Nabill duty should be filed together with the Case for Prosecution
+- No CCDC – Prosecution should disclose unused materials before trial starts and before the accused has given evidence: Where CCDC procedure does not apply, statements under the Nabill duty should be disclosed before the trial and before the accused person has given evidence
+
+Continuing obligation during trial 
+- Nabill duty is continuing and ends when case is completely disposed: Prosecution’s Nabill duty only ends when the case is completely disposed of (including any appeal) 
+
+Steps for Defense to allege a breach of Nabill duty 
+Roshdi bin Abdullah Altway v PP
+- Defense can apply to the Court where there is a dispute or uncertainty as to whether PP’s additional disclosure obligations have been triggered
+- Where Defense intended to allege a breach of PP’s duties in Nabill, Defense should in fairness give PP an opportunity to respond before putting the allegations before the Court 
+- Reason: 
+* Court needs a full picture of the facts to assess alleged breaches
+* Allegations may amount to accusation of professional misconduct against PP who had conduct of the matter 
+
+General process of identifying “material witness”
+Roshdi bin Abdullah Altway v PP
+Part 1: Pre-Trial Stage, Prosecution should first disclose statements of witnesses whom it thought were “material” based on the accused person’s statements and Case for Defense 
+- If PP has doubts as to whether a witness is “material”, it should err on the side of disclosure 
+
+Part 2: Once PP has made its initial disclosures, Defence could then decide whether it wished to notify the PP of any additional witness whom it also considered to be “material” => Defense must explain to PP why the additional witness are “material” 
+- However, the identification of material witness under Nabill continues to run at trial
+- At each stage of the criminal proceeding, the materiality of a witness will be assessed by reference to the defenses the accused person may have disclosed at that point in time
+
+Part 3: PP can either agree or disagree with Defence’s position => If there is a dispute as to “materiality”, either PP or Defense can apply to Court to decide the issue 
+
+Part 4: PP and police have no legal duty to conduct further investigations by recording statements whenever new “material witness” was identified 
+- PP just takes the risk that it would be found to have failed to discharge its evidential burden in respect of facts that had properly come into issue
+
+Reasons for Nabill duty 
+Muhammad Nabill bin Mohd Fuad v PP
+- 2 reasons:
+1. Prosecution might, despite acting in good faith, fail to disclose statements which might tend to support the Defense
+2. Accused person ought to have access to all relevant information in order to make an informed choice in deciding whether or not to call a material witness 
+a. E.g. if accused calls a material witness that shows accused’s guilt => Without statements of material witness, accused would not be able to impeach the material witness when calling him to the stands 
+b. E.g. if accused calls a material witness that shows accused’s innocence => Without statements of material witness, accused would not be able to know if the PP has statements that would contradict whatever the material witness will testify on the stands 
+* Not satisfactory to leave an accused in a situation where he chooses not to call a material witness because of dangers arising from not being aware of what material witness previously said in his statements 
+
+PP’s Nabill duty in 4 common scenarios  
+Roshdi bin Abdullah Altway v PP
+Scenario 1: Accused raises defense in statement (PP has additional disclosure obligation)
+- Accused raises a defense in his statement => If PP has statement of a witness who can be expected to materially confirm or deny that defense, then PP must disclose the statement 
+
+Scenario 2: Accused raises defense for first time at trial (PP has additional disclosure obligation)
+- Accused raises a defense for the first time at trial => If PP has statement of a witness who can be expected to materially confirm or deny that defense, then PP must disclose the statement at that juncture 
+
+Scenario 3: Accused has no reasonably discernible defence (PP no additional disclosure obligation)
+- Accused’s statements or testimony at trial are so unclear that there is no reasonably discernible defence => PP no additional disclosure obligations 
+
+Scenario 4: Accused mentions particular defence in statement but mentions new defence at trial (PP has additional disclosure obligation)
+- Accused mention particular defence in statements => Accused raises another defence at trial which is either a departure or inconsistent with his statements => If PP has statement of a witness who can be expected to materially confirm or deny the defense which has been raised, PP only need to disclose the statement at the point that the defence in question is raised and not before 
+
+Consequences when Prosecution breaches 
+Basically same as Kadar – see above for more details 
+
+Muhammad Nabill bin Mohd Fuad v PP
+Overturn of conviction when there is a failure of justice 
+- If non-disclosure results in a material irregularity that occasions a failure of justice, a conviction may be overturned 
+
+Roshdi bin Abdullah Altway v PP
+- Critical question: Whether, in all the circumstances, the PP’s breach was so egregious that it occasioned a failure of justice or otherwise rendered the conviction unsafe 
+
+Comparing Nabill duty and Kadar duty 
+Difference 1
+- For Nabill duty: it does not matter whether the statement in question is favourable, neutral or adverse to the accused person or not  
+- But for Kadar duty: Prosecution only needs to disclose unused material which is favourable to the defense’s case/bad for the prosecution’s case => PP can apply to Court for redaction of portions of statement that have nothing to do with the defense’s case 
+
+Difference 2
+- For Nabill duty: Prosecution is not required to carry out a prior assessment of whether a material witness’ statement is prima facie credible and relevant to the guilt or innocence of the accused person 
+- For Kadar duty: PP will have to assess if material is prima facie credible and relevant to guilt/innocence of accused person 
+
+*When PP is unsure about what to do => Just disclose 
+Muhammad Nabill bin Mohd Fuad v PP
+- Where there is doubt over whether a particular statement is subject to disclosure, whether under Kadar or Nabill, the PP ought to err on the side of disclosure 
+- Reason: Consequence of non-disclosure could be severe. It could result in unsafe convictions 
+
+Miscellaneous Issue: It is unclear whether PP is required to disclose statement of material witness who are called as PP’s witness 
+Muhammad Nabill bin Mohd Fuad v PP
+- Court in Nabill left open the issue of whether PP was required to disclose the statement of a material witness who was also called as a PP witness
+
+Obiter:
+- PP should be required to disclose PP’s witness’s statement that is inconsistent with the PP’s witness’s testimony at trial => This should be part of PP’s Kadar obligations 
+- Defence should have the inconsistent PP’s witness statement to impeach the credit of PP’s witness
+- Code of Practice for Conduct of Criminal Proceedings by PP and Defence issued by AGC and Law Soc of Singapore at para 41:
+* Where a witness called by the Prosecution gives evidence on a material issue in substantial conflict with a prior statement made by the witness, to justify impeachment proceedings under the Evidence Act, the Prosecution should disclose the prior statement to the Defence Counsel, in accordance with the law.
+Miscellaneous Issue: If Defense belatedly raises new defense, there is a risk he is less likely to be believed 
+Roshdi bin Abdullah Altway v PP
+- It is well established that if an exculpatory fact is withheld, the court may justifiably infer that that fact is an afterthought and untrue, unless there are good reasons for the accused person’s omission to mention it earlier (Ilechukwu Uchechukwu Chukwudi v Public Prosecutor [2021] 1 SLR 67 at [152])
+

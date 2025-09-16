@@ -1,0 +1,837 @@
+5. Intellectual Property
+5.1 Trademarks
+
+Overview
+Definition (s 2(1) TMA): “Trade mark” = any sign, capable of graphical representation, capable of distinguishing goods/services of one undertaking from another.
+* Registered right (s 4(1)): TM is personal property.
+* Unregistered marks (s 4(2)): no enforcement except passing off.
+* Symbols: ™ (no legal meaning), ® (only for registered marks; misuse = offence, s 51).
+?? Exam Flag: Trademarks law revolves around distinctiveness (tested at application, invalidation, infringement).
+
+5.1.1 Application & Registration
+5.1.1.1 Application
+?? Statutory Basis: Trade Marks Act (TMA) ss 5–6; Trade Marks Rules (TMR).
+Requirements (s 5 TMA)
+RequirementStatuteNotes / Court ApproachClear representation of marks 5(2)(c)Must allow mark to be precisely identified (graphical/specific).Goods/services specifications 5(2)(d)Applicant must list intended classes.Use in trades 5(2)(e)(i)Must be already used in course of trade.Bona fide intention to uses 5(2)(e)(ii)Declaration that applicant intends genuine use.Appealss 75(2)Decisions of Registrar appealable to High Court.
+5.1.1.2 Opposition Procedure (s 13 TMA; rr 29–40 TMR)
+Step-by-step workflow (with forms, rules, timelines):
+StageForm / RuleTimelineContent / Notes1. Publications 13(1)–TM published in TM Journal.2. Notice of Opposition (NO)Form TM11 / HC3 (s 13(2), r 29–30)Within 2 months of publication (extendable to 4 months with EOT).Must include Statement of Grounds: statutory provisions relied upon (e.g. s 8(2)(b)), facts, particulars of earlier mark if relied on (representation, reg no., class, goods/services; if unregistered, specify use). 
+?? Rule 40: failing to send demand letter in uncontested cases may have cost consequences.3. Counter-Statement (CS)Form HC6 (r 31)Within 2 months of NO (extendable to 4 months with EOT).Must state applicant’s grounds, admit/deny opponent’s facts. If not filed in time ? application deemed withdrawn.4. Case Mgmt Conference (CMC)Rule 81AAbout 1 month after pleadings close. Registrar writes to parties for representations on evidence timelines. May dispense with CMC and fix deadlines in writing, or convene CMC (tele- or physical) if parties have not engaged.5. Evidence: Opponent’s evidenceRule 69; rr 32–34 (EOTs)Min 2 monthsFiled as Statutory Declaration (SD) (under Oaths & Declarations Act 2000). Supports opposition.6. Evidence: Applicant’s evidence–Min 2 monthsApplicant responds by SD.7. Evidence: Opponent’s reply–Min 2 months (optional)Confined strictly to reply on Applicant’s SD.8. Pre-Hearing Review (PHR)Rule 36AAfter evidence stageRegistrar checks if ADR attempted, resolves procedural issues, gives further directions.9. HearingRule 37Oral submissions. Must file Hearing & Decision Form (HC1) + fee before hearing. Failure to file may lead to dismissal.10. Grounds of Decision (GD)Rule 38Registrar to issue decision within ~3 months of hearing/closing submissions.11. Appeals 75 TMA; Rule 82 SCJ (IP) Rules 2022Within 28 days of Registrar’s GDBy originating application. Must serve Registrar & other party within 7 days. Registrar must be updated with appeal outcome.12. Taxation of Costsrr 72–76Within 6 weeks of GDBill of Costs filed for assessment.
+5.1.1.3 Case Management Conference (CMC) — Rule 81A
+?? Purpose / Types:
+* Fix evidential deadlines after pleadings (first CMC).
+* Ad hoc CMC if delays/EOTs multiply.
+* Registrar may gather updates, give directions.
+?? Mode: Teleconference is default.
+* Tele-CMC convened if parties not communicating or pleadings issues need in-person handling.
+?? Flow:
+1. Pleadings close.
+2. ~1 month later Registrar issues notification ? parties file representations on evidence timelines.
+3. Parties return notification.
+4. Registrar may:
+o (A) dispense with CMC, issue deadlines; or
+o (B) convene CMC to fix timelines.
+
+5.1.1.4 Evidence — Rules 32–34
+?? Purpose: substantiate pleadings; rebut other party’s case.
+?? Default mode (r 69): Statutory Declarations.
+Stages:
+1. Opponent’s evidence.
+2. Applicant’s evidence.
+3. Opponent’s reply (optional, confined).
+?? Extensions of Time (EOT):
+* Requests must be made before deadline expires (r 32).
+* Form: HC3 must state period, reasons, names/addresses of affected parties.
+* Must serve HC3 on opponent & others affected.
+Objections:
+* Opponent/affected party may object within 2 weeks of HC3.
+Registrar’s powers:
+* May grant/refuse EOT.
+* If granted, Registrar must notify affected parties.
+* Affected party may apply for revocation of EOT (if not served).
+* All EOTs are chargeable (except for pleadings).
+
+5.1.1.5 Pre-Hearing Review — Rule 36A
+?? Purpose:
+* Registrar checks if ADR attempted (mediation, negotiation).
+* Ensure procedural/interlocutory issues resolved before hearing.
+* Registrar may give directions to ensure just, expeditious disposal.
+?? Outcome:
+* Directions on evidence, timelines, issues.
+* Can order multiple PHRs if needed.
+
+5.1.1.6 Hearing (Rule 37) & Decision (Rule 38)
+?? Attendance (r 37):
+* Must file Hearing & Decision Form (HC1) + fee if attending oral hearing.
+* Failure ? proceedings may be dismissed.
+* Registrar may restore proceedings within 14 days if dismissed for non-filing.
+?? Decision (r 38):
+* Grounds of Decision (GD) typically issued within 3 months of hearing or closing submissions.
+
+5.1.1.7 Appeal — s 75 TMA; Rule 82 SCJ (IP) Rules
+?? Procedure:
+* File appeal by originating application within 28 days of GD (Rule 70(2)(a)).
+* Serve copy on Registrar & other party within 7 days (r 70(3)).
+* Registrar must be informed of outcome for register update (r 74).
+* Copy of extracted Order of Court must also be served (r 86 TMR).
+* If further appeal to CA ? Registrar must also be informed.
+
+5.1.1.8 Duration & Renewal of Protection
+* Date of registration = date of application (s 15(2)).
+* Duration: 10 years from registration date (s 18).
+* Renewal: indefinite (s 19).
+* Fees: depend on timing.
+o If renewed on time ? normal fee.
+o Within 6 months post-expiry ? extra late fee (r 49(3)).
+
+5.1.1.9 Registrable Transactions — ss 38–43 TMA
+?? Who may apply (s 39(1)):
+* Person claiming entitlement to interest in mark by virtue of registrable transaction.
+* Person otherwise affected by transaction.
+?? Registrable transactions (s 39(2)):
+* Assignment (s 38; can be full/partial).
+* Licence (s 42–43; exclusive or non-exclusive).
+* Grant of security interest (fixed/floating).
+* Assent by personal representatives (on death).
+* Court/authority order transferring mark.
+?? Effect of non-registration (s 39(3)):
+* Ineffective against later bona fide acquirer of conflicting interest w/o notice.
+?? Effect of late registration (s 39(4)):
+* Subsequent proprietor not entitled to damages/account/statutory damages for infringements occurring after transaction but before registration of particulars.
+
+5.1.2 Absolute Grounds for Refusal (s 7 TMA)
+?? Statutory principle: Court/Registrar refuses if mark itself is inherently unsuitable.
+
+(A) Lack of Distinctiveness — s 7(1)(b)
+RequirementCourt TestCase IllustrationMark is “devoid of distinctive character”Can it distinguish applicant’s goods/services from others? Assessed from standpoint of average consumer.Nestlé v Petra Foods: distinctiveness = consumer perception. 
+Han’s F&B: coined words/invented phrases usually distinctive; laudatory/descriptive/common surnames not.Distinctiveness thresholdLow, but must cross minimum.Love & Co: each absolute ground independent; court must assess separately.
+(B) Descriptive Marks — s 7(1)(c)
+RequirementCourt TestCase IllustrationMark consists exclusively of signs designating kind, quality, quantity, purpose, value, geographical origin, time of production, other characteristicsWould average consumer see mark as directly describing goods/services?Marvelous AQL: rationale = keep descriptive terms free for all.Foreign descriptive termsIf not understood locally, may still be distinctive.Aalst Chocolate: Dutch word distinctive in SG because average consumer unfamiliar.
+(C) Customary Marks — s 7(1)(d)
+RequirementCourt TestCase IllustrationSigns customary in current language or established practices of tradeIs term one that traders/customers generally use to designate the goods/services?E.g. “Escalator” ? became generic (classic genericide).
+(D) Other Absolute Grounds
+GroundStatuteNotesContrary to public policy/moralitys 7(4)E.g. racist, obscene marksProhibited by written laws 7(5)E.g. national emblemsBad faith applicationss 7(6)Wide ground: dishonest motives, attempt to block competitor
+(E) Exceptions
+* s 7(2): Acquired distinctiveness through use ? mark registrable.
+* Court looks at: length, volume, geographical spread, advertising, market surveys showing consumer association.
+
+5.1.3 Relative Grounds for Refusal (s 8 TMA)
+?? Statutory principle: Court/Registrar refuses if mark conflicts with earlier rights.
+
+(A) Identical Marks + Identical Goods — s 8(1)
+RequirementCourt TestCase IllustrationEarlier TM identical to applied mark; goods/services identicalStraightforward: if both identical, refusal automatic–
+(B) Similar Marks/Goods + Confusion — s 8(2)
+Staywell 3-step test (applied both at opposition & infringement):
+1. Compare marks.
+2. Compare goods/services.
+3. Assess likelihood of confusion.
+StepCourt ApproachCase IllustrationCompare marksHolistic, overall impression, paying attention to dominant/distinctive components.
+Higher the technical difficulty, higher the more likely it’ll be considered distinctive
+Visual similarity; aural similarity; conceptual similarityHai Tong: text often dominates in composite marks.Compare goods/servicesApply British Sugar factors: nature, purpose, method of use, trade channels, competition, complementarity.Sarika: applied BS factors in SG context.Confusion analysisOnly if (i) Compare Marks, (ii) Compare Goods and Services show similarity
+Only consider things intrinsic to goods or affect impact of similarity – do NOT consider pricing. Consider reputation of earlier mark, typical consumer characteristics. 
+Global appreciation, based on imperfect recollection of average consumer. Strength of earlier mark may reduce/increase confusion.McDonald’s v Future Enterprises: strong reputation reduced confusion likelihood.?? Exam Trap (Staywell [60–61]):
+* Opposition context = compare notional and fair use of the applied-for mark.
+* Infringement context = compare actual use of defendant’s mark.
+
+(C) Well-Known Marks — s 8(3), s 8(4)
+* Broader protection: even if goods dissimilar, registration refused if use would take unfair advantage or be detrimental to well-known mark.
+* Court considers: recognition in SG, duration of use, extent of promotion.
+
+(D) Passing Off (s 8(7))	
+* Opposition ground if applicant’s mark would be liable to passing off.
+* Requires proof of: goodwill, misrepresentation, damage (classic passing off trinity).
+
+5.1.4 Post-Grant Challenges
+Big picture. After registration, three main tracks are available: Invalidation (s 23), Revocation (s 22), and Infringement (s 27).
+* Invalidation: “should never have been registered?” ? assessed at registration date; effect ab initio (but “past and closed” transactions preserved).
+* Revocation: “lost right by later events?” (esp. non-use) ? assessed at action date; effect from revocation date (backdating limits apply).
+* Infringement: “someone is using a confusingly similar sign now?” ? court-only action to stop/compensate.
+Quick navigator
+TrackCore QuestionTime focusForumOutcomeInvalidation (s 23)Registered in breach of s 7 (absolute) or s 8(1)/(2)/(7) (relative) without consent?At registration dateIPOS or CourtsVoid ab initio (s 23(10)) (past & closed unaffected)Revocation (s 22)5-year non-use / genericide / misleading use?As at action date (with look-back)IPOS or CourtsRegistration ceases from revocation date (s 22(7)); partial possibleInfringement (s 27)Sign used in the course of trade that encroaches on proprietor’s rights?Current use (actual)Courts onlyInjunction, damages/account, statutory damages (counterfeits), delivery up/disposalPlead in the alternative: You can run invalidation & revocation together; the evidence you have often dictates the better route:
+* If your evidence relates to registration-date defects, run invalidation;
+* If your evidence shows non-use or genericide after registration, run revocation.
+* Big Box [35]: invalidity may be brought anytime, but registration-date evidence gets harder over long time gaps.
+
+(A) Revocation — s 22
+If the mark lost the right by later events 
+* Effective date: date of application (s 22(7)).
+A. Structure & Remedies
+ItemRuleHow to use itGroundss 22(1)(a) no genuine use for 5 years after completion; s 22(1)(b) use suspended 5 years; (other grounds: genericide; misleading use)Build a calendar and plot use (invoices, ads, sales data), geographic scopeGenuine useWing Joo LoongReal commercial exploitation; token/internal use fails; small use can suffice if proved“Use in altered form”s 22(2)Use in a form not altering distinctive character counts (3-stage test in The Patissier)Export-only uses 22(2)Applying TM in SG solely for export countsGrace / restarts 22(3)–(4)Resumed use before revocation filing helps, but 3-month pre-filing use is disregarded unless preparations pre-awarenessPartials 22(6)Revoke for some goods/servicesEffects 22(7)Ceases from application date or earlier date if court satisfied; cannot backdate into first 5 years (Daidoh [7])Forums 22(5)IPOS or CourtsB. “Genuine use” — what to show (and what kills it)
+ElementIdentification ? Comparison ? Evaluation (The Patissier)Prove / DefeatCase cuesIdentify distinctive character of registered formWhat features give distinctiveness as registered? Can be a combination of elementsRegistration record; consumer perceptionThe Patissier [52], [54]Compare actual form usedWhat elements changed (stylisation, additions/deletions, size, layout)?Side-by-side exhibits; packaging; adsThe Patissier [52]Evaluate alterationHas the distinctive character changed? If yes ? usage does not countIf missing a distinctive element (e.g. house-mark line “By Aalst Chocolate”), use failsThe Patissier [56]–[57]General pointers (Wing Joo Loong):
+* Token/internal use ? no.
+* No single formula; ask if use is warranted in the sector to maintain/create market share.
+* De minimis can qualify, but heavily scrutinised.
+* Burden on proprietor (s 105). Rules allow revocation applicant to file no evidence (TMR r 59).
+C. Dates & Calculations (non-use)
+* Earliest revocation date for s 22(1)(a): one day after 5-year period from completion date (IPOS Compendium).
+* For s 22(1)(b): 5 years from start of suspension period.
+* Cannot backdate into first 5 years (Daidoh).
+Worked example (revocation):
+Reg. completed 2 Jan 2013. No genuine use till 3 Jan 2018. Revocation app filed 10 Mar 2019.
+* Earliest revocation date under (a): 3 Jan 2018.
+* Any “resumed use” after 3 Jan 2018 but within 3 months before 10 Mar 2019 is disregarded unless preparations pre-awareness (s 22(4)).
+
+(B) Invalidation — s 23
+Courts will simply use the Staywell rules (as established before) to evaluate if the mark should not have been registered in the first place
+GroundNotesIf mark should have been refused under s 7 or s 8Invalid ab initio (s 23(10)); partial invalidation possible (s 23(9)).
+ItemRuleHow to use it in an examStatutes 23(1): breach of s 7 (absolute); s 23(3): breach of s 8(1), 8(2), 8(7) (relative, no consent)Choose the exact limb and map all elements; treat like opposition but at registration dateSave-clauses 23(2): post-registration acquired distinctiveness can save a mark originally in breach of s 7(1)(b)–(d)Force opponent to prove use built distinctiveness after registration (sales, ads, surveys)Partials 23(9)Narrow to only offending goods/servicesEffects 23(10)Ab initio invalid (but past & closed transactions preserved)Forums 23(5)IPOS or CourtsB. How courts decide (element-by-element)
+Staywell Rules
+RequirementWhat court asksWhat proves / defeats itCase cuess 7(1)(a) not a TMIs it a “sign” & clearly representable?Clear representation/spec; not merely an idea–s 7(1)(b) no distinctivenessCan it distinguish at filing? Consider goods & average consumerProve: coined/nonsense/meaning not bearing on goods; Defeat: common surnames, laudatory words, obvious misspellsHan’s F&B; Nestlé v Petras 7(1)(c) descriptiveWould average consumer use it to designate characteristics/purpose?Prove: consumer/common usage; trade glossaries; Defeat: combo “more than the sum”Marvelous AQL; Love & Co; Abbott (HM-O)s 7(1)(d) customaryIs it generic/common in trade at filing?Trade evidence, dictionaries, industry use–s 7(4)–(6) policy/prohibition/bad faithOffends morality; barred by law; filed dishonestlyVulgarity/obscenity evidence; emblems list; squatting facts–s 8(1)/(2) conflictDo Staywell steps at filing date (marks/goods/confusion)Earlier mark particulars; show similarity & confusionStaywell; Sarika; Hai Tongs 8(7) passing offGoodwill, misrep, damage at filingSales/ads/surveys; confusion evidenceAmanresorts; Jif LemonWorked example (invalidity):
+Applicant registers “LOVE” for jewellery (no opposition). Years later, you act for rival to invalidate.
+* Plead s 23(1) read with s 7(1)(c): “LOVE” designates intended purpose of jewellery (gift of love) ? descriptive, supported by market evidence of widespread use (Love & Co).
+* Anticipate s 23(2): Opponent argues post-registration acquired distinctiveness — rebut with lack of exclusive source association (heavy third-party use).
+
+5.1.5 Infringement — s 27
+Step-by-Step
+1. Use in course of trade? (s 27(2))
+o Must be commercial.
+o Burberry: “use” must be in trade context.
+o Decorative use not infringement (City Chain).
+2. What counts as “use”? (s 27(4))
+o Affixing to goods/packaging.
+o Offering for sale.
+o Import/export.
+o Use in advertising.
+3. Defendant without knowledge (s 27(5))
+o Not infringement if D did not know/no reason to know proprietor did not consent.
+4. Apply Staywell 3-step test (similarity of marks, goods/services, likelihood of confusion).
+A. Thresholds before Staywell test
+RequirementRule/TestWhat proves / defeats itCase cuesUse in course of tradeCommercial use (not private)Sales, offers, ads, import/export, invoicesBurberry [30]TM use (origin-indicating)Use as a trade mark (not decorative/informational)Uniform brand use; origin messageCity Chain: floral motif on watches = decorative, not TM useUse (list)s 27(4) (apply to goods/packaging; offer/supply; import/export; commercial docs; adverts)Documentary trail; online listingsStatutory listLimited “no knowledge” carve-outs 27(5) for (4)(a), (4)(d), (4)(e)Lack of consent knowledge can negate “use” for those sub-limbsStatutory carve-outB. The Staywell 3-step (s 27(2) mirrors s 8(2)(b))
+In infringement, compare actual use of defendant’s sign vs notional fair use of the registered mark (Staywell [163(f)]).
+StepWhat to doEvidence & examplesPitfalls1. Marks similarityVisual/aural/conceptual; dominant components; average consumerREGIS dominance in ST. REGIS vs PARK REGIS (aural/conceptual); inversion can still be similar (LADY ROSE vs ROSE LADY)Don’t “mosaic” permutations (Rovio)2. Goods/services similarityApply British Sugar (uses/users/nature/channels/shelf/competition)Goods can be similar to services (Gucci); same class ? decisive (Sarika)Don’t rely on class numbers alone3. Likelihood of confusionWould a substantial portion be confused? Consider permissible extraneous factorsImperfect recollection; purchasing practices; reputation may reduce confusion (McDonald’s)Ignore pricing/packaging/marketing choices (impermissible)Worked example (infringement):
+Reg. TM ROSE LADY (cosmetics). Defendant uses ROSE LADY words with big rose device on lipstick.
+* Use: commercial ads & sales ? yes (s 27(4)).
+* TM use: words as source-indicating ? yes.
+* Step 1: identical words ? identical/similar.
+* Step 2: goods are identical.
+* Step 3: low-involvement cosmetics; text dominance; imperfect recollection ? confusion likely ? infringement.
+
+5.1.6 Defences — s 28
+DefenceExact testHow to identify if made outHow to defeatOwn name (s 28(1)(a))Use of own name/place in accordance with honest practicesCorporate/legal/trading name used as TM; bona fide origin story; advice takenAudience Motivation: narrow; show intent to mislead; lack of bona fides; unexplained similarity; timing post-plaintiff useDescriptive use (s 28(1)(b),(c))Honest use to indicate characteristics or intended purposeClear descriptive context; proximity to descriptive text; not stylised as badge of originShow branding/prominence; selection beyond description; unfair advantageEarlier rights (s 28(2))Continuous prior use of unregistered TM before proprietor’s dateEvidence of continuous market use pre-priorityGaps in use; rebranding; weak goodwillRegistered sign (s 28(3))Defendant’s sign itself registeredStill may infringe earlier mark; not absolute defenceAttack with invalidation of defendant’s registrationComparative advertising (s 28(4)(a))Honest comparative useSubstantiated, not misleading, fairShow deception/denigration/free-ridingNon-commercial (s 28(4)(b))Not in course of tradeFan use, art, parodyShow commerciality/monetisationNews reporting (s 28(4)(c))Editorial/reporting useContextual news useShow advertorial/endorsement slant
+
+5.1.7 Remedies
+* Injunctions, damages, account of profits (s 31).
+* Statutory damages for counterfeits (s 31(5)): up to SGD 100k per type, max SGD 1m unless higher loss proven.
+* Delivery up and disposal (ss 33–34).
+
+Rights: s 26(1) exclusive rights to use/authorise; s 26(2) to sue; accrue from registration date (s 15(2)) per s 26(4) (but cannot sue before registration actually completed). Disclaimers/limitations narrow scope (s 26(5); s 30).
+RemedyStatuteWhat court looks atExam pointersInjunctions 31(2)(a)Likely continued infringement; balance of convenienceStandard order + penal noticeDamagess 31(2)(b)Causation, quantification, lossCan’t double count with account (s 31(4))Account of profitss 31(2)(c)Defendant’s profits attributable to infringementElection vs damages; no double countingStatutory damages (counterfeits)s 31(5)Factors in s 31(6): flagrancy, loss, gain, deterrence, othersUp to $100k/type; $1m cap unless actual loss > $1mDelivery ups 33Possession/control of infringing goods/materialsLink to disposalDisposals 34Destruction/forfeiture/ordersPractical cleanupCounterfeit framework (for s 31(5))
+* “Counterfeit trade mark” (s 3(6)): identical/near-identical sign “calculated to deceive” applied without consent to falsely represent goods/services as genuine.
+* Goods are “counterfeit goods” (s 3(5)) if they are infringing and bear a counterfeit mark.
+Damages/account interplay
+* s 31(3): you can claim damages and any profits not already counted in damages.
+* s 31(4): otherwise, damages/account/statutory damages are mutually exclusive (save s 31(3)).
+
+5.1.17 Attack Plans (what to say in an exam)
+A. Invalidation (registration-date focus)
+1. Pick limb: s 7(1)(b)/(c)/(d), 7(4)–(6), or s 8(1)/(2)/(7).
+2. Prove elements:
+o s 7(1)(c): consumer usage/designation (Marvelous AQL), combination more than sum?
+o s 8(2)(b): Staywell steps (marks/goods/confusion at filing).
+3. Anticipate s 23(2): acquired distinctiveness after reg? Rebut with non-exclusive association evidence.
+4. Partial if needed; ab initio effect with “past & closed”.
+B. Revocation (non-use focus)
+1. Identify 5-year windows (completion date!) and any suspension.
+2. Demand genuine use evidence (Wing Joo Loong).
+3. If use in altered form claimed, apply The Patissier: identify distinctive character ? compare actual ? evaluate alteration.
+4. Check s 22(3)–(4) grace; backdate only per s 22(7) (observe Daidoh).
+5. Consider partial revocation.
+C. Infringement (actual-use focus)
+1. Use in course of trade? TM use or decorative? (City Chain).
+2. Staywell steps:
+o Step 1: marks similarity (dominant components; Hai Tong, inversion examples).
+o Step 2: goods/services (British Sugar factors; Sarika; Gucci).
+o Step 3: confusion (substantial portion; permissible factors only; McDonald’s caveat).
+3. Defences: own name (narrow; Audience Motivation), descriptive use (honesty), earlier rights, comparative ads, non-commercial, news.
+4. Remedies: injunction + (damages/account/statutory) + delivery up/disposal. Consider counterfeit route when applicable.
+
+5.1.8 Exam Flags
+* Absolute vs relative grounds: don’t confuse — absolute looks at mark itself, relative looks at conflicts.
+* Opposition vs infringement: notional use vs actual use.
+* Distinctiveness: core test; appears in multiple contexts.
+* Revocation: 5 years non-use is automatic ground; use must be genuine.
+* Well-known marks: wider protection; can bar dissimilar goods if unfair advantage taken.
+
+5.1.9 PQ Application Flow
+1. Is there a registered TM? (s 2, s 4).
+2. At application: check s 7 (absolute), then s 8 (relative).
+3. If challenged post-grant:
+o Revocation (s 22).
+o Invalidation (s 23).
+4. If infringement alleged:
+o Was there “use in course of trade”?
+o Does it amount to TM use (City Chain)?
+o Apply Staywell 3-step.
+o Consider defences (s 28).
+5. Remedies: injunction, damages/account, statutory damages, delivery up.
+
+
+5.2 Patents (Singapore)
+Big picture: Patents protect technical inventions that are new (s 13(1)(a)), involve an inventive step (s 13(1)(b)), and are industrially applicable (s 13(1)(c)). Rights are territorial and time-limited (20 years from filing). Examiners and courts view everything through the eyes of the person skilled in the art.
+
+5.2.1 Procedural Roadmap — Application ? Grant ? Post-Grant
+
+StageWhat it isStatute / PracticeExam flags / EvidenceFilingFile at IPOS (national) or enter SG national phase from PCTs 26 (filing requirements), s 28 (prelim exam)Filing date anchors novelty/obviousness and starts 20-year term (s 36). Missing s 26 documents? ? no filing date.PriorityClaim earlier Paris/WTO filings 17Priority date may precede SG filing ? assess novelty/obviousness at priority. Identify each claim’s priority.Search/ExaminationSubstantive checksIPOS practice; s 29–31Checks novelty, inventive step, industrial applicability; you can amend pre-grant (s 31).Publication18 months from filing/prioritys 27Becomes prior art worldwide; applicant can claim damages from publication for later infringement (s 76). Early publication possible (s 27(2)).GrantCertificate; notice publisheds 35, PR 50Infringement action only after grant (s 76(3)).Post-grantAmendment / Revocation / Re-exams 38, 80, 38A, 83–84No “added matter” (s 84). Wrongful amendment ? revocation ground (s 80(1)(d),(e)).Who may apply: Inventor by default (s 19); employer rights (s 49, subject to s 50 SG-nexus); successor in title/contract. s 34: SG resident needs Registrar’s written authority to first file abroad.
+
+5.2.2 Key Dates & Consequences
+DateWhat assessed by reference to this dateStatute / CaseNotesPriority date (if claimed)Novelty, inventive steps 17, s 14–15One claim can carry different priority than another.Filing dateIf no valid prioritys 26–27Also starts 20-year term (s 36).Publication dateDamages from publication; loss of confidence secrecys 76; QB Net [87]Public disclosure destroys confidentiality; spec becomes prior art globally.
+5.2.3 Anatomy of the Patent Specification
+PartFunctionStatute / AuthorityExam pointersDescriptionTeach the invention (background, summary, embodiments)s 25(3)Must support claims; no added matter in later amendments (s 84).ClaimsDefine the legal scope of monopolys 113(1)Each claim stands alone; draft breadth ? later squeeze risk (if broad enough to catch defendant, maybe broad enough to catch prior art).AbstractShort summaryRohm & Haas [106]Convenience only; not decisive of scope.DrawingsVisual support—Can help purposive construction.
+5.2.4 Rights After Grant & Exploitation
+TopicRuleStatuteExam flagsWhen can you sue?Only after grants 76(3)But damages can run from publication (s 76).Term & renewal20 years from filing; annual renewal from year 5 (initial validity noted in practice)s 36(1)–(2); PR 51; Fees: First Sch. it. 20Miss renewal ? lapse; restoration rules apply (not detailed here).Assignment / MortgagePersonal property; writing signed; register not compulsorys 41; s 41(6)Failure to register: (i) priority loss vs later conflicting interest (s 43); (ii) no damages/account against infringers if not registered within 6 months (s 75).LicencesNeed not be in writing; often exclusive/non-exclusive, limited by territory/duration/scopes 41; s 74 (exclusive licensee can sue)Exclusive licensee may sue in own name (s 74); join proprietor if needed.
+5.2.5 Post-Grant Validity Attacks (Pick the Right Tool)
+ToolCore questionTime focusForumEffectInvalidation (s 80(1) via s 23/7/8 logic)Should never have been granted? (absolute/relative grounds at filing/priority)Registration dateIPOS or Courts (s 80, s 23(5))Ab initio (s 80(7) by analogy to effect; s 23(10) for TM—use same conceptual frame in essays)Revocation (s 80)Later defect (incl. non-use not a patents ground; patents revocation covers validity grounds incl. added matter, entitlement, fraud)At action date (for the pleaded ground)IPOS or Courts (s 80)From grant date if revoked (s 80(7)); or conditional if amendments allowed (s 80(5))Re-examinationCheaper ex parte technical checks 38A; r 52ARegistrar onlyApplicant for re-exam cannot respond to patentee’s reply; strategic but limited.Process (revocation): App ? Counter-statement (can include amendment bid, s 83) ? Applicant evidence ? Proprietor evidence ? Reply ? Decision; if amendment not allowed, patent revoked (s 80(5)).
+
+5.2.6 Validity: Person Skilled in the Art (PSA)
+PrincipleAuthorityWhat to say/apply“Competent but not inventive”Trek Tech [86–87]; First Currency [28]Ordinary skill; wishes to make spec work; has common general knowledge (CGK).CGKNovartis [15]What is generally known/accepted in the field at the priority date.ExpertsMölnlycke 113; Lee Tat Cheng [29]Court relies on experts but PSA is a legal construct; beware actual partiality vs appearance (Mühlbauer [44–47]).
+5.2.7 Patentability (1): Novelty (s 13(1)(a), s 14)
+Two steps
+1. Build the prior art at priority date (s 14(2) worldwide; even one person; library shelf suffices; Institut Pasteur [188]). s 14(3): earlier-filed later-published patent apps count.
+2. Ask whether any single prior art anticipates the claim (no mosaicking, Dien Ghin [33]; exceptions for cross-reference chains, Genelabs [27]).
+ElementTest / standardCase hooksHow to prove/defeatDisclosure“Plant the flag at the precise destination”FE Global [38], General TirePoint to clear directions that inevitably produce the claimed thing.InevitabilityFollowing prior art must lead to the inventionMerck [39], Mühlbauer [17]Show one-way path; defendant: show ambiguities/branches (not inevitable).No mosaickingDon’t combine prior artsDien Ghin [33]Unless clear document family/cross-ref (Genelabs).Temporal lensRead prior art as at its dateMühlbauer [18]No hindsight gloss.PQ tip: Chart each claim’s essential integers, then tick whether a single document discloses all, with enablement.
+
+5.2.8 Patentability (2): Inventive Step (s 13(1)(b), s 15)
+Framework: Build state of the art (s 15 ~ s 14(2) but excludes s 14(3) unpublished earlier filings), then apply Windsurfing/Pozzoli as guide (First Currency [45]).
+Windsurfing steps (as applied)What to doCase cuesEvidence1. Identify inventive conceptPurposive read of claimsMerck [50]Claim chart; spec’s “problem/solution”.2. Assume PSA with CGKUnimaginative, wants to make it workFirst Currency [28]CGK textbooks, review articles.3. Identify differences over artMap integers vs each prior art—Comparison tables.4. Are those differences obvious?“Obvious to try” with fair prospect? alternatives? prejudice?Actavis [65], [69], [70]; Mühlbauer [100]Show routine path vs inventive leap; show motivation vs no motivation.Key levers for/against obviousness
+* Obvious: routine development; “lying on the road”; aggregation only, predictable result (ASM [63]).
+* Obvious to try with a fair prospect of success (Actavis [65]), especially if problem-solution was routine.
+* Inventive: multiple alternative paths; teaching away/prejudice; counter-intuitive success; commercial success tied to technical merit (Ng Kok Cheng [44], Mühlbauer [107]); not about complexity or time spent (First Currency [51], Merck (HC) [42]).
+* Mosaicking permitted only if the combination itself would be obvious to PSA (Martek [52]).
+PQ tip: Avoid hindsight — state why PSA would be motivated to combine references at the time (Actavis [70]).
+
+5.2.9 Validity (3): Sufficiency / Enabling Disclosure (s 25(4); revocation s 80(1)(c))
+ElementTestAuthorityHow to applyIdentify what is claimed to be enabledPurposive construction of claimsKirin-Amgen; First Currency [60–61]What does the claim enable PSA to do?Enable substantially all embodiments in the scopeWithout undue burden/inventionRegeneron [56(iv),(vi)], First Currency [62],[65]If claim covers range, disclosure must plausibly enable the whole range; CGK can assist.No need to disclose CGK—Ng Kok Cheng [49]But can’t rely on CGK to fill gaps of principle.Red flags: Principle asserted too broadly; “reach-through” claims; requires further invention.
+
+5.2.10 Other Revocation Grounds (s 80(1) non-exhaustive mapping)
+GroundEssenceHookNot patentable (s 13: immoral, etc.)Offends s 13(2)Identify policy bar.Wrong entitlement (s 19)Granted to one not entitledEmployment/assignment facts.Added matter (s 84)Post-filing inclusion beyond original disclosureCompare as-filed vs amended.Unallowable amendment (s 84(2),(3))Procedural/merits defect in amendmentTie to revocation s 80(1)(d),(e).Fraud/misrep/non-disclosureProcurement taintedEvidentially heavy.Double patenting (s 30(3)(e))Same invention protected twiceCompare claims across family.Effect: Revocation from grant date (s 80(7)). If only partly invalid, Patentee may propose amendment (s 83); else revocation (s 80(5)).
+
+5.2.11 Infringement (s 66–68, s 113)
+Elements (product/process):
+ElementTestStatuteProof pointersUse in SGProduct: make, dispose, offer, use, import, keep. Process: use/offer; products obtained directly by process.s 66(1)Sales, offers, imports, warehousing, website targeting SG.ScopeCompare accused act with properly construed claimss 113(1); Lee Tat Cheng [41(a),(c),53]Purposive construction (SG rejects US doctrine of equivalents).Process presumptionBurden shift where new product by processs 68(1)When defendant’s process hidden; prima facie new product.Purposive construction: Give patentee the full but no more than what PSA would understand from the claims in context; claims are the principal determinant.
+“Squeeze”: Defendant argues — if claim is broad enough to catch me, it’s broad enough to catch prior art/obviousness (validity/infringement squeeze).
+
+5.2.12 Defences & Safe Harbours
+DefenceRuleStatuteApplication cuesPrivate/non-commercial usePersonal actss 66(2)(a)Non-commercial tinkering.Experimental useExperiments relating to the inventions 66(2)(b)Research on the invention.Extemporaneous preparation of medicinesPharmacy compoundings 66(2)(c)Patient-specific prep.Temporary transitAircraft/ships/vehicless 66(2)(d)–(f)Innocent passage.Parallel importsExhaustion defence (except pharm carve-out)s 66(2)(g), (3)Pharma exception where (a) not previously sold in SG, (b) importer’s distribution breaches licensor’s contract, (c) importer has knowledge.Bolar exemptionRegulatory approval experimentss 66(2)(h)Clinical/bioequivalence work.Prior useActs or serious prep before prioritys 71(1)–(2)Right to continue that act (no licensing right).InnocenceNo damages/account if no knowledge of patents 69(1)–(2)“Patent/patented” marking must include patent number to impute knowledge.Declaration of non-infringementPre-emptive clearances 78Request acknowledgment; if refused, seek declaration.
+5.2.13 Remedies (Litigation Toolkit)
+RemedyStatuteNotesInjunctions 67(1)(a)Interim/final.Delivery up / destructions 67(1)(b)Include tooling predominately used for infringing product.Damagess 67(1)(c)Lost profits, reasonable royalty; causation.Account of profitss 67(1)(d)Election vs damages.Declaration of validity & infringements 67(1)(e)For deterrence; may engage certificate of contested validity (s 72) ? costs uplift for future proceedings.
+5.2.14 Amendments (Pre- and Post-Grant)
+WhenWhatLimitsConsequencePre-grantAmend applications 31No added matter (s 84).Post-grantAmend to cure invaliditys 38, s 83Must be fair, narrow, no added matter; court/Registrar discretion.
+5.2.15 PQ Attack Plans (copy into exam)
+A. Novelty
+1. Fix priority date per claim.
+2. List essential integers.
+3. For each prior art, ask: single document? “Flag planted?” Inevitability? No mosaicking (unless cross-ref chain).
+4. Conclude per claim.
+B. Inventive step
+1. State-of-art under s 15 (+ CGK).
+2. Windsurfing: concept ? CGK ? differences ? obvious?
+3. Use levers: obvious to try; alternatives; teaching away; motivation to combine; commercial success.
+4. Conclude per claim.
+C. Infringement
+1. Identify alleged acts (s 66(1)).
+2. Purposive construction of claims (no US DoE).
+3. Apply to facts; if process/ new product ? s 68(1) presumption.
+4. Consider defences/safe harbours.
+5. Remedies.
+D. Revocation / Re-exam
+1. Pick ground(s) in s 80(1); if curable, invite amendment (s 83).
+2. Map evidence to registration date (invalidity) vs current (revocation ground).
+3. State effect (s 80(7)).
+
+5.2.16 High-Yield Examples (one-liners)
+* Library thesis pre-priority counts as prior art even if unread ? novelty gone (Institut Pasteur).
+* Prior art gives signpost, not flag ? no anticipation (FE Global; Merck).
+* Obvious to try with fair prospect in pharma dose selection ? obvious (Actavis).
+* Teaching away / unconventional success ? inventive (Mühlbauer; Dyson analogy).
+* Broad reach-through claim not enabled across range ? insufficiency (Regeneron logic).
+* Purposive construction governs; DoE rejected (Lee Tat Cheng).
+* Parallel imports generally okay except pharma carve-out (s 66(3)).
+* Prior use preserves that line of business only; no licence-out (s 71(2)).
+* Assignment not registered within 6 months ? lose damages/account vs infringers (s 75), and priority vs later purchasers (s 43).
+
+
+
+5.3 Copyright 
+When relevant: Any question on whether copyright subsists, who owns it, what kind of work it is (LDMA vs entrepreneurial), and what threshold tests (fixation/originality/connecting factors) apply under the Copyright Act 2021 (CA 2021).
+
+Table of Contents
+5.3.1 Overview & Structure of the CA
+5.3.2 Categories of Copyrightable Subject Matter
+* 5.3.2.1 Authorial (LDMA) Works
+* 5.3.2.2 Entrepreneurial Works
+5.3.3 What Is Not Protected
+5.3.4 Literary Works
+5.3.5 Dramatic Works
+5.3.6 Musical Works
+5.3.7 Artistic Works
+5.3.8 Sound Recordings
+5.3.9 Cinematograph Films
+5.3.10 Broadcasts
+5.3.11 Cable Programmes
+5.3.12 Published Editions
+5.3.13 Protection Criteria for Authorial Works (Subsistence)
+* 5.3.13.1 Connecting Factors (Published Authorial Works)
+* 5.3.13.2 Qualified Individual as Author
+* 5.3.13.3 Place of First Publication
+* 5.3.13.4 Convention Countries
+5.3.14 Fixation (Reduction to Material Form)
+5.3.15 Authorship (Human Author Requirement)
+5.3.16 Originality (Idea/Expression; Compilations; Derivative Works)
+5.3.17 Quick Exam Application Guides
+
+5.3.1 Overview & Structure of the CA
+PointRule / PrincipleStatute / CaseExam Flags / TrapsNo formalityNo registration requirement for copyright to subsist.CA (general structure)Don’t waste time searching for a “registry”.Two-stage inquiry(1) Subject matter fits a protected category; (2) Work satisfies protection criteria for that category.FrameworkAlways identify the category first, then apply fixation/originality/connecting factors.Two familiesAuthorial (LDMA) vs Entrepreneurial.CA s 7 (defs scattered), Parts 7–11Different ownership rules/durations and rights may apply; entrepreneurial works = “second-class citizens” (weaker/shorter or different).
+5.3.2 Categories of Copyrightable Subject Matter
+5.3.2.1 Authorial (LDMA) Works (made by human authors)
+LDMADefinition / ScopeKey PointsCasesLiteraryNo closed definition; includes compilations, computer programs (source + object code).Readability by trained audience suffices; “literary merit” irrelevant.Real Electronics v Nimrod; Fragrance v Bee Cheng Hiang (contrast).DramaticIncludes choreographic or dumb shows if described in writing; screenplay/scenario. Film itself excluded.Requires fixation in writing + performance + unity of plot/theme.Green v BCNZ (format not a dramatic work).MusicalArrangement of musical notes.Merit/noise irrelevant; silence issue (unclear). Lyrics = literary; melody = musical.—ArtisticPainting, sculpture, drawing, engraving, photograph; buildings/models; works of artistic craftsmanship (extra threshold).Artistic quality irrelevant for (a) & (b); craftsmanship requires “craft” + some artistic nature.Nimrod (PCB = artistic); AUVI TM; NLWL discussion on craftsmanship.5.3.2.2 Entrepreneurial Works (non-authorial)
+TypeCore DefinitionSpecial NotesStatute / CasesSound recordingsAggregate of sounds embodied in a record.Excludes soundtrack associated with a film (CA s 18(1)). Distinct from underlying musical/literary works.CA s 7(1), s 18; PRS v United Artists; PPCA v FACTS (Aus).Cinematograph filmsAggregate of visual images on an article capable of being shown as a moving picture; includes associated sound-track.Film copyright distinct from underlying works; soundtrack counts as part of film, not a sound recording.CA s 7(1); PRS v United Artists.BroadcastsTransmission by wireless telegraphy.Separate copyright in the broadcast itself (reward for investment).CA s 7(1), s 20.Cable programmesProgrammes sent by telecommunication system (not wireless).CA s 90(2): exclusion for immediate re-transmission of received broadcast.CA s 7(1), s 90(2).Published editionsCopyright in typographical arrangement of published editions of LDMA works.Publisher owns (CA s 101). Distinct from content copyright.CA s 91, s 101.
+5.3.3 What Is Not Protected
+Not ProtectedRationaleCases / NotesIdeas, concepts, discoveries, procedures, methodsCopyright protects expression not ideas.University of London Press; Flamelite (focus on expression).De minimis fragments / short phrasesLanguage building blocks shouldn’t be monopolised.Tay Long Kee v Tan Beng Huwah (lifetime warranty clause too trivial).
+5.3.4 Literary Works (Detail)
+IssueRule / TakeawayStatute / CaseExam NotesGeneral test“Written down and contains information that can be read (by those trained), not merely appreciated by the eye.”Real Electronics v NimrodReadability can be for experts (e.g., engineer/programmer).ExamplesCompilations, computer programs (source + object code), technical drawings/schematics.CA inclusions; NimrodDon’t require “literary merit”.Not literaryPure logos/fancy graphics that are just visual.Fragrance v BCHMight still be artistic.De minimisShort contractual fragment (warranty clause) not a subsisting work.Tay Long KeeWatch for phrases/slogans arguments.
+5.3.5 Dramatic Works
+ElementRequirementStatute / CaseTrapsFixationMust be described in writing (the choreographed show/dumb show).CA s 7(1)Video recording alone ? dramatic work (though film copyright may subsist).NatureMust embody performance + unity of plot/theme.Green v BCNZTV formats without unity won’t qualify.ExclusionFilm as film is excluded from “dramatic work”.CA s 7(1)Treat film under cinematograph film instead.
+5.3.6 Musical Works
+PointTakeawayNotesScopeArrangement of musical notes; composition.Lyrics = literary.Merit“Noise vs music” not for judge to decide.Low bar for subsistence.Silence?John Cage 4’33’’ – unsettled.Flag uncertainty only if probed.
+5.3.7 Artistic Works
+Sub-typeRuleStatute / CasesTrapsDrawings/photos/buildingsArtistic quality irrelevant.CA s 7(a), (b); NimrodVery low threshold; even technical drawings.Works of artistic craftsmanshipMust have craftsmanship + some artistic nature (fact-sensitive).NLWL discussionDon’t collapse “intent” into automatic satisfaction; assess both limbs.Overlap with trade marksLogos can be artistic works; also registrable as TM.Fragrance v BCH; AUVI TMSeparate regimes (TM vs copyright).
+5.3.8 Sound Recordings
+IssueRuleStatute / CaseNotesDefinitionAggregate of sounds embodied in a record.CA s 7(1)Analog + digital included.Film soundtrackNot a “sound recording” if part of film soundtrack.CA s 18(1)Treat under film copyright.Separate from underlying worksRecording distinct from musical/literary works used.—Multiple parallel copyrights can coexist.
+5.3.9 Cinematograph Films
+IssueRuleStatute / CaseNotesDefinitionVisual images embodied in a medium to show moving pictures; includes associated soundtrack.CA s 7(1)Video games noted by NLWL as modern example.CoexistenceFilm rights distinct from underlying LDMA.—Licensing often needs clearance of multiple layers.Musical works in filmsMusical work rights persist notwithstanding film sync.PRS v United ArtistsCinema screening needs music public-performance clearance.Sound rec. in film?Australian authority says sound recording copyright continues post-sync.PPCA v FACTS (HCA)Likely persuasive in SG; aligns with CA s 117(2) policy.
+5.3.10 Broadcasts
+PointRuleStatuteDefinitionBy wireless telegraphy; can be TV or sound.CA s 7(1), s 20Separate layerBroadcast copyright is independent of underlying content.Policy: reward the broadcaster’s investment.
+5.3.11 Cable Programmes
+PointRuleStatuteTrapDefinitionProgrammes sent via telecommunication system (non-wireless).CA s 7(1)Don’t confuse with broadcast.Re-transmission exclusionImmediate re-transmission of received broadcast via cable programme service excluded.CA s 90(2)Check facts: was it immediate re-tx?
+5.3.12 Published Editions
+IssueRuleStatuteSubstantive rightCopyright in typographical arrangement of an edition.CA s 91OwnershipPublisher owns the edition copyright.CA s 101DistinctnessSeparate from LDMA copyright in the underlying work(s).—
+5.3.13 Protection Criteria for Authorial Works (Subsistence)
+Four gates (for LDMA):
+1. Category fits LDMA
+2. Connecting factor with Singapore (qualified author / first publication in SG / convention country)
+3. Fixation (reduction to material form)
+4. Originality
+5.3.13.1 Connecting Factors — Published Authorial Works
+ScenarioRuleStatuteNotes / TrapsWork had copyright pre-publicationCopyright continues only if: author a qualified individual at first publication (or immediately before death), or first published in SG / by Government / by prescribed int’l org (?10 Apr 1987).CA s 110(1)If none applies ? copyright expires.No copyright pre-publicationCopyright subsists only if original + (author a qualified individual at first publication or immediately before death or first publication in SG / by Govt / by prescribed int’l org).CA s 110(2)Check joint authors definition. CA s 110(3)Qualified individual: CA s 77 — SG citizen / SG resident / historical category (1 Nov 1957 rule).
+Buildings / attached works in SG: CA s 111(1) subsistence for original artistic works that are buildings in SG or attached to/part of buildings in SG; not if construction completed before 10 Apr 1987 (s 111(2)).
+5.3.13.2 Qualified Individual as Author
+PointRuleCase / TrapWhose status matters?Author’s nationality/residence, not owner’s.Radcoflex v James Lim: plead/prove employee authors’ status; employer ownership ? connecting factor.5.3.13.3 Place of First Publication
+IssueRuleStatute / CasesNotesPublicationMaking work available to the public.CA s 53Sale/supply to public suffices.ValidityMust be genuine to satisfy reasonable public demand; not colourable.NLWL [6.3.12]Avoid sham “publication”.Simultaneous publicationPublication in SG deemed “first” even if also abroad within 30 days.NLWL [6.3.12]Classic “simultaneous publication”.UnauthorisedDoes not count as publication.NLWL [6.3.12]Pirate uploads don’t help.Minimal copiesEven 6 copies for sale sufficed.Francis, Day & Hunter v FeldmanLook for intent to meet demand.5.3.13.4 Convention Countries
+PointRuleSourcePracticalReciprocityWorks from Berne/WTO countries get protection in SG and vice-versa.CA s 3, Copyright (International Protection) Regulations 2021, Reg 4Today, almost all countries covered; term determined by country of origin rules per Reg 4.
+5.3.14 Fixation (Reduction to Material Form)
+PointRuleStatute / NotesTrapsRequirementNo copyright unless reduced to material form in SG.CA s 16(1) (LDMA “made” when first reduced to writing/material form)France doesn’t require; SG does.Dramatic worksMust be described in writing (video alone ? dramatic work).CA s 7(1)But the video may qualify as film.Acceptable fixationWriting; sound recordings of speeches (s 16(2)); storage in computer (s 17).—Destruction of the copy doesn’t end copyright.Who fixes?Unclear if fixation by someone other than author suffices.NLWL [6.3.23]Flag ambiguity only if asked.
+5.3.15 Authorship (Human Author Requirement)
+IssueRuleCase / TrapHuman authorAlways needed; originality = work originates from human intellect.Asia Pacific Publishing v PNL (tables); Naruto v Slater (monkey selfie)Pleading ownershipIdentify human authors (employees) and chain (assignment/employment).Asia Pacific Publishing—fatal to plead corporate entity as “author”.
+5.3.16 Originality (Idea/Expression; Compilations; Derivative Works)
+(A) General Principles
+PrincipleRule / QuoteAuthoritiesExam TrapsIdea / expressionProtects expression, not ideas/facts/information.University of London Press; Flamelite; Asia Pacific [37]Don’t conflate “novelty” with originality.Low threshold“What is worth protecting” = minimal creativity; literary merit irrelevant.AUVI TM; Asia Pacific [36]; NimrodDon’t apply patent-like novelty.Causal connectionMust be causally connected with human intellectual effort.Global Yellow Pages v Promedia [28]Mere verification/collection of facts doesn’t count.(B) Compilations
+RuleAuthoritiesNotesProtects selection/arrangement (not facts themselves).Feist; Asia Pacific [32], [38]; Global Yellow Pages“Sweat of the brow” (data-gathering alone) not enough.Fact-centric thresholdMinimal creativity in choosing/ordering fields/columns can suffice.Asia Pacific; SLA v Virtual Map (compilation)(C) Derivative Works
+ScenarioRuleCasesNotesMaterial alterationMere tracing/copying is insufficient; need material alteration/embellishment so the new work is different.InterlegoPrevents revival of expired rights.New artistic output from dataUsing public data to produce a new map/image with colour, overlays etc can be original.Virtual Map (CA 2005)Still may infringe source, but originality analysis is separate (obiter).Minor tweaksResizing, light balance, watermark alone not enough to confer originality.PropertyGuru v 99 [102]–[104]Watermark = information overlay; not “artistic” change.
+5.3.17 Quick Exam Application Guides
+A. “Does copyright subsist?” (LDMA)
+1. Classify: Literary / Dramatic / Musical / Artistic? (Be precise; use Nimrod, Green, AUVI, Fragrance comparisons.)
+2. Fixation: Reduced to material form? (CA s 16, s 7(1) for dramatic)
+3. Originality:
+o Expression (not idea), low bar; causal human intellect (Global Yellow Pages).
+o If compilation: selection/arrangement creativity (Asia Pacific, Feist).
+o If derivative: material alteration (Interlego, Virtual Map).
+4. Connecting factor (published works): CA s 110
+o Author qualified individual (s 77) or first publication in SG / Govt / prescribed org.
+o Buildings/attached works in SG (s 111).
+5. Conclusion: State clearly which limbs pass/fail.
+Exam traps / red flags:
+* Calling a logo a “literary work” (likely artistic, unless readable codes etc).
+* Treating video of dance as dramatic work (it’s film; dramatic work needs written description).
+* Pleading employer as author without proving employee authors/assignments (Radcoflex, Asia Pacific).
+* Confusing soundtrack in a film with a sound recording (CA s 18(1)).
+* Claiming originality from mere resizing/watermarking (PropertyGuru).
+B. “Is this entrepreneurial work protected?”
+1. Identify type: sound recording / film / broadcast / cable programme / published edition.
+2. Apply definition specifics (e.g., CA s 18(1) exclusion; s 90(2) re-tx).
+3. Distinguish from underlying LDMA rights (parallel layers may require multiple licenses).
+4. Conclude protection and owner (e.g., publisher owns published edition: CA s 101).
+C. MCQ Speed Keys
+* LDMA? If readable by trained user ? likely literary (Nimrod).
+* Format TV show without unity ? not dramatic (Green).
+* Short phrase ? no subsistence (Tay Long Kee).
+* Logo ? artistic; merit irrelevant (AUVI, Fragrance).
+* Compilation ? protect layout/ordering, not facts (Asia Pacific, Feist).
+* Tracing old drawings ? no originality (Interlego).
+* Watermark only ? no originality (PropertyGuru).
+* Film soundtrack ? part of film; not “sound recording” (s 18(1)).
+* First publication: “simultaneous publication” 30-day rule (NLWL [6.3.12]); 6 copies can suffice (Francis, Day & Hunter).
+* Author’s status (not owner’s) for connecting factor (Radcoflex).
+* Buildings in SG: s 111 special rule.
+
+Endnote: Common Red Herrings
+* “Originality = novelty” ? ? Low bar; focus on expression & human intellect.
+* “Big effort in data collection = originality” ? ? Sweat of brow rejected; think selection/arrangement.
+* “Film = dramatic work” ? ? Different categories; soundtrack treatment differs.
+* “Registration needed” ? ? No formality in SG.
+
+
+
+9 Copyright Protection — Exam-Ready Notes (Singapore, CA 2021)
+When relevant: Any question on the bundle of exclusive rights, how each right operates across LDMA vs entrepreneurial works, what acts infringe (incl. “substantial part”), duration, and ownership/chain of title.
+
+Table of Contents
+9.1 Exclusive Rights (Overview; Substantiality)
+* 9.1.1 Reproduction
+* 9.1.2 Publication
+* 9.1.3 Public Performance
+* 9.1.4 Communication to the Public
+* 9.1.5 Adaptation
+9.2 Duration of Protection (Local & “Overseas”)
+9.3 Ownership & Dealings (Standing; First Ownership; Commissioned & Employee Works; Joint Authorship; Chain of Title; Assignments & Licences)
+
+9.1 Exclusive Rights of Copyright
+9.1.A Overview & Substantiality
+PointRule / PrincipleStatuteExam FlagsNature of rightsNegative rights to exclude/authorise others; not a positive right “to do” the act.s 108(1)(a)–(b), (2)You can own copyright yet still need other clearances (e.g., venue, censorship, contracts).Work-type mappingsLDMA rights: s 112; Artistic: s 113; Sound recordings: s 121; Films: s 124 (plus related provisions by act type).VariousAlways match right ? work type.SubstantialityDoing an act to a “substantial part” = treated as done to the whole.s 10Quality > quantity. Even a small but distinctive excerpt can be “substantial.”
+9.1.1 Reproduction Right
+IssueRule / ScopeStatute / NotesQuick ExamplesCoreOwner has exclusive right to make copies (whole or substantial part).ss 41–50 (definitions & deeming rules)Scan/photocopy text; download MP3; screen-cap image; rip DVD; duplicate code repo.FormatsAny material form, incl. electronic, cloud, RAM, caches.ss 41–50Hard ? soft copy; server-side copies; thumbnails.2D/3DReproduction includes 2D ? 3D conversions.ss 41–50CAD drawing ? printed part; sculpture ? photo.Temporary copiesTemporary/incidental copies can be reproductions.ss 41–50Streaming buffers; autosaves.SpecificsSound recordings s 44; Films s 45 (mechanics across media).—Where fact pattern is a clip extraction, tick both reproduction + comm. if uploaded.
+9.1.2 Publication Right (usually for unpublished LDMA works)
+IssueRuleStatuteTrapsWhat is itRight to publish (make copies available to the public).ss 53, 55, 56, 58, 60Publication ? communication (that’s s 61).PracticalityRare post-first publication (you can “publish” only once).—Typically engaged in leak/unauthorised first release scenarios (e.g., stolen memoir).InterfaceValid publication concepts mirror subsistence discussion (first publication, simultaneous publication window).See 9.3 earlier notesDon’t treat unauthorised leak as valid publication for subsistence.
+9.1.3 Public Performance Right
+Work TypeScopeStatuteNotes/TrapsLDMA“Performance” = any mode of visual or aural presentation to the public (e.g., lecture, live rendition).s 67Communication ? performance (s 70). Artistic works: no performance right.Films (entrepreneurial analog)Right to cause images to be seen in public and sounds to be heard in public.s 124(b)–(c)Cinema screening triggers film rights + possibly music performance rights.Education exceptionsStudents/staff performances exempt if conditions met.ss 195–205“Private venue” can still be public (audience nature, not venue).
+9.1.4 Right of Communication to the Public
+IssueRule / DefinitionStatute / CaseExam KeysWhat is “communicate”Electronic transmission, tech-neutral: includes broadcast, cable programme, and making available on demand (e.g., upload/stream).s 61Posting a file to a publicly reachable server = communication.DistinctionCommunication is not “causing images/sounds to be seen/heard.”s 70Don’t mis-plead as performance. Often both reproduction + communication are engaged.Platform casesCloud DVR/RS-DVR models; who “communicates”?RecordTV v MediaCorp (CA)Held not liable on facts: users initiated recordings; communications characterised as user-specific requests. Focus on who pushes to public.
+9.1.5 Adaptation Right
+IssueRule / ExamplesStatuteNotesConceptTransformations of LDMA, e.g., translation, arrangement, dramatization, novelisation, code language porting, decompilation (subject to separate regimes).s 7(1) (defs); LDMA rights incl. s 112(1)(f)The resulting adaptation can itself be protected if original; ownership is separate from the source.CommerceHeavily licensed verticals (books?films/series; comics?movies; games?shows).—Always check chain of title for adaptation rights, not just underlying work.
+9.2 Duration of Protection
+9.2.A Local Duration
+Work TypeTerm TriggerDurationStatuteNotesLDMA (authorial)Death of author70 years after end of calendar year of deaths 114Joint authors ? last surviving author.Sound recordingsFirst publication70 years from end of calendar year of publications 122If never published, check “making” triggers per Act.FilmsFirst publication70 years from end of calendar year of publications 125Film has separate layer from underlying LDMA.BroadcastsBroadcast50 years—Per the Act’s broadcast duration provisions.Cable programmesFirst inclusion50 years——Published editionsFirst publication of edition25 years—Only the typographical arrangement layer.Reform point: CA 2021 ended de facto perpetuity for unpublished works under old law; now capped (e.g., 70y after death/making/publication, as relevant).
+9.2.B “Overseas” Copyright (Convention Countries)
+RuleSourceExam TipWorks from Berne/WTO countries protected in SG; term in SG can track country of origin and expires with foreign protection.Reg 4, Copyright (International Protection) Regulations 2021For cross-border problems, identify country of origin ? apply Reg 4 rule of the shorter term (as framed).
+9.3 Ownership and Other Dealings
+9.3.A Standing & Basic Ownership Points
+PointRuleStatute / CaseTrapsStandingOnly owner (and exclusive licensee*) may sue for infringement.s 108 (rights); exclusive licensees beyond scope hereAssignee of “right to sue” only has no locus: PCCW v M1 (HC 2018).Intangible vs tangibleCopyright ? physical medium.Class One v Motherland Movies; Lee Wei Ling v AGDon’t sue for conversion of tapes when you mean copyright.9.3.B First Ownership (LDMA & More)
+IssueDefault RuleStatuteNotes/TrapsDefault first ownerAuthor/maker is first owner.s 133 (CA 2021) (continuation of CA 1987 principle)Identifying the human author is crucial (see Asia Pacific v PNL).Modify by agreementParties can contract out (assign/licence).s 194 (property); s 194(3) (writing & signature)Oral ? equitable only; need legal owner joined to sue.Commissioned worksOld (CA 1987): certain commissions (photo/portrait/engraving) ? commissioner owner by default. New (CA 2021): no special rule going forward; default to author/maker.(Old) s 30(5); (New) post-appointed day changeToday, commissioners must bargain for assignment. Watch Wang Choong Li v Wong Wan Chin (pre-change facts).Employee worksEmployer owns works made in the course of employment. CA 2021 extends default to sound recordings and films created by employees.CA 2021 employee ownership provisionsCourse of employment = fact-intensive (contracts, role, tools, time): Stephen Jordan/Macdonald & Evans; Nanofilm v Semivac; I-Admin v Hong Ying Ting.9.3.C Joint Authorship ? Joint Ownership
+IssueRule / FocusCasesNotesJoint authorshipWas each contribution authorial (not mere ideas/mechanical input)?Global Yellow Pages; Asia Pacific v PNL; (UK) Kogan v Martin line of casesAuthorship findings drive ownership split; single joint owner may sue but recovers only own share (see Wang Choong Li; Virtual Map indications).9.3.D Chain of Title
+PointTakeawayCaseProof problemIf not the author, ensure robust chain (employment ? assignments ? mergers).Nestlé v Petra Foods (HC 2014)9.3.E Assignments & Licences
+TopicRuleStatute / CasePractice TipsAssignment formalitiesWriting + signature of assignor; can assign future copyright.s 194(3); s 141 (future copyright)If defective ? equitable assignment only (join legal owner).Implication/wordingNo magic words; intention can suffice.Singsung v LG26; (AU) Greenfield v Rover-Scott BonnarStill: use clear drafting; avoid relying on implication.Partial assignmentsAllowed (by rights, territory, term).s 139Useful for complex media deals.Exclusive licenceWritten, signed; excludes all others incl. licensor.s 7(1) (def.)Don’t confuse with assignment (transfer of title).
+9.4 Quick MCQ / Problem-Solve Grids
+A. Identify the Right(s) Engaged
+Fact PatternLikely RightsDownloading/uploading a track; cloud copy madeReproduction; CommunicationLive band covers song at caféPublic performance (LDMA) + venue licence; sound rec. not engaged unless playing recordingCinema screens film with soundtrackFilm public performance (s 124(b)–(c)) + music public performanceUploading a PDF to public linkCommunication (+ often reproduction)Translating a novelAdaptation (+ reproduction during the process)Posting a 20-sec famous riffSubstantial part likely (quality>quantity)B. Duration Spotter
+WorkTriggerDurationNovelDeath of author70y EOY of deathSound recordingPublication70y EOYFilmPublication70y EOYBroadcast / Cable programmeBroadcast / First inclusion50yPublished editionFirst publication25yC. Ownership Traps
+* Commissioned photos today: author/maker first owner (unless assignment).
+* Employee made film/recording in course: employer owns (CA 2021 extension).
+* Chain of title must be proved if not the author.
+* Copyright ? physical object (don’t sue in conversion for tapes/files).
+
+Red Herrings / Common Pitfalls
+* “I own the CD, so I can use the music commercially” ? (tangible ? copyright).
+* “Short clip isn’t infringement” ? (s 10 substantial part may bite).
+* “Publication = communication” ? (different rights).
+* “Commissioner owns by default” ? (no longer under CA 2021; bargain for assignment).
+* “Watermarking/resizing makes a new work” ? (see PropertyGuru v 99 under originality, cross-topic).
+
+
+10 Enforcement of Copyright (Singapore, CA 2021) — Exam-Ready Notes
+When relevant: Any problem asking if there’s infringement (by doing restricted acts, by commercial dealings, or by authorisation), what must be proved (subsistence ? infringement ? defences), how substantiality works, and what remedies are available.
+
+Table of Contents
+10.1 Infringement — Overview & Framework
+* 10.1.1 Dealing in Infringing Articles (s 147–148)
+* 10.1.2 Territoriality
+* 10.1.3 Substantiality, Originality, Idea–Expression
+o 10.1.3.1 Causal Connection
+o 10.1.3.2 Independent Creation
+* 10.1.4 Key Local Cases (quick takes)
+* 10.1.5 Authorising Infringement (directors/platforms)
+* 10.1.6 Commercial Dealings — Elements & Parallel Imports
+* 10.1.7 Locus Standi
+10.2 Defences (Permitted Use) — incl. Fair Use (s 190–192) & other carve-outs
+10.3 Remedies (s 305–308) — structure & exclusivity
+10.4 Flagrant Online Infringement (FYI)
+
+10.1 Infringement — Overview & Framework
+A. What counts as infringement?
+ElementWhat you must showStatute / NotesExam trapsRestricted actD does (or authorises) an act comprised in the copyright in Singapore without licence.s 146Don’t forget authorisation is separate liability.Types(1) Doing acts comprised in copyright; (2) Commercial dealings with infringing articles; (3) Authorising infringement.s 146, ss 147–148Use the right–work map from §9.1 (repro/comm/performance/adaptation).Framework(i) Subsistence; (ii) Prima facie infringement; (iii) Defences.GYP [14], [16]Always run in this order.B. Primary vs “Secondary”
+* Singapore usage:
+o “Primary” = doing acts comprised in the copyright (s 146).
+o “Secondary” (loose label) = commercial dealings in infringing articles (ss 147–148).
+o “Facilitating” in US ? authorising infringement in SG.
+
+10.1.1 Dealing in Infringing Articles (simplified)
+ConductElement summaryKnowledge limbStatuteImportation for commercial dealingImports an article for commercial dealing/distribution prejudicially affecting owner without licenceKnows or ought reasonably to know article was made without owner’s consents 147Commercial dealing (sell/hire/distribute/exhibit)Deals commercially or distributes prejudicially without licenceKnows or ought reasonably to know (SG-made: making infringed; imported: made without consent)s 148“Commercial dealing” (s 73): sell, let for hire, offer/expose for sale/hire, distribute, exhibit by way of trade.
+
+10.1.2 Territoriality
+RuleApplicationActs must occur in Singapore.Online/satellite fact-specific: where is the reproduction/communication done; where public is targeted; where servers/users are.
+10.1.3 Substantiality, Originality, Idea–Expression
+A. Substantiality: quality > quantity
+* s 10: act to a “substantial part” = act to the whole.
+* Copying must be of the original aspects of the work (not facts/ideas).
+* Thin vs thick protection (GYP):
+o Thin (e.g., bare compilations) ? need more taken to infringe.
+o Thick (high creativity) ? less taking may suffice.
+B. Altered vs straight copying
+ModeTest focusAuthoritiesStraight copyingLook at the taken portion alone.Designers Guild; applied in Virtual Map (CA)Altered copyingWeigh similarities & differences across the works.Same principle; overall assessmentC. Ideas vs expression
+* No infringement if only ideas taken; must take expression (language, selection/arrangement, distinctive elements).
+* Recipes/“how to”: express in own words = OK; lifting text = infringement.
+
+10.1.3.1 Causal Connection (copying must be caused by Pf’s work)
+RequirementHow to proveCases / NotesPf’s work ? D’s work(1) Objective similarity + (2) Access ? inference of copying; burden shifts.Flamelite; Virtual Map (map “seeds”); GYP (phony listings)RebuttalShow independent creation (docs, drafts, timelines).Chua Puay Kiang10.1.3.2 Independent Creation (defence)
+* If D independently created the work, no infringement, even if strikingly similar (e.g., many similar Instagram photos of the same landmark).
+* Temple Island (UK) often criticised; use cautiously.
+
+10.1.4 Key Local Cases — One-liners you can cite
+CaseTakeawayAsia Pacific v Pioneers & Leaders (CA 2011)Compilations: protect selection/arrangement, protection thin; subsistence/infringement separated.Global Yellow Pages v Promedia (CA 2017)Need human intellect; compilations protected thinly; more taking needed to infringe.RecordTV v MediaCorp (CA 2011)RS-DVR service not reproducing/communicating to public; authorisation test (4 factors) not satisfied.Virtual Map v SLA / SuncoolCopying tests incl. altered copying; “seeds” for access; selection/arrangement crucial.
+10.1.5 Authorising Infringement (directors, platforms, venues)
+Test (RecordTV 4-factor guide):
+1. Control over the means of infringement (power to prevent?).
+2. Relationship with direct infringer.
+3. Steps taken to avoid/prevent infringement.
+4. Knowledge (actual/constructive).
+PrincipleIllustrationsMust first have primary infringement.No primary ? no authorisation.“Purporting to grant the right” can suffice.Express or implied permission.CasesRecordTV (no authorisation); JRP v Tessensohn (no proof of employee copying); Moorhouse (Uni liable: copiers + knowledge + no steps); Ong Seow Peng (no control over 3P pirate).
+10.1.6 Commercial Dealings — Elements & Parallel Imports
+A. Elements recap (for s 147 / s 148):
+* Act: import/deal/distribute/exhibit commercially;
+* Without licence;
+* Knowledge: knows or ought reasonably to know (objective).
+B. Imported Articles & Parallel Imports
+* Whose consent? If made abroad, look to foreign copyright owner (see s 25(3) concept); if none, look to SG owner.
+* Genuine goods: parallel imports generally permitted in SG (copyright).
+* Television Broadcasts v Golden Line: dealing in genuine articles (even w/o local consent) is not copyright infringement (contrast with infringing copies).
+* Trade mark carve-outs differ (e.g., Samsonite v An Sheng), but that’s TM, not copyright.
+
+10.1.7 Locus Standi
+Who can sueNotesOwner (of the right allegedly infringed).s 119 / s 153 regime; match right to owner (layered works!).Exclusive licenseeStands in owner’s shoes for that right/period (allocation & no double recovery rules apply).Not enoughMere assignment of a right to sue only (PCCW v M1).
+10.2 Defences = Permitted Uses (new structure)
+A. General Points
+PointRuleStatuteLimitation period6 years from infringing act.s 154ArchitectureIf act is a permitted use, it’s not infringement.s 183(1)IndependencePermitted uses are independent.s 184Contracting outPossible by reasonable, negotiated terms; but some categories cannot be excluded.s 186; non-excludable: s 187 (Div 6 public collections (except s 234), Div 7 computer programs, Div 8 computational data analysis, Div 17 judicial/legal advice)B. Specific carve-outs (frequent exam hits)
+* Exams: setting/communicating/answering questions (s 202).
+* Judicial proceedings & reports (s 290), legal advice (s 291).
+* Education & institutional exceptions (conditions apply).
+* Moral right of attribution (identify creator reasonably prominently) runs alongside copyright—consent to use ? consent to omit attribution.
+C. Fair Use (renamed; structure updated)
+FeatureSG (CA 2021)BasisPermitted use (s 190).Factors4 non-exhaustive factors (s 191): (1) purpose/character (incl. commercial vs non-profit/educational; transformative purpose matters); (2) nature of work; (3) amount/substantiality; (4) market effect.AcknowledgementStill required for criticism/review and news/reporting (s 192).Research/study“Reasonable portion” approach preserved (s 194).US analogyAuthors Guild v Google: transformative indexing/search display ? fair use (compare SG emphasis on transformation in GYP [77]–[80]).
+10.3 Remedies (pick one monetary path)
+Menu (s 305(1))
+* Injunction (with terms), damages (incl. additional s 307), account of profits, statutory damages (s 308), delivery up, disposal.
+Exclusivity (s 305(2))
+* Monetary remedies mutually exclusive:
+o (i) Damages (incl. additional) OR (ii) Account OR (iii) Statutory damages.
+* Combo limited: Court may order account in addition to damages only to the extent profits weren’t already counted in damages (s 305(3)). ? No double recovery.
+Practice: Plead in the alternative; elect at judgment stage.
+
+10.4 Flagrant Online Infringement (FYI / non-exam)
+* Site-blocking and dynamic injunctions available; helps rights-holders avoid repeated applications for mirror sites.
+
+
+11. Confidential Information / Trade Secrets
+Table of Contents
+11.1 Overview & Sources (Paris/TRIPS; Why it matters)
+11.2 Protecting Confidential Info (Practical/Contractual)
+11.3 Relationship with Other IPRs (Copyright/TM/Patents)
+11.4 Core SG Principles & Tests
+* 11.4.1 Coco v Clark (classic 3-limb)
+* 11.4.2 I-Admin (CA 2020) (modified approach; burden shift)
+* 11.4.3 OK Lim (CA 2022) (scope of I-Admin; “taker”/loss v gain)
+11.5 What Counts as Confidential? (quality; public domain; reverse-engineering)
+11.6 Employment Context (skill & knowledge vs trade secrets; ROT)
+11.7 Authorisation/Transfer; Standing; Equitable Nature
+11.8 Defences & Public Interest
+11.9 Remedies & Damages (valuation menu; springboard; Wrotham Park)
+11.10 Application Grids, Traps, and MCQ Speed Checks
+
+11.1 Overview & Sources
+SourceWhat it saysRelevanceParis Convention art 10bisProtect against unfair competition (confusion; disparagement; misleading indications).Underpins unfair competition policy.TRIPS art 39(2)Protect undisclosed info if: (a) secret, (b) commercial value because secret, (c) reasonable steps to keep secret; actionable use/disclosure contrary to honest commercial practices (incl. breach of confidence, breach of contract, inducement).Exam anchor for defining “trade secret”.Why it matters: Catches what copyright/patent do not (e.g., concepts, processes, methods, datasets, formulas). Trade secrets often constitute ~? corporate IP value.
+
+11.2 Protecting Confidential Info (Practical/Contractual)
+A. Practical controls (evidence of “reasonable steps”)
+* Access control: need-to-know lists, user roles, logs, DLP, watermarking.
+* Physical/technical: data rooms, CCTV, badge controls, encryption, off-boarding device returns; “CONFIDENTIAL” legends.
+* Process: onboarding training; sign-in/sign-out; version control; audit trails.
+B. Contract toolkit (NDAs / project clauses)
+ClauseWhat to includeExam flagsDefinitionTrack TRIPS: “info that is not generally known, has commercial value because secret, subject to reasonable steps”.Avoid over-breadth ? ROT risk.Use/DisclosurePurpose-limited; onward disclosures to affiliates/consultants on same terms.Permit regulatory/compelled disclosure with notice.SecurityMinimum baseline (ISO-like), return/destruction on termination.Require certificates of destruction.DurationReasonable (often until public domain).“Perpetual” can be OK if tied to secrecy.RemediesInjunction, delivery up, equitable damages, Wrotham Park.Don’t exclude equitable relief.Dispute ResolutionConsider arbitration (confidential).Public litigation may itself disclose info.
+11.3 Relationship with Other IPRs
+PairingRule / CaseTakeawayCopyright ? ConfidenceHubbard v VosperCopyright protects expression; confidence can protect ideas/methods/data if confidential; public interest may lift injunction.Patents ? ConfidencePatent requires enabling disclosure (narrow monopoly); trade secret demands secrecy (potentially indefinite).SMC Marine: pending patent app (pre-publication) can still support confidentiality.TM / Passing off ? ConfidenceQB Net v EarnsonGet-up visible to public ? confidential; use confidence only for non-public know-how.
+11.4 Core SG Principles & Tests
+11.4.1 Coco v Clark (classic test)
+P must show:
+1. Quality of confidence (not public; relatively inaccessible).
+2. Circumstances importing obligation of confidence (express NDA; implied from relationship/situation—lawyer-client, employee, banker; or surreptitious taking).
+3. Unauthorised use/disclosure to detriment of plaintiff.
+Critique: Limb (3) is hard—evidence sits with defendant.
+
+11.4.2 I-Admin (Singapore) Pte Ltd v Hong Ying Ting (CA, 2020) — Modified Approach
+Shift in focus: protect wrongful loss interest (breach of conscience upon taking), not only wrongful gain.
+Rule (burden shift):
+* Once P proves (1) confidential quality + (2) obligation of confidence ? presumption of breach.
+* D must prove conscience not affected (e.g., accident, unawareness of confidentiality, strong public interest).
+Damages: equitable damages measured by value to D (e.g., cost saved/time saved/springboard advantage).
+* Use Seager (No 2) methods: consultant cost vs “something special” (willing buyer/seller price).
+
+11.4.3 OK Lim v Rajah & Tann (CA, 2022) — Clarification
+* Two tracks:
+o “Taker / wrongful loss” cases ? I-Admin applies (burden shift).
+o “Wrongful gain” cases (use/disclosure causing benefit) ? Coco framework applies (P proves unauthorised use/disclosure & detriment).
+When does I-Admin apply?
+(i) Loss interest focus (loss of confidentiality per se), and (ii) taker situation (info taken from P).
+
+?? Side-by-side: Coco vs I-Admin vs OK Lim
+FeatureCocoI-AdminOK LimElements1) Quality; 2) Obligation; 3) Unauthorised use/disclosure + detrimentP proves (1) + (2) ? presumption; D to show conscience not affectedI-Admin only for taker/loss cases; Coco remains for gain casesBurden at limb 3PlaintiffDefendantDepends on trackRemedy lensFocus on wrongful gainFocus on wrongful loss (value to D)Choose correct track
+11.5 What Counts as Confidential? (Quality; Public Domain; Reverse-Engineering)
+PrincipleCase / PointExam flagNot public; relatively inaccessibleClearlab (CA)No need to grade degrees of secrecy; identify with specificity.Labels help but not conclusiveNanofilm v Semivac“CONFIDENTIAL” helps; must show measures + access limits.Component parts public ? lose secrecy of wholeNanofilmConfiguration/assembly can be secret even if pieces are known.Reverse-engineering feasibility mattersNanofilm [170]If reverse-engineering is difficult/expensive, secrecy persists.Public-facing get-up not confidentialQB NetShop layout visible to customers ? no secrecy.Dumpster divingVestwin TradingSurreptitious acquisition imports obligation; no “abandonment” of confidentiality.
+11.6 Employment Context (Skill & Knowledge; ROT)
+TopicRule / CaseTakeawaysSkill/knowledge vs secretsClearlab; StratechEmployees may use general skill/experience; cannot use specific trade secrets. Plead secrets with particularity.ROT enforceabilityMan Financial; HT SRL v WeeROT must protect legitimate proprietary interest beyond confidentiality clauses; otherwise unenforceable.Course of employment(Analogy from copyright employee cases)Have clear contracts, IP & confidence clauses; limit to reasonable scope/period.
+11.7 Authorisation/Transfer; Standing; Equity
+* Equitable action: courts look at conscience; obligations can arise without contract (surreptitious taking, mistaken receipt).
+* Transfer: While “confidential info is not property”, courts recognise passing on the benefit and ability to restrain disclosure with the business (e.g., Mustad v Dosen reasoning; followed in TS & B Retail).
+* Express vs Equitable duties: X v CDE — can sue in contract and/or equity.
+
+11.8 Defences & Public Interest
+DefenceNotes / ExamplesPublic interestE.g., exposing wrongdoing/health & safety; Hubbard v Vosper (comment/criticism; confidentiality may yield).Accident / no knowledgeUnder I-Admin, D shows conscience not affected (e.g., inadvertent receipt, immediate return).Info already publicIf truly in public domain (not merely similar), confidence lost.Independent creationIf D developed independently without using confidential info.Reverse engineeringIf lawfully obtained product and reverse-engineering is allowed/feasible and not contractually restricted.
+11.9 Remedies & Damages
+A. Injunctive relief
+* Interim + final injunctions (preserve secrecy), delivery up, springboard injunctions (restrain unfair head-start period).
+B. Monetary measures (equitable damages/account)
+MeasureHow assessedAuthorities / NotesCost saved / time savedConsultant cost; build cost avoided; time-to-market gain.Seager (No 2); endorsed in I-Admin.Open market valuePrice a willing buyer pays for info (“something special”).Seager (No 2).Licence/royaltyIf P would have licensed; capitalised royalties.Contract practice evidence helps.Lost profitsIf P would not have licensed; causation/mitigation needed.Heavier evidential burden.Wrotham Park (negotiating damages)Reasonable fee in lieu of injunction; treats D as if having bought a release.Recognised in SG (applied in confidence); Clearlab observations.SpringboardMonetary +/or time-limited restraint to neutralise head-start.Equitable aim: restore parity.Personal loss (private individuals)Psychiatric injury; hurt feelings (nominal).Special to privacy-like contexts.
+11.10 Application Grids & Traps
+A. Fast Framework (open-book flow)
+1. Identify the info precisely (what, where stored, who had access, labels).
+2. Quality of confidence (not public; difficult to reverse-engineer; measures taken).
+3. Obligation (NDA / relationship / circumstances / surreptitious taking).
+4. Pick the track:
+o Taker/loss ? I-Admin: presumption; D to show conscience not affected.
+o Gain/use ? Coco: P proves unauthorised use/disclosure + detriment.
+5. Defences (public interest; accident; already public; independent creation; reverse-engineering).
+6. Relief (injunction; delivery up; springboard; damages menu).
+7. Employment angle (skill & knowledge vs secrets; ROT validity).
+B. What is NOT confidential (typical traps)
+* Shop layout obvious to customers (QB Net).
+* Bare concepts already public (e.g., “10-minute haircut” concept).
+* “CONFIDENTIAL” stamp alone (no measures) (Nanofilm cautions).
+* Data copied but P cannot specify what exactly (Stratech).
+C. Evidence to gather (problem questions)
+* NDAs; policy docs; access logs; Git/SVN history; watermark hits; onboarding/off-boarding records; device forensics; emails/Signal/WeChat pulls; reverse-engineering cost opinions; comparatives on development timeline.
+
+Case Table — One-liners You Can Cite
+CasePropositionCoco v Clark3-limb test; classic elements.I-Admin (CA 2020)Burden shift at limb 3 for taker/loss; value-to-D damages (cost/time saved).OK Lim (CA 2022)I-Admin limited to taker/loss; Coco still governs gain cases.Nanofilm v SemivacConcepts/assemblies can be confidential; labels help but measures matter; reverse-engineering effort relevant.Vestwin TradingSurreptitious acquisition (dumpster) ? obligation; no abandonment.QB Net v EarnsonPublic-facing get-up not confidential.Clearlab (CA)Define with specificity; skill/knowledge vs secrets; confidentiality = relative inaccessibility.Stratech v NyamOverbroad pleadings fail; ROT struck; password-protected ? automatically confidential.Hubbard v VosperCopyright vs confidence; public interest may lift restraint.SMC MarinePending patent (pre-publication) does not publicise; injunction possible.X v CDECan sue in contract and/or equity for confidence.TS & B RetailBenefit of confidence can be transferred with business (protectable downstream).
+Quick MCQ Speed Checks
+1) Taker downloads drawings from server; no evidence of use.
+? I-Admin track: P proves quality + obligation ? presumption; D must show conscience not affected. Springboard & cost-saved damages in play.
+2) Ex-employee builds similar tool from memory.
+? Ask: What exactly is confidential? If only skill/knowledge, no BoC (Clearlab). If specific configs/algorithms copied ? BoC.
+3) Competitor buys product and reverse-engineers.
+? If lawful purchase and no contractual ban, and reverse-engineering feasible, likely no BoC; if reverse-engineering is prohibitively difficult and info was taken via breach ? BoC.
+4) Layout copied from shopfront.
+? Public domain observation ? no BoC (QB Net). Consider passing off/TM instead.
+5) ROT + confidentiality clause both present.**
+? ROT must protect additional legitimate interest beyond confidentiality; else unenforceable (HT SRL; Man Financial).
+
+
+12 IP in Business — Exam-Ready Notes (Singapore)
+12.1 SWOT Analysis (IP-focused)
+12.1.0 Quick framework
+* Strengths/Weaknesses = internal; Opportunities/Threats = external.
+* Weight/prioritise each point ? drives strategy (e.g., file, license, JV, sell).
+12.1.1 Strengths (internal)
+ExamplesWhy it mattersStrategy leversStrong patent thicket / valid core patent familyBarriers to entryWork, cross-license, assert selectivelyFamous TM / trade dressPremium pricingFranchise, brand extensionProprietary datasets/algorithms (trade secrets)Sustainable edgeTight access controls; NDAs; limited disclosureRegistered designs covering variantsLook/feel moatBundle with TM to deter copycatsFreedom-to-operate (FTO) opinionsReduce litigation riskAccelerate launch; attract partners12.1.2 Weaknesses (internal)
+ExamplesRiskFixLapses/annuities missedLoss of rightsDocketing, outsource renewalsNo NDAs / weak secrecy hygieneLoss of trade secretNDAs, access logs, off-boardingOverly narrow patent claimsEasy design-aroundContinuations/divisionals, file improvementsOwnership gapsStanding riskChain-of-title audit; assignments12.1.3 Opportunities (external)
+ExampleTie-inGovt grants / RIE prioritiesCo-fund filings, PCT routesNew markets opened (tariff cuts)File Madrid/HAAG/PCT aligned to rolloutCompetitor distressBuy non-core IP; recruit talent (mind ROT/confidence)12.1.4 Threats (external)
+ExampleMitigationRule shifts (exhaustion, compulsory licences)Local counsel; restructure licencesSupply chain fragilityContractual IP escrow; dual-sourceAggressive NPEsClearance + design-around + defensive pubs
+12.2 Extracting Value from IP — 5 Routes
+Snapshot
+RouteCore ideaTypical paper$ StreamsWhen to preferWork itUse the right yourselfCompliance + FTOProduct/service revenuesYou can manufacture/marketLicenseLet others useLicence + QALump sum; royaltyScale w/o capexCollaborate/JVBuild jointlyJV or collab MSAMilestones; shared IPComplementary tech/marketSellTransfer rightsAssignmentLump sumNon-core or distressCollateralise/securitiseFinance on IPSecurity/SPADebt proceedsCapitalise predictable cashflows
+12.2.1 Working the IP
+* Examples: apply TM/RD on goods; practise patented process.
+* Benefits: direct margin, brand loyalty, barrier to entry.
+* Exam flag: FTO and infringement risk must be addressed.
+
+12.2.2 Licensing
+Types of licence
+TypeWho may exploitNotesNon-exclusiveMany licensees + licensorMarket coverage; lower ratesSoleLicensor + one licenseeMiddle groundExclusiveOnly licenseeConsider field/territory/time carve-outsPayment structures
+ModelProsConsUp-front (fully paid)Immediate cash; simpleLicensor bears under-performance riskRunning royaltyAligns with successAudit; reporting burdenHybridBalance riskComplexityCore licence clauses (exam checklist)
+* Grant (scope/field/territory/term; improvements; sublicensing)
+* IP ownership (BG/FG/SG/Post-ground; see 12.2.3)
+* Quality control (esp. TM/franchise)
+* Confidentiality (TRIPS-style; reasonable steps)
+* Warranties/indemnities (validity/non-infringement—often limited)
+* Milestones/MFN; audit; termination; post-termination wind-down
+12.2.2.1 Franchising
+* Definition: ongoing franchisor control/assistance; franchisee invests; operates under franchisor’s brand/system.
+* IP bundle: TM, copyright training manuals, know-how (trade secrets), layout/operations.
+* Key clauses: QC, territory exclusivity, fees (initial + royalty + marketing), non-compete, supply obligations, termination de-branding, ROT compliance.
+* Examples: McDonald’s; local EduTech models.
+12.2.2.2 Cross-licensing
+* Patent-heavy exchanges; consideration is the mutual freedom to operate (FTO).
+* Why: avoid litigation stalemate; combine complementary claims (e.g., Google–Samsung (2014)).
+* Watch-outs: grant-backs, after-acquired patents, defensive suspension, antitrust.
+
+12.2.3 Collaboration / Joint Venture
+IP taxonomy (define clearly in contract)
+LabelMeaningOwnership defaultLicence backBackground (BG)Pre-existing contributed IPStays with contributorNon-exclusive as neededForeground (FG)Created within project scopeAllocate: joint/split by moduleOften field-limitedSide-ground (SG)Created outside project but relevantStays with creatorOption/right of first offerPost-groundAfter project, relevantStays with creatorNegotiated optionsOther must-haves: publications; patent filing lead; secrecy levels; export control; liability split; exit/split of FG.
+
+12.2.4 Sale of IP
+* Use-cases: monetise non-core; insolvency sales (e.g., Kodak patent fire sale); brand carve-outs (e.g., Yahoo TM rights in JP).
+* Compare: Asset sale (IP only) vs Share sale (company) (staff/know-how ride along; liabilities).
+* Checklist: title/encumbrances; recorded assignments; open source hygiene; litigation; revenue concentration.
+
+12.2.5 Collateralisation / Securitisation
+StructureWhatRisksCollateralisationLender takes security over IP; on default, enforce/sellValuation volatility; obsolescenceSecuritisationMonetise royalty receivables via SPV (e.g., Bowie bonds)Performance risk; disclosure covenants
+12.3 IP in Deals & Due Diligence (DD)
+When: licences, sales, M&A, JVs.
+12.3.1 3-Step DD Workflow
+1. Identify assets/risks (what IP; where; who owns; encumbrances).
+2. Investigate registers, agreements, disputes, secrecy controls.
+3. Evaluate gaps, expiry, scope vs business plan; remediation plan.
+12.3.2 Asset DD — Key Questions
+TopicQuestionsActionRegistration & geographyAre filings aligned with target markets? Gaps?File PCT/Madrid; local counselTerm/expiryPatents/RD expiring soon?Continuations; design refreshChain of titleAssignments recorded? Employee IP clauses?Back-to-back deeds; confirmationsLicences out/inExclusivities? Most-favoured? Field/territory?Consent requirements; carve-outsOpen sourceCopyleft contamination?SBOM; re-architectureSecrecy controlsReasonable steps?Implement NDAs, logs, DLPFTOBlocking third-party rights?Opinions; design-aroundLitigationPending threats/office actionsReserve; reps & warranties12.3.3 Agreement DD — Red Flags
+Red flagWhy it bitesMitigationSeller gave no validity warrantiesBuyer bears invalidity riskPrice adjust; insuranceSeller name ? register ownerNo authority to sellRatify; chain-repairForeign governing lawEnforcement uncertaintyChoice-of-law advice; forum clauses
+13 Remedies and Overlapping Rights — Exam-Ready Notes
+13.1 Civil Remedies (by right)
+Core principles (all regimes): remedies are compensatory, no double recovery (damages vs account), injunctions discretionary.
+13.1.1 Patents (?? Patents Act)
+* Injunction, delivery up/destruction, damages OR account (not both for same loss), limits for innocent infringer (e.g., s 69(1)), declaration of non-infringement, certificate of validity.
+* Quia timet possible (risk of impending infringement) — see Millennium Pharma principles.
+13.1.2 Trade Marks (?? TMA)
+* Injunction, damages OR account (see s 31(3)–(4) mutual exclusivity with carve-out if profits not counted in damages), statutory damages (counterfeits), delivery up/disposal, erasure orders.
+13.1.3 Copyright (?? CA 2021)
+* Injunction, damages OR account, statutory damages option, additional damages for flagrant cases, innocent infringer limit (damages restricted; account may still be granted), delivery up.
+* Mutual exclusivity with limited cumulation if profits not included in damages (cf s 305(2)–(3) CA 2021 logic).
+13.1.4 Registered Designs / Passing Off / Confidence
+* RDA: injunction; damages OR account; delivery up; limits (e.g., s 39).
+* Common law (passing off/confidence): injunction, damages OR account, and Wrotham Park (“negotiating damages”) where orthodox damages inadequate and injunction not available (Turf Club Auto (CA) threshold).
+o Confidence: WP recognised; may treat D as having purchased release (see Clearlab discussion).
+
+13.1.5 Injunctions — Exam Grid
+TypeTestNotesInterlocutoryAmerican Cyanamid: (i) serious issue; (ii) damages inadequate; (iii) balance of convenienceHarder to get; can be quia timet for patentsFinalAfter trial; discretionaryMay be refused if activity ceased/adequate damagesSpringboard (confidence)Neutralise unfair head-startTime-limited; pairs with cost-saved damagesEquitable limits: clean hands; laches.
+
+13.1.6 Damages — Key Points
+* Must prove causation and quantum; otherwise nominal (see Lee Tat Cheng logic on proof of loss).
+* Intent usually doesn’t increase quantum (compensatory focus) though additional/aggravated may apply where statute allows (e.g., CA additional damages).
+* No double recovery; can combine damages + account only if profits not already factored (copyright logic mirrored across).
+
+13.2 Groundless Threats (know at high level)
+Statutory actions exist in CA/TMA/PA/RDA to curb abusive threats.
+Policy (Singsung CA): prevent right-owners from chilling markets via unjustified threats; easier than economic torts (no bad faith needed).
+Elements (overview):
+* Threat (beyond mere right notification; assessed from reasonable recipient’s view).
+* Who sues: aggrieved party; who’s sued: threatener (often rights holder).
+* Defences/Exceptions:
+o Professional advisers shielded when acting for client (across regimes).
+o Primary acts carve-outs differ by statute (e.g., TMA s 35(1) primary uses).
+Remedies: declaration (unjustifiable), injunction restraining threats, damages for loss caused. Discretionary — losing infringement claim ? auto win on threats (Singsung; GYP).
+
+13.3 Parallel Imports & Exhaustion (non-examinable depth, but know stance)
+* International exhaustion favoured in SG; parallel imports of genuine goods generally permitted (policy and case support incl. Samsonite v An Sheng TM context; s 40A CA protects importers from packaging-copyright tactics).
+* Qualifications: patents first-mover pharma nuance; TM exceptions where condition of goods changed or unfair dilution (TMA s 29(2)).
+* Rationale: consumer welfare, competition; ADs must price reasonably.
+
+13.4 Overlapping Rights — How to Plead & Avoid Double Counting
+ScenarioRights to considerNotesProduct packaging copiedCopyright (artistic work), TM/passing off, RDAChoose remedies carefully; compare actual packaging vs claimed work (see Nestlé v Petra Foods (HC) critique points).Ex-employee takes materialsConfidence + CopyrightConfidence covers concepts/assemblies (see Nanofilm); consider I-Admin burden shift in taker/loss cases.3D product shapeTM shape vs RD/Patent/CopyrightTMA s 7(3) bars shapes that are nature/technical result/substantial value; distinctiveness hurdle.Common-law defences vs statutory regimes: courts have queried coherence where statutory fair dealing may intersect with TM defences (see Bee Cheng Hiang discussion) — be ready to argue policy consistency.
+
+Exam Application Cheat-Sheets
+A. Deal structuring: which lever?
+1. Capability? If no ? license/JV.
+2. Speed to market? Cross-license for FTO; avoid litigation.
+3. Asset non-core? Sell or securitise cashflows.
+4. Cash need? Collateralise or upfront licence fee.
+B. Collaboration IP box-ticking
+* Define BG/FG/SG/Post-ground + ownership, licences back, publication, filing control, exit split.
+C. Litigation remedies picker
+* Need to stop quickly ? interlocutory injunction (check Cyanamid).
+* Monetary only? Prove loss or seek account; if orthodox measure fails and covenant breach, consider Wrotham Park.
+* Threats received? Evaluate groundless threats elements/defences.
+

@@ -1,0 +1,468 @@
+Comparative Laws Part B 2024
+A. Basics of Civil Law
+* Focus on civil law traditions in Indonesia and Thailand, two of Southeast Asia’s largest economies and close trading partners of Singapore
+o Indonesia’s legal system is derived from Dutch law and its civil code is based on the French or Napoleonic Code
+o Thailand has adopted a mixture of French and German civil law traditions
+
+* Civil law, like common law, is not static but has been adapted over time and evolved differently in different jurisdictions although the core remains the same
+o Civil law is the system of law which originated from continental Europe and based on codified law drawn from sources such as custom and ancient Roman law. This codified system of law is the core feature of civil law
+o Countries with civil law systems have continuously updated legal codes that specify all matters capable of being brought before a court, the applicable procedure, penalties, remedies, etc.. The source of law is the code
+o Such codes distinguish between different categories of law and are intended to be comprehensive and deal with ALL legal issues that could arise from different relationships
+o A civil law practitioner’s first port of call when considering a legal issue will therefore be the code which is most likely to apply to that issue
+
+Legal effect of case law and judgements 
+* Case law or judgements of the court do NOT carry the same weight or importance as the provisions of the Code
+o Cf in common law where we rely on statutes, but it is still largely based on precedence and development of case law (i.e. an iterative interpretation of the law)
+
+* Civil law jurisdictions do NOT adopt a stare decisis principle in adjudication. Precedents serve a persuasive role in deciding any given legal issue, but no single decision binds the court
+o Civil law courts are expected to take past decisions into account when there is a sufficient level of consistency in case law. Put another way, a court is required to take past decisions into account ONLY if there is sufficient uniformity in previous case law
+o Higher the level of uniformity in past precedents, the greater the persuasive force of case law – thus there is considerable authoritative force if there is an observable trend of decisions on any given legal issue
+o NO relevance is given to case law where there have been competing views or decisions – only when uniform, case law develops
+* If the fraction of positive judgements with respect to a legal issue exceeds a threshold, recognition of such legal claims in future disputes will be facilitated by the presence of such consolidated case law
+* If the fraction of negative judgements exceeds a threshold, then recognition of such legal claims in future disputes will be made more difficult
+o Constant jurisprudence is a principle from the French civil law that continues to apply across civil law jurisdictions
+
+Structure of Indonesian Law (Civil Code)
+* Indonesia’s modern legal system is derived from the Dutch Civil Code which was brought into force in Indonesia in 1847, but still remains the backbone of Indonesian civil law
+* Indonesian Civil Code is divided into 4 books:
+1. Book 1: Individual
+* This includes the right to citizenship, Institution of Civil Registration, residence or domicile, marriage, divorce, family law, guardianship, custody and maturity
+2. Book 2: Assets and property rights
+* Property rights over tangible property and intangible property
+3. Book 3: Contracts (Articles 1233 to 1456)
+* Regulates specific contracts like sale of goods, barter, hiring, etc.
+* Breach of contract is commonly referred to as default
+4. Book 4: Concerning Evidence and Prescription
+
+
+
+* On the other hand, each type of wrongful act (similar to torts in common law) is codified. There are specific provisions in the Criminal Code and Civil Code that deal with specific civil liability for specific lower-level crimes and torts, such as arson, theft and minor assault
+o There is no extra statutory notion of tortious liability, as understood in common law jurisdictions
+o In many Indonesian local government cases, parties allege both default and wrongful acts – the remedies for each are different and also governed by relevant codes
+
+* There is no official Indonesian language version of the Civil Code – the original Dutch language version of the mid-19th century remains the authoritative version which creates serious difficulties
+o In many civil law countries, courts rely heavily on legal scholars to help interpret and apply the codes. For Indonesia, this means the old Dutch legal scholar’s interpretation of the code as it stood in 1847 is a source of law
+o While some of the code has been translated, much of the code has not, making it inaccessible to lawyers and judges who cannot read Dutch
+o As the original code is in Dutch, amendment is near impossible as legislators would need to enact new provisions in Dutch. Legislators have instead issued new statutes to override the code rather than amend the code directly. E.g. the agrarian law in 1960 replaced many of the code’s provisions on real property, and the 1974 marriage law replaced many of the code provisions on marriage
+o Nevertheless, most of the code remains intact and continues to be applied. Most notable is the law of contract, which is still governed by the code
+
+* Many civil jurisdictions like Indonesia also have supplementary laws, e.g. relevant government bodies / ministries are able to issue implementing regulations which are essentially further guidelines under certain regulations that can be changed and updated from time to time
+o Implementing regulations can be thought of as supplementary legislation, where the actual detail of the steps intended or procedures intended by the law are clarified
+o It may take some time for the implementing regulations to be issued. Until they are issued, it is not uncommon for Indonesian regulations to have a period of uncertainty to understand the intention of lawmakers and the desired outcomes of the law
+o During that period, consultations will need to be made with the relevant ministries or agencies which are useful, but should still be taken with great care when considering the right interim view, until the actual implementing regulations are issued
+
+o E.g. Existing Law No. 38 of 2004 on Roads could not accommodate various developments on the toll road, so in 2022, Road Law No. 2 of 2022 was enacted to replace the toll road law and also introduced 3 other grounds for tariff adjustments:
+(i) there is a procurement of traffic services in the toll road network system in certain regions;
+(ii) there is an expansion of scope in the business plan of BUJT that impacts investment viability; and/or
+(iii) there is a central government policy that affects investment viability.
+* These additional grounds for tariff increases have already existed in many toll road concession agreements, but the Road Law now codified these into legislation to give greater legal certainty for investment
+* However, Road Law No. 2 of 2022 needed implementing regulations to give it clearer scope, which were issued in May 2024 as Government Regulation No. 23 of 2024 on Toll Roads. These implementing regulations clarified how tariff rates will be increased, procedures as intended by law, etc.
+
+o E.g. Indonesian language law (Law No. 24 of 2009) which mandates the use of Indonesian language in contracts. However, the law did not say anything about the consequences of contracts that are not made in the Indonesian language, which led to controversial decisions made by the Supreme Court that declared the contract as null and void in absence of the Indonesian language version. 
+* It was only 10 years later in 2019 that the implementing regulation was issued to give some clarity, and it was only in 2023 that the Supreme Court issued a circular letter that confirm its position that a contract that was made without an Indonesian version (e.g. English contract) can only be annulled if it is proven that such absence was not as a result of bad faith --> i.e. if absence of Indonesian version was due to bad faith, then cannot annul English version. If absence was due to a genuine mistake, then can annul
+
+* Civil law codes can also cross refer to each other for application (e.g. toll road law states that land procurement for public roads is carried out based on the law and regulations relating to Law No. 2 of 2012 on land procurement for development for public interest)
+
+Structure of Thai Law (Civil and Commercial Code)
+* Thailand has adopted a civil law system with the main source of law being statutory law, but has been influenced by both civil and common law legal traditions. The supreme law of Thailand at present is the 2017 Constitution, and the main statute dealing with private law is the Thai Civil and Commercial Code (CCC) – which has 2 main branches: civil law and commercial law
+o Civil law regulates property relations and personal relations between private persons
+o Commercial law governs business and commercial contracts between merchants during the course of their business, as well as the instruments they have at their disposal
+o Content of Thai court laws was influenced by other codified systems like France, Switzerland, Germany and even common law systems like the UK, as well as the traditional laws of Thailand
+
+* The CCC does not comprise the whole of the laws of Thailand –
+o E.g. law of companies is subdivided by the Public Limited Property Act 1992 and the Securities and Exchange Act 1992
+o E.g. law as to unlawful acts by liability for damages arising from a product is found in the Liability for Damages Arising from Unsafe Products Act 2008
+o E.g. law as to IP is subdivided by the Copyright Act 1994, Patents Act 1979 and Trademarks Act 1991
+o This means the CCC is just the main law, but Parliament has also added statutory provisions to deal with some of the specifics
+o Other than CCC, there are also other important codes like criminal codes to deal with criminal offences, civil procedure codes to deal with procedure of civil cases (including commercial cases) and the criminal procedure codes which deals with the procedure in the Court of Justice for criminal cases
+
+* Structure of CCC – based on arrangement of German and Roman law and is made up of 6 books:
+1. Book 1 – general principles, provision on natural and juristic/legal persons, in whom rights may vest
+o Title 1: General provisions
+o Title 2: (chapter 1) natural persons and (chapter 2) juristic persons
+o Title 3: Things
+o Title 4: Juristic acts
+o Title 5: Periods of time
+o Title 6: Prescription
+2. Book 2 – obligations, including the mechanisms for prevention, compensation and enforcement if rights are violated
+o Title 1: General provisions
+* Chapter 1: Subject of obligations
+* Chapter 2: Effects of obligation
+* Chapter 3: Plurality of debtors and creditors
+* Chapter 4: Transfers of claims
+* Chapter 5: Extinction of obligations
+o Title 2: Contracts
+o Title 3: Management of affairs without mandate
+o Title 4: Unjust enrichment
+o *Title 5: Torts
+3. Book 3 – specific contracts
+o Title 1: Sale
+o Title 2: Exchange
+o Title 3: Gift
+o Title 4: Hire of property
+o Title 5: Hire-purchase
+o Title 6: Hire of services
+o Title 7: Hire of work
+o Title 8: Carriage
+o Title 9: Loan
+o Title 10: Deposit
+o Title 11: Suretyship
+o Title 12: Mortgage
+o Title 13: Pledge
+o Title 14: Warehousing
+o Title 15: Agency
+o Title 16: Brokerage
+o Title 17: Compromise
+o Title 18: Gambling and betting
+o Title 19: Current account
+o Title 20: Insurance
+o Title 21: Bills
+o Title 22: Partnerships and companies
+o Title 23: Associations (repealed)
+4. Book 4 – property, with distinction between movable property and immovable property, and rules regarding acquisition and loss of property for each
+5. Book 5 – family law
+6. Book 6 – succession
+
+E.g. of wrongful or tortious acts under Book 2 Title 5, Chapter 1
+* Liability for a person’s own actions / direct liability (s 420 CCC) – baseline for wrongful acts which sets out the elements. Almost all cases where there is an allegation of a wrongful act will refer to s 420 before going on to list another more specific section below.
+
+“Any person who, intentionally or negligently, has unlawfully injured the life, body, health, freedom, property or any right of another person is said to commit a tortious act and shall be obligated to pay compensation for such.”
+
+* Liability for another person’s actions or objects / indirect liability:
+o S 425 CCC (wrongful act of employee / employer): The employer shall be jointly liable with his or her employee for the consequences of a tortious act committed by such employee in the course of his or her employment
+o S 427 CCC (wrongful act of agent / principal)
+o S 428 CCC (wrongful act of contractor / employer)
+o S 437 CCC (wrongful act of owners or controller of vehicles):
+“Owners or controller of vehicle shall be responsible for injury arising from such vehicle, unless it can be proven that the injury results from force majeure or fault of the injured person.”
+
+* Compensation for wrongful acts (s 438 CCC) – sets out forms of compensation available once liability is established. Types of compensation are set out exhaustively in the CCC, including any interest:
+“A court shall decide on the manner and the extent of compensation according to the circumstances and the severity of the tortious act. Compensation shall include restitution of the property of which the injured person has been deprived by a tort or its value, including compensation to be granted for any damage arising.”
+
+* Prescription periods (s 448 CCC)
+o The right to claim compensation for damages in tort shall be barred by prescription after:
+* one year has elapsed from the date on which the injured person comes to know of the tortious act and the identity of the person bound to pay compensation, or 
+* ten years have elapsed from the date of the tortious act.
+o However, if the damages are claimed based on an act punishable under the criminal law for which a longer prescription is provided, such longer prescription shall apply
+
+
+B. Contract Law – Selected Principles
+To form a contract under general civil law, 3 requirements must be met:
+1. Consent 
+o Civil codes will typical frame consent along the lines of “only a sane individual can validly consent to a contract”
+o Parties must have manifested their assent to be bound, since contractual liability is consensual
+
+2. Capacity 
+o Typically relevant in the context of companies, the capacity of juridical persons is limited to acts useful for the achievement of their purpose as defined in their corporate documents, which must be in compliance with the rules applicable
+
+3. Lawful and certain content
+o The contract cannot derogate from public order, either by its stipulations/terms or by its purpose, whether or not the latter was known by all parties
+o Definite enough to be enforceable
+
+Cf contract formation under common law where 4 elements are required for an agreement to be binding: (1) offer, (2) acceptance, (3) consideration and (4) intention to create legal relations. In determining whether an agreement has been made, what its terms are and whether it is intended to be legally binding, English law also applies an objective test.
+
+Contractual Interpretation
+Under Indonesian law
+* Principles of contractual interpretation are found in the Indonesian Civil Code under the chapter “Obligations arising from contracts or agreements” specifically in Part 4 (Articles 1342 to 1351)
+
+* Starting point is Article 1342 which states that if the contract is clear, you may not deviate from it using interpretation. This applies the *plain meaning rule under common law – where the words, taken together and given their natural ordinary meaning, are coherent and clear, then one should NOT assign a different meaning to those words by relying on rules of interpretation found in Part 4 of this Code
+
+* If the words in a clause is unclear or have several meanings, then apply the following articles to discern or find the meaning that will give effect to the intention of the parties (Articles 1343 to 1351): --> contracts are not entered in a vacuum so these provisions are intended to help ascertain the intention of the parties
+o Eminent jurist and commentator on Indonesian contract law Jesa Triori notes that we need to look for the *common intention or what has been mutually agreed and understood by the parties at the time the contract was entered into
+o Article 1343 requires us to discern the intention of the parties at the time the contract was entered into, rather than just following the literal meaning of the words
+o Article 1344 requires us to ensure that an interpretation is adopted so that the contract can be enforceable, rather than an interpretation which makes the agreement unenforceable
+o Article 1345 require us to interpret a clause in a manner that is aligned with the nature of the contract
+o Article 1346 require us to interpret a clause in a manner which is according to local custom or practice
+* E.g. is it a mortgage or loan agreement? Is it a production and sharing contract? In each case, it is helpful to understand what the custom and practice is for such a contract in that location
+
+
+
+Under Thai law
+2 general rules of interpretation:
+* S 171 CCC: “In the interpretation of a declaration of intent, the *real intent must be sought rather than the literal meaning of the words or expressions.”
+o The true intention of the parties shall always prevail even when it is in conflict with the written agreement
+o Supreme Court Judgement 11107/2555: the court ruled that the true nature of a contract should be determined by the parties’ intentions and actual terms, not just the name of the contract
+* In this case, 53 individuals entered into a contract with the company and labelled as “investment contracts”
+* However, the actual arrangement was a loan agreement as evidenced by a daily repayment schedule and an interest rate applicable which exceeded the legal limit
+* The court found that despite being named an “investment contract”, the true nature of the agreement was a loan under the Thai CCC. Consequently, the rights and obligations should be governed by the laws applicable to loans rather than investments
+
+* S 368 CCC: “Contracts shall be interpreted as required by good faith, *taking customary practice into consideration.”
+o Customary practice can usually be seen in professional services, like freight carriers, banking, legal, accounting, medical and agricultural services
+o Supreme Court Judgement 1375/2505: although the contract did not state in the freight booking that the jute must be packed tightly, in the customs of freight forwarding overseas, the consignor shall machine pack the jute that would be delivered tightly. The plaintiff was well aware of this custom, thus such custom shall be deemed part of the contract
+
+BUT if the wording of the contract is clearly specified, interpretation by/through intention of the parties is NOT REQUIRED:
+* Supreme Court Judgement 2210/2526: the true intention of the parties could be seen from such a land lease agreement. If the provision in the agreement is clear, there is NO requirement to interpret the intention of the parties outside such agreement 
+* No party may adduce any witnesses to supersede the written provisions in the agreement
+
+Filling the gaps with statutory rules
+* If the true intentions of the parties cannot be discovered or the true intentions of each party does not match, the contract is deemed to have gaps. This gap should be filled by applying relevant statutory rules and general document interpretation principles outlined in the CCC (s 10-14 CCC) and other applicable laws
+o Thai law has an inherent tension between subjective and objective interpretation, as the general rule in Thai law is that an unexpressed intention cannot form part of a contract
+o Thai law does recognise both terms implied in fact and terms implied in law
+
+* S 10 CCC: When any of the terms in a document may be interpreted in two meanings, the meaning which gives some effect shall be preferred over the other which does not.
+o When interpreting the text of a document, the preferred interpretation should be the one that gives some effect
+
+* S 11 CCC: In case of doubt, the interpretation shall be in favour of the party who incurs the obligation. 
+o Supreme Court Judgement No. 7257 – court held that as the mortgage contract did not clearly stipulate that the debt which should be covered includes the debt that the plaintiff provides a guarantee for other debtors, the phrase “all types of debt and obligation” shall only mean the debt that the plaintiff as a primary debtor has against the defendant (i.e. the scope of debt is narrowed for the benefit of the plaintiff who incurs the obligation as a debtor)
+
+* S 12 CCC: In the case where an amount of money or quantity is expressed in a document both in characters and in figures, if there is inconsistency between them and the real intent cannot be ascertained, the expression in characters shall be governed. (e.g. twenty preferred over 20)
+o Supreme Court Judgement No. 5827 – defendant filled in an amount in the sheet, but the numbers and letters were not consistent. Since real intent cannot be ascertained, the amounts in written letters prevailed
+
+* S 13 CCC: If an amount of money or quantity is expressed in characters or in figures more than once in a document, but there is inconsistency in them and the real intent cannot be ascertained, the lowest amount of money or quantity shall be governed. (e.g. 11M, 10M --> then 10M would apply)
+
+* S 14 CCC: In the case where a document is made in several languages, whether in a single document or several documents, including the Thai language, if the contents in such several languages are different and the parties’ intent as to which language is to prevail cannot be ascertained, the Thai language shall prevail.
+
+Pre-contract negotiations
+Common law position
+Pre-contractual negotiations are part of the surrounding circumstances that are used to design and hence interpret, the apparent (objectively determined) meaning of an agreement, unless the document is intended to be seen by 3P not privy to negotiations.
+
+Under common law, there are various rules prohibiting the admission of evidence of pre-contractual negotiations. Thus, the “factual matrix” is limited and excludes pre-contractual negotiations from evidence, other than in exception circumstances.
+
+Civil law position
+Civil law systems are much more expansive when looking at pre-contractual negotiations – the logic is that most contracts are subject to detailed negotiations in which the parties set out their position and will often explain their reasoning based on the commercial background.
+
+Evidence of such pre-contract discussion may sometimes be useful when seeking to interpret a contract at a later time. However, this is not conclusive and still subject to interpretation under Thai law.
+
+When we look at pre-contractual negotiations, you are no longer interpreting the contract on the basis of what a reasonable objective person would have understood the contract to mean – rather you *move closer to the subjective interpretation of either party during the negotiations to interpret the final common intention and agreement parties arrived at.
+
+This is important to keep in mind as it may influence the way you record your positions during negotiations, knowing it can sometimes defy the interpretation of the contract, including any potential dispute between parties.
+
+Doctrine of good faith (in Thailand)
+* S 6 CCC: It shall be presumed that each person acts in good faith.
+o Supreme Court Judgement No. 9158/2539: P purchased land in 1989 and the title of the land was registered and transferred to P. D argued that he possessed the land for more than 10 years and thus it fell under his ownership under adverse possession. The court viewed that P should benefit from S 6 CCC that the purchase of land was done in good faith – i.e. the payment had been met and the title was registered, so P won.
+
+* S 368 CCC: Contracts shall be interpreted as required by good faith, taking customary practice into consideration.
+o In interpreting a contractual term, the *common intention of the parties have to be ascertained, in accordance with good faith in relation to good commercial practice without clinging to the literal meaning of the contract
+o Good faith has the **power to override express contractual terms and impose an implied duty on a contracting party – the literal meaning of the word is sometimes less relevant to interpretation than the meaning of good faith and good commercial practice
+
+* Principle of good faith is an overriding one under civil law systems – applied not only to interpretation of contracts but also to the performance of obligations under the contracts (or even tort)
+o Supreme Court Judgement No. 478/2544: When true intention of parties cannot be revealed and no specific default rules are applicable, the interpretation of this term shall rest upon the principles of good faith and ordinary customs
+o In the case, the contract provided that P had the right to use the path, which encompassed usual usage of the path. D’s action of narrowing the path down to one meter to obstruct P from driving into the land thus prohibited the usual usage of the path and was thus considered a breach of contract. 
+o The term allowed P to use the path, but the manner of use was not prescribed in the contract. Thus, it is debatable whether P could only use the path on foot or otherwise enter with a vehicle
+o Where no customs are known to exist, the term shall be construed as a person of ordinary prudence acting in good faith would. The Court then analysed that ordinary men in general would use any path with vehicles like cars, so the term “use the path” must encompass the use of such with cars. D’s action of limiting use of the path by foot is thus a breach of contract
+
+Issue of bad faith for torts
+* S 421 CCC: the exercise of a right which will only injure another person shall be unlawful --> i.e. bad faith action
+o Supreme Court Judgement No. 6599/2559: Company T announced it would take coupons valued 80 baht issued by Company B and will double the value of the coupon to 160 baht, provided the customer purchases goods in Company T’s supermarket. The court held that T’s conduct was wrongful against B under s 421, as T’s operation was to scramble for B’s customers
+o Thus, the doctrine of good faith not only plays a significant part in contract interpretation, but also under tort law
+
+Discharge of contracts under civil law systems
+Remedies for breach of contract: for both civil and common law systems, fundamental requirement for a contractual claim for damages is a breach of contract.
+* However, in civil law jurisdictions, the preferred remedy for breach of contract is NOT monetary compensation, but *specific performance
+o In France, Germany and many legal systems influenced by the French Civil Code, specific performance is only denied if performance is not possible
+
+* By contrast, in common law jurisdictions, monetary compensation is the rule, and specific performance is only available where monetary damages are either inadequate or not available
+
+Breaches of contract are often differentiated according to their nature and severity:
+* In most civil law jurisdictions, a fundamental breach or similar material breach may be required for termination of contract, but not for a claim for damages
+o Claim for termination (including a claim for damages in lieu of performance, which is tantamount to termination) --> fundamental or material breach required
+o Claim for damages --> any breach sufficient
+
+E.g. in Germany, a non-material (i.e. minor) breach of contract does NOT entitle the innocent party to claim damages in lieu of performance, and only a material breach does.
+
+* In common law, compensatory damages are available for ANY breach of contract regardless of the cause or degree of materiality of the breach
+
+Approaches to determine compensatory damages necessary to achieve full reparation differs significantly across jurisdictions:
+* Punitive damages do NOT exist in most civil law countries like Germany, France, Switzerland, Poland, Italy, Japan, Korea and Taiwan. 
+o Punitive damages also are UNAVAILABLE for a breach of contract in common law jurisdictions like England
+
+* Damages for actual loss suffered and loss of expected profits, this distinction is regularly stipulated by law:
+o E.g. s 252 German Civil Code stipulates that damage to be compensated includes lost profits
+o E.g. Article 1231-1232 French Civil Code stipulates that damages generally include the damages actually incurred as well as lost profits
+
+* This distinction is similar in common law, where compensatory damages may be available for:
+(1) direct harm/damages resulting from a wrong (e.g. value of goods not delivered in breach of contract) 
+* Often called general damages and are intended to compensate for the immediate consequences of a breach
+
+(2) consequential harm/damages flowing from the same wrong (e.g. lost profits)
+* Often called special damages, and compensate for losses that may not be a direct consequence of the breach, but instead flow indirectly from the breaching conduct
+* Such indirect losses are only recoverable if it can be reasonably assumed that both parties contemplated them as a probable consequence of the breach of contract at the time when parties concluded the contract
+* What qualifies as direct damages in one contract may be classified as indirect or consequential damages in another – this depends on the contract and facts of the case
+
+Amount of damages that can be allocated: whether the injured party is entitled to full compensation might also depend on its own conduct – whether it is responsible for the cause of a damage, failed to mitigate the damage, or even gained any benefits from the other party’s illegal conduct
+* Contributory negligence – conduct of injured party BEFORE OR AT the time when the damage occurred. This concept also exists in common law
+o Some decisions have considered the creditor’s fault as having contributed to the worsening of harm, thereby limiting their compensation
+o Calculation of damages becomes complex when the breaching party’s actions/omissions have not only resulted in damage to non-breaching party, but also indirectly led to the benefit of the non-breaching party
+
+* Mitigation of damages – conduct of injured party AFTER it has become aware of the damage, the injured party must take reasonable steps to reduce the damages
+o French courts reject a general duty to mitigate damages in tort law
+o But French courts have assumed that such a duty to mitigate exists in contract law in exceptional cases
+o If the non-breaching party avoids the potential loss resulting from breach, there is NO RECOVERY as it is only entitled to damages for the actual loss, which is assessed by taking into account all the items within the notional profit and loss calculation for the whole transaction
+o The injured party however may claim reimbursement of the cost incurred to mitigate the damage, even if its efforts to mitigate turned out to be unsuccessful
+
+Residual requirement to notify breach before obtaining damages: In civil law jurisdictions, it is a common requirement for the buyer to notify the seller of a breach of contract, or to request performance to give the seller a last chance to avoid a dispute by fulfilling its contractual obligations
+* In France, no claim for damages can be made until the other party is put in default by a formal protest, even if there was a fixed deadline for fulfilment
+
+Case study on types of damages
+Respondents (buyer) terminated the SPA on 3 June 2015. The termination was contested by the Claimants (seller). The claimants (seller) later sold their shares to a 3P on 1 Feb 2018, nearly 3 years after the original Closing for a significantly lower purchase price. They claimed the delta from the respondents as damages for wrongful termination i.e. to seek to put itself in a position as if the contract and Closing had been performed on 1 June 2015.
+
+However, the sellers quantified their losses as the difference between the price it would have received under the SPA (but-for scenario) and the price it received under the new transaction 3 years later (actual scenario). However, this is not permitted under Turkish law (neither positive damages, nor negative damages).
+
+Positive damages (something like expectation interest) (Article 126 Turkish Code of Obligations) --> where the termination was caused by default, breaching party is liable for positive damages which is the difference between the purchase price under the contract and the fair market value as of the date of the termination. (e.g. contract is for 1M, but fair market value is at 800M, so the positive damages would be 200M)
+
+Negative damages (something like reliance interest) (Article 125/3 Turkish Code of Obligations) --> comparing the current value of the assets, to the assets if the contract had not been entered into at all (e.g. reason you entered into the contract was misrepresentation, and the value of your assets decreased after entering into the contract)
+
+*Importance of election of remedies/damages  --> once there is breach, innocent party to notify breaching party of its election of remedies
+Civil law systems may also have strict rules on the election of damages – need to refer if there are any specific provisions for specific breaches (e.g. Article 125 TCO – addresses damages in the context of wrongful termination of contract) which may override any general provisions for compensation or damages (e.g. Article 112 TCO). 
+
+To be entitled to remedies of positive/negative damages instead of specific performance or any other types, many civil codes *require the claimants to confirm that they have renounced performance of the contract and that they have elected to claim positive or negative damages.
+* On the claimants’ case that the respondent buyer’s termination notice was invalid, Turkish law required the claimants to immediately elect and notify the respondents that they were electing to rescind the SPA, after the respondents issued its termination notice. They did not do so and instead chose to stay silent for nearly 3 years, so the SPA would have remained afoot
+* If a party fails to make an election of its remedy under Article 125 TCO, it was deemed to have insisted on performance of the contract, with the result that the party can only claim damages for delay in performance (rather than positive or negative damages)
+
+Contact session: it is possible to claim for specific performance of a breached contract, AND if there is still a shortfall, to claim for damages (e.g. interests)
+
+
+C. Delict Non-Contractual Claims (Civil Law Tort)
+Where a party has defaulted on a contractual obligation, the innocent party has an action in contract for such a default. However, since obligations goes beyond contractual obligations, the Civil Code book on obligations also recognise another cause of action known as unlawful acts – which give rise to an actionable, non-contractual claim. In a civil jurisdiction, this is known as a civil wrong or a tort
+
+Under Indonesian Law
+Basis of tort can be found under Article 1365 Indonesian Civil Code:
+“Every unlawful act that causes damage onto another person obliges the wrongdoer to compensate such damage.”
+
+4 requirements:
+1. An unlawful act - an act committed by a legal subject which violates written laws or generally accepted rules of law or custom
+o Tort is not limited to natural persons, thus a corporation or other legal entities can also commit wrongful and unlawful acts
+2. There must be a fault – done intentionally (by purpose) or unintentionally (by negligence)
+3. There must be harm – act must have caused injury or damages to another party, either material or immaterial
+4. Causality between the act and the harm/injury
+o Adequate causation theory – an act is a cause of harm if such a result, i.e. the harm, could have been expected or foreseen to arise from such an act. Thus, foreseeability of an effect (i.e. the harm/loss) is relevant in determining if there was a causal relationship between the loss and the act
+o Thus, it is sufficient for a claim of damages under Article 1365 that a person knew or could have foreseen that his conduct would cause harm. It is not necessary that he knew or could have foreseen what FORM the harm would take
+
+Different forms of compensation under Article 1365 – not just monetary compensation but specific performance in the form of repair or replacement
+
+4 different forms of compensation:
+1. Compensation in the form of money for the shrinking of assets or diminution in value of the assets as a result of the unlawful act
+2. Compensation for repairs to put an asset that has been harmed in the same condition as before
+3. Refund of costs for restoration it its original state
+4. Financial losses for the suffering and distress of a person, or if a good name is tarnished due to unlawful actions
+
+Under Thai Law
+Non-contractual claims fall under the category of tort law under s 420 Civil and Commercial Code (CCC): --> but fundamental principles are the same compared to Indonesian law
+“A person who, wilfully or negligently, unlawfully injures the life, body, health, liberty, property or any right of another person, is said to commit a wrongful act and is bound to make compensation therefore.”
+
+An exercise of a right may still be wrongful EVEN IF IT WAS LEGAL (s 421 CCC: an exercise of a right which can ONLY have the purpose of causing injury to another person is wrongful) --> this is an important threshold from an evidentiary point of view
+* To determine if a wrongful act under s 421 CCC has occurred: one would have to prove that a defendant’s right to exercise a contractual right had NO other purpose – need to prove that it was exercised for a legitimate purpose. If that right was exercised to also achieve the harmful purpose of causing injury, then there is a wrongful act
+* E.g. P filed claim against D for a wrongful act – D entered into 3 investment agreements with P. Later, the SEC investigated the director of the P for bribery and false accounting. D took the opportunity to declare an event of default on debts that were still owing and filed an insolvency claim against P for the amounts that would have been payable in a certain few days under the investment agreements. D did so with the intention of a hostile takeover at the time when SEC investigations were ongoing. Court had to assess whether in filing the bankruptcy petition, D had acted in good faith and whether he exercised a right which could only have the purpose of causing injury to another person pursuant to s 421 CCC. Court considered whether the bankruptcy petition had been legitimately filed – there was a clear indication that the filing had been intended to cause harm, rather than to pursue any legitimate interest
+
+Nature of compensatory damages in Thai law – for actual costs or losses
+* Thai law does not restrict a claimant from pursuing compensation for any type of damage suffered in a civil context (so includes any injury to health, loss of earnings, loss of enjoyment), subject to the usual rule that C must be able to claim and quantify the damage
+* Where losses are not immediately quantifiable (e.g. personal injury and loss of earnings), the assessed amount is typically quite low in Thailand by international standards
+* CCC only provides broad statements of the bases on which damages are assessed: 
+o s 438 CCC provides that the court shall determine the manner and the extent of the compensation according to the circumstances and gravity of the wrongful act
+o Limited guidance as to how claims for personal injury and death may be quantified (see s 444-446 CCC) 
+
+Limitation periods in Thai law
+* General rule under s 193(30) CCC is that a claim or action may be brought within 10 years unless another period is specified for law (cf 6 year limitation period in common law systems)
+
+* Specific limitation periods for tort claims under s 420-437 CCC (s 448 CCC): claims are barred after 1 year from the date when the wrongful act and the identity of the defendant become known to the claimant (this is very fact specific). In any case, the claim cannot be brought more than 10 years from the date of commission of the wrongful act in line with the general rule [MAXIMUM HARDSTOP LIMIT OF 10 YEARS]
+o Thai law does NOT recognise constructive knowledge in calculating limitation periods, so even if Company A’s related entities may have knowledge of unlawful acts, they may not be taken as knowledge of Company A itself, if Company A is the claimant
+o However, if damages are claimed based on an act of punishment under Criminal law for which a longer prescription period is provided, such a longer prescription period will apply
+
+* Whether a wrongful act is continuing: court precedence confirm that the last wrongful act / last day of a continuing wrongful act would be the operative date for calculating the limitation period (e.g. pollution poured into the sea which started in 2008) 
+
+
+D. Civil Litigation – Selected Principles
+Basis of court’s jurisdiction
+Under Indonesian law
+2 kinds of jurisdiction:
+(1) Absolute jurisdiction or subject matter jurisdiction: court’s authority to decide on a case based on the subject matter – nature of legal issue or type of relief sought (e.g. Criminal court deciding on criminal cases, family court deciding on family cases)
+
+(2) Relative jurisdiction: court’s authority to decide a case is dependent on geographical location of parties or place where contract was signed or where a tort was committed and proximity / registration
+
+A court must have both absolute jurisdiction AND relative jurisdiction to hear and decide on a case!
+
+If there is an arbitration clause in the contract, then argue against the court’s absolute jurisdiction. 
+
+Exclusive jurisdiction clause - Only a specific court can hear the case, and the parties cannot bring it to any other court. For example, bankruptcy cases can only be heard in federal bankruptcy courts
+
+Non-exclusive jurisdiction clause - The parties agree that a dispute can be heard in a specific court, but other courts may also have jurisdiction. This gives the parties more flexibility, but it can also lead to disagreements about which court is appropriate
+
+Article 118(1) Herzien Inlandsch Reglement (HIR) – primary code of civil procedure in Indonesia and provides rule for initiation of lawsuits and presentation of evidence
+* For a civil lawsuit filed by a plaintiff to meet relative competence, the lawsuit must be filed and submitted to the District Court where the defendant resides
+* But if defendant's residence is not known, HIR stipulates that civil proceedings may be brought in the Central Jakarta District Court
+
+Defendant, once a civil suit is brought, can object to the jurisdiction of the court if he can prove that the court with relative competence does not have subject matter jurisdiction to hear the claim brought. 
+* For e.g. Article 134 HIR provides that if the dispute is a matter that does not fall within the jurisdiction of the district court, then at any time during the examination of the case, it may be requested that the judge declare himself incompetent and the comptroller shall also recognise it by virtue of his office
+* Article 136 HIR: the exceptions that the defendant may wish to raise (except in cases where the judge is not authorised) shall not be raised and considered individually but shall be discussed and decided together with the merits of the case
+
+Case study 1: 
+* Company A is incorporated and registered with District Court 1
+* There is a litigation proceeding brought against Company A in relation to land ownership disputes in District Court 1
+* Company A can submit that District Court 1 has no jurisdiction to hear the case because the dispute concerns land ownership, which is a state administrative dispute – which falls within the jurisdiction of the state administrative court and not any other district court
+
+Case study 2:
+* 500 miners are employed by Company B, but they sue Company C (the shareholder of Company B and a company incorporated in Singapore)
+* The suit is brought for unpaid wages and breaches of employment contract before Indonesia’s Industrial Relations Court in Indonesia where the mine is located
+* Company C can argue that IRC is not authorised because Company C and the 500 miners are not bound by an employment relationship. 
+* In this case, the IRC is not authorised on both grounds of:
+o relative competence (company C is registered in Singapore so without any employment relationship or any relationship with the miners, it falls outside scope of territorial jurisdiction of a court in Indonesia) AND 
+o absolute competence (there is no employment relationship between company C and the miners) 
+
+Case study 3:
+* Indonesian Arbitration Law limits the authority of district courts to registration, setting aside and enforcement of international arbitral awards
+* However, the Central Jakarta District Court cannot annul an international arbitration award decided by a tribunal seated in Singapore --> absence of absolute competence
+
+Under Thai law
+S 4 Civil Procedure Code – in civil cases, the plaintiff generally files a case with the Civil Court within the jurisdiction of which the cause of action arises or the defendant has a domicile
+
+Absolute competence:
+* Thailand has 4 specialised courts that have jurisdiction over specific types of cases:
+1. Central Labour Court
+2. Central Intellectual Property and International Trade Court
+3. Central Tax Court
+4. Central Bankruptcy Court
+
+* These courts were established so that specific issues would be heard by career judges with the appropriate background and expertise
+o All courts of first instance, with most appeals going up to the Supreme Court
+o All specialised courts have jurisdiction throughout the whole of Thailand, but most are located in the Central Court in Bangkok, apart from the Labour Court which has 8 regional branches
+
+Ex Aequo et Bono as a remedy (in Indonesia)
+A party may ask to seek relief on the principle of ex aequo et bono (i.e. justice and fairness, rather than strict legal positions). 
+* However, this remedy does not work in isolation and is not triggered automatically --> plaintiff must make an application in writing for the court to decide on ex aequo et bono principles if the judge has a different view on the matter than what the contract would originally dictate
+* The ex aequo et bono remedy must be pleaded as a secondary remedy, to the preliminary and primary remedies available at law
+* Ex aequo et bono cannot be used to set aside the entire contract – it just influences the remedies to be granted under the breach of contract
+* Parties can exclude ex aequo et bono principles in their contract
+
+In Thailand, ex aequo et bono is not codified in statute, but the court may still look at what is right and good and have a level of discretion for remedies.
+
+
+
+An arbitral tribunal does not have authority to decide on ex aequo et bono unless expressly agreed by parties.
+
+
+Discovery and document production
+Common law jurisdictions enable parties in a dispute to have access to factual elements in possession of the other party or 3P, through discovery or disclosure proceedings.
+* Disclosure facilitates getting to the truth as a means of achieving justice – mutual knowledge of all the facts gathered by the parties is essential for proper litigation
+* Reduce the possibility of surprise or trial by ambush – all cards should be face up on the table
+
+However, under civil law, plaintiffs are expected to gather all necessary evidence for their claim before filing a lawsuit. Although certain disclosure mechanisms are available, these tend to be very limited. Cases are therefore typically decided on the evidence that has mostly been voluntarily submitted by each party.
+* Underlying principle is that truth cannot be sought via limitless means, each party bears their own case and the burden of proving their own case. Judges should only examine matters that are submitted by the parties 
+* Parties do not have the obligation to share or disclose evidence or documents prior to proceedings, with no exchange of witness statements to be exchanged in advance. After pleadings there is an evidentiary hearing where parties are required to submit any evidence on which they have relied on in their arguments.
+
+* E.g. Indonesia does not have an elaborate disclosure or discovery process: a party is responsible for providing evidence to support its case. Although the court may also but rarely investigate and collect evidence
+o No discovery or disclosure process compelling parties to disclose documents on which they do not wish to rely
+o Indonesian civil courts do NOT play an active role in disclosure/discovery and their examination is confined to the evidence and documents presented before them
+
+* No pre-trial discovery process in Thailand – during trial a motion can be used to request for documents from the other party or 3P, but documents requested must be very specific and directly named and relevant to the case (if satisfied, court will grant a subpoena for the documents), cf common law where a broad range of documents may be requested for during discovery process. While a system is available to request documents, it is not as broad and systematic as under common law
+o Also no duty on a party to preserve evidence in anticipation of litigation (unless required under any written law), each party is required to disclose documents or witnesses that might be introduced during trial by submitting a list to the court. This must be done 7 days before the first date of hearing, which is a fairly short notice for the other side
+o Limited initial disclosure of evidence – parties are not required to produce lengthy initial disclosures or mandatory disclosures of witnesses and documents – same 7 day period applies (before hearing in which evidence will be taken)
+o No fishing expeditions for documentary evidence is allowed and no need to make large document productions in response to the same
+
+Legal professional privilege
+* Limited protection of “privilege”: some protection afforded by the duty imposed on lawyers to keep confidential the following information obtained in the course of their legal professional activities:
+o State secrets
+o Trade secrets
+o Private information of the client
+o There is no limitation in time for this – confidentiality obligation continues even after the advocate-client relationship has ended
+
+* Concept of privilege is arguably more limited in civil law systems than common law systems: 
+o In-house lawyers are generally NOT bound by the confidentiality obligation, since they are regarded as employees to their employers (rather than as advocates in Thailand and Indonesia). Thus, their advice to employers is not subject to attorney-client privilege
+o No recognised concept of legal privilege in Indonesia – only special rights of confidentiality in respect of communications involving lawyers and their clients
+o There are also exceptions to attorney-client privilege for lawyers in Indonesia and Thailand, where advocates may be required to disclose certain information in compliance with laws and regulations, like cases involving money laundering or terrorism financing
+
+Things to note:
+1. Basic difference in privilege between common law and civil law systems
+2. Clients do NOT have privilege protection under civil law (e.g. if they copy you in an email or discuss a matter with you), cannot resist production of documents ordered by regulators on the basis of privilege – only the lawyers are under a duty and are allowed to refuse to disclose such information
+3. To get privilege as a lawyer in a civil law system, you normally must be registered and have a practicing certificate 
+
+
+

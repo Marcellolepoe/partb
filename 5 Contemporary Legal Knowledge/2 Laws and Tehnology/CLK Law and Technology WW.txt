@@ -1,0 +1,956 @@
+Contents
+Technology regulation	3
+The idea of technology regulation	3
+The four modalities of regulation – Lessig	3
+How to think about law, regulation and technology – Lyria Bennett Moses	4
+Yeong Zee Kin on tech regulation	4
+How regulations develop	4
+case study 1: Automobiles	5
+Criminalizing walking; subsidizing driving	6
+Regulating the early internet	6
+Background on the Internet	6
+Cyberspace – essential features and challenges for regulation – Lessig	8
+Electronic transactions	9
+Digital platforms	11
+What are digital platforms?	11
+Are platform workers employees?	11
+Report of the Advisory Committee on Platform Workers	12
+UKSC Uber decision	13
+Platform liability (for defamatory content)	13
+Singapore position	14
+Case – Fairfax Media Publications v Voller	14
+Case – Lee Hsien Loong v Leong Sze Hang	15
+Blockchain	15
+Intro to blockchain tech	15
+Legal characterization of cryptoassets	17
+Artificial intelligence	17
+What is AI	17
+How machine learning works	18
+Neural networks	19
+Large language models	19
+Legal implications	19
+Why do we consistently get AI wrong?	20
+Legal dispositionism and artificially intelligent attributions	20
+How to think about AI systems in law	21
+
+
+Things to study: 
+- Focus on stuff that is:
+o Asterisked in lecture notes 
+o Verbally explained in videos 
+o Marked in blue on the slides 
+- Other basic expectations – read lecture notes and a substantial part of the readings 
+- Learning outcomes 
+- 
+- 
+
+Contemporary Legal Knowledge and Practice: Law and Technology
+Introducing Law and Technology
+
+Principle I: Sound rules and understanding of legal principles is necessary in L&T
+Principle II: Since we don’t know tech, we should stick with law – “If you don’t know what is best, let people make their own arrangements”
+
+- Judge Easterbrook’s analogy that Law and Technology is like the Law of the Horse.
+o No need for specialised laws to govern cyberspace; instead, legal principles developed in traditional areas of law such as contract, property, torts and IP can be adapted to effectively handle legal issues arising in the online realm.
+o Trying to regulate cyperspace with unique rules would lead to a fragmented and ineffective legal system
+o “the Law of the Horse” was used to emphasise that just as the law does not have a separate set of rules for every possible kind of activity involving horses, it shouldn’t create new laws specifically for every aspect of cyberspace, instead proposing that courts and legal experts should approach cyberspace issues by drawing analogies to established legal concepts from other domains
+o The goal should be to identify the underlying legal principles that can be adapted to the digital world, much like how the principles of contract law, for instance, can apply to various types of contracts without requiring distinct sets of rules for each type.
+o Class discussion:
+* Easterbrook’s proposed solution – let people make their own arrangements. But yet he suggests that a law of technology is not something that can be easily grasped. Is there a contradiction there? 
+* The idea is that most behavior in cyberspace is easy to classify under existing law principles, even without a deep understanding of how the tech works. 
+
+- Lawrence Lessig’s response on what cyberlaw might teach
+o Lessig argues that cyberspace is a unique and transformative domain that presents new challenges that may not be effectively addressed by traditional legal analogies. He contends that certain technological aspects of cyberspace are distinct enough to require specialized legal treatment to ensure fair and effective regulation.
+o He suggests that just as the concept of "The Law of the Horse" would be inadequate in dealing with the diverse legal issues surrounding horses, a singular approach to law in cyberspace might also fall short. He contends that a one-size-fits-all approach is not suitable for the complex and rapidly evolving landscape of the internet.
+o Lessig proposes that some areas of law, such as copyright, privacy, and free speech, require tailored legal frameworks specific to cyberspace due to the novel challenges posed by digital technology. He suggests that the legal system needs to evolve to accommodate these unique challenges while still upholding fundamental principles.
+o Lessig's paper has been influential in discussions about the need for specialized cyberlaws and the adaptation of legal systems to the digital age. It reflects the ongoing debate in legal circles about whether general legal principles can adequately address the complexities of emerging technologies or whether specialized laws are necessary to ensure effective governance and protection.
+
+- Quione Ltd v B2C2 Ltd [2020] SGCA(I) 2* (focusing on the contract law issues only)  
+o Court distinguished between deterministic and non-deterministic computer programs, and this distinction led to the proposition that the relevant state of mind to assess was that of the programmer’s
+o Quione operated a cryptocurrency platform and functioned as a market-maker by placing buy and sell orders to create liquidity. B2C2 was a trader at the platform. Quoine’s oversight in making certain necessary changes to the Platform’s critical operating systems led to the Quoter Program’s failure to generate new orders. This led to the deep price in the Trading Software taking effect. B2C2’s sell orders were eventually matched with the buy orders of two other traders (“the Counterparties”). Eventually, 13 trades (“the Disputed Trades”) were concluded between B2C2 and the Counterparties at a rate of either 9.99999 BTC or 10 BTC for 1 ETH. These rates were approximately 250 times the then going rate in the market of around 0.04 BTC for 1 ETH. At first instance, B2C2’s claims were allowed. Quione appealed.
+o Majority dismissed the appeal with respect to the breach of contract, but allowed the appeal with respect to the breach of trust.
+* The contracts underlying the Disputed Trades (“the Trading Contracts”) were formed directly between B2C2 and the Counterparties. This characterisation best accorded with the terms of the agreement governing the use of the Platform (“the Agreement”), which made clear that Quoine was merely providing a service to the Platform’s users, who would transact with one another in the exchange of cryptocurrencies on the Platform.
+* There were no express or implied terms in the Agreement that allowed Quoine to cancel the Disputed Trades. Although Quoine had sought to rely on a clause that purportedly allowed it to cancel transactions that had taken place at an aberrant value, sufficient notice of the incorporation of this clause had to be given to users of the Platform before the clause could be regarded as having   been incorporated, and this had not been done.
+* The existing law on the doctrine of unilateral mistake could be meaningfully adapted through incremental adjustments to suit the context of algorithmic trading, the question of how unilateral mistake should apply to contracts made by computerised trading systems should be answered by first considering the more fundamental issue of how such contracts were formed. Because a deterministic algorithm was bound by the parameters set by the programmer, it was the programmer’s state of knowledge that was relevant and to be attributed to the parties. --> CF THE STATE OF MIND / KNOWLEDGE OF THE OTHER PARTY FOR UNILATERAL MISTAKE IN CONTRACT LAW BETWEEN 2 PARTIES. The relevant inquiry was whether, when programming the algorithm, the programmer was doing so with actual or constructive knowledge of the fact that the relevant offer would only ever be accepted by a party operating under a mistake and whether the programmer was acting to take advantage of such a mistake. The relevant time frame within which the knowledge of a programmer or the person running the algorithm should be assessed was from the point of programming up to the point that the relevant contract was formed
+* ULTIMATELY, NO MISTAKE IN LAW OR EQUITY BECAUSE THE CONTRACTS WERE BETWEEN P&T AND B, AND THE ALGORITHMS USED “OPERATED AS THEY WERE MEANT TO”, SO NO MISTAKE TO BEGIN WITH. THE MAIN MISTAKE, IF ANY, WAS THE MISTAKEN ASSUMPTION THAT CODE WOULD NOT FAIL, AND THIS WAS NOT A MISTAKE AS TO TERMS OF THE CONTRACT
+o Minority:
+* The law of unilateral mistake should not be applied in a manner that left out of consideration elements which were normally central to its application, namely, whether there was anything drastically unusual about the surrounding circumstances or the state of the market to explain on a rational basis why such abnormal prices could occur, or whether the only possible conclusion was that some fundamental error had taken place, giving rise to transactions that the other party could never rationally have contemplated or intended. The law had to be adapted to the new world of algorithmic programmes and artificial intelligence, in a way which gave rise to the results that reason and justice would lead one to expect. Relief should be available if it would at once have been perceived by an honest and reasonable trader that some fundamental error had occurred.
+- Vincent Ooi on Software Contracts and Mistake (skim)  
+o This article considers three leading solutions to the Contracting Problem (when software is used to autonomously enter into contracts without human input). The ‘Mere Tools Theory’, which views software as ‘mere tools’ of communication, is too harsh as it binds users to any software malfunction. The Agency Approach, which treats software as Electronic Agents, capable of contracting on behalf of their users, is untenable as it ascribes unrealistic characteristics to software. The article submits that the optimal solution is to extend the objective theory of contract. Where software produces an unintended consequence, this should be seen as a mistake. An optimal way of risk allocation is for parties to be bound by the representations of their software, unless the other party has knowledge of the mistake.
+- Gary Chan on online defamation (skim this, we will revisit online defamation later)
+
+
+What cyberlaw might teach 
+- The idea of newness 
+o One side says that there’s nothing new here, and another side says that there is something new that is so disruptive that it calls into question whether old regulations apply 
+o This debate is often led by people who don’t want to be regulated – hence the argument that old regulations don’t apply 
+
+Technology regulation 
+THE IDEA OF TECHNOLOGY REGULATION 
+The four modalities of regulation – Lessig 
+Code is a new regulator in cyberspace that could be a significant threat to a wide range of liberties if we don’t control it 
+- Code selected by code writers constrain some behaviour by making other behaviour possible, or impossible. In this sense, they too are regulations, just as the architectures of real space code are regulations
+- As a regulator, cyberspace creates a new threat to liberty, not new in the sense that no theorist had conceived of it before, but in the sense of newly urgent
+- Lessig uses “regulation” in the broad sense of general constraints on behaviour – including liability
+
+The four modalities of conduct regulation (the Pathetic Dot) – different methods of regulators which bind societal behaviour – market, law, norms, architecture. 
+- Market – how expensive something is to do (supply, demand, price)
+- Law – legal regulation (formal regulations, liability rules, other legal types like property rules, inalienability rules, etc)
+- Norms – social norms that guide conduct (culture, custom, “soft” law)
+- Architecture / code – the technology of the thing that you want to do (e.g. different kinds of cigarettes may be more or less acceptable to smoke in various situations) (physical space, code)
+o Architecture matters and always does – affects and is affected by law
+o Technology is a type of architecture that is special because it is newly urgent – more recently also “choice” architecture (Sunstein and Thaler)
+o Law can act directly on the target (person), or indirectly by changing other modalities (e.g. technology, architecture)
+
+The four constraints regulate our conduct. Changes in one will affect the regulation of the whole, and some constraints may affect others. 
+- The constraints each create a cost to the agent of performing a certain action 
+- The four modalities also apply to cyberspace 
+
+Law-talk typically ignores these other regulators and how law can affect their regulation. Many speak as if law must simply take the other three constraints as given and fashion itself to them 
+- But this is not true – 
+o law can change the market (e.g. regulations and taxes), 
+o can guide or constrain the development of technology (e.g. accessibility laws for disabled people, or the use of speed bumps instead of speed limits), or 
+o social norms (e.g. through education)
+- Law thus affects all the other modalities of regulating behavior. 
+o But this effect can sometimes be quite opaque, e.g. preserving segregation in the US through segregated design of towns, running highways between zones etc. – this allows governments to regulate conduct indirectly without suffering the political consequences that are likely when such ends are pursued directly 
+- Lessig warns us about regimes that enable invisible regulation through regulating code writing 
+
+Focus on technology as the regulatory target – one way of technology regulation is as a means of reducing harm from tech 
+
+Code is law? 
+- A misunderstanding of Lessig’s work – what he meant is that code is LIKE law in the sense that it constrains human behavior 
+- Code regulates behaviour in much the same way that law does, despite differences in the channels through which code shapes behaviour as well as the people who control it (cf government vs coders)
+
+Cyberspace demands a new understanding of how regulation works. It compels us to look beyond the traditional lawyer’s scope—beyond laws, or even norms. It requires a broader account of “regulation,” and most importantly, the recognition of a newly salient regulator. 
+
+That regulator is the obscurity in this book’s title—Code. In real space, we recognize how laws regulate—through constitutions, statutes, and other legal codes. In cyberspace we must understand how a different “code” regulates— how the software and hardware (i.e., the “code” of cyberspace) that make cyberspace what it is also regulate cyberspace as it is. As William Mitchell puts it, this code is cyberspace’s “law”. “Lex Informatica,” as Joel Reidenberg first put it, or better, “code is law.”
+
+As we slowly come to see how different structures within cyberspace affect us—how its architecture, in a sense I will define below, “regulates” us—we slowly come to ask how these structures should be defined:
+* The first generation of these architectures was built by a noncommercial sector—researchers and hackers, focused upon building a network. 
+* The second generation has been built by commerce. 
+* And the third, not yet off the drawing board, could well be the product of government. 
+* Which regulator do we prefer? Which regulators should be controlled? How does society exercise that control over entities that aim to control it?
+
+What “checks and balances” are possible in this space? How do we separate powers? How do we ensure that one regulator, or one government, doesn’t become too powerful? How do we guarantee it is powerful enough?
+
+How to think about law, regulation and technology – Lyria Bennett Moses 
+What is “technology regulation”?
+- In literature, generally is broader than the study of how technical standards are created, interpreted and applied, and there are many definitions in literature. Some focus on how regulators ought to deal with new technological fields, and others include all technological fields, not just the new ones 
+- Technology as the regulatory TARGET – technology regulation as a means of protecting values and reducing harm from the use and supply of tech
+
+Many meanings of regulation:
+- General intentional influence on behaviour (Koops)
+- Influence on behaviour following standards/goals with intended outcomes (Brownsword et al)
+- Focus on behavioural influence more than positive rules
+
+The pacing problem, and the Collingridge dilemma 
+- Pacing problem – an attempt to understand the struggle to keep up with technology 
+- Collingridge dilemma – two hurdles when regulating technology 
+o At an early stage in a technology’s development, regulation is problematic due to lack of information about the technology’s likely impact 
+o At a late stage, regulation is problematic because the tech is entrenched, making any changes demanded by regulators expensive to implement 
+o Regulators are thus forced to make decisions early, in the absence of reliable risk information or foreknowledge of technological developments 
+
+There is a choice between two lenses through which the problems of law, regulation and technology might be examined: 
+1) Technology regulation 
+2) Focusing on how to protect values and minimize harm of technology in an evolving socio-technical landscape
+The second is preferred, because technology affects law and regulation in many ways other than the need to regulate the technology itself – thus the target of regulation isn’t the technology itself, but society and socio-technical change. *Technology is something more than just hardware and software (i.e. the artifacts and processes), but we also need to regulate people (researchers, users, etc.) and the companies / entities behind the technologies, and how the technology is used, applied and supplied
+
+Why does this matter? 
+- Need to ensure the right conversations are taking place 
+- Lawyers tend to rush to new and exciting things, but disappear when problems become more mundane but no less important 
+
+Yeong Zee Kin on tech regulation 
+The regulation of technology is best understood by first recognising that this label is a misnomer. The *law does not regulate technology in and of itself, but how technology is applied and supplied. (p 67) --> implied definition of technology is one that is focused on the computer or artifacts themselves
+- How does this compare with Moses’ conception of TechReg
+- Differences stem from what is understood as “technology” 
+- Do we include the business and social systems around the hardware?
+
+“Technology regulation” refers to the body of laws and regulations that apply to how technology is applied and supplied. (p 68)
+- These serve certain policy goals – law as a means serving a goal
+- Choice between legislation and regulation shaped by several considerations  - regulation (ex ante) versus liability (ex post) (Shavell, 1984)
+o Usually regulation is used when we desire more ex ante standards
+o Different strengths and weaknesses of both approaches
+- Laws seen as more overarching, with ex post enforcement mechanisms --> liability AFTER event has happened (standards set by courts after event happens)
+- Regulations as applying to specific roles, with ex ante standards and requirements (e.g. DPO to protect data in an organisation) --> regulates BEFORE an event occurs (standards set by regulators before accident)
+- Regulation falls on a spectrum (Moran, 2002)
+o Formal regulation: legislation, subsidiary legislation, etc.
+o Quasi-regulation: standards that fall short of law, but have some kind of state backing, often through endorsement or enforcement
+o E.g. “soft law” like Codes of Practice
+o Self-regulation: standards written and enforced by industry bodies (cf governments)
+
+- This is an important framework, though the inclusion of both law and regulation in the definition of “regulation” has potential to confuse.
+- Consider, in this framework:
+o What things regulate? 
+o What things are regulated? 
+o How and why?
+
+Examples of “technology laws” – e.g. Computer Misuse Act, POFMA 
+- These apply to specific areas of technology like electronic transactions which we will discuss in future sections 
+
+How regulations develop 
+The Collingridge Dilemma – two hurdles when regulating technology, there is never a right answer (what are you willing to trade off?)
+- At an early stage in a technology’s development, regulation is problematic due to lack of information about the technology’s likely impact 
+- At a late stage, regulation is problematic because the tech is entrenched, making any changes demanded by regulators expensive to implement 
+- Regulators are thus forced to make decisions and influence technological design early (to avoid or minimize risks of health, environmental and social harm, etc.) when the situation is more malleable, in the absence of reliable risk information or foreknowledge of technological developments (especially since industry may not like to talk to them, since they’re trying to regulate industry) 
+o Thus, regulators face an “uncertainty paradox”
+o The extent to which these twin obstacles prove to be a dilemma depends on the rapidity and unpredictability of technological change, as well as the diffusion pattern associated with the technology in question
+o Risk of over- or under-regulation 
+
+The legal tortoise and the tech hare? 
+- Time and socio-change as the key antagonists to law 
+- Is it always true that law crawls while tech leaps? 
+- Important concept that underpins many practical debates – there are two camps: 
+o “It’s too early to regulate now as doing so will stifle innovation”
+o “We must regulate now before the risks actualize” 
+
+CASE STUDY 1: AUTOMOBILES 
+The laws and regulations surrounding how automobiles are supplied and applied 
+
+How it’s done now 
+- Framework:
+- 
+- Currently a very complex framework – because it’s the technology that is responsible for killing the most people today 
+
+How it was done back then: 
+- 
+
+The mass adoption of cars in the early 1900s increased the number of accidents, so the law had to respond once the risk was new 
+- What was created was the “law of the metal horse” – there is an entire framework of law and systems surrounding the automobile 
+- Courts: 
+o The word “driver”, previously applied to the driver of the horse carriage, could also apply to cars 
+o Mainly negligence rules, premised on driver’s control of vehicle 
+o Horse carriage rules readily applied, no need for special consideration. Because analogous. 
+
+- But liability proved insufficient given rise in accidents and judgment-proof defendants. Regulation was necessary 
+o Why? Because liability works in theory, but defendants are judgment-proof, being too rich/powerful or too poor to care about the judgment. People can win their lawsuits but never get their money back
+o Legal disconnect between existing laws and new social issues caused by the technology, so regulation was thought to be necessary
+o First mover was UK (ahead of US), which passed the Road Traffic Acts of 1930s, introducing compulsory insurance 
+o Compensation was still premised on proof of negligence 
+o As tech developed, more and more regulation (highway codes etc.) 
+
+How does this reflect what we’ve seen about technology regulation? 
+- What is being regulated? 
+- How and why? 
+- Collingridge dilemma 
+o In hindsight, might look like it’s all figured out. But many people died for it, and many people still die today 
+
+Automated Vehicles
+Paper by Jerrold
+- Today’s motor vehicle accident compensation schemes is the product of painful experience: traffic fatalities and lawsuits over the years
+- Questions on the future of MVA liability should be addressed against its history – standalone body of MVA law emerged from a transitional period where an untested new technology (car) gradually replaced a familiar one (horse)
+- US courts then insisted that rules of law applicable to automobile cases were no different from those which had been developed in the days of the horse and buggy, thus MVA liability was determined by extending negligence rules developed for horses
+- However, negligence alone was unsatisfactory as accident victims commonly overcame costly litigation only to find tortfeasors insolvent and judgement proof. Thus, the compulsory insurance scheme (under Road Traffic Act 1930 in the UK) was designed specifically to ensure that costs fell not upon funds derived largely from the generosity of the charitable, BUT ON THOSE BY WHOM IN EQUITY IT SHOULD BE BORNE by compelling motorists to pay regular premiums
+- This was not meant to disturb tort liability principles, as victims were still to prove negligence before being entitled to compensation
+
+- Driver-centricity, in short, emerged from the search for practical, fair, and efficient means of victim compensation in light of a negligence-based regime inherited from the days of the horse and buggy. The natural person to owe the negligence duty was the driver. With liability centered on the driver, insurance obligations followed
+
+- ‘Driver-centricity’ can thus be unpacked into two layers:
+o First, drivers are central in law as the focal point of tort liability. 
+o Second, drivers are central in practice because compulsory insurance identify them as the first parties victims consider suing, possibly even if the accident was caused by manufacturing defects.
+o The layers interact. Denning MR in Nettleship v Weston suggested that judges had, since the Road Traffic Acts, become more willing to pin negligence liability on drivers, even in the absence of fault, because this better accorded with the policy of compulsory insurance.
+o Likewise, although American law was slow to adopt compulsory insurance, the courts there, ‘though speaking always in terms of fault, have at times stretched the traditional formulas to the breaking point in order to insure recovery to an injured plaintiff’
+
+Criminalizing walking; subsidizing driving 
+Article is tailored to US context, which has a strong auto lobby
+
+Social norms, led by corporate interest campaigns: 
+- Stigma around jaywalking – essentially a kind of victim-blaming 
+- Claim that “Jaywalkers are causing most of the incidents!” 
+- Traffic collisions branded as “accidents” – the narrative that it’s no one’s fault 
+
+Real space architecture evolved 
+- Roads and freeways became the norm
+- Parking spaces took over cities 
+- Pedestrians, once free to walk anywhere, were relegated to the sidewalk 
+
+Laws also changed – jaywalking became illegal and widely-enforced, sometimes against disadvantaged groups 
+
+The lesson here:
+- Lessig’s theory plays out nearly note for note
+- As we move on to more “newly urgent” cases, you should be able to spot parallels to the past 
+o E.g. nuclear energy, genetic engineering, electronic transactions, etc. – and there will be more
+- As we start to think about the currently urgent issues, should develop this intuition to spot parallels in the past 
+
+REGULATING THE EARLY INTERNET 
+Background on the Internet 
+How the internet works 
+- Just a bunch of computers – each computer has an IP address 
+- Protocol stack 
+Protocol LayerCommentsApplication Protocols LayerProtocols specific to applications such as WWW, e-mail, FTP, etc.Transmission Control Protocol LayerTCP directs packets to a specific application on a computer using a port number.Internet Protocol LayerIP directs packets to a specific computer using an IP address.Hardware LayerConverts binary packet data to network signals and back.
+(E.g. ethernet network card, modem for phone lines, etc.)
+- If we were to follow the path that the message "Hello computer 5.6.7.8!" took from our computer to the computer with IP address 5.6.7.8, it would happen something like this: 
+o 
+o Data is broken up into small chunks called packets 
+o Each packet is assigned a port number at TCP layer – the port number tells the recipient (which may have many applications listening for packets) which application to direct the message to 
+o Each packet is given the destination IP address
+o Then the packet is translated into electronic signals by the hardware layer, and sent on its way over the internet 
+o Process happens in reverse for the recipient computer 
+- A more detailed diagram:
+o 
+o ISP maintains a pool of modems for customers, and a port server that controls data flow from the modem pool to the line router
+o Packets go from there to the ISP backbone. They travel through various backbones and routers until they find their destination 
+o There are several internet routers that decide where to send your packets 
+- Internet infrastructure 
+o Internet backbone is made of many large interconnected networks – these are called Network Service Providers (NSPs). They peer with each other to exchange packet traffic 
+* Each NSP connects to Network Access Points (NAPs) – at each of these, traffic may jump from one backbone to another 
+* Also connect at Metropolitan Area Exchanges (MAEs) – same as NAPs but are privately owned 
+* Both NAPs and MAEs are known as Internet Exchanges (IXs) 
+o 
+- The internet routing hierarchy
+o 
+o Packets are not broadcast to every computer on the network. And not every computer on the internet knows where every other computer is
+o The information used to get packets to their destinations are contained in routing tables kept by each router connected to the internet 
+o Routers 
+* Routers are packet switches – each router knows about its sub-networks and which IP addresses they use 
+* Routers usually don’t know what IP addresses are above them 
+o In the above diagram, the NSP backbones are connected by NAP, and the smaller backbones are connected to the other backbones and networks via routers 
+o When packet arrives at a router, the router looks at the packet’s destination IP address and looks for it in the router’s routing table. If found, the packet is sent there.
+o If router doesn’t know where to send the packet, it sends the packet on a default route, usually up the hierarchy to the next router. If still not found, it sends further up until it reaches a NSP backbone. The routers connected to the NSP backbones hold the largest routing tables, and the packet will be routed to the correct backbone and is sent downwards until it arrives at the destination 
+- Doman names and address resolution 
+o Domain Name Service (DNS) is how an IP address can be referred to via URL (e.g. www.google.com) 
+o There is a DNS database spread across multiple DNS servers, that keeps a record of which URL points to which IP address 
+o Home computers normally require a DNS server to be named in the setup process, so that the browser knows where to look for the domain names to get the IP address 
+- Application protocols – HTTP 
+o Hypertext Transfer Protocol (HTTP) – the protocol that web browsers and web servers use to communicate with each other over the Internet. Is an application-level protocol that allows web browsers and servers to talk to each other 
+o When you type a URL into a web browser, this is what happens: 
+* If the URL contains a domain name, the browser first connects to a domain name server and retrieves the corresponding IP address for the web server. 
+* The web browser connects to the web server and sends an HTTP request (via the protocol stack) for the desired web page. 
+* The web server receives the request and checks for the desired page. If the page exists, the web server sends it. If the server cannot find the requested page, it will send an HTTP 404 error message. (404 means 'Page Not Found' as anyone who has surfed the web probably knows.) 
+* The web browser receives the page back and the connection is closed. 
+* The browser then parses through the page and looks for other page elements it needs to complete the web page. These usually include images, applets, etc. 
+* For each element needed, the browser makes additional connections and HTTP requests to the server for each element. 
+* When the browser has finished loading all images, applets, etc. the page will be completely loaded in the browser window. 
+- Application protocols – SMTP and Email 
+o Simple Mail Transfer Protocol 
+o Process: 
+* The mail client (Netscape Mail, Lotus Notes, Microsoft Outlook, etc.) opens a connection to it's default mail server. The mail server's IP address or domain name is typically setup when the mail client is installed. 
+* The mail server will always transmit the first message to identify itself. 
+* The client will send an SMTP HELO command to which the server will respond with a 250 OK message. 
+* Depending on whether the client is checking mail, sending mail, etc. the appropriate SMTP commands will be sent to the server, which will respond accordingly. 
+* This request/response transaction will continue until the client sends an SMTP QUIT command. The server will then say goodbye and the connection will be closed.
+- Transmission Control Protocol (TCP) 
+o TCP is responsible for routing application protocols to the correct application on the destination computer 
+o This is done using port numbers. Each application on a computer listens on a different port. When a packet arrives, the TCP layer decides which application receives the packet based on the port number of the incoming packet 
+o TCP is not a textual protocol – it is a connection-oriented, reliable, byte stream service. 
+* Connection-oriented means that two applications using TCP must first establish a connection before exchanging data. 
+* TCP is reliable because for each packet received, an acknowledgement is sent to the sender to confirm the delivery. 
+* TCP also includes a checksum in it's header for error-checking the received data.
+- Internet Protocol (IP) 
+o Unlike TCP, IP is an unreliable, connectionless protocol. IP doesn't care whether a packet gets to it's destination or not. Nor does IP know about connections and port numbers. IP's job is too send and route packets to other computers. IP packets are independent entities and may arrive out of order or not at all. It is TCP's job to make sure packets arrive and are in the correct order.
+
+Cyberspace – essential features and challenges for regulation – Lessig 
+For more – read Code 2.0 
+
+Example of AOL – when you are on AOL, you are subject to the rules of its world – it knows certain things about who you are, makes it harder for other users to know who you are, and it constrains the size of chat rooms making it more difficult for dissidents to organize against AOL’s views about how things ought to be 
+- These features have important implications for how AOL is regulated
+o E.g. if AOL wants to control a certain behavior, it can impose rules etc. to stop it, or tax the behavior. But it can also change the architecture or code completely to render that behavior impossible. The universe of AOL is defined by its rules, and so by entering this space you are submitting to a tremendous amount of control 
+
+Another example – Counsel Connect 
+- Online lawyers’ cooperative 
+- Use of real names – social pressure and responsibility for what you say online
+- Forcing of all discussions into threads – forces people to read before speaking, lest points be repeated. This mattered because the person’s real name was on the line 
+- Reputation was built within the community
+- Reputation was tied to a real name in a real community of professionals – CC got the benefit of that community and its norms 
+- Thus, CC enabled regulation through modalities other than code – behavior was more regulable by norms than in AOL. 
+
+Another example – LambdaMOO 
+- It was an open space that people had complete freedom to do things in
+- Someone did some horrible stuff to other characters, and then some community members sat down to determine whether the community should turn to vigilantism or institute rules via democracy 
+- The point – the system had failed to self-regulate, and users had to come up with a set of internal norms to govern themselves 
+
+There’s so many bloody examples he’s surely not going to test these 
+
+The main point – 
+- There are architectural features of the Internet that embed certain values. These values can change, and if they do, the values the Internet promotes will be different 
+- Internet’s values – that the network should be kept as simple as possible, and the intelligence required in the network be vested at the edge as far as possible
+o Seen in TCP/IP – just deliver packets without worrying about what they do or who they’re meant for 
+o This enables people to innovate for the network without coordinating with any network owner. Encourages innovation and competition (prevents network owners from denying access strategically) 
+- Architectures matter, and the same application of “real-life code” has also affected behavior 
+o E.g. DRM technology to prevent copyright infringement
+
+*Electronic transactions 
+What Zee Kin identifies as a classic example of technology law 
+
+Electronic Transactions Act 
+- Application – 
+o Important carve outs for wills/trusts/real property 
+o See also Civil Law Act s 6 – certain contracts must be evidenced in writing – are electronic records considered “writing”? 
+- Section 3 – “facilitate electronic commerce”, communications, filing, public confidence etc. 
+- Sections 6-8 – electronic records, signature, writing, treated same as non-electronic 
+- Sections 11-16 – formation of contracts not undermined solely because of electronic means (including automated message systems) 
+- Did we really have to say this out loud? 
+o Isn’t this just basic contract law governing intention to be bound etc.? 
+o Turns out contract law has one weakness, which is that you have to go to court to get it pronounced. Businesses don’t want to do that 
+o Experts in contract law will tell you it’s fine and it’s binding etc., but the business people and general counsel at the time didn’t want to risk their contracts and their nice salaries on a theoretical thing 
+
+The ETA’s legislative intent 
+- The advent of e-commerce and the increasing use of the digital medium have created some novel legal issues where there are yet no clear answers. ... The Electronic Transactions Bill aims to address these important issues and to create the legal framework for e-commerce transactions in Singapore. 
+- First, on electronic contracts in general. While rules on the formation of contracts are clear in the physical world, there are significant ambiguities in the electronic world. There is therefore a need to enact legislative provisions to clarify the rules of formation of electronic contracts. Part IV of the Bill clarifies that contracts can be made electronically. It also deals with the issues of time and place of sending and receipt of electronic messages.
+o What are the ambiguities and how did they arise? 
+o What was unclear was not the applicability of contract law, but the application of it to a new context. People were not clear about stuff like what would happen if their PDFs got hacked or something 
+- Secondly, on electronic records and signatures. Part II of the Bill clarifies that electronic signatures have the same legal binding effect as that of written signatures. 
+- Thirdly, on secure electronic records and signatures. We recognise that in the digital world, there is no face-to-face interaction. As a result, issues concerning identity, authenticity and integrity arise. One solution that has been gaining popular support is the digital signature. A digital signature, when affixed to an electronic document, has two essential properties. It confirms that a document has not been tampered with since the time the signature was fixed. It also identifies the person who fixed the signature. Traditional hand-written signatures do not perform these functions with the same degree of certainty. It is therefore justifiable to afford some evidentiary  presumptions on digital signatures and the documents on which they are affixed, if these signatures are created in accordance with a secure procedure. The Bill provides for this legal effect.
+- It is essential for the growth of a national information infrastructure that we manage the exposure of network service providers to the risks of liabilities for third party content. For example, an Internet Service Provider (ISP) should not be held liable for objectionable contents or defamatory statements on the thousands of web sites that are accessed daily, and over which the ISP has no control.
+- Clause 10 of Part III of the Bill provides that a network service provider is not subject to criminal or civil liability for third party material for which the provider merely provides access. Where network service providers engage in activities which are indistinguishable from those of common carriers such as telephone companies and post offices, they should be given the assurance that they will be treated in the same way in respect of such activities. The clause, however, will not ... affect any obligation founded on contract or any obligation imposed under any written law or by a court to remove, block or deny access to any material.
+- Network service providers will of course continue to be liable for their own content, or third party content that they adopt or approve of.
+
+
+Key points 
+- Why would we need, or want, special laws for electronic transactions? How do we begin to think about this question? 
+o Why did Zee Kin raise this as a quintessential example of technology regulation? 
+- Why are electronic transactions special? 
+- What’s wrong with the law? 
+- What’s wrong with the tech? 
+o If the tech is wrong, do we need to change the tech, or do we introduce a law that governs conduct regardless of technology? 
+
+Broader Context
+- ETA is derived from UN Model Law for Electronic Commerce (1996) 
+- Also relevant is the Model Law for Electronic Transferable Records, which Singapore only recently adopted 
+- The UN documents are built on three key principles that centrally aim to promote “equal treatment” between paper and electronic
+means
+o Non-discrimination – electronic transactions are not denied validity due to them being electronic (cf paper transactions)
+o Functional equivalence – electronic and non-electronic transactions are treated, or function, in the exact same way 
+o Tech neutrality – not discriminating against different types of electronic transactions (thus not creating incentives to choose between different types of transactions) 
+* Difficult sometimes – because we tend to want to regulate some tech more, e.g. AI. But having special regulations for AI would violate this principle 
+- These are well-articulated and justified principles that inform many other areas of technology law
+
+Case Study – online mistake
+- Chwee Kin Keong v Digilandmall [2005] – you know this case 
+- Human typo on website reduced price from $3,854 to $66 
+- Appellants bought a huge number of printers; company refused to honour
+- How did the court handle this?
+o Long discussion of principles of mistake, including in equity
+o Did the ETA help or clarify anything?
+* That is, would the court have reasoned differently if we had no ETA?
+* No – the ETA was not even referenced in the judgment 
+* Perhaps it was operating in the background preventing any dispute over the issue in the first place 
+o “It is common ground that the principles governing the formation of written or oral contracts apply also to contracts
+concluded through the Internet. In the present case, it is not in dispute that prima facie a contract was concluded each time
+an order placed by each of the appellants was followed by the recording of the transaction as a “successful transaction” by the automated system.”
+* This was the main point that was made with respect to the tech – the parties didn’t even contend that there wasn’t a contract because of the electronic nature of the transaction; there was no point arguing this 
+
+SM Integrated v Shenker 
+- Facts: Advanced discussions for corporate lease; one party tried to pull out at the last minute, other side said had already accepted via email. Q: Were emails sufficient “writing” under s 6(d) of the Civil Law Act? 
+- Whilst the [ETA] does make it plain that electronic records will be adequate to satisfy legal rules relating to writing and signature in most commercial matters, its conservative approach in not extending these provisions to contractual matters falling within s 6 of the CLA does not mean that, as a matter of law, electronic means of communication cannot satisfy the requirements of s 6. The ETA does not change the common law position in relation to s 6 of the CLA. Whether an e-mail can satisfy the requirements for writing and signature found in that provision will be decided by construing s 6(d) of the CLA itself and not by blindly relying on s 4(1)(d) of the ETA. 
+- I therefore find that the *e-mail correspondence which constituted the memorandum of the contract (as specified in [73] above) was “in writing” for the purpose of s 6(d) of the CLA. I am pleased to be able to come to this conclusion which I think is dictated by both justice and common sense since so much business is now negotiated by electronic means rather than by letters written on paper and, in the future, the proportion of business done electronically will only increase. I think that the ordinary man in the street, who not only conducts business via computer but who is being encouraged to use technology in all areas of life and to become more and more technologically proficient, would be amazed to find that the law would not recognise a contract he had made electronically even though all the terms of the contract had been agreed and the parties were perfectly ad idem.
+- Important points
+o Basically, the court said that ETA doesn’t extend to stuff governed by s 6 Civil Law Act, but that doesn’t mean the court must take a different approach. 
+o So considered the Civil Law Act itself, and held that electronic counts as written, as a matter of justice and common sense. 
+o It is a technology issue, but not just about the nature of the technology, but a social issue – the fact that business treats such forms of conducting business as valid, and real life has conformed to the code, means that the courts have to follow 
+o A similar thing is happening for blockchain (which we will go into later) – people are treating it as currency and property, and it’s hard to think of the courts going a different way 
+
+Key takeaways 
+- Technology in practice often just requires law to be clarified in application. May not need any real “extension” to the law, nor radical reform as some may like to claim 
+- Distinguish questions of applicability from uncertainties in application 
+o We just don’t know how to fit a known law to the new facts 
+o Academics vs practitioners always worry about different things – practitioners need to clarify more, since they don’t want to stake their jobs on something that is theoretically right 
+o Almost always possible to spot a theoretical issue (even if there is no problem in practice) 
+o Some purely theoretical issues are still worth examining, as practical issues 
+o The very same discussions are playing out with AI, as we will see 
+- Neither is necessarily less worrisome than the other – the question of applicability is no more or less important than the question of application 
+o Uncertainties in application were what prompted the ETA 
+o Practical uncertainties in application can be sufficient to require special legislation to deal with that area. In a sense, sometimes we do need a Law of the Horse. 
+
+Digital platforms 
+WHAT ARE DIGITAL PLATFORMS? 
+Why platforms 
+- Ordinary transactions create inefficiencies – transaction costs 
+o Looking for counterparties, advertising etc. 
+- Instead of going to vendors individually, just go to the platform where all the vendors are 
+- How create efficiency by introducing middlemen? 
+o Economies of concentration – look in one place, not everywhere
+o Economics of scale – platform handles boilerplate terms etc. 
+o Predictability – buyers expect sellers, sellers expect buyers 
+o Network externalities – the important one. See elaboration below
+
+Network externalities/effects 
+- More buyers makes it better for sellers, and more sellers makes it better for buyers (positive cross-effect – going across the market) 
+- More buyers makes it better for other buyers, and more sellers make it better for other sellers (positive same-side effect – more buyers also make it better for other buyers – because it attracts more sellers) 
+- Critical mass is important (to create a cycle)
+o Beyond some point, the presence of buyers and sellers attracts fellow buyers and sellers 
+o But initially, there is a negative feedback loop – lack of buyers/sellers means that sellers/buyers aren’t interested in the platform
+- Maintaining critical mass is important – imagine if Grab lost 50% of its drivers overnight
+- Recall that code and law are both regulators. When platforms are “regulated” by market forces, how would a platform behave? 
+o Two-sided market is created – don’t need to just cater to consumers, but business uses/sellers
+o See below 
+
+What can platforms do? – platform behavior in two-sided markets 
+- Membership fees (price of entry) 
+- Transaction fees (price of use) 
+- Can target both sides of the market (charge both sellers and buyers to use platform), but may not always want to 
+- Other “regulations” 
+o Terms of entry/use
+o Social norms 
+- Code architecture, especially for tech platforms 
+
+Many things are platforms 
+- Capital markets (ECM/DCM)
+o Stringent checks are enforced on sellers by the exchange before they can access investors – as a form of “membership fee”
+o Not every investor also can access the market – must be rich enough, accredited, educated, be institutional, etc.
+- Universities – pay professors and charge students 
+- Tinder – positive cross-externalities, but negative same-side externalities (because you are competing for the same sort of demographics)
+
+The central idea – all platforms’ central value positions lie in coordination and reducing transaction costs 
+- Each platform is a unique “cyberspace” (Lessig), shaped by market forces, norms, code and law. 
+- And also competition law implications, but this isn’t a course for that 
+
+*ARE PLATFORM WORKERS EMPLOYEES? 
+Note – UK law is used as a case study, but will not be examined 
+- Pay attention to the principles 
+
+Until recently, platforms have maintained that workers who sell their labor on the platforms should be seen as independent contractors rather than employees
+- Thus, platform workers were till recently not entitled to the protections provided by employment law 
+
+Recent developments 
+- UKSC case of Uber v Aslam (2021, noted below) declared Uber drivers to be “workers” under the meaning of their Employment Act, though whether they are also “employees” remains an open question. 
+o See full summary below 
+- France (by court decision) and Spain (by legislation) have already decided that Uber drivers are employees in their jurisdictions 
+
+Lessons from the Uber case study 
+- Holdings 
+o Uber argued that it was a mere agent helping drivers contract with users 
+o Court found in reality that Uber contracted with drivers to perform services for Uber’s users 
+o Court went on to comment on the nature of the relationship between parties – the power and control that Uber had over the drivers 
+o Started by looking at employment legislation – purpose to protect vulnerable workers from unfair treatment (insufficient pay for the work, excessive hours etc.) 
+o Most drivers probably never read the terms, understood them, nor had a chance to negotiate them. To look solely at the contract would be to allow Uber to dictate whether it wanted to be bound by employment law or not 
+o Basically, the drivers were in a position of subordination and dependence on Uber, and Uber exercised a lot of control over the work of the drivers 
+* *Touchstone of such subordination and dependence is (as has long been recognized in employment law) the degree of CONTROL exercised by the putative employer over the work or services performed by the individual concerned. The greater the extent of such control, the stronger the case for classifying the individual as a “worker” who is employed under a “worker’s contract”
+* Drivers had some measure of autonomy and independence – they could choose when to log on to the app, when and where to work 
+* But Uber had sole control over the price charged for the drivers’ services – more generally it is necessary to consider who is RESPONSIBLE for defining and delivering the service provided to passengers
+* And Uber’s infrastructure deliberately removed the drivers’ ability to independently market their business apart from the app 
+* Choice whether to accept rides is technically there, but heavily constrained by Uber – destination information withheld from driver, and acceptance rate is monitored, and enforceable by penalty --> INDIRECT CONTROL THROUGH CODE
+
+- Factors relevant to power and control:
+a. Remuneration paid to drivers fixed by Uber – drivers have no say and fares are not set by regulators (unlike taxis)
+b. Terms of transportation contract dictated by Uber
+c. Once logged on, choice on whether to accept rides constrained by Uber, who controls information on the ride provided to driver, withholds destination, and monitors acceptance rate (enforceable by penalty)
+d. Control over HOW drivers deliver their services (vets type of car, operates the app that directs drivers where to go, ratings systems used by Uber purely as an internal tool for managing performance, not publicized at time of request)
+e. Restricts communication between passenger and driver, even after trip ends
+
+- Lessons for law and tech 
+o Control exercised by tech platform is pivotal, and not just for labor law 
+o BUT Control as a device is fickle when up against tech 
+* What exactly is control? 
+* The platforms will always say that they don’t control the workers, the workers can log off anytime they want, they can drive for competitors etc. 
+o But easy to see control when adopting a “code is law” lens – maybe not strict in terms of the contractual terms, but behavioral constraints are there based on what the tech allows you to do 
+o In reality, tech allows far more indirect forms of behavioral control, which the UKSC references somewhat 
+o DEBATE OVER EMPLOYMENT STATUS OFTEN MASKS LARGER DEBATES OVER SOCIAL POWER HIERARCHIES
+
+
+Singapore’s position 
+- Singapore does not have as strong a tradition of labour law as most Western countries,
+- A committee was set up in August 2021 to examine the status of platform workers: Tripartite Workgroup on Representation for Platform Worker – members across government, platform companies, labour groups and businesses
+a. In November 2022 it published a substantial report which recommended, amongst other things, “requiring Platform Companies that exert a significant level of management control over Platform Workers to provide them with basic protections” (at [10]). 
+b. These protections include obligations for platforms (with a significant level of management control) to provide the same scope and level of work injury compensation commensurate under WICA for employees and rights to form representative bodies.
+--> so if the platform does not exert a “significant level of management control”, a platform may be excused from such a requirement
+c. The committee also clearly recommended that platform workers are NOT “employees”
+- These will kick in gradually over 2024
+
+Report of the Advisory Committee on Platform Workers 
+- What constitutes management control? “Management control” test to be determined by government but recommended non-exhaustive factors include:
+o Key factors: 
+* data-driven, algorithmic matching of demand and supply of services 
+* This diminishes the amount of control a platform worker has over the jobs that he takes  
+* effectively determining or setting upper limits on price and remuneration; and 
+* Inability of platform workers to set their own price – unable to price in risks that they are exposed to, thus need for protections 
+* controlling and directing the performance of work 
+* Platform workers unable to self-direct and strategize how to maximize earnings 
+o Examples 
+* Logistics companies that use self-employed delivery workers on an ad hoc basis without data-driven algorithmic matching of demand and supply of services are unlikely to exert a significant level of management control over the workers. 
+* Taxi drivers when undertaking street-hail trips are not subject to a significant level of control by taxi companies, as the companies generally do not play a role in matching the driver to the customer. 
+o The precise definition of “significant level of management control” will be further studied by the Government, taking into account international precedent and Singapore’s local context.
+- Recommendations 
+o Apply same protections as Work Injury Compensation Act (WICA) 
+o Require platform company that the worker was working for at the point of injury to be responsible for compensation, based on the worker’s total earnings from the platform sector in which the injury was sustained 
+* Also recommended to develop sector-specific definitions of when a platform worker is “at work” 
+o Improve housing and retirement adequacy for platform workers 
+o Enhance representation including the right to form representative bodies 
+
+UKSC Uber decision 
+Brought in 2016 by a group of Uber drivers against Uber on very specific points:
+- Did Uber owe the drivers holiday pay (under the Working Time Regulations 1998)? 
+- Had Uber under-paid the drivers (by reference to the National Minimum Wage Regulations 1999)? 
+- One driver also brought a claim on grounds that they had suffered a detriment for being a whistleblower (contrary to Part V of the Employment Rights Act 1996).
+
+However, the issue before the Supreme Court was a preliminary one: the claims being brought before the Employment Tribunal could not be decided until it was determined whether or not the Uber drivers were “workers” or “self-employed/independent contractors”.
+
+The Supreme Court has unanimously ruled that the Uber drivers are workers. 
+- This means that the Uber drivers who brought the original claim in 2016 are able to continue with their allegations relating to the Working Time Regulations, Minimum Wage and the Employment Rights Act in particular, the right to bring a whistleblowing claim.
+
+Key aspects of the decision
+- The contract is not the starting point – instead, look at the totality of the relationship between the parties, including any unspoken/unwritten agreements 
+o The Supreme Court affirmed that an employment contract is not like other contracts; it is not a normal contractual relationship but categorised by subordination and dependency.
+o It is because of the hierarchical relationship, particular to employment situations, that those caught in the employment relationship ought to be protected 
+o Test – “are these the sort of people who deserve protection of the law and the protection of worker status?”. The key point is to look at the type of relationship parliament intended be covered by statutory employment protection.
+- Control 
+o A key fact of this case was that the drivers were subordinate and dependent on Uber. 
+* They were not able to substitute their services and send in another driver instead. 
+* Even though Uber drivers have control over when they work and Uber does not dictate their times of work (differentiating them from an employee) the obligation to work personally means that there is a level of control by Uber.
+* Cf. Deliveroo driver contract which allows for a driver to find a substitute if unavailable. Uber bookings are tied to the driver’s name and vehicle registration number, and it is illegal in the UK for another driver to drive that car. 
+o Other aspects of control
+* Uber vets the type of car the driver drives 
+* The platform technology itself is wholly controlled by Uber and is a means of exercising control over drivers 
+* Not compulsory for driver to follow the route given by the app, but driver bears the financial risk of any deviation from the app route which the passenger has not approved 
+* Uber exercises control by monitoring driver’s acceptance and cancellation rates and excluding driver from access if he fails to maintain them 
+* Also termination of contract if driver fails to maintain ratings. Different from ratings elsewhere which give customers a choice of worker, the rating here is purely an internal tool for measuring performance and firing underperformers – this is a classic form of subordination that is characteristic of employment relationships 
+* Uber restricts communication between driver and passenger to prevent drivers from establishing any relationship with a passenger capable of extending beyond an individual ride 
+o Differs from other platforms in that Uber sets the price for everything – driver has no say in what price he would like to charge for his services. 
+o Due to the control factor, Uber drivers have been found to be subordinate and dependent enough to make them more than self-employed and also workers.
+
+
+*PLATFORM LIABILITY (FOR DEFAMATORY CONTENT) 
+Should platforms be liable for user-created defamatory content?
+- This is one area where there has been a lot of litigation, and expected to increase, given the proliferation of AI 
+- Today almost every instance of defamation takes place on some online platform (given the wide scope and reach)
+- Recall: every platform is its own cyberspace whose code shapes behaviour
+
+Platform liability for user-created defamation is another question that has spurred litigation. 
+- In the US, section 230 of the Communications Decency Act provides that “[n]o provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider" (47 U.S.C. § 230), raising formidable barriers to platform liability there. 
+- The High Court of Australia has considered the issue at length in Fairfax Media Publications Pty Ltd v Voller [2021] HCA 27,* a case which that led to a rather remarkable outcome. 
+
+What is the platform’s role? 
+- Can Facebook be considered a publisher? How would you argue this if you need to? 
+o Adoption – if the platform actively sought to reprint it 
+o Acquiescence – if they were told but did nothing 
+
+What about someone who owns a Facebook page? – How far does the platform’s architecture facilitate defamatory meaning? 
+- On this, we have some pretty good authority – Fairfax v Voller (noted below) 
+o Summary – for the purpose of defamation, the owner of a FB page is treated as a publisher insofar as it provides a platform for the defamatory material to be made, even if it does not intend to disseminate that exact defamatory material. However, even though it is a publisher, it might be able to apply the defence of innocent dissemination where it had no capability to exercise editorial control over the material before it was published. 
+o Publication includes intentional participation and includes intentional platforming. 
+o Intentional just means voluntary and active – Fairfax actively maintains the FB page and encourages comments, and benefits commercially from it 
+o This has caused worry amongst media companies and others 
+- Key implication – HCA has found that the business user of a platform can be liable for defamatory content posted by consumer-users on its business page 
+- What implications does this have for business-users generally, including on other kinds of platforms? 
+- What implications could Fairfax have for platform companies, both directly and indirectly? 
+- IMPORTANT TO NOTE – this case did not concern the liability of Facebook itself – Fairfax is the owner of a Facebook page, thus is a Facebook user.
+- Should Singapore adopt a similar rule? 
+o Consider our differences in priorities wrt defamation and freedom of speech, and our priorities in promoting tech adoption etc. 
+
+Singapore position 
+Presently, Singapore does not have any provisions comparable to section 230. Neither do we have any cases on platform defamation. 
+
+The closest thing we have 
+- The Protection from Online Falsehoods and Manipulation Act and Broadcasting Act, as amended by the Online Safety (Miscellaneous Amendments) Act 2022, provide some regulatory means for shaping content on online platforms in line with public interest, but mostly leave open the question of private liability. 
+- The closest case study is one on defamation by hyperlink: Lee Hsien Loong v Leong Sze Hian [2021] SGHC 66. (noted below) Briefly read the case facts and consider if the platform in question might have been liable for defamation as well.
+
+Fairfax Media Publications v Voller 
+Read the case, focusing on Gageler and Gordon JJ’s judgment, and consider how far Singapore might, and should, adopt a similar approach. The essential question here is a difficult but far-reaching one: when does, and should, the actions of users be attributed to a platform?
+
+Australian High Court confirmed that the media defendants were publishers of alleged defamatory third-party comments made on their public Facebook pages.
+- Subject to any applicable defences, defamation operates as a tort of strict liability 
+- Intention to publish the specific matter in question is therefore not required in order to make someone liable as a publisher of defamatory content.
+- Key implication: a business-user (e.g. Fairfax) of a platform (e.g. Facebook) CAN be liable for defamatory content posted by consumer-users on its business page (as a publisher of the defamation)
+- Majority: publication includes intentional participation and includes intentional platforming. It is intentional so long as it is voluntary and active. Fairfax actively maintains the FB page and encourages comments, and benefits commercially from it
+
+Background 
+- Fairfax which runs Sky News maintains an FB page, and on that page users posted content defamatory of Voller
+- Dylan Voller, a former detainee in the Northern Territory's Don Dale Youth Detention Centre, brought proceedings against the three appellant media companies for alleged defamatory comments posted on Facebook by readers in response to articles placed on the media defendants' respective Facebook pages.
+
+Decision
+- The plurality confirmed a long line of authority to the effect that the element of publication does not depend upon knowledge of defamatory matter or an intention to communicate it. 
+- Gageler and Gordon JJ: 
+o Every intentional participant in a process directed to making matter available for comprehension by a 3P is a publisher of the matter upon the matter becoming available to be comprehended by the 3p 
+o The word "intentionally" is to be understood as meaning "an intention to facilitate, or provide a platform for, communication of the allegedly defamatory matter" and, beyond that, any further requirement of knowledge or intention is irrelevant. 
+o Sufficient that the participation in the process is active and voluntary, and not necessary that the publisher had knowledge or intention to publish that particular statement 
+- The majority found that the media outlets had intentionally facilitated and encouraged third-party comments on their Facebook pages and therefore became publishers of each comment posted by a Facebook user at the moment they were posted. This was sufficiently constituted by each media outlet contracting with Facebook to provide their public page, posting on that page, and thereby giving third-party users the ability to comment on that content. Therefore, the online environment was distinguished from previous cases that involved billboards or physical walls that had been defaced by defamatory graffiti, in which case the defendant was found not to have played a role in facilitating the publication.
+- The “primary purpose” of the operation of each appellant’s public FB page was to optimize readership of the newspaper (whether hardcopy or digital) or broadcast and to optimize advertising revenue. Each appellant provided the forum for its publication and encouraged, for its own commercial purposes, the publication of comments”
+- Having regard to those findings, the appellants’ attempt to portray themselves as PASSIVE AND UNWITTING victims of FB’s functionality has an air of unreality. Having taken action to secure the commercial benefit of the FB functionality, the appellants bear the legal consequences
+- The majority also clarified the relevance of the defence of innocent dissemination in the context of publication, finding that a successful defence of innocent dissemination has the effect of excusing from liability a defendant who would otherwise have been liable as a publisher (it does not mean that publication is taken to have not occurred).
+
+Lee Hsien Loong v Leong Sze Hian 
+Facts
+- Mr. Lee Hsien Loong, the Prime Minister of the Republic of Singapore (the plaintiff), sued Mr. Leong Sze Hian, a columnist (the defendant), for defamation for having shared an article titled “Breaking News: Singapore Lee Hsien Loong Becomes 1MDB’s Key Investigation Target – Najib Signed Several Unfair Agreements with Hsien Loong In Exchange For Money Laundering” on Facebook [para. 1].
+- The article was published on November 7, 2018 on a website called “The Coverage.” It claimed that Malaysian investigators were “trying to find the secret deals between the two corrupted Prime Ministers of Singapore and Malaysia” in relation to the country’s 1Malaysia Development Berhad (“1MDB”) fund. The article also provided additional information concerning other “unfair agreements” Mr. Najib Razak had made with the plaintiff, including the agreement to build the Singapore-Malaysia High Speed Rail [para. 5].
+- Over the following days, the article was discussed in many media outlets. On November 8, 2018, the Straits Times reported responses to the article by the Minister for Law and Home Affairs, Mr K Shanmugam, as well as the High Commission of the Republic of Singapore in Malaysia. The responses reported uniformly sought to refute the article and its contents [p. 9]. On November 9, 2018, it was further reported in the Straits Times that the Monetary Authority of Singapore had filed a police report in respect of an article materially similar to the article in question which had been published on November 5, 2018 on the States Times Review (the “STR). Further, the Straits Times also reported on the Info-communications Media Development Authority’s issuance of a statement that the article on STR’s website was “baseless and defamatory” [p. 11].
+- On November 10, 2018, the defendant removed the post from his Facebook timeline and on two days later, he received a Letter of Demand from the plaintiff demanding a published apology and compensation. On November 20, 2018, the plaintiff commenced the instant suit [p. 11].
+
+Judgment (briefly) 
+- Hyperlinking the article in the Facebook post amounted to publication.
+o First, the article was part of the post, by virtue of having been hyperlinked.
+o Second, the defendant made the article accessible through the hyperlink, and individuals from Singapore had accessed it.
+
+Blockchain 
+INTRO TO BLOCKCHAIN TECH 
+For the full overview of blockchain tech, see the “blockchain” paper in readings folder 
+
+The problem that they’re trying to solve – the double-spend problem 
+- How to prevent someone from spending their balance of currency/token or whatever twice, before a transaction ledger is updated 
+- The solutions 
+o Physical cash – proof is in possession 
+o For digital cash, trusted intermediary, e.g. an escrow bank 
+o For online transactions, also trusted intermediaries aka platforms 
+- Why do we trust banks? 
+o Laws that regulate them --> trust in government 
+o Banks have business reputations to protect, and profits to maintain 
+- In the above (why do we trust banks), we see Lessig’s modalities 
+- There is a new way – we can trust the code instead 
+
+A ChatGPT summary: 
+1. Decentralized Network:
+o Blockchain operates on a peer-to-peer network where each participant (node) has a copy of the entire ledger. This distribution eliminates the need for a central authority and enhances system resilience.
+2. Blocks:
+o Blocks contain a collection of transactions and other relevant data, such as a timestamp.
+3. Hashing:
+o Cryptographic hash functions generate a fixed-size hash based on the block's content. Even a small change in the data results in a substantially different hash.
+o Practically impossible to decipher the original input from the hash output 
+o Standard hashing algorithm – SHA256 (e.g. SHA256(“blockchain”) --> ef7797sabufb21bi131iuh314b34b134…)
+o For the encryption to be secure, it is essential that given the RHS output, you cannot easily figure out what the original LHS output was
+o However, you can guess what the LHS was and see if SHA(your guess) produces the same RHS output, if so you have “decrypted” the information
+o Note that the transaction record itself is not encrypted – the transactions are public, i.e. all the inputs are transactions that should be on public record. The hashing is used as a sort of digital seal to tamper-proof the transaction record. 
+4. Chaining Blocks:
+o The chaining of blocks involves including the hash of the previous block in the current block. This creates a continuous and irreversible link, reinforcing the security of the entire chain.
+5. Consensus Mechanism: --> not only PoW consensus mechanism
+o Proof of Work (PoW) requires miners to solve complex mathematical problems, 
+o while Proof of Stake (PoS) relies on participants' ownership stakes to validate transactions. 
+o Other consensus mechanisms, like Delegated Proof of Stake (DPoS) or Practical Byzantine Fault Tolerance (PBFT), offer variations in achieving agreement.
+6. Immutability:
+o Immutability is achieved through cryptographic hashes and consensus mechanisms. Once a block is added, changing any part of it would require altering subsequent blocks, which is computationally unfeasible.
+7. Distributed Ledger:
+o The ledger is distributed across nodes, ensuring that no single node controls the entire database. This redundancy enhances security and prevents a single point of failure.
+8. Smart Contracts (optional):
+o Smart contracts are self-executing contracts with programmable conditions. They are written in languages like Solidity (Ethereum) and automatically execute when predefined conditions are met.
+9. Mining (for PoW):
+o PoW miners compete to find a nonce (a random number) that, when hashed with the current block's data, meets certain criteria. This energy-intensive process adds a new block to the chain and is rewarded with cryptocurrency.
+10. Public and Private Keys:
+o Public and private key pairs are generated for users. The public key is used for identification, and the private key, kept secret, is used for signing transactions to prove ownership.
+o Too complex to examine, so don’t worry about it 
+o Information is encrypted using something called an asymmetrical hash function – it is encrypted with a certain key, and it can only be decrypted with another key. 
+o Typically, information is encrypted with the public key, and then decrypted by the recipient using their own private key.
+* E.g. you send private information to a website. The website gives you their public key to encrypt the information, and you send the info to it. 
+* The website has its own private key that it doesn’t disclose. It uses the private key to read your message.
+* No one else has the private key, so no one knows how to decrypt your message. But everyone has the public key, so anyone can send a message to the website that cannot be decrypted by anyone else. 
+11. Decentralized Control:
+o Governance mechanisms vary, but the core principle is that decisions about the blockchain's rules and updates require agreement among a significant majority of network participants.
+
+
+
+POW consensus 
+- Each block is hashed with an integer X at the end. X is unknown 
+- For each block, a problem is given – find an integer X that results in a hash that contains a certain number of 0s 
+- All blocks are publicly distributed, so anyone can try to mine 
+- If someone wants to tamper, they will have to:
+o Rewrite the block with their existing transaction 
+o Find a new X that meets the same requirements of number of 0s 
+o They have to do this alone (recall that it took the entire network to find the previous value of X) 
+o And since all blocks are chained together, the different value of X in this block will affect the hash of the next block as well, and the next block after that – so our attacker will solve the hash problem for every single subsequent block 
+- The attacker must present the longest blockchain to win consensus on the network (then you make everyone agree that your version is authoritative)
+o While the attacker is solving previous blocks, the rest of the blockchain is adding new blocks to the chain and adding new things 
+o This sets up a race between the honest nodes and dishonest nodes 
+o By naïve (Poisson) probability model, can show that chance of attacker winning diminishes exponentially as (a) more nodes added, (b) honest nodes compute faster or attacker nodes compute slower
+
+Takeaways 
+- Blocks are nothing special, just packets of data 
+- Hash chaining is essential to tamper-resistance --> i.e. hash of the previous block is included as data in the subsequent block
+- Only probabilistic resistance - attacker can still win if: --> i.e. not foolproof
+o Very few blocks added (slow bit rate) 
+o Puzzle too easy to solve
+o Honest nodes are outnumbered by dishonest nodes (50+% attack)
+o Dumb luck 
+- POW/POS etc. are necessary for so-called computational proof of transactions, but are not entirely bulletproof 
+- Wasteful, but better alternatives are elusive 
+o Bitcoin has so far not yet been hacked 
+o Ethereum has been subject to a 50% attack 
+
+Larger uses of blockchain (or databases generally) 
+- Bitcoin blockchain is used to record only transactions of bitcoin 
+- But the idea of blockchain as a way to store data more securely without trusted 3p is more general 
+- Can also store: 
+o Text describing legal or economic rights – ICOs/tokens 
+o Links to real world assets – off-chain assets/”tokenization” 
+o Property records – land register 
+o Links to digital art – NFTs 
+
+
+LEGAL CHARACTERIZATION OF CRYPTOASSETS 
+Is Bitcoin (and other cryptocurrencies and derivative assets) property? 
+- Note that Bitcoin is just one app built using a blockchain 
+
+Bybit v Ho Kai Xin and others (2023 SGHC) --> cryptocurrency is currently recognized in Singapore as a type of property as a thing in action
+- [31] Cryptoassets are “not classed as physical assets” but “do manifest themselves in the physical world, albeit in a way that humans are unable to perceive”. 
+- Private/public key locking/unlock system appears to be said “physical manifestation at the level of digital bits and bytes”. 
+o How? 
+o Jerrold is thoroughly confused by this as well – sounds like the judge was high on shrooms 
+- While not permanent, we can “give a name to a river even though the water contained within its banks is constantly changing” 
+- [33] “This description of crypto assets shows that they can be defined and identified by modern humans, such that they can be traded and valued as holdings.” They meet the Ainsworth formula.
+- [34-35] Are cryptoassets things in possession or in action (given that all personal property are either one or the other)? 
+o [36] My conclusion is therefore that the holder of a crypto asset has in principle an incorporeal right of property recognisable by the common law as a thing in action and so enforceable in court. While it might be said that this conclusion has an element of circularity in that it could also be said that the right to enforce in court is what makes it a thing in action, this type of reasoning is not strikingly different from how the law approaches other social constructs, such as money. It is only because people generally accept the exchange value of shells or beads or differently printed paper notes that they become currency. Money is accepted by virtue of a collective act of mutual faith. 
+- What is the court’s role here? 
+o Is it recognizing the broader societal act of mutual faith in crypto? Or, is it creating one? 
+o Is this an issue with law, tech, or both?
+
+Artificial intelligence 
+WHAT IS AI 
+Modern AI theory 
+- Turing, 1950: “AI is about building machines that think”
+- But “machine” and “think” are undefinable, not worth asking this question 
+- Instead: imitation game 
+- I know it when I (can’t) see it --> if a human cannot tell whether responses are human generated or AI-generated, then it’s AI
+- So what if AI passes the Turing test?
+
+Textbook definitions of AI (Russell and Norvig)
+- Thinking humanly 
+o Automation of activities that we associate with human thinking – e.g. decision-making, problem solving, learning 
+- Thinking rationally
+o The study of mental faculties through the use of computational models 
+o The study of the computations that make it possible to perceive, reason and act 
+- Acting humanly 
+o Create machine that perform functions that require intelligence when performed by people 
+- Acting rationally 
+o The study of the design of intelligent agents 
+
+
+Types of AI:
+(1) rules-based and “symbolic” AI, or 
+(2) machine learning and “statistical” AI
+
+Rules-based or “symbolic” AI (deterministic)
+- Expert systems are rules-based AI, with explicit instructions given--> trace issues back to the programmer
+- Expert system is a computer program which encodes a rules-based representation of the knowledge and principles around some expert field like law and medicine, as a system of interrelated logical rules
+- Richard Susskind 
+o Knowledge is represented in the knowledge base as a network of interrelated rules that can be altered with little fuss: it is a flexible, rule-based system
+- At the beginning of the interaction, and periodically thereafter, the user is required to enter some basic data, such as the names of parties, relevant dates, and so forth. However, the principal ways in which the user apprises the system of the facts of a case are through "yes", "no", or "don't know" responses to questions asked of him and through selections from menus
+- We have something like this in motoraccidents.lawnet.sg, or IRAS tax calculator
+- Expert systems are still around and are still useful – outcomes based on logic that we can explain and trace 
+- Problems with rules-based AI 
+o Unable to deal with complex problems – Go? Chess? Deepblue chess system is rules-based
+o Law? In law, rules are not even fixed
+o Costly to specify every rule 
+- The strategy to overcome these problems – invest resources to gather examples instead of experts, then get the algorithm to learn from the examples – this is machine learning 
+
+Machine learning or “statistical” AI
+- A branch of AI research that uses statistical methods to get computers to perform tasks without explicit instructions (Arthur Samuel)
+- Consider: how would you design a system that identifies email spam?
+o “Explicit instructions”: rule-based AI system
+o No explicit instructions: statistical/ML AI system
+
+HOW MACHINE LEARNING WORKS 
+E.g. how to design a system that identifies email spam? 
+- You could perhaps define rule-based systems – if email contains “lottery”, then it’s spam
+- A system without such explicit instructions are machine learning
+- Start with a bunch of emails, and put them in a structured dataset of attributes in the email (words, familiar source) and a truth label (whether the email is actually spam or not) 
+- Then statistical regression to create a mathematical formula that can predict the probability that a new email is spam 
+o E.g. P(spam) = 0.2 x “lottery” + 0.1 x typos + 0.5 x unfamiliar source 
+
+Raw Data 
+--> Structured Dataset 
+--> Learning algorithm / model 
+--> Classification Algorithm / Trained Model / “hypothesis” / prediction algorithm
+
+The above example results in a very clear and explainable AI – far more explainable, in fact, than a human decision on whether an email is spam or not 
+
+Learning from the data 
+- Simple scatterplot – can use just linear regression 
+o Basically find the best formula for a line that fits the existing datapoints 
+- This counts as supervised learning tries to find a “best fit” pattern for E [Y | X] --> expected outcome of Y, given X
+- Humans are alright with eyeballing a 2d graph, but we basically can’t comprehend anything above 3 dimensions. 1 dimension is 1 feature, so real life problems have tons of dimensions 
+- Math can do this: 
+o Define a measure of “fit”
+o E.g. “least squares” distance between points on the line to data points 
+o Specify line equation – determined by “coefficients” (the changing numbers >>) 
+o See how well it fits 
+o See if changing the equation improves the fit 
+o If so, move to new equation 
+o Repeat until stable
+- This is basically gradient descent – some not-so-advanced calculus is used to do this 
+- And this powers basically almost all of machine learning 
+
+Neural networks 
+The approach 
+- Why stop at training one algorithm? 
+- Train a whole bunch of different algorithms
+- 
+- Then train subsequent algorithms to take the output of prior algorithms, and create predictions based on those
+- And you can have an arbitrarily large number of layers, and then an output 
+
+Large language models 
+
+Basically just a bunch of these models piled up on top of each other (but a bit more sophisticated than that) 
+GPT 3.5, which was behind the first ChatGPT, has 175 billion parameters – very expensive in terms of compute 
+
+Language modelling and generative AI 
+- A “language model” is created by taking a large corpus of text, deleting words, and training the model to predict missing words 
+- Generative AI is really a subset of predictive AI
+- This scales easily: Given sentence 1, predict sentence 2. Then now that you have predicted sentence 2, use that and predict sentence 3... 
+- If sentence 1 is a question, then sentence 2 is the predicted answer
+
+Getting to ChatGPT 
+- Not important to know this history, but just that there has been a long history of paradigms that eventually resulted in this 
+- Basically, this is just to say that generative AI is not new – been used since the 1990s 
+
+Legal implications 
+All machine learners/neural networks/LLMs are matrix multiplications – table of numbers
+- Parameters are numbers computed from data, will necessarily reflect what the data says (and does not say) 
+- Neurons are equations built with those numbers
+
+- Learning is a metaphor for updating parameters – to allow final line to best fit the data
+o The designers of the models have made clear that they don’t think it’s a parallel to how human brains actually learn – we don’t do complex math in our little brains 
+- Machine: is a metaphor for the mathematical matrices and algorithms
+- The power behind LLMs is that next word/sentence estimation really encompasses a wide range of legal tasks 
+- But the fact that it’s really just math doesn’t mean that it’s nothing to worry about (quite the contrary)
+- Not regulating the AI itself (i.e. the math), but how it is used by people
+
+Why do we consistently get AI wrong? 
+- AI is by definition a human imitation game 
+o It makes sense, therefore, that we are fooled
+- There are market incentives to manipulate narratives
+o Investors like to throw money at you when you say you’ve invented a thinking machine, not so much when you say that you’re applying math or if it is just software
+o And you can deflect liability by saying “the AI did it, not me” 
+- Few have the technical training to properly understand, and even fewer actually want to know 
+
+Legal dispositionism and artificially intelligent attributions 
+Jerrold’s paper 
+
+Intro
+- The idea of Dispositionism
+o We tend to assume that a rational agent has internal reasons, motives and intentions for acting (the “disposition”) 
+o So we fault them for bad actions 
+o And hold them to informed consent (e.g. contracts, data protection laws, etc.) 
+o Vs situationism – how people act is based on the situation they are put in
+- Calls for AI personality are symptomatic of a bias in law towards dispositionism 
+o Humans also tend to dispositionize AI by giving them needs, wants, morals, thoughts and a body 
+- When AI takes over the handling of certain tasks, there is no more person – there is a missing person problem 
+
+The missing person problem 
+- The law assumes that persons do things – they drive cars, enter contracts, argue cases
+- But now AI does it instead 
+- Therefore the law, some say, is ill equipped for AI, will be disrupted, needs reform, etc. 
+- And in particular, we will need to identify who else to hold liable/should consider AI personality 
+
+The problem with the missing person problem argument 
+- We are prone to this sort of systemic bias 
+o Psychologists have been saying for over 60 years that our actions result as much, if not more, from external circumstances (the “situation”) 
+o Yet we are systematically biased towards attributing actions to disposition (a person's inherent qualities of mind and character) while missing the situation (missing out the situational influences involved in training the system – ecosystem around the AI, programmers, hardware manufacturers, the context in which it operates) --> “Fundamental Attribution Error” 
+
+- In the same way, do we focus too much on the AI’s disposition? 
+
+- And we know that AI doesn’t do anything on its own – it is the product of its “situation” – the regulator, manufacturer, programmer, operator, users etc. 
+- Case study in the article 
+o DABUS litigation filed by the “Artificial Inventor Project” 
+* Argues that DABUS (an AI system should be registered as patent inventor) 
+* More recently, trying similar arguments with copyright. See e.g. Thaler v Perlmutter (2023) 
+o DABUS “perceives like a person, thinks like a person, and subjectively feels like a person, abductively implicating it as a person” 
+* From a rather hard to get article published by Thaler in the ‘Journal of Artificial Intelligence and Consciousness’ 
+* Jerrold says that this is the logical conclusion of dispositionism. 
+o Invention apparently “autonomously generated” by DABUS. Really? 
+* In what sense is DABUS truly ‘autonomous’? 
+* Note: not enough to show that AI could be autonomous in theory, we need to show this specific system to be autonomous in fact 
+* Interesting how far the courts entertained these arguments (often, uncontested) 
+o Some courts bought the hype and went close to suggesting DABUS could be inventor 
+o Some (mostly senior) courts (thankfully) didn’t; AIP failed in all jurisdictions so far
+
+- Jerrold’s suggestions for situating AI in law 
+o Question the anthropomorphic AI narratives presented before us. Take care to look for anthropomorphisms embedded within seemingly descriptive words. E.g. “the car drove itself and got in an accident” – this implies a factual disposition that attracts legal responsibility 
+o Deliberately highlight situational AI risks. AI use poses risks that cannot squarely be placed on any single human creator or operator, and so AI must be seen in the wider context of the socio-economic forces which build and sustain the technology. 
+* A situationist view of AI and liability would refocus attention onto organizational stakeholders in the AI risk creation process. Helps counteract our dispositionist tendencies 
+o And more generally, don’t just use situationism to identify targets for conventional dispositionist analysis. Each stakeholder’s contributions should be assessed situationally as well. 
+* Commentaries adopting more technically accurate views of AI systems favor apportioning safety and compensatory obligations across multiple stakeholders 
+
+
+HOW TO THINK ABOUT AI SYSTEMS IN LAW 
+The upshot of Jerrold’s paper
+- Lawyers framing AI dispositionally seldom seem to realise they may be personifying maths. Reinforced by science fiction, our dispositionist tendencies lead us to conceive of AI systems as autonomous beings, seeing disposition when we should be seeing situation. This tendency to personify AI has been identified by AI researchers as an ‘anthropomorphic bias’ and by legal scholars as an ‘android fallacy’. ... 
+- Legal narratives which dispositionize AI must therefore be scrutinized. 
+o Notwithstanding the imagery that wishful AI mnemonics conjure, they are inexact metaphors for inevitably statistical computations. 
+o To recall, ‘neurons’ are standalone statistical algorithms which compute numerical weights from data. ‘Training’ is the process of passing data through algebra to compute these weights. ‘Attention’ means increasing the numerical weights accorded to outputs from certain parts of the network. ‘Memory’ is a particular type of neuron (i.e. computation) which feeds into itself such that previous computations influence subsequent ones more directly. 
+o These metaphors make the maths appear as if it has its own mind but neither entail nor imply that it does. 
+o As Cardozo CJ famously held, ‘[m]etaphors in law are to be narrowly watched, for starting as devices to liberate thought, they end often by enslaving it’. Likewise, Calo notes that judges’ ‘selection of a metaphor or analogy for a new technology can determine legal outcomes’ surrounding AI.

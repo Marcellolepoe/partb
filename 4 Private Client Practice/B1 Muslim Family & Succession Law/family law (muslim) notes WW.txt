@@ -1,0 +1,877 @@
+Outcomes 
+- Identify which court has jurisdiction over specific matters – SYC or FJC 
+- Able to distinguish the differences between SYC and FJC/HC on divorce, e.g. the grounds of divorce, the type of ancillary orders etc. 
+- To be aware of key differences between Muslim and non-Muslim laws of inheritance 
+
+Contents
+AMLA	2
+Jurisdiction of Syariah Court	2
+Personal jurisdiction	2
+Territorial jurisdiction	2
+Jurisdictional issues between SYC and Civil Courts	3
+Residual jurisdiction of civil courts	3
+Concurrent jurisdiction of FJC and SYC	3
+Enforcement in Civil Courts	3
+Orders on Mutaah and Nafkah Iddah	3
+Divorce and ancillary orders in the Syariah Court	3
+Overview of Syriah Court	3
+Divorce	4
+Appeals from SYC	5
+Types of divorces	5
+Type of divorce – Talak	5
+Type of divorce – Breach of Taklik (marriage condition)	5
+Type of divorce – Fasakh (judicial dissolution)	6
+Type of divorce – Khuluk	6
+What if husband refuses to pronounce Talak, and wife is unable to prove grounds of divorce?	6
+Ancillary orders	6
+Nafkah Iddah/Eddah	6
+Mutaah	6
+Misc. points for ancillary orders	7
+Children issues – Custody	7
+Children issues – misc	7
+Division of Matrimonial Assets	8
+Jurisdiction and power	8
+Types of matrimonial assets	8
+Division of matrimonial assets – just and equitable division	9
+Division of matrimonial assets – stay of proceedings where there is a 3p claim	9
+Decisions of SYC or Appeal Board are final	9
+Muslim inheritance	9
+Introductions	9
+Muslim Law of Inheritance (Faraid)	10
+Distribution according to Muslim law is compulsory for Muslims in Singapore	10
+Application for Probate and Letters of Administration (for Muslims)	10
+Who are the prescribed beneficiaries?	10
+Baitulmal (basically the Muslim Public Trustee) – s 57 AMLA	11
+Muslim Wills	11
+Application of Wills Act	11
+Formalities of Muslim Wills	11
+Examples of invalid Muslim wills	11
+Muslim Inheritance in Civil Courts	11
+
+
+
+*Jurisdiction of Syariah Court 
+SYC has no inherent jurisdiction to grant whatever relief pleaded for. SYC is a creature of statute. It derives its jurisdiction and power from AMLA and any rules thereunder. 
+
+*S 35(2) AMLA – in which all parties are Muslims OR where parties are married under Muslim law AT THE TIME OF THE MARRIAGE AND NOT AT THE TIME OF DIVORCE! (so does not matter if one party converts out of Islam in the future, SYC still has jurisdiction), involving disputes relating to these matters: 
+(a) Marriage;
+(b) Divorces (fasakh, cerai taklik, khuluk and talak);
+(c) Betrothal or nullity of marriage;
+(ca) The custody, care and control, access or maintenance of minor children of the parties on divorce or nullification of marriage;
+(d) The disposition or division of property on divorce or nullification of marriage; or
+(e) The payment of emas kahwin, marriage expenses, maintenance and consolatory gifts or mutaah. 
+
+S 35(3) AMLA 
+- Since 2018, SYC has jurisdiction only if either party to the marriage is: 
+o Domiciled in Singapore; or
+o Habitually resident in Singapore for at least 3 years prior 
+
+        NB: automatic jurisdiction if one of the parties are Singaporean
+
+S 52(3) AMLA – Powers of SYC between parties upon divorce – SYC only has powers upon divorce**
+- To order: 
+o (a) the payment of emas kahwin and marriage expenses (hantaran belanja) to the wife
+o (b) the payment of a consolatory gift or mutaah to the wife 
+o (c) the custody, care and control, access and maintenance of the minor children of the parties 
+o (d) the disposition or division of property on divorce or nullification of marriage 
+
+NB: PPO, maintenance of the wife during marriage, maintenance of children pre-divorce --> not covered by AMLA, so need to look to civil courts (FJC) instead!
+
+COMMON ORDERS MADE BY SYC IN A DIVORCE CASE 
+1. Dissolution of marriage (e.g. confirmation of Talak) – seeing if the grounds of divorce are satisfied
+2. Payment of Nafkah Iddah by Husband to Wife (maintenance for the wife’s 3 month no-remarrying period) 
+3. Payment of Mutaah by Husband to Wife (consolatory gift based on the length of the marriage) 
+a. Time-scaling proportion depends on the financial capacity of the husband 
+4. Custody, care and control, and access of children
+5. Division of Matrimonial Assets 
+
+NB: SYC has no power to make ancillary orders where there is NO divorce application. There is also no inherent jurisdiction of the SYC (e.g. an injunction) because it is not in the AMLA
+
+PERSONAL JURISDICTION
+Syariah Court only exercises personal jurisdiction over parties who are Muslims or who married under Muslim law (s 35(2) AMLA) 
+
+Who is a Muslim? 
+- S 2 AMLA definition – one who professes the religion of Islam (it is not concerned with whether the person practices the faith)
+- But if someone renounces the faith via statutory declaration and submit it to MUIS, then they are no longer considered Muslim
+
+Essential requirements for a Muslim marriage 
+- Yeo Pei Chern (Yang Peizhen Freda) v Seow Zheng Xin, Isa (2007) 4 SSAR 146 – location does NOT determine the validity of a Muslim marriage
+o Parties married in a civil marriage in Boston while studying in US. Came back to Singapore and booked a church wedding. Flew to London and had 2 Muslim marriage ceremonies in a London bookstore. The issue was whether the London marriages met the requirement of Muslim marriages --> need to look at the essential elements below
+o Outcome - the wife never signed a conversion certificate to become a Muslim, so she was NOT a Muslim and the case was to be heard in FJC 
+o This is important because there may be Muslim marriages conducted overseas that may not be registered under the marriage laws of that country 
+
+- Muslim marriage ceremony can take place anywhere (ROMM, home, mosque, hotel, etc.)
+
+- If the marriage is registered at the ROMM, there is NO need to prove validity of marriage as the ROMM registration is accepted at face value by the SYC
+
+- If the marriage is in Singapore but NOT registered at ROMM (having conducted the marriage ceremony outside ROMM), then s 109 AMLA which has the implication that parties need to additionally prove that it is a valid Muslim marriage 
+
+- If the marriage is overseas, SYC likely require proof of validity (see below)
+
+- Essential elements for a valid Muslim marriage 
+o A male party
+o A female party 
+o A wali (guardian of the bride) 
+o Two witnesses
+o The pronouncement of offer and acceptance 
+
+The Syriah Court will insist on an Affidavit of Foreign Marriage, which should highlight these 5 elements and state whether the marriage is registered or not at the foreign country. Most foreign marriages are not governed by legislation – they are mainly done by local Syriah councils, mosques, or privately at home 
+
+For parties who have undergone both ROM and ROMM marriages, a decree of divorce from the SYC will dissolve the civil marriage as well
+- Noor Azizan bte Colony v Tan Lip Chin [2006] 
+- NB: this took place before the age of computerization, so this scenario will not happen today – need to dissolve one marriage first before remarrying under the other regime
+
+Requirements to register Muslim Marriage at ROMM 
+- This is for background info only as, in practice, the validity of a marriage registered at the ROMM is usually unchallenged at the SYC divorce proceedings and hence not an issue at the divorce hearing.
+- Very strict checks at ROMM on compliance with AMLA before marriage is allowed 
+- Contrast with foreign marriages where there is no legislation
+o a) At ROMM, marriages are conducted by the Registrar/Deputy Registrars of Muslim Marriages) known as Kadi/Naib Kadis.
+o b) Both parties must be Muslims (sections 2 and 89 AMLA) 
+o c) Parties must not be under 18 except where there are special circumstances.
+o d) Consent of (i) Relevant Persons and (ii) Wali (guardian of the bride to be) (sections 94B(1) to (4) AMLA )
+o e) Two male Muslim witnesses
+
+TERRITORIAL JURISDICTION 
+Domicile and habitual residence 
+- S 35(3) AMLA – SYC has jurisdiction only if either party to the marriage is: 
+o (a) Domiciled in Singapore; or 
+o (b) habitually resident in Singapore for at least 3 years prior 
+
+Foreign marriages 
+- SYC does NOT accept a foreign or customary Muslim marriage certificate as conclusive proof of a valid Muslim marriage. 
+- Muslim marriage needs to be proven at the time of filing for divorce application (affidavit of foreign marriage) – which would set out the elements of the marriage, etc.
+
+Foreign divorces 
+- If parties have already been divorced overseas, the SYC does not have jurisdiction except over issues of Nafkah Iddah and mutaah
+- ED v EE [2021] 8 SSAR 292 
+o When a divorce is obtained in a foreign Syriah Court, the ancillary matters that the SYC has jurisdiction to make orders on are only nafkah iddah and mutaah (maintenance for the ex-wife, and consolatory gift)
+o Provided the foreign court had not dealt with the issues already? – court decided on these issues in ED v EE based on the finding that the Indonesian court had not dealt with them 
+- TMO v TMP [2017]
+o For parties who had already been divorced overseas, SYC has NO jurisdiction to hear an application for child (so must go to FJC) – only has jurisdiction over Nafkah Iddah and mutaah
+
+
+*Jurisdictional issues between SYC and Civil Courts 
+
+RESIDUAL JURISDICTION OF CIVIL COURTS (WHERE SYC HAS NO POWER TO MAKE ORDER ON CUSTODY OR DIVISION OF ASSETS, THEN CIVIL COURTS HAVE RESIDUAL JURISDICTION)
+TMO v TMP [2017] SGCA 14 – must read 
+- Civil Courts (especially FJC) have residual jurisdiction over Muslims – where there is no specific exclusion and no separate Muslim law 
+- Husband filed for divorce in Malaysia, and obtained the divorce plus order for custody of child. But there was no order for the house or property. The wife applied for divorce in Singapore to settle matters of property, division of matrimonial assets etc.
+o Syriah Court rejected the application because there was no subsisting Muslim marriage – their divorce was not obtained in the SYC. 
+o Turned to District Court. District Court and High Court (on appeal) turned down jurisdiction. If there was a lacuna in the law, it is a matter to be handled by Parliament 
+o On appeal to CA – Cannot be a situation where Singaporeans have no court that has jurisdiction over them. Introduced the concept of residual jurisdiction. Civil courts only do not have jurisdiction if Syriah Courts have jurisdiction. 
+o CA held that parties married under Muslim law who obtain a divorce from a foreign court may seek relief from the Singapore civil courts for the division of matrimonial assets. 
+o SYC still can make orders on nafkah iddah and mutaah. 
+
+If SYC does not have jurisdiction over such a claim, no need to require leave from it to put in a s 121B Women’s Charter application for financial relief after overseas divorce.
+
+CONCURRENT JURISDICTION OF FJC AND SYC (BOTH COURTS HAVE POWER, BUT THERE COULD BE OCCASION WHERE PARTIES PREFER CIVIL COURTS TO HEAR THEIR CASE)
+Do parties have a choice between FJC and Syriah Court? 
+- Under the 1999 AMLA Amendments, choice was given to Muslim parties to go to civil court or SYC on issues of children or disposition and/or division of matrimonial assets 
+
+- *GD of HC has jurisdiction to hear matters involving (a) maintenance of wife or child; (b) custody of child; and (c) disposition or division of property on divorce – s 17A(2) SCJA
+Even though such matters come within the jurisdiction of the Syariah Court under section 35(2)(d) or (e), 51 or 52(3)(c) or (d) of the Administration of Muslim Law Act 1966, the General Division has jurisdiction as is vested in it by any written law to hear and try any civil proceedings involving matters relating to —
+(a) maintenance for any wife or child;
+(b) custody of any child; and
+(c) disposition or division of property on divorce
+
+- To avoid multiplicity of actions, if SYC divorce proceedings have commenced, leave must be obtained in Syriah Courts to: 
+o Commence civil proceedings relating to the disposition or division of property on divorce, or custody of any child – s 35A(1) AMLA 
+--> started proceedings in SYC, but want to begin proceedings in the civil courts (where there are no live proceedings), then need the leave of SYC to BEGIN proceedings in civil courts
+--> maintenance is not covered here, so assumably SYC’s permission is NOT needed to commence civil proceedings for maintenance in civil courts
+
+o Continue civil proceedings relating to the custody of any child – s35A(2) AMLA 
+--> before proceedings at SYC, there are already live proceedings in the civil court (e.g. under guardianship laws), so they want to continue at civil courts 
+
+- NOTE the difference between commencement and continuation of proceedings – the applicable matters differ!! 
+
+- Mandatory stay of civil proceedings in support of SYC jurisdiction – s 17A SCJA 
+o (3) Where civil proceedings involving any matter referred to in subsection (2)(b) or (c) and involving parties who are Muslims or were married under the provisions of the Muslim law are commenced in the General Division, the General Division is to stay the civil proceedings:
+* (a) If civil proceedings are commenced after SYC proceedings, HC must stay proceedings relating to custody of children and disposition of property, unless SYC issues a cert of commencement 
+* (b) If civil proceedings had already been commenced before SYC proceedings, HC must stay proceedings relating to custody of children only, unless SYC issues a cert of continuation  
+
+PPO, maintenance of the wife during marriage, maintenance of children pre- and post-divorce (no need for leave of SYC) --> not covered by AMLA, so need to look to civil courts
+
+Test for whether leave will be granted 
+- Obtaining leave from SYC – the “balancing of interests” test in AK v AL, applied in BU v BV.
+- Whether granting leave to go to civil courts: 
+o Will allow for the more expedient resolution of the relevant issues and whether such expediency is necessary;
+o May lead to/prevent the unnecessary duplication of legal proceedings in respect of the relevant issues; 
+o Will result in any undue prejudice to the other party’s position in the ongoing SYC proceedings, or undermine the tenets of Syriah law; and
+o Will affect the welfare of the children 
+- BU v BV [2018] 7 SSAR 64 :
+o Divorce proceedings at SYC only commenced after civil proceedings had commenced on matters relating to child custody. There was substantial development in the progress of the civil proceedings. 
+- Thameemul Ansari v Farzana Begum :
+o If SYC will ultimately determine the issue of custody, leave will not likely be granted even if there had been a previous interim access application in the FJC 
+o In this case, there was an interim order for access issued by the FJC. But the Appeal Board held that access is an integral part of the issue of custody, and since the SYC was ultimately going to determine the issue of custody, the issue of access should also be determined by the SYC. 
+o A new application would have to be made to either court, so there was no reason to believe that the FJC proceedings would be more expedient 
+- Other
+o The mere fact that the litigant is no longer a Muslim is insufficient to justify granting leave – AK v AL 
+o The mere fact that one party’s applications had been dismissed before SYC does not show that there was prejudice caused to him/her – AK v AL 
+
+What happens to the FJC order if SYC proceedings commence? 
+- The FJC order is treated as a good order until the day that SYC makes an order on the divorce and related issues. 
+
+Pereira Dennis John Sunny v Faridah Bt Abdul Latiff – is leave required of the civil action is prior to commencement of the SYC action? When does SYC proceeding begin? 
+- Husband filed HC action on beneficial ownership of assets after the Wife had registered at the SYC for counselling, but before the wife issued the divorce Originating Summons in SYC. Issue was whether the HC should stay the action pending SYC proceedings. 
+- Held – civil proceedings should be stayed only if divorce proceedings (not merely counselling) were commenced at SYC after divorce proceedings had commenced. 
+o IMPORTANT – Timing of when divorce proceedings are taken to have commenced – the issuance of the Originating Summons. Not the date of divorce as declared by the SYC. 
+- Further – issue was on beneficial ownership, not matrimonial issues (i.e. not division of matrimonial assets). No overlap of jurisdiction 
+
+Basically, the upshot of all the above rambling is: 
+- Children’s issues – parties can start civil proceedings before or after there are divorce proceedings in SYC. FJC will stay action once it is made aware of the SYC proceedings. 
+- Disposition or division of assets – likewise, can start civil proceedings before or after SYC divorce proceedings. Difference is you will need leave to commence civil proceedings only if a civil proceeding is commenced after the SYC divorce proceedings 
+
+Other points to note 
+- FJC does not have jurisdiction to deal with application for division of assets involving parties in Muslim marriage (Muslim parties should ordinarily go straight to SYC for this) – it only has power during the exercise of residual jurisdiction (TMO v TMP situation)
+- S 17A(2) SCJA does not contemplate a situation where civil proceedings for disposition of assets are commenced before divorce proceedings start in SYC 
+- Muslim parties seeking determination of rights in matrimonial assets can file civil suit under general property law – NOT under WC in FJC 
+
+*Continuing civil proceedings by consent – s 35A(5), (6), (7) AMLA --> NO NEED TO SEEK SYC’S PERMISSION IN THIS CASE, IF THERE IS BOTH PARTIES CONSENTING TO CIVIL PROCEEDINGS IN PARALLEL
+- Parties can agree for the civil proceeding in FJC to continue when a divorce proceeding is ongoing in SYC, i.e. consent to commence or continue civil proceeding
+- However, both parties must attend counselling and obtain certificate of attendance
+- When assets and children issues are adjudicated and determined in civil proceeding by civil court, non-Muslim civil law will apply over the dispute (s 17A(7) SCJA)
+
+(5)  This section does not apply if the parties to the civil proceedings —
+(a) mentioned in subsection (1) consent to the commencement of the civil proceedings, or mentioned in subsection (2) consent to the continuation of the civil proceedings; and
+(b) mentioned in subsection (1) or (2) have obtained a certificate of attendance issued under subsection (7).
+(6)  Parties mentioned in subsection (1) or (2) must, before commencing or continuing (as the case may be) the civil proceedings by consent, attend counselling provided by such person as the Court may appoint.
+(7)  The Court is to, after any party has been counselled under subsection (6), issue a certificate of attendance to that party.
+
+ENFORCEMENT OF SYC ORDERS IN CIVIL COURTS (FJC) 
+SYC does not enforce its own orders. No need leave of court to commence enforcement action.
+
+FJC enforces SYC orders on nafkah iddah and mutaah akin to maintenance orders of the FJC (s 53(1) AMLA). 
+
+However, the FJC CANNOT vary the SYC orders in any way (s 56A AMLA):
+Subject to the provisions of this Act, any decision of the Court or the Appeal Board is final, and no decision or order of the Court or the Appeal Board may be challenged, appealed against, reviewed, quashed or called into question in any court and may not be subject to any Quashing Order, Prohibiting Order, Mandatory Order or injunction in any court on any account.
+
+Orders on Mutaah and Nafkah Iddah 
+S 53(1) AMLA provides for enforcement of orders on Mutaah and Nafkah Iddah, as if such orders were issued by FJC 
+
+Enforcement mechanisms available to SYC order (under Part IX of WC) 
+- attachment of earnings order
+- garnishee order
+- imprisonment
+- recover outstanding sum as debt
+- Banker’s guarantee
+- Financial counselling
+- Community Service
+- report to credit bureau
+- Statutory Declaration when getting married - whether he/she owes any arrears (e.g. any existing mutaah or nafkah iddah from previous marriage) - s 17A(2)(a) SCJA.
+
+Orders on children, payment of emas kahwin, marriage expenses, division of assets etc. 
+Prior to 2008 amendments, SYC order would have to be registered first at FJC – take out OS etc., risk of relitigation etc. 
+- Very troublesome, so now SYC orders are deemed to be FJC orders 
+
+Several options: BOSCO (Breach of SYC Orders) 
+- File complaint in FJC. Parties will go through a mediation process before FJC judge 
+- A private summons (Magistrate’s Complaint) can be lodged in Crime Registry (in State Court) – s 52(13) AMLA 
+- Contempt proceedings 
+
+Contempt proceedings in FJC – VFU v VFV 
+- Facts 
+o Parties married under Muslim law. 3 children (aged 10, 9 & 5 yrs).
+o Mother filed OS under GIA in FJC.
+o 9 March 2017: OS in FJC resolved by Consent Order.
+o 11 September 2018: Father filed divorce proceeding in SYC.
+o 4 July 2019: Father filed committal proceedings claiming mother breached consent access orders made in FJC.
+o 13 August 2019 and 27 August 2019: Interim orders made by SYC
+- Held – 
+o Continuation certificate not required for committal proceedings heard in FJC – there are no more civil proceedings to be stayed. 
+o FJC has jurisdiction and powers to enforce custody orders made under the OSG 
+
+Enforcement in SYC 
+- 1999 AMLA amendment – s 53A AMLA gives proxy powers to SYC 
+o SYC can sign documents/instruments for the transfer or sale of matrimonial property when one party defaults in doing so 
+o To activate this section, must issue letter of demand to defaulting party, and file an affidavit to show their default 
+- Types of orders – Something called a Registrar Empowerment Clause that I had to dig up from SYC website, they said it’s important 
+o Category A request – registrar can sign relevant documents without any notice to the party on for whom the registrar is signing on behalf of 
+o Category B request – registrar can sign documents only in the event of a default by a party in signing those documents, despite written notice to him/her to sign the relevant documents
+
+NB: To enforce SYC orders, don’t just go back to the SYC. You need to see if it can be enforced in the SYC or if it must be at the FJC. 
+--> If it is a monetary order, go to FJC           
+--> It is only if you need proxy powers of the SYC (e.g. signature of SYC judge in transfer of property or sale of assets) then you remain in SYC
+
+
+*Divorce and ancillary orders in the Syariah Court 
+OVERVIEW OF SYRIAH COURT 
+SYC
+- Senior President and Presidents who are either civil law trained (from FJC) or from religious education track 
+- Ad-hoc presidents (LSO with full time jobs elsewhere)
+- Registrar and Deputy Registrar (in charge of administration)
+
+MUIS Appeal Board 
+- Members of Appeal Board panel are appointed by the President of Singapore, upon the advice of MUIS – s 55(3) AMLA 
+- Composition – Judges from the FJC and State Courts, legal service officers (DPPs), legal officers in statutory boards, senior lawyers, prominent religious leaders.
+- Coram – any 3 members of the panel. The Chair is usually the one with legal background 
+- MUIS Appeal Board *hears appeals from Syriah Court (s 55(1) AMLA) and Registry of Muslim Marriages (ROMM) (s 105 AMLA) 
+
+Who can appear before Syriah Court 
+- Lawyers (need to be called to the bar) need NOT be Muslims or have formal training in Islamic Law to appear before the Syriah Court – Jamal Mahammath v Zarina Majid – importance of competency of the lawyer rather than his/her personal religion
+- All you need is a valid practicing cert 
+- Lawyers who appear at the SYC must be mindful of general rules of ethics and competency 
+
+*DIVORCE
+Note – will not be examined on the process itself. But good to know the general differences between FJC and Syriah Court 
+
+SYC Jurisdiction to hear divorce applications (revision from Topic 1) 
+- Both parties must be Muslims
+- There must be a valid Muslim marriage (s 35(1) and (2) AMLA) 
+- Connecting factor to Singapore – domicile or 3 years’ habitual residence 
+
+Differences between FJC and SYC 
+- FJC –
+o bifurcated system.
+o Interim Judgement first on the divorce itself, followed by Hearing on Ancillary Issues 
+o Final Judgment extracted after all orders made (or 3 months after interim judgement if Consent Order on all issues)
+- SYC
+o not a bifurcated system.
+o Decree of Divorce and Ancillary Orders made together at same hearing.
+o Divorce Certificate issued 3 months after date of divorce (expiration of wife’s iddah period when she cannot remarry)
+
+SYC Divorce proceedings (overview – for background)
+
+
+
+Appeals from SYC 
+Appeals against direction/order of Registrar of SYC
+- Appeal heard by President of SYC 
+- Filing a Notice of Appeal in SYC no later than 14 days from date of the direction or order (Rule 38(2) MMDR) 
+- Note: President’s (appellate) order is final. No further appeal to MUIS Appeal Board (Rule 38(5) MMDR) --> I.E. CAN ONLY APPEAL UPWARDS ONCE
+
+Appeal against Final Orders of SYC President
+- Appeal heard by MUIS Appeal Board 
+- Filing a Notice of Appeal with the MUIS Appeal Board within 30 days from the date of the decision of the SYC (Rule 39(2) MMDR)
+- Note: If it is an appeal of a consent order, applicant would need leave of Appeal Board before appeal can be filed (section 55(2) AMLA)
+
+Orders made by Syrian Court in divorce 
+- Dissolution of marriage (usually confirmation of Talak) 
+- Ancillary Orders 
+o Payment of Nafkah Iddah by Husband to Wife (maintenance during the 3 month period where wife cannot remarry) 
+o Payment of Mutaah by Husband to Wife (consolatory gift) 
+o Custody, Care and control, Access of children
+o Division of Matrimonial Assets 
+
+Types of divorces 
+Divorce application by wife 
+- Register the Talak pronounced by Husband – s 47 AMLA 
+- Cerai Taklik (breach of condition) – s 48 AMLA 
+- Fasakh (annulment or judicial dissolution based on stipulated grounds) – s 49 AMLA 
+- Khuluk (divorce by redemption – agreed monetary sum from wife to husband) – s 47(4) AMLA 
+
+Each has a prescribed form when filing online, so don’t need to memorize anything 
+
+All these are applications by wife. If husband wants to divorce, he just needs to talak and then apply to court saying he has already pronounced talak.
+
+Type of divorce – Talak 
+Husband pronounces talak – s 46B AMLA 
+- No need to prove fault 
+- Divorce by talak will only be valid after registration of divorce by SYC 
+- If husband has pronounced talak, wife can apply for SYC to record divorce under this ground
+- If pronouncement of talak is disputed by wife, SYC will:
+o Hear the evidence of parties and witnesses 
+o Make a finding as to whether there is certainty in the words used (unequivocal and unambiguous)
+
+Revocation of Talak 
+- Parties may reconcile (rujuk) after Husband’s pronouncement of Talak 
+- If revocation done within Iddah period (3 months after pronouncement of Talak), the divorce is annulled and parties remain lawfully wedded to each other 
+- Otherwise, parties must undergo a fresh marriage or remarriage (if reconciled after 3 months)
+- Revocation of divorce must be registered at ROMM – to ascertain whether the next talak is second or third talak 
+
+Significance of 1st, 2nd, and 3rd Talak
+- If 1st or 2nd talak, the divorce is revocable and parties may reconcile and remarry 
+- The 3rd talak is irrevocable 
+o EXCEPT where wife remarried to a 3p, consummated the marriage to the 3p, and then divorced the 3p. – s 97(1)(c) AMLA 
+
+Re EJ and another [2021] 8 SSAR 320 – pages 184 to 186 of MFLS.
+- If Husband pronounced  “I divorce you with three talak”  or “talak, talak, talak” ; would that be one or three talak?
+- Appeal board issued guidelines to ascertain validity of a triple talak 
+o Ascertain intention of H to effect a triple talak
+o Does H understand fully nature & consequences of triple talak?
+o Inquire into H’s state of mind at the time of the pronouncement
+o AB : if H did not have intention to divorce irrevocably, then it is only effective as a single , revocable talak.
+
+Type of divorce – Breach of Taklik (marriage condition)
+Taklik are conditions in the marriage contract.
+
+In Singapore, taklik is printed in the marriage certificate, stipulating that if the husband should:
+(a) leave his wife for a continuous period of four months or more, intentionally or unintentionally; or
+(b) fail to maintain his wife for a period exceeding four months, whereas she is obedient to him; or
+(c) commit any action that causes injury to her body or damage to her property or causes her to lose self-respect, 
+
+the wife may apply to the Syariah Court and if her complaint is proved, then she is divorced by one talak (regardless of whether the husband pronounces the talak).
+
+Taklik in Singapore marriage certificate is in standard form. This may differ from country to country
+- Some countries – no taklik at all in the marriage certificate
+- If there is no taklik, wife cannot apply for divorce on this ground – existence of a taklik has to be proven FIRST before a divorce can be granted under this ground
+
+S 48(2) AMLA – Court shall examine the written taklik and make such enquiry as appears necessary into the validity of the divorce 
+
+
+Type of divorce – Fasakh (judicial dissolution) 
+Fasakh is judicial dissolution of the marriage on various grounds listed in s 49(1)(a) to (g) AMLA. Usually applied when Husband has not pronounced talak or where Wife unable to use breach of taklik:
+
+a) Husband has neglected or failed to provide for her maintenance for a period of 3 months.
+b) Husband has been sentenced to imprisonment for a period of 3 years or upwards.
+c) Husband has failed to perform, without reasonable cause, his marital obligations for a period of one year.
+a. Note – this doesn’t refer to financial obligations, but instead obligation to give the wife her conjugal rights 
+d) Husband was impotent at the time of marriage and continues to be so.
+e) Husband is insane or is suffering from some chronic disease (which could be injurious to wife).
+f) Husband treats the wife with cruelty, that is to say –
+(i) Habitually assaults her or makes her life miserable by cruelty of conduct 
+(ii) Associates with women of ill repute or leads an infamous life 
+(iii) Attempts to force her to lead an immoral life 
+(iv) Obstructs her in the observance of her religious profession or practice 
+(v) Lives and cohabits with another woman who is not his wife, or 
+(vi) If he has more wives than one, does not treat her equitably in accordance with the requirements of the Muslim Law.
+g) Any other ground that is recognized as valid for the dissolution of marriage by fasakh under Muslim law (usually where a party has renounced Islam - apostacy) 
+
+Note – unlike Women’s Charter where adultery is a specific ground for divorce, under Syriah law it must be shown that the adultery counts as treating the wife cruelly 
+
+Type of divorce – Khuluk 
+Khuluk - where the wife makes payment of an amount to be agreed by the parties or assessed by Syariah Court in return for granting her request for a divorce
+- This is very rare in Singapore. 
+- In Singapore, the amount is usually nominal (e.g. symbolic sum of $1)
+- A divorce by khuluk is irrevocable – cannot remarry each other
+
+What if husband refuses to pronounce Talak, and wife is unable to prove grounds of divorce? 
+Parties go to a Hakam Session – sort of like arbitration 
+
+Hakam (used to be called arbitrators) will be appointed (by agreement or by order of SYC) (sections 50(1) to (7)AMLA). 
+- Each party will select a Hakam from a panel of hakam at the SYC. 
+- Lawyers do not attend the hakam session. As the Court hearing will take place immediately after the hakam session; lawyers will be at the SYC on day of hakam session.
+- Role of hakam: try to effect a reconciliation between the parties. If the parties are unable to reconcile, the hakam will recommend to the Court that a divorce should be effected either through: 
+o The husband’s pronouncement of talak 
+o The husband’s hakam pronouncing the Talak on the wife 
+o The husband delegating to his wife his authority to divorce herself (talak Tafwid) 
+
+*ANCILLARY ORDERS 
+*Nafkah Iddah/Eddah 
+As a divorced wife is not permitted to re-marry during her Eddah Period, the husband is obligated to maintain her for that 3-month duration (s 35(2)(e) and 51 AMLA) 
+
+Quantum of Nafkah Iddah – factors 
+- *Husband’s financial status/means – important factor
+- Parties’ standard of living 
+- Provision of necessary clothing and suitable lodging. 
+- Cost of living in Singapore. 
+- The norm for those earning below $7,000 per month is between $500 and $1500 per month.
+o But the sums can far exceed this 
+
+*Mutaah 
+Unlike awards ordered in FJC which can span years, this is a one-time payment at the time of divorce 
+- But the manner of payment may be by instalments if the husband is unable to afford, or deducted from his share of proceeds if the matrimonial home is sold
+
+It is a consolatory gift by Husband to his wife (s 52(3)(b) AMLA). Primary purpose of muta’ah is to assist the wife to meet with the difficulties caused by the divorce
+
+Quantum of Mutaah is based on: 
+- *Husband’s financial status/means at the time of the divorce hearing (not post-divorce – so husband’s windfall or loss in the future after divorce is NOT a factor) 
+- Both parties’ standard of living before the divorce, 
+- Husband’s capacity and capability to pay, 
+- Length of marriage,
+- The amount of Mutaah is calculated from the date of marriage until the date of divorce. The practice in SYC - $x multiplied by number of days of marriage.
+
+SYC has repeatedly maintained that mutaah is an entitlement and NOT based on the conduct of wife (nusyus) (CQ v CR)
+
+Misc. points for ancillary orders 
+Nafkah Iddah and Mutaah for Overseas divorces 
+- If parties have been divorced overseas, the Singapore Syariah Court can make orders for Husband to pay the Wife Nafkah iddah and mutaah under Section 52(2) AMLA, even though the SYC has no jurisdiction and power on other ancillary issues of children and matrimonial assets. --> they must go to civil courts instead
+- TMO v TMP [2017] 1 SLR 585 at [6] 
+- UJM v UJL [2021] SGHC(A) 10 at [35]
+
+Nafkah Iddah and Mutaah are not matrimonial assets – relevant to CPF rules 
+- Under CPF Act, CPF monies can be transferred from Spouse A to Spouse B in a division of matrimonial assets 
+- Nafkah Iddah and Mutaah are not matrimonial assets – court cannot order for CPF to be transferred 
+- E.g. court order should not provide for waiver of mutaah upon transfer of CPF moneys from one spouse to another, or state that a particular clause is in full and final settlement of mutaah upon transfer of one party’s share to the ex-spouse with partial or no CPF refunds to be made to the ex-spouse 
+- Analogize to maintenance in a civil divorce – CPF moneys cannot be used to pay maintenance 
+
+*Children issues – Custody, care and control 
+AMLA does not codify principles under Muslim Law (cf in Malaysia – sections 81 to 85 Islamic Family Law (Federal Territories Act 1984)) 
+- Not uncommon to refer to civil law authorities in SYC on child custody issues – “so long as it is not inconsistent with Muslim Law”. 
+- See Zaini Bin Ibrahim v Rafidah Rahman [2007] 3 SSAR 135 – which ‘adopted’, essentially wholesale, the reasoning of the Court of Appeal in CX v CY [2005] 3 SLR 690 on joint-custody. 
+- BQ v BR [2016] 7 SSAR 36: 
+o “the paramount consideration is the best interest and welfare of the child...
+o The Courts’ primary goal is to protect the interests of the child rather than to benefit the parties or even to preserve a particular social order.” (e.g. if the wife committed a sin, she would lose custody rights of the child)
+o This means that when faced with a rule of Muslim law that acts against the best interests of the child, the interests of the child prevail 
+
+Case involving “Best interests of the child” – AE v AF [2011] 6 SSAR 65 
+- Turkish national husband urged the Appeal Board to apply the strict Muslim rules on custody, in that by her adultery, the wife had lost her custody rights of their two children. 
+- Appeal Board commented: 
+o “In short, even with the adultery, it did not necessarily mean that she was a bad mother to the children and therefore it would still be in the best interest of the children to remain with the W.”
+- See also DH v DI [2021] 8 SSAR 1 – similar .
+
+But unlike the Women’s Charter, there is an emphasis on “spiritual interest” which may lean the other way: AY v YZ [2015] 386
+- Child taken away by father when she was about one and a half years old, to Phuket, Thailand. In 2014, when child was about 12 years old, the mother brought the daughter back to Singapore. The mother sought custody, care and control of the child as the father was no longer a Muslim and had been bringing up the child in an “unIslamic way of life”. 
+o In Singapore prior to that, the mother enrolled the child in a madrasah. But the child did not receive any Islamic education in Thailand. 
+- Appeal Board: “the best interest of the child would not only cover the physical, material and emotional aspects but also the spiritual aspect” 
+o While the father was not averse to the daughter receiving Islamic teachings, the daughter’s upbringing as a Muslim child would be better attended to if she remained in Singapore under the care and control of the mother.
+- This is not simply a question of which parent is more “religious”. It is about the ability of the parent to bring up the child in the religion 
+- NOTE: while the religion of the parent is important, it may not be the sole reason for awarding care and control (in relation to parties who have renounced their religion). SYC’s main concern is on how the child is to be brought up
+
+*Children issues – access orders 
+AI v AJ: “the party with the daily care and control of the children must rise above the rancour of the divorce and embrace a spirit of magnanimity and goodwill in allowing access by the other parent to the children for their own sake.. Parties must recognise that by allowing access, it provides the children with the continued presence of a father or mother to provide guidance and support to them. This is a desirable objective and in the best interest of the child.”
+
+SYC’s orders on access are generally similar with the FJC.
+
+*Other children’s issues
+Judicial interview 
+- SYC has had a long-standing practice of interviewing children above 7 years old (age of discernment) where there is a dispute. 
+o This is a routine practice in SYC, cf. FJC where judicial interview is only done in special cases 
+- AA v AB [2011] 6 SSAR 120 
+o While the interview has its value, it would have been preferable if greater caution was exercised before their wishes were accepted to 
+o The wishes of the two daughters should not override the predominant consideration of the welfare of the children. 
+o FYI: Since 2022, child interviews are conducted by the President with the assistance of a Child expert (seconded from CAPS – Counseling & Psychological Services of FJC). 
+o SYC orders on access generally similar with FJC – in terms of when access is granted (weekends, public holidays etc.) 
+
+Children orders cannot cover 3rd parties (it only covers parents of the child, who are parties to the divorce)
+DA and another (intervener) v DC [2020] 8 SSAR 72 – 
+- Wife was granted care and control upon divorce. She then passed away. Her parents took out application to vary order on children.
+- Appeal Board: 
+o Power to vary order is in section 52(3)(c) AMLA – only covers the married couple and does not extend to those who are not parties to the divorce. 
+o This is in line with UDA v UDB and another [2017] SGHCF 16 - divorce court does not have substantive jurisdiction and power to make an order for or against the intervener (e.g. grandparent), though intervener still has the right to be heard in an intervener’s application
+
+Custody evaluation reports (CER) and other reports 
+- SYC also orders custody evaluation reports, similar to FJC 
+- Appeal no. 8 of 2021 (unreported); Muslim Family Law in Singapore, Chapter 5, pages 257-258 at 5.96 and 5.97 
+o Custody Evaluation Report (CER) is discretionary. Parties may request Court to call for a CER. 
+o Based on several factors: 
+* The nature, quantity and severity of the allegations levelled 
+* The benefits of such a report 
+* The length and time taken to conduct the witness interviews 
+* The state of the parties and proceedings. 
+o FYI : Generally, the SYC engages the same DSSA agencies as FJC on children custody and access evaluation reports.
+
+Comparison between SYC and FJC 
+Syriah CourtCivil Courts- Welfare of children as paramount concern
+- Joint custody is the normJudicial interview of children to determine their views, as long as child is above seven years old and mature enough to express his or her views.
+
+General principle that children below seven will be under the care of their mother, subject to the welfare of the children.
+
+Mother’s remarriage may affect her right to care and control, subject to the welfare of the children. 
+
+Application of Islamic principles and importance of spiritual upbringing: AY v YZ (2015) 6 SSAR 386. 
+
+Civil practice and procedure may be applicable, so long as it is not inconsistent with Muslim law.Observations and concerns about interviewing children, namely that judges are not trained to ascertain the views of children and have not had time to establish a relationship of trust with the child, that the child might be intimidated by the court process and the children may be coached: AZB v AZC [2016] SGHCF 1.
+
+However, civil courts may interview children where there are indications that the children wish to speak with the judge, are mature enough to express their views, and interviewing them would not be dragging them into the fray. 
+
+Islamic principles in relation to sensitive issues may be considered by the civil courts (though not binding) when all parties are Muslim (for example, Re OK [2006] SGDC 52.
+
+*DIVISION OF MATRIMONIAL ASSETS 
+Jurisdiction and power 
+Absent a divorce hearing in SYC, the jurisdiction or power to hear and determine the issues of division of matrimonial assets CANNOT be invoked --> i.e. there MUST be a divorce hearing in SYC for it to adjudicate on division of matrimonial assets
+
+For foreign divorces, SYC has no jurisdiction to hear an application for division of matrimonial assets – see TMO v TMP [2017] 1 SLR 585 and UJM v UJL [2021] SGHC (A) 10 
+- In such situations, the SYC has no jurisdiction. The matter proceeds under FJC – s 121A to G of Women’s Charter – “ Chapter 4A. Financial relief consequential on foreign matrimonial proceedings’.
+
+If the net value of matrimonial assets is less than S$5 million, it will be held in the Family Justice Courts / SYC. 
+
+Any case involving a larger value of assets than S$5 million will be heard in the Family Division of the High Court --> unless both parties expressly consent FJC / SYC to hear the issue even if above S$5 million
+
+Types of matrimonial assets
+3 categories of matrimonial assets (s 52(14) AMLA)
+“Property” means – 
+- Assets acquired before marriage by one or both parties, which have been substantially improved during marriage by the other party or both parties; and
+- Assets of any nature acquired during marriage (e.g. immovable properties, moneys in bank accounts, CPF, stocks, shares, club memberships, vehicles) 
+- Gifts/Inheritance which have been substantially improved during the marriage
+- EXCEPTION: BUT matrimonial assets DO NOT include any asset (not being a matrimonial home) that has been acquired by one party at any time by gift or inheritance and that has NOT been substantially improved during the marriage by the other party or by both parties
+
+Detailed comparison 
+- S 112(10) of WC definition provides that the asset must be ordinarily used or enjoyed by both parties while the parties are residing together etc. 
+- But this is missing in AMLA 
+- In AM v AN, husband tried to use this omission to argue that the common use of the property was not required 
+o Appeal Board said no – despite the omission in the AMLA, irrespective of when the property was acquired, if the property is used as the matrimonial home, then it is a matrimonial asset 
+
+Division of matrimonial assets – just and equitable division 
+Starting point is s 52(7) AMLA: “... as the Court thinks just and equitable”
+
+Court is guided by factors in s 52(8)(a) to (m) AMLA. Compare with s 112(2) of Women’s Charter. They are similarities and parallels.
+
+It is the duty of the Court in deciding whether to exercise its powers under subsection (7) and, if so, in what manner, to have regard to all the circumstances of the case, including the following matters:
+(a)the extent of the contributions made by each party in money, property or work towards acquiring, improving or maintaining the property;(b)any debt owing or obligation incurred or undertaken by either party for their joint benefit or for the benefit of any child of the parties;
+[Act 11 of 2022 wef 17/08/2022](c)the needs of the children (if any) of the parties;
+[Act 11 of 2022 wef 17/08/2022](d)the extent of the contributions made by each party to the welfare of the family, including looking after the home or caring for the family or any aged or infirm relative or dependant of either party;(e)any agreement between the parties with respect to the ownership and division of the property made in contemplation of divorce;(f)any period of rent-free occupation or other benefit enjoyed by one party in the matrimonial home to the exclusion of the other party;(g)the giving of assistance or support by one party to the other party (whether or not of a material kind), including the giving of assistance or support which aids the other party in the carrying on of his or her occupation or business;(h)the income, earning capacity, property and other financial resources which each of the parties has or is likely to have in the foreseeable future;(i)the financial needs, obligations and responsibilities which each of the parties has or is likely to have in the foreseeable future;(j)the standard of living enjoyed by the family before the breakdown of the marriage;(k)the age of each party and the duration of the marriage;(l)any physical or mental disability of either of the parties;(m)the value to either of the parties of any benefit (such as a pension) which, by reason of the dissolution or annulment of the marriage, that party will lose the chance of acquiring.
+However, do take note of the following: 
+- List of factors in AMLA is not exhaustive. 
+- It is a multi-factorial exercise – must be fact-sensitive. 
+
+The approach used for division – the structured approach in ANJ v ANK, as per divorces in the FJC 
+CY v CZ [2020] 8 SSAR 38 
+- No reason why the structured approach in ANJ v ANK [2015] 4 SLR 1043 cannot be applied in SYC as it is not inconsistent with Muslim Law.
+
+Stay of proceedings in SYC where there is a 3P claim on matrimonial assets 
+UDA v UDB [2018] SGCA 20: divorce proceeding must be stayed when there is a third-party claim to any of the matrimonial assets. 
+- Because SYC is unable to hear it, so proceedings in SYC must be stayed while the 3P claim is heard in another forum 
+
+DA and another (intervener) v DC [2020] 8 SSAR 72 
+- Appeal Board: AMLA does NOT confer jurisdiction or power on the SYC or the Appeal Board to determine substantive rights of “any interested person” (i.e. any 3Ps) other than the parties to the proceeding (i.e. husband and wife in the marriage)
+
+
+*DECISIONS OF SYC OR MUIS APPEAL BOARD ARE FINAL 
+Decision of Syariah Court or Appeal Board is final and cannot be challenged, appealed against, reviewed or called into question in any
+Court and may not be subject to any Quashing Order, Prohibiting Order, Mandatory Order or injunction in any court on any account (s 56A AMLA)
+
+See Mohamed Yusoff bin Mohd Haniff v Umi Kalsom bte Abas [2010] 3 SLR 481 - High Court dismissed application for judicial review of a
+Syariah Court order.
+
+
+*Muslim inheritance 
+INTRODUCTIONS 
+What you are expected to know:
+- Who comes under Muslim law of Inheritance? What is Faraid?
+- What are the basic restrictions of a Muslim will?
+- Which Court has jurisdiction over disputes in cases involving Muslim estates? 
+- What is the approach taken by the Courts in handling such disputes? Shafeeq’s case
+
+What you are NOT expected to know:
+- how to calculate the share apportionments between beneficiaries under Hukum Faraid
+- drafting of Muslim estate planning instruments
+
+Inheritance laws in Singapore
+Non-MuslimMuslimIntestate Succession ActAdministration of Muslim Law Act (AMLA)
+(ISA does not apply) Wills Act Wills Act (only as to formalities) Section 23 Civil Law Act S 23 CLA not applicable to Muslim willsProbate and Administration Act Applicable (on court application)CPF ActApplicable (on nominations)Legitimacy ActChildren conceived out of marriage are not beneficiaries Adoption ActAdopted children do not inherit automaticallyInheritance (Family Provisions) ActNot applicable to Muslims Insurance Act on Revocable NominationsApplicable (since 2017) 
+Note that the prescribed shares are not found in the AMLA 
+
+*MUSLIM LAW OF INHERITANCE (FARAID – DEFAULT WHEN THERE ARE NO ISLAMIC PLANNING INSTRUMENTS) 
+Distribution according to Muslim law is compulsory for Muslims in Singapore 
+IF THERE IS A WILL:
+Section 111 AMLA: Distribution by will ...to be in accordance with Muslim law
+(1) “... no Muslim domiciled in Singapore may, after 1 July 1968, dispose of his or her property by will except in accordance with the provisions of and subject to the restrictions imposed by the school of Muslim law professed by him or her.
+(2) Nothing in this section affects — 
+        (a) the provisions of the Wills Act, other than s 3 thereof;
+(b) the provisions of the Insurance Act;
+(c) the provisions of the Probate and Administration Act; or
+(d) the will of a Muslim dying before 1 July.”
+IF THERE IS NO WILL:
+Section 112 AMLA: Distribution of Muslim estate to be according to Muslim law
+(1) “In the case of any Muslim person domiciled in Singapore in Singapore dying intestate, the estate and effects shall be distributed according to the Muslim Law as modified, where applicable, by Malay custom.
+(2) This section shall apply in cases where a person dies partly intestate as well as in cases where he dies wholly intestate.
+(3) In the case of a Malay dying intestate, the Court may make an order for the division of the harta sepencarian or jointly acquired property in such proportions as to the court seems fit.”
+(Shafeeq Bin Salim Talib v Fatimah Bte Abud Bin Talib [2010] SGCA 11)
+- No caselaw on the domicile requirement. 
+- Domicile requirement is slightly tricky because AMLA makes no distinction between foreigners and Singapore citizens 
+o The practice now is to apply the law of the country of origin 
+- Recall s 2 AMLA – as long as the person professes to be a Muslim, he is deemed to be a Muslim, even if he is a bad Muslim who drinks etc. 
+
+Application for Probate and Letters of Administration (for Muslims) 
+1. All grants of probate or Letters of Administration are issued by the FJC or High Courts, not SYC
+
+2. Prior to filing application for grants of probate or LOA, you MUST obtain an Inheritance Cert first from SYC. This is so regardless whether there is a will, Deed of Family Arrangement, etc. This Inheritance Cert MUST be filed together with all other papers
+
+3. The SYC will issue the Inheritance Certificate listing the names of beneficiaries and proportion of shares, based on the deceased’s school of Islamic law (majority of Singaporeans are Shafii)
+
+4. When filing the application for grant of probate or LOA, also submit any will or other instruments such as Hibah (gift), Nuzriah (vow) and Deed of Family Arrangement
+
+5. When filing out the Schedule of Assets, do know what does and does NOT fall within the pool of assets to be distributed (exclude joint tenancy, CPF (if already nominated))
+
+For Muslims, just like everyone else, the grant of letters of administration/probate must be applied for at the FJC. But special requirements apply – you need an Inheritance Certificate from the SYC. 
+
+Section 113 AMLA: Application for probate and letters of administration
+- “In all applications for probate and letters of administration the affidavit supporting the application shall, in the case of a deceased Muslim, state the school of law (Mazhab) which the deceased professed ...”
+
+Section 115(1) AMLA: Inheritance Certificate 
+- The SYC will issue an Inheritance Certificate setting out the persons entitled to the estate of the deceased, and in what proportion.
+- This Inheritance Certificate must be submitted with all other relevant documents when filing for Grant of Letters of Administration at the FJC.
+
+Online Application via www.syariahcourt.gov.sg (you can do a trial calculation at any time) 
+
+Who are the prescribed beneficiaries? 
+Prior to Islamic Law – based on cultures of ancient Arabs –
+- Nearest male relatives
+- Females excluded 
+- Descendants preferred to ascendants (i.e. Parents excluded)
+
+Under Islamic Law, main changes – 
+- Husband or wife entitled to inherit 
+- Females could inherit 
+- Parents could inherit 
+- General Rule: a daughter is given ½ of the share of a son.
+- Note: You are NOT required to know the exact shares entitlement of each beneficiary (father, mother, son, daughter, brother etc.) as this can be done via the online calculator.
+
+Male heirs generally receive more than the female heirs.
+- But with rights, comes responsibility.
+- A male who chooses to accept the extra inheritance portion must realise that the rights, comes with added responsibility. 
+- This being the responsibility for the male member to provide for the female member’s living and to secure their welfare. 
+- It is now possible for males to renounce their double shares voluntarily 
+o One would argue then should the male not be ready to shoulder this right, they may consider renouncing their additional portion and instead share it with their female relatives. 
+o Such an act of renunciation and redistribution which is agreed upon by the heirs’ consensus is allowed under Islamic law as declared by the Fatwa Committee of MUIS
+
+Baitulmal (General Endowment Fund) – s 57 AMLA 
+An institution that acts as trustee for the Muslims, which consists of money and property received from the deceased’s estate in certain circumstances.
+
+It looks after assets from which members of the Muslim public could benefit – 
+- In Singapore, MUIS administers Baitulmal. 
+- Baitulmal NOT applicable where the deceased was from Hanafi school of Islamic law
+
+Circumstances where a share of the estate of a deceased person goes to Baitulmal:  
+- No rightful beneficiary to estate (e.g. a single person with no living relatives)
+- No claimant to the estate 
+- Example: 
+o A convert who dies leaving only non-Muslim heirs and did not provide for this under the will.
+
+But can appeal for MUIS to “return” the share going to MUIS, based on hardship.
+
+*MUSLIM WILLS 
+Important to know – the 1/3 rule 
+- The testator can give only up to 1/3 of his estate in their will (Rationale in Quran: testator’s primary obligation is to his family, so 2/3 is reserved to them)
+- The Testator cannot give any part of the 1/3 to his existing Faraid beneficiaries, who are already entitled to some part of the remaining 2/3 via Faraid
+- But the 1/3 can be used to top up the shares of existing Faraid beneficiaries (like wives and daughters), but only with the consent of other living beneficiaries 
+- Anything beyond 1/3 (to non-Faraid beneficiaries) requires the consent of the other living Faraid beneficiaries
+- In practice, the 1/3 is usually for: 
+o Adopted children, child out of wedlock, stepchildren/step-parent, non-Muslim family/friends, charity 
+o This could apply for converts whose remaining family are non-Muslim
+
+Formalities – must comply with the Wills Act, e.g. 2 witnesses 
+- So far, no challenge in court whether both witnesses must be male Muslims
+o This is a requirement under Muslim law, but nothing about this is stated in the Wills Act 
+
+Application of Wills Act 
+Section 3(1) Wills Act does not apply to Muslims in terms of distribution BUT Muslim Wills must comply with the formalities in Wills Act: 
+- Section 4 – Capacity (above 21 years old except for soldier in actual military service or mariner/seaman as per section 27) 
+- Section 6 – Execution in Writing 
+- Section 10 – Witnesses cannot be a beneficiary or a spouse 
+- Section 13 – Revoked by marriage 
+- Section 16 – Alteration not valid 
+- Section 28 – Rectification of Will by Court based on clerical error or failure to understand Testator’s intention
+
+Formalities of Muslim Wills 
+Under Muslim Law 
+- Appointment of Executor and Trustee
+o Executor should be (1) Muslim; (2) Adult; (3) Sane; (4) Free of irreproachable character; and (5) Fit person to perform duties entrusted to him. (Note: so far, no challenge in Court on this)
+o NB: NO NEED FOR EXECUTOR TO BE MUSLIM ACCORDING TO MUIS’ WEBSITE!
+o Only need to fulfil legal requirements to be executor: (1) 21 years’ old, (2) of sound mind and (3) not an undischarged bankrupt
+o An executor can also be a beneficiary under the will, as long as legal requirements are fulfilled
+o Normally, executors can be: family member, a friend, husband/wife, a professional executor, like a licensed trust company or lawyer
+
+- Witnesses
+o 2 witnesses who are Muslim males (no known challenge in Court)
+o Instructor believes that the courts will accept as long as formalities in Wills Act are complied with – Muslim law does not bind FJC 
+
+- Quantum of assets and to whom 
+o Can bequeath up to 1/3 of estate 
+o Must be to non-Faraid beneficiaries 
+* Adopted children 
+* Stepchildren/step-parents 
+* Child out of wedlock * 
+* Unrelated third parties (e.g. friends, charitable organizations)
+o The remaining 2/3 will be inherited as per Faraid rules 
+
+Examples of invalid Muslim wills 
+1) “I give everything to my Wife, in accordance with Muslim Law, and no one can object to this’’
+- Cannot give whole thing to wife, unless the other Faraid beneficiaries consent (assuming there are other beneficiaries). If no other beneficiaries, then Baitulmal will have a share.
+- Adding “in accordance with Muslim Law” is ineffective to make an invalid Muslim will a valid one
+
+2) “If I do not return from Haj, my house shall belong to my adopted Daughter, with my other children getting nothing”
+- Unlike civil law, you CANNOT disown or disinherit your children
+- You can give something to your adopted daughter, but only up to 1/3 and not at the expense of your lawful children. Can give more than 1/3 but would require consent of all beneficiaries
+
+3) “I give 1 house at Jalan Avocado (valued at $3M) to my first Daughter, my other house at Banana Road (valued at $2M) to my second Daughter and my condo at Coconut Drive (valued at $1M) to my only Son”
+- This is not allowed because the son and daughters are Faraid beneficiaries and would accordingly receive 2/3 of the total estate, so not allowed to further will things to them (by default) 
+- Would be allowed if all 3 of them consented to this arrangement in writing (to prove consent) via a Deed of Family Arrangement
+
+*MUSLIM INHERITANCE IN CIVIL COURTS (CASES) 
+Types of disputes in the civil courts
+- Disputes on who are the lawful beneficiaries.
+- Disputes on which assets fall within “the estate of a Muslim”.
+- Disputes on how the assets are to be distributed.
+
+What is the approach taken by Civil Courts in dealing with Muslim Law of inheritance issues.
+
+Muslim Law is part of the law of the land: LS Investments Pte Ltd v MUIS [1998] 3 SLR 369
+- Property had been sold to LS Investments by a Trustee under the Will of Sharifah Shaikah Binte Omar Aljunied in 1930s. 
+- MUIS lodged a caveat on the grounds that property was a wakaf (gift to a charitable trust) and therefore, under sections 58 to 62 AMLA, the legal title to wakaf properties vested in MUIS
+- Section 59 AMLA: “all property subject to section 58 shall if situate in Singapore vest in the Majlis ..........” 
+- Issue: Whether the property was a wakaf. If it were, then the sale was invalid as no good title passed.
+- Elements required for a wakaf are:
+o i. a dedication of property for pious, religious, or charitable purposes;
+o ii. inalienability of subject matter; and
+o iii. a permanent dedication.
+- Court: whether or not it is a wakaf cannot be based on common law but on Muslim Law. This is because it is not the same as common law charitable trust.
+o “Muslim Law need not be proved like foreign law. Muslim law is part of the law of the land which the Court would take cognizance” 
+o Note: while the English translation of wakaf is a charitable trust, it is wrong to apply common law of trusts to a wakaf. Instead, as was done by Justice Judith Prakash at the High Court below, the Court must apply Muslim Law in determining whether a wakaf had been created. 
+o Approach in LS Investments followed Justice Aedit Abdullah in MUIS v Saeed Salman and Another [2016] SGHC 4.
+
+SYC rules on matters of Islamic law; HC rules on questions of fact – Re Will of Shaikh Ahmad Bin Abdullah Wahdain Basharil [2002] SGHC 165: Inheritance Certificate
+- SYC issued Inheritance Certificate, repeating what was issued by the Indonesian court. Awarded shares to one wife and 6 children 
+- It turned out that there was a challenge by the other wives (there were 5) and their 13 children
+- The case went before the high court – the key issue was a question of fact, whether the testator had been married under the Muslim law to the second to fifth wives 
+o If the wives were validly married, then the 13 children would be entitled to inherit 
+- Takeaways from this case:
+o The Syariah Court’s role is to issue an Inheritance Certificate based on the information provided by an applicant. 
+o But if there is a challenge, then the *High Court is the forum for adjudication – based on Muslim law which is part of the land
+
+You can validly contract out of Muslim inheritance law – Shiraz Abidally Husain [2007] SGCA 16: Letter of Wishes and Deed of Family Arrangements
+- Way before anything happened, the deceased wrote a will. 
+- Sometime later, the deceased, before he passed away, held a family meeting. He said he wanted the children to have an equal share (daughters and sons all same). 
+- Initially all agreed, and deceased wrote a Letter of Wishes to give his monies equally to all 6 children. 
+- Deceased died, and then the children entered into a Deed of Family Arrangements, agreeing to comply with the Letter of Wishes. 
+- Naturally, one of the sons later challenged and said he wanted his double share under default Muslim law, relying on the old will before the Letter of Wishes was written 
+- Issue – was the agreement among the 6 children enforceable or not? 
+- CA: There was an agreement among the children, and this agreement was not inconsistent with Muslim law and was thus binding on them 
+o Takeaway – if you knowingly contract out of Muslim law, you are bound by that subsequent contract 
+
+Islamic law (e.g. Hibah / deed of gift) does NOT override other legislation (e.g. HDB Act) – Haja Maideen v Roshan Begum [2017] SGHC 164
+- Facts 
+o HDB flat was solely owned by the Mother
+o June 2011: the Mother passed away in India and left behind two sons and one daughter. 
+o Elder son wanted to sell the flat and divide the proceeds according to Hukum Faraid. 
+o Daughter refused to move out as she had been living in the flat. 
+o Daughter relied on Hibah signed by the Mother in India, giving her the entire flat.
+* Context - Hibah ruqba – It is a gift conditional upon death. It is effected when the giver says, “This property is yours as ruqba, if you should die before me, the property becomes mine and if I die before you, the property becomes yours”
+o Elder son argued that the Hibah was invalid.
+- HC: 
+o Refused to comment on whether the Hibah was valid or not 
+o Instead cited s50 HDB Act – transfer of flat without consent of HDB was void. 
+o Thus, MUIS’ opinion that the hibah was valid under Muslim law was pointless and not binding on this court which had full jurisdiction to decide on the matter in issue
+- Takeaway – no matter what instrument you use in Muslim law, it must be seen in light of other legislation 
+
+Joint tenancy (right of survivorship) vs Muslim inheritance – Shafeeq Bin Salim Talib v Fatimah Bte Abud Talib [2010] SGCA 11
+- Facts 
+o 1998 - Husband (H) and Wife (W) purchased property as Joint Tenants (JT) 
+o 2005 - Upon H’s death, W became sole owner under joint tenancy arrangements. 
+o W then transferred property to herself and the 2 children. 
+o H’s brother sued W for half of the property. 
+* Relied on s 112 of AMLA and 2007 Fatwa – that joint tenancy is not recognized under Muslim Law (i.e. each co-owner of a joint property had a fixed share which should be distributed to his legal beneficiaries)
+o Issue: Whether the doctrine of the right of survivorship for properties held under a joint tenancy applied to Muslims
+- HC (reasoning not upheld on appeal): 
+o The right of survivorship applies to Muslims as to anyone else 
+o Land Titles Act applies to all properties in Singapore.
+o Issue was not on a question of Muslim law, but as to whether the property formed part of the deceased’s estate. 
+* Muslim law not applicable – section 112 AMLA not applicable as said property was not within the deceased’s estate to be distributed.
+o Administrators appealed.
+* Argued that “the concept of joint-tenancy and the operation of right-survivorship is repugnant to Muslim law as it increased her (deceased’s wife) share in the estate”.
+- CA: 
+o Agreed with the outcome, but disagreed with HC’s suggestion that the court did not have to take into account Muslim law 
+o “The question as to what assets constitute the estate and effects of a deceased Muslim has first to be determined according to his personal law, ..... and not according to the common law.” --> *first point of call is Muslim law
+o Under Land Titles Act (civil law), there is no ‘passing‘ of the property. Instead, property had ‘morphed’ from joint into sole-ownership upon death of joint owner, hence nothing to distribute. Therefore, s 112 AMLA did not apply
+o Note: CA studied authorities on position of joint-tenancy in Muslim Law. A joint tenancy is now a validly recognized contract under Muslim law so the law between civil and Muslim law is harmonized
+
+CPF moneys are not part of Muslim deceased’s estate (if nomination is made, it is now considered hibah/gift, so it will go to the CPF nominees) – Saniah Ali v Abdullah Ali [1990] 1 SLR(R) 555
+- Facts
+o The Deceased made a nomination under s 24(1) CPF Act (now section 25(1)) naming his stepsister, Saniah, to receive all his CPF monies on his death 
+o CPF monies duly paid to Saniah by CPF Board 
+o Under Faraid, the deceased’s brother, Abdullah, was entitled to the whole of the deceased’s estate. Abdullah obtained an inheritance certificate from SYC that he was entitled to the deceased’s entire estate.
+o Note – under CPF Act, the nominee would receive all the monies 
+o But there was a fatwa at the time that said that the nominee would only hold the CPF monies as a trustee on behalf of the Faraid beneficiary 
+- Issue: Whether Saniah was entitled to retain the entire amount of the deceased’s CPF monies 
+o Abdullah’s argument was that under s 112 AMLA, the estate of any Muslim dying intestate would be distributed in accordance with Muslim Law, which would mean that the CPF monies would form part of the assets of the Deceased. He relied on the then prevailing fatwa that a nominee holds the monies on trust of the Faraid beneficiaries.
+
+- Held:
+o CPF moneys (which are nominated) do not form part of the estate of the deceased (this is stated clearly in CPF Act) and s 112 of AMLA is not applicable
+o There is no asset here on which Muslim law can operate 
+o No conflict between the CPF Act and the AMLA. 
+o “moneys in the CPF ... are specifically excluded from the estate of the deceased, and that being so, the moneys do not form part of the estate of the deceased member and are therefore not subject to s 112(1) of the AMLA; in other words, that section does not apply to those moneys”. 
+o A Fatwa is merely an opinion of the Fatwa Committee of the Majlis (MUIS) and not binding on the Court 
+
+- Fatwa on CPF Monies was subsequently revised
+o Fatwa on CPF was updated on 3 August 2010 to permit nomination as a new form of hibah (gift) 
+o Under the new Fatwa, the CPF member could choose to nominate or distribute according to Faraid, or exercise both options together 
+o CPF nomination equals to hibah (gift) 
+o Must take into consideration the financial situation of his/her beneficiaries and who is in need of the money. 
+o Nomination cannot be made with the intention of denying the rights of other beneficiaries. (How would this apply in the Saniah situation)? 
+o If no nomination, Faraid applies.
+o Nomination can be changed (e.g. upon divorce, death of nominee).
+o Position between civil law and Muslim law is now harmonized.
+
+Maxims to remember for Muslim in estate planning
+- Wishes may not be carried out if the Will or other instruments (e.g. Hibah/Nuzriah) does not comply with Muslim Law (e.g. 1/3 rule for Muslim wills). 
+- Even if the wishes comply with Muslim Law, they need to be consistent with other laws of the land (e.g. HDB requirement).

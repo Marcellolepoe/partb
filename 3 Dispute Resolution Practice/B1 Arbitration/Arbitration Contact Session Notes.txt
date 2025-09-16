@@ -1,0 +1,116 @@
+Arbitration Contact Session Notes
+No court can force any party to arbitrate unless the court is satisfied that there is an arbitration agreement between the parties – IT IS A CONSENSUAL MEANS OF RESOLVING DISPUTES
+
+Arbitration agreement – in the form of an arbitration clause in a contract or in a separate agreement. It must also be in writing
+
+HKL Group v Rizq: 
+“Any dispute shall be settled by amicable negotiation between two Parties. In case both Parties fail to reach amicable agreement, all dispute out of in connection with the contract shall be settled by the [SIAC] under the rules of [SIAC] which awards shall be final and binding both parties. Arbitration fee and other related charge shall be borne by the losing Party unless otherwise agreed.”
+--> can add a timeline to the first tier for greater certainty
+
+Drafting arbitration clauses:
+* Certainty regarding the identity of the parties.
+* Certainty that the parties have agreed to submit their disputes exclusively to arbitration.
+* Certainty as to the subject matter or scope of arbitrable disputes.
+* Certainty of the seat of arbitration. 
+--> (1) you choose the court with supervisory powers over the conduct of the arbitration, 
+--> (2) the law that governs the procedural conduct of the arbitration (lex arbitri)
+--> e.g. if Singapore is the seat, Singapore law applies to govern the conduct of the arbitration, [if domestic parties] Arbitration Act applies – court generally has more power to intervene, [if foreign element present] International Arbitration Act – courts are less interventionist 
+--> (3) once an arbitration award is produced by the tribunal, only the seat court has the power to set aside or annul the award (no other court in the world can set aside). Cf application for resisting enforcement of award, which can occur in any other country
+* Certainty as to the arbitral institution administering the arbitration, if any (institutional vs ad hoc arbitration).
+* Certainty as to number of arbitrators—avoid having a panel of two arbitrators.
+* Stipulate the language of proceedings.
+* Stipulate the governing law of the arbitration agreement (governs the validity of the arbitration clause, cf lex arbitri which governs the procedural conduct of the arbitration) 
+--> if non-express, then likely the law governing the main contract, or the law with the closest and most real connection with the arbitration agreement – generally the law of the seat
+* Stipulate to what extent parties agree to go for expedited arbitration (which is a feature available under certain institutional rules).
+
+Lex arbitri (e.g. IAA in Singapore) will give effect to the rules picked by parties (e.g. SIAC rules) unless those rules conflict with a mandatory provision of the lex arbitri – s15A Singapore’s IAA
+
+Guidelines and Best Practices do not have the force of law, but are frequently used instruments (IBA Guidelines and Rules)
+
+Arbitration Act (domestic parties) vs International Arbitration Act (foreign party involved), 3 things to be aware:
+1. During stay of court proceedings in favour of arbitration (where there is an arbitration clause in the contract), in the IAA (s6) – court SHALL stay the court proceedings in favour of arbitration once requirements for stay of court proceedings are satisfied
+o cf AA (s6) – court MAY stay the court proceedings in favour of arbitration
+
+2. Under AA (s45), parties have a power to refer a question of law to the courts that has arisen during arbitration proceedings
+o Cf IAA there is no such possibility, the tribunal will decide on the question of law
+
+3. Under AA, after award has been released, you can appeal against the award on a question of law under s49 (subject to various requirements)
+o Cf IAA there is no such possibility, if tribunal has a question of law wrong, too bad (but this may change in the future)
+
+NB: 2 domestic parties can still agree for the IAA to apply (while opting out of AA). See s5 IAA
+
+Flowchart
+A. Arbitration or litigation?
+B. If arbitration, institutional or ad hoc arbitration?
+C. If institutional arbitration, which seat and which institution? 
+D. Should I have a multi-tiered DR clause? If so, how should it look like?
+
+SICC (court) compared to SIAC – quite fast and costs are generally lower than arbitration. Can also have procedural flexibility and confidentiality. HOWEVER, in terms of enforceability, the ability to enforce the award across 170 different jurisdictions is more favourable compared to a SICC court judgement.
+- SICC court judgement can be enforced more easily in common law jurisdictions, but not in civil law jurisdictions
+- China is a party to the NYC, and also has an agreement with HK regarding interim relief for arbitral awards (which would strengthen the potential for enforcement against the Chinese counterparty)
+
+
+Relevant standards of review by SG courts:
+
+1. SG court’s review of tribunal’s decision on its own jurisdiction (either as a preliminary issue under s 10(3) IAA or at setting aside stage after award is released) – standard is de novo and is not bound by the tribunal’s decision
+
+2. SG court’s deference to tribunal – only for issues relating to procedure. The court will NOT grant deference to tribunal on issues of jurisdiction – it will be reviewed de novo (i.e. point 1 above)
+
+3. When determining if grounds for refusing enforcement of award are satisfied, the court will undertake a fresh examination of the issues alleged – standard is de novo
+o If court finds that the tribunal ascertained the seat of arbitration wrongly, it is akin to a jurisdictional defect so the court will interfere and not allow enforcement of the award (ST Group v Sanum Investments)
+
+4. For application of stay of court proceedings in favour of arbitration, SG court will only conduct a prima facie examination of whether a dispute subject to the arbitration agreement exists and whether there is a valid and binding arbitration agreement between parties
+--> SG court would only consider the existence, scope and validity of the arbitration agreement on a prima facie basis (cf definitive ruling based on balance of probabilities)
+
+
+Relevant timings for applications:
+- If a party wants to object to the tribunal’s jurisdiction, he must do so before the submission of the statement of defence (Art 16(2) MAL)
+
+- If a party wants to apply for stay of court proceedings in favour of arbitration, it must be done before the submission of the first statement in court on the substance of the dispute (Art 8(1) MAL)
+
+- Application to set aside award must be done within 3 months of receiving the award – NO EXTENSIONS! (Art 34(3) MAL)
+
+
+*For corporate insolvency issues under IRDA – it may or may not be arbitrable, depending on the SUBSTANTIVE ISSUE of the dispute (Larsen)
+o If the claim relates to a pre-insolvency claim, it is arbitrable
+o If the claim arises BECAUSE of the insolvency regime (e.g. undue preference) or arises because of the onset of the insolvency regime, then it is NOT arbitrable.
+
+
+Party challenging an arbitration award based on rules of natural justice must establish:
+a. Which rule of natural justice was breached
+b. How it was breached
+c. In what way the breach was connected to the making of the award
+d. How the breach prejudiced its rights
+o Darius: Must show that if the breach did not occur, it could have reasonably made a difference to the outcome (if so then last element to establish breach of natural justice is satisfied)
+o No need to show that it would have made a difference
+
+But the right to challenge based on breach of natural justice is NOT an unlimited right under Art 18 MAL – it is limited by considerations of reasonableness and fairness
+--> question the court will ask is whether proceedings were conducted in a manner which was fair – did the actions of the tribunal fall within a range of what a reasonable and fair-minded tribunal in those circumstances would have done
+--> 2 guiding points:
+(1) Tribunal’s decision can only be assessed by reference to what was known at that particular point in time – no benefit of hindsight
+(2) SG court will give a margin of deference to the tribunal’s decision in matters of procedure, and will not intervene just because they think something should have been done differently
+
+2 pillars of natural justice (CVV):
+1. Parties must be given adequate notice and opportunity to be heard
+a. Each party must be given a fair hearing
+i. Tribunal’s failure to apply its mind to the essential issues arising from the parties’ arguments --> HIGH BAR TO SHOW
+* The court accords the tribunal “fair latitude” to determine what is an is not an essential issue
+* The fact that an award fails to address one of the parties’ arguments expressly does not, without more, mean that the tribunal failed to apply its mind to that argument: there may be a valid alternative explanation for the failure
+* An award will therefore not be set aside on the ground that the tribunal failed to apply its mind to an essential issue arising from the parties’ arguments unless such failure is a clear and virtually inescapable inference from the award 
+--> i.e. can see from the award clearly (virtually inescapable) that there was a failure to apply its mind
+
+ii. Breach of fair hearing can also arise from the chain of reasoning the tribunal adopts in its award --> HIGH BAR TO SHOW
+* The tribunal’s chain of reasoning, to comply with fair hearing rule, must be:
+(i) One which the parties had reasonable notice that the tribunal could adopt, AND
+(ii) One which has a sufficient nexus to the parties’ arguments
+* A party has reasonable notice of a particular chain of reasoning and of issues forming the links in that chain if:
+(i) It arose from the parties’ pleadings, or
+(ii) It arose by reasonable implication from their pleadings, or
+(iii) It is unpleaded but arose in some other way in the arbitration and was reasonably brought to the party’s actual notice, or
+(iv) It flows reasonably from the arguments actually advanced by either party and is related to those arguments. 
+--> gives a lot of room for the tribunal for its reasoning
+* To set aside an award on the basis of a defect in the chain of reasoning, a party must establish that the tribunal conducted itself either irrationally or capriciously such that ‘a reasonable litigant in his shoes could not have foreseen the possibility of reasoning of the type revealed in the award’
+
+b. Each party must be given a fair opportunity to present its case
+
+2. Right to have a fair and impartial decision maker

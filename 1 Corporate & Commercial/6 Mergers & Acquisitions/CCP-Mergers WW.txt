@@ -1,0 +1,1468 @@
+
+
+
+Mergers & Acquisitions
+
+2023 Part B Course and Exam
+Asher Lee Jia Hern
+
+
+
+1 INTRO TO M&A 
+1.1 Structural Considerations
+1. Contents
+a) Methods of Acquisition
+b) Shares or Assets
+c) Parties
+d) Acquisition of Shares 
+i) Additional Issues
+e) Consents from Third Parties
+f) Tax Savings
+g) Documentation
+ 
+2. Share or Asset sale?
+a) To acquire a business – either:
+i) Share sale: acquire the shares of the corporation that owns/runs the business, or 
+ii) Asset sale: acquire the assets which the target owns, taking over the business. 
+b) In both cases, the business is acquired.
+c) Considerations for deciding:
+i) Target has More than One Business
+(1) Share sale: you end up with the other businesses of Target 
+(2) Asset sale: you can pick just business lines you want.
+ii) Merger of Operations
+(1) Consider whether there will be redundancies and overlaps in Target
+(2) Share sale takes everything in Target – will need to consider how to merge the operations of overlapping departments/segments. 
+(3) Asset sale may be preferable to avoid overlaps. 
+(4) Depends on commercial goals and intent.
+iii) Preservation of Status Quo
+(1) Share sale: simple, just upstream ownership that changes.
+(2) Asset sale: more complicated. each asset must be identified and transferred.
+(a) Land – conveyancing
+(b) Ownership of ships, aircraft, etc 
+(c) Business Contracts – novation or assignment.
+(i) Assignment – can only transfer rights, not obligations.
+(ii) Novation – can transfer both. 
+(d) Employment contracts – change of employer.
+iv) Legal / Regulatory Restrictions
+v) Consents / Approvals Required
+(1) Share sale – whether change of ownership is allowed.
+(2) Asset sale – whether novation/assignment of contracts is allowed. 
+vi) Execution Risks – Practical Considerations
+(1) Asset sale – cherry picking assets, a lot more planning and implementation work involved. Identify every asset, effect legal transfer, counterparty consent, etc.
+
+3. Parties
+a) Incapacity of Sellers
+i) Whether the seller is in a position to sell their shares/assets. Good title? Bankrupt? Dealing with an estate? Trust?
+ii) For asset sale, note CA S 160 – cannot dispose of substantially the whole of the company’s property without shareholder approval.
+b) Many shareholders
+i) Listed company issues – how to transact with many shareholders? 
+ii) Takeover Code – rules on making general offers to shareholders.
+iii) Scheme of Arrangement under CA s 210-212
+(1) Convene SH meeting with court’s approval.
+(2) Shareholders’ Approval – 75% in favour/50% present and voting.
+(3) Buyer can then obtain all the shares in the company. 
+
+4. Acquisition of Shares 
+a) Prohibited financial assistance – CA s 76
+i) No financial assistance in buying own company’s shares.
+ii) Only applies to public companies and their subsidiaries.
+iii) Quite typical in a M&A for the seller to provide assistance in some form to buyer to buy their own shares in a financing arrangement – not allowed.
+
+S 76(1) CA: a public company or a company whose holding company or ultimate holding company is a public company must not, whether directly or indirectly, give any financial assistance for the purpose of, or in connection with —
+(a)	the acquisition by any person, whether before or at the same time as the giving of financial assistance, of —
+(i)	shares or units of shares in the company; or
+(ii)	shares or units of shares in a holding company or ultimate holding company (as the case may be) of the company; or
+(b)	the proposed acquisition by any person of —
+(i)	shares or units of shares in the company; or
+(ii)	shares or units of shares in a holding company or ultimate holding company (as the case may be) of the company.
+
+S 76(2) CA: A reference in this section to the giving of financial assistance includes a reference to the giving of financial assistance by means of the making of a loan, the giving of a guarantee, the provision of security, the release of an obligation or the release of a debt or otherwise
+
+b) Validity of issue of shares – 
+i) Need shareholders’ approval for power to issue shares.
+ii) CA s 161: despite anything in the constitution, the directors shall not, without the prior approval of the company in general meeting, exercise any power of the company to issue shares.
+
+5. Consents from Third Parties
+a) Right of First Refusal
+i) Private Company – all have transfer controls.
+ii) Constitution – could be provided for in the constitution.
+iii) Waiver is generally required.
+b) Foreign Parties/Assets – regulatory requirements.
+i) Exchange control restrictions under foreign laws
+ii) Foreign investment approvals
+c) Acquisition of Substantial Assets
+i) CA s 160 – shareholder approval for disposal of company assets.
+ii) Listed companies – 
+(1) major or significant transactions may need to be approved.
+(2) related party transactions need to be approved.
+d) Other Third Party Approvals
+i) Mortgagee Bank approval.
+ii) Jurong Town Corporation – is JTC approval required? Check contracts.
+iii) Monetary Authority of Singapore 
+iv) Merger Control – antitrust filings, competition clearance?
+v) These issues should be turned up during due diligence. Identify change of control provisions to obtain the list of approvals required. 
+(1) Buyer will do this. But seller may also do that before putting up for sale.
+
+6. Tax issues – work with tax lawyers or tax accountants. May affect the choice of structure.
+a) Stamp Duty – transfer of shares or land. Rate differs for the two.
+i) Reconstruction and Amalgamation – relief may be available in some cases.
+ii) Transfer between Associated Companies – relief may be available in some cases.
+b) Income tax
+i) Carrying forward losses and such.
+c) Goods & Services Tax
+i) Not payable for transfer of shares, sometimes payable for assets.
+
+7. Pricing methodology
+a) Fixed consideration amount 
+b) Post-completion accounts
+i) Parties agree on a preliminary purchase price by agreeing on an estimate of what the equity value will be as of the date of completion. 
+ii) The process for establishing the final purchase price typically begins immediately after completion has taken place and the preliminary purchase price has been paid. At this time, one of the parties (normally the buyer since they are now in control of the target company) is obliged to draw up completion accounts.
+iii) The other party (normally the seller) is typically given the opportunity to review and either accept or dispute the calculations. If necessary, a special dispute resolution mechanism can be used to determine the final content of the completion accounts. Once the final purchase price has been established, any difference between the preliminary purchase price paid at completion and the final purchase price is settled between the parties through a purchase price adjustment
+
+c) Locked box accounts
+i) Parties both agree on the final purchase price (at the locked box date) using the company’s most recent audited financial statements and there is no post-completion adjustment. 
+ii) Because of this, the buyer will seek to safeguard the value of the target company in the period between the locked box date and the date of completion by including an obligation in the share purchase agreement (SPA) for the seller to indemnify the buyer for any undue leakage or extraction of value from the business that takes place during the locked box period (up until completion). 
+iii) On the flip side, because the seller continues to support the business during the locked box period, the seller may seek some form of compensation, such as an interest on the purchase price, for an increase in value that happens during the locked box period
+
+
+8. Contingent value rights (earn-outs) 
+a) Acquisition structure to bridge valuation gap --> where buyer and seller have different expectations for the business’ future performance
+b) Buyer and seller share the risk in the future business’ performance --> e.g. buyer pays portion of purchase price upfront, and the remaining balance is paid based on the business’ performance over a set period of time (measured usually against predetermined targets like earnings before interest, EBITDA, revenue or other KPIs)
+
+1.2 Road Map and Documents
+9. Road map
+a) Identifying the target
+b) Due diligence – deserves a lesson on its own but suffice to know: 
+i) Look out for change of control provisions.
+ii) Prohibitions or restrictions to work around.
+iii) Look out for anything the buyer (client) will want to know about. Speak with the client and their team, know their objectives, post-acquisition plan, to have a better idea.
+iv) Look out for anything that may kill the deal.
+c) Negotiations/documentation
+i) Sale and Purchase Agreement (SPA)
+ii) Disclosure Letter
+d) Completion/Integration
+
+10. Documentation – Sale and Purchase Agreement. 
+a) The key parts of the SPA (which are negotiated) are:
+i) Representations and Warranties e.g., financial state, no litigation, etc.
+ii) Indemnities – e.g., on issues turned up in DD, like environmental issues.
+b) Stages of Agreement
+i) Signing – when parties enter the contract
+ii) Completion – when transfer of the subject matter takes effect.
+(1) Before completion, conditions precedent must be met.
+(2) If not met, parties can call off the deal.
+
+11. Stages / Documentation in Acquisition – what are the usual pieces of paper flying about?
+a) Preliminary – engagement letters with advisors, gives them their mandate to act.
+i) E.g., financial advisor for seller.
+b) Commencement of Preliminary Talks
+i) NDA / confidentiality agreement before talks begin.
+ii) Information memorandum – Prepared by seller with its advisors, to give potential buyers an idea of the deal. Can be very long or very short.
+iii) Vendor’s due diligence – the seller may want to have a better idea of their own business before going into the deal. Providing this information to potential buyers also speeds it up.
+iv) Term sheet – non-binding and states most pertinent commercial terms. 
+(1) Some parts may be binding – exclusivity, confidentiality.
+v) Timetable of the deal.
+c) Due Diligence 
+i) Data Room – physical or virtual.
+ii) Data Room Rules & Procedures.
+(1) Seller will need to organise the data room for the Buyer.
+iii) Due Diligence Questionnaire. 
+iv) Indexing of all the documents in the room.
+d) Sale and Purchase Negotiations – there may be a range of agreeable prices by now.
+i) Sale and Purchase Agreement
+ii) R&W and Indemnity (e.g. tax indemnity) will be negotiated.
+(1) R&W usually represent an ideal state of affairs for the target.
+iii) Disclosure letter
+(1) Prepared by the seller’s team
+(2) The DL cuts back on the R&W, disclosing information to buyers, forming an exception to the R&W provided. 
+iv) Limits on Liability – seller will want to limit their liability to R&W and indemnity.
+(1) Caps on quantum, time limits (e.g. 3 years)
+e) Conditions Precedent – actual completion doesn’t take place until all are met.
+i) Shareholders’ approval?
+ii) Regulatory approval? 
+iii) Competition clearance?
+f) Completion – mechanics of completion.
+i) What’s needed to effect transfer? 
+(1) Share transfer forms / share certificate / resolutions to approve transfer
+(2) Updating of register of members and filing with ACRA
+(3) Stamp duty working sheet / Accounts / Valuation Report / stamp duty payment
+(4) For assets acquisition, appropriate method to transfer assets e.g. land/contracts (assignment/ novation), chattel (delivery or possession?)
+ii) What’s needed to “clean up” / take control E.g.
+(1) Change of directors / bank account signatories / [auditors / company secretary]
+(2) New Articles of Association?
+g) Post-Completion
+i) E.g., New share certificates
+ii) Ensure all required documents are obtained from seller.
+iii) Assume that it will be difficult to get help from seller after completion.
+
+
+2 *INTRO TO PUBLIC M&A
+1. Scope 
+a) The Take-over Code
+b) Types of take-over transactions
+c) Approvals required for take-over transactions
+d) Concert parties
+e) Merger control
+
+2.1 Take-over Code
+2. Overview
+a) Non-statutory set of rules administered by the Securities Industry Council (the “SIC”)
+i) Formed under the SFA s 138. Members are appointed by the Minister. 
+
+b) *Applies to take-overs of: [material scope]
+i) [Listco] Corporations, including foreign-incorporated companies, with primary listing on Singapore Exchange Securities Trading Limited (the “SGX-ST”);
+ii) [Registered business trusts] Registered business trusts, including foreign-registered business trusts, with a primary listing on the SGX-ST;
+iii) [Public companies with >$5m of assets] Unlisted Singapore companies with more than 50 shareholders and net tangible assets of S$5 million or more;
+iv) [Unlisted business trust with >$5m of assets] Unlisted business trusts with more than 50 unitholders and net tangible assets of S$5 million or more; and
+v) [REITs] Real estate investment trusts (“REITs”) constituted under the SFA
+
+c) Waiver of the code (via application to SIC)
+i) Circumstances for waiver:
+(1) Foreign-incorporated companies or business trusts with a primary listing on the SGX-ST;
+(2) Singapore-incorporated companies or registered business trusts with a primary listing overseas; or
+(3) Unlisted Singapore-incorporated public companies or unlisted registered business trusts which are otherwise subject to the Take-over Code
+ii) Considerations for waiving the code:
+(1) Number of shareholders/unitholders based in SG – i.e. better if few shareholders in SG affected
+(2) Extent of trading in SG – i.e. better if there is limited trading in Target taking place in SG
+(3) Whether the shareholders/unitholders in SG are protected by statutes or codes regulating takeovers outside SG in another jurisdiction.
+
+d) Take-over code applies to: [personal scope]
+i) All Offerors (individual or company, Singapore resident or not)
+ii) All acts done or omitted to be done in and outside Singapore
+
+3. If the Take-over Code is breached:
+a) Sanctions by SIC – 
+i) Private reprimand, 
+ii) public censure or, 
+iii) in a flagrant case, to further action as the SIC thinks fit, including deprivation of ability to enjoy facilities of securities market. 
+iv) In the case of advisers, SIC may also require such adviser to abstain from Code-related work for a stated period
+
+b) Referral of matter to appropriate authorities by SIC if there has been any criminal offence, whether under Companies Act, SFA or any other laws
+
+c) Fines and Payments – Where breached by a person, the SIC can require the person to pay to the holders, or former holders, of securities of the Target Company such amount as the SIC thinks just and reasonable so as to ensure that such holders receive what they would have been entitled to receive if the relevant Rule had been complied with.
+i) In addition, the SIC may make a ruling requiring simple or compound interest to be paid at a rate and for a period to be determined, including any period to the date of the ruling and until full payment is made
+
+4. Other sources of Law
+a) Companies Act (where Target Company is incorporated in Singapore)
+i) S 210 deals with schemes of arrangements
+ii) S 215 deals with compulsory acquisition – where the offeror has a right to compulsorily acquire shares in the course of a takeover
+iii) S 215A to 215J deal with amalgamations
+b) Securities and Futures Act 
+i) Part VIII contains legislative provisions relating to take-overs:
+ii) S 139 - The SIC has the power to administer and enforce the take-over code
+iii) S 140 - It is an offence to make a false offer to make a take-over offer where there are no reasonable grounds for believing that the offer can be paid up
+iv) S 295A deals with compulsory acquisition in relation to REITs
+v) Part VII contains legislative provisions relating to insider trading.
+(1) All parties in a take-over must ensure compliance.
+c) Business Trusts Act
+i) S 40A deals with compulsory acquisition in relation to a business trust
+d) SGX-ST Listing Manual
+i) Chapter 7: Continuing Listing Obligations
+(1) Rule 723 – 10% free float requirement. 
+ii) Chapter 11: Takeovers
+(1) Rule 1105 – Suspension of trading in shares of listed company on offeror and concert parties obtaining 90% of total number of shares of listed company
+iii) Chapter 13: Trading Halt, Suspension and Delisting
+(1) Rules 1307 and 1309 – Voluntary Delisting, another method of a take-over offer.
+
+2.2 Types of Take-over Transactions
+2.2.1 General offer
+
+
+5. General Offer
+a) Offeror makes an offer to all the Shareholders
+b) Board of Directors of target company must review the offer and make a recommendation to Shareholders (as soon as possible, no later than 14 days after posting of the offer document by the offeror).
+c) Offer can be made whether or not Board supports the offer.
+d) Up to shareholders if they wish to accept the offer
+e) 3 types
+i) Mandatory Offer: Offeror must make an offer for all shares of Target Company when certain thresholds stipulated in Take-over Code reached
+ii) Voluntary offer: Offeror makes an offer for all shares of Target Company on a voluntary basis i.e. this offer is not triggered by mandatory offer rules in Take-over Code
+iii) Partial offer: Offeror makes an offer for a specified number of shares (and not all) in Target Company on a voluntary basis 
+
+2.2.1.1 Mandatory offer
+6. Mandatory Offer
+a) Trigger Thresholds
+i) Triggered when Offeror acquires shares, which taken together with shares held or acquired by persons acting in concert with it (“Concert Parties”), amount to 30% or more of shares carrying voting rights of Target Company
+ii) Also triggered when Offeror and Concert Parties hold between 30% and 50% of the Target Company’s shares carrying voting rights and acquire in aggregate more than 1% of the Target Company’s shares carrying voting rights in any rolling 6-month period
+
+b) Conditions
+i) MO must be conditional upon Offeror obtaining acceptances which will result in Offeror and Concert Parties holding shares carrying more than 50% of voting rights of Target Company (MINIMUM ACCEPTANCE CONDITION).
+(1) If offeror receives sufficient acceptances to meet the MAC, the offer will be deemed unconditional and the Offeror will be entitled to keep all shares tendered in acceptance of the offer
+(2) If insufficient acceptances for MAC, the offer lapses and the Offeror will have to return all shares tendered in acceptance of the offer, and the Offeror returns to his original position pre-offer
+
+ii) If the offer is launched when Offeror and persons acting in concert with it already hold more than 50%, it is a mandatory unconditional offer.
+(1) Means the offeror will be able to keep all shares tendered to the offer.
+
+iii) Generally, no other conditions permitted except for merger control condition (see “Merger Control”)
+
+c) Offer Price (r 14.3)
+i) Offer Price must be: cash, >= best price in last 6 months
+(1) In cash or accompanied by a cash alternative
+(2) (MINIMUM PRICE THAT THE OFFEREOR MUST OBSERVE) At not less than the highest price paid by Offeror or any Concert Party for any Voting Shares during the period of the Offer (“Offer Period”) and in the 6 months leading up to the date of the announcement of the Offer (the “Relevant MGO Period”) --> the offeror is free to offer a higher price
+
+ii) Offer Period commences on the date of the announcement of the Offer or possible offer and ends on the close, lapse or withdrawal of the Offer
+
+iii) Must take into account, when determining Offer Price, the price paid for Voting Shares acquired through the exercise of:
+(1) Convertible Instruments; and/or
+(2) Rights to subscribe for, and Options in respect of Voting Shares,
+
+iv) Minimum Offer Price determined by, where applicable, calculating the highest price paid by Offeror and Concert Parties for Voting Shares acquired during the Offer Period or Relevant MGO Period through the exercise of Convertible Instruments and/or Rights to subscribe for, and Options in respect of Voting Shares
+
+2.2.1.2 Voluntary offer
+7. Voluntary Offer
+a) Conditions 
+i) Must always be conditional on Offeror and Concert Parties acquiring more than 50% of Target Company (MINIMUM ACCEPTANCE CONDITION) (same as Mandatory offer)
+ii) Unlike a Mandatory offer, a higher acceptance level condition may be stipulated (e.g. 75% or 90%)
+iii) *Other conditions may be stipulated by Offeror, e.g. shareholders’ approvals or regulatory approval where these are applicable --> main difference from mandatory offer
+(1) Must seek prior approval for these conditions from SIC.
+(2) Conditions must not be subjective i.e. fulfilment of conditional cannot be dependent on subjective interpretation or discretion of Offeror. E.g., “completion of due diligence to the satisfaction of the offeror”.
+
+b) Offer Price 
+i) Offer Price must be: cash or securities or both, >= best price in last 3 months
+(1) In cash or securities or combination of both
+(2) At not less than the highest price paid by the Offeror or any Concert Party for any Voting Shares during the Offer Period and in the 3 months leading up to the date of the announcement of the Offer (the “Relevant VGO Period”)
+
+ii) Must take into account price paid for Voting Shares acquired through the exercise of:
+(1) Convertible Instruments; and/or
+(2) Rights to subscribe for, and Options in respect of Voting Shares,
+
+iii) Methods of determining price paid for Voting Shares acquired through conversion of Convertible Instruments or exercise of Rights or Options same as for Mandatory Offer, except use Relevant VGO Period
+
+2.2.1.3 Partial offers
+8. Partial offers
+a) Partial offer is made to all shareholders, but only for a specific number or percentage of shares held by shareholders and not ALL the shares
+
+b) *SIC’s consent must be obtained
+
+c) Partial Offers for < 30% (Rule 16.2)
+i) SIC will normally grant consent for Partial Offer which does not result in Offeror and Concert Parties holding ?30% of the Voting Shares
+
+d) Partial Offers for between 30% to 50% (Rule 16.3)
+i) SIC will not grant consent
+
+e) Partial Offers for > 50% but less than 100% (Rule 16.4)
+i) SIC will only grant consent for Partial Offer which results in Offeror and Concert Parties holding > 50% of the Voting Shares subject to certain conditions
+(1) Consent not normally granted unless some conditions are met.
+
+ii) Please refer to Rule 16.4 for the full set of conditions applicable to any partial offer for more than 50% of the shares of the Target Company
+
+iii) Some Conditions in Rule 16.4.
+(1) No acquisition of Voting Shares by Offeror and Concert Parties during:
+(a) the 6 months prior to date of announcement of Partial Offer, and
+(b) the period between submission of application for SIC’s consent and announcement of the Partial Offer
+
+(2) No acquisition of Voting Shares by Offeror and Concert Parties during:
+(a) The Offer Period (except pursuant to the Partial Offer), and
+(b) The 6 month period following the close of the Partial Offer, if the Partial Offer becomes unconditional as to acceptances
+
+(3) Approval of Target Company shareholders being obtained
+(a) Shareholder approval must still be obtained if 
+(i) Offeror and Concert Parties hold > 50% in Target Company and the Partial Offer could result in Offeror and Concert Parties holding > 90% of the Voting Shares or 
+(ii) Partial Offer could lead to Target Company failing to comply with free float requirement (of having 10% in public hands)
+(b) Offeror, Concert Parties and their associates must abstain from voting
+(c) Approval must be obtained either in general meeting on a poll or by “tick the box” on acceptance forms (more common than via shareholders’ meeting)
+
+(4) Disclosure in the Partial Offer Document that:
+(a) If Partial Offer succeeds, Offeror can exercise statutory control over Target Company
+(b) The Offeror and Concert Parties will be free, 6 months after the close of the Partial Offer to acquire further shares without incurring any obligation to make general offer
+
+f) Partial Offer Price (Rule 16.5)
+i) Partial Offer Price must be in cash or securities or combination of both.
+
+2.2.1.4 *Timetable and general points
+9. Indicative Timeline for General Offers (Rule 22)
+a) Lecturer: “you should familiarize yourself with the requirements of r 22”
+i) When an offer document is to be dispatched
+ii) When the offeree circular and response to offer document have to be issued
+iii) Minimum period for which the offer is to be kept open
+
+#DayAction1D Offeror announces intention to make Offer2D + 1Target Company releases holding announcement and appoints independent financial adviser (“IFA”)3D + 14 to D + 21 = T*Offeror posts Offer Document to Target company shareholders (no earlier than 14 days after date of announcement)4T + 14*Target Company (board of offeree company) issue Offeree Circular and response to offer document5T + 28Earliest possible closing date (2 weeks after offeree circular and response to offer document is issued) – Offer closes, unless extended6T + 60Latest date for Offer to become or be declared
+unconditional as to acceptances**
+b) **Offeror is required to effect settlement within 7 business days after the Offer becomes unconditional in all respects.
+
+10. General points relating to offers
+a) Irrevocable Undertakings. An Offeror can seek irrevocable undertakings from the shareholders of the Target Company to accept its offer, before or during the offer period.
+i) Binding agreement by shareholder to accept the offer.
+ii) Gives the Offeror some assurance that he will at least be able to obtain a certain level of acceptances of his offer
+
+b) No special deals. All shareholders must be treated equally.
+i) Fundamental principle in the Code.
+
+c) When a cash offer is required – buy 10% or more in votes using cash in last 6 months
+i) Where Offeror and any concert parties have bought for cash during offer period/6 months before, shares of Target Company carrying 10% or more of voting rights of that class, 
+ii) Offer must be in cash or accompanied by a cash alternative at not less than the highest price paid by Offeror or any concert parties
+
+d) When a securities offer is required – buy 10% or more in votes using securities in last 3 months
+i) Where the Offeror has acquired more than 10% or more of voting rights in exchange for securities during offer period/3 months before, 
+ii) such securities will also need to be offered to all other shareholders.
+
+2.2.2 Scheme of arrangement (alternative takeover structure)
+
+
+11. Scheme of Arrangement
+a) General
+i) All or nothing method (acquiring 100% of shares) to acquire a company.
+ii) Court sanctioned process set out in s 210 CA
+iii) Target Company (via its board) will be the company implementing the Scheme of Arrangement, proposing to its shareholders the scheme during a general meeting where they are asked to transfer all of their shares to the offeror in return for a specified consideration
+iv) On Scheme becoming effective, Offeror will hold 100% of the Target Company
+(1) Whether or not shareholders voted in favour.
+v) Scheme must comply with the Take-over Code – SIC will exempt Scheme from compliance with certain rules of the Take-over Code, subject to certain conditions
+vi) *Offerors must engage with the Target Board; only the Board can propose the SOA to Shareholders.
+
+b) Approvals Required
+i) Target Company Shareholders’ Approval at Court Meeting;
+(1) Target Company must convene general meeting, with leave of High Court of Singapore (“Court”), to approve Scheme (“Court Meeting”)
+
+(2) Approval Threshold:
+(a) Majority in number (i.e. 50%) of Target Company shareholders present and voting in person or by proxy (unless the Court orders otherwise)
+(b) Such majority holding at least 75% in value of the Voting Shares held by Target Company shareholders present and voting at the meeting, in person or by proxy
+
+E.g. if 10 shareholders turned up at meeting to vote, at least 6 of them must vote in favour of the SOA and they must hold at least 75% in value of shares
+
+(3) Offeror and its Concert Parties must abstain from voting at Court Meeting
+
+ii) Court Approval;
+(1) Convening of Court Meeting to approve Scheme
+(2) Sanction of Scheme following approval at Court Meeting
+
+iii) SGX-ST Approval (if the Target Company is listed on the SGX-ST);
+(1) Clearance by SGX-ST of Scheme Document
+(2) Delisting of Target Company following Scheme becoming effective
+
+iv) SIC approval –
+Although the provisions of the Code apply to schemes of arrangement, it is usual for the bidder to obtain from the SIC exemptions from compliance with certain provisions of the Code, e.g., provisions relating to the takeover timetable and type of consideration required, etc.
+
+c) When effective? 
+i) Only when the order of Court sanctioning the Scheme is lodged with ACRA
+
+2.2.3 Voluntary delisting
+12. Voluntary Delisting
+a) General 
+i) Rule 1307, 1309 of the SGX-ST Listing Manual – process for listed company to be delisted from the Official List of the SGX-ST (“Delisting”)
+ii) Approval of shareholders of Target Company required to approve the Delisting
+(1) At general meeting.
+iii) Majority shareholder or third party must provide an exit offer (“Exit Offer”) to the shareholders of Target Company
+iv) On close of the Exit Offer, Target Company will be delisted from the SGX-ST Official List.
+(1) Irrespective of the outcome of the exit offer.
+(2) Up to shareholders to decide whether to accept the exit offer, or remain as shareholders in a public unlisted company.
+v) *Offeror must engage the Target Board, as only the Board can propose the delisting proposal to shareholders, and make the necessary applications to the SGX-ST.
+vi) Only possible if the Target Board cooperates.
+
+b) Approvals Required
+i) Approval of Shareholders of Target Company;
+(1) Target Company must convene general meeting to approve Delisting (Rule 1307(1) SGX-ST Listing Manual)
+(2) Approval Threshold (Rule 1307(2) SGX-ST Listing Manual): Approved by a majority of at least 75% of total number of issued shares (excluding treasury shares) held by shareholders present and voting, on a poll, either in person or by proxy at the meeting
+(3) Offeror + Concert Parties must abstain from voting on the resolution
+
+ii) SGX-ST Approval;
+(1) Clearance of circular issued by target company to shareholders
+(2) Must also agree to the Delisting of Target Company itself, subject to:
+(a) Exit Offer to shareholders that must:
+(i) be fair and reasonable and 
+(ii) include a cash alternative as the default alternative (Rule 1309(1) SGX-ST Listing Manual)
+(b) Target Company having obtained an IFA opinion that the Exit Offer is fair and reasonable (Rule 1309(2) SGX-ST Listing Manual)
+
+iii) SIC Approval (Practice Statement on Offers made under Rule 1307 SGX-ST Listing Manual)
+(1) Exit Offer must comply with the Take-over Code
+(2) SIC will waive certain rules of the Take-over Code, including the offer timeline, subject to conditions including:
+(a) Exit Offer must remain open for acceptances for at least:
+(i) 21 days after date of despatch of Exit Offer Letter if Exit Offer Letter is being despatched AFTER Target Company shareholders approve Delisting; or
+(ii) 14 days after date of announcement that Target Company shareholders have approved Delisting if Exit Offer Letter is despatched ON SAME DATE as circular
+ 
+2.2.4 Amalgamation
+
+
+13. Amalgamation 
+a) General
+i) Statutory merger pursuant to Sections 215A to 215K Companies Act
+ii) Companies to be amalgamated or merged must be *Singapore-incorporated companies.
+iii) No Court approval required. 
+iv) One entity disappears. Unlike a regular takeover where the offeror and target entities remain distinct.
+v) Alternative to General Offers, Schemes of Arrangement for public takeovers, but not used often due to solvency statement requirements (personal liability)
+(1) Not well tested in public takeovers.
+(2) Unsure whether other jurisdictions will recognize the automatic transfer of rights and liabilities in amalgamation.
+
+b) Types of Amalgamations
+i) Full Amalgamations – this is what is relevant in public takeovers (can be carried out by any company – but more precautions are taken due to need to safeguard minority interests).
+(1) Two or more Singcos amalgamate and continue as one company
+(2) Two or more Singcos amalgamate and form new company
+ii) Short Form Amalgamations (only for companies within same corporate group with no minority interests – i.e. all 100% owned)
+(1) One or more wholly-owned subsidiaries amalgamate into, and continue as, holding company or the amalgamated subsidiary company (vertical amalgamation)
+(2) Two or more wholly-owned subsidiaries of the same corporation amalgamate with each other and continue as one company (horizontal amalgamation)
+(3) In the context of a public take-over, it is the Full Amalgamation that will be relevant
+
+c) Approvals Required
+i) SIC Approval
+(1) Amalgamation must comply with the Take-over Code
+(2) SIC will waive certain rules of the Take-over Code, including the offer timeline, subject to conditions
+
+d) Solvency Statements – this is unique to amalgamation. 
+i) Board of directors of each amalgamating company must make a solvency statement: 
+(1) In relation to the amalgamating company – that it is able to pay its debts as at the date of the statement and value of its assets not being less than its liabilities (including contingent liabilities)
+(2) In relation to the amalgamated company – that it is able to pay its debts as they fall due as at the effective date of Amalgamation and value of its assets will not be less than its liabilities (including contingent liabilities)
+
+2.3 Approvals Required
+14. Shareholder Approval
+a) General Offer. No shareholders’ general meeting required. 
+o [no shareholder approval per se] For mandatory offer, offer must be conditional on Offeror and its concert parties obtaining acceptances which will result in them holding shares carrying more than 50% of voting rights of the target (for mandatory offer)
+* Trigger threshold: when offeror and concert parties acquire 30%, or already hold between 30-50% and further obtain another 1% aggregate in a 6-month period --> then they must offer ALL shareholders
+o [no shareholder approval per se] For voluntary offer, offer must be conditional on acceptances also though Offeror may specify a higher threshold in a voluntary offer (75% or 90%). Other conditions like shareholder’s approval or regulatory approval may be included by offeror if it wants
+o [shareholder approval needed if offer is for equal/more than 51% of shares] For partial offer, shareholder approval is needed if offer could result in offeror and concert parties holding more than 50% of the voting rights of the target company
+
+b) Scheme of Arrangement. Requires the approval of a majority in number (50%) of Target shareholders, such majority representing at least 75% in value of Target shares held by Target shareholders present and voting at the Court meeting
+
+c) Amalgamation. Requires the approval of the shareholders of Target at a general meeting by way of a special resolution, that is, the approval of a majority of not less than 75% of the voting securities of each company (bidder and target company) present and voting
+
+d) Voluntary delisting. Requires the approval of the shareholders of Target at a general meeting by a majority of at least 75% of the total number of issues shares held by independent shareholders present and voting
+ 
+15. Court Sanction 
+a) General Offer. Court sanction is not required. However, if the compulsory acquisition under Section 215 of Companies Act is invoked, a dissenting shareholder may apply to the Court to object to the compulsory acquisition
+b) Scheme of Arrangement. Scheme must be approved by the Court
+c) Amalgamation. Court sanction is not required. However, a shareholder or a creditor of Target may apply to the Court at any time before the date on which the Amalgamation becomes effective to raise his objection against such Amalgamation
+d) Delisting. Court sanction is not required. However, if the compulsory acquisition under Section 215 of the Companies Act is invoked, a dissenting shareholder may apply to Court to object to the compulsory acquisition
+
+16. SIC Clearance
+a) General Offer. SIC approval required in relation to the acceptance condition of the offer and any other conditions to the general offer and the offer price
+b) Scheme of Arrangement. SIC approval required for the Scheme to be exempted from certain provisions of Take-over Code
+c) Amalgamation. SIC approval required for the Amalgamation to be exempted from certain provisions of Take-over Code
+d) Delisting. SIC approval required for the Delisting to be exempted from certain provisions of Take-over Code
+
+2.4 *Concert Parties
+17. Overview
+a) Acquisition of shares by Offeror includes shares acquired by persons acting in concert with Offeror – common in various provisions.
+b) Definition in Take-Over Code: Persons acting in concert comprise individuals or companies who, pursuant to an agreement, arrangement or understanding (whether formal or informal), co-operate, through the acquisition by any of them of shares in a company, to obtain or consolidate effective control of that company --> question of fact
+ 
+18. Presumed Concert Parties
+a) Various individuals and companies are presumed to be persons acting in concert with each other unless contrary established (burden is on the offeror to prove to SIC that its otherwise):
+i) Company, its parent, subsidiaries, fellow subsidiaries and their associated companies, companies of which such companies are associated companies, and persons who have provided financial assistance (other than a bank in the ordinary course of business) to any of the foregoing for the purchase of voting rights
+(1) Associated company: a company A is an associated company of another company B if the second company B owns or controls at least 20% but not more than 50% of the voting rights of the first mentioned company A (so a 20-50% shareholder of the company can be an associated company)
+ii) Company with any of its directors (together with close relatives and related trusts)
+iii) Company with any of its pension funds and employee share schemes
+iv) Person with any investment company, unit trust or other fund whose investment such person manages on a discretionary basis
+v) Financial / professional adviser with its client in respect of shareholdings of adviser, and all funds which adviser manages on discretionary basis, where shareholdings of adviser and any of those funds in client total 10% or more of client’s equity share capital
+vi) Directors of company (together with close relatives and related trusts) which is subject to an offer or where directors have reason to believe bona fide offer for their company is imminent
+vii) Partners,
+viii) Individual, his close relatives, related trusts, any person who is accustomed to act in accordance with his instructions, any companies controlled by such persons, and persons who provided financial assistance (other than a bank in the ordinary course of business) to any of the above for the purchase of voting rights
+b) Very wide definition of presumptions. Offeror must be aware of who is their concert parties
+c) Close relatives include immediate family (i.e. parents, siblings, spouse and children), siblings of parents (i.e. uncles and aunts) as well as their children (i.e. cousins), and children of siblings (i.e. nephews and nieces).
+
+2.5 Merger Control
+19. Overview
+a) Section 54 of the Competition Act:
+i) “…mergers that have resulted, or may be expected to result, in a substantial lessening of competition within any market in Singapore for goods and services are prohibited.”
+b) A merger clearance filing to the Competition and Consumer Commission of Singapore (“CCCS”) is voluntary but recommended by the CCCS if a merger may potentially result in a substantial lessening of competition in a relevant market
+c) In any event, a decision whether or not to file must be made on the basis of a self-assessment conducted in accordance with the methodologies set out in the CCCS Guidelines on the Substantive Assessment of Mergers, read with the CCCS Guidelines on Market Definition
+
+20. SIC guidance
+a) From the SIC Practice Statement on the Merger Procedures of the CCCS
+b) 2 approaches to go about this
+i) Pre-conditional Offer: Offeror may announce a pre-conditional voluntary or mandatory offer where the pre-condition is that the CCCS issues a favourable decision permitting offer to proceed. 
+ii) If no pre-clearance: Offer is required to be subject to the condition that it lapses if the CCCS initiates a Phase 2 review or prohibits the Offeror from acquiring voting shares in the Target Company
+c) If the CCCS initiates a Phase 2 Review, but later approves it: 
+i) In the case of mandatory offers, the obligation to make the offer pursuant to Rule 14 of the Take-over Code does not lapse. Thus, if the CCCS subsequently issues a favourable decision, the mandatory offer must be reinstated on the same terms and at not less than the same price as the offer which had earlier lapsed, as soon as practicable. 
+ii) For a voluntary offer, if the CCCS subsequently rules that it may proceed, the Offeror may, but is not obliged, to reinstate the offer. The Offeror may announce a new offer.
+
+21. Work with competition colleagues! 
+
+
+3 *DUE DILIGENCE
+1. 4 parts
+a) What is Due Diligence?
+i) Purpose of a due diligence exercise:
+(1) fundraising
+(2) acquisition
+b) Due Diligence process for SG corporate transaction
+i) managing a data room
+ii) common issues for due diligence review
+c) Preparing a due diligence report
+d) Dealing with negative findings
+
+3.1 What is Due Diligence?
+2.  What is due diligence?
+a) The gathering, organising, analysing, and verifying of relevant / appropriate information relating to a particular commercial transaction (i.e. joint ventures, acquisitions, initial public offerings)
+b) Essentially: Fact finding for a corporate purpose.
+c) Stems from principles of freedom of contract and caveat emptor.
+d) Due diligence varies depending on
+i) the nature of the transaction
+(1) Merger/Acquisition
+(2) Banking 
+(3) Capital Market – IPO.
+ii) the parties involved
+(1) acting for the purchaser vs acting for the vendor.
+iii) the quality and quantity of data supplied
+(1) quality – type and nature of documents to be reviewed.
+(2) May need to bring in experts to produce reports on specialist assets of the company e.g. real estate or technology IP assets.
+(3) Quantity – volume of documents. Large or small team to handle DD, usage of DD technology to handle review.
+
+3. Types of Due Diligence
+a) Legal – investigates the legal affairs of the target business or the target company
+i) This is the focus of lawyers but not the only type of DD.
+b) Business / operational – examines broader issues such as the industry in which the business operates, competitors, the business’ strengths and weaknesses, research and development
+i) Specialists include McKinsey, Bain.
+c) Financial / tax – focuses on financial affairs that are material to Buyer’s investment decision
+i) Big 4 accounting firms.
+d) Environmental – where business involves manufacturing sites, environmental due diligence seeks to identify any contamination or pollution on the sites or other environmental risks/issues
+e) There may be other types of DD:
+i) Where the company is a tech company, may require DD on the tech stack or code.
+
+4. Purpose of Legal Due Diligence – during an Acquisition
+a) Seller’s perspective
+i) To “groom” the target business or the target company for sale (making the target more attractive to buyers e.g. hiving off lousier subsidiaries)
+ii) To prepare an information memorandum (to invite bidders to the sale)
+iii) To assist the process of disclosure against warranties in the sale agreement (see below)
+iv) To ensure commercially sensitive or confidential documents are not released to potential Buyers or Bidders (the two are different – commercially sensitive may mean margins, key clients and suppliers lists. Confidential documents – protected by legal obligations).
+b) Buyer’s perspective
+i) To check what it is buying
+ii) To structure and negotiate transaction (e.g. ensure that change in control provisions in 3P contracts dealt with before entering the transaction. Or e.g. carving out bad assets in an asset sale.)
+iii) To ascertain the need for indemnity or warranty protection, or if Buyer should walk-away
+iv) To ascertain if any ancillary documents need to be signed (e.g. assignment of IP by employees to the company, if it is found to be unclear)
+v) To plan integration steps after deal is completed (e.g. replacing or streamlining the management team. Or harmonizing employee benefits post-merger)
+vi) To avoid post-deal disputes (narrow issues between parties, address any issues at negotiation stage rather than post-deal)
+
+5. Warranties 
+a) Warranties are contractual statements of fact. 
+b) Warranties do not act as a substitute for due diligence – the two are complementary.
+i) Extent of warranties & indemnities will not be certain until signing 
+(1) (subject to extensive negotiations) 
+ii) Warranties are often qualified 
+(1) as to materiality, and knowledge
+iii) Warranties are subject to disclosures 
+(1) This is done in a “Disclosure letter”.
+(2) if disclosures are fairly made, then no breach of warranty, seller can escape liability. 
+(3) Questionable whether contents of the data room count as disclosure.
+iv) Warranty claims are subject to limitations
+(1) De minimis (must be above an amount), de maximis (shall not exceed an amount), or time (claim must be brought within certain time).
+(2) Statutory limitation period is 6 years – so contractual limit may be 18-24 months.
+(3) Terms may provide different time limits for different warranties – shorter for business warranties, longer for tax and fundamental warranties (as to share title, authority, capacity).
+v) Warranty protection depends on the credit-worthiness of the warrantor
+c) “In God we trust. The rest bring valid data.” - Michael Benoliel
+d) Indemnities address negative findings in due diligence
+i) This is used when seller discloses that warranties cannot be given or is untrue.
+ii) Example:
+(1) Seller warrants that there is no litigation
+(2) Buyer’s due diligence shows that there is in fact a claim for $100m which is disputed by the target. 
+(3) Seller discloses the $100m claim in a disclosure letter.
+(4) Since the claim is disclosed, there can be no breach of the litigation warranty.
+(5) Buyer then says that it will not proceed with the deal unless (a) there is a specific indemnity given by the seller in relation to the $100m claim, or (b) the deal is changed from a share deal to an asset deal, where the litigation liability is left behind
+
+6. Purpose of Legal Due Diligence for an IPO
+a) To enable an issuer or vendor of shares in an initial public offering to meet the disclosure requirements set out in the Securities and Futures Act 2001 (the “SFA”)
+b) Section 243 of the SFA - a prospectus shall contain all the information that investors and their professional advisors would reasonably require to make an informed assessment of matters prescribed in the SFA and its subsidiary legislation pertaining to the securities or securities-based derivatives contracts being sold and to the financial position and business of the Issuer.
+c) The prospectus should include, without limitation, the following:
+i) the rights and liabilities attaching to the securities or securities-based derivatives contracts
+ii) the assets and liabilities, profits and losses, financial position and performance, and prospects of the Issuer
+iii) other matters set out in the Fifth Schedule of the Securities and Futures (Offers of Investments) (Securities and Securities-based Derivatives Contracts) Regulations 2018
+(1) This Schedule is more than 50 pages long which is why prospectuses are so long.
+d) Penalties – SFA s 253, s 254, s 255
+i) Sections 253 and 254 of the SFA – impose criminal and civil liabilities, respectively, for any false or misleading statement in, or omission of material information from the prospectus
+ii) Section 255 of the SFA – provides a due diligence defence in the circumstances against prospectus liability if a person has made all reasonable inquiries in the circumstances and has reasonable grounds to believe there was no false or misleading statement in, or omission of material information from the prospectus
+e) Ultimately, the purpose of LDD is to minimise potential liability for:
+i) persons making the offer, such as the Issuer and its board of directors or vendor of shares
+ii) certain key parties involved in the transaction, such as the Issue Manager and the Underwriter
+f) Note therefore:
+i) Purpose for in Acquisition vs in IPO is very different.
+ii) Potential for criminal liability in an IPO if DD not done adequately.
+
+3.2 Due Diligence Process in Singapore
+7.  8 steps in Due Diligence Process
+a) Protect data to be disclosed (Seller only)
+b) Acquire data
+i) For bilateral transactions, buyer usually gives a list of documents to the seller.
+ii) Auction process – seller and counsel will set up room and just fill it with relevant docs.
+iii) IPO – issue manager will lead DD exercise, provide DD questionnaire to issuer.
+c) Vet and review data acquired
+i) Each document must be checked as to whether it is suitable for disclosure
+ii) E.g. due to confidentiality / commercial sensitivity 
+iii) before it is released to the seller/bidder.
+d) Index, store and organise the data
+e) Distribute the data
+i) Means considering who should have access, how many people, for how long.
+f) Collaborate with terms
+i) Documents should not be analysed in isolation.
+g) Analyse the data
+i) Should bear the client’s objective when doing DD.
+h) Report data
+i) Concise and clear. Include recommendations on protective provisions to be included in the SPA. 
+ii) For IPO, should have regular meetings on the data reported
+(1) Data to be verified and reviewed in these meetings.
+(2) Culminate in verification meetings attended by directors of issuer, issue manager, advisors.
+
+8. Data Room
+a) What is a data room? 
+i) A repository of documents and information which might be of interest to Bidders.
+ii) Physical or virtual.
+b) Who sets up and maintains the data room?
+i) Seller / Borrower / Issuer for acquisition, banking. IPO.
+ii) Seller’s / Borrower’s / Issuer’s advisors / counsel will often be asked to help establish the data room and give guidance on  the information to be included in it, and rules governing access to it
+iii) Rules – logistics like number of people, time, whether downloads allowed.
+c) What information should be included and when?
+i) Seller’s concern: To include information that will be key to potential Buyer’s due diligence while guarding against “fishing expeditions”, especially by competitors of the target company or the target business
+ii) Issuer’s and Issue Manager’s concern: To ensure compliance with Section 243 of the SFA
+iii) Data to be “vetted”: Each item of data should be approved for release by Seller’s counsel / in-house manager or in the case of an IPO, by an appropriate officer, in-house counsel or Issuer’s counsel
+iv) Concerns for the Seller:
+(1) Keep commercially sensitive information away till near the end.
+(2) Timing of adverse data being given affecting seller’s negotiating position.
+(3) Whether data has already been disclosed and if further data inconsistent.
+(4) Whether response to data request will trigger further data request - RFIs
+v) Issuer’s concerns:
+(1) Regulatory in nature, largely.
+d) What information should be included and when?
+i) Treatment of commercially sensitive agreements / information / claims. 4 main ways:
+(1) Summaries of key contracts
+(2) Redaction of information from documents
+(3) Only give information to legal counsel of other party, with requirement that sensitive information is redacted/anonymised or aggregated
+(4) Tiered release of data (for acquisitions only). In IPO not possible since all material information must be disclosed at the outset for the issue manager to satisfy statutory obligations.
+ii) For IPO, where documents have CS information, should be flagged to the issuer. Alternative arrangements:
+(1) Maybe only issue manager’s counsel will review the documents, not the issue manager itself.
+e) Organising the data room
+i) Information should be well-indexed and logged
+(1) E.g. split into categories – litigation, corp-sec.
+ii) Important as contents of the data room will be an item for discussion when the representations, warranties, and disclosures against them are debated with the successful Bidder
+f) Where should the data room be located?
+i) Often data room maintained “off-site”. Typically in the Lawyer’s office, to maintain confidentiality. If at the Target’s office, and people move in and out of the room, there may be rumours of an impending transaction.
+ii) Issues to consider: ease of access / ease of administration
+
+9. Virtual Data Room
+a) A virtual data room is an electronic equivalent of a physical data room maintained by third party service providers
+b) Example Providers - Intralinks, Datasite. 
+
+AdvantagesDisadvantagesQuick and efficient access and retrieval – anytime, anywhere. 
+Useful when buyer and seller in different jurisdictions.Security concerns? Platform may be hacked, unauthorised access.Multiple parties / potential Bidders can access Costly to set up? Saves timeCumbersome to navigate? 
+Depends on bandwidth Physical supervision not required Seller / Issue Manager can control access / viewing rights - track and audit who accessed the site or retrieved a document. 
+Provides a record of the information disclosed
+Audit trail can be generated at the end of the DD. 
+c) Vast majority of data rooms are VDRs now, advantages far outweigh.
+d) But no reason why both cannot be used – perhaps most sensitive documents in physical room.
+
+3.3 Due Diligence Report
+10. Considerations
+a) Profile of the target
+i) What industry? What concerns?
+ii) Example: IP company
+(1) Focus on IP, patent rights
+iii) Example: Manufacturing company
+(1) Focus on land, environmental issues, or HR	
+b) Typical areas of risk and liability
+c) Deal structure – share or asset sale.
+i) Share sale – look out for COC clauses
+ii) Asset sale – look out for no-assignment clauses.
+d) Relative importance of jurisdictions covered by the target business
+i) Size of business relative to the overall business. 
+e) Available time
+i) Timeline of the deal. More hands required for shorter timelines, or reduced scope.
+f) Budget 
+i) Time consuming and expensive. 
+ii) Scope out with client what is realistic within budget constraints
+g) Materiality – e.g. no point reviewing small contracts.
+h) Role of other advisors
+i) Tax, financial, environmental, commercial.
+ii) E.g. where data rooms contain documents for other advisors to review, can easily pass to them to review, avoid duplication of work.
+
+11. Types of Document
+a) Corporate Secretarial Records (Constitutional documents, minutes, registers, etc.)
+i) Validity and chain of title to shares
+(1) Properly issued, proper transfers of shares?
+ii) Restrictions on transfer of shares (e.g. moratorium of transfer and pre-emption rights)
+(1) Moratorium of transfer – where SHs agree not to transfer during a certain time.
+(2) Pre-emption rights – selling SH must give an option to other SHs to buy their shares, before being able to sell their shares.
+(3) Must follow, or obtain waiver of these rights before the deal.
+iii) Minority shareholder protections
+(1) If Buyer obtaining majority stake, review minority rights.
+(2) Whether there are veto rights, reserved matters, that may make management hard.
+iv) Encumbrances over shares / assets of target
+(1) CP condition precedent – encumbrances on shares must be lifted.
+(2) Encumbrances over assets usually over financing agreement which is fine. But if obtaining new financing, old encumbrances may need to be lifted.
+v) Restrictions against granting security
+(1) If these exist, must be lifted so Target can obtain financing for the deal.
+b) Material Contracts – Employment, Lease, IP licenses, customer and supplier contracts, 
+i) Share sale – change of control / shareholding
+ii) Business sale / asset sale – prohibition against assignment or novation
+iii) Term / duration / termination of material contracts 
+(1) If key contracts ending soon, affect valuation or CP for renewal.
+(2) Contracts that can be terminated with notice are less valuable
+iv) Onerous and unusual terms – 
+(1) Warranties, indemnities and guarantees
+(2) basically terms that impose liabilities on the Target.
+v) Governing law – if not SG law, consider hiring local counsel to review.
+c) Acquisitions / Disposals – smaller SPAs which the Target may have entered into when dealing with their assets.
+i) Deferred consideration due, or other outstanding financial consideration.
+ii) Unexpired warranty or indemnity obligations – ongoing liabilities for Target.
+iii) Restrictive covenants (e.g. non-compete, non-solicit) – may restrict the business of Target going forward.
+d) Joint Venture / Shareholders Agreement – JVA/SHA that the Target has entered into regarding its subsidiaries or related companies.
+i) Board representation – whether Target can appoint to Board.
+ii) Minority shareholder protection – whether Target has rights or may be vetoed.
+iii) Restrictions on transfer of shares – whether Target can exit the JVCo if it wanted.
+iv) Financing obligations – e.g. each partner may need to finance the JVCo, and outstanding obligations may still remain.
+v) Consequences of default / deadlock
+vi) Termination provisions especially for IPOs, as JVAs and SHAs cannot survive an IPO.
+e) Finance Documents – facility agreements where Target is a borrower or any security that the Target may have granted to its bankers.
+i) Provisions on change of control / shareholding, for share sale.
+(1) Banks frequently require repayment of loan on COC or change of shareholding.
+ii) Penalties on prepayment (early repayment) – e.g. if Target wants to prepay a loan so they can obtain acquisition financing, then penalties of existing loans must be considered.
+iii) Outstanding indemnities
+iv) Unusual events of default and security
+v) Financial covenants
+f) Land / Buildings – where Target has land
+i) Check title, planning, contractual relationships, contingent liabilities
+(1) bring in experts for this.
+ii) Conduct legal requisitions, check for any compulsory acquisition orders.
+(1) Most industrial land is owned by JTC, so 30 or 60 year leases – review like contracts.
+iii) Third party consent required? Including JTC consent
+(1) Check for COC provisions (for share sale) or non-assignment obligations (for asset sale).
+iv) Title documents, tenancy agreements etc stamped?
+g) Licenses / Permits – Compliance with:
+i) Permits are required only in some highly regulated industries:
+(1) Banking and Finance, under MAS.
+(2) Telecommunications, under IMDA.
+ii) But licenses may be needed for various matters, if the Company is e.g. a manufacturer.
+(1) Business operations
+(2) Asset compliance
+(3) Environmental issues
+(4) Health safety issues
+iii) 2 objectives:
+(1) Ensure compliance with conditions of the licence.
+(2) Check for change of control provisions. 
+iv) Typically licenses cannot be transferred from seller to buyer (e.g. during asset sale), as they are personal to the seller. Thus, buyer would need to apply for such licenses and permits afresh
+h) Insurance documents
+i) Are essential assets covered by insurance and are there any gaps in coverage?
+ii) Any outstanding insurance claims?
+iii) History of claims made
+(1) May indicate systemic issues with Target’s business (if there have been many claims made), to be fixed before sale.
+i) Employment – focus on those of key employees.
+i) Employment retention
+ii) Benefits (retrenchment benefits etc.)
+iii) Termination provisions
+iv) Collective agreements and terms – any obligation to consult with the employee union or obtain its consent.
+v) Whether employees are bound by restrictive covenants (e.g. non–compete, non–solicit)
+vi) Compliance with Employment Act
+(1) And with foreign employee quotas.
+j) Litigation documents
+i) Number (if any) of litigation claims pending and in progress
+ii) Are litigation claims covered by insurance?
+iii) Any litigation threatened? (conduct litigation, bankruptcy and winding up searches etc.)
+(1) Independent searches useful.
+k) Audited accounts (most importantly)
+i) Useful for flagging anything that should be reviewed as part of due diligence exercise
+ii) Not something people think lawyers should review, but should review this at the start of the DD exercise before anything else. Bird’s eye view of the Target and its assets, especially key assets. From there, can scope out DD exercise.
+iii) Potential adverse litigation will be flagged as liabilities.
+
+12. Form of the Report
+a) Long form report
+i) Relatively rare, describes business in detail and summarises each and every document
+b) Short form, “Exceptions Only”
+i) Common, covers material issues only. No need to summarise each and every document
+c) Any exclusions from the report (such as financial, accounting, actuarial, environmental or taxation matters)?
+d) Assumptions? E.g. 
+i) Documents given for review were true and complete
+ii) Foreign law documents reviewed AS IF Singapore law applied, and from a plain English perspective only.
+
+13. Disclosure Letter – esp. during IPO
+a) Due diligence in the context of an IPO leads to prospectus disclosures, and the issuance of a disclosure letter (“negative assurance”) by the Issue Manager’s counsel and the Issuer’s counsel confirming that the disclosure requirements under the SFA and the subsidiary legislations have been met
+b) In essence, the “negative assurance” is an opinion to the Issue Manager and underwriters, that nothing has come to the attention of the Issue Manager’s counsel and the Issuer’s counsel which would cause them to believe that the prospectus contains any untrue statement of a material fact, or omits to state a  material fact necessary to make the statements therein not misleading
+
+
+3.4 Dealing with Negative Findings
+14. During Acquisition:
+MethodCommentAdjust price 
+Suitable where parties can quantify the actual and contingent cost of adverse finding
+e.g. where a building on the land must be removed, and the cost of removal is quantified and agreed upon by parties – deduct from price.Restructure transaction 
+e.g. business sale rather than share sale
+e.g. where the Target is subject to material litigation, and parties do not agree on the likely outcome of the litigation. Asset sale may be agreed on instead, to leave behind the potential liability.Concessions in other areasBuyer may assume a risk / liability, provided concessions in other areas are given by Seller. 
+Or more lenient liability thresholds (higher de maximis or lower de minimis claim amounts, longer time period to launch claims)Condition for closingMaterial adverse findings should be remedied by Seller before closing. E.g. where shares being sold were issued despite procedural irregularities (quorum not obtained at shareholder meeting), CP to obtain a court order to rectify the allotment of shares.Performance related payment / earn-outsUseful where accuracy of financial information / projected performance of Target is in doubt. AKA “earn-outs”. Remaining e.g. 20% of consideration payable if Target hits financial goals.Indemnities Specific indemnities can be sought for problem areas arising from DD, especially where disclosures have negated the effectiveness of warranty claims.
+Reduce any limits applicable to warranty and indemnity claimsEscrow for warranty claims
+To manage the Seller’s credit risk. 
+Defer part of purchase price and place it in escrow as security to meet Buyer’s warranty claims. 
+Otherwise the Seller could easily remove all assets from the selling entities, rendering future claims against the Seller worthless.Post-closingAdministrative or less material issues may be dealt with post-closing. E.g. if Target has not obtained licenses for the business, the Target can get them post-closing.Walking awaySuitable where adverse findings cannot be adequately addressed (deal breakers) by any of the above methods
+15. During IPO:
+MethodCommentDisclosureIssuer has to engage MAS/SGX on the adverse finding, and disclose
+in prospectus as a matter that materially affects its business/financial position, and highlight associated risks, so that investors can make an informed decision on whether to subscribe.
+
+Issuer to qualify warranties to be given by it in the underwriting
+agreementIPO “deal breaker”The matter may render the issuer (and hence its securities) unpalatable to potential investors --> Issuer may walk away from the IPO.
+
+
+4 *JOINT VENTURES
+4.1 Introduction
+1. Overview 
+a) What are joint ventures?
+b) Why do parties enter into joint ventures?
+c) The role of lawyers in joint ventures
+
+2. What are joint ventures?
+a) Not legally defined in Singapore
+b) Collaborative business arrangement
+c) Significant integration between parties
+d) United Dominions Corporation Ltd v Brian Pty Ltd (1985) 157 CLR 1
+i) “The term “joint venture” is not a technical one with a settled meaning.  As a matter of ordinary language, it connotes an association of persons for the purpose of a particular trading, commercial, mining or other financial undertaking with a view to mutual profit, with each participant usually (but not necessarily) contributing money, property or skill.”
+ 
+3. Two main types:
+a) Equity JV
+i) Parties contribute to the capital of a new entity, share in the profits.
+ii) Higher level of integration
+b) Non-equity JV
+i) All other kinds of collaborative arrangements – shared resource agreements, pilot projects, R&D collaborations, joint production agreements, network alliances.
+ii) Purely contractual.
+c) Focus is on Equity JVs.
+
+4. Why do parties enter into joint ventures?
+a) Cost savings – 
+i) Share cost of R&D etc. 
+ii) Especially relevant for capital intensive industries – pharma, telecoms, aeronautics. 
+b) Risk savings – 
+i) Risk of taking on large speculative projects 
+ii) E.g. natural resource or infrastructure projects.
+c) Access to technology, learn from partner’s skills.
+i) Some knowledge may be organisationally embedded, inherently tied to organisation and cannot be easily extricated. Then organisational integration through JV necessary to access such knowledge/technical experience.
+d) Expansion of customer base
+i) Tap on partners’ strengths in other geographic markets or use their distribution or sales networks.
+e) Entry into developing economies, Entry into new technical markets
+i) Sometimes the only way to enter new markets, where local knowledge, context, and sponsorships are a practical necessity.
+ii) Can collaborate with another company that already has a start, or provides complementary skills.
+f) Pressures of global competition
+i) Merger of businesses may help obtain economies of scale, global customer reach, purchasing power, or capital investment resources necessary for global competition.
+g) Leveraged joint venture
+i) A financial partner can enable acquisitions otherwise impossible/unaffordable.
+h) Others
+i) Sometimes, structure acquisitions as JVs for tax and accounting purposes.
+ii) JV could be the first step where acquisition is being contemplated in the future.
+iii) Could be an interim stage in the broader business strategy.
+
+5. The role of lawyers in joint ventures
+a) Alert client to important legal and business issues
+b) Structure the joint venture – 
+i) In light of business objectives and interests of the client
+c) Carry out due diligence and other legal investigations
+d) Identify and obtain clearances and consents from 3P
+e) Ensure proper documentation, other legal steps
+f) Establish joint venture vehicle
+i) JVs can be small or very complex.
+ii) Soft skills to bring parties to consensus can be as important as legal skills.
+
+6. Key issues to be addressed
+a) Commercial objectives
+b) Profit sharing – equity or non-equity
+c) Contributions
+d) Territory and scope (field of work?)
+e) Commercial return (dividends, payments in contracts, non-cash benefits, capital gain on exit)
+f) Key client interests to protect?
+i) Control? Exit routes?
+ii) IP rights? 
+iii) Dividend return?
+iv) Entitlement to product output?
+g) Governance and control
+h) Non-compete and exclusivity – is client in it for the long or short term?
+i) Exit strategy – what is the client’s, what needs to be protected in event of termination?
+j) Third party consents
+i) Contractual consents
+ii) Regulatory approvals and licenses
+iii) Conditions precedents
+
+4.2 *Forms of a Joint Venture
+7. Legal forms of joint ventures
+a) Contractual alliances – no separate legal entity, just an unincorporated alliance based on simple contract
+b) Partnerships
+c) *Corporate joint ventures (focus of the course) – a jointly owned corporate vehicle which holds the business assets of the JV. An appropriate legal form for most equity JVs for continuing business which is available in most jurisdictions
+
+8. Key issues in deciding the legal form of the joint venture
+a) Liability exposure – 
+i) limited liability from corporate JVs
+b) Tax cost – 
+i) especially for international JVs 
+ii) formation of JV, during operation, during repatriation of profits
+c) Competition law factors
+i) Regulatory treatment different.
+d) Requisite licences 
+i) Corporate entity can hold licenses necessary for the business.
+e) National considerations
+i) Where JV operates in different jurisdictions
+ii) E.g. political profile, tax cost, identity of participants, preference for direct participation by national entity means contractual linking of operations.
+iii) Overall of parallel JV vehicles in different jurisdictions or fields may be preferred over one entity running everything.
+f) Management structure
+i) Corporate entity – one combined management structure
+ii) Contractual – each partner manages their own resources.
+g) Funding cost
+i) Separate JV entity in an entity with lower costs, or just raise funds wherever the partners are located? 
+ii) Corporation – borrowing on a non-recourse basis.
+h) Accounting treatment
+i) How will assets and liabilities, P&L be reflected in parents’ books?
+ii) E.g. Singapore parent, is it better to reflect it as a consolidated subsidiary undertaking, or to do some equity accounting?
+iii) Nature of JV vehicle may affect accounting treatment.
+i) Transferability
+i) Some mode of transferring one party’s interest to new participants?
+j) Ease of termination
+i) Contractual alliance – easier to terminate.
+k) Reporting and publicity requirements
+i) Entities may have reporting requirements.
+l) Administrative cost
+i) Entities may have ongoing administrative costs.
+m) Formalities of formation
+i) Cost of formalities, registration.
+
+9. Points from lecture
+a) Corporate JVs may offer what is required, but may be cumbersome at times.
+4.2.1 Contractual Alliances
+10. Contractual Alliances
+a) Unincorporated alliance
+b) Will suffice for many cooperative alliances and projects. Examples:
+i) Project bidding agreements, 
+ii) R&D collaborations, 
+iii) specialisation or joint production agreements, 
+iv) resource sharing agreements, 
+v) supplier-customer partnerships,
+vi) multi-national services or other strategic alliances.
+c) Based on contract
+d) Not an independent legal entity
+e) Sharing of costs and income ON TERMS NOT GIVING RISE TO PARTNERSHIP.
+i) Note that sharing of net profit or loss might give rise to partnership
+
+11. Pros and Cons of a Contractual alliances
+a) Advantages
+i) Lack of formality
+ii) Tax efficiency
+iii) Ease of management of resources
+iv) Ease of termination and unwinding
+v) Flexibility of changing terms, relationship.
+b) Disadvantages
+i) Absence of corporate identity & structure
+ii) Risk of partnership
+iii) Inflexibility – difficult to sell or transfer one party’s interest in the JV.
+iv) Competition law issues
+v) Need to draft terms – reinventing the wheel to make the JV
+(1) No backdrop of company law for this JV, so all must be contractual.
+4.2.2 Partnerships
+12. Characteristics of a Partnerships:
+a) Unincorporated undertaking
+b) Founded in a contractual relationship
+c) Legal meaning of a Partnership varies from country to country
+i) Some countries provide it has an independent legal personality.
+d) But generally, partners have joint and unlimited liability for debts and liabilities of partnership
+e) Rarely used for commercial joint ventures in Singapore
+i) Attention spent to ensure contractual alliances do not turn into partnerships.
+f) When does a partnership exist?
+i) Generally satisfied if there are contractual arrangements between parties establishing a common business or undertaking – particularly one in which the parties share in profits and losses.
+ii) Leads to consequences in that jurisdiction’s partnership law
+iii) In Singapore: Partnership is formed “when there is a relationship between persons carrying on a business in common with a view towards profit.”
+iv) In Singapore: Courts will consider all the circumstances, but focus on 3 factors:
+(1) Whether there is a business – partnership cannot exist without. Includes every trade, occupation, or profession.
+(2) Whether business carried on with a view of profit – difficulties in applying. May need to determine whether financial return linked to profit from a business is received as partner or creditor. 
+(3) Whether there is a sharing of losses – creates strong presumption of partnership. Taking on risk shows true participation in the business. This is irrespective of agreements between the parties. 
+g) Note
+i) Generally established by a Partnership Agreement, where general contract law applies.
+ii) Agreement can be inferred through a course of conduct/dealings.
+
+13. Pros and Cons of a Partnership
+a) Advantages
+i) Flexibility and simplicity of formation
+ii) Tax transparency – P&L treated as those of partners
+iii) No public filings.
+b) Disadvantages
+i) Absence of corporate identity
+ii) Lack of flexibility in obtaining external finance  
+iii) Joint UNLIMITED liability of partners. Each parties incurs the risk that another party acts outside internally agreed authorisation procedures, trigger liability on all.
+c) STRONG disadvantages and practical issues
+i) Without tax considerations or professional requirements, rare to see partnership JVs.  
+4.2.3 Corporate Joint Ventures
+14. Corporate Joint Ventures:
+a) Jointly owned corporate vehicle
+b) Holds business assets of joint venture
+c) Appropriate legal form for most equity joint ventures for continuing business
+d) Available in most jurisdictions
+
+15. Pros and Cons – basically the converse of whatever it is for a contractual JV.
+a) Advantages
+i) Identity – hold assets in its own name.
+ii) Limited liability
+iii) Financing
+iv) Transfer of interests
+v) Flexibility of share rights – preference shares etc.
+vi) Clear accounting structure
+vii) Established laws (corporate law, cases)
+b) Disadvantages
+i) Compliance requirements
+ii) Publicity (filings, returns)
+iii) Less flexibility and less freedom for change
+iv) Employees 
+v) Formality 
+vi) Complexity on winding-up of venture
+ 
+16. Note: there may be other legal forms for JVs outside of these categories
+a) Limited Liability Partnerships 
+i) Limited liability of a corporation with the tax treatment of a partnership 
+ii) Arose from concerns of large partnerships facing negligence claims and requiring some kind of limited liability.
+b) Form depends on client needs.
+
+4.3 *Documentation (Constitution and JVA/SHA)
+17. Legal documentation for JV company:
+a) Constitution / Articles of Association
+i) Constitution is regulated by the Companies Act and bind all shareholders, including future shareholders
+ii) Constitution can be amended by shareholders with at least 75% voting rights
+iii) But commercial terms of parties agreement won’t be in this, as the terms of the constitution is publicly available
+
+b) Joint venture or shareholders’ agreement – JVA/SHA
+i) Principal commercial agreement between parties, governed solely by contract law
+ii) Supplements and interrelates with the Constitution / Articles of Association
+iii) Private agreement, doesn’t amend the Constitution / AOA.
+iv) Corporate act taken by 3P accordance with the Constitution / AOA will be binding, the Constitution / AOA can be relied on by 3P irrespective of the SHA. 
+v) But the terms of the JVA/SHA will be contractually binding on venture partners.
+
+18. Key issues in shareholders’ agreement
+a) Parties – 
+i) parent company guarantees?
+b) Purpose and scope
+i) Business plan?
+c) Conditions precedent to formation
+i) Who responsible for each SP?
+d) Share capital & equity interests
+i) Contributions of each party
+ii) Share rights and share entitlements of each party
+e) Additional financing
+i) For future share issues
+ii) Any commitments to future financing
+f) Guarantees
+i) Given by JVers or not
+g) Governance / Board & Management structure
+i) Board composition (e.g. number of directors each party can appoint, the manner in which parties can appoint or remove)
+o Arrangements for appointment and removal of directors
+o Adjustments on change in shareholding proportions
+ii) Key management (e.g. CEO, CFO) – appointment rights
+iii) Board and shareholder proceedings 
+o Quorum (important for minority shareholders) and notice requirements
+o Approval thresholds, e.g. day to day matters to be approved with simple majority vote, but certain prescribed matters (reserved matters) may require prior written consent of the minority shareholder or both shareholders depending on the balance between the two parties
+iv) Deadlock provisions and solutions
+v) Dividend policy
+h) Financial matters, reporting, and information
+i) Inter-party relationship issues, any restrictions thereof.
+j) Transfers of interest and restrictions.
+k) Insolvency, default and change of control, and resulting consequences.
+l) Governing law
+m) Dispute resolution
+
+19. Remedies
+a) Not just damages, but sometimes injunctions and specific performance.
+
+20. Parties to a shareholders’ agreement
+a) One approach – actual shareholders of the JV company are party only.
+i) Where actual shareholder is subsidiary instead of parent company, actual shareholder is party to agreement.
+ii) Separate agreement or undertaking by parent company to observe confidentiality, non-compete obligations and guarantee of performance by subsidiaries.
+b) Alternative approach – ultimate parents of the shareholders of the JV company are party.
+i) More seen in major strategic JVs.
+ii) Ultimate parent companies enter into shareholders’ agreement
+iii) Provision for share of JV company to be issued or transferred to subsidiaries within group.
+iv) Parent company undertakes performance of members of own corporate group
+c) Should the joint venture company itself be a party to the shareholders’ agreement?
+i) Advantages
+(1) Undertaking of obligations is direct
+(2) Easier to enforce obligations, particularly if:
+(a) Directors have little regard for wishes of shareholders.
+(b) There are multiple parties to JV – then cooperation by multiple SHs required to secure JVCo’s behaviour. 
+ii) Disadvantages
+(1) In event of dispute between parties, JV company’s consent may be required. 
+(2) Terms that fetter JV company’s statutory powers might be unenforceable.
+iii) More common now especially in 2 party JVs to not include the JVCo in the JVA.
+
+21. Relationship between shareholders’ agreement and articles of association
+a) Shareholders’ agreement 
+i) governed solely by contract law and only binds parties to it
+b) Articles of Association are 
+i) regulated by Companies Act and binds all shareholders, including future shareholders
+ii) can be amended by shareholders with at least 75% voting rights
+iii) potentially relevant for minority shareholders whose rights may be affected if they have less than 25% of votes.
+c) Inconsistencies between terms in the two
+i) Should be avoided
+ii) Common term in SHA: Parties will cooperate to amend the AOA if it should become reasonably necessary to ensure that the principles of the SHA shall prevail.
+
+4.4 *Financing
+22. Financing
+a) Funding generally contributed by parent companies. 
+b) In many basic 2 party JVs, simple capital structure:
+i)  E.g. equal 50/50 holding of each party of equity shares in the JVCo.
+c) In multi-party JVs, with parties that enter and leave, capital structure may be more complex.
+
+23. Key financing issues
+a) Funding obligations 
+i) Normally on the shareholders of the JV
+ii) If JV is being established for a specific project (e.g. property tender or infrastructure project), there may be specific funding obligations or a funding schedule attached to the SHA where shareholders are committed to fund a specific/minimum amount upon the achievement of certain milestones
+b) Methods of funding 
+i) Sometimes there can be a priority of methods of funding, e.g. first need to go to banks to seek external funding, secondly shareholders’ loans, then thirdly through pumping in shareholders’ equity where they subscribe for additional shares to fund the company
+c) Loan finance – ratio of shareholder/outside loans
+i) If interest from outside loans is lower than the rate of return possible by JVCo, attractive to “gear up” on outside finance.
+ii) Rights of outside lenders (limited recourse) will need to be taken into account
+iii) With SH loan finance – must structure form and term of such loans.
+d) Provision of security (for outside loans)
+i) Banks may require provision of security from the shareholders of the JV, so provisions of the SHA may include terms regarding how such liabilities under any security granted by the shareholders should be apportioned
+e) Equity proportions & voting rights
+i) Usually identical proportions but not always (classes of shares) 
+ii) Proportion of equity generally same as that of contributed assets.
+f) Class rights
+i) Possible different financial rights/obligations: return of capital, dividend rights.
+g) Accounting treatment of JVCo and Parents
+i) May affect the preferred capital structure
+ii) Will JVCo be a subsidiary undertaking (requires balance sheet consolidation of the debt of the JVCo in the Parent group’s accounts)?
+iii) Alternatively, is equity accounting preferred?
+h) Debt/equity ratio
+i) For the balance sheet of the JVCo.
+ii) Advantages to debt financing – interest a deductible expense when calculating JVCo tax.
+iii) Loans can be repaid without legal restrictions applicable to dividends and return of equity share capital.
+iv) Loans from Parents can rank equally with other creditors of the JVCo, rather than behind.
+v) BUT parties may need to show a strong balance sheet on the JVCo for market perception or the ability to raise external finance.
+i) Anti-dilution
+i) Protecting against risk of dilution from further share issues.
+j) Management incentives 
+i) For startup ventures, possible to give management share incentives e.g. rights to subscribe, warrants, options, depending on performance.
+k) Early returns
+i) If one JV partner is looking for earlier returns than the other, maybe preference shares.
+ii) Other ways:
+(1) Payment of interest on loan capital.
+(2) Management fees.
+(3) Royalties.
+(4) Payment for services.
+iii) But in all these cases they must be genuine and not in excess of the market rate.
+l) Exit and realisation of a party’s investment.
+i) Put options
+ii) Redeemable shares
+iii) Share buybacks by the JVCo
+iv) Ability of SH to initiate IPO or sale of the JVCo as a whole
+m) Default – dealing with potential financial default where one shareholder fails to fund based on its obligations, can the other shareholder fund on behalf of the non-funding shareholder?
+i) There may be penalties imposed like default interest, or funding will take place by issuance of shares at a dilutive issue price
+ii) E.g. where JVCo is unable to repay SH capital or SH loans or other commitments
+
+4.5 *Minority Protection
+24. Idea of Minority protection
+a) Management challenges in a JV, crucial to ensuring success
+i) Different organisations, business cultures, languages.
+ii) Each parent in the JV wants to ensure appropriate supervision over their investment.
+iii) Task of the lawyer: creating the formal framework as the foundation of the venture, manage relationship of the parties.
+iv) Framework may impose some duties on directors. These duties are largely of academic interest only, UNLESS there is deterioration of relationships between parties, leading to disputes, deadlock, and inter partes claims.
+v) Focus of this class is on practical rights and protections to negotiate for.
+b) Underlying statutory and corporate rights limited
+i) No realistic safeguards or influence wrt JVCo.
+ii) Clients will want stronger rights.
+c) Stronger rights have to be negotiated for. 
+i) But the exact rights vary case to case. 
+d) Negotiating minority rights – Rights vary depending on:
+i) Proportion of minority shares
+(1) E.g. if the minority is 40% vs 20%, providing strategic expertise vs just strategic partner while other partner has day-to-day control.
+ii) Role of minority shareholder
+iii) Whether JV is multi-party JV
+(1) E.g. where there are many small shareholders and one VC company who also has a small shareholding, but is the principal outside finance provider.
+
+25. Minority protection under Companies Act – quite limited.
+a) Minority with > 25% shares can block certain decisions requiring 75% shareholder approval (can veto special resolutions)
+b) Statutory rights to call for meetings, information or investigations
+c) Statutory derivative actions for breach of directors’ duties
+d) Remedy for unfair prejudicial conduct by majority.
+e) Right to seek winding up on just and equitable grounds
+
+26. What to negotiate for – 
+a) Board representation, to be involved in management.
+b) Major business decisions (reserved matters) – veto right
+c) Protection against dilution by subsequent share issues
+d) Proper distribution of profits from JVCo
+e) Adequate information rights regarding JVCo’s affairs (e.g. budgets, periodic financial statements)
+f) Safeguards against breaches by majority shareholder (claims by JVCo, but steered by minority?)
+g) Exit without being trapped (if relationship between shareholders have broken down)
+ 
+27. Conclusion on Minority Protection
+a) Difficult to negotiate
+b) Balance between interests of parties
+c) JVCo’s interest is in stability and effective decision-making structures
+d) Outcome of negotiations reflect balance of power between parties. Key part of overall governance structure of the JVCo.
+e) Stronger minority protection --> greater risk of deadlock.
+
+4.6 *Deadlocks
+28. Deadlocks
+a) Definition: Inability of the parties to agree on strategy or other important decisions due to
+i) Genuine disagreement or
+ii) Fundamental breakdown in relationship
+
+b) How deadlocks arise
+i) Board level (management deadlock)
+(1) Could be due to disagreement of nominated directors
+(2) Could be due to veto rights of minority.
+ii) Shareholder level
+iii) Boycott of meetings – if quorum requirements cannot be fulfilled for meetings.
+
+c) Practical considerations:
+i) Actual mechanisms of detailed deadlock provisions rarely used in practice. Usually commercial pressures will cause parties to negotiate and come to an agreement, without going through the formal deadlock procedures.
+ii) Practitioners doubtful of usefulness of comprehensive deadlock provisions.
+iii) Unless parties have strong preference to ensure at the outset that a definite exit route exists in the event of a breakdown.
+iv) If deadlock provisions are included but not operated in full, they may still form the background for parties to form their tactical negotiating positions.
+
+d) Dealing with deadlocks – 3 basic ways:
+i) Design management structure to avoid deadlock arising
+ii) Mechanisms enabling continuity of joint venture 
+iii) “Divorce” mechanisms
+
+29. Designing management structure to avoid deadlock arising in the first place:
+a) 4 examples:
+i) One party to have clear voting and management control
+ii) A particular party will have control or leadership over a particular area
+iii) Most decisions are made at individual executive level instead of referring it to the full board of directors
+iv) Matters that require board or shareholder approval are restricted
+b) This goes towards the management structure of the JVCo.
+c) In many cases, parties will be reluctant to give up decision-making powers. 
+
+30. Mechanisms enabling continuity – 
+a) Possible mechanisms include:
+i) Additional vote in the event of a tie
+ii) Independent director’s swing vote (who does not have any allegiance to either party)
+iii) Others are essentially elements of a dispute resolution process:
+(1) Internal escalation, in stages (likely up to chairman or CEO of JV parties themselves)
+(2) Standing dispute review panel (only for long-running JVs)
+(3) Reference to mediation or expert determination (arbitration or court proceedings would not be appropriate as a deadlock relates to a business disagreement rather than a legal one)
+
+31. “Divorce” mechanisms – for major breakdown of relationship between parties
+a) First consider whether existing express termination clauses in JVA are sufficient.
+i) E.g. termination when notice is given by a party, or notice is given to call for a winding up
+ii) Exercising a put option (i.e. to sell its shares to the other party so it can get out)
+iii) Other ways
+b) Only if existing express termination clauses are insufficient, then consider additional terms.
+c) Note that such clauses:
+i) Such divorce clauses often considered but rarely included in equity JVAs.
+ii) Reason for inclusion:
+(1) Including it in the JVA creates a “nuclear option” after all else fails.
+(2) Threat of execution puts pressure on parties to agree on a commercial solution.
+(3) Such a clause should include sufficient timed breaks before it can be used. Gives parties to agree on a solution, even if reluctantly 
+ 
+32. Other possible deadlock measures
+a) These recognise that insolvable deadlocks will lead to the end of the JV, and sale to another party cannot work to save it. These measures generally lead to one party buying out the other, OR winding up of the JVCo.
+b) Examples of provisions:
+i) Winding up (last resort)
+ii) Sale of joint venture company as a whole
+iii) Put/call options
+iv) “Shoot-out” procedures
+v) “Multi-choice” procedures
+c) None of these are ideal, few such provisions are implemented in the exact terms that they were concluded. Parties’ commercial interest in ensuring the success of the JVCo is generally the best incentive for parties to come to a solution and avoid deadlock.
+
+4.7 *Transfer of shares
+33. General Idea
+a) All JVs will have some kind of transfer restriction (also necessary in SG to be a Pte Ltd Co)
+b) Free trading is fundamentally against the basic personal nature of a JV.
+
+34. Range of potential transfer restrictions
+a) Spectrum from
+i) Completely free transferability
+ii) Free transferability with a few constraints (e.g. transfer can be refused in a few limited situations)
+iii) Pre-emption (giving other member(s) a right of first refusal)
+iv) Prohibition on transfer except in very limited circumstances, usually with the other shareholder’s consent
+v) Absolute prohibition on transfer
+b) Question is where the level of restriction will be placed.
+c) In multi-party ventures (with various parties playing a passive investment role), relative freedom better to let parties sell to another
+d) In smaller ventures where personal relationship of parties is crucial for the venture, typical to entirely prohibit transfer of shares, or at least in an initial lock-up period.
+e) In many cases, some intermediate is taken, with a pre-emption right.
+
+35. Pre-emption procedure
+a) Proposed transfer price given by selling party
+b) Other party (non-selling party) is given time to exercise pre-emption right on terms stated in transfer notice
+i) For multi-party ventures, each party is offered an option to buy the exiting party’s shares pro rata to their interest in JVCo, and an option to acquire any excess shares not taken up by other non-selling shareholders.
+c) If pre-emption rights not exercised, selling party is free to sell to 3rd party at price not less than that offered to JV party
+
+36. Pre-emption rights – generally two kinds.
+a) Right of first offer (soft right)
+i) Selling party wishes to sell but not obliged to first identify 3P purchaser
+(1) Thus, this right arises at the front end of the sale process.
+ii) Non-selling party has 1st opportunity to take up the offer or negotiate
+iii) If not accepted by non-selling party, selling party usually free to sell to any 3P at price not less than previously offered price
+iv) Advantage for selling party
+(1) avoids initial cost and effort of marketing to 3rd parties
+v) Disadvantage for non-selling party
+(1) may have to decide whether to buy out selling party where sale to 3P is not real possibility (i.e. non-selling party may be forced to buy because it does not want a 3P it is not familiar with to enter the JVCo)
+vi) Common variation:
+(1) Valuation by an expert valuator called by the non-exiting parties so there is a fair price, rather than being forced to decide based on an arbitrary price set by exiting party.
+
+b) Right of first refusal (hard right)
+i) Selling party obliged to identify bona fide 3P purchaser before pre-emption right is exercisable by the non-selling party
+(1) Thus, this right arises at the back end of the sale process.
+ii) Non-selling party has 1st opportunity to consider and refuse (if it does not want to take up the shares)
+iii) If not exercised by non-selling party, selling party can only sell to specified 3rd party at price specified in transfer notice
+iv) In practice, difficult to get firm offer from 3P in advance of pre-emption process
+(1) Difficult to sell effectively, which is why it is a hard right.
+v) 3P usually prefers to wait until it is clear whether pre-emption right will be exercised
+
+37. Transfer price (which the non-selling party buys the selling party’s shares) – always a point of contention for pre-emption rights.
+a) Price set by selling party
+b) Price offered by third party purchaser
+c) Price determined by independent valuation – some interesting issues. Need assistance of accountants and other financial advisors. Possible bases:
+i) Market value on a pro rata basis
+(1) “open market value” is a dangerous term for JVCos, as there is no open market. Thus it should only be used as a JVCo as a whole. 
+(2) But can use market value on a pro rata basis.
+ii) Fair value
+(1) Different from market value, more flexibility in valuing.
+(2) Can consider the rights and influence attached to the stake in JVA, e.g. discount by reason of minority holding, or control premium.
+(3) If the term “fair market value” is used, should clarify what it means, whether it includes a minority discount/control premium.
+(4) The remaining methods of valuing are less common.
+iii) Net asset value
+(1) Floor for valuation overall, generally.
+(2) If used as a basis, should spell out how or if specific assets (e.g. crypto, real estate, inventory) are to be valued at the time their value is to be determined.
+iv) Earnings basis (e.g. P/E ratio)
+(1) Appropriate for valuing the entire issued share capital, or controlling interest where the business is a going concern,
+v) Discounted cash flow
+(1) Useful where buyer acquires control over cashflows generated
+vi) Start-up cost – 
+(1) Can be actual cost incurred, 
+(2) Can be cost if the purchaser had started from scratch.
+vii) Dividend yield
+(1) Can be useful if shareholder has no power to control dividend policy or exercise other major control over decisions.
+(2) Conversely, not appropriate for a minority stake in JV (since the other guy may be majority).
+
+38. Tag-along right – another possible issue with exit, may be provided in JVA.
+a) “Tag-along” or “piggy-back” right preserves exit for other non-selling party when one party wishes to sell to 3rd party
+b) Selling party is obliged to ensure that 3rd party extends offer to include other parties on same terms
+c) Sensible precaution for minority to ensure that upon sale by majority, it can get same price and does not get locked in as minority with newcomer.
+
+39. Drag-along right
+a) “Drag-along” right gives selling party the right to oblige other parties to sell to 3rd party at same price as negotiated by selling party 
+b) Enables majority party to avoid blocking of sale by minority party, and to deliver the entire interest in JVCo to 3P purchaser
+
+4.8 *Exit from a JV
+40. Key issues in exit provisions – negotiating issues
+a) Fixed term/joint renewal
+i) JV duration and renewal. 
+ii) Fixed term and renewal provisions are common for non-equity joint ventures (they are rare for equity joint ventures)
+
+b) Termination for convenience
+i) Should this right be provided and what is the notice requirement?
+ii) What is the effect of the clause?
+
+c) Termination for cause (e.g. default scenario)
+i) What are the triggers? E.g. material default, COC, insolvency, failure by JVCo to achieve specified targets
+ii) What is the effect of the clause?
+
+d) Agreed put or call options
+i) Right of party to force other party to buy its shares (via put options), or to force the other party to sell their shares (via call options)
+
+e) Sale or public offering of joint venture company
+i) Should a party have the right to force this? IPO or secondary sale.
+ii) Should be contemplated as an objective or alternative at formation of JV.
+
+f) Transfer of interest
+i) Rights of venturers to sell their interest to a 3P. See transfer restrictions.
+
+g) Deadlock
+i) See deadlock section.
+
+h) Change or transformation
+i) Right of parties to call for discussion on changing the scope of the JV
+ii) Possibly tie to economic/market conditions, hardship of parties, milestones in JV
+iii) Will these be non-committal discussions or referred to an arbitrator? 
+
+4.9 *Default
+41. Default events – right to terminate the JVA accrues upon such events
+a) Insolvency – if one JV partner goes insolvent, then it may trigger a default event and allow the non-defaulting party to buy out the insolvent partner’s shares in the JV (rather than waiting for the insolvency process of the partner to be completed, where its assets including the JV shares may be distributed to 3P whom the existing party may not be familiar with)
+b) Breach – material breach of SHA, typically requested by minority shareholders. Normally limited to breaches of specified clauses, rather than any clause
+c) Cross-default – where JV company entered into side agreements with its shareholders, like licensing agreements. A default under those agreements may also trigger a cross-default under  the main SHA
+d) Change in control – parties are engaging with each other on the basis that they belong to a certain wider group of companies. In the event a JV shareholder entity ceases to remain in that group of companies, it could trigger a COC event constituting a default event
+
+42. Default mechanism 
+a) Put/call options – non-defaulting shareholders can either put their shares to the defaulting shareholder and require them to buy it, OR to have a call option over the defaulting shareholder’s shares where it would be required to sell them to the non-defaulting shareholders
+b) Pricing – goes to a valuation mechanism, normally based on fair value with mechanism set out in the JVA/SHA. There may also be a premium or a discount on the purchase price of the shares, depending on who is buying out who:
+i) If defaulting shareholder is buying out the non-defaulting shareholder (via exercising a call option), it would buy the shares at a premium to fair value
+ii) If non-defaulting shareholder is buying out the defaulting shareholder, it would buy the shares at a discount to fair value
+c) Unwinding arrangements – 
+i) if JV has a lot of ancillary agreements between the JVCo and specific shareholders, then they may need to be terminated or alternative arrangements need to be put in place if the shareholder that is party to the ancillary agreement is exiting
+ii) if JV had parties contributing assets to the JVCo, they may need to be arrangements for the assets to be returned to the exiting shareholder
+
+43. Conclusions:	
+a) Contractual provisions will be based on these core issues
+b) Terms may become unduly complicated and unworkable in practice (since parties want to reflect their desires), and may not be used anyway since parties may just agree.
+c) Terms should be kept simple and as commercially realistic as possible.
+d) Principles in JVA may nonetheless be useful, forms the background of negotiations.

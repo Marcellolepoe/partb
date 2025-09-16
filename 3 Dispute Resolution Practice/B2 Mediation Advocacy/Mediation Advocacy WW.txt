@@ -1,0 +1,995 @@
+It 
+Contents
+Introduction to Mediation	2
+Comparison of the various dispute resolution mechanisms	2
+Mediation basics	2
+What is mediation?	2
+Mediation institutions	3
+Roles of advocate in mediation	3
+Pros and cons of mediation	3
+Benefits	3
+Disadvantages	3
+Common types of mediation and mediators	3
+Mediation Landscape – Mediation Institutions	4
+Selecting a mediator	4
+Institutional vs ad hoc mediation	4
+Other	4
+Mediation Landscape – Legal Framework	4
+Legal sources	4
+Statutes	4
+Subsidiary Legislation	4
+Practice Directions	4
+Case Law	4
+Basis of mediation	4
+By Agreement	4
+By statutes and sub-legislation	4
+By Court’s directions or authorized body’s directions	5
+Mediation Act 2017	5
+Definition of mediation in the Act	5
+Applicability of Mediation Act – s 6	5
+Stay of Court proceedings – s 8	5
+Confidentiality – s 9	5
+Without Prejudice Privilege – s 10	6
+Mediated Settlement Agreement	6
+Conduct of lawyers in mediation	7
+General duties:	8
+Duty to advise on mediation	8
+Conduct of parties and cost consequences	8
+When has a party unreasonably refused ADR? Some principles	9
+7 Elements of Effective Negotiations	10
+1 – Interests	10
+2 – Options	10
+3 – Criteria (Evaluating options)	10
+4 – Alternatives (to a negotiated agreement)	11
+5 – Communication	11
+6 – Relationship	11
+7 – Commitment	11
+Ethical Concerns for the Mediation Advocate	11
+Role of a mediation advocate	11
+Ethical considerations for a mediation advocate	12
+Competence in advising client	12
+Protection of client confidentiality	12
+Courtesy and fairness	12
+Honesty, honourability, and good faith in conducting the negotiation	13
+Avoidance of conflict of interest	13
+Duties of a lawyer to a client	13
+Process of mediation	13
+Case selection	13
+General preparation	14
+Timing – when to propose mediation?	14
+Who should attend mediation?	14
+Client preparation	14
+Understand client’s objectives and negotiation strategy	14
+Explain the mediation process	14
+Manage client’s expectations	15
+Opening statement	15
+Case brief	15
+Practical things for lawyer to do during mediation	15
+Other general matters	15
+
+
+Introduction to Mediation 
+COMPARISON OF THE VARIOUS DISPUTE RESOLUTION MECHANISMS 
+NegotiationMediationArbitrationLitigationDecision-MakerPartiesParties (but facilitated by neutral 3P Mediator)
+--> parties decide if there should be an agreement, and if so, the terms of the agreementNeutral Arbitrator(s)Neutral Judge(s)Nature• Interest-based, Consensual
+• Problem-solving
+• Confidential• Interest-based, Consensual
+• Problem-solving
+• Confidential
+• Binding Settlement Agreement
+• No adjudication• Rights-based
+• Adversarial
+• Confidential
+• Binding Award (adjudication)• Rights-based
+• Adversarial
+• Public forum
+• Binding Judgment (adjudication)CostsInexpensive Inexpensive ExpensiveExpensive DurationShorter Shorter LongerLongerFocus• Solution 
+• Possible Future relationship• Solution
+• Possible Future relationship• Legal Rights
+• Past Events• Legal Rights
+• Past Events
+MEDIATION BASICS 
+What is mediation? 
+- A Dispute Resolution Mechanism
+- Facilitated by Neutral (Independent) Mediators
+- Disputants empowered to decide outcome – NOT adjudication
+- Confidential, Without Prejudice & Voluntary
+- Possible Outcomes: 
+o Settlement Agreement
+o Full Settlement 
+o Partial Settlement 
+o No Settlement
+
+Mediation institutions 
+- Courts 
+o State Courts (including Family Justice Courts, Small Claims Tribunal) 
+o Supreme Court
+- Commercial Dispute Resolution Centres 
+o Singapore Mediation Centre 
+o Singapore International Mediation Centre 
+- Mediation institutions 
+o Singapore International Mediation Institute 
+o Singapore International Dispute Resolution Academy 
+- Industry-specific mediation schemes (e.g. Medical, IPOS)
+
+Roles of advocate in mediation 
+- Before dispute: 
+o Advise on Alternative Dispute Resolution clauses in contract 
+- When there is a dispute: 
+o Advise / Assist Client: 
+* to assess if mediation is a viable option
+* by proposing mediation for client’s consideration, when(ever) appropriate 
+* prepare for mediation 
+o Assist the Mediator (while protecting Client’s interests)
+o Draft any Settlement Agreement (with opposing Counsel) 
+
+
+PROS AND CONS OF MEDIATION 
+Benefits 
+For client 
+- Quicker resolution 
+- Client’s control of outcome
+- Greater number of possible solutions
+- Less expensive as compared to other dispute resolution mechanisms
+- Confidential
+- Preservation / improvement of relationship between disputants
+- Choice of Mediator
+
+For counsel:
+- Possibly greater Client satisfaction 
+- Opportunity to test strengths and weaknesses of Client’s case (in case mediation fails and court/arbitral proceedings were to commence) 
+
+
+Disadvantages 
+- No certainty of settlement 
+o whereas in litigation or arbitration, there would be a court order or arbitral award
+- No legal precedent 
+o due to the confidential nature of the process
+o therefore, creative / good mediated solutions not readily available to serve a guide in future disputes
+- No formal discovery process to compel disclosure of pertinent information
+
+
+COMMON TYPES OF MEDIATION AND MEDIATORS 
+Facilitative MediationEvaluative MediationAlso known as Interest-based, problem solving mediationAdvisory, managerial mediationMain ObjectiveTo avoid positions and negotiate based on parties’ underlying needs and interests instead of their strict legal entitlementTo reach a settlement according to the legal rights and entitlement of the parties, within the anticipated range of court outcomesTypes of Mediators Expertise in mediation process and techniques; no necessary expert knowledge of the subject matter of disputeExpertise in substantive areas of the dispute, no necessary qualifications in mediation techniquesMediator’s Main RoleConduct the process, maintain a constructive dialogue between the parties and enhance negotiation processProvide additional information, advise and persuade the parties, bring professional expertise to bear on content of negotiationOther CharacteristicsLess intervention by mediator, parties encouraged to fashion creative outcomes around mutual interests.Greater intervention by mediator, less party control over outcome.
+
+
+*Mediation Landscape – Mediation Institutions 
+This is just a reproduction of the slides, idk whether it’s useful or not 
+A. Singapore Mediation Centre (SMC)
+* Set up in 1997 as a not-for-profit organization
+* Objective 
+• To promote, develop and facilitate the settlement of disputes by using alternative dispute resolution processes.
+* Function
+• To provide mediator training and accreditation
+• To provide and administer mediation services
+* http://www.mediation.com.sg/ 
+B. Singapore International Mediation Centre (SIMC)
+* Set up in 2014 as a non-for-profit organization
+* Function:
+• To provide mediation services
+• Collaborate with Singapore International Arbitration Centre to administer the “Arb-Med-Arb” protocol
+* https://simc.com.sg/ 
+C. Singapore International Mediation Institute (SIMI) – for professional standards
+* Set up in 2014 as a non-for-profit organization
+* Independent Professional Standards body for mediation in Singapore and the region. 
+* http://www.simi.org.sg/ 
+D. Singapore International Dispute Resolution Academy (SIDRA)
+* Not-for-profit Organization that was launched in 2016
+* Provides Research, Training, Consultation services relating to mediation and negotiation
+* http://www.sidra.academy/our-services/ 
+E. Community Mediation Centre (CMC)
+* Established in 1998 under CMC Act
+* Provide mediation services for social, community or family disputes that do not involve an arrestable offence 
+* A police officer can refer a case of a non-arrestable offence for mediation by a mediator from the CMC
+* https://www.mlaw.gov.sg/content/cmc/en.html 
+F. SMC Mediation & Industry Mediation Schemes
+* SMC Mediation procedure rules: Any civil case - any quantum, no geographical limits
+* Industry Mediation Schemes: 
+• Council for Estate Agencies Mediation Sub-Scheme
+A. Aims to help settle disputes between clients and their estate agents 
+B. Applicable for disputes which arise in relation to estate agency agreements as well as the sale, purchase, and lease of residential property
+• Committee for Private Education Mediation-Arbitration Scheme
+A. Aims to help settle disputes between students and private education institutions over issues relating to enrolment, course fees, disciplinary matters, etc. 
+B. Launched by the Committee for Private Education in conjunction with SMC and the Singapore Institute of Arbitrators
+• Healthcare Mediation Scheme
+A. Aims to help settle disputes between individuals and healthcare institutions  
+B. Supported by MOH Holdings Pte Ltd, the holding company of Singapore’s public healthcare clusters
+• IPOS Mediation Promotion Scheme
+A. Funding scheme that promotes use of mediation to resolve intellectual property disputes by subsidising parties’ mediation costs 
+B. Parties will be subsidised up to $10,000 or up to $14,000 if their dispute includes issues on foreign IP rights
+• Fair Tenancy Industry Committee 
+A. Aims to help settle disputes under the Code of Conduct for Leasing of Retail Premises in Singapore
+• Singapore Medical Council Mediation Scheme
+A. Aims to help settle disputes between individuals and registered medical practitioners over issues such as serious misconduct, breach of duty, or neglect
+B. Referral programme in partnership with the Singapore Medical Council Complaints Committee 
+• Singapore Infrastructure Dispute-Management Protocol
+A. Appointed Dispute Board follows large construction or infrastructure projects to manage and resolve issues arising from start to finish
+B. Can be used as collaborative tool for efficient management of potential conflicts
+* Others (not administered by SMC):
+• Financial Industry Disputes Resolution Centre Ltd (FIDReC)
+• https://www.fidrec.com.sg/website/background.html
+• Consumers Association of Singapore (CASE)
+• https://www.case.org.sg/
+• Strata Title Board Mediation
+• https://www.stratatb.gov.sg/mediation.html
+• Law Society Mediation Scheme
+• https://www.lawsociety.org.sg/For-Public/Dispute-Resolution-Schemes/Mediation-Scheme
+• Etc.
+G. Private Organizations
+* For example:
+• Eagles Mediation and Counselling Centre
+• Harmony Mediation Group 
+• Marican Mediation Services 
+• Med8
+• Peacemakers Consulting Services 
+• Resolvers 
+• Etc.
+
+SELECTING A MEDIATOR 
+Institutional vs ad hoc mediation 
+Mediators 
+- For institutional mediation, there is already a panel of accredited mediators 
+- Ad-hoc mediation is just some random fella that parties select themselves 
+
+Experience in suggesting appropriate mediators 
+- Institution can suggest who the most appropriate mediator would be in that scenario 
+
+In-depth knowledge of mediator expertise, style, personality, skills 
+
+Other conveniences
+- Preparing venue for mediation, dealing with the fees for the mediator, etc. 
+
+Other 
+Do you get a judge/ex-judge as a mediator? 
+- If the dispute has many complex legal arguments, maybe 
+- Judges are also good at knocking sense into both parties 
+
+*Mediation Landscape – Legal Framework 
+LEGAL SOURCES 
+Statutes 
+- Mediation Act 2017 (Act 1 of 2017)
+- Community Mediation Centre Act (Cap. 49A)
+- Family Justice Court Act 2014 (Act 27 of 2014)
+- Supreme Court of Judicature Act (Cap 322)
+- Protection from Harassment Act 2014
+- Legal Profession Act (Cap 161)
+- Women’s Charter (Cap 353)
+
+Subsidiary Legislation 
+- Mediation Rules 2017
+- Family Justice Rules 2014
+- Rules of Court
+- Small Claims Tribunals Rules
+- Legal Professional (Professional Conduct) Rules 2015
+- Women’s Charter (Mediation and Counselling) (Prescribed Persons) Rules 2011
+
+Practice Directions 
+- Supreme Court
+- State Courts
+- Family Justice Court
+- Singapore International Commercial Court
+
+Case Law 
+- UJN v UJO [2018] SGFC 16
+- Legis Point LLC v Tay Choon Ai [2018] 3 SLR 1269
+- Sita Jaswant Kaur v Surindar Singh s/o Jaswant Singh [2013] 4 SLR 838
+
+BASIS OF MEDIATION 
+
+By Agreement 
+Mediation agreement: Cable & Wireless Plc v IBM United Kingdom Ltd [2002] EWHC 2059 (Comm)
+
+Multi-tier DR agreement: Heartronics Corporation v EPI Life Pte Ltd and others [2017] SGHCR 17 at [71]
+- The Court held that the multi-tier dispute resolution clauses were regarded as an unitary dispute resolution mechanism. The defendant’s repudiatory breaches of the mediation portion of the ADR clauses had rendered the arbitration portion of the clauses inoperative. Hence, the defendant was unable to rely on the arbitration agreement. Accordingly, the Court dismissed the defendant’s application to stay in the court proceedings
+
+By statutes and sub-legislation 
+Some statutes require disputes to first go through mediation before litigation can commence 
+
+Examples: 
+- Building Maintenance and Strata Management Act s 89(2)
+- Industrial Relations Act, s 30H
+- Employment Claims Act 2016, s 3(1)
+- FJC PD 11(2) and (3)
+- Supreme Court of Judicature Act, First Schedule [21]
+- Medical Registration Act, s 42(4)(b)(ii)
+- Land Titles (Strata) Act s 84E(6A)(a)
+- Criminal Procedure Code, s 16(1)(c)
+
+By Court’s directions or authorized body’s directions 
+Examples: 
+- ROC 2021 (O. 5, r. 3)
+o Gives court the power to order the parties to attempt to resolve the dispute by amicable resolution 
+o (1) The Court may order the parties to attempt to resolve the dispute by amicable resolution.
+o (2) In deciding whether to exercise its power under paragraph (1), the Court must have regard to the Ideals and all other relevant circumstances, including whether any of the parties have refused to attempt to resolve the dispute by amicable resolution.
+o (3) Without affecting the Court’s power under paragraph (1), if a party informs the Court that the party does not wish to attempt to resolve the dispute by amicable resolution, the Court may order the party to submit a sealed document setting out the party’s reasons for such refusal.
+o (4) The sealed document will only be opened by the Court after the determination of the merits of the action or appeal and its contents may be referred to on any issue of costs.
+o (5) The Court may suggest solutions for the amicable resolution of the dispute to the parties at any time as the Court thinks fit. 
+- Personal Data Protection Act 2012, s 27(1)
+
+*MEDIATION ACT 2017
+Definition of mediation in the Act 
+s 3 MA: a process comprising of one or more sessions in which one or more mediators will assist the parties to a dispute to do all or any of the following with a view to facilitate the resolution of the whole or part of the dispute: 
+(a) identify the issues in dispute;
+(b) explore and generate options; 
+(c) communicate with one another; 
+(d) voluntarily reach an agreement.
+
+*Designated mediation service providers – under s 7(1)(a), 7(2) and 12(3)(a) MA
+From 1 Nov 2017, the Minister for Law designates the following institutions as designated mediation service providers:
+* Singapore International Mediation Centre;
+* Singapore Mediation Centre;
+* Tripartite Alliance for Dispute Management; and
+o Jointly set up by the tripartite partners: MOM, NTUC and Singapore National Employers Federation (SNEF)
+o Mediation services: 
+* salary-related claims, must first be mediated before being heard by Employment Claims Tribunals
+* wrongful dismissal claims for dismissals without just or sufficient cause
+* appeals under the Retirement and Re-employment Act referred by MOM
+* for other types of employment disputes or fee payment-related disputes for self-employed persons, TADM may offer mediation where appropriate
+o Advisory services: only for employees and self-employed persons – TADM will explain the options available for managing an employment dispute. May be referred to other partners who can assist
+* World Intellectual Property Organization Arbitration and Mediation Center.
+o The WIPO Arbitration and Mediation Center offers time- and cost-efficient alternative dispute resolution (ADR) options, such as mediation, arbitration, expedited arbitration, and expert determination to enable private parties to settle their domestic or cross-border commercial disputes. The WIPO Center is international and specialized in IP and technology disputes. The WIPO Center is also the global leader in the provision of domain name dispute resolution services under the WIPO-designed UDRP
+
+From 1 Nov 2017, the Minister for Law designates the Singapore International Mediation Institute Credentialing Scheme (SIMI Certified Mediator) as an approved certification scheme.
+
+Applicability of Mediation Act – s 6 
+s 6 MA: Applicable when –
+- the mediation is wholly or partly conducted in Singapore; OR 
+- the agreement provides that this Act or the law of Singapore is to apply to the mediation.
+
+Not applicable when:
+- any mediation or conciliation proceeding, process, scheme or framework conducted under, or provided by or under, any written law; 
+- Unless otherwise provided in an order under subsection (4), any mediation conducted by, or under a direction by, a court; …
+
+Stay of Court proceedings – s 8 
+Court has power to stay court proceedings in favor of mediation, if there is a mediation agreement 
+
+s 8 MA: 
+(1) Where any party to a mediation agreement institutes any proceedings before a court against any other party to that agreement in respect of any matter which is the subject of that agreement, any party to that agreement may apply to that court to stay the proceedings so far as the proceedings relate to that matter. 
+
+(2) The court hearing the application may make an order, upon such terms or conditions as the court thinks fit, staying the proceedings so far as the proceedings relate to the matter.
+
+(3) The court may, in making an order under subsection (2), make such interim or supplementary orders as the court thinks fit for the purpose of preserving the rights of the parties.
+
+(4)  For the purposes of this section, a reference to a party includes a reference to any person claiming through or under a party
+
+Confidentiality – s 9 
+s 9 MA: Mediation communications are confidential and must not be disclosed unless exceptions apply 
+- Exceptions include: consent of the other party, already public information, disclosure for seeking legal advice, disclosure is necessary to prevent danger of injury to any person, or abuse to any young person
+
+What is a “mediation communication”? – s 1 MA:
+- “mediation communication”, in relation to a mediation, means —
+o (a) anything said or done; 
+o (b) any document prepared; or
+o (c) any information provided,
+for the purpose of or in the course of the mediation, and includes a mediation agreement or mediated settlement agreement;
+
+Section 9: 
+(1) Subject to subsections (2) and (3), a person must not disclose any mediation communication relating to a mediation to any third party to the mediation.
+(2) A person may disclose a mediation communication to a third party to the mediation if —
+(a) the disclosure is made with the consent of —
+(i) all the parties to the mediation; and
+(ii) for a mediation communication that is made by a person other than a party to the mediation, the maker of the mediation communication;
+(b) the content of the mediation communication is information that has already been made available to the public at the time of its disclosure, other than information that is only in the public domain due to an unlawful disclosure;
+(c) there are reasonable grounds to believe that the disclosure is necessary to prevent or minimise —
+(i) the danger of injury to any person; or
+(ii) the abuse, neglect, abandonment or exploitation of any child or young person (within the meaning of the Children and Young Persons Act 1993);
+(d) the disclosure is made for research, evaluation or educational purposes without revealing, or being likely to reveal, whether directly or indirectly, the identity of the maker of the mediation communication or any person to whom the mediation communication relates;
+(e) the disclosure is made for the purpose of seeking legal advice;
+(f) the person disclosing the mediation communication is an arbitrator acting as a mediator under section 63(1) of the Arbitration Act 2001 or an arbitrator or umpire acting as a conciliator under section 17(1) of the International Arbitration Act 1994 and the disclosure is made in accordance with section 63(2) or (3) of the Arbitration Act 2001 or section 17(2) or (3) of the International Arbitration Act 1994, as the case may be;
+(g) the disclosure is required by an order of court, or required or authorised by or under any written law;
+(h) the disclosure is made to assist a law enforcement agency in the investigation of any offence under any written law;
+(i) the disclosure is in compliance with a request or requirement imposed by a regulatory authority and is necessary to enable the regulatory authority to perform its duties or discharge its functions; or
+(j) the mediation communication relates to the commission of any offence under any written law or was made in furtherance of any illegal purpose.
+(3) Despite subsection (2), a person may, with permission of a court or an arbitral tribunal under section 11, disclose a mediation communication to a third party to the mediation —
+(a) for the purpose of enforcing or disputing a mediated settlement agreement;
+(b) for the purpose of establishing or disputing an allegation or a complaint of professional misconduct against a mediator or any other person who participated in the mediation in a professional capacity;
+(c) for the purpose of discovery or other similar procedures in any court proceedings or arbitral proceedings (as the case may be) which have been instituted, where the person who is a party to those proceedings is required to disclose documents in the person’s possession, custody or power; or
+(d) for any other purpose that the court or arbitral tribunal (as the case may be) considers justifiable in the circumstances of the case.
+
+Without Prejudice Privilege – s 10 
+s 10 MA: A mediation communication is not to be admitted in evidence in any court, arbitral or disciplinary proceedings except with the leave of a court or an arbitral tribunal under s 11 MA
+
+What is a “mediation communication”? – s 1 MA:
+- “mediation communication”, in relation to a mediation, means —
+o (a) anything said or done; 
+o (b) any document prepared; or
+o (c) any information provided,
+- for the purpose of or in the course of the mediation, and includes a mediation agreement or mediated settlement agreement;
+
+Mariwu Industrial Co (S) Pte Ltd v Dextra Asia Co Ltd [2006] 4 SLR(R) 807 at [24]
+
+Even though a statement is not expressly made ‘without prejudice’ the law holds that it is made without prejudice because it was made in the
+course of negotiations to settle a dispute 
+
+QUARE: Is mediation a course of negotiation to settle a dispute? See Mediation Act, s 4.Greenline-Onyx Envirotech Phils, Inc v Otto Systems Singapore Pte Ltd [2007] 3 SLR(R) 40
+
+Waiver of WP privilege by producing the document in the court 
+- Df disputed the amount of debt claimed in a WP communication (thus indirectly acknowledging the existence of the debt) 
+- The reasoning apparently is that the acknowledgement is not “evidence” of an acknowledgement that must be admitted, but it is the entire acknowledgement (for the purposes of some statutory provision governing acknowledgement of debt). Thus, a procedural bar is lifted, but it remains for the pf to prove the debt. 
+
+C.f. Krishna Kumaran s/o K Ramakrishnan v Kuppusamy s/o Ramakrishnan [2014] 4 SLR 232
+- Without prejudice privilege covers situations where parties communicate through a 3p to negotiate a settlement (as a result of breakdown in relationship between parties) 
+- Includes communications to mediator 
+**Mediated Settlement Agreement 
+Entering into the agreement --> same as any other contract. Offer/acceptance, consideration, certainty, intention to create legal relationship etc. 
+
+Checklist for Settlement Agreement
+- Party to the agreement / third parties
+- The scope of claim being settled
+- Formality
+- Disposal of court proceedings
+- Warranties
+- Conditional or unconditional settlement?
+- Default provisions
+- Payment arrangement/tax/legal costs
+- Confidentiality
+- Governing law and jurisdiction
+- Capacity and authority to settle
+
+Subject to contract doctrines 
+- E.g. Tiong Swee Eng v Yeo Khee Siang [2015] 3 SLR 1141 at [19]
+o A settlement agreement was simply a species of contract to which the general legal principles laid down in Lim Koon Park v Yap Jin Meng Bryan [2013] 4 SLR 150 in relation to an actionable misrepresentation apply.
+
+*Settlement agreements can be recorded as a Consent Order – s 12 MA
+(1) Where a mediated settlement agreement has been made in a mediation in relation to a dispute for which NO proceedings have been commenced in a court, any party to the agreement may, with the consent of all the other parties to that agreement, apply to a court to record the agreement as an order of court. 
+(2) The application must be made within —
+(a) 8 weeks after the mediated settlement agreement is made; or
+(b)  such longer period as the court may allow.
+(3) Subject to subsection (4), a court may record a mediated settlement agreement as an order of court if — 
+(a) the mediation is administered by a designated mediation service provider or conducted by a certified mediator; 
+(b) the agreement is in writing and signed by or on behalf of all the parties to the agreement; and 
+(c) the agreement contains such information as may be prescribed.
+(4) The court may refuse to record a mediated settlement agreement as an order of court if —
+(a) the agreement is void or voidable because of incapacity, fraud, misrepresentation, duress, coercion, mistake or any other ground for invalidating a contract;
+(b) the subject matter of the agreement is not capable of settlement;
+(c) any term of the agreement is not capable of enforcement as an order of court;
+(d) where the subject matter of the dispute to which the agreement relates involves the welfare or custody of a child, one or more of the terms of the agreement is not in the best interest of the child;* or
+(e) the recording of the agreement as an order of court is contrary to public policy.
+
+Form of the agreement order Mediation Act, s 12 read with Mediation Rules 2017, s 2
+(a) the name of each party to the mediated settlement agreement; 
+(b) the name of each mediator conducting the mediation;
+(c) the name of the mediation service provider (if any) administering the mediation; 
+(d) the name of each certification scheme (if any) under which each mediator conducting the mediation is certified; 
+(e) the date on which the mediated settlement agreement is made; 
+(f) the terms of the settlement reached by the parties at the mediation.
+
+*Mediated settlement agreement in family law 
+- UJN v UJO [2018] SGFC 16
+o That is not to say the Settlement Agreement should be ignored it its entirety; rather, it is for the Court hearing the ancillary matters to consider the Settlement Agreement, whether it is binding, and if so, to what extent it is should be given effect. 
+o Consistent with pre-mediation decisions, see Sita Jaswant Kaur v Surindar Singh s/o Jaswant Singh [2013] 4 SLR 838 at [5] and [6] – an agreement made in contemplation of divorce is only ONE of the factors that the court should take into account under s 112(2) WC in determining what division is just and equitable – the court in that case did not think the proposed division in the settlement agreement should be accorded conclusive weight as it was disadvantageous to the wife.
+o Mediation is merely part of the context for an agreement made in contemplation of divorce – in a division of matrimonial assets proceedings, the court is not merely enforcing an agreement or the resolution of a mediation, but it is exercising its discretion under s 112(2), taking into account any agreement which may have been made and any other circumstances present to determine what is a fair and equitable division. 
+o NO SPECIAL STATUS IS ACCORDED TO AN AGREEMENT FOLLOWING MEDIATION – VAGUE CONSIDERATIONS OF ANY PUBLIC POLICY TO PROMOTE ADR MECHANISMS CANNOT OVERRIDE THE COURT’S DUTY TO ENSURE THAT THE SETTLEMENT WAS FAIR AND EQUITABLE
+o NB: it is compulsory for parties to go for mediation if there are children under aged 21
+
+Enforcement of settlement agreement 
+- As a Court Order / Consent Order
+o Enforcement of Court Order/Arbitral Award
+o s 12(5) MA: A mediated settlement agreement that is recorded under this section as an order of court may be enforced in the same manner as a judgment given or an order made by a court.
+o It is very difficult to set aside a Consent Order after there has been agreement of parties (only exception would be fraud, duress, etc.
+
+- As a Contract
+o Recourses for Breach/Repudiation – damages, etc.
+
+
+*CONDUCT OF LAWYERS IN MEDIATION 
+PCR general duties: 
+Duty to be respectful, courteous and to act in good faith
+- PCR Rule 8A – Conduct of ADR process
+- (1)  A legal practitioner must always be respectful of the alternative dispute resolution process and the adjudicator, mediator or other person conducting the process.
+- (2)  A legal practitioner must always be courteous in the conduct or presentation of his or her client’s case in an alternative dispute resolution process.
+- (3)  A legal practitioner must act in good faith throughout the alternative dispute resolution process.
+- (4)  A legal practitioner must not knowingly mislead or attempt to mislead in any way an adjudicator, a mediator or other person conducting the alternative dispute resolution process.
+- (5)  A legal practitioner must not knowingly assist or permit his or her client to mislead an adjudicator, a mediator or other person conducting the alternative dispute resolution process.
+
+Duty to advance and act in client’s best interests
+- PCR Rule 5(2)(j): a legal practitioner must use all legal means to advance the client’s interests, to the extent that the legal practitioner may reasonably be expected to do so
+- PCR Rule 5(2)(b): when advising the client, inform the client of all information known to the legal practitioner that may reasonably affect the interests of the client in the matter, other than —
+(i) any information that the legal practitioner is precluded, by any overriding duty of confidentiality, from disclosing to the client; and
+(ii) any information that the client has agreed in writing need not be disclosed to the client
+- PCR Rule 17(1): Guiding principle – a legal practitioner must act in the best interests of his or her client, and must charge the client fairly for work done
+
+Duty to evaluate the use of ADR processes
+- PCR Rules 17(2)(e):
+- A legal practitioner must, in an appropriate case, together with his or her client —
+(a) evaluate whether any consequence of a matter involving the client justifies the expense of, or the risk involved in, pursuing the matter; and --> COST-BENEFIT AND RISK-BENEFIT ANALYSIS WITH CLIENT
+(b) evaluate the use of alternative dispute resolution processes
+
+Duty to advise on mediation 
+Supreme Court Practice Directions 35B:
+(2) It is the professional duty of advocates and solicitors to advise their clients about the different ways their disputes may be resolved using
+an appropriate form of ADR. 
+(5) …Advocates and solicitors should advise their clients on potential adverse costs orders for any unreasonable refusal to engage in ADR
+
+Supreme Court Practice Directions 35B and Appendix I: Guideline for Advocates and solicitors advising clients about ADR
+• Family Justice Court Practice Directions 11(1A)
+
+Observation in Lock Han Cheng Jonathan (Jonathan Luo Hancheng) v Goh Jessiline [2007] SGCA 56 at [45]:
+- The role of counsel in pursuing their clients’ interests in a court of law where paltry monetary claims were involved was to exercise the degree of responsibility expected of an officer of the court and advise their clients to settle the dispute with minimum fuss and minimum cost.
+
+Enforcing mediation agreement via specific performance 
+Can a party be compelled, through the remedy of specific performance, to refer a dispute to mediation in line with their contractual obligations? 
+- Maxx Engineering v PQ Builders Pte Ltd [2023] SGHC 71:
+o Damages inadequate because the performance bargained for is not substitutable 
+o Order of specific performance not impractical (i.e. can be allowed) – there are specific and concrete steps that the court can supervise: replying to the SMC to confirm its assent to mediation, providing dates for mediation, and providing its Case Summary to the mediator. These steps did not present impracticality of supervision as there would have been no serious difficulty in determining whether PQ had complied with such steps
+o Other circumstances relating to the “just and equitable” requirement for SP
+* Mediation could be beneficial for both parties in allowing them to resolve their dispute without incurring further delay or legal costs 
+* The choice made between commercial parties should be upheld 
+* There is a general trend towards the promotion of amicable dispute resolution 
+
+
+*CONDUCT OF PARTIES AND COST CONSEQUENCES 
+Possible cost consequences:
+- Cost against lawyers
+- Cost against winning parties
+- Parties bear their own cost
+- Cost follows the event (i.e. losing party bears party-party costs)
+- No order on cost, etc.
+
+Sources of law: 
+- Rules of Court 2021, O 5 r 1 and O 5 r 2
+- Rules of Court 2021, O 21 r 2(2)(a)
+- Supreme Court Practice Directions 35B
+- State Courts Practice Directions 26(7), 35(28) – (29)
+- The consideration of whether a party has unreasonably refused ADR
+
+ROC 2021 (O 5 r 1)
+Duty to consider amicable resolution of disputes
+
+1.—(1) A party to any proceedings has the duty to consider amicable resolution of the party’s dispute before the commencement and during the course of any action or appeal. 
+(2) A party is to make an offer of amicable resolution before commencing the action unless the party has reasonable grounds not to do so.
+(3) An offer of amicable resolution in this Order means making an offer to settle the action or appeal or making an offer to resolve the dispute other than by litigation, whether in whole or in part.
+(4) A party to any proceedings must not reject an offer of amicable resolution unless the party has reasonable grounds to do so.ROC 2021 (O 5 r 2)
+Terms of amicable resolution
+
+2.—(1) An offer of amicable resolution and any rejection must be in writing.
+(2) An offer of amicable resolution must be open for acceptance within a reasonable period of time and in any case, for at least 14 days, unless the parties otherwise agree.
+(3) The terms of an offer that has been made and not accepted must not be relied upon or made known to the Court until after the Court has determined the merits of the action or appeal and is dealing with the issue of costs.
+(4) Any offer of amicable resolution which does not state an expiry date expires once the Court has determined the merits of the action or appeal to which it relates unless the offeror has stated otherwise.ROC 2021 (O 21 r 2(2)(a))
+Power of Court
+
+In exercising its power to fix or assess costs, the Court must have regard to all relevant circumstances, including efforts made by the parties at amicable resolution. Parties that do not adhere to the duty may face consequences on costs.
+Supreme Court Practice Directions 2021 para 53 and Appendix D
+(2) It is the professional duty of advocates and solicitors to advise their clients to consider ADR as well as to give their clients sufficient information about the different ways in which their disputes may be resolved using an appropriate form of ADR. In this connection, the attention of advocates and solicitors is drawn to Rule 17(2)(e) of the Legal Profession (Professional Conduct) Rules 2015.
+(3) The guidelines in Appendix D of these Practice Directions on advising clients about ADR apply. 
+(4) ADR must be considered before the commencement and during the course of any action or appeal in order to facilitate the just, expeditious and economical disposal of civil cases. This is especially where ADR may save costs, achieve a quicker amicable resolution and a surer way of meeting the parties’ needs.State Courts Practice Directions 26(7)
+All cases shall be automatically referred by the Court for the most appropriate mode of ADR during the SFD hearing, unless any or all of the parties opt out of ADR.
+A party who wishes to opt out of ADR should indicate his/her decision in the ADR Form.
+
+Where the Judge is of the view that ADR is suitable, and the party/parties have opted out of ADR for unsatisfactory reasons, this conduct may be taken into account by the Court when making subsequent costs orders pursuant to Order 59 Rule 5(1)(c) of the Rules of Court, which states that:
+
+“The Court in exercising its discretion as to costs shall, to such extent, if any, as may be appropriate in the circumstances, take into account the parties' conduct in relation to any attempt at resolving the cause or matter by mediation or any other means of dispute resolution.”State Courts Practice Directions 35(28)
+Where any party is absent without a valid reason for the CDR session, the Court may exercise its powers under Order 34A Rule 6 of the Rules of Court to “dismiss such action or proceedings or strike out the defence or counterclaim or enter judgment or make such order as it thinks fit”.State Courts Practice Directions 35(29)
+Where any party is late for the CDR session, this conduct may be taken into account by the Court when making subsequent costs orders pursuant to Order 59 Rule 5(1)(c) of the Rules of Court, which states — 
+
+“The Court in exercising its discretion as to costs shall, to such extent, if any, as may be appropriate in the circumstances, take into account the parties' conduct in relation to any attempt at resolving the cause or matter by mediation or any other means of dispute resolution.”
+When has a party unreasonably refused ADR? Some principles 
+Halsey v Milton Keynes General NHS Trust [2004] 1 WLR 3002 at [16] (The Halsey Checklist, non-exhaustive)
+(a) the nature of the dispute;
+(b) the merits of the case;
+(c) the extent to which other settlement methods have been attempted;
+(d) whether the costs of the ADR would be disproportionately high;
+(e) whether any delay in setting up and attending the ADR would have been prejudicial; and
+(f) whether the ADR had a reasonable prospect of success.
+
+Court has to find a balance – Nigel Witham Ltd v Smith and another [2008] EWHC 12 (TCC), at [32]
+- Premature mediation may be pointless because the defendant doesn’t know the particulars of the case it has to answer 
+- Mediation may also be too late (after full particulars and documents have been exchanged) because costs have already been incurred to get to that point 
+- “The trick in many cases is to identify the happy medium: the point when the detail of the claim and the response are known to both sides, but before the costs that have been incurred in reaching that stage are so great that a settlement is no longer possible.”
+
+Silence in the face of an invitation to participate in ADR is, as a general rule, of itself unreasonable – PGF II SA v OMFS Co 1 Ltd [2014] 1 WLR 1386
+- Even if an outright refusal, or a refusal to engage in the type of ADR requested, or to do so at the time requested, might have been justified by the identification of reasonable grounds
+
+The cost of mediation work is claimable, the costs of mediation work could also have been taken into account by the court when awarding party-and-party costs – Legis Point LLC v Tay Choon Ai [2018] 3 SLR 1269 at [94]
+
+
+*7 Elements of Effective Negotiations 
+Originated from Harvard Negotiation Program by William Ury and Roger Fisher
+
+1 – INTERESTS 
+Party’s position (bad) vs party’s interest (good)
+- An interest is a motivation behind a demand made by a party to a dispute. It represents the needs and concerns of the party. 
+o An interest may not be obvious and parties may not even be aware of their interests
+o Thus, a mediator must assist to surface such parties’ interests – ask why or why not?
+- A position is a demand made by a party. It is merely one way to satisfy a perceived interest or set of interests.
+- E.g. 
+o Position: “I want my neighbour to stop playing his piano”
+o Interest:  “I need my rest as I’m working the early shift”
+
+The key to mediation is understanding the parties’ interests and finding common interests of parties (cf conflicting interest)
+- Focus on interests, not positions.
+- Clarify and prioritise party’s interests – ask questions to “test” and clarify interests and concerns raised by the other party
+- Interests must be understood before a dispute can be effectively resolved.
+- Dig under positions for interests - ask “why”, “why not”.
+- Capitalise on joint interests (joint problem solving)
+- Help parties realise that to resolve a dispute, the other party’s interest(s) will have to be addressed.
+- Examples of interests:
+o Goodwill
+o Reputation
+o Relationships
+o Security
+o Business Opportunities
+o Recognition
+
+2 – OPTIONS 
+- An option is a way to satisfy an interest. Options are the possible solutions to resolving the dispute.
+- Invent options guided by the parties’ interests, rather than their positions
+- Separate inventing from deciding. So that one can choose from the best of many or all possible options.
+- Generate options through brainstorming.
+- Lay ground rules for inventing phase (to generate as much solutions as possible) - no commitment, no attribution, no criticism, no evaluation.
+- Expand the “pie”. So that the smaller slice of a big ‘pie’ is even better than the larger slice of a small ‘pie’.
+- Agreement that is reached should be among the best of many options generated and packaged together.
+- Make commitments only at the end of the process.
+
+3 – OBJECTIVE CRITERIA (EVALUATING OPTIONS) / LEGITIMACY
+- Use objective criteria (also known as legitimacy) to evaluate an option.
+- Basis: parties want to be treated fairly.
+- Sword (to persuade someone that an option is fair) and shield (to protect against an option that is not fair).
+- Leads to face-saving and justifiable results (especially if negotiating party is a representative).
+- An objective criteria can take the decision-making away from the other party, so options are not evaluated based on the other party’s choice but from an objective point of view
+
+- Identify standards by which the parties may measure the fairness of an option
+o What past precedents exist? E.g. market rate for salaries of someone in that position
+o Is there a standard operating procedure?
+o What is the position at law?
+o What is the custom/tradition?
+o Is there an industry practice?
+o What is the market value?
+o What is a likely outcome if the matter went to court?
+
+- In the absence of objective criteria, identify fair procedures
+o One cuts, other chooses.
+o Taking turns.
+o Drawing lots.
+o Letting a neutral party decide (e.g. surveyor, engineer independent expert to provide a report on list of defects, which can be used by parties).
+
+- Ask, “Why is that fair?”
+- Look to objective standards and fair procedures.
+- In some cases, frame the issue as a search for an objective standard - ask how the issue ought to be decided. E.g. “What standards can we use to decide on fair compensation?”
+
+4 – ALTERNATIVES (TO A NEGOTIATED AGREEMENT)
+- Alternatives are used to evaluate whether options should be accepted
+- What can you do if there is no settlement? Using alternatives to reality check your client – is going to court instead something acceptable to the client? Need to account for costs of going to court, chance of gaining something more or less, etc.
+- Purpose - Evaluation of whether or not to accept option(s)
+- Options are ‘bilateral’ – involves the other party. 
+- Alternatives are ‘unilateral’ – what one can do without cooperation of the other party.
+- Types of alternatives possible 
+o BATNA - Best Alternative to a Negotiated Agreement.
+o WATNA - Worst Alternative to a Negotiated Agreement.
+o MLATNA – Most Likely Alternative to a Negotiated Agreement.
+- Evaluating alternatives 
+o Reality testing - Is one’s BATNA realistic? E.g. if a party says that he is “sure to win in court”, raise questions to help parties realise that that view may not be realistic.
+o Estimate the other party’s BATNA. To have a better appreciation of the strength of the other’s bargaining power.
+
+- If offer less than or equal to WATNA, BATNA, then likely no agreement and parties should walk away (since best alternative to negotiated agreement is BETTER than the offer on the table)
+
+- If offer greater than or equal to BATNA, parties should be open to an agreement and commit to it.
+
+5 – COMMUNICATION (OVERARCHING ELEMENT)
+- Receiving - Listening:
+o first and foremost to understand (not to debate or attack) 
+o for “positive” voices to help parties see the positives in the situation.
+- Conveying - Speak:
+o to let parties know that they have been heard.
+o to help parties ‘hear’ each other
+
+6 – RELATIONSHIP (OVERARCHING ELEMENT)
+- Two components to every dispute: Substantive issues and relationship issues.
+- Relationship issues can stand in the way of settlement of substantive issues – e.g. in divorce cases, parties often forget about what is the best interest of their child and often use their children as proxies
+- “Separate people (emotional part) from problem”
+- “Parties to get what they want, not about getting even” 
+- A reminder to look at the issues objectively and not be influenced (negatively) by how you feel about the person. 
+- Apart from the relationship between the parties, think about the relationship between the mediator and the parties.
+- At the minimum, parties must have a ‘working relationship’ to jointly solve the dispute, so they are more willing to communicate and be collaborative with more solutions
+- Build at the earliest opportunity. Can even begin before mediation proper.
+- Be unconditionally constructive in building a good relationship.
+- If there was a good working relationship between parties in the past, counsel should help to rebuild trust and rapport
+
+How to improve the relationship
+- Perception
+o Put yourself in the other’s shoes to appreciate a different perspective.
+- Emotion
+o Allow venting.
+- Communication
+o Build rapport through verbal / non-verbal communication
+
+7 – COMMITMENT (TO AGREEMENT)
+This refers to actual commitments to the other party after the conclusion of mediation 
+- Timing (when to commit?) – When: 
+--> agreement should not be rushed if concerns were inadequately addressed during sessions. Parties would be more likely to commit to an agreement if they had jointly come together to formulate it and adequately addressed each other’s concerns
+o Parties’ interests understood and prioritised.
+o Options that satisfy interests generated.
+o Options evaluated according to objective criteria or fair procedure.
+o Alternatives considered.
+
+
+*Ethical Concerns for the Mediation Advocate 
+ROLE OF A MEDIATION ADVOCATE 
+Main roles:
+- Prepare your client for mediation.
+- Support and assist your client in —
+o presenting his/her account, perspectives & proposals;
+o negotiating with & persuading the other party.
+- Assist the Mediator in —
+o understanding the dispute and provide clarity in your client’s case (including his needs and interests);
+o keeping the negotiations on track, collaborative and constructive;
+o managing your client’s emotions, conduct and expectations.
+- Ensure that any decision made by your client is a well-considered & informed decision.
+- Ensure terms of settlement— 
+o are in your client’s best interests;
+o reflect your client’s intentions; and
+o assist in the preparation of the terms of settlement.
+- Assist your client in any follow-up action.
+
+Approach to take while assisting client: 
+- In any mediation, a lawyer must protect and uphold his client’s interest no less robustly or zealously than in a litigation.
+- However, the approach to be taken should be —
+o less (or non-) adversarial;
+o focused on collaborative problem solving;
+o constructive if facilitating a resolution of the dispute in a mutually acceptable manner; and
+o consistent with the purpose and tone of mediation.
+
+Specifically for family proceedings: 
+- Must inform client of all available dispute resolution options including mediation so as to enable client to make informed decision on how to resolve family proceedings
+- From the time family proceedings are contemplated and whenever reasonably possible, advise client to consider resolving proceedings amicably.
+- Advise client to be constructive and reasonable when participating in these proceedings.
+
+Rule 15A PCR – representing client in family proceedings:
+(1)(a) A legal practitioner who represents a client in any family proceedings must be conscious that the client’s interests may be affected by considerations such as the interests of a child, the psychological health of the client, and the desirability of reducing conflict.
+
+(1)(b) A legal practitioner who represents a client in any family proceedings must, whenever it is reasonably possible, be constructive and conciliatory in the conduct of those proceedings and all matters relating to those proceedings, from the time those proceedings are contemplated until the resolution of those proceedings.
+
+(2)  A legal practitioner who represents a client in any family proceedings must —
+(a) from the time those proceedings are contemplated, inform the client of all available dispute resolution options (including, but not limited to, mediation and counselling) that are reasonably available to the client, so as to enable the client to make an informed decision on how to resolve those proceedings;
+(b) from the time those proceedings are contemplated, and whenever it is reasonably possible, advise the client to consider resolving those proceedings amicably; and
+(c) advise the client to be constructive and reasonable when participating in those proceedings.
+
+(3)  Where a legal practitioner represents a client in any family proceedings involving any child, the legal practitioner must —
+(a) advise the client that when the court makes any decision affecting the child, the welfare and best interests of the child take precedence over —
+(i) the wishes of either parent of the child; and
+(ii) the wishes of the child; and
+(b) advise the client to consider the welfare of the child, and the potentially adverse impact of those proceedings on the child.
+
+(4)  In this rule, “child” means an individual who is below 21 years of age.
+
+ETHICAL CONSIDERATIONS FOR A MEDIATION ADVOCATE 
+- Rule 5 – Competence in advising the client.
+- Rule 6 – Protection of the client’s confidentiality.
+- Rule 7 – Courtesy and Fairness.
+- Rule 8 – Honesty, honourability and good faith in conducting the negotiation.
+- Rule 22 – Avoidance of conflict of interest.
+
+Competence in advising client 
+Legal Profession (Professional Conduct Rules) 2015 - Rule 5 (Honesty, competence, diligence).
+- Ensure your client is in a position to make objective, well-considered, informed decisions at the mediation.
+
+Realistically and objectively assess for your client —
+- the strengths and merits of his/her case & the other party’s case;
+- the best (BATNA) and worst (WATNA) alternatives for your client to settling the case at mediation;
+- the implications for your client in terms of costs, time, convenience, and other relevant considerations  (e.g. goodwill, relationships, reputation) if the matter is not settled confidentially at mediation.   
+
+It is important to guide and prepare the client as in a mediation, the client is going to have to present his case and engage with the other party and the mediator. This may be outside the client’s comfort zone
+- What should he say? How should he say it? 
+- Manage the client’s emotions
+- Establish BATNA (best case) and WATNA (worst case) --> this would help the client to be in a better position to assess whether proposal put forward during the mediation would meet their underlying needs and interests
+- When client is considering an option, advise the client on the strengths and weaknesses of the option so the client can make an informed decision
+- Then work with the other party’s counsel to draft and finalize the terms of the settlement
+- Assisting the client with any follow-up actions
+
+Protection of client confidentiality 
+- Do not reveal (whether to the Mediator or the other party) any information that your client has instructed you not to reveal.
+- Seek your client’s permission if you are unsure whether a particular piece of information may be revealed during the mediation (including the preliminary conference between the lawyers and the Mediator).
+- Do not share any information about the mediation or its outcome with other persons (especially 3rd parties like the media) without your client’s authorisation.
+- Cannot misuse information gained during the mediation in subsequent proceedings (subsequent litigation or arbitration).
+
+In relation to any information concerning the other party that has come to your and/or your client’s knowledge during the mediation —
+- do not disclose this information to anyone without the authorisation of that other party; and
+- Impress on your client to maintain the confidentiality of that information
+
+This is required by law (see section 9 of the Mediation Act, above, and some other provisions below) 
+- Mediation Act 2017
+o Section 9 (Restrictions on disclosure)
+* 9.—(1) Subject to subsections (2) and (3), a person must not disclose any mediation communication relating to a mediation to any third party to the mediation.
+o Section 10 (Admissibility of mediation communication in evidence)
+o Section 11 (Leave of court or arbitral tribunal for disclosure or admission in evidence) 
+- Legal Profession (Professional Conduct Rules) 2015 - Rule 6 (Confidentiality).
+
+Courtesy and fairness
+
+
+Honesty, honorability, and good faith in conducting the negotiation 
+Basically be honest and don’t be a prick – Rule 8A Legal Profession (Professional Conduct) Rules 2015 
+- 8A.— Conduct of alternative dispute resolution process 
+o (1)  A legal practitioner must always be respectful of the alternative dispute resolution process and the adjudicator, mediator or other person conducting the process.
+o (2)  A legal practitioner must always be courteous in the conduct or presentation of his or her client’s case in an alternative dispute resolution process.
+o (3)  A legal practitioner must act in good faith throughout the alternative dispute resolution process.
+o (4)  A legal practitioner must not knowingly mislead or attempt to mislead in any way an adjudicator, a mediator or other person conducting the alternative dispute resolution process.
+o (5)  A legal practitioner must not knowingly assist or permit his or her client to mislead an adjudicator, a mediator or other person conducting the alternative dispute resolution process.
+- While a Mediation Advocate may adopt any negotiation strategy that is in the best interest of his/her client —
+o do not resort to underhanded negotiation tactics;
+o do not mislead the other party or his/her lawyer with false information;
+o endeavour to keep the negotiation constructive and collaborative with a view to resolving the dispute in a manner that is mutually acceptable by the parties
+
+Avoidance of conflict of interest 
+Respect the client’s decision 
+- The decision whether and on what terms to settle ultimately lies with your client. Respect your client’s decision even if it is not in accordance with your opinion or advice.
+- You can reality test the options but should respect the client’s ultimate decision
+
+Adherence to mandate given by client 
+- Ensure that when you reveal any information or make any proposal during the mediation, you have your client’s mandate / authorisation to do so.
+- Do not enter into any agreement on behalf of your client when you do not have any mandate / authorisation to do so.
+
+Generally avoiding conflicts of interest
+- Ensure your own interests (more billable hours and fees) are not in conflict with your client’s.
+- Ensure that you are not also acting for any other person who interests are inconsistent with your client’s.
+- If you have acted as mediator in a mediation, you must not subsequently act for any party to the mediation in relation to the subject of the mediation or any matter discussed during the mediation.
+- Do not resort to threats or undue influence to sway your client.
+
+DUTIES OF A LAWYER TO A CLIENT 
+- Render competent legal advice & representation to the client.
+- Act in the client’ best interests.
+- Use all legal means to advance the client’s interests, to the extent that the legal practitioner may reasonably be expected to do so (Legal Profession (Professional Conduct Rules 2015 – Should be r 5(2)(j), not r 5(2)(f)).
+- Secure the best outcome for the client in any negotiation or litigation.
+- Keep costs within the client’s budget.
+- Avoid being in a position of conflict with the client’s interests.
+- Maintain and protect the confidentiality of the client’s confidential information.
+- Ensure that legal practitioner has relevant knowledge, skills and attributes required for each matter undertaken and apply the knowledge, skills and attributes in a manner appropriate to that matter (PCR r 5(2)(d))
+
+
+*Process of mediation 
+CASE SELECTION – HOW DO YOU KNOW WHETHER THE CASE IS SUITABLE FOR MEDIATION?
+Generally, any civil case is suitable for mediation. Consider the need to avoid possibility of an adverse outcome in litigation
+
+Suitability of matter for mediation
+- Nature of dispute – i.e. any civil matter
+- Desired/creative outcomes – consider facts, law 
+o Check whether client wants outcome that the court / law cannot grant (e.g. just an apology) 
+- Cost of litigation relative to claim (e.g. if claim is only for a few thousand dollars)
+- Timing of mediation
+- Relationship between parties
+o Are the clients in the right frame of mind to come up with an agreement and settlement? Wait for them to cool down first
+o Must be working relationship at the minimum 
+o Sometimes parties have had a good relationship before it started to break down, so mediation might be the place for relationships to be repaired
+- Confidentiality – if it is important not to air dirty linen in public, then should opt for mediation
+
+Lecturer – the question should be “why not mediation?” 
+
+EXCEPTION WHERE CASE IS NOT SUITABLE FOR MEDIATION:
+- If you need a precedent from the court
+- If you need some power of the court (e.g. injunction)
+
+GENERAL PREPARATION
+Timing – when to propose mediation? 
+Generally, the earlier the better, to save costs for the client. 
+
+The better time to go for mediation is when you have sufficient information and a sense of the strength and weaknesses of the parties, with that in mind then you would know whether to accept a potential offer.
+
+But one should have a real appreciation of the alternatives 
+- E.g. what would happen if we end up suing? 
+
+Stage of the dispute matters --> NB: mediation can be proposed at ANY TIME throughout the dispute
+- Early stage of dispute (e.g. before the commencement of an adversarial process)
+o Before discovery, sometimes the parties don’t have an appreciation for the nature of the dispute, what kind of allegations are being brought against them 
+- After litigation/arbitration proceedings have commenced
+- While the matter is on appeal
+- Even after judgement has been delivered, in relation to appeal or enforcement (e.g. payment in instalment of court-ordered judgement)
+
+Who should attend mediation? 
+- Parties themselves
+- Person with authority to settle – someone who can sign the settlement agreement at the end of the session 
+o If individual dispute, then the person themself is usually enough 
+* But note that even individuals can have others who have influence over them (e.g. family or friends) who they would like to seek approval from before settling 
+o But for companies, you need someone who can enter contracts for the company 
+- Based on party’s temperament 
+o Sometimes having too many people in the room can cause tempers to flare
+o Have generally level headed people to come 
+- Anyone who may affect mediation outcome --> prior to mediation, should have a dialogue with the other side and mediator on who may have a positive impact on mediation
+- Consider client management --> prepare clients for what to expect and their role during mediation
+
+CLIENT PREPARATION 
+Understand client’s objectives and negotiation strategy 
+Assist client to:
+- Identify interests and key goals (of client and co-disputant) --> what is the root cause, or any hurt feelings?
+- Brainstorm options that also meet co-disputant’s interests --> more flexible options
+- Develop objective criteria to evaluate options 
+o This is to overcome the inherent bias that a party has when evaluating options from his or her own point of view 
+o E.g. based on market standards of the property
+o E.g. expert report from another 3P professional for medical negligence cases
+- Determine alternatives – assess BATNA, WATNA, and Walkaway Point 
+o You always take the settlement when the settlement is better than the BATNA 
+- Identify the settlement range 
+o Opening offer can be quite strategic and sensitive – some prefer to take the opening offer and some prefer to let the other party start 
+
+*Explain the mediation process 
+Stages of mediation 
+- Introduction 
+- Mediator’s opening statement – build rapport with clients and their counsels
+- Party A opening statement
+o Given orally 
+o Note that there is also a written document that is called an opening statement, this is submitted before mediation starts
+- Summary of Party A statement 
+- Party B opening statement
+- Summary of Party B opening statement
+
+(PROBLEM SOLVING STAGE)
+- Agenda setting --> parties are not restricted to any previous pleadings, etc. and do NOT frame issues to be discussed from a legal POV
+- Exploring of issues 
+- Private sessions 
+o The above all occurs where everyone is in the same room 
+o Private sessions afford the parties a chance to talk to the mediator without the other party present
+o This is good in situations where there is still a lack of trust in the other side 
+o Whatever is said in these sessions is private unless the party agrees that it can be shared 
+- Joint negotiation sessions
+o There can be several rounds of joint and private sessions 
+- Agreement 
+
+Manage client’s expectations 
+Provide guidance on:
+- Negotiation strategy – parties should be prepared to give and take
+- The process
+- The possible outcomes 
+o Best possible outcome in court
+o Worst possible outcome in court
+o Don’t focus solely on the monetary number
+
+Basically share with client what mediation is, what mediation is not 
+
+*CONFIDENTIALITY: identify information that – 
+- May be shared, or 
+- Should not be disclosed 
+o E.g. lowest agreeable settlement figure – can’t let the other party know at the outset 
+- Can be disclosed strategically 
+
+*Opening statement (of client in mediation hearing)
+- Make a clear and concise opening statement
+- Allow client to present his/her own case 
+o Advise client to prepare before
+- Provide clarification – fill any gaps in your client’s opening statement, at the end of the client’s presentation
+o “oh you missed this out, mind explaining this?” 
+
+Case brief – to give the mediator an idea what the case is about
+Parties may include the following in the case statement to be exchanged with the other party and submitted to the mediators:
+- Brief facts of the case 
+- Key issues to be mediated 
+- The parties’ main concerns (not about legal rights or pleadings)
+- Describe the relationship between the parties before the dispute arise and the current relationship between the parties
+- Previous settlement efforts and their outcomes 
+o If there have been many attempts, there must be some impediments to a settlement 
+- Identify other persons relevant to the dispute (highlight if they are unable or unwilling to attend mediation)
+- How do you propose to see the dispute resolved?
+- Relevant documents to be relied on in mediation --> MEDIATION IS ABOUT PROBLEM SOLVING AND NOT DETERMINING PARTIES’ RIGHTS WITH USE OF EVIDENCE, WITNESSES, ETC.
+o Generally, caselaw is not very useful at mediation but ok to bring along just for reference. 
+
+Important note – this is not a formal court document 
+- Tip from Loong Seng Onn – prepare a two page summary of the entire case, to move the mediator away from the lawyerly frame of mind considering legal rights and stuff 
+
+Common drafting mistakes to avoid 
+- Cut and paste pleadings into the Case Statement 
+- Stating “refer to pleadings” 
+- Engaging in protracted legal arguments 
+- Indiscriminate use of documents/evidence 
+- Personal attack on the counterparty, using emotional language
+- Not bothering to propose possible solutions/merely re-stating pleaded positions as “solutions” --> IMPORTANT TO REMAIN FLEXIBLE
+
+INSTITUTIONAL VS AD HOC (PRIVATE) MEDIATION
+- Panel of accredited mediators (trained and assessed), institutional mediation has many sector-specific panel of mediators (e.g. medical, engineering fields)
+- Experience in suggesting appropriate mediators
+- In-depth knowledge of mediator expertise, style, personality, skills
+- Cf ad hoc mediation which is conducted outside an institution (mediator can be anyone)
+
+PRACTICAL THINGS FOR LAWYER TO DO DURING MEDIATION 
+- Don’t focus on legal rights and obligations 
+- Allow parties to articulate their positions and feelings 
+- Guide client to make their point and ensure that they maintain a neutral tone 
+- Guide client to focus on the proceedings and not get distracted with phone or stuff 
+- Don’t make things worse by demanding things that your client is not interested in 
+- Don’t ask for a better deal when the client is ready to settle for something 
+o That said, advise your client properly if you think he is settling for something without having a full appraisal of the situation and his alternatives 
+- Consider impact of caselaw (and legal rights) on alternatives and reality checking – but better for caselaw to be brought up during a private caucus rather than in an open session (if not the other side might pick up on it to be used as a negotiation tool and become entrenched) 
+
+OTHER GENERAL MATTERS 
+What if the party just attends mediation because contractually obligated, but not interested in reaching a settlement? 
+- Mediators can often get the party to open up
+- And if not, at least the parties can get a better appreciation for each other’s cases 
+- As counsel, your role is to advise on the benefits of mediation and the risks of going to trial 
+- Caveat – if the party is there on a fishing expedition to try and fish for the other party’s trial strategy or whatever, then a good mediator would call the mediation to a halt 

@@ -1,0 +1,1570 @@
+Intellectual Property
+I.	Trademarks	7
+Intro	7
+Overview	7
+What is a trademark	7
+Application for registration and opposition procedure	8
+Registration process	8
+Opposition process	9
+Duration / renewal of protection	14
+Registrable Transactions: assignment, licence, etc.	14
+Grounds to challenge registration (Opposition s 13(2) (2 months after application for registration, max 4 months (Trade Marks Rules r 29))	15
+A.	Grounds of objection to registration: Absolute grounds	15
+S 7 (main overarching inquiry is distinctiveness)	15
+Approach: Emphasis on “distinctiveness”: “the trade mark must necessarily, either inherently or as a result of use, perform the most basic function of distinguishing the goods of the trader from those of his competitors in the marketplace” (Han’s (F & B) at [61])	16
+“inherent distinctiveness” under s 7(1) (Han’s (F & B) at [61])	16
+B.	Grounds of objection: relative ground s 8(2): Similar to earlier trade mark	18
+S 8:	18
+Approach: ““step-by-step” approach, as opposed to the competing “global appreciation approach”” (Staywell at [15])	18
+1.	Compare the marks	18
+2.	Compare the goods and services	20
+3.	Assess likelihood of confusion	21
+C.	Grounds of objection: Relative ground s 8(7): similar to unregistered mark protected by passing off,	23
+Post-grant	23
+Claims available: invalidation, revocation, infringement	23
+A.	Invalidations	24
+Grounds of invalidation S 23	24
+B.	Revocations (based on non-use only)	24
+Grounds of revocation	24
+What constitutes “genuine use” in grounds of revocation s 22(1)	24
+Partial revocation: S 22(6): partial revocation “of only some of the goods or services for which the trade mark is registered”	25
+Effective date of revocation:	25
+Infringement	27
+Rights conferred to trade mark owner	27
+Infringement provision (S 27(2)): Pre-requisites: “use of sign” “in the course of trade”	27
+Infringement provision (s 27(2)): 3 step test as in s 8(2) for relative grounds (Staywell at [163(a)])	28
+Defences	29
+S 28(1)(b)/(c): Descriptive use	30
+S 28(2): earlier rights / use	30
+Remedies	31
+Who can enforce: “proprietor of the trade mark” (s 31(1))	31
+Calculation of Statutory damages (s 31(5)(c))	32
+II.	Patents	32
+Procedural matters	32
+Patent application and its consequences	32
+Components of patent itself (some of these required by s 25(3))	34
+Post-grant of patent (general substantive rights)	35
+Validity of Patent	36
+A.	“A person skilled in the art”: all evaluation of patent to be done from his perspective	36
+Constructing the “person skilled in the art”	36
+Constructing with the aid of expert witnesses	37
+Potential issues with using experts	37
+B.	Construction of patent claims (see below, “Purposive Construction approach (Singapore’s approach)”)	38
+1.	Patentability: Novelty; “new” (s 13(1)(a))	38
+1)	What is relevant prior art	38
+2)	Was invention anticipated by any of these prior art (IP SG at [30.1.36]-[30.1.44])	38
+2.	Patentability: “involves an inventive step” (s 13(1)(b))	39
+“The requirement of obviousness is separate and distinct from that of novelty.” (First Currency at [37])	40
+Two step process: “construct the relevant state of the art for the invention in question” then “compare the invention with the state of the art to determine if the invention is obvious to the person skilled in the art.” (IP SG at [30.146])	40
+1)	Construct the relevant state of the art	40
+2)	Construe obviousness with the Windsurfing approach as a guide	40
+Cases	42
+3.	Validity of the patent: Sufficiency / insufficient enabling disclosure contrary to s 25(4) (s 80(1)(c))	43
+Test for sufficiency: (1) Identify the invention and decide what it claims to enable the skilled man to do; and (2) Ask whether the specification enables him to do it (Kirin-Amgen endorsed in First Currency at [60]-[61])	43
+1)	S 25(4): “The specification of an application shall disclose the invention in a manner which is clear and complete for the invention to be performed by a person skilled in the art.”	43
+2)	Whether the specification allows the skilled man to fulfil the claim (i.e. make the range of products covered by the claim)	43
+4.	Other requirements (s 80(1))	44
+Infringement	44
+Defences, effects on contracts relating to patents and Remedies	45
+1.	Defences to infringement	45
+2.	Remedies	46
+III.	Copyright	46
+Introduction	46
+Copyright is a bundle of rights	46
+Duration of copyright	46
+Type of copyright in subject matter	47
+Distinction between “works” and “subject-matter other than works”	47
+Copyright does not protect	47
+Authorial works	47
+1.	Literary works	47
+2.	Dramatic works	48
+3.	Musical works	49
+4.	Artistic Works	49
+Entrepreneurial works: s 107(2): copyright in entrepreneurial works subsists independently to any copyright subsisting in any authors works from which it is “wholly or partly derived”	49
+Protection Criteria for author’s works (subsistence)	49
+Protection is automatic with no formalities requirement	49
+S 109(1)(b): Author’s work must be “connected” with Singapore in at least one relevant way (connecting factors)	50
+Authors’ work must be “fixed in a material form” (s 16(1)), including	50
+Human Authorship	50
+Originality	51
+What originality is	51
+What contributes to “originality”	51
+Threshold for originality	53
+Ownership	54
+Tiers of ownership	54
+Ownership: Bundle of rights	54
+First Ownership	55
+Assignment	55
+Licences	57
+Acts prohibited by copyright	57
+Copyrights are negative rights that allow owner to prevent others from doing it	57
+Copyright in works comes with the following exclusive rights (s 26(1))	58
+1.	Reproduction right	59
+2.	Right to publish if the work is unpublished	59
+3.	Right to Perform the work in public	60
+4.	Right to Communicate to public	60
+5.	Adaptation right (see above s 112(f))	61
+6.	Rights in relation to adaptation right; above rights apply to adaptations equally	61
+7.	Right to Commercial rental arrangement	61
+Duration of Protection	61
+Infringement	61
+Doing acts comprised within the copyright without the right to do so (s 146) (see above for the exclusive rights)	61
+1.	Territoriality: “a person does in Singapore” (s 146(1)(a))	61
+2.	Causal connection	61
+1.	Substantiality: Infringement must relate to a “substantial part of the work or other subject-matter” (s 10(1)); “reproduction, adaptation or copy” includes those of a “substantial part of the work” (s 10(1)(b))	62
+Authorising infringement (s 146)	64
+1.	Prerequisite: Primary infringement must be established before there can be authorizing infringement of that act (e.g. John Robert Powers)	64
+2.	Territoriality: “authorises the doing in Singapore” (s 146(1)(a)) (see above)	64
+3.	Test: “the courts evaluate the authorisation liability factors in their totality in the context of the factual matrix of each case” so “proving one or even several of these factors in either the alleged authoriser’s or the copyright owner’s favour will nt invariably be decisive” (RecordTV at [50])	64
+Commercial dealings in infringing articles	66
+1.	Infringement by import for purpose of sale, etc. (s 147(1))	66
+2.	Infringement by actual sale, etc. (s 148(1))	66
+3.	Prerequisite: articles traded must be infringing articles, and no liability is possible if the article is genuine (Television Broadcasts v Golden Line)	66
+Exceptions / defences	66
+Time bar: 6 year time bar against an infringing act (s 142)	66
+Fair use defence (s 190)	66
+Relevant matters for Fair use (s 191):	66
+Additional requirement for sufficient acknowledgment where fair use is for certain purposes (s 192)	68
+Deemed fair use:	68
+Other defences (for e.g.)	68
+IV.	Confidential Information	68
+Confidential Information	68
+Jurisdictional basis for protection of law of confidence	68
+Practical ways to protect confidential information	69
+Test for breach of Confidence in equity	70
+1.	What can be content of confidential information: “a court should consider whether the information in question “has the necessary quality of confidence about it” (I-Admin, [61], endorsing Coco)	70
+“not freely available in the public domain” (Nanofilm Technologies, [164] with reference to PH Hydraulics, [46]); “the information is relatively inaccessible to the public, ie, it has not become public knowledge” (Clearlab, [66])	70
+“disposal of information did not amount to abandonment of the property in the documents” (Vestwin)	70
+Restraint of trade doctrine applies if "knowledge and skills” of employee fall within scope of confidential information (Stratech, Clearlab)	70
+2.	When obligation of confidence can be imposed: “it has been “imparted in circumstances importing an obligation of confidence”” (I-Admin, [61], endorsing Coco) (Note: ‘confidence’ imposed by contract is technically a breach of contract claim distinct from equitable one)	70
+Imposed by contract	71
+Imposed by equity	71
+3.	Breach of obligation: “there must have been some unauthorised use of that information to the detriment of the party from whom the information originated.” (I-Admin, [20], endorsing Coco, 47)	71
+Wrongful gain interest; LVM approach: “it is the plaintiff who bears the burden of proving actual misuse or a ‘serious and reasonable possibility’ of misuse” (Lim Oon Kuin, [39] citing Law of IP, [41.3.9]; following Coco)	71
+Wrongful loss interest; I-Admin approach: Upon satisfaction of above two requirements, “an action for breach of confidence is presumed” and “the burden will be on the defendant to prove that its conscience was unaffected” (I-Admin, [61], modifying Coco)	72
+4.	Remedies	74
+V.	IP in Business	75
+SWOT Analysis: Identify strengths and weaknesses of a company’s IP position; as well as opportunities and threats	75
+Extracting Value from IP	77
+Issues in IP Deals and Due Diligence	80
+Key IP considerations throughout companies’ innovation cycle	81
+
+
+
+I. Trademarks
+Intro
+Overview
+
+
+
+What is a trademark
+“A registered trade mark is personal property.” (s 36)
+s 2(1): ““trade mark” means any sign” 
+“capable of being represented graphically and”
+“which is capable of distinguishing goods or services dealt with or provided in the course of trade” 
+S 2(1): ““sign” includes any letter, word, name, signature, numeral, device, brand, heading, label, ticket, shape, colour, aspect of packaging or any combination thereof;
+Use of symbols: ™: has no legal consequence; ®: offence to use with a mark that is not registered (s 51(1)) 
+Right only arise from a registered trademark (s 4)
+S 4(1): “is a property right”
+S 4(1): “obtained by the registration of the trade mark under this Act” 
+S 4(1): “the proprietor of a registered trade mark has the rights and remedies provided by this Act.”
+S 4(2): “No proceedings shall lie to prevent or recover damages for the infringement of an unregistered trade mark as such” 
+Application for registration and opposition procedure
+Registration process
+
+
+Registration requirements
+Application shall “contain a clear representation of the trade mark” (s 5(2)(c))
+Application shall “list the goods or services in relation to which the applicant seeks to  register the trade mark” (s 5(2)(d))
+Application shall state “that the trade mark is being used in the course of trade” (s 5(2)(e)(i))
+Application shall state “that the applicant has a bona fide intention that the trade mark  should be so used” (s 5(2)(e)(ii))
+Appeals to the Registrar’s decisions (s 75(2))
+Opposition process
+1) Publication in Trade Marks Journal
+Failing to send a demand letter to the applicant prior to filing a notice of opposition in uncontested oppositions may have cost implications (r 40)
+* Where a trade mark applicant withdraws its application upon receipt of the notice of opposition, the Registrar will consider whether proceedings might have been avoided if reasonable notice had been given by the opponent to the applicant before the notice of opposition was filed. (Rule 40)
+2) Notice of Opposition (TM11) (s 13(2)): File NO / HC3 within 2 months from the date of publication; Maximum 4 months from the date of publication with EOT (r 29)
+How to file
+Original to the Registrar
+Serve copy on Applicant at the same time as filing with Registrar
+In cover letter to Registrar indicate that Applicant has been copied
+Extension of Time possible
+Form HC3 to be filed within 2 months from publication
+HC3 must state: Reason for the EOT; Name and address of every person likely to be affected
+Serve HC3 on Applicant and every person likely to be affected
+Registrar may grant or refuse to grant EOT; If EOT granted, Registrar to send notification to Applicants and every person likely to be affected
+Applicant and every person likely to be affected: Not later than 2 weeks after receipt of notification; May apply to the Registrar for revocation of the EOT on the basis that they have not been served the request for the EOT
+Content of Notice of Opposition: must contain a Statement of Grounds  (r 30)
+Contents of NO
+states the reasons why an opponent is opposing the advertised mark, based on the TMA or TMR e.g. Section 8(2)(b)
+usually on the grounds that application mark is identical or confusingly similar to an earlier trade mark
+other grounds e.g. bad faith under Section 7(6)
+If Opponent relying on an earlier trade mark to oppose, NO must also contain information about the earlier mark (r 30)
+a representation of the earlier trade mark
+the registration/application number of the earlier trade mark
+the class number and specification of the goods or services of the earlier trade mark in respect of which the earlier trade mark is registered / sought to be registered
+For an earlier mark which is not registered, it should state the goods or services in respect of which the earlier trade mark is used
+3) Counter-Statement (HC6): File CS / HC3 within 2 months from the date of receipt of NO; Maximum 4 months from the date of receipt of NO with EOT (r 31)
+Notification to Registrar to be filed within 1 month from filing of Registrar’s letter (attaching NTR)
+Content
+The grounds relied on in support of application
+The facts alleged in the notice of opposition which are admitted, if any
+If the CS is received outside the 2-month deadline: The applicant is deemed to have withdrawn his application unless he has been given an extension of time.
+4) Case Management Conference (CMC) (r 81A)
+CMC may / may not be convened (depending on representation of parties)
+Registrar issues letter detailing the deadlines to file evidence
+
+
+5) Opp Evidence: File Opp SD within X months from the date of CMC or Registrar’s letter (min 2 months); EOT unlimited (r 32-34)
+
+
+
+6) App Evidence: File App SD within X months from the date of receipt of Opp SD (min 2 months); EOT unlimited 
+7) Opp Evidence in Reply: File Opp SD in Reply within X months from the date of receipt of App SD (optional) (min 2 months); EOT unlimited 
+8) Pre-Hearing Review (PHR): There can be more than 1 PHR if needed (r 36A-38)
+
+
+9) Full Hearing
+10) Grounds of Decision (GD): Issuance of GD within 3 months from the date of hearing / or filing of the closing submissions
+11) Appeal (if opt to do so): Appeal within 28 days of issuance of GD (s 75 and Singapore Court of Judicature (IP) rules r 82)
+
+12) Taxation: File Bill of Costs within 6 weeks from the date of the GD (r 72-76)
+Duration / renewal of protection
+S 15(2): “date of registration” means date of application for registration
+S 18 duration: 10 years from date of registration and renewals
+S 19 renewal of registration (nothing that prevents unlimited renewals)
+Renewal fee quantum differs depending on the actual date of renewal (ss 19(3) and 19(4))
+Rule 49(3): On or before expiry of registration; 6 months after the date of expiry (additional late fee)
+Registrable Transactions: assignment, licence, etc.
+Who may apply to the Registrar s 39(1):
+“(a) a person claiming to be entitled to an interest in or under a registered trade mark by virtue of a registrable transaction; or 
+(b) any other person claiming to be affected by such a transaction, the prescribed particulars of the transaction shall be entered in the register.”
+What are the registrable transactions s 39(2):
+“(a) an assignment of a registered trade mark or any right in it; 
+Assignment can be full or partial (s 38)
+(b) the grant of a licence under a registered trade mark; 
+Licence can be full or partial (s 42) or exclusive (s 43)
+(c) the granting of any security interest (whether fixed or floating) over a registered trade mark or any right in or under it; 
+(d) the making by personal representatives of an assent in relation to a registered trade mark or any right in or under it; 
+(e) an order of the Court or other competent authority transferring a registered trade mark or any right in or under it.”
+Effect of non-registration s 39(3):
+Transaction that must be registered: assignment, granting of security interest, etc (subsection (2)(a), (c), (d), (e))
+Effect against conflicting interest in trade mark: Prior to an application to register the transaction, “ineffective as against a person acquiring a conflicting interest in or under the registered trade mark in ignorance of the transaction”
+Effect of late registration s 39(4):
+Affects: Subsequent proprietor by virtue of  by virtue of any registrable transaction referred to in subsection (2)(a), (c), (d) or (e)” 
+Effect against infringers: “is not entitled to damages, an account of profits or statutory damages under section 31(5)(c) in respect of any infringement of the registered trade mark occurring after the date of the transaction and before the date of the application for the registration of the prescribed particulars of the transaction.”
+Grounds to challenge registration (Opposition s 13(2) (2 months after application for registration, max 4 months (Trade Marks Rules r 29))
+A. Grounds of objection to registration: Absolute grounds
+S 7 (main overarching inquiry is distinctiveness)
+Not registrable: S 7(1)(a) “signs which do not satisfy the definition of a trade mark in section 2(1)”
+Not inherently distinctive
+S 7(1)(b) “trade marks which are devoid of any distinctive character”
+S 7(1)(c): sign that designates characteristics of goods or services (“kind, quality, quantity, intended purpose, value, geographical origin, the time of production … or other characteristics”)
+s 7(1)(d): signs which have become customary in current language or practice of the trade
+Acquired Distinctiveness 
+at registration: S 7(2) “A trade mark shall not be refused registration by virtue of subsection (1)(b), (c) or (d) if, before the date of application for registration, it has in fact acquired a distinctive character as a result of the use made of it.”
+after registration: s 23(2) “the registered trade mark was registered in breach of section 7 … subsection (1)(b), (c) or (d) … [but] in consequence of the use which has been made of it, it has after registration acquired a distinctive character in relation to the goods or services for which it is registered.”
+Other grounds in ss 7(4)-(6)
+S 7(4): contrary to public policy or is deceptive (usually includes some vulgarity)
+S 7(5): contrary to written rule or rule of law
+S 7(6): bad faith, e.g. trademark squatter before the actual trademark foreign owner registers in local registry
+Approach: Emphasis on “distinctiveness”: “the trade mark must necessarily, either inherently or as a result of use, perform the most basic function of distinguishing the goods of the trader from those of his competitors in the marketplace” (Han’s (F & B) at [61])
+“Each absolute ground of invalidity for registration in s 7(1) of the TMA operates independently though the grounds may overlap” (Love & Co at [45])
+“A failure to overcome any ground of invalidity is, per se, sufficient to deny registration” (Love & Co at [45])
+“the distinctive character of a mark must be assessed by reference to
+(i) the goods or services in respect of which registration is applied for; and 
+(ii) the perception of the average consumer of those goods or services” (Nestle v Petra at [22], citing Kerly’s at [8-016])
+“the criteria for assessing distinctive character are the same for all categories of marks” but “the perception of the relevant public may not always be the same for all categories of marks” (Nestle v Petra at [22], citing Kerly’s at [8-016])
+May “be more difficult to establish distinctive character in relation to some categories (such as shapes, colours, personal names, advertising slogans and surface treatments)” (Nestle v Petra at [22], citing Kerly’s at [8-016]) 
+“Limping” / “secondary” marks: “marks that have never been used as the sole means of identifying trade origin, but have instead always been used alongside other trade marks” (Nestle v Petra at [59]) (See below “Shape mark context”)
+“inherent distinctiveness” under s 7(1) (Han’s (F & B) at [61])
+Assess totality of mark: “the components of a mark may not be inherently distinctive, but the sum of its parts may have sufficient technical distinctiveness” (Staywell at [25])
+E.g. the combination of “Lady” and “Rose” is distinctive as “used together, the words do not convey a sensible meaning” in Hai Tong at [35]
+Inherently distinctive: “invented words are classic examples” (Han’s (F & B) at [61])
+Inherently distinctive: Existing words and phrases whose “meaning has little bearing on the product to which it is to be applied” (Han’s (F & B) at [62])
+E.g. “Slow Coach” for running shoes
+E.g. “Royal Spoon” for edible oils or vegetable ghee in Sime Darby at [15]
+E.g. “North Pole” for bananas (an e.g. mentioned in Sime Darby at [15])
+Inherently distinctive:  Nonsensical phrases (Han’s (F & B) at [62])
+Not distinctive: “mark includes a word or symbol or device that is at least partially descriptive of the goods or service” as prohibited by s 7(1)(c) (Han’s (F & B) at [63])
+Rationale: “[Section 7(1)(c)] is in the public interest, to ensure that descriptive terms may be freely used by all” (Marvelous AQL at [29], citing Kerly’s at [8-089])
+Word or phrase is a purpose of the good or service which is in breach of s 7(1)(c) (Love & Co at [81]); e.g. “[“love”] designate[s] one of the “intended purposes” of jewellery” 
+Sign is within “normal usage from a consumer’s point of view to designate, either directly or by reference to one of their essential characteristics, goods or services” (Marvelous AQL at [29], citing Kerly’s at [8-089]); E.g. “HM-O” not distinctive as it described “human milk oligosaccharides” which was commonly abbreviated as “HMO(s)” prior to the relevant date (Abbot Laboratories)
+Irrelevant “how significant the characteristic may be commercially.” (Marvelous AQL at [29], citing Kerly’s at [8-089])
+The property [or characteristic] in question must be easily recognisable by the relevant class of persons. (Marvelous AQL at [29], citing Kerly’s at [8-089])
+“It is not necessary that such descriptive terms are actually in use” (Marvelous AQL at [29], citing Kerly’s at [8-089])
+“a mere combination of elements, each of which is descriptive of characteristics of the goods or services, itself remains descriptive … [unless] the word is more than the sum of its parts or the combination has acquired its own meaning, with the result that it is now independent of its components.” (Marvelous AQL at [29], citing Kerly’s at [8-089])
+The term “exclusively” requires a purposive approach. (Marvelous AQL at [29], citing Kerly’s at [8-089])
+Not distinctive: words with a “laudatory meaning or some meaning that captures a mood or image of some relevance to the product or service in question” (Han’s (F & B) at [63])
+E.g. “Twinkling Star” for diamond wedding rings
+Not distinctive: misspelt descriptive word or phrase that is too “obvious” (Han’s (F & B) at [63])
+E.g. “Tay Sti” for ice-cream
+Not distinctive: use of common words or phrases 
+Use of a common surname in mark (Han’s (F & B) at [90]); E.g. “Han” or “Han’s” (“doubt that the addition of the possessive modifier is enough to [make it distinctive]”) 
+E.g. “use of the word “love” in all manner and forms by other jewellery traders in promoting and advertising their goods is very prevalent in the market place and environment” in Love & Co at [56]
+Foreign language: distinctive if the relevant public in SG would not understand the foreign term as at the relevant date (Aalst Chocolate)
+Rationale: “The investment of time and money to teach the trade mark meaning to the public is the justification for allowing protection by registration.” (Han’s (F & B) at [64])
+E.g. “report produced by Ipsos Marketing indicated that 79.4% of the 1,001 respondents surveyed had heard of [the plaintiff’s mark]” and “has been used in conjunction with the cafés in question since 1980” in Han’s (F & B) at [97]
+B. Grounds of objection: relative ground s 8(2): Similar to earlier trade mark
+S 8:
+S 8(2)(b): (Broadest ground for similarity of trade mark and goods and services provided; s 8(1): both identical; s 8(2)(a): TM identical, G&S similar)
+“it is similar to an earlier trade mark and 
+is to be registered for goods or services identical with or similar to those for which the earlier trade mark is protected,
+there exists a likelihood of confusion on the part of the public.”
+S 2(1): “earlier trade mark” means a trade mark, whether registered already or not, with an earlier date of application for registration and taking into account priorities if any (i.e. application date taken to be priority application date)
+Approach: ““step-by-step” approach, as opposed to the competing “global appreciation approach”” (Staywell at [15])
+“the plain words of ss 8(2) and 27(2) do not have the effect of making a finding of confusion automatic upon the establishment of similarity of marks and goods or services.” (Staywell at [64]) (in contrast so s 8(1))
+“there is a difference between the approach to the confusion [and similarity or goods and services] inquiry in opposition and infringement proceedings, although there are considerable overlaps as well.” (Staywell at [56])
+Opposition proceedings: Compare “actual and notional fair uses” of both the incumbent registered trade mark and the new applicant’s trade mark (Staywell at [60])
+Infringement proceedings: “only question is whether the actual use of a similar or identical sign by the infringer encroaches on the registered proprietor’s monopoly rights” (Staywell at [61])
+1. Compare the marks
+No “particularly or notably low threshold of marks-similarity” (Staywell at [18])
+“the assessment of marks similarity is mark-for-mark without consideration of any external matter” (Staywell at [20])
+No mosaicking of marks “to claim protection over all the permutations of its registered marks” (Rovio at [69])
+Threshold: “a mark which has greater technical distinctiveness enjoys a high threshold before a competing sign will be considered dissimilar to it” (Staywell at [18])
+Technical factors: “the criteria of visual, aural and conceptual similarities … are signposts towards answering the question of whether the marks are similar” (Staywell at [25])
+“the relative importance of each will depend on the circumstances, including the nature of the goods and the types of marks involved” (Hai Tong at [40(a)]
+Note which elements are dominant for visual, aural and conceptual similarity each (see below non-technical distinction)
+Visual similarity: the letters used, length of the words, structure of the words (Sarika at [23])
+E.g. “marks consisting of inverted words can be visually similar” (Hai Tong at [63]); e.g. “Lady Rose” vs “Rose Lady”
+Aural similarity: compare the “dominant and distinctive component of both marks when each is read out” (e.g. “Regis” in “St. Regis” and in “Park Regis” for aural similarity in Staywell at [31])
+Aural similarity: “quantitative assessment as to whether the competing marks have more syllables in common than not” (Staywell at [32])
+Aural similarity: Slogans within the mark are not taken into account for aural similarity as they are usually not read out (Han’s at [137])
+Conceptual similarity: “conceptual analysis seeks to uncover the ideas that lie behind and inform the understanding of the mark as a whole” as distinct from the “idea connoted by each component” individually (Staywell at [35])
+Conceptual similarity: The conceptual analysis of two competing signs is an analysis of the concepts that can be derived from the elements present in the sign at surface value (Carolina at [56])
+E.g. the composite mark [“Park Regis” with a fleur-de-lis device] connotes a geographical location, while the composite phrase “St. Regis” connotes a saintly character” in Staywell at [36]
+C.f. “Although the ST. REGIS mark might conjure the image of a saintly person, in Singapore by far the most common manifestation of saintly names is in relation to places … the marks share a tendency to connote a place or location or building” in Staywell at [37]
+Non-technical factors: “Distinctiveness in the ordinary and non-technical sense simply refers to what is outstanding and memorable about the mark” (Staywell at [23]), which is assessed from “the general impression that will likely be left by the essential or dominant features of the marks on the average consumer” (Hai Tong at [40])
+“average consumer who would exercise some care and a measure of good sense in making his or her purchases, not that of an unthinking person in a hurry” (Hai Tong at [40])
+“average consumer has “imperfect recollection” [such that] the two contesting marks are not to be compared or assessed side by side and examined in detail for the sake of isolating particular points of difference” (Hai Tong at [40])
+Context of composite marks (text vs device dominance)
+“The textual component of a composite mark or sign could (but will not necessarily or always) be the dominant component of the mark or sign.” (Hai Tong at [62(d)])
+Text dominant: The marks in question each contain a similar device. (Hai Tong at [62(d)])
+Text dominant: The textual component is large, and is in a prominent location in relation to the other components (Hai Tong at [62(d)])
+Text dominant: The textual component is in itself already widely known (Hai Tong at [62(d)])
+Text dominant: The composite mark is applied to goods or services marketed or sold primarily through online trade channels (Hai Tong at [62(d)])
+Device dominant: device is significant and large (Hai Tong at [62(e)])
+Device dominant: “the accompanying word(s) are devoid of any distinctive character, or are purely descriptive of the device component” (Hai Tong at [62(e)])
+Device dominant: “the device component is of a complicated nature” (Hai Tong at [62(e)])
+Device not dominant: “consumer is regularly confronted with similar images in relation to those goods” (Hai Tong at [62(e)])
+E.g. floral elements are common place in female cosmetic products in Hai Tong at [63-[65]
+Device not dominant: “more likely to be perceived as a decorative element rather than as an element indicating commercial origin” (Hai Tong at [62(e)])
+2. Compare the goods and services
+Nice classification of goods and services
+Goods classes: 1-34
+Services classes: 35-45
+General principles
+“the fact that the parties’ hotel services were branded for different market segments did not render the services dissimilar.” (obiter in Staywell at [40])
+Goods can be similar to services (Gucci at [35])
+“extraneous factors may be relevant to establish the degree of similarity as between goods and service that are not identical … where the applicant’s and proprietor’s goods and services are registered or to be registered in different classes or specifications” (Staywell at [82])
+“registration in the same specification within a class establishes a prima facie case for identity” (obiter in Staywell at [40]) (only relevant for Opposition cases in contrast to infringement (Staywell at [82]))
+If “the services in question are identical, there is no further need to consider whether they are similar or the extent of their similarity” (obiter in Staywell at [42])
+E.g. “precise overlap between Staywell’s Class 43 hotel, food and beverage services, and the Opponents’ Class 43 hotel, food and beverage services” are identical as there was no “qualitative difference between the parties’ services” in Staywell at [42]
+Goods and services falling under the same class are not determinative and “consideration should also be given to the factors enumerated by Jacob J in British Sugar” (Sarika at [51])
+“(a)     the respective uses of the respective goods or services;
+(b)     the respective users of the respective goods or services;
+(c)     the physical nature of the goods or acts of service;
+(d)     the respective trade channels through which the goods or services reach the market;
+(e)     in the case of self-serve consumer items, where in practice they are respectively found or likely to be found in supermarkets and in particular whether they are, or are likely to be, found on the same or different shelves; and
+(f)     the extent to which the respective goods or services are competitive. This inquiry may take into account how those in trade classify particular goods” (Sarika at [49], stating British Sugar factors)
+3. Assess likelihood of confusion
+Impact of prior analyses 
+“If the marks or the goods or services in question are not similar, and confusion stems from other factors, an action might lie in the tort of passing off but not in trade mark infringement.” (Staywell at [65])
+“the plain words of ss 8(2) and 27(2) do not have the effect of making a finding of confusion automatic upon the establishment of similarity of marks and goods or services.” (Staywell at [64]) (in contrast so s 8(1))
+Threshold
+“The test for determining likelihood of confusion was whether a substantial portion of the relevant public would be confused” (Sarika at [57])
+“Standard was above de minimis and had to be appreciable, though it was unnecessary to show confusion of a majority of the relevant public” (Sarika at [57])
+“there are significant limits, more than we may previously have acknowledged as to the extraneous factors that may be considered.” (Staywell at [65])
+1. Impermissible extraneous factors: “The impermissible factors are those differences between the competing marks and goods which are created by a trader’s differentiating steps” which are “susceptible to changes that can be made by a trader from time to time” (Staywell at [95])
+E.g. “pricing differentials, packaging and other superficial marketing choices which could possibly be made by the trader” (Staywell at [95])
+E.g. “superficial price disparity between the competing goods, which speak more about the trader’s marketing choices rather than differences in the nature of the goods themselves” are not relevant (Staywell at [96(b)])
+2. Permissible extraneous factors: “The permissible factors are those which (a) are intrinsic to the very nature of the goods and/or (b) affect the impact that the similarity of marks and goods has on the consumer.” (Staywell at [95])
+E.g. “purchasing practices and degree of care paid by the consumer when acquiring goods of the sort in question … without descending into the details of particular differentiating steps which the trader might choose” (Staywell at [95])
+Non-exhaustive factors relating to the impact of marks-similarity on consumer perception (Staywell at [96(a)]): 
+“the degree of similarity of the marks themselves” 
+“the reputation of the marks”, but “a strong reputation does not necessarily equate to a higher likelihood of confusion, and could in fact have the contrary effect” as in McDonald v Future Enterprises
+“the impression given by the marks”
+“the possibility of imperfect recollection of the marks”.
+Non-exhaustive factors relating to the impact of goods-similarity on consumer perception (Staywell at [96(b)]):
+The normal way in, or the circumstances under, which consumers would purchase goods of that type 
+Whether the products are “expensive or inexpensive items” (“the average consumer is likely to exercise more care when buying a very expensive item than when buying a cheap item” and hence is less likely to be confused (IP SG at [21.5.29])
+“whether they would tend to command a greater or lesser degree of fastidiousness and attention on the part of prospective purchasers” 
+The “likely characteristics of the relevant consumers and whether the relevant consumers would or would not tend to apply care or have specialist knowledge in making the purchase”.
+Other factors from cases (may not be allowed by Staywell)
+Location; e.g. “sold in their stores located in modest suburban shopping centres, the appellant’s retail outlets are found in prime shopping centres” in Polo/Lauren at [34] (though not expressly endorsed in Staywell)
+Whether “qualitatively different products”: e.g. “hotel services are hotel services and there is little, if any, room for differentiation between them” even between 4-star and 6-star hotels in Staywell at [100]
+Whether “economically linked”: e.g. “it is common for large hotel chains to operate differently branded hotels carrying different logos, united only by use of a common denominator in their names. This signals to the public that the various hotels, though pitched at different segments of the market, are economically linked” in Staywell at [102])
+C. Grounds of objection: Relative ground s 8(7): similar to unregistered mark protected by passing off,
+Post-grant
+Claims available: invalidation, revocation, infringement
+Invalidation vs Revocation
+Can be pleaded in the alternative
+The evidence available will direct as to the appropriate post registration action (invalidation is assessed at registration date while revocation is at time of action)
+An “invalidity application may be brought at any time”, but “evidence relevant to the state of affairs as it existed at the relevant [registration] date may be hard to adduce, at least as a practical matter when many years have passed by.” (Big Box at [35])
+Revocation is more appropriate if “the trade mark has become the common name in the trade for the product or service in respect of which it is registered due to the acts or inactivity of the proprietor” (Big Box at [114])
+Invalidations (s 23 read with ss 7 and 8) (only selected grounds examinable)
+Initiated when the window to oppose the application for registration is missed (max 4 months after) (quite similar to opposition actions)
+Used as alternatives or counter-claims in infringement action (Order 87 rule 3 of the Rules of Court (Cap 322, Rule 5))
+Jurisdiction: Can be brought before both IPOS and courts (s 23(5)) (Opposition only in IPOS)
+Effective: invalid ab initio but no effect on transactions concluded
+Revocation (s 22) (only selected grounds examinable)
+Counterclaim against earlier registered mark relied on in opposition action (e.g. for lack of use)
+Used as alternatives or counter-claims in infringement action (Order 87 rule 3 of the Rules of Court (Cap 322, Rule 5))
+Jurisdiction: Can be brought before both IPOS and courts (s 22(5)) (Opposition only in IPOS)
+Effective: date of application of revocation, but registrar can set earlier (min 5 years after registration)
+Infringement (s 27 (similar to s 8))
+Jurisdiction: only courts
+
+A. Invalidations
+Grounds of invalidation S 23
+S 23(1): registered in breach of s 7 (absolute grounds)
+S 23(2): trade mark registered in breach of s 7 “shall not be declared invalid if, in consequence of the use which has been made of it, it has after registration acquired a distinctive character in relation to the goods or services for which it is registered”
+S 23(3): registered in breach of ss 8(1), 8(2) and 8(7) without consent of earlier right owner (relative grounds)
+The evidence available will direct as to the appropriate post registration action (invalidation is assessed at registration date while revocation is at time of action) (Big Box, [35])
+Partial invalidation: S 23(9): partial invalidation of “some of the goods or services for which the trade mark is registered” 
+Effective date of invalidation: S 23(10): Invalidated trade mark “deemed never to have been made, but this shall not affect transactions past and closed.”
+B. Revocations (based on non-use only)
+Grounds of revocation
+S 22(1)(a): “within the period of 5 years following the date of completion of the registration procedure, it has not been put to genuine use in the course of trade … in relation to the goods or services for which it is registered”
+S 22(1)(a): No usage “by the proprietor or with his consent”
+S 22(1)(a): “no proper reasons for non-use”
+S 22(1)(b): Such use in (a) “has been suspended for an uninterrupted period of 5 years, and there are no proper reasons for non-use”
+What constitutes “genuine use” in grounds of revocation s 22(1)
+Burden on Proprietor to show use (s 105) 
+Not mandatory for the Applicant for (registration / revocation) to provide any evidence in the revocation proceedings (Rule 59)
+No “genuine use”
+Token use (Wing Joo Loong)
+Internal use only and not for trade with external parties (Wing Joo Loong at [38])
+No one single objective formula and much would depend on the fact situation in each individual case (Wing Joo Loong at [43]) 
+whether such use is viewed as warranted in the economic sector concerned to maintain or create a share in the relevant market (Wing Joo Loong at [38]) 
+No rule that de minimis use of a trade mark could not be “genuine use” for the purposes of that provision, but the smaller the amount of use, the more carefully must it be proved (Wing Joo Loong at [39])
+S 22(2): “use of a trade mark includes use in a form differing in elements which do not alter the distinctive character of the mark in the form in which it was registered”
+1. Identification Stage: “Looking at the form in which the trade mark was registered as a whole, what [would the average consumer] regard as the “distinctive character” of the registered trade mark?” (The Patissier at [52], drawing upon Budweiser)
+Can contain more than 1 distinctive element: “distinctive character” can “[reside] in the combination or collocation of … two distinctive components within a single composite mark or comprise “elements [that] are contained within the borders of an invisible rectangle” (The Patissier at [54])
+2. Comparison Stage: “what changes have been made to the elements of the registered trade mark (including stylisation, additions, deletions, adjustments to size or other features of appearance) which differentiate it from the registered form of the trade mark?” (The Patissier at [52], drawing upon Budweiser)
+3. Evaluation stage: no genuine use if there “has there been an alteration of the “distinctive character” of the registered form of the trade mark” (The Patissier at [52], drawing upon Budweiser)
+Test: “the precise question … is whether the form of the mark actually used by the Proprietor differs from the Subject Mark only “in elements which do not alter the distinctive character” of the Subject Mark “in the form in which it was registered”.” (The Patissier at [56])
+Test is not: not whether “the average consumer [would still consider] the actual use [to be] substantially different from the Subject Mark” and not whether any one essential feature “has been put to actual use, on its own” (The Patissier at [56])
+E.g. The missing element, “By Aalst Chocolate”, is a distinctive element to customers as they are likely to pay attention “to any sign on the packaging that conveys information about the source or origin of the ingredients used by the manufacturer” in The Patissier at [57]
+S 22(2): “use in Singapore includes applying the trade mark to goods or to materials for the labelling or packaging of goods in Singapore solely for export purposes”
+S 22(3): No revocation under s 22(1) if “such use as is referred to in that paragraph is commenced or resumed after the expiry of the 5 year period and before the application for revocation is made”
+S 22(4): “Any commencement or resumption of use … within the period of 3 months before the making of the application for revocation shall be disregarded unless preparations for the commencement or resumption began before the proprietor became aware that the application might be made”
+Partial revocation: S 22(6): partial revocation “of only some of the goods or services for which the trade mark is registered”
+Effective date of revocation: 
+S 22(7)(a): Revocation “deemed to have ceased to that extent as from the date of the application for revocation” (revocation to counter opposition action must be on a date prior to registration of new mark)
+S 22(7)(b): or an earlier date “if the Registrar or the Court is satisfied that the grounds for revocation existed at [that] earlier date”
+Registrar has no power to backdate an order for non-use revocation to a day falling within the first 5 years after the date of the completion of the registration procedure (Daidoh at [7])
+Calculation of revocation dates (HMD Compendium at Circular 1.5 at Part D)
+Revocation under s 22(1)(a): one day after date of completion 5 years later
+E.g. date of completion is 2 Jan 2013, earliest date of revocation is 3 Jan 2018
+Revocation under s 22(1)(b): 5 years after date non-use began
+E.g. date of completion is 2 Jan 2013, allegation that non-use lasted from 14 Sep 2014 to 13 Sep 2019 inclusive, earliest date of revocation is 14 Sep 2019
+
+
+Counterclaim:
+
+
+Infringement
+Rights conferred to trade mark owner
+S 26(1): “The proprietor of a registered trade mark has the exclusive rights
+(a) to use the trade mark; and 
+(b) to authorise other persons to use the trade mark, in relation to the goods or services for which the trade mark is registered.”
+S 26(2) “The proprietor has the right to obtain relief under this Act for infringement of his trade mark.”
+S 26(4): “The rights shall accrue to the proprietor as from the date of registration of the trade mark [date of application (s 15(2))]”
+Exception: (a) no infringement proceedings may be begun before the date on which the trade mark is in fact registered; and 
+Exception: (b) no offence under section 46 [counterfeiting mark], 47 [falsely applied registered mark to goods or service], 48 or 49 is committed by anything done before the date on which the trade mark is in fact registered.
+S 26(5) “If the trade mark is registered subject to any disclaimer or limitation, the rights of the proprietor are restricted by the disclaimer or limitation.”
+S 30: Possible limitation of rights on the trade mark (e.g. restriction on what colour the mark can take on)
+Infringement provision (S 27(2)): Pre-requisites: “use of sign” “in the course of trade”
+“in the course of trade” requires the alleged infringer to have used the sign for commercial purposes rather than for non-commercial purposes (Burberry at [30])
+Before there could be a trade mark infringement, the alleged offending use must be of the nature of a trade mark use (City Chain at [18]) (i.e. to indicate origin in contrast to descriptive use)
+Rationale: If the registration also gives the proprietor the right to prevent non-trade-mark use of the sign, it will effectively have created a new and very wide monopoly of unlimited duration (City Chain at [33])
+Non-trade mark use: Decorative purposes: E.g. With no uniformity on how the Solvil Flowers are represented on the Appellant’s watches, the predominant use of the Solvil Flower is for decorative purposes and hence not trade mark use in City Chain at [38]
+Use of a sign: S 27(4): “For the purposes of this section and sections 28, 29 and 31, a person uses a sign if, in particular, he —
+(a) applies it to goods or the packaging thereof;
+(b) offers or exposes goods for sale, puts them on the market or stocks them for those purposes under the sign, or offers or supplies services under the sign;
+(c) imports or exports goods under the sign;
+(d) uses the sign on an invoice, wine list, catalogue, business letter, business paper, price list or other commercial document, including any such document in any medium; or
+(e) uses the sign in advertising.”
+Exception to s 27(4): s 27(5): infringer does not know nor has reason to believe that such use was not consented to; “Notwithstanding subsection (4), a person who —
+(a) applies a sign to any material used or intended to be used for labelling or packaging goods; or
+(b) uses a sign on any document described in subsection (4) (d) or in advertising, 
+is deemed not to use the sign if, at the time of such application or use, he does not know nor has reason to believe that the proprietor or a licensee of the registered trade mark did not consent to such application or use of the sign”
+Infringement provision (s 27(2)): 3 step test as in s 8(2) for relative grounds (Staywell at [163(a)])
+(see above)
+Step 1: Similarity of mark (see above under s 8(2) relative grounds, differences are)
+Compare registered mark vs the infringing sign
+Step 2: Goods / service similarity (see above under s 8(2) relative grounds, differences are)
+Compare notional specification of registered vs actual good / service of infringer
+That goods fall within the same class in the ICGS classification system is not determinative (Sarika at [51])
+Likelihood of confusion (see above under s 8(2) relative grounds, differences are)
+Difference at confusion-stage analysis (Staywell at [163(f)])
+In opposition: “the court must have regard to the full range of actual and notional uses of the marks”
+In infringement: “the court compares the full range of notional fair uses of the incumbent mark against the actual use of the later mark”
+Defences
+S 28(1)(a): Use of one own’s name
+S 28(1)(a): No infringement if he uses “his name or the name of his place of business; or (ii) the name of his predecessor in business or the name of his predecessor’s place of business” and “such use is in accordance with honest practices in industrial or commercial matters”
+Scope: “It bears emphasising that the own name defence is a narrow one” (The Audience Motivation at [64])
+Rationale: “Given the ease with which company names and trade names may be adopted and changed, it is necessary that it be strictly policed to avoid the piracy concerns” voiced in Asprey being that “there could be an own name defence in almost every case” “because a company can choose to adopt any trading name” (The Audience Motivation at [41], citing Asprey, and at [64])
+Threshold: “The defence is available only in so far as the defendant seeks to justify the use of its own name and nothing more” (The Audience Motivation at [65(c)])
+E.g. “The defence is available in relation to the use of a defendant’s name as a trade mark” (The Audience Motivation at [65(a)])
+E.g. “The defence is available in relation to the use of corporate names and this includes the use of the full company name as well as the defendant’s trading name.“ (The Audience Motivation at [65(b)])
+Test: “honesty is the key standard against which the defendant’s use of its own name is to be assessed and this should be done with care.” (The Audience Motivation at [64])
+“This entails both subjective and objective elements” and both are cumulatively necessary for the defence to be made out (The Audience Motivation at [65(d)])
+Objective: “the court must have regard to standards and practices that are commonly applied in the industry or business” (The Audience Motivation at [65(d)])
+Subjective: “the particular motivations and intentions of the defendant”, and any “dishonest motives or intentions” would cause the defence to fail (The Audience Motivation at [65(d)])
+“The burden of establishing the defence on a balance of probabilities lies on the defendant.” (The Audience Motivation at [65(e)])
+“It may be relevant to have regard to the following, among other things, when conducting the inquiry into honesty:” (The Audience Motivation at [66])
+“It is for the defendant to adduce evidence of its bona fides, especially when the name in question is a trading name used by a company” (The Audience Motivation at [66(a)])
+“It is for the defendant to provide a justifiable basis for its choice of name especially if there is no apparent origin for that name or if it was selected after the plaintiff (ie, the trade mark owner) had begun using that name” (The Audience Motivation at [66(b)])
+“It is for the defendant to provide compelling reasons to explain any other significant sources of similarities between the marks” not explained by “the defendant’s use of its own name” (The Audience Motivation at [63] and [66(c)])
+“proof of an intention to misrepresent will take the defendant outside the “honest practices” proviso” (The Audience Motivation at [66(d)])
+E.g. Intention to “create the impression that there exists a commercial connection between the defendant and the trade mark proprietor” (The Audience Motivation at [66(d)(i)])
+E.g. Intention to “discredit or denigrate the registered trade mark” (The Audience Motivation at [66(d)(ii)])
+E.g. Intention to “devalue the trade mark through the taking of unfair advantage of its distinctive character or repute.” (The Audience Motivation at [66(d)(iii)]) 
+Other non-exhaustive specific factors “towards the ultimate question of honesty” are those set out by Arnold in Samuel Smith (The Audience Motivation at [66(e)] and at [58], citing Samuel Smith at [118])
+“(a)     whether the defendant knew of the existence of the trade mark, and if not whether it would have been reasonable to conduct a search;
+(b)     whether the defendant used the sign complained of in reliance on competent legal advice based on proper instructions;
+(c)     the nature of the use complained of, and in particular the extent to which it is used as a trade mark for the defendant’s goods or services;
+(d)     whether the defendant knew that the trade mark owner objected to the use of the sign complained of, or at least should have appreciated that there was a likelihood that the owner would object;
+(e)     whether the defendant knew, or should have appreciated, that there was a likelihood of confusion;
+(f)     whether there has been actual confusion, and if so whether the defendant knew this;
+(g)     whether the trade mark has a reputation, and if so whether the defendant knew this and whether the defendant knew, or at least should have appreciated, that the reputation of the trade mark would be adversely affected;
+(h)     whether the defendant’s use of the sign complained of interferes with the owner’s ability to exploit the trade mark;
+(i)     whether the defendant has a sufficient justification for using the sign complained of; and
+(j)     the timing of the complaint from the trade mark owner.”
+S 28(1)(b)/(c): Descriptive use
+(b) indicate the characteristics or 
+“(i) the kind, quality, quantity, intended purpose, value, geographical origin or other characteristic of goods or services”
+“(ii) the time of production of goods or of the rendering of services”
+(c) is used to indicated the intended purpose of the goods and services and “such use is in accordance with honest practices in industrial or commercial matters”
+S 28(2): earlier rights / use
+“if he, or he and his predecessor in title, have continuously used in the course of trade the unregistered trade mark in relation to those goods or services 
+from a time before –“
+(a) the date of registration of the registered trade mark; or 
+(b) the date the proprietor of the registered trade mark, or a predecessor in title, or a person who was a registered user of the trade mark under the repealed Act, first used the trade mark, whichever is the earlier.
+
+S 28(3): allegedly infringing mark is already registered
+S 28(4)(a): fair use in comparative advertising
+S 28(4)(b): non-commercial use
+S 28(4)(c): news reporting
+Remedies
+Who can enforce: “proprietor of the trade mark” (s 31(1))
+General remedies: “the types of relief that the Court may grant include the following” (s 31(2))
+“(a) an injunction (subject to such terms, if any, as the Court thinks fit); 
+(b) damages; 
+(c) an account of profits; 
+(d) in any case to which subsection (5) applies, statutory damages under subsection (5)(c).”
+S 33: “order any infringing goods, material or articles in the possession of the defendant or before the Court to be delivered up to the plaintiff.”
+S 34: Order for disposal
+
+Election of remedies by plaintiff against counterfeit trade marks as of right (s 31(5)): “where the infringement involves the use of a counterfeit trade mark in relation to goods or services, the plaintiff shall be entitled, at his election, to –
+Remedies
+(a) damages and an account of any profits attributable to the infringement that have not been taken into account in computing the damages; 
+(b) an account of profits; or 
+(c) statutory damages”
+
+“counterfeit trade mark” means a 
+sign that “is identical with or so nearly resembling the registered trade mark as to be calculated to deceive” (s 3(6)(a))
+and applied to goods and services (s 3(6)(b)) 
+“(i) without the express or implied consent (conditional or otherwise) of the proprietor of the registered trade mark; and 
+(ii) to falsely represent the goods or services to be the genuine goods or actual services of the proprietor or a licensee of the registered trade mark.”
+
+Note, but not strictly mentioned in s 31(5): Goods are “counterfeit goods” if (s 3(5))
+“(a) they are infringing goods in relation to that mark; and 
+(b) the sign borne by them or their packaging is a counterfeit trade mark.”
+Damages and account of profits can be concurrent, if there are any “profits attributable to the infringement that have not been taken into account in computing the damages” (s 31(3))
+Damages, account of profits and statutory damages are mutually exclusive, except as provided for in subsection (3) (s 31(4))
+Calculation of Statutory damages (s 31(5)(c))
+Quantum
+s 31(5)(c)(i): “not exceeding $100,000 for each type of goods or service in relation to which the counterfeit trade mark has been used; and” 
+s 31(5)(c)(ii): “not exceeding in the aggregate $1 million, unless the plaintiff proves that his actual loss from such infringement exceeds $1 million.”
+Mandatory factors in calculating statutory damages under s 31(5)(c) (s 31(6)): “the Court shall have regard to —
+(a) the flagrancy of the infringement of the registered trade mark; 
+(b) any loss that the plaintiff has suffered or is likely to suffer by reason of the infringement; 
+(c) any benefit shown to have accrued to the defendant by reason of the infringement; 
+(d) the need to deter other similar instances of infringement; and 
+(e) all other relevant matters”
+II. Patents
+Procedural matters
+Patent application and its consequences
+
+Registration filing at national level (IP SG at [29.4.1])
+1. filing the application for a patent with the Registry of Patents at the IPOS;
+Date on which this application is filed (earliest date at which the documents filed at the registry satisfy the conditions at s 26) serves as a reference point in determining whether it is sufficiently new and as the start date of the 20 years of protection
+An applicant can claim an earlier priority date by making a declaration that specifies one or more earlier applications
+2. a preliminary examination of the application;
+Procedural check: Registry of Patents ensures that the form of the application complies with requirements in s 28 of Patents Act.
+3. search and examination process;
+Substantive check: e.g. novelty, inventive step, industrial application --> indicates that the patent is useful (broad definition and includes agriculture, but excludes treatment or diagnosis on animals or human body under section 16(2) of the Patents Act)
+4. publication of the patent application; and
+5. grant of the patent.
+Who applies
+Default position: the inventor has the right to apply for and be granted a patent for an invention – s 19 Patents Act 
+Exception 1: employment – s 49(1) Patents Act (note s 50 though, which limits the scope to employees/businesses in Singapore and excludes employee advice/assistance in making invention)
+Exception 2: third party (or successor in title) entitled to invention by rule of law or contract – s 19 Patents Act
+Note: Singapore resident cannot file an application for a patent outside of Singapore, without first obtaining the written authority from the Registrar – s 34 Patents Act (“For reference only”)
+Dates to note
+Filing date: when “novelty” and “inventive step” are assessed – s 26 Patents Act
+Priority claim: from prior application in a Paris Convention or WTO member country – s 17
+* If there is a priority claim, priority date (which is when “novelty” and “inventive step” are assessed) can be earlier than filing date
+Publication 18 months after date of filing/priority date (but prior to grant of patent)
+Effect: “The protection afforded by the law of confidence is lost once a patent is granted” if the information has been disclosed in the patent applications (QB Net at [87])
+Effect: Application forms prior art for other patent applications worldwide 
+Effect: Applicant can recover damages for patent infringement dating back to date of publication – s 76 Patents Act
+Applicant may request for early publication – s 27(2) Patents Act (e.g. if it wishes to expedite the grant of the patent)
+Amendments to application (before or after grant of patent) 
+Applicant may amend application before grant – s 31 Patents Act 
+Note that Applicant may also amend patent after grant (e.g. in infringement or revocation proceedings) – ss 38 & 83 Patents Act 
+Amendment must not included added matter (i.e. matter extending beyond that disclosed in the application) – s 84 Patents Act 
+A “wrongful” amendment is a ground for revocation of a patent – s 80(1)(d)&(e) Patents Act 
+Certificate of Grant and Publication of the Grant
+Upon the grant of a patent, the Registrar shall:
+• send to the proprietor a certificate of grant of the patent
+• publish a notice that the patent has been granted
+• Section 35
+• Patents Rule 50
+Infringement proceedings can only be commenced after the patent has been granted: Section 76(3)
+Components of patent itself (some of these required by s 25(3))
+Cover page of patent
+Note: The Singapore Registry of Patents had stopped the practice of appending a cover page for publications of patent specifications a number of years ago. 
+The current practice is to reuse the PCT abstract/cover page for international applications entering SG national phase. 
+For SG applications filed directly with IPOS, these are published without a cover page, with only bibliographical information provided in the monthly Patents Journal.
+International Patent Classification (IPC) to classify the type of invention
+Description of the invention (longest part)
+“Background” including problems in the prior state of technology
+Details and “summary” of the invention, including advantages of the invention
+Claims of the invention (Most important part of patent)
+Defines scope of monopoly 
+Each claim is considered separately
+Aim of patent: to protect as much area as possible without encroaching on areas protected by other existing patents
+How: Broad language used in claim: to protect as much space as possible 
+How: Breadth of claim gets progressively narrower: if a prior art invalidates the broader claim, the narrower one may still be valid
+Abstract
+short description of the invention: “convenient albeit inconclusive ‘distillation’ of the core points as set out in the summary of the invention in the specifications” (Rohm and Hass at [106])
+Any drawing
+Post-grant of patent (general substantive rights)
+Rights conferred
+Infringement proceedings can only be commenced after the patent has been granted – s 76 Patents Act 
+Revocation (s 80 and r 80-84)
+File in High Court or with Registrar of Patents
+Inter partes: Both parties will file evidence and submissions, before Court or Registrar decides
+Grounds of Revocation are essentially the same as for validity (s 80(1))
+Process of revocation (s 82(1)(d) and r 80)
+* Application for revocation
+* Counter-statement
+* Amendment to specification may be filed with counter- statement
+* Evidence by applicant for revocation
+* Evidence by proprietor (patentee)
+* Evidence in reply by applicant for revocation
+Effect of revocation
+Section 80(5)(a): Patent is unconditionally revoked
+Section 80(5)(b) Where ground of revocation is established but only so as to invalidate the patent to a limited extent; Patentee may amend specification under Section 83 to the Registrar’s satisfaction; Otherwise, patent will be revoked 6
+Section 80(7): Revocation takes effect from the date of grant of the patent
+Re-examination (s 38A and r 52A)
+File with Registrar of Patents
+Ex parte: Applicant for re-examination has no role after filing the application; Chiefly between Registrar and patentee
+Shorter, less expensive process; But applicant for re-examination cannot comment on patentee’s response to written opinion
+Exploitation of Patents: assignment
+Patents (and also applications for patents) are personal property; therefore, they can be assigned, licensed, mortgaged, etc – s 41 Patents Act 
+Assignments and mortgages must be in writing and signed by or on behalf of the assignor/mortgagor – s 41(6) Patents Act
+Registration (on the patents register) is not compulsory 
+Effect of failure to register: A loss of priority to parties who subsequently acquire a conflicting interest – s 43 Patents Act 
+Effect of failure to register: Inability to recover damages or an account of profits (if not registered within 6 months of the transaction) – s 75 Patents Act
+Exploitation of Patents: Licences
+Licences need not be in writing 
+Licences are usually limited by: (a) territory; (b) duration; and/or (c) scope of use 
+An exclusive licensee (defined in s 2(1) Patents Act) is entitled to bring proceedings in his own name – s 74 Patents Act 
+Duration and renewals
+20 years from the date of filing – s 36(1) Patents Act (see also s 87(1) for PCT applications) 
+Patent valid for an initial period of 4 years, and must be renewed yearly thereafter – s 36(2) Patents Act read with rule 51 Patents Rules 
+Annual renewal fee payable increases with each renewal – First Schedule, item 20 Patents Rules:
+
+Validity of Patent
+A. “A person skilled in the art”: all evaluation of patent to be done from his perspective
+Constructing the “person skilled in the art”
+General characteristics
+“a person of ordinary skill and knowledge of the subject… of competent but average technical skill, who is unimaginative” (Trek Technology at [86]-[87])
+Has “common general knowledge of the subject matter in question.” (First Currency at [28], citing Ng Kok Cheng at [21]), meaning “the information which at the date of the Patent in question is common knowledge in the art or science to which the alleged invention relates, so as to be known to duly qualified persons engaged in that art or science” (Novartis AG at [15], citing British Thomson-Houston at 171)
+Is “unimaginative and uninventive” (First Currency at [28], citing Ng Kok Cheng at [21])
+Has “a reasonable degree of intelligence and with a wish to make the directions in the patent work.” (First Currency at [28], citing Ng Kok Cheng at [21])
+Constructing with the aid of expert witnesses
+“the court will almost invariably require the assistance of expert evidence” for technical questions (Molnlycke at 113)
+“The primary evidence will be that of properly qualified expert witnesses who will say whether or not in their opinions the relevant step would have been obvious to a skilled man having regard to the state of the art.” (Molnlycke at 113)
+“the expert’s role is to assist the court in its task of viewing the patent claims through the eyes of the person skilled in the art at the time the patent was applied for” (Lee Tat Cheng at [29])
+The person skilled in the art “has long been recognised as an artificial legal construct [who] is not necessarily an individual who is an ‘expert’ in the relevant field” (Lee Tat Cheng at [29])
+“many experts would not themselves fall within this particular category of persons “skilled in the art” as they would possess extraordinary knowledge as well as expertise” that “goes beyond what a reasonable person “skilled in the art” would possess” (Mühlbauer at [48])
+Potential issues with using experts
+Qualifications of experts
+“experts … are persons with “scientific, technical or other specialised knowledge based on training, study or experience.”” (EA s 47)
+“The usefulness of the patent attorney’s evidence … depends on the nature of his experience in relation to the relevant art and the nature of the issues raised” (Novartis at [17])
+e.g. expert evidence provided by a locksmith was found to be of little value where the appropriate expert should have been a locksmith in Ng Kok Cheng
+Issue of bias: “the issue in relation to the possible (or even probable) bias of experts is an especially significant one in patent cases… in which the court also often does not possess the requisite technical expertise.” (Mühlbauer at [44]-[47])
+Though “[i]t is true that the expert concerned has… an overriding duty to objective justice and to the court”, “one cannot be faulted for taking [this] with the proverbial pinch of salt, especially when one views this proposition through the lens of practical reality” since “every expert is appointed (and remunerated) by the party who has engaged his or her services.” (Mühlbauer at [44]-[47])
+Actual partiality needed: “for the purposes of determining whether the evidence of an expert should be discounted, the relevant test is one of actual partiality, rather than merely the appearance of partiality.” (Mühlbauer at [44]-[47])
+B. Construction of patent claims (see below, “Purposive Construction approach (Singapore’s approach)”)
+1. Patentability: Novelty; “new” (s 13(1)(a)) 
+Two step process: Identify all relevant prior art as at priority date and assess whether the invention has been anticipated by any of these pieces of prior art (s 14(2))
+1) What is relevant prior art 
+Material available assessed at “priority date” (s 14(2))
+Priority date is date of filing (s 17(1)), unless patent was previously filed in a “convention country”, provided not more than 12 months prior to filing in Singapore (s 17(2))
+Content: Prior art “shall be taken to comprise all matter … which has at any time before the priority date of that invention been made available to the public (whether in Singapore or elsewhere)” (s 14(2))
+* ‘Made available to the public’ is satisfied even if the disclosure had been made available only to a single member of the public
+Anyone, any way, anywhere, any time: Prior art comprises anything “which has been disclosed to anyone (except in confidence), by any means (written or oral or by use), anywhere in the world, at any time in history (before the priority date).” (Institute Pasteur at [188])
+“Even availability to a single member of the public will suffice” and “[i]t is irrelevant whether anyone knew [the prior art] was available or had inspected it” (Institute Pasteur at [188])
+E.g. “availability to the public is satisfied if the document can be found on the shelves of a public library” (Institute Pasteur at [188])
+Even if inventor not aware: “Anticipation can therefore encompass a disclosure which the inventor was totally ignorant of” (Institute Pasteur at [188])
+Content: Prior art includes other patent applications with earlier priority date even if application published after patent in question’s priority date is prior art (s 14(3))
+Exception 1: Certain disclosures before priority date not taken into account if patent made within 12 months of disclosure
+Unless disclosures to public made in breach of confidence within 12 months prior to patent application (s 14(4)(a)-(b)) (see notes on Confidential Information for what is confidential information)
+Unless disclosures made by inventor at an international exhibition or before any learned society (ss 14(4)(c)-(d) & 14(5))
+Unless general disclosure “made to the public” by inventor (s 14(4)(e))
+Exception 2: (new (medical) use of a known substance) (s 14(7))
+2) Was invention anticipated by any of these prior art (IP SG at [30.1.36]-[30.1.44])
+‘Anticipate’: If a prior art anticipates an invention, that invention has been disclosed in that prior art and is therefore not novel
+i. Identify the “essential features or integers of the invention [which] are set out in the patent claim(s).” (IP SG at [30.1.36])
+“Purposive approach” to be used, which is the same approach used when construing claims for the purposes of determining infringement (IP SG at [30.1.36])
+ii. Assess “though the eyes of “the person skilled in the art” (First Currency at [28], with reference to Kirin-Amgen at [33]))
+Intelligent but not imaginative
+iii. Rule against “mosaicking” the different pieces of prior art in the assessment of novelty (Dien Ghin at [33])
+E.g. In interpreting prior art of making a chair, a person skilled in the art may interpret it “using the materials generally known … for making furniture”, so an invention that specifies the use of a special material in the chair may not have been anticipated by the prior art (Dien Ghin at [33])
+Exception to mosaicking: “where a later document referred to an earlier document or where a series of papers, which formed a series of disclosures” (Genelabs Diagnostics at [27])
+“where a later document only refers to an aspect of a prior document …. only that part or those parts of the earlier document which are referred to in the later document should be so read” (Genelabs Diagnostics at [27])
+iv. General standard of anticipation is whether the prior art would “inevitably lead to invention” (Merck & Co at [39])
+High standard: “the directions contained in a [prior art] must be so clear that following those directions must inevitably lead to something that would, if the patentee’s patent were valid, infringe the patentee’s claim” (Mühlbauer at [17])
+Cannot be signpost: “A signpost, however clear, upon the road to the patentee’s invention will not suffice. The prior inventor must be clearly shown to have planted his flag at the precise destination before the patentee.” (FE Global at [38], citing The General Tire at 486)
+Signpost “if the instructions (or teachings) at a particular intermediate step are unclear and admit of various possibilities of doing or taking that step which could eventually lead to different end results (one of which may be the patentee’s invention as claimed but not the others)” (Dien Ghin at [31])
+Cannot be near miss: “Anticipation does not include vague disclosures or near misses but must be found within the document in issue.” (Main-Line Corporate at [63])
+E.g. Experiment with modification of the experimental environment with respect to a prior art in producing a chemical with low impurity could not prove that the prior art would inevitably have the consequence of producing the chemical in question in Merck & Co at [39]
+v. “The prior art documents … must be construed as if the court had to construe it at the date of publication, to the exclusion of information subsequently discovered …” (Mühlbauer at [18])
+2. Patentability: “involves an inventive step” (s 13(1)(b))
+“The requirement of obviousness is separate and distinct from that of novelty.” (First Currency at [37])
+An non-novel invention (i.e. already exists in the state of the art) is obvious but a novel invention is not necessarily not obvious (IP SG at [30.1.47])
+“when considering the question of the obviousness of an invention, it is assumed that the invention is novel and differs in some identifiable respect from the prior art” (First Currency at [19])
+Two step process: “construct the relevant state of the art for the invention in question” then “compare the invention with the state of the art to determine if the invention is obvious to the person skilled in the art.” (IP SG at [30.146])
+1) Construct the relevant state of the art 
+S 15: prior art for inventive step includes “all matter … available to the public” under s 14(2) but not unpublished patents with an earlier priority date under s 14(3)
+“it is well established that the test for obviousness is significantly narrower than that for novelty.” (First Currency at [38]) 
+* ‘Made available to the public’ is satisfied even if the disclosure had been made available only to a single member of the public (see Genelabs [188])
+* A book describing the invention that lies amongst the shelves of a public library, but is unread, still potentially anticipates the invention (see First Currency [38])
+Hindsight is only permitted to the extent “to select the prior art used as the foundation for the argument with 20/20 hindsight” (Arnold LJ (majority) in Hozelock at [76])
+E.g. “inevitably follows that some patents turn out to be invalid because, unbeknownst to the inventor, or indeed other persons skilled in the relevant art, prior art emerges when sufficient searches are carried out which anticipates or renders obvious the claimed invention” (Arnold LJ (majority) in Hozelock at [76])
+2) Construe obviousness with the Windsurfing approach as a guide
+“while the Windsurfing test remains a useful guide, it is no more than that … it … is merely a manifestation of judicial inventiveness on how best to pragmatically interpret and elucidate the requirements of s 15 of the Act.” (First Currency at [45])
+i. “identify the inventive concept embodied in the patent in suit” (Merck & Co at [50], citing Windsurfing at 73)
+ii. “the court has to assume the mantle of the normally skilled but unimaginative addressee in the art at the priority date and to impute to him what was, at that date, common general knowledge in the art in question” (Merck & Co at [50], citing Windsurfing at 73)
+iii. “identify what, if any, differences exist between the matter cited as being ‘known or used’ and the alleged invention” (Merck & Co at [50], citing Windsurfing at 73)
+iv. “whether, viewed without any knowledge of the alleged invention, those differences constitute steps which would have been obvious to the skilled man or whether they require any degree of invention” (Merck & Co at [50], citing Windsurfing at 73)
+Though court must rely on expert witnesses with the requisite technical expertise, “in the final analysis, the court which decides whether or not the requisite legal criteria have (or have not) been satisfied.” (Mühlbauer at [47])
+a) Constructing how the person skilled in the art interacts with prior art: “it is well established that not all disclosures in the prior art will enjoy the same weight” (Rohm and Hass at [145], affirmed in Element Six at [157])
+E.g. “Factors include how distant and unrelated the prior art’s field of research is, and 
+whether the prior art is directed at solving the particular problem at issue” (Rohm and Hass at [145])
+E.g. “less emphasis to be given to a piece of prior art of great antiquity, 
+or one which was made available to the public in a language not generally current 
+or in a very different field of technology” (IP SG at [30.1.35])
+b) “Mosaicking” is allowed if “it would have been obvious to a skilled reader to combine the different features of the various prior art” (Martek at [52])
+Inventive: If “it is necessary to make a mosaic of extracts from documents published over a period of time, taking suggestions from one with suggestions from others independent of it” to arrive at the subject matter of the claim (Mühlbauer at [95])
+c) Standard for non-obviousness
+Obvious: invention is “well-worth trying to yield beneficial results” (Merck & Co (HC) at [42]); “obvious to try … which had a reasonable or fair prospect of success” (Actavis at [65])
+Obvious: invention is “lying on the road” (Merck & Co (HC) at [42]); nothing “more than an aggregation of the known features” in various pieces of prior art (ASM Assembly at [63])
+Inventive: “the existence of alternative or multiple paths of research will often be an indicator that the invention contained in the claim or claims was not obvious” (Actavis at [69]) 
+d) Simplicity of invention generally irrelevant
+Not necessarily obvious: simplicity is “no bar to inventiveness” (FE Global at [46]), simplicity is not equivalent to obviousness (First Currency at [51]) and inventiveness is not synonymous with complexity (Institut Pasteur at [197])
+Not necessarily obvious: small step up from prior art could be “no less significant a step forward, a step which nobody else had taken before” (First Currency at [54], with reference to Peng Liam Trading at [31])
+e) Commercial success could be indicative of inventiveness
+Justification: “commercial success is an indication that the patented invention meets a long-felt need in the industry and, if the invention was obvious, why was it not done before?” (IP SG at [30.1.60], with reference to Hallen Co at 323)
+Inventive: commercial success of patented invention as evidence of non-obviousness but in itself not conclusive (Ng Kok Cheng at [44] and Mühlbauer at [107])
+Weight of factor depends on whether commercial success of invention is attributed to the invention itself, instead of other factors such as clever advertising gimmicks (Ng Kok Cheng at [44]) or competitive pricing (Mühlbauer (SGHC) at [47])
+f) Going against conventional wisdom is quite indicative of non-obviousness
+Obvious: “the routine nature of the research and any established practice of following such research through to a particular point” in contrast to a “claimed process or product was not obvious to try at the outset of a research programme” (Actavis at [66])
+Inventive: “A patentee who contributes something new by showing that, contrary to the mistaken prejudice, the idea will work or is practical has shown something new” (Mühlbauer at [100], citing Pozzoli at [27])
+“the motive of the skilled person is a relevant consideration”, as to whether “in the circumstance he or show would be motivated to [undertake a particular trial]” in addition to being able to do so (Actavis at [70]) 
+E.g. Patentee, Dyson, came up with a vacuum that had inventive step as no one in the vacuum cleaner industry would have thought of a vacuum cleaner without a bag or final filter in Dyson
+g) Not necessarily inventive: Time and cost to invent
+Not necessarily inventive: “The sweat of [the patentees’] labours is hardly relevant to the issue of inventive step.” (Merck & Co (HC) at [42])
+Not necessarily obvious: length of time, a “flash of inspiration” to devise the invention in seconds can be inventive (Ng Kok Cheng at [40])
+Not necessarily inventive: “the burden and cost of the research programme is relevant [but] the weight to be attached to this factor will vary depending on the particular circumstances” (Actavis at [67])
+E.g. in the instant case, the patent is pharmaceutical and the cost of the research is more relevant since “[t]he cost and effort involved in bringing a drug to market through pre-clinical and clinical trials are notorious” relative to the cost of production in Actavis at [67]
+h) Obvious: If “a feature of a claimed invention is an added benefit in a context in which the claimed innovation is obvious for another purpose”, it is a factor towards obviousness (Actavis at [73])
+E.g. Use of a chemical known to be a friction-reducing material on corkscrews with a non-obvious benefit for another purpose not inventive “because it was obvious to select the features of the claim for the first purpose notwithstanding that it was not obvious for the other purpose” (Actavis at [73], with reference to Hallen & Co (UKHC) at 326-327)
+i) No hindsight bias in using prior art: “courts have repeatedly emphasised that one must not use hindsight, which includes knowledge of the invention” (Actavis at [72])
+“The obvious danger of a step by step analysis is that the combination of steps by which the inventor arrived at his invention is ascertained by hindsight knowledge of a successful invention” (Actavis at [72])
+Cases
+E.g. person skilled in the art held to be a hose designer with exposure to both garden hoses and technical hoses, causing an expandable garden hose to be obvious in light of a “self-elongating oxygen hose for stowable aviation crew oxygen mask” in Hozelock
+E.g. prior patent that disclosed the use of a chemical for the treatment of erectile dysfunction would only involve “familiar and routine procedures” to discover the effective dosage, causing a subsequent patent for that effective dosage to fail for being obvious in Actavis at [105]
+3. Validity of the patent: Sufficiency / insufficient enabling disclosure contrary to s 25(4) (s 80(1)(c))
+General points to note:
+Corresponding UK provision is not identical (“clear enough and complete enough…”), but no substantive difference as the focus of the legislative provisions is on the words “for the invention to be performed by a person skilled in the art” (Ng Kok Cheng at [49])
+Burden of proof is on person challenging sufficiency 
+Not necessary for the specification to disclose common general knowledge
+Test for sufficiency: (1) Identify the invention and decide what it claims to enable the skilled man to do; and (2) Ask whether the specification enables him to do it (Kirin-Amgen endorsed in First Currency at [60]-[61]) --> both are questions of fact
+1) S 25(4): “The specification of an application shall disclose the invention in a manner which is clear and complete for the invention to be performed by a person skilled in the art.”
+The claim(s) shall “define the matter for which the applicant seeks protection” and “relate to one invention or to a group of inventions which are so linked as to form a single inventive concept” (ss 25(5)(a) and 25(5)(d))
+“Patentees are free to choose how widely to frame the range of products for which they claim protection”, “[b]ut they need to ensure that they make no broader claim than is enabled by their disclosure” (Regeneron at [56(iii)])
+2) Whether the specification allows the skilled man to fulfil the claim (i.e. make the range of products covered by the claim)
+Standard: “the specification of the patent must embrace an embodiment of the invention asserted in each of the claims” (First Currency at [62]), or “be sufficient to enable the skilled person to make substantially all the types or embodiments of products within the scope of the claim.” (Regeneron at [56(iv)])
+“coupled with the common general knowledge existing as at the priority date (Regeneron at [56(iv)])
+With some “trial or experiment” but “without making further inventions or prolonged study of the matter” (First Currency at [62])
+Claim discloses “a number of discrete methods or products”: “the patentee must enable the invention to be performed in respect of each of them” (Biogen at [63])
+Claim discloses principle of general application: Disclosure must “appear reasonably likely to enable the whole range of products within the scope of the claim to be made” (Regeneron at [56(vi)], similarly in First Currency at [65] affirming Biogen at [63])
+4. Other requirements (s 80(1))
+(a) the invention is not a patentable invention, contrary to s 13; Invention cannot “be generally expected to encourage offensive, immoral or anti-social behaviour” (s 13(2))
+(b) the patent was granted to a person not entitled to the grant of that patent, contrary to s 19
+(c) there is no “enabling disclosure”, contrary to s 25(4)
+(d) The specification of the patent discloses “additional matter”, contrary to s 84(1) or (1A)
+(e) an amendment or correction was made to the specification of tire patent which should not have been allowed, contrary to s 84 (2) or (3);
+(f) the patent was obtained fraudulently, or on any misrepresentation, or on any non-disclosure or inaccurate disclosure of any prescribed material information; and 
+(g) there is 'double patenting ' for the same invention, contrary to s 30(3)(e).
+Infringement
+Infringement “only if, while the patent is in force, he does any of the following things in Singapore in relation to the invention without the consent of the proprietor of the patent:” (s 66(1))
+“(a) where the invention is a product, he makes, disposes of, offers to dispose of, uses or imports the product or keeps it whether for disposal or otherwise;
+(b) where the invention is a process, he uses the process or he offers it for use in Singapore when he knows, or it is obvious to a reasonable person in the circumstances, that its use without the consent of the proprietor would be an infringement of the patent;
+(c) where the invention is a process, he disposes of, offers to dispose of, uses or imports any product obtained directly by means of that process or keeps any such product whether for disposal or otherwise.”
+
+Scope of the patented invention: “an invention … shall … be taken to be that specified in a claim of the specification [and] as interpreted by the description and any drawings” (s 113(1))
+“For the patentee, it is often a case of treading a line between contending that the scope of a claim is broad enough to cover an alleged infringement, but sufficiently narrow so as not to cover the prior art” (Terrel at [9-03])
+Defendants want to run the “‘squeeze’ argument, namely that if the claim is broad enough to cover their activities, then it is also broad enough to cover the prior art or what is obvious from the prior art.” (Terrel at [9-03])
+Reversal of Burden of proof: where proprietor of patent of a “process for obtaining a new product” cannot reasonably determine the process actually used by the alleged infringer (s 68(1))
+
+Purposive Construction approach used, doctrine of equivalents rejected (Lee Tat Cheng at [41(c)])
+Purposive construction, not just literally, but only to “give the patentee the full extent, but no more than the full extent, of the monopoly which a person skilled in the art, reading the claims in context, would think the patentee was intending to claim” (Lee Tat Cheng at [41(c)])
+“In ascertaining the true construction of a patent specification, the claims themselves are the principal determinant” (Lee Tat Cheng at [41(a)])
+Purposive construction establishes what “patentee would have objectively meant to include within the scope of his monopoly at the time of the patent application” (Lee Tat Cheng at [53]])
+US doctrine of equivalents: What: infringement if a “product performs substantially the same function in substantially the same way as the invention disclosed in the patent so as to achieve the same results as that invention.” (Lee Tat Cheng at [36])
+* This doctrine is inconsistent with s 113 Patents Act which states in no uncertain terms that the extent of the protection conferred by a patent is to be determined by what is specified in the claims
+Defences, effects on contracts relating to patents and Remedies
+1. Defences to infringement
+S 66(2):
+(a) Acts done privately and for non-commercial purposes
+(b) Acts done for experimental purposes
+(c) Extemporaneous preparation of medicine
+(d), (e), (f) Temporary transit (of aircraft, ships or vehicles)
+(g) Parallel imports (but note special treatment for pharmaceuticals in s 66(3))
+(h) “Bolar” defence (for marketing approval for pharmaceuticals) (e.g. clinical testing to prove chemical equivalence of generic drugs)
+S 66(3): Exception to defence of parallel imports (s 66(2)(g)) for pharmaceuticals applies if –
+(a) “the product has not previously been sold or distributed in Singapore or with the consent (conditional or otherwise) of the proprietor of the patent or [licensee]”; and 
+(b) “the import of the product by the importer would result in the product being distributed in breach of a contract” between the proprietor of the patent and any person licensed by the proprietor; and
+(c) “the importer has actual or constructive knowledge of the matters referred to in paragraph (b)”
+Prior use defence (s 71(1))
+What is prior use: When, “before the priority date of the invention”, defendant “does in good faith an act which would constitute an infringement of the patent if it were in force” or “makes in good faith effective and serious preparations to do such an act” (s 71(1))
+Effect: Defendant “has the right to continue to do the act or, as the case may be, to do the act, notwithstanding the grant of the patent” (s 71(1))
+Caveat: “The right conferred by subsection (1) shall not extend to granting a licence to another person to do the act.” (s 71(2))
+“Defence” of Innocence (only protects from damages and account of profits) (s 69(1))
+Defence if “at the date of the infringement he was not aware, and had no reasonable grounds for supposing, that the patent existed” (s 69(1))
+Not reasonably aware “by reason only of the application to a product of the word “patent” or “patented” or any word or words expressing or implying that a patent has been obtained for the product, unless the number of the patent accompanied the word or words. (s 69(2))
+Pre-emptive: Court or Registrar may make declaration as to non infringement (s 78)
+Court or Registrar may make a declaration that an act or a proposed act would not constitute an infringement of a patent, “notwithstanding that no assertion to the contrary has been made by the proprietor, if it is shown —"
+(a) “that [the allegedly infringing person] has applied in writing to the proprietor for a written acknowledgment to the effect of the declaration claimed, and has furnished him with full particulars in writing of the act in question; and
+(b) that the proprietor has refused or failed to give any such acknowledgment.”
+2. Remedies
+S 67(1): (These are the usual remedies common to all IP rights)
+(a) “for an injunction restraining the defendant from any apprehended act of infringement;
+(b) for an order for him to deliver up or destroy any patented product in relation to which the patent is infringed or any article in which that product is inextricably comprised or any material and implement the predominant use of which has been in the creation of the infringing product;
+(c) for damages in respect of the infringement;
+(d) for an account of the profits derived by him from the infringement; and
+(e) for a declaration that the patent is valid and has been infringed by him.”
+Certificate of contested validity (s 72 PA) 
+(1) If validity of a patent is contested and found to “be wholly or partially valid the court or the Registrar may certify the finding and the fact that the validity of the patent was so contested.”
+(2) Party relying on the validity of the patent “shall, unless the court or the Registrar otherwise directs, be entitled to his costs or expenses as between solicitor and own client other than the costs or expenses of any appeal in the subsequent proceedings.”
+III. Copyright
+Introduction
+Copyright is a bundle of rights
+A type of property right
+Is distinct from physical embodiment of the work
+Overlapping types of copyright possible in a single article
+Duration of copyright
+In author’s works
+Author identifiable: (a) 70 years after the end of the year in which the author dies (s 114(1)-(3))
+Author unidentifiable: if unpublished: (b) 70 years after the end of the year in which the work is made if the author is unidentifiable (s 114(3))
+In entrepreneurial works
+Sound recordings: 70 years after recording was (1) first published or (2) first made (s 122)
+Films: 70 years after film was (a) first published pr (c) first made (s 125(1))
+Television broadcast or sound broadcast: 50 years after broadcast (s 128)
+Cable programmes: 50 years after broadcast (s 132)
+Type of copyright in subject matter
+Distinction between “works” and “subject-matter other than works”
+s 8, CA: A “work” is (a) an authorial work; (b) a published edition of an authorial work; (c) a sound recording; (d) a film; (e) a broadcast; or (f) a cable programme.
+Authors’ works: Initially, there were only authors’ works
+Entrepreneurial works
+Technology progressed and introduced new methods of dissemination of authors’ works, “which creation for the most part was based on or derived from pre-existing authors' works.” (IP SG at [6.0.6])
+“the new subject-matter made it conceptually impossible for the new rights to be fitted within the traditional ‘authors’ rights’ regime.” (IP SG at [6.0.6])
+“rights in entrepreneurial works became known as 'neighbouring rights' so-called because the rights are close to, or neighbouring upon, the authors' rights” (IP SG at [6.0.6])
+Copyright does not protect
+Facts & Data: E.g. Singapore is 721.5 km2
+Discoveries: E.g. E=mc2
+Ideas: E.g. For a new startup
+Methods: E.g. How to extract water from air
+Procedures: E.g. Recipe for chicken rice
+No standalone database rights: “this is more properly the province of a sui generis database right, which has been recognised in the European Union but not in Singapore” (Global Yellow Pages at [34])
+Authorial works
+“An “authorial work” is a literary, dramatic, musical or an artistic work.” (s 9, CA)
+1. Literary works
+Definition of a “literary work”: “it is one which is written down and contains information which can be read by somebody, as opposed to being appreciated simply with the eye” (IP SG at [6.1.3], relying on Real Electronics)
+Not exhaustively defined in old or new CA
+1. Literary merit or style (or lack thereof) is irrelevant as “judges should not be turned into literary critics having the power to decide what is 'worthy' and deserving of copyright protection” (IP SG at [6.1.4])
+2. “writing” “means a mode of representing or reproducing words, figures or symbols in a visible form” (CA s 7(1)) and so can include the codes, markings, lines and circles used to represent the technical information in Real Electronics (IP SG at [6.1.5])
+3. Literary works are “read” while artistic works are “appreciated with the eye”, but this is not mutually exclusive where appropriate (Real Electronics at [28], citing Anacon at 663)
+o E.g. trade logo comprised “Fragrance” and its Mandarin equivalent with a stylised representation held to be artistic work as it was not meant to be “read” in Fragrance Foodstuff
+4. Requirement for “reading” does not mean that the information must be readily understood by the average person (technical details in subject matter in Real Electronics)
+5. De minimis threshold (Tay Long Kee Impex at [44])
+E.g. “short phrases (e.g. titles of books or movies) and single invented words (e.g. a trade name)” (IP SG at [6.1.12])
+E.g. warranty comprising three sentences of 64 words “cannot subsist on its own as a literary work” as it “is hardly consequential” in Tay Long Kee Impex
+Includes “a compilation in any form” (s 13(1))
+A compilation must involve sufficient “selection or arrangement of its content” to constitute an “intellectual creation” (s 13(2)(b))
+“any copyright in a compilation (a) is limited to the selection or arrangement of its contents that constitutes an intellectual creation; and (b) is in addition to, and independent of, any copyright in its contents and any other right under Part 4 (protection of performances) in relation to its contents.” (s 14)
+Includes “a computer program” (s 13(1))
+Adaptations of a literary work (s 17): “an “adaptation” of a literary work is —
+(a)	in relation to a literary work in a non?dramatic form — a version of the work (whether in its original language or in a different language) in a dramatic form;
+(b)	in relation to a literary work in a dramatic form — a version of the work (whether in its original language or in a different language) in a non?dramatic form;
+(c)	in relation to a literary work being a computer program — a version of the work (whether or not in the language, code or notation in which the work was originally expressed) that is not a copy of the work; and
+(d)	in relation to any literary work (whether in a non?dramatic form or dramatic form) —
+(i)	a translation of the work; or
+(ii)	a version of the work in which a story or an action is conveyed wholly or mainly through pictures.”
+2. Dramatic works
+Relation to literary works
+All dramatic works are literary works but not all literary works are dramatic works.
+Definition per s 15: 
+“(1)(a)	a work of dance or mime; and (b) a scenario or script for a film, but not a film.
+(2)  A work of dance or mime made before the appointed day is not a dramatic work unless it is described in writing in the form in which the show is to be presented.”
+When a literary, dramatic or musical work made
+When, or over the period during which “the work is first fixed in a material form, including (a) in writing; or (b) by storage” (s 16(1))
+“A literary, dramatic or musical work in the form of sounds embodied in an article or a thing is considered (a) to have been fixed in a material form; and (b) to have been so fixed when those sounds were embodied in that article or thing.” (s16(2))
+Scope
+Note: a video recording does not fit statutory definition (IP SG at [6.1.18])
+Unscripted shows cannot qualify as a dramatic work, and the format of an unscripted show may not be sufficient (Green v Broadcasting Corporation of New Zealand)
+Script for a simple game cannot qualify as a dramatic work as “the particular sequence of images displayed on the screen will depend in very large part on the manner in which it is played” and thus there “is simply no sufficient unity within the game for it to be capable of performance” (Nova Productions at [116] (UKHC))
+3. Musical works
+Left undefined in the CA
+Arguably includes music scores etc. even if it could overlap with literary works
+Musical merit or quality is irrelevant (IP SG at [6.1.23])
+“two distinct types of copyright subject-matter in a song: the tune in the song is a musical work, and the lyrics of the song is a literary work” (IP SG at [6.1.25])
+An “adaptation” of a musical work is an arrangement or a transcription of the work. (s 18)
+4. Artistic Works
+Definition per s 20(1):
+“(a)	is any of the following:
+(i)	a painting, a sculpture, a drawing, an engraving or a photograph (whether the work is of artistic quality or not);
+(ii)	a building or a model of a building (whether the building or model is of artistic quality or not);
+(iii)	a work of artistic craftsmanship to which neither sub?paragraph (i) nor (ii) applies; but
+(b)	does not include a layout?design or an integrated circuit as defined in section 2(1) of the Layout?Designs of Integrated Circuits Act.”
+Entrepreneurial works: s 107(2): copyright in entrepreneurial works subsists independently to any copyright subsisting in any authors works from which it is “wholly or partly derived”
+Protection Criteria for author’s works (subsistence)
+Protection is automatic with no formalities requirement
+Copyright subsists in unpublished authorial works if (s 109(1)):
+“(a)	the work is original; and
+(b)	one of the following applies:
+(i)	the author is a qualified individual when the work is made;
+(ii)	if the work is made over a period — the author is a qualified individual for a substantial part of that period;”
+Copyright subsists in published authorial works if (s 110(1)(a), (2)(b))
+“(i)	the author of the work —
+(A)	is a qualified individual when the work is first published; or
+(B)	dies before the work is first published but is a qualified individual immediately before his or her death; or
+(ii)	the work is first published —
+(A)	in Singapore …”
+S 109(1)(b): Author’s work must be “connected” with Singapore in at least one relevant way (connecting factors)
+1. Author is a “qualified person”, meaning a “citizen of Singapore or a person resident in Singapore” as defined in s 77; or
+2. First publication of the work took place in Singapore (for published works); or 
+3. Connection to Convention Country (WTO, Berne) (s 3)
+Generally: SG copyright protected abroad in Convention countries and Foreign copyright from Convention countries protected in Singapore
+Protected as if Singapore work: “If the foreign copyright work originates from a country recognised in these Regulations, there can be protection for this foreign copyright work under the Copyright Act as if the work originated from Singapore.” (IP SG at [6.3.8])
+Authors’ work must be “fixed in a material form” (s 16(1)), including
+(a)	in writing; or
+(b)	by storage —
+(i)	in a computer;
+(ii)	on any medium by electronic means; or
+(iii)	on any other medium from which the work, or a substantial part thereof, can be directly reproduced.”
+Human Authorship
+“Author” must be a natural person (Asia Pacific Publishing at [95] overruling Alteco Chemical)
+E.g. Company could not be an “author” in Asia Pacific
+Justification: Copyright law duration lasts for authors’ lifetime. A legal person could potentially ‘live’ forever
+E.g. Monkey named Naruto lacked statutory standing because US Copyright Act did not expressly authorize animals to file copyright infringement suits in Naruto v Slater
+Human author is necessary for copyright to subsist (e.g. Asia Pacific at [75])
+“it is not necessary to name each and every author to make out a claim for copyright protection but it has to be shown that the work product in question has been generated from human author(s) working alone or collaboratively, ie, the existence of such persons must be clearly established” (Asia Pacific at [75])
+“while the law accepts that a person other than the author may be a first owner, the question of who the author is remains a distinct and an important one” (Asia Pacific at [71])
+Note: inability to prove who authors were “was not fatal to the plaintiff’s claim, and I was satisfied that the plaintiff owned any copyright subsisting in its software by virtue of the assignment clauses in its employees’ contracts of employment.” (I-Admin at [51])
+“in cases involving a high degree of automation, there will be no original work produced for the simple reason that there are no identifiable human authors” (obiter in Asia Pacific at [81])
+Determining the “author”: Person must have contributed via “authorship skills” which mean the skill, labour and judgment protected by copyright (Asia Pacific at [70]) (see “Originality” below)
+Person who provides the ideas used to create the work is not the author as ideas cannot be protected by copyright (Asia Pacific at [76])
+E.g racing professionals and readers of the plaintiff's horse-racing guide who gave ideas on how to improve the guide were not the authors of compilations in Asia Pacific in [76]
+Determining the “author(s)”: “each individual’s responsibility and contribution” had to be “particularised” to “render the individual an author, or joint author of the Table” (Asia Pacific at [79])
+“where the work of individuals was not collaborative, but was instead merely organised to facilitate the production of the work, this would not be collaboration of the kind contemplated by the definition of joint authorship” (Asia Pacific at [78], affirming Telstra [2010] FCAFC at [92])
+E.g. “the collection of the horse-racing data, such as the horses’ and jockeys’ names, as well as their track work records, and the organisation and selection of such data were either computerised, or done by separate people” which was insufficiently particularised to identify any author(s) in Asia Pacific at [79]
+Originality
+What originality is
+“All that needs to be shown is that the author created [the expression] and has not copied it from another, and that he has expended towards its creation a substantial amount of skill or labour” (AUVI at [32], similarly in Asia Pacific at [101], citing University of London Press at 608-609)
+“Originality in this regard does not mean novelty or uniqueness; nor does it necessarily involve inventiveness” (AUVI at [32])
+Focus is on originality of the form in which the work is expressed and it is not necessary for idea or thought to be original (Flamelite at [22]-[23], similarly in University of London Press)
+E.g. sketches of a frame for fire-rated doors and screens involved simple principles of construction which had no impact on whether the sketches satisfied the originality requirement in Flamelite
+E.g. math exam questions were ‘recycled’ but had been expressed in a different form and hence original in University of London Press
+The fact that a derivative work infringes the copyright in the source material has no impact on whether the derivative work is original, and hence be protected by copyright itself (Virtual Map v Suncool at [10])
+What contributes to “originality” 
+“Creativity” approach favoured over the “sweat of the brow” approach (Global Yellow Pages at [24])
+Creativity approach “places emphasis on the end product of the work and considers efforts applied towards the formulation of how that end product will be expressed.” (Global Yellow Pages at [23])
+Sweat of the brow approach “considers the author’s labour and industry to be relevant, and admits consideration of the effort taken in the preparatory steps leading to the reduction of the work to its final form.” (Global Yellow Pages at [23])
+Justification: “What is common across the jurisdictions, however, is that each court seeks to characterise the human acts done and decisions made in reducing the universe of raw information into a work” (Global Yellow Pages at [28])
+Justification: Notwithstanding “the commercial immorality underlying [the copying of data or facts], this is simply not within the purview of copyright law” (Global Yellow Pages at [34])
+Justification: “this is more properly the province of a sui generis database right, which has been recognised in the European Union but not in Singapore” as “Parliament consciously decided not to introduce such a right at the time the 1998 amendments to the CA were debated” (Global Yellow Pages at [34])
+“Effort (even intellectual) that is applied not towards the authorial creation but towards other ends such as the verification of facts will not be relevant” (Global Yellow Pages at [24], similarly in Asia Pacific)
+“for copyright to subsist in any literary work, there must be an authorial creation that is causally connected with the engagement of the human intellect” (Global Yellow Pages at [24])
+C.f. “managerial decisions (whether to publish or update a phone directory) which clearly do not merit copyright protection” (Global Yellow Pages at [28])
+C.f. “purely mechanical tasks (such as the algorithmic collection or arrangement of data) that, taken alone, would not cross the creativity threshold” (Global Yellow Pages at [28])
+C.f. Traced design drawings, though the product of substantial effort, could not be original works distinct from the source work in Interlego
+For fact-based works (i.e. a compilation) to be protected, “the compiler must exercise sufficient creativity in selecting or arranging the material within the compilation” as a form of expression (Global Yellow Pages at [24], similarly in Asia Pacific)
+Not the data: “fundamental principle that copyright law protects not ideas, facts or data but the expression thereof” (Global Yellow Pages at [30])
+Merger: Possible that “fact or idea and its expression are virtually coterminous, and decisions and actions to express that fact or idea are so obvious or inevitable that they cannot be said to have been creative.” (Global Yellow Pages at [29])
+Minimum: “the arrangement of the listings, in particular the narrow ways in which the sorting rules departed from the default alphabetical (or even alphanumeric) arrangement, [attracts] copyright” (Global Yellow Pages at [87])
+Likely thin protection nonetheless: “such copyright was very thin and would be prima facie infringed only by a near-wholesale taking of the listings, arranged exactly as they were found” (Global Yellow Pages at [87])
+E.g. of selection: “the geographic area covered, the cut-off date, and the type of information that will be published” (Global Yellow Pages at [28])
+E.g. of arrangement: “order in which entries are sorted, and the order in which various fields of information are presented” (Global Yellow Pages at [28])
+E.g. Compilation was original as it had not “merely reprinted the horse-racing data wholesale or in alphabetical order, but had selected information it thought relevant and arranged it in a manner that was thought to be most conducive for readers” in Asia Pacific at [103]
+C.f. alphabetical arrangement of data in White Pages of a telephone directory is “unoriginal” and “practically inevitable” in Feist Publications at 363, mentioned in Global Yellow Pages at [33]
+Threshold for originality
+“there is no guiding principle as to the precise quantum of labour, skill or judgment required, but rather it is a question of fact and degree and thus has to be determined on the facts of the particular case” (Asia Pacific at [34], with reference to Copinger at [3-130])
+Low threshold: “simplicity per se does not prevent a work from acquiring copyright” (AUVI at [33])
+“apart from cases of such barren and naked simplicity as [a single straight line drawn with the aid of a ruler], I should be slow to exclude drawings from copyright on the mere score of simplicity” (AUVI at [33], citing British Northrop at 68)
+Thin protection: the simpler the work, the thinner the protection (i.e. more must be copied for infringement) (Global Yellow Pages at [87] (as source(?)))
+E.g. simple drawing of a hand holding a pencil (on “user-friendly voting cards”) held to enjoy copyright in Kenrick (1890)
+E.g. a rivet, screw, stud, bolt, metal bar, length of wire, etc. all drawn to scale, with precise dimensions could be copyrighted in British Northrop [1974]
+Originality for Derivative work: “What is needed is an addition of some element of material alteration or embellishment which suffices to make the totality of the work an original work” (Virtual Map v Suncool at [13], affirming Interlego at 262)
+“The question of how far a work, which has been copied from an earlier work, can be regarded as original is a matter of fact and degree” (Virtual Map v Suncool at [13])
+E.g. full-coloured interactive map with additional information produced from cartographic vector data obtained from the Singapore Land Authority was original enough for copyright to subsist in them in Virtual Map v Suncool
+C.f. No originality for addition of watermark to a photograph as it is “meant to serve to identify … [that it] has been posted on the PG website [and the] skill and labour is not deployed towards making a difference to the artistic nature of the photograph” in PropertyGuru at [104]
+C.f. contractual clause that gives PG the “right to watermark the photographs and the copyright  in the final watermarked photographs would belong in the plaintiff”  does not in itself mean that watermarked photographs are copyrighted in PropertyGuru at [107]
+Ownership
+Tiers of ownership
+Only the copyright owner or an exclusive licensee may bring an action for an infringement of copyright (s 153(1))
+Exclusive licensee’s right is concurrent with the owner’s right of action (s 153(2))
+Provision does not: “(a) give an exclusive licensee any right against a copyright owner; or (b) affect any right that an exclusive licensee has against a copyright owner.” (s 153(3))
+“even if I had taken the view that the right to seek the remedy … could be assigned”, still not a copyright owner who can sue (PCCW Media at [32])
+Licensee: usually has very limited rights
+Ownership: Bundle of rights
+Ownership of copyright distinct from ownership of the medium or record of the work
+Video tapes purchased by defendant from sub-licensee of copyright owner plaintiff, whose licence restricted the sale of video tapes recorded with the programmes, not liable to the copyright owner for conversion of the video tapes (Class One Enterprises)
+Overlapping copyright in subject matter: Possibly multiple owners of different copyrights embodied in an article or thing
+E.g. in a film, one copyright owner for the underlying dramatic work, one for the music, and one for the film itself
+Different owners of various rights over subject matter
+E.g. Netflix may own adaptation rights (as well as corresponding licences) to adapt a novel into film or TV series, but the rights to the novel itself remains owned by a publishing house
+Rights in different countries or for different times
+E.g. e.g. distribution rights in Singapore but not elsewhere worldwide, for a duration of 2 years
+Joint ownership 
+A joint ownership can arise where a work is produced by collaboration of 2 or more authors whose contributions are not separate (s 10)
+* Can also arise through contractual agreements (although this may or may not be advisable)
+Note: “The issue of whether joint authors who are joint owners hold the copyright as tenants in common or as joint tenants has not come before the Singapore courts.” (IP SG at [7.2.11] footnote 26)
+Single joint owner of copyright may sue (without joining in the remainder of joint owners) but plaintiff may only recover damages for its share (Wang Choong Li and Virtual Map v Suncool)
+Joint authorship contribution share same as joint first ownership share; E.g. after extensive fact-specific inquiry, contributions as joint authors to a screenplay split 80:20 between scriptwriter and his former on-off lover who was an opera singer and music teacher in Martin v Kogan [2021] (UKHC)
+First Ownership
+All default rules can be modified by agreement (s 133(3))
+1. General rule (s 133(1)): “(a) in the case of an authorial work … the author;
+(b)	in the case of a published edition of an authorial work — the publisher;
+(c)	in the case of a sound recording — the maker of the recording;
+(d)	in the case of a film — the maker of the film;
+(e)	in the case of a broadcast — the broadcasting licensee that made the broadcast; and
+(f)	in the case of a cable programme — the person providing the cable programme service in which the programme was included.”
+2. Employment case (s 134(1)): employer is first copyright owner if employee creates in the course of a contract of service:
+(a) authorial work 
+(b) does any of the following on or after the appointed day:
+(i)	makes a sound recording, film or broadcast;
+(ii)	provides a cable programme service in which a cable programme is included;
+(iii)	publishes an edition of an authorial work.
+Unless done for a periodical: proprietor only has copyright to publish literary, dramatic or artistic work done in employment by the proprietor of a newspaper, magazine or similar periodical (s 134(4))
+Must be Employee, not an independent contractor and etc.
+E.g. designer of artwork was a consultant and thus default first ownership vested in the designer in Real Electronics
+Must be authored within scope of course of employment
+Very fact-specific inquiry.
+Even if employee uses company resources or “got the gig” (so to speak), as a result of his employer/position, this doesn’t automatically mean that the employer is entitled to the copyright
+E.g. ex-employee’s engineering drawings prepared in scope of employment and hence employer the owner of copyright in Nanofilm Technologies at [62]
+3. Commissioning cases: commissioned party is the default first owner (s 135(2), reversing position under previous CA)
+Assignment
+1. Copyright as property: s 137: “Copyright may be transferred as personal or moveable property by (a) assignment; (b) testamentary disposition; or (c) operation of law.”
+2. Partial assignment: s 139: “assignment of copyright may be limited, but only in one or more of the following ways:
+“(a)	to some but not all the types of acts comprised in the copyright;
+(b)	to a part but not the whole of each type of act comprised in the copyright;
+(c)	to a part of the whole duration of the copyright;
+(d)	in the case of copyright in sound recordings — to the whole or a part of the right to be paid equitable remuneration under section 121(b).”
+3. Formality requirement: S 138: “An assignment of copyright is valid only if it is (a) made in writing; and (b) signed by or on behalf of the assignor.”
+Failure to comply may result in equitable assignment only; does not bind bona fide purchaser for value without notice 
+Oral assignment amounts to an equitable assignment, and the equitable assignee is entitled at any time to call for an assignment from the assignor (Re AUVI at [60])
+Equitable assignee, the legal owner, cannot sue for copyright infringement (Real Electronics at [19])
+No particular form; subject to interpretation of contract
+Assignments, just like all other contractual agreements, may be challenged on contractual bases (e.g. no capacity, duress or undue influence etc.)
+E.g. business was sold and the relevant clause mentioned patents (and other aspects of the business) but not copyright, though court implied the term for copyright as well in Greenfield Products
+E.g. employee who substantially produced the artistic work in question intended for exclusive right to use to vest in the appellant and though the language of assignment was not used the statement in question was in writing and signed by an authorised representative and affixed with a seal and hence could effect assignment in Singsung
+Note: it is arguable that a joint owner of copyright arising from joint authorship cannot independently assign his share to another
+Establishing Chain of title: “An assignment of copyright must be by way of writing and signed by the assignor. To establish the chain of title, the plaintiffs must therefore prove that these documents of assignment exist.” (Nestle v Petra Foods (HC) at [262])
+E.g. “what must be proved is a chain of title from Mr Lee (the purported author), to Lintas, to Nestle Malaysia, and finally to the first plaintiff. If any link in this chain is broken, the first plaintiff is not the owner of the copyright, and has no standing to sue” in Nestle v Petra Foods (HC) at [246]
+E.g. Mr Lee’s letters “only said he assigned the copyright to Lintas” and had “very few details”, such as “whether the purported assignment was in writing and signed by him or by someone on his behalf, which are necessary facts required under s 194(3) of the Copyright Act to be additionally proved in order to establish that the assignment of copyright to Lintas by Mr Lee has legal effect” and so could not prove assignment in Nestle v Petra Foods (HC) at [271]
+E.g. alleged company policy that “all intellectual property rights will reside with” Nestle Switzerland such that “the local Nestle entity will execute an assignment to transfer ownership of all intellectual property rights acquired” it is insufficient to prove assignment as having a company policy alone “does not mean that it was complied with” in Nestle v Petra Foods (HC) at [277]
+4. Future copyright: s 140: Assignment of future copyright can be made, and copyright will vest in assignee once it comes into existence
+5. Licences binding on subsequent owners: s 143: licence binds successors in title to copyright except bona fide purchaser
+Licences
+“Exclusive licence”: “a licence (a)	granted by the owner or prospective owner of the copyright; and (b) authorising the licensee, to the exclusion of any other person, to do an act that, by virtue of this Act, the owner of the copyright would, but for the licence, have the exclusive right to do.” (s 103)
+“An exclusive licence of a copyright is valid only if it is (a) made in writing; and (b) signed by or on behalf of the owner or prospective owner of the copyright.” (s 142)
+Future copyright: “A licence may be granted in respect of a future copyright by the person who would be the copyright owner when the copyright comes into existence.” (s 143)
+Licensing issues
+Licenses in commerce (Franchises; Ensuring that you have the right licenses to avoid infringement)
+Difficulties with implied licenses
+Revocation of licenses
+Mandatory licenses and licensing schemes
+Scope of open source licences
+Acts prohibited by copyright
+Copyrights are negative rights that allow owner to prevent others from doing it
+Copyrighted acts comprise those that “under this Act, the owner of the copyright has the exclusive right to do” (s 100)
+Copyright rights are a right to exclude others from doing an act and does not extend to positive rights (s 108, overruling Lee Wei Ling v AG)
+Overview of Exclusive Rights
+
+Copyright in works comes with the following exclusive rights (s 26(1))
+S 112(1) in the case of a literary, dramatic or musical work [(6/7 across all exclusive rights apply here)]:
+“(a)	to make a copy of the work;
+(b)	to publish the work if the work is unpublished;
+(c)	to perform the work in public;
+(d)	to communicate the work to the public;
+(e)	to make an adaptation of the work;
+(f)	to do, in relation to an adaptation of the work, any of the acts specified in paragraphs (a) to (e);
+(g)	in the case of a computer program — to enter into a commercial rental arrangement the essential object of which is the rental of the program.”
+S 113 in the case of an artistic work:
+“(a)	to make a copy of the work;
+(b)	to publish the work if it is unpublished;
+(c)	to communicate the work to the public.”
+s 121 for sound recordings: “(a)	the exclusive right to do all or any of the following acts:
+(i)	to make a copy of the recording;
+(ii)	to enter into a commercial rental arrangement in respect of the recording;
+(iii)	to publish the recording if it is unpublished;
+(iv)	to communicate the recording to the public; and
+(b)	if the recording has been published for commercial purposes and a person (X) causes the sounds embodied in the recording to be heard in public, the right to be paid equitable remuneration of an amount —
+(i)	agreed between the copyright owner and X; or
+(ii)	in default of agreement, decided by a Copyright Tribunal.”
+S 124 for films:
+“(a)	to make a copy of the film;
+(b)	to cause the visual images of the film to be seen in public;
+(c)	to cause any sounds of the film to be heard in public;
+(d)	to communicate the film to the public.”
+1. Reproduction right
+What is a “copy” of an authorial work: “A “copy” of an authorial work is a reproduction of the work in any material form.” (s 41(1)); Includes (s 41(2)):
+“(a)	it is stored (i) in a computer; (ii) on any medium by electronic means; or (iii) on any other medium from which the work, or a substantial part thereof, can be directly reproduced;
+(b)	it is reproduced in the form of a film;
+(c)	in the case of a literary, dramatic or musical work — it is reproduced in the form of a sound recording;
+(d)	in the case of an artistic work in a 2?dimensional form — a version of the work in a 3?dimensional form is produced;
+(e)	in the case of an artistic work in a 3?dimensional form — a version of the work in a 2?dimensional form is produced; or
+(f)	it is converted into or from a digital or other electronic machine?readable form (whether from or into a copy in the form of a film or sound recording, or otherwise).”
+“A “copy” of a sound recording is a record (a) embodying a sound recording or a substantial part of a sound recording; and (b) derived, directly or indirectly, from a record produced upon the making of a sound recording.” (s 44)
+“A “copy” of a film is any article or thing in which the visual images or sounds comprising the film are embodied.” (s 45)
+“A copy of a substantial part of a work is to be treated as a copy of the work.” (s 49)
+* There is no need to show wholesale reproduction, that’s why the test is sometimes framed as “substantial taking”, “substantial similarity” or “substantial copying”
+* Usually (but not always) more relevant for authorial works where copying may relate to a part of the work
+
+2. Right to publish if the work is unpublished 
+Only the owner of unpublished authorial works and sound recordings has the right of publication
+Not to be confused with the right to communicate a work to the public, eg. via the internet
+Publication in a nutshell = supplying copies to the public (unauthorized publication doesn’t count as publication)
+* Publication only happens once, but communication can be done over and over again
+3. Right to Perform the work in public
+Applies only to literary, dramatic or musical works and not artistic 
+S 67(1): A “performance” of an authorial work (a) includes —
+(i)	any mode of visual or aural presentation of the authorial work, whether the presentation is by —
+(A)	the use of any receiving apparatus;
+(B)	the exhibition of a film;
+(C)	the use of a record; or
+(D)	any other means; and
+(ii)	the delivery of the authorial work by way of a lecture, an address, a speech or a sermon; 
+but (b) does not include the communication of a work to the public.”
+S 67(3): “To avoid doubt, this section applies in relation to an adaptation of a literary, dramatic or musical work as it applies in relation to an authorial work.”
+Performance through operating receiving apparatus is deemed to be given by the occupier of the premises where the receiving apparatus is situated (s 68(3))
+4. Right to Communicate to public 
+What is “communicate”
+Technology-agnostic: ““Communicate”, in relation to a work or performance, means to transmit the work or performance by electronic means”, and includes (s 61(1))
+“(a)	broadcasting the work or performance;
+(b)	the inclusion of the work or performance in a cable programme; and
+(c)	making the work or performance available (on a network or otherwise) in way that it may be accessed by any person on demand.”
+Communicator: “The maker of a communication (other than a broadcast) is the person responsible for deciding the content of the communication when the communication is made.” (s 63)
+E.g. “communicator” were registered users since the “MediaCorp shows that were “communicated” were those shows that appeared on each Registered User’s playlist, and since the exact make-up of each playlist depended on the specific shows which the Registered User in question had requested to be recorded” in RecordTV at [36]
+What is “public”: Not defined in CA, but “ordinarily, that word connotes all members of the community or a section of the public” but “[a] substantial number of persons can sometimes [qualify]” (Record TV at [24])
+C.f. “To the extent that there was a contractual relationship between MediaCorp and those Registered Users arising from the former licensing the latter to view the MediaCorp shows, those Registered Users are arguably not members of “the public”” in RecordTV at [25]
+C.f. “Since Registered Users could only view those MediaCorp shows which they had requested to be recorded, those shows were communicated to the relevant Registered Users privately and individually” in RecordTV at [28]
+C.f. “aggregate of private communications to each Registered User is not, in this instance, a communication to the public” even if anyone could register for free in RecordTV at [28]
+5. Adaptation right (see above s 112(f))
+6. Rights in relation to adaptation right; above rights apply to adaptations equally
+7. Right to Commercial rental arrangement
+
+Duration of Protection
+Published Authorial works: s 114
+Generally, life of author plus 70 years after* author’s death
+But if no author is identified, 70 years after first publication
+(* Time starts running after the expiration of the calendar year)
+
+Non?authorial works: 122, 125, 128, 132
+Sound recordings and films: 70 years after the making of
+Cable programmes and broadcasts: 50 years after first made
+(* Time starts running after the expiration of the calendar year)
+Infringement
+Doing acts comprised within the copyright without the right to do so (s 146) (see above for the exclusive rights)
+1. Territoriality: “a person does in Singapore” (s 146(1)(a))
+2. Causal connection
+no infringement for independent creations (IP SG at [10.1.10])
+“To succeed in copyright infringement, the plaintiff must prove that copying has taken place” (Flamelite at [27])
+E.g. RecordTV did not copy the shows as “it was the Registered Users instead who copied the shows by their own actions in requesting the recording of those shows using RecordTV’s iDVR” in RecordTV at [15]
+Direct evidence is rare, but possible: e.g. maps with fake locations on the map and etc. in Virtual Map cases and directories with fake listings known as “seeds” in Global Yellow Pages
+Indirect evidence: prima facie case of copying established by plaintiff, which must then be rebutted by defendant, by “establishing
+1. similarity combined 
+2. with proof of access to the plaintiff’s works” (Flamelite at [27])
+E.g. subcontractor who was shown shop drawings and ex-employee had access to infringed works in Flamelite 
+Subconscious copying: “Subconscious copying is just as infringing as is apparent from the following passage” as “the fact that the defendant was unaware that the work he was copying … was the subject of copyright … provides no defence” (Flamelite at [31], affirming Copinger at 402)
+Indirect copying: it is irrelevant “if the copying is direct or indirect” (Asia Pacific at [108])
+Direct copying: “If a defendant has access to the plaintiff's drawing of a machine, and constructs a machine from this drawing, the defendant's machine is a direct reproduction of the plaintiff's drawing (artistic work).” (IP SG at [10.1.15]) (because of s 15(3)(a))
+Indirect copying: “If the plaintiff has made a machine from this drawing, and the defendant having access to the plaintiff’s machine (but no access to the plaintiff's drawing) makes a machine from the plaintiff’s machine, the defendant’s machine is an indirect reproduction of the plaintiff’s drawing (artistic work)” (IP SG at [10.1.15]); “Where a 3-dimensional object, "A", is copied from another 3-dimensional object which is a copy of a drawing, "A" is a reproduction of that drawing for the purposes of copyright infringement.” (Radcoflex at [63])
+E.g. unauthorised 3D articles copied from 3D figurines based on copyrighted 2D drawings were indirect copies of the 2D drawings and hence infringing in King Features, cited in Radcoflex at [63]
+No indirect copying if object not based on drawing: “If a 3-dimensional object was not made based on a drawing, a second 3-dimensional object which was copied directly from the first cannot be an indirect copy of the drawing notwithstanding any similarity between that second object and the drawing” (Radcoflex at [66])
+1. Substantiality: Infringement must relate to a “substantial part of the work (s 39); “Doing an act in relation to a substantial part of the work is to be treated as doing an act in relation to the work.” (s 39)
+Irrelevant factors 
+“Substantial” taking from the protected work is a separate issue from substantial similarity between the two works and whether work was in fact copied (Designer’s Guild at [39]-[41])
+Whether the defendant’s work is an original work itself is irrelevant as to whether there was “substantial” taking (i.e. an original work can be an infringing work) (Virtual Map v Suncool at [10])
+Whether the plaintiff’s copyrighted work is infringing on another existing work is irrelevant to infringement of the former (Virtual Map v Suncool at [10])
+“the whole of the work must be considered” and “the question of what is substantial is very much a question of fact and degree” (Flamelite at [40] and [46])
+1. Quality, not quantity: “Whether a part is substantial must be decided by its quality rather than its quantity.” (Flamelite at [37], citing Ladbroke)
+E.g. “Even if the entire collection of maps can be regarded as one collective work … the work that has been taken by the defendant, whilst small in percentage terms, is nevertheless a substantial taking, given its importance to anyone who wishes to locate a particular address in the area covered by the copied map” in Virtual Map v Suncool at [23]
+E.g. The number of ways to represent a two fingers wafer was “not so restrictive” that defendant’s packaging would have infringed on plaintiff’s even though they “face different directions and the two are angled differently” in Nestle v Petra Foods (HC) at [290]-[291] (Note: fact that the packaging both used red colour contributed to finding, but probably should not have been taken into account as it was the two fingers wafer art that was in question, though ultimately it was not “essential” to finding)
+E.g. defendant’s photograph of a red bus against a grey backdrop was found to infringe a similar work as “despite the absence of some important compositional elements, they still include the key combination of what I have called the visual contrast features with the basic composition of the scene itself” in Temple Island at [63]
+
+2. Copied work to be assessed on as its own and in full
+“where the work is a collection of separate works, each work must be considered individually, and the measurement of substantiality cannot be made against the entire collection” (Virtual Map v Suncool at [23])
+E.g. defendant argued that discrete map copied was not substantial taking when compared with the “total land area of Singapore” and copying totalled to “less than 0.15%” which the court found “dubious” as the discrete map could be assessed on its own in Virtual Map v Suncool at [23]
+“the real comparison ought to be between the Artistic Work and the defendants’ actual packaging rather than the Representation of the [allegedly infringing aspect on the packaging] (Nestle v Petra Foods (HC) at [284])
+1. Original elements: “The reproduction of a part which by itself has no originality would not normally be regarded as a substantial part of the copyright work and therefore will not be protected” (Flamelite at [37], citing Ladbroke)
+2. Not functional: functional elements cannot be substantial (Flamelite at [40], [46])
+3. Expression, not ideas: “Copyright protects the expression of ideas, not the ideas themselves” (Flamelite at [22])
+4. Simplicity: “Where the work is simple, the idea embodied in the work becomes so closely identified with its expression that it is hard to separate the form of expression from the idea” and so “the more closely must the alleged infringer adhere to it, in order for liability to exist” (Flamelite at [46] and [47], affirming Dixon Investments)
+5. Factual and compilations works: “while copyright can subsist in simple or factual works and compilations, the copyright protection for such works is 'thin' … [a] small variation of the work by the defendant [is sufficient to not have substantial taking from the work]” (IP SG at [10.1.30])
+E.g. Where protection is thin, as in the arrangement of factual compilations such as the BL listings, “infringement would only be established by nothing less than near-wholesale taking of the BL listings, arranged exactly as they were in the BL” in Global Yellow Pages at [49], similarly in Asia Pacific at [111]
+Note: Normal vs altered copying (substantiality test applied is the same, but left open in Virtual Map v SLA)
+“the test of infringement in the case of altered copying is, in principle, no different from any other kind.” (obiter in Virtual Map v SLA at [37], citing Virtual Map v SLA (DC) at [54])
+Normal copying: “where the alleged infringer simply selects a portion of the copyright work and copies it without significant alteration” (Virtual Map v SLA at [36])
+Altered copying: “alleged infringer has created a work of his own, but, in so doing, he has made an unfair and improper use of the claimant’s work … whether by way of disguising his copying, or saving himself the trouble of doing his own research, or otherwise.” (Virtual Map v SLA at [36], citing The Modern Law of Copyright and Designs at [3.135])
+Effect (same as normal copying): “The pirated part is considered on its own … and its importance to the copyright work assessed. There is no need to look at the infringing work for this purpose.” (Lord Millet in Designer’s Guild at 2426)
+Effect: “the similarities between the infringing work and the copyright work would actually be determinative of the question of substantiality” (citing Lord Scott in Designer’s Guild at 2430-2432)
+Authorising infringement (s 146)
+1. Prerequisite: Primary infringement must be established before there can be authorizing infringement of that act (e.g. John Robert Powers)
+2. Territoriality: “authorises the doing in Singapore” (s 146(1)(a)) (see above)
+3. Test: “the courts evaluate the authorisation liability factors in their totality in the context of the factual matrix of each case” so “proving one or even several of these factors in either the alleged authoriser’s or the copyright owner’s favour will not invariably be decisive” (RecordTV at [50])
+Control: “whether the alleged authoriser had control over the means by which copyright infringement was committed and, hence, a power to prevent such infringement” (RecordTV at [50(a)])
+E.g. pirated software case where defendant gave third party dealer in pirated products the software so that the latter could make whatever copies he needed, but no authorising infringement as the defendant was not in any position to control what the third party dealer did in Ong Seow Pheng at [33]-[35], noted in RecordTV at [51]
+Legal paper shield is sufficient; E.g. “RecordTV did have the power to prevent potential infringement of MediaCorp’s copyright in the MediaCorp shows by shutting down its iDVR service altogether. However, it was not necessary for RecordTV to take this drastic step as it had already expressly stated in cl 3A of the Terms of Use that the Registered Users could use its iDVR to record only those shows which they could otherwise legally view and record” in RecordTV at [60]
+E.g. University of NSW liable for authorizing unlawful reproduction of books by students as it provided photocopying machines in the library and there was evidence that the University knew without taking any measures such as failure to place “adequate notice” disallowing use for infringement in Moorhouse
+E.g. Manufacturer of twin-deck tape-recorders that allowed users to copy contents of one tape to another not liable for authorising infringement as it could not control what users did with the product which had other non-infringing uses in CBS v Amstrad
+Nature: “the nature of the relationship (if any) between the alleged authoriser and the actual infringer” (RecordTV at [50(b)])
+Commercial relationship favours authorizing infringement; C.f. “It could be said that there was a commercial relationship between RecordTV and the Registered Users, but, on the evidence, RecordTV did not profit commercially from that relationship, although the Registered Users did benefit socially” in RecordTV at [61]
+Reasonable steps to prevent: “whether the alleged authoriser took reasonable steps to prevent or avoid copyright infringement” (RecordTV at [50(c)])
+Legal paper shield is sufficient; E.g. “RecordTV restricted the use of its iDVR to personal, private and domestic use” and “to record only those shows which a Registered User could otherwise legally view and record” in “cl 3A of the Terms of Use” in RecordTV at [62]
+Streaming rather than downloading: E.g. ““streaming” ensured that a recording of a MediaCorp show was not saved in the Registered User’s computer, thereby restricting the Registered User’s ability to extract, modify and exploit the recording for further downstream transmission” in RecordTV at [62]
+Actual or constructive knowledge: “whether the alleged authoriser had actual or constructive knowledge of the occurrence of copyright infringement and/or the likelihood of such infringement occurring” (RecordTV at [50(d)])
+E.g. “it would not be right to attribute knowledge of improper usage of the iDVR service to RecordTV in the absence of express proof of such knowledge” due to Terms of Use and “the other precautions” taken by RecordTV in RecordTVat [63]
+US’s dual-use defence (in context of inducing infringement): “need merely be capable of substantial noninfringing uses” (Sony v Universal City Studios at 442)
+E.g. time shifting via VCRs / VTRs was capable of substantial non-infringing uses and so no authorising liability found against its manufacturers in Sony v Universal City Studios
+Peer-to-peer file sharing companies liable for authorising infringement if they marketed their software for infringing purposes (Grokster); post decision, copyright notices put up to remind users that file sharing of protected material is illegal
+Commercial dealings in infringing articles
+1. Infringement by import for purpose of sale, etc. (s 147(1))
+“(a)	a person imports an article for the purpose of —
+(i)	commercial dealing; or
+s 73(1): “commercial dealing” means
+“(a)	sells the thing;
+(b)	lets the thing for hire;
+(c)	by way of trade, offers or exposes the thing for sale or hire;
+(d)	distributes the thing for the purpose of trade; or
+(e)	by way of trade, exhibits the thing in public.” 
+(ii)	distributing the article to an extent that will prejudicially affect the copyright owner;
+(b)	the article is imported without the licence of the copyright owner; and
+(c)	the person knows or ought reasonably to know that the article was made without the consent of the copyright owner.”
+2. Infringement by actual sale, etc. (s 148(1))
+“(a)	a person does any of the following acts in Singapore:
+(i)	deals commercially in an article; or
+(ii)	distributes an article to an extent that will prejudicially affect the copyright owner;
+(b)	the act is done without the licence of the copyright owner; and
+(c)	the person knows or ought reasonably to know that —
+(i)	if the article is made in Singapore — the making of the article infringed the copyright; and
+(ii)	if the article is imported — the article was made without the consent of the copyright owner.”
+3. Prerequisite: articles traded must be infringing articles, and no liability is possible if the article is genuine (Television Broadcasts v Golden Line)
+even if the genuine article says “for use or distribution in Country X only”
+Alternative resort to trade mark is possible: genuine goods were not allowed to be imported because the trade mark owner had not “put [the goods] on the market” in that it had not realised the economic value of the goods in Samsonite v An Sheng Trading 
+Exceptions / defences
+Time bar: 6 year time bar against an infringing act (s 154)
+Fair use defence (s 190)
+Relevant matters for Fair use (s 191):
+“(a)	the purpose and character of the dealing, including whether such dealing is of a commercial nature or is for non-profit educational purposes;
+Test: “To determine the extent to which the new work is “transformative”, the court considers whether it “supersede[s] the objects” of the original creation, or adds something new, with a further purpose or different character” (Global Yellow Pages at [79], citing Campbell)
+Test: fair dealing “does countenance a balancing exercise between commercial gain and public benefit, rather than an absolute prohibition against commercial uses” (RecordTV (HC) at [109], noted in Global Yellow Pages at [80])
+Fair: Fair dealing (s 35(1A) for works, s 109(2) for entrepreneurial works): “research and study” shall be a fair dealing purpose
+More fair: “incidental” copying (Global Yellow Pages at [96])
+Less fair: “In general, the fact that the original and infringing works share the same purpose will tend to weigh against a finding of fair dealing” (Global Yellow Pages at [78])
+Less fair: “in general terms, the fact that a dealing is driven by commercial exploitation will weigh against a finding of fair dealing” (Global Yellow Pages at [80])
+E.g. “purpose of the copying” in Google Books project to digitize books “is highly transformative”, notwithstanding “Google’s commercial nature and profit motivation [which] do not justify denial of fair use” in Authors’ Guild, noted in Global Yellow Pages at [81]
+(b)	the nature of the work or adaptation;
+Test: “some works are “closer to the core of intended copyright protection than others, with the consequence that fair use is more difficult to establish when the former works are copied”” (Global Yellow Pages at [82], citing Campbell at 586) 
+Less fair: “finding of fair dealing is less likely in cases involving fiction-based (as opposed to fact-based) copyright works, because copyright protection is not as “thin” “(Global Yellow Pages at [82])
+Less fair: “cases involving unpublished works, because of the need to respect an author’s right to confidentiality and to release the work into the public domain” (Global Yellow Pages at [82], citing IP SG at [11.3.30])
+(c)	the amount and substantiality of the part copied taken in relation to the whole work or adaptation;
+Test: “whether the quantity and value (that is, its qualitative importance) of the materials used are reasonable in relation to the purpose of the copying” (Global Yellow Pages at [83], citing Campbell at 586-587)
+(d)	the effect of the dealing upon the potential market for, or value of, the work or adaptation; and
+Test: “whether the defendant’s conduct, if “unrestricted and widespread”, would “result in a substantially adverse impact on the potential market” for the original, taking into account not only harm to the original but also harm to the market for derivative works” (Global Yellow Pages at [84], citing Campbell at 590)
+More fair: “public display of text is limited” in Google Books project in Authors’ Guild
+More fair: Google Books project’s “revelations do not provide a significant market substitute for the protected aspects of the originals” in Authors’ Guild 
+(e)	the possibility of obtaining the work or adaptation within a reasonable time at an ordinary commercial price.” [CA 2021 removes this to bring in line with US’s fair use]
+Additional requirement for sufficient acknowledgment where fair use is for certain purposes (s 192)
+Purpose of reporting news (s 192(1)): “use is not fair unless (a) the work or performance is sufficiently acknowledged; or (b) sufficient acknowledgment is impossible for reasons of practicality or otherwise.
+Purpose of criticism or review (s 192(2)): “use is not fair unless the work or performance is sufficiently acknowledged.”
+Deemed fair use:
+Deemed fair use where work or recording included in fairly-used work (s 193)
+Deemed fair use where reasonable portion of article copied for research or study (s 194)
+Other defences (for e.g.)
+private and domestic use (s 299)
+temporary copy made (see s 292,293)
+Remedies
+Court-granted remedies
+“the remedies that the Court may grant for a rights infringement include (a) an injunction (which may be subject to terms); (b) damages, including additional damages under section 307; (c) an account of profits; (d) if the claimant so elects, statutory damages in accordance with section 308; (e) a delivery up order; and (f) a disposal order.” (s 305(1))
+* (b), (c), (d) are mutually exclusive (s 305(2)) (subject to s 305(3) below)
+* Where (b) is ordered, court can order account of profits “but only insofar as the profits have not been taken into account in computing those damages” (s 305(3))
+No damages for innocent rights infringement
+No damages to be ordered if the infringer “does not know and could not reasonably have known that the act is a rights infringement.” (s 306(1))
+* But court can still order other remedies like account of profits for the infringement (s 306(2))
+Measure of damages
+“The Court may order additional damages for a rights infringement if it is appropriate in the circumstances, having regard to all relevant matters, including (a) the flagrancy of the infringement; and (b) any benefit gained by the defendant because of the infringement.” (s 307)
+Statutory Damages
+308.—(1)  This section applies where a claimant in an infringement action elects for statutory damages.
+  (2)  The amount of statutory damages must not exceed —
+(a)$10,000 for each work or performance that is the subject of the action;(b)$200,000 for all the works that are the subject of the action; and(c)$200,000 for all the performances that are the subject of the action.  
+  (3)  However, subsection (2)(b) and (c) does not apply if the claimant proves that the claimant’s actual loss for all the works or performances that are the subject of the action exceeds $200,000.
+  (4)  If separate and independent works, or recordings of protected performances, are assembled into one whole, they are taken to be one work for the purposes of subsection (2).
+  (5)  In deciding the amount of statutory damages to award, the Court must consider all relevant matters, including —
+(a)the nature and purpose of the act constituting the rights infringement, including whether the act is of a commercial nature or otherwise;(b)the flagrancy of the rights infringement;(c)whether the defendant acted in bad faith;(d)any loss that the claimant has suffered or is likely to suffer because of the infringement;(e)any benefit gained by the defendant because of the infringement;(f)the conduct of the parties before and during the proceedings; and(g)the need to deter similar infringements.  
+Claim statutory damages when hard to prove loss
+
+IV. Confidential Information
+Confidential Information
+Jurisdictional basis for protection of law of confidence 
+? The doctrinal basis the protection of confidential information has not always been clear
+? Possible overlapping jurisdictional basis; Plaintiff can rely on either (a) contractual agreement with an express duty of confidence (b) equitable jurisdiction of the court (X v CDE)
+o “It is important not to conflate the two types of duty of confidence at the outset. Confidentiality obligations arising out of a contract do not necessarily bear the same contours as obligations of confidentiality in equity.” (Adinop, [37])
+1. Contract
+o Express terms: “confidentiality provisions as expressed in that agreement will primarily determine the existence and scope of the contractual obligations owed by the parties.” (Adinop, [38])
+o Implied terms (Malik) (in context of labour law, “mutual trust and confidence”)
+o Breach of NDA is a breach of contract but does not preclude a claim in equity for breach of confidence: “a breach of … contractual obligations is a distinct cause of action from a claim premised on equitable obligations of confidence. … a breach of the first respondent’s contractual obligations is a distinct cause of action from a claim premised on equitable obligations of confidence.” (I-Admin, [64])
+2. Equitable
+o “The equitable jurisdiction in cases of breach of confidence is ancient; confidence is the cousin of trust.” (Coco at 419)
+o “equitable jurisdiction arose … not for the protection of a merely legal right, but to prevent what this Court considers and treats as a wrong whether arising from violation of unquestioned right, or from breach of trust, confidence, or contract” (Prince Albert v Strange (1849)) (origin)
+3. Proprietary
+4. Tortious
+o E.g. in Douglas v Hello! [2005] EWCA Civ 595
+Practical ways to protect confidential information
+? by restricting access to the information
+o Technical protection measures
+o Data rooms
+o Authorised persons
+? by raising awareness of the confidential nature of the information
+o Marking documents
+o Keeping records
+o On-boarding and off-boarding employees
+? Sample non-disclosure clause (non-examinable)
+“The Receiving Party shall keep the Confidential Information strictly confidential and shall not, without the Disclosing Party’s prior written consent, disclose or use any of the Confidential Information, in whole or in part, for any purpose other than the Project. The Receiving Party will employ all reasonable measures to protect the Confidential Information from unauthorised or inadvertent disclosure, including measures no less protective than those measures that the Receiving Party employs to protect its own information.”
+? Contractual considerations
+o What should happen to copies and physical documents after the project ends
+o How should the parties handle circumstances that force disclosure to an unauthorised party
+o Will the parties have to disclose to group companies, affiliates, or third parties in order to carry out their contractual obligations
+o Would litigation over the agreement be detrimental to the confidentiality of the information
+o Express obligations of confidence are enforceable except where they constitute an unreasonable restraint on trade
+o Implied obligations of confidence may arise, and the existence of an express term does not rule out existence of further implied terms or equitable obligations
+Test for breach of Confidence in equity
+
+
+1. What can be content of confidential information: “a court should consider whether the information in question “has the necessary quality of confidence about it” (I-Admin, [61], endorsing Coco)
+? Content: Confidential information includes “all information which any party has an interest in keeping confidential” (Vestwin, [35])
+“not freely available in the public domain” (Nanofilm Technologies, [164] with reference to PH Hydraulics, [46]); “the information is relatively inaccessible to the public, ie, it has not become public knowledge” (Clearlab, [66])
+? Factors for whether in public domain: “Consideration must be given to such factors as 
+o the likelihood of the information being accessed by the public, 
+o the degree to which the information has in fact been accessed and 
+o the extent to which the information may be appreciated and/or understood only with the specialised skills or expertise of the party seeking to make use of the information.” (Wee Shuo Woon (2017), [37])
+“disposal of information did not amount to abandonment of the property in the documents” (Vestwin)
+Restraint of trade doctrine applies if "knowledge and skills” of employee fall within scope of confidential information (Stratech, Clearlab)
+2. When obligation of confidence can be imposed: “it has been “imparted in circumstances importing an obligation of confidence”” (I-Admin, [61], endorsing Coco) (Note: ‘confidence’ imposed by contract is technically a breach of contract claim distinct from equitable one)
+Imposed by contract
+? Freestanding non-disclosure agreements
+?  Standard confidentiality clauses
+Imposed by equity
+? Common classes where obligations of confidence are presumed
+o Doctors (Singapore Medical Council v Soo Shuenn Chiang)
+o Lawyers (Legal Profession (Professional Conduct) Rules 2015, r 6; LVM, [17] referring to Taylor v Blacklow); “it is uncontroversial that a lawyer owes his client a duty of confidence in respect of any information which he acquires in the course of his work for that client”
+o Bankers and accountants (Prince Jefri Bolkiah v KPMG; Tournier v National Provincial and Union Bank of England)
+o Employment: “In the absence of any express term, the obligations of the employee in respect of the use and disclosure of information are the subject of implied terms.” (Tang Siew Choy, [16], citing Faccenda)
+? Test: The “intervention of equity ultimately depends on conscience” (I-Admin, [52], citing Adinop, [89])
+? (some) Factors: “In appropriate cases [even without an express confidentiality contract clause], [the obligation of confidence] can be imposed by equity pursuant to equitable principles of good faith” (Rohm and Haas, [51])
+o “the court will consider all the circumstances in which the disclosure was made, 
+o including the purpose of the disclosure and 
+o whether there was a common commercial object and/or 
+o substantial cooperation between the recipient and the proprietor of the patent” (Rohm and Haas, [57])
+3. Breach of obligation: “there must have been some unauthorised use of that information to the detriment of the party from whom the information originated.” (I-Admin, [20], endorsing Coco, 47)
+Wrongful gain interest; LVM approach: “it is the plaintiff who bears the burden of proving actual misuse or a ‘serious and reasonable possibility’ of misuse” (Lim Oon Kuin, [39] citing Law of IP, [41.3.9]; following Coco)
+? Previous and current position: “for cases involving alleged harm to the plaintiff’s ‘wrongful gain interest’, the traditional [Coco] approach should be applied.” (Lim Oon Kuin, [39] citing Law of IP, [41.3.9]); 
+o Rationale: “The I?Admin approach was thus intended to specifically fill the lacuna in the law in so far as the legitimate objective of protecting the wrongful loss interest was concerned” since “[t]he elements of breach of confidence set out in [Coco v Clark] explicitly protect the wrongful gain interest” (Lim Oon Kuin, [39] referring to I-Admin, [54])
+? Burden: “this should be on the party seeking an injunction” (LVM, [23])
+? Approach: “This is necessarily a fact-intensive inquiry, and each case must turn upon its own facts” (LVM, [22])
+? Test: “the “real and sensible possibility” test is one which should be applied holistically; no one factor alone should be taken to be determinative” and the factors “should not be taken to be exhaustive” (LVM, [22] referring to Smith Kline, 87)
+o Factor: “degree of similarity between the previous set of proceedings which were settled and the subsequent proceedings, such as by having similar issues and/or evidence.” (LVM, [22])
+? E.g. the more similar the issues and/or evidence, higher possibility of misuse (LVM, [22] referring to Tricontinental)
+o Factor: “whether the client in the subsequent proceedings deliberately retained the lawyer due to his involvement in the previous set of proceedings.” (LVM, [22])
+? E.g. “there was evidence that the law firm in question had been retained due to the “happy” resolution of the previous set of proceedings” (LVM, [22] explaining Worth Recycling, [31]-[32])
+? C.f. “where the lawyer acting in the subsequent proceedings had already been retained prior to his acting for the client in the previous set of proceedings” so “it could not be said that the lawyer’s employment was secured in order to take advantage of his knowledge from the previous set of proceedings” (LVM, [22] explaining Ian West, [45])
+Wrongful loss interest; I-Admin approach: Upon satisfaction of above two requirements, “an action for breach of confidence is presumed” and “the burden will be on the defendant to prove that its conscience was unaffected” (I-Admin, [61], modifying Coco) 
+? Applicable in “taker” cases where there is “unauthorized acquisition of the confidential information” (Lim Oon Kuin, [41] citing Law of IP, [41.3.11] qualifying I-Admin)
+o E.g. various material from plaintiff company downloaded and brought over to a separate company set up by former employees of the company by abusing log-in credentials to continue accessing plaintiff’s company’s material and by using the material taken by another former employee of the plaintiff company was a “taker” case in I-Admin, [64]-[65]
+o E.g. It could be open to the plaintiffs to argue that the lawyer involved who had transmitted confidential information while he was inhouse counsel for the plaintiff clients to the law firm department which he subsequently joined and was acting against the plaintiffs is a “taker” of information in Lim Oon Kuin, [52], [53]
+o C.f. plaintiff’s material held by defendant lawyer for a prior matter who subsequently acted for another party against plaintiff was not a “taker” case in LVM Law Chambers
+? Threshold: Breach could arise even from the “very possession” of the confidential information without consent (I-Admin, [66])
+? Changes from traditional Coco test and rationale
+o Change 1: test is unconscionability of defendant, with no need for “detriment” in the monetary or quantifiable sense
+? Rationale: “The elements of breach of confidence set out in Coco … explicitly protect the wrongful gain interest” but may not equally protect the wrongful loss interest as the latter, “meaning the dissipation of the confidential character of the information, does not always immediately translate into monetary terms or quantifiable detriment” (I-Admin, [54], [57]).
+? Rationale: “wrongful loss interest may be infringed in a variety of situations outside actual use and disclosure” (I-Admin, [60], with reference to Imerman where mere unconscionable taking of confidential information could be a breach) (see above)
+? Rationale: “this modified approach places greater focus on the wrongful loss interest without undermining the protection of the wrongful profit interest.” (I-Admin, [61])
+? Justification: unclear there was a need to find that the plaintiff suffered “detriment” needed to be shown (mere “embarrassment” is sufficient) (Vestwin)
+o Traditionally: “liability for the unauthorised use of confidential information is strict:  if the  defendant  has  made  an  unauthorised  use  of  the  confidential  information,  his  or  her  state  of  mind  is  generally irrelevant” (Wong & Tan, A modern approach, 552 referring to Vestergaard, [24])
+o Change 2: Presumption that reverses burden of proof on defendant to rebut unconscionability
+? Rationale: “plaintiffs may often be unaware of the fact that someone has done an act inconsistent with their right of confidentiality” and only discovered much later which places “them on an evidential back-foot” (I-Admin, [62])
+? Displacing burden by defendant
+o “This might be displaced where, for instance, the defendant came across the information by accident or 
+o was unaware of its confidential nature or 
+o believed there to be a strong public interest in disclosing it.” (I-Admin, [61])
+o E.g. injunction on publishing of works about the Church of Scientology was removed on the basis of public interest in exposing the questionable ethics of Scientology practice in Hubbard
+4. Remedies
+? Prerequisite for equitable remedy: establish that “(a) there has been a wrongful interference with their legal or equitable rights; and (b) the defendant intends to continue this wrong, then, barring any special circumstances, he is prima facie entitled to an injunction” or other equitable remedies (I-Admin, [69])
+? Injunction: prohibitory on further use or mandatory to return or destroy (Equitable remedy)
+o Prohibitory injunction to prevent the prevent the wrongdoer from further use of the CI
+o Mandatory injunction to compel the wrongdoer to return or destroy the CI
+? Damages: plaintiff’s lost profits attributable to wrongdoing
+o Damages for breach of confidence are intended to place the plaintiff, insofar as possible, in the position they would have been if not for the breach
+? Damages: Wrotham Park Damages: calculation of a hypothetical royalty mutually exclusive with injunction
+o Requirements: (1) Orthodox compensatory remedies were unavailable, (2) obligation breached was a negative covenant, (3) is not irrational or totally unrealistic to expect parties to bargain for the release of the relevant covenant, even on a hypothetical basis (Turf Club Auto)
+o May not be suitable: to hypothetically price confidential information that ideally would never have been released: e.g. Confidential information was found to be “fundamental” to the plaintiff’s business and if the plaintiff “had considered selling it, it is unlikely that it would have set the price as that of a single distributorship” in Angliss Singapore, [120]
+o “I should first affirm the authority of the court to award Wrotham Park damages for breach of confidence. … [However, a] necessary implication of an award of such damages is that the defendants are regarded as having made an outright purchase of the confidential information. Once the damages are assessed and paid, the confidential information would belong to the defendants as if they had bought it in an agreement of sale…” (Clearlab [335])
+? Accounts of profits: wrongdoer’s profits attributable to wrongdoing
+o E.g. “in the taking of the account, [no deductions for] the sums paid to Mr. Wright's publishers as consideration for the licence [for material created in breach of confidence] granted by the latter, since neither Mr. Wright nor his publishers were or would in the future be in a position to maintain an action in England for recovery of such payments.” (AG v Guardian Newspapers (No 2), [9])
+? Equitable compensation: plaintiff’s lost profits attributable to wrongdoing
+o Value: “The restitutionary objective of equitable compensation requires that a plaintiff be restored to the same position they would have been in if the breach had not been effected. … this may prove to be a highly speculative exercise, particularly where there has been no actionable use of the confidential information” (I-Admin, [72])
+? Equitable damages in lieu of injunction: cost of creating information by wrongdoers (I-Admin, [77]) 
+o Statutory basis: First Schedule of SCJA, para 14: “[p]ower to grant all reliefs and remedies at law and equity, including damages in addition to, or in substitution for, an injunction or specific performance” (I-Admin, [77])
+o Value: “The remedy of equitable damages is attractive because it affords the court the flexibility to determine the manner in which damages should be assessed” (I-Admin, [77])
+o E.g. costs saved by wrongdoers by using the confidential information as a “springboard” (I-Admin, [78] citing Seager, 932)
+? e.g. “The value of the appellant’s information would therefore be the cost saved by the respondents in taking that information”, being the appellant’s CPF database in I-Admin, [78]
+? E.g. “the additional cost that would have been incurred by the third respondent to create the different elements of its payroll software without any reference to the appellant’s materials. Besides the financial expense the respondents would have incurred to develop these components independently, it may also be relevant to look at the reduction in the time taken to set up the third respondent’s business, allowing it to commence profit-making earlier.” in I-Admin, [79]
+o May not be suitable: “would not have been possible for an entity without [plaintiff]’s historical reach and network to create the information” (Angliss Singapore, [121])
+? Damages for private individuals only
+o psychiatric injury
+o Hurt feelings, mental distress, and loss of dignity
+V. IP in Business
+SWOT Analysis: Identify strengths and weaknesses of a company’s IP position; as well as opportunities and threats
+? General points
+o Can be done on an industry, a company, part of a company (e.g. a product line) or a splice of a company (e.g. the IP position of a company), and even individuals (for personal improvement)
+o Strengths and weaknesses: Internal
+o Opportunities and threats: External
+o Each SWOT point can carry a different weight and be prioritised differently, which affects the strategies eventually adopted
+? What each SWOT means
+o Strengths
+? What a company is good at
+? What distinguishes this company from its competitors
+? E.g. Strong balance sheet, motivated employees, unique technologies, strong branding
+o Weaknesses
+? What prevents a company from being better
+? Where a company needs to improve
+? E.g. Poor cashflow, unstable supply chain, leaks in confidential information, fact that company did not take steps to protect key IP.
+o Opportunities
+? Favourable external factors that could give a company a competitive advantage
+? E.g. tax cuts in export markets, government subsidies to develop certain area of technologies, new consumer trends creating new market, being able to use international filing scheme to protect IP interest in multiple jurisdictions (e.g. Madrid Protocol for trademarks)
+o Threats
+? External factors that could potentially harm a company
+? Rising cost of material for manufacturing, scarcity of skilled labour, increasing competition, being in sunset industry, a change in IP posture in some countries (e.g. Russia) 
+? Form of SWOT Analysis
+o Template
+
+o Follow up
+
+Extracting Value from IP
+? Working the IP: revenue from selling the goods/services to which the IP is applied
+o Most direct way to exploit IP
+? E.g. applying your trade mark or registered design to your goods for sale
+? E.g. applying your patented technology to make or do something
+o Generate revenue
+o Build brand and customer loyalty
+o Maintain barriers to entry based on the exclusive rights in the IP
+? Licensing: revenue from licence fee and royalties
+o Let others work the IP for a fee
+? E.g. Licensing out National Skin Centre’s Suu Bam: The licence agreement offered a means of productising the results of NSC’s clinical research and getting the product to market quicker.
+o Exclusivity of licence: (a) Non-exclusive (b) Sole (c) Exclusive
+o Fee structure: (a) Fully paid up licence fee (b) Running royalty (c) Combination of upfront licence fee and running royalty
+o Franchising: Franchisor grant to franchisee rights to sell a product or provide a service using franchisor’s business system
+? Franchising is a special business set up that involves licensing of IP and IA
+? Definition by International Franchise Association: “A contractual relationship between the franchisor and the franchisee in which the franchisor is obliged to maintain a continuing interest in the business of the franchisee in such areas as know-how and training; wherein the franchisee operates under a common trade name, format or procedure owned by or controlled by the franchisor, and in which the franchisee has made or will make a substantial capital investment in his business from his own resources.”
+? E.g. McDonald: Assembly line-like concept to the fast food industry; Belief that McDonald’s customers should have an idea of what to expect wherever in the world they are
+? E.g. I can Read: To ensure consistency in programme delivery wherever they are in Asia, I Can Read has put in place a comprehensive set of brand guidelines
+o Cross Licensing: A contractual arrangement between two or more parties where each party licenses its IP rights to the other parties
+? Typically in the context of patents
+? Can be between collaborators or competitors
+? Consideration is not mainly in $$ but in mutual licences
+? Usually between companies who own patents over different aspects of a product
+? Gives licensee freedom to operate, able to avoid infringement and litigation
+? Enables licensee to make its product more attractive (with the licensed technological feature)
+? E.g. Google–Samsung example (2014): Both parties preeminent players behind the Android operating system for smartphones
+? Collaboration / Joint Venture: Can involve elements of working the IP, licensing and/or sale
+o Loose terms
+o When two or more parties have something to contribute, and the arrangement enables parties to achieve more than each could have individually
+o E.g. a pharmaceutical company with a new drug that cannot be taken orally may collaborate with a company that has developed a nasal spray delivery system
+o E.g. R&D collaboration between a non-profit research institution and a commercial entity, which is expected to result in new IP products
+o A collaboration can take the form of a joint venture, or not
+o Parties can collaborate as they are, or form a joint venture vehicle for risk management, compliance with local regulation etc.
+o Terms: 
+? (a) background IP: Each party’s existing IP 
+? (b) foreground IP: Newly developed IP as part of joint venture
+? (c) sideground IP: IP relevant to project but produced outside scope of joint venture
+? (d) postground IP: IP relevant to project produced by any party after the end of the project.
+? Sale: Usually of IP that is not or no longer of interest to seller (“non-core IP”)
+o Immediate returns
+o E.g. in the course of R&D, come up with IP that won’t be worked by company
+o E.g. bankruptcy; Kodak example:
+? Filed for bankruptcy protection in 2012
+? Fire sale, sold around 1,100 patents for US$525m
+? Short of US$2.6b target, but needed $$ urgently to get out of bankruptcy
+? Finally emerged from bankruptcy in late 2013
+o Yahoo / Verizon example:
+? Verizon had acquired Yahoo’s internet and media business, including some of Yahoo’s IP, in 2017
+? In 2021 deal, SoftBank subsidiary makes one-off US$1.614b payment to Verizon to acquire TM rights relating to “Yahoo” and “Yahoo Japan” in Japan, and a “paid up, perpetual right to use existing licensed technology in Japan”
+o Difference from licence: 
+? Licensor retains ownership of the IP
+? Licence usually provides potential future income stream but sale is more money up front
+? Licensee may use licence as a trial to work the IP before deciding to acquire IP
+o Buy the company owning and working the IP vs buy the IP: acquire business line that works the IP in addition to just the IP.
+? Collateralisation / Securitisation: Asset-based lending
+o IP Collateralisation: A method of financing where an IP asset is used as a collateral to secure a loan. If the borrower defaults on the loan, the lender may sell the IP asset to offset the loss
+o IP Securitisation:
+? A method of financing where rights in receivables (e.g. royalties) are transferred from IP owners to an entity, which in turn issues securities to capital market investors and passes the proceeds back to the IP owners
+? Most famous example: Bowie bonds
+Issues in IP Deals and Due Diligence
+? Remember to acquire all necessary IP
+o E.g. Volkswagen bought the assets of Rolls Royce and Bentley automobiles but did not include the right to use the Rolls Royce trade mark. Acquired all the rights needed to make a Rolls Royce car, but not the right to brand it as one.
+? IP Due diligence: Identification, Investigation, Evaluation
+o E.g. Check patent on register
+
+? Territory: But you plan to sell the product in China, besides Singapore
+? Expiration: But you’ll need 6 months to set up the plant in China
+? Competition with licensee: You’re not prepared to compete with a licensee
+o E.g. Check against sale agreement
+? Warranties: Is the patent valid to the best of the seller’s belief?
+? Ownership: Did the seller even have authority to sell your target collaborator the patent?
+? Choice of law: Will there be problems enforcing the agreement under foreign law?
+o Check if trademark registration still subsists, check wither it’s expired, whether got any encumbrances such as mortgages or licenses, and ensure that trademark registration is in the name of the party that you’re contracting with
+Key IP considerations throughout companies’ innovation cycle
+
+
+
+
+
+
+
+
+Yong De Wei for Part B 2023
+
+1
+
+
+

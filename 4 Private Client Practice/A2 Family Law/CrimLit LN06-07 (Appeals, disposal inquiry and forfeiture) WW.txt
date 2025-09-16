@@ -1,0 +1,1403 @@
+Contents
+Appeals	2
+Part 1: 2 Requirements for appeal to be made	2
+Part 2: Substance of appeal	2
+Part 3: Restrictions on appeal	2
+Part 4: Quorum of Appellate Court	3
+Part 5: Who can appeal and grounds of appeal	3
+Procedure for Filing an Appeal	4
+Step 1: Appellant lodges Notice of Appeal within 14 days of date of judgement, sentence, order => After filing Notice of Appeal, Appellant can file for stay of execution pending appeal and file for bail pending appeal	4
+Step 2: Registrar serves of record of proceedings and grounds of decision on Appellant (Appellant will read record and grounds to decide if he wants to continue with appeal)	5
+Step 3A: If Appellant wants to continue with appeal => Appellant lodge Petition of Appeal within 14 days after receiving record of proceedings and ground of decision from Registrar	5
+Step 3B: If Appellant does not want to continue with appeal => Appellant must file Notice of Discontinuance with Registrar and serve it on other parties to appeal	6
+Step 3C: If Appellant carries on with Step 3A and lodges Petition of Appeal but decides to withdraw after that => Appellant must serve notice to Registrar to seek permission of Court to withdraw appeal	6
+Step 4: After filing of Petition of Appeal, Trial Court must send to all documents to Appellate Court, PP, Respondent or his solicitor	6
+Step 5: Procedure for hearing of appeal: Appellant address Appellate Court => Respondent address Appellate Court => Appellant will have a right of reply	7
+Misc. issues – Appellate court can hear appeals despite procedural defects or lack of grounds of decision	7
+Stay of Execution pending Appeal + Bail pending Appeal	7
+Part 1: Sentence of Imprisonment/CT/PD takes effect on date it was passed => Court has discretion to defer/backdate sentence	7
+Part 2: Filing of Notice/Petition of Appeal does not operate as an automatic stay of execution	8
+Part 3: After filing Notice of Appeal => Accused can apply to Trial Court/Appellate Court to stay execution on judgement/sentence/order pending appeal	8
+Miscellaneous Issue: If Trial Court dismisses stay application, PP can seek re-apply for stay application from Appellate Court	8
+Part 4: After filing Notice of Appeal and applying for stay of execution => Accused can apply to Court for bail pending appeal	8
+Summary Rejection of Appeal	9
+Procedure for Appellate Court to summarily dismiss appeal	10
+Powers of Appellate Court	10
+Power to admit fresh evidence on appeal	10
+Powers of Appellate Court: In appeal against acquittal	11
+Powers of Appellate Court: In appeal against conviction	11
+Powers of Appellate Court: In appeal against sentence	12
+Powers of Appellate Court: In appeal against any other order	12
+Power to alter charge	12
+Powers of Appellate Court: In PG accused’s appeal against sentence	13
+Restrictions on Powers of Appellate Court: In appeal against conviction	14
+Restrictions on Powers of Appellate Court: In appeal against sentence	14
+Criminal Revision	14
+Criminal Motions	17
+Ancillary Proceedings/Matters: Disposal of Property	19
+
+
+
+*Appeals
+Key points:
+- Statutory framework for appeals
+- Types of appeals
+- When can appeals be made?
+- Who can appeal?
+- Procedure, especially:
+o Notice of appeal
+o Petition of appeal
+o Stay of execution of sentence pending appeal
+o Admission of fresh evidence on appeal
+
+STATUTORY FRAMEWORK FOR APPEALS
+Appeals from DC / MC (i.e. State Courts) --> GDHC (part of Supreme Court)
+Appeals from GDHC--> Court of Appeal (so it bypasses the Appellate Division of the High Court)
+
+Appellate criminal jurisdiction of the General Division of the High Court consists of (s19 Supreme Court of Judicature Act 1969):
+(a) the hearing of appeals from District Courts or Magistrates’ Courts before one or more Judges according to the provisions of the law for the time being in force relating to criminal procedure;
+(b) the hearing of points of law reserved by special cases submitted by a District Court or Magistrate’s Court before one or more Judges according to the provisions of the law for the time being in force relating to criminal procedure;
+(ba) the hearing of reviews of the orders of District Courts or Magistrates’ Courts in extradition proceedings;
+(c) the hearing of appeals from Family Courts when exercising criminal jurisdiction; and
+(d) the hearing of appeals from Youth Courts
+
+The criminal jurisdiction of the Court of Appeal consists of the following matters (s60D Supreme Court of Judicature Act 1969):
+(a) any appeal against any decision made by the General Division [of the High Court] in the exercise of its original criminal jurisdiction;
+(b) any petition for confirmation under Division 1A of Part 20 of the Criminal Procedure Code 2010;
+(c) any review of a decision of the Court of Appeal, or a decision of the General Division, under Division 1B of Part 20 of the Criminal Procedure Code 2010;
+(d) any case stated to the Court of Appeal under section 395 or 396 of the Criminal Procedure Code 2010;
+(e) any reference to the Court of Appeal under section 397 of the Criminal Procedure Code 2010;
+(f) any motion to the Court of Appeal under Division 5 of Part 20 of the Criminal Procedure Code 2010;
+(g) any reference to the Court of Appeal under section 18 of the Extradition Act 1968.
+
+TYPES OF APPEALS
+S374(1) CPC: 
+Appeal “against any judgement, sentence, or order of a court”
+
+S2(1) CPC:
+“Court” includes –
+- High Court (part of Supreme Court)
+- District Court (part of State Courts)
+- Magistrate’s Court (part of State Courts)
+
+Magistrate’s Appeals (before GDHC)
+Appeal against a “judgement, sentence or order” of a DC or a MC
+- An appeal from a MC or DC is known as Magistrate’s Appeal (MA), which is a term of art and not to be confused by the “Magistrate” reference
+- Such an appeal is heard before the High Court
+- MAs are usually heard by ONE judge, but the Chief Justice can direct 3 or more judges (must be an uneven number) to hear an appeal if it involves an important point of law (e.g. novel sentencing framework or issue)
+
+Appeals before Court of Appeal
+Appeal against a “judgement, sentence or order” of a High Court in the exercise of its original criminal jurisdiction 
+- Heard before the Court of Appeal
+- Note 7th column of the First Schedule CPC – certain offences are only triable in the High Court and it logically follows that related appeals are heard in the Court of Appeal
+- Appeals in the CA are usually heard by THREE judges, but the CJ can direct 5 or more judges (must be an uneven number) to hear an appeal if its involves an important point of law
+
+**PART 1: 2 REQUIREMENTS FOR APPEAL TO BE MADE 
+Requirement 1: Appeal must be against any judgement, sentence, or order of Court 
+S374(1) of CPC
+- An appeal against any judgment, sentence or order of a court, or any decision of the General Division of the High Court mentioned in section 149M(1), may only be made as provided for by this Code or by any other written law
+
+“Judgement” – a decision convicting or acquitting an accused person
+“Sentence” – a sentence of death, imprisonment, fine or caning
+“Order” – an order which finally disposes of the rights of parties (Ang Cheng Hai v PP). Such final orders or “orders of finality” include a compensation order and a driving disqualification order 
+
+Requirement 2: Requirement of finality must be satisfied 
+Knight Glenn Jeyasingam v PP
+- Even though not expressly stipulated by statute, under case law, there is an overriding requirement of finality in judgement, sentence or order appealed against for appellant to qualify for a right of appeal 
+
+Example of requirement of finality satisfied
+- Judgement: A final order in trial terminating in the conviction or acquittal of the accused (Mohamed Razip v PP) 
+
+Example of requirement of finality unsatisfied
+- No appeal against Judge’s refusal to transfer case from State Courts to GDHC: CA is empowered only to entertain appeals concerned with orders of finality i.e. those resulting in conviction and sentence (Ang Cheng Hai v PP) 
+- Examples of non-appealable interlocutory rulings and orders: --> cannot be appealed against (since there is no finality yet)
+a. Order that two accused be jointly tried 
+b. Order refusing a stay in proceedings – i.e. ordered continuation of court proceedings (Knight Glenn Jeyasingam v PP)
+c. Ruling that there is a case to answer at close of Case for Prosecution 
+d. Order that accused’s statement be admitted into evidence
+
+Knight Glenn Jeyasingam v PP
+Facts 
+- Appellant claimed trial and applied for stay of criminal proceedings on the ground that trial would be an abuse of process as he had been granted immunity from prosecution by the AGC in a letter 
+- Trial Judge interpreted letter and held that the immunity from prosecution did not cover the present charges against the Appellant and ordered trial to proceed
+- Appellant appealed against decision and petitioned for criminal revision of a refusal to stay proceedings 
+Held: Appellant had no right of appeal against Trial Judge decision not to stay criminal proceedings 
+1. Rule: Even though not expressly stipulated by statute, under case law, there is an overriding requirement of finality in judgement, sentence or order appealed against for appellant to qualify for a right of appeal 
+a. Judgement: A final order in trial terminating in the conviction or acquittal of the accused (Mohamed Razip v PP) 
+b. No appeal against Judge’s refusal to transfer case from Sub Courts to GDHC: CA is empowered only to entertain appeals concerned with orders of finality i.e. those resulting in conviction and sentence (Ang Cheng Hai v PP) 
+2. Application: Trial Judge’s decision not to stay the trial is not an order that is considered final 
+3. Implication: 
+- Interlocutory rulings or orders are not final => No right of appeal 
+- E.g. of interlocutory rulings or orders: Order that 2 accused persons be jointly tried, Ruling that there is a case to answer at the close of Case for Prosecution, Order that accused’s statements be admitted into evidence
+
+Ramesh: if D made an application for disclosure of certain statements of PP’s witness (under Kadar or Nabill, etc.) and trial judge ruled against that application. D CANNOT appeal that decision at that point in the middle of the trial when the order is made. 
+
+HOWEVER, after D is convicted, then you can appeal the conviction, with the trial judge’s order against disclosure as a ground of appeal.
+
+PART 2: SUBSTANCE OF APPEAL
+Appeal against question of fact or law or mixed fact and law
+S374(2) of CPC 
+- An appeal may lie on a question of fact or a question of law or on a question of mixed fact and law
+
+Appeal by PP: Against acquittal of accused or sentence imposed 
+S374(3) of CPC
+- An appeal by the Public Prosecutor is to be against the acquittal of an accused or the sentence imposed on an accused or an order of the trial court.
+
+Appeal by Defense: Against conviction of accused or sentence imposed 
+S374(4) of CPC
+- An appeal by a person convicted by a trial court is to be against the person’s conviction, the sentence imposed on the person or an order of the trial court.
+
+PART 3: RESTRICTIONS ON APPEAL 
+Restriction 1: Appeal against conviction allowed only after sentence has been imposed  
+S374(4A) of CPC
+- No appeal may lie against the conviction of an accused of any offence by a trial court until after the trial court imposes a sentence in relation to that offence.
+* Defense cannot appeal against conviction until the trial court imposes sentence 
+
+Restriction 2: No appeal for CCDC decisions 
+S374(5) of CPC
+- No appeal may lie against any order made by a Magistrate, a District Judge, the Registrar of the State Courts or the Registrar of the Supreme Court in any criminal case disclosure conference held under Part 9 or 10
+* Note: Proper process for challenging CCDC orders is through criminal revisions under s404 
+
+Restriction 3: Appeal against GDHC is to CA and not ADHC
+S374(6) of CPC 
+- To avoid doubt, any appeal against a decision of the General Division of the High Court is to be made to the Court of Appeal (and not to the Appellate Division of the High Court).
+
+PART 4: QUORUM OF APPELLATE COURT  
+Quorum of GDHC 
+S386(1) of CPC 
+- An appeal before the General Division of the High Court may ordinarily be heard by a single Judge, but if the Chief Justice so directs, the appeal must be heard before a court consisting of 3 or any greater uneven number of Judges
+* Ordinarily: Heard by single Judge 
+* But if CJ directs: Heard by 3 or any greater odd number of Judges 
+
+Quorum of CA 
+S386(2) of CPC
+- An appeal before the Court of Appeal may ordinarily be heard by 3 Judges sitting in the Court of Appeal, but if the Chief Justice so directs, the appeal must be heard before a court consisting of 5 or any greater uneven number of Judges sitting in the Court of Appeal.
+* Ordinarily: Heard by 3 Judges 
+* But if CJ directs: Heard by 5 or any greater odd number of Judges 
+
+Appeal decision by majority 
+S386(3) of CPC
+- An appeal before 3 or more Judges must be decided in accordance with the opinion of a majority of them.
+* If appeal before 3 or more Judges => Appeal decision is by majority 
+
+PP can request to CJ for 3/5 quorum at GDHC/CA appeal => CJ will consider request 
+S386(4) of CPC
+- If the Public Prosecutor requests in writing at any time:
+a. Before the hearing of an appeal before the General Division of the High Court that the appeal be heard before a court consisting of 3 or any greater uneven number of Judges; or
+b. Before the hearing of an appeal before the Court of Appeal that the appeal be heard before a court consisting of 5 or any greater uneven number of Judges,
+and the Chief Justice consents to the request, the appeal must be heard by such a court.
+
+Appellate Court can bring forward or postpone hearing on its own motion/application of party 
+S386(5) of CPC
+- In any case, the appellate court may, of its own motion or on the application of a party concerned, with reasonable notice to the parties, bring forward or postpone the hearing of an appeal, on such terms as it thinks fit as to the costs of the appeal.
+* Appellate Court can by its own motion or application of a party concerned => Give reasonable notice to parties => Bring forward or postpone hearing appeal => Make orders on the costs of appeal 
+
+PART 5: WHO CAN APPEAL AND GROUNDS OF APPEAL 
+Provision containing party’s right to appeal 
+S377(1) of CPC 
+- Subject to sections 374, 375 and 376, a person who is not satisfied with any judgment, sentence or order of a trial court in a criminal case or matter to which the person is a party may appeal to the appellate court against that judgment, sentence or order in respect of any error in law or in fact, or in an appeal against sentence, on the ground that the sentence imposed is manifestly excessive or manifestly inadequate
+* Person who is a party to the criminal case or matter => Can appeal against judgement, sentence, order in respect of any error in law or in fact OR appeal against sentence on ground that the sentence imposed is manifestly excessive or manifestly inadequate 
+
+Appeal by PP 
+S374(3) of CPC
+- An appeal by the Public Prosecutor is to be against the acquittal of an accused or the sentence imposed on an accused or an order of the trial court.
+
+PP can appeal to reduce sentence imposed 
+PP v Lim Choon Teck 
+- Where merited, PP can appeal against a sentence on ground that it was manifestly excessive (but this is very unusual)
+a. S374(3) and s377(1) of CPC makes it clear that PP can appeal against sentence on ground that it was manifestly inadequate or manifestly excessive 
+b. PP plays a crucial role in the fair and impartial administration of criminal justice 
+c. Public interest in realm of criminal law and administration of criminal justice would only be advanced if offenders are appropriately punished 
+
+PP can appeal where accused is acquitted and convicted on a lesser charge 
+Koh Zhan Quan Tony v PP 
+- Where accused is acquittal + convicted on a lesser charge => PP can appeal against acquittal of the accused 
+
+Appeal by Defense
+S374(4) of CPC
+- An appeal by a person convicted by a trial court is to be against the person’s conviction, the sentence imposed on the person or an order of the trial court.
+
+If accused plead guilty => Can only appeal sentence and NOT against his conviction since it was based on PG
+S375 of CPC 
+- An accused who has pleaded guilty and has been convicted on that plea in accordance with this Code may appeal only against the extent or legality of the sentence
+
+Victim or family members of victim cannot appeal 
+Huang Meizhe v AG
+Facts
+- Widow and mother of deceased were dissatisfied with the PP’s decision not to appeal to enhance the sentence of imprisonment of 16 years meted out to the person convicted of killing the deceased 
+Held: Widow and mother of deceased had no legal rights to appeal in a criminal case 
+1. S374 of CPC provides that appeal 
+
+*PROCEDURE FOR FILING AN APPEAL 
+2 documents to be filed:
+1. Filing of Notice of Appeal
+2. Filing of Petition of Appeal 
+
+Preliminary: Ensure Parts in front are satisfied 
+- Part 1: 2 Requirements for appeal to be made 
+- Part 2: Substance of appeal
+- Part 3: Restrictions on appeal 
+- Part 4: Quorum of Appellate Court  
+- Part 5: Who can appeal and grounds of appeal 
+
+NB: s50 Interpretation Act – if the last day of the 14-day time limit is a Sunday or public holiday (which are considered “excluded days”), the period shall include the next following day (not being an excluded day)
+
+Step 1: Appellant lodges Notice of Appeal within 14 days of date of judgement, sentence, order => After filing Notice of Appeal, Appellant can file for stay of execution pending appeal and file for bail pending appeal 
+- Lodge with:
+a. Registrar of Supreme Court if Trial Court is GDHC
+b. Registrar of State Courts if Trial Court is DC or MC
+- Lodge within 14 days of date of judgement, sentence or order 
+- Form of Notice of Appeal:
+a. Form 66 of CPR Schedule 
+b. Template in Form 20 of CPC (Prescribed Forms) Regulations 2010 
+- Contents of Notice of Appeal 
+a. State shortly the substance of the judgment, sentence or order appealed against;
+b. Contain an address at which any notice or document connected with the appeal may be served upon the appellant or upon the appellant’s advocate; and
+c. Unless it is given orally under section 381, be signed by the appellant or the appellant’s advocate.
+- If PP appeals against judgement, sentence or order of GDHC – PP must sign Notice of Appeal 
+
+Lodge with Registrar of SC/State Courts within 14 days of date of judgement, sentence or order 
+S377(2) of CPC 
+- A notice of appeal against any judgment, sentence or order of the trial court must be lodged by the appellant with the Registrar of the Supreme Court (if the trial court is the General Division of the High Court) or the Registrar of the State Courts (if the trial court is a District Court or a Magistrate’s Court):
+a. (brought by D) Appeal against conviction OR against conviction AND sentence – Lodge within 14 days after date of sentence: In the case of an appeal against conviction, or an appeal against conviction and sentence, within 14 days after the date of the sentence; and
+
+NB Ramesh: if D only appeals against conviction, he forfeits his ability to later appeal against the sentence passed as being excessive – need to bring appeal against both conviction and sentence at the get go
+
+D MUST LODGE NOTICE OF APPEAL WITHIN 14 DAYS OF THE SENTENCE BEING GIVEN, NOT THE CONVICTION, ESPECIALLY WHERE CONVICTION AND SENTENCING ARE GIVEN AT SEPARATE COURT HEARINGS. 
+
+b. (brought by PP) Any other appeal – Lodge within 14 days after date of judgement, sentence or order: in any other case, within 14 days after the date of the judgment, sentence or order
+
+Note: 
+- S377(2)(a): Primarily applies to appeals brought by accused persons as it directly refers to appeals against convictions and convictions and sentences
+- S377(2)(b): Primarily applies to Prosecution’s appeal against an acquittal and an appeal against sentence (without appeal against conviction) 
+
+Form of Notice of Appeal 
+- Notice of Appeal is in Form 66 of CPR Schedule 
+- Template can be found in Form 20 of CPC (Prescribed Forms) Regulations 2010 
+
+Contents of Notice of Appeal 
+S377(3) of CPC
+- Every notice of appeal must:
+a. Substance of judgement/sentence/order appealed against: State shortly the substance of the judgment, sentence or order appealed against;
+b. Appellant’s address for service: Contain an address at which any notice or document connected with the appeal may be served upon the appellant or upon the appellant’s advocate; and
+c. Signed by appellant or appellant’s lawyer: Unless it is given orally under section 381, be signed by the appellant or the appellant’s advocate.
+
+Appeal by PP against judgement, sentence, order of GDHC – PP must sign Notice of Appeal
+S377(4) of CPC
+- In the case of an appeal by the Public Prosecutor under this Part against the judgment, sentence or order of the General Division of the High Court hearing a criminal case, the notice of appeal must be signed by the Public Prosecutor only
+
+Step 2: Registrar serves record of proceedings (bundle of transcripts of everything which happened in trial) and grounds of decision on Appellant (Appellant will read record and grounds to decide if he wants to continue with appeal) 
+- Appellant who is not the PP: After lodging notice of appeal => Registrar must serve notice on appellant as soon as possible – Notice that record of proceedings and grounds of decision are available => Appellant must pay prescribed fee and apply for copy of record of proceedings and grounds of decision from Registrar => Registrar will serve record of proceedings and grounds of decision on Appellant
+* Appellant can apply to Registrar to waive prescribed fee
+- Appellant who is the PP: After lodging of notice of appeal => Registrar will serve copy of record of proceedings and grounds of decision on PP for free
+
+Appellant who is not the PP (i.e. D)
+After lodging notice of appeal => Registrar must serve notice on appellant as soon as possible – Notice that record of proceedings and grounds of decision are available
+S377(5) of CPC
+- After the notice of appeal has been lodged in accordance with subsection (2) by an appellant who is an accused or a complainant, the Registrar of the Supreme Court (if the trial court is the General Division of the High Court) or the Registrar of the State Courts (if the trial court is a Magistrate’s Court or District Court) must, as soon as possible, serve on the appellant or the appellant’s advocate at the address mentioned in the notice of appeal, a notice that a copy each of the record of proceedings and the grounds of decision are available and can be had on applying for the same
+
+Appellant must pay prescribed fee and apply for copy of record of proceedings and grounds of decision from Registrar 
+S377(6) of CPC
+- Subject to subsection (6A), where an appellant makes an application pursuant to subsection (5), the appellant must be served with a copy each of the record of proceedings and the grounds of decision upon the payment of the prescribed fee.
+
+Appellant can apply to Registrar to waive prescribed fee
+S377(6A) of CPC
+- The Registrar of the State Courts or the Registrar of the Supreme Court (as the case may be) may, as he or she thinks fit, furnish copies of the record of proceedings and the grounds of decision free of charge in any specific case or category of cases.
+
+Appellant who is the PP
+After lodging of notice of appeal => Registrar will serve a copy record of proceedings and grounds of decision on PP for free
+S377(7) of CPC
+- After the notice of appeal has been lodged in accordance with subsection (2) by an appellant who is the Public Prosecutor, the Registrar of the Supreme Court (if the trial court is the General Division of the High Court) or the Registrar of the State Courts (if the trial court is a Magistrate’s Court or District Court) must, as soon as possible, serve on the Public Prosecutor a copy each of the record of proceedings and the grounds of decision free of charge.
+
+Step 3A: If Appellant wants to continue with appeal => Appellant lodge Petition of Appeal within 14 days after receiving record of proceedings and ground of decision from Registrar 
+- Appellant lodge Petition of Appeal within 14 days after receiving record of proceedings and ground of decision from Registrar 
+- Form of Petition of Appeal: 
+a. Form 67 of CPR Schedule
+b. Template in Form 71 of CPC (Prescribed Forms) Regulations 2010 
+- Contents of Petition of Appeal: 
+* Signed by Appellant or his solicitor 
+* States briefly substance of judgement, sentence or order 
+* Contain sufficient particulars of any points of law or fact in which appellant claims the trial court was in error 
+
+Appellant lodge Petition of Appeal within 14 days after receiving record of proceedings and ground of decision from Registrar 
+S378(1) of CPC 
+- Within 14 days after service of the record of proceedings and the grounds of decision under section 377(6) or (7), the appellant or the appellant’s advocate must lodge a petition of appeal with the Registrar of the Supreme Court (if the trial court is the General Division of the High Court) or Registrar of the State Courts (if the trial court is a Magistrate’s Court or District Court).
+
+Form of Petition of Appeal 
+- Petition of Appeal is in Form 67 of CPR Schedule 
+- Template can be found in Form 71 of CPC (Prescribed Forms) Regulations 2010 
+
+Contents of Petition of Appeal 
+S378(2) of CPC
+- The petition of appeal must:
+* Signed by appellant or appellant’s lawyer: Be signed by the appellant or the appellant’s advocate 
+* Substance of judgement/sentence/order appealed against: State briefly the substance of the judgment, sentence or order appealed against
+* Sufficient particulars of points of law or fact in which trial Court was in error: Contain sufficient particulars of any points of law or of fact in respect of which the appellant claims the trial court was in error
+
+Appellant only permitted to rely on grounds of appeal in Petition of Appeal (cannot raise extraneous grounds of appeal not specified therein) => Unless leave of Appellate Court granted 
+S378(6) of CPC
+- Except with the permission of the appellate court, the appellant is not permitted, on the hearing of the appeal, to rely on any ground of appeal other than those set out in the petition of appeal.
+
+NB: in practice, the courts adopt a more practical approach especially if the appellant is unrepresented
+
+Consequences of not lodging Petition of Appeal: Appeal will be treated as withdrawn 
+S378(3) of CPC
+- Subject to section 380, if a petition of appeal is not lodged within the time provided under this section, the appeal will be treated as withdrawn.
+
+If appeal withdrawn => Any stay of execution will cease 
+S378(7) of CPC
+- Upon withdrawal or discontinuance of any appeal, the Registrar of the Supreme Court must notify the Registrar of the State Courts (if the trial court is a Magistrate’s Court or District Court) accordingly and any stay of execution immediately ceases to have effect.
+
+Step 3B: If Appellant does not want to continue with appeal => Appellant must file Notice of Discontinuance with Registrar and serve it on other parties to appeal 
+The appellant can also choose NOT to go ahead with the appeal after filing the initial notice of appeal, but before lodging petition of appeal
+
+Appellant must file Notice of Discontinuance of Appeal with Registrar + Serve the same on Respondent
+S378(4) of CPC
+- At any time before the petition of appeal is lodged, the appellant may file with the Registrar of the Supreme Court (if the trial court is the General Division of the High Court) or the Registrar of the State Courts (if the trial court is a Magistrate’s Court or District Court), a notice of discontinuance of the appeal, and if the appellant does so, the appellant must serve the notice on the other party to the appeal on the date of the filing.
+
+If appeal discontinued => Any stay of execution will cease 
+S378(7) of CPC
+- Upon withdrawal or discontinuance of any appeal, the Registrar of the Supreme Court must notify the Registrar of the State Courts (if the trial court is a Magistrate’s Court or District Court) accordingly and any stay of execution immediately ceases to have effect.
+
+Step 3C: If Appellant carries on with Step 3A and lodges Petition of Appeal but decides to withdraw after that => Appellant must serve notice to Registrar to seek permission of Court to withdraw appeal 
+Appellant must serve notice to Registrar to seek permission of Court to withdraw appeal
+S378(5) of CPC
+- The appellant may, after the appellant had lodged a petition of appeal within the time provided under this section, in a notice in writing to the Registrar of the Supreme Court seek permission of court to withdraw the appeal.
+
+If all parties to appeal consent to withdrawal => Court may summarily give permission to withdraw appeal without it being set down for hearing
+S378(5A) of CPC
+- Despite section 386(1) and (2), where every party to the appeal consents to the withdrawal of the appeal, a single Judge of the General Division of the High Court, or of the Court of Appeal, respectively, may summarily give permission to withdraw the appeal without the appeal being set down for hearing.
+
+If appeal withdrawn => Any stay of execution will cease 
+S378(7) of CPC
+- Upon withdrawal or discontinuance of any appeal, the Registrar of the Supreme Court must notify the Registrar of the State Courts (if the trial court is a Magistrate’s Court or District Court) accordingly and any stay of execution immediately ceases to have effect.
+
+Step 4: After filing of Petition of Appeal, Trial Court must send to all documents to Appellate Court, PP, Respondent or his solicitor 
+After filing of Petition of Appeal => Trial Court must send signed copy of record of proceedings, grounds of decision, copy of notice of appeal and petition of appeal to Appellate Court, PP, Respondent
+S379 of CPC 
+- Where the petition of appeal has been filed under section 378, the trial court appealed from must send to the appellate court and the Public Prosecutor or to the respondent or the respondent’s advocate (as the case may be) a signed copy of the record of the proceedings, the grounds of decision, a copy of the notice of appeal and the petition of appeal
+
+Step 5: Procedure for hearing of appeal: Appellant address Appellate Court => Respondent address Appellate Court => Appellant will have a right of reply 
+Procedure at hearing
+S387of CPC
+(1) At the hearing of an appeal, the appellate court must hear the appellant or the appellant’s advocate, if the appellant or the appellant’s advocate appears, and if it thinks fit, the respondent or the respondent’s advocate, if the respondent or the respondent’s advocate appears, and must hear the appellant or the appellant’s advocate in reply.
+(2) If the appellant is in custody and does not appear at the hearing to support the appellant’s appeal in person or by advocate, the appellate court may consider the appellant’s appeal and may make such order as it thinks fit.
+(3) If the appellant is not in custody but fails to appear at the hearing of the appeal, the appellate court may dismiss the appeal, except that the court may reinstate the appeal if the appellant subsequently appears before the court and satisfies the court that the appellant’s non?appearance was not due to the appellant’s fault.
+
+Non-appearance of Respondent
+S388 of CPC
+(1) If, at the hearing of the appeal, the respondent is absent and the appellate court is not satisfied that the notice under section 385 has been duly served on the respondent, the court must not make any order adverse to or to the prejudice of the respondent, but must adjourn the hearing to a future day and direct the Registrar of the Supreme Court to serve the notice on the respondent for the respondent to appear.
+(2) If the notice cannot be served on the respondent, or if the court is satisfied that the notice has been duly served on the respondent, and the respondent is absent at the hearing of the appeal, the court may hear the appeal in the respondent’s absence.
+
+Appellate court can hear appeals despite procedural defects or lack of grounds of decision 
+Miscellaneous Issue: Appellate Court discretion to allow appeal notwithstanding any procedural defect 
+Even if there is non-compliance with procedural requirements => On the application of Appellant => Appellate Court can exercise discretion to permit appeal in the interests of justice  
+S380(1) of CPC
+- The appellate court may, on the application of any person debarred from appealing for non?compliance with any provision of this Code, permit the person to appeal against any judgment, sentence or order if it considers it to be in the interests of justice, subject to such terms and conditions as the court thinks fit
+
+Definition of “interests of justice”
+PP v Tan Peng Khoon
+- Interests of justice directly relevant to the case at hand and NOT wider interests of society at large 
+
+Miscellaneous Issue: Appellate Court discretion to allow appeal notwithstanding no grounds of decision  
+Even if there are no grounds of decision => On the application of Accused or PP => Appellate Court can exercise discretion to permit appeal in the interests of justice/for reasons beyond control of either party
+S380(2) of CPC
+- The appellate court may, on the application of the accused or the accused’s advocate, or the Public Prosecutor, permit an appeal to proceed to hearing without the grounds of decision, if the court considers it to be in the interest of justice and for reasons beyond the control of either party, subject to such terms and conditions as the court thinks fit
+
+Miscellaneous Issue: Appellate Court discretion to grant time extension for Appellant to file Notice/Petition of appeal 
+Court’s considerations when granting time extension
+PP v Tan Peng Khoon
+- Court will consider: 
+a. Length of delay in prosecution of appeal
+b. Explanation put forward for delay 
+c. Existence of some prospect of success in appeal 
+
+Court will consider potential prejudice to accused when granting time extension for PP to appeal 
+- Where extension of time to file appeal is sought by PP => There is a heightened need for Court to be alive to the potential prejudice caused to the accused: 
+a. Accused who has been acquitted or convicted and sentenced has a right not to be kept in undue suspense over the possibility of an appeal by the PP once the time for appeal has run out and where accused has an expectation that he will be able to move on with his life 
+b. PP needs to act expeditiously in filing appeals 
+
+STAY OF EXECUTION PENDING APPEAL + BAIL PENDING APPEAL 
+
+Part 1: Sentence of Imprisonment/CT/PD takes effect on date it was passed => Court has discretion to defer/backdate sentence 
+S318 of CPC
+- Generally, the sentence of imprisonment takes effect on date it was passed => However, Court has discretion to backdate the sentence to when the accused was first remanded 
+
+S318(1A) of CPC
+- Sentence of RT takes effect on the date it was passed or at such later date as the Court may determine 
+
+Part 2: Filing of Notice/Petition of Appeal does not operate as an automatic stay of execution 
+S383(1) of CPC
+- An appeal does not operate as a stay of execution, but the trial court and appellate court may stay execution on any judgement, sentence or order pending appeal
+
+Part 3: After filing Notice of Appeal => Accused can apply to Trial Court/Appellate Court to stay execution on judgement/sentence/order pending appeal 
+=> If PP applying stay of execution then apply PP v Adith. 
+=> If accused applying stay of execution then move to bail and discuss PP v Adith 
+
+Court has power to order stay of execution on any judgement/sentence/order pending appeal => Court can also order any terms as to security for payment of money or suffering of punishment imposed by judgement 
+S383(1) of CPC
+- Trial court and the appellate court may stay execution on any judgment, sentence or order pending appeal, on any terms as to security for the payment of money or the performance or non?performance of an act or the suffering of a punishment imposed by the judgment, sentence or order as to the court seem reasonable
+
+Time of stay of execution is excluded from computing the term of Appellant’s sentence
+S383(2) of CPC
+- If the appellant is ultimately sentenced to imprisonment, the time during which the execution of the sentence was stayed is to be excluded in computing the term of his or her sentence unless the appellate court orders otherwise
+
+Death sentence must not be carried out until after CA confirms sentence 
+S383(3) of CPC
+- In the case of a conviction involving a sentence of death, the execution of the sentence of death must not be carried out until after the sentence is confirmed by the Court of Appeal pursuant to an appeal by the accused or a petition for confirmation by the Public Prosecutor
+
+Where PP is appealing: Court’s considerations when granting stay of execution 
+PP v Adith s/o Sarvotham 
+- Court will take a different approach when: 
+a. PP is appealing against a sentence that entails some loss of liberty; and 
+b. PP is seeking a stay of execution to prevent convicted accused from commencing to serve his sentence before hearing of the appeal 
+
+- Ensure that Court’s discretion is not curtailed by accused having served original sentence: Court wants to ensure that when the appellate Court comes to consider the appropriate sentence, its discretion is not curtailed or affected by the convicted person having already served the original sentence in part or worse, conceivably in its entirety 
+
+- Court’s consideration: 
+a. Ensure PP’s appeal is not prejudiced: Primary concern: Ensuring that PP’s appeal is not prejudiced while weighing this against the comparative prejudice suffered by convicted person having to await the outcome of appeal before commencing his sentence 
+b. Interests of a fair and just prosecution including interests of ensuring that PP’s appeal against sentence is not prejudiced
+c. Comparative prejudice to accused in having to await outcome of appeal before serving sentence: Comparative prejudice to convicted person in having to await outcome of appeal before serving his sentence
+d. Nature and gravity of offense
+e. Length of imprisonment vs length of time for appeal to be heard: Length of term of imprisonment or probation in comparison with length of time which it is likely to take for appeal to be heard 
+f. Whether alternative measures such as requesting appeal be heard urgently: Whether any possible prejudice to convicted person can be ameliorated through simple measures such as requesting that appeal be heard on an urgent basis 
+
+Miscellaneous Issue: If Trial Court dismisses stay application, PP can seek re-apply for stay application from Appellate Court 
+PP v Adith s/o Sarvotham 
+- It is noted that if the trial Court dismisses a stay application, the PP may yet seek a stay from the Appellate Court
+- S383 of CPC allows both trial Court and Appellate Court to grant stay of execution pending appeal 
+
+Part 4: After filing Notice of Appeal and applying for stay of execution => Accused can apply to Court for bail pending appeal
+Court has power to grant bail pending appeal to accused who has filed a notice of appeal against conviction or sentence
+S382 of CPC
+- A State Court or the General Division of the High Court may grant bail to a person who has filed a notice of appeal against the person’s conviction or sentence in accordance with section 377
+
+Where accused is appealing: Court would ordinarily grant stay of execution and bail pending appeal  
+PP v Adith s/o Sarvotham 
+- General rule: Where convicted person appeals against conviction or sentence, the grant of stay of execution pending appeal and continuance of bail arrangements are fairly straightforward matters 
+- Court’s considerations when granting bail to a convicted accused pending appeal against conviction or sentence: 
+a. Primary concern: Interests of the accused in retaining his freedom until his appeal has been resolved
+b. Likelihood of accused absconding
+c. Accused’s flight risk
+d. Accused’s ties with Singapore
+e. Character, means and standing of accused
+f. Accused’s criminal record
+g. Possibility of accused re-offending on bail: Possibility of accused offending or reoffending while on bail 
+h. Whether security sufficient to ensure accused’s attendance before appellate Court: Whether security imposed is sufficient to ensure attendance of accused before appellate court 
+
+Loh Kok Siew v PP
+- Factor: The length of the potential imprisonment the accused would face compared with the time it takes for the appeal to be heard.
+
+However: If lower Court has refused bail pending appeal initially => A subsequent application for bail pending appeal in higher Court should not be granted unless there were special reasons for doing so 
+Ding Si Yang v PP
+- After Court refused bail initially, Subsequent application for bail pending appeal is usually not granted unless:
+a. Material change in circumstances
+b. New facts since come to light: New facts have since come to light
+c. There are serious defects in judgment below suggesting good chances of appeal: There are serious defects or demerits in the judgement below that would suggest that the chances of succeeding on appeal are so good as to warrant the accused’s immediate release 
+d. Obvious error of law or serious misinterpretation of facts by trial Court: There is an error of law that is obvious on the face of the record or there has been a serious misinterpretation of the facts by the trial court 
+
+Ding Si Yang v PP
+- Trial Judge in DC convicted accused of 3 charges of corruption and was sentenced to total of 36 months imprisonment 
+- Trial Judge denied accused’s application for bail pending appeal 
+- Accused bring criminal motion to High Court for bail pending appeal 
+- Held: High Court rejected accused’s application for bail pending appeal 
+1. Trial Judge’s reasons for denying bail pending appeal: 
+a. Accused’s wife and child lived in Thailand 
+b. Accused was a match-fixer part of an organized group which had considerable resources to facilitate accused’s escape from Singapore. Other match-fixers have in fact absconded 
+c. If Accused were to escape, Singapore’s reputation as a country with low level of corruption and effective criminal justice system would be harmed 
+d. Lack of technological measures such as electronic tagging would reduce flight risk 
+2. High Court deny bail pending appeal:
+a. Accused convicted of non-bailable offense and bail was not available as of right but Court could in its discretion decide to offer bail 
+3. Accused’s scheduled knee surgery is not a new fact justifying grant of bail 
+a. Knee condition was diagnoses 23 months ago but accused took no action 
+b. There was no evidence that an emergency had no arisen because of knee condition
+c. There was no new facts or material change in circumstance that warranted a review of DC’s decision to refuse bail pending appeal 
+4. There were no serious defects in DC’s judgement that would suggest that chances of succeeded on appeal were so high to warrant his immediate release from incarceration
+a. No errors of law that were obvious on the face of the record 
+
+Miscellaneous Issue: What is the effect of bail on the accused’s sentence? 
+Sentence usually takes effect on date it was passed => Court has discretion to backdate sentence 
+S318 of CPC
+- Generally, the sentence of imprisonment takes effect on date it was passed => However, Court has discretion to backdate the sentence to when the accused was first remanded 
+
+Sentence can be backdated to take into account time spent in remand even where there has been an intervening period of bail 
+Vasentha d/o Joseph
+- Accused was arrested and served periods in remand before released on bail 
+- The previous periods served were taken into account in sentencing 
+
+Sivanantha a/l Danabala 
+- In Mandatory Minimum Sentence cases, court may take into account the period of detention preceding the period when accused was released on bail when determining the start date of remand 
+- Reason: This ensures that the accused is not excessively punished 
+
+Period in which an accused has been out on bail should not be taken into account in backdating sentence 
+PP v Sivanantha a/l Danabala 
+
+SUMMARY REJECTION OF APPEAL 
+3 Requirements for Appellate Court to summarily dismiss appeal 
+S384(1) of CPC
+- Where:
+* Requirement 1: Grounds of appeal do not raise any question of law; AND
+* Requirement 2: Evidence is sufficient to support conviction: It appears to appellate court that evidence is sufficient to support the conviction; AND 
+* Requirement 3: There is no material which could raise a reasonable doubt whether conviction was right or lead Appellate Court to consider reducing sentence: There is no material in the circumstances of the case which could raise a reasonable doubt whether the conviction was right or lead the appellate court to consider that the sentence ought to be reduced
+
+Faisal bin Tahar v PP
+- Affirms the 3 requirements for Court to summarily dismiss appeal under s384(1): 
+- Principle: Court does not need to assess merits of question of law or whether it was put in a timely manner, Court just has to ascertain whether a question of law has been posed 
+- Held: No summarily dismissal of appeal as Condition 1 not satisfied 
+1. Condition 1 not satisfied
+a. Question of law on interpretation of relevant provisions of the MDA: Whether the charge was erroneous because it was premised on the appellant’s 2010 admission to the DRC even though the appellant had not received any counselling or treatment during his time in DRC 
+b. It does not matter that the question of law was not a bona fide question as it ought to have been raised in the court below 
+2. Conditions 2 and 3 satisfied: 
+a. Clear that relevant papers were in order and there was sufficient evidence to support appellant’s conviction for a LT1 drug consumption charge 
+b. Clear from criminal records issued by Criminal Records Office and certificate of previous admission issued under s33A(3) of MDA that appellant had been convicted of drug consumption in 1997 and had been admitted to DRC in 2010 => Court is legally bound to impose statutory minimum sentence prescribed and there is no basis for Court to reduce the sentence 
+- Note: If Court gives a notice of summary rejection, defense counsel must give a reply 
+1. Appellant’s counsel must give a reply to the Court even if no specific directions are given by the Court for him to do so 
+2. Appellant’s counsel must give a short reply containing the salient points of objecting to summary rejection and brief reasons why summary rejection is inappropriate 
+
+Procedure for Appellate Court to summarily dismiss appeal 
+Appellate Court can summarily dismiss appeal by an order without setting down appeal for hearing
+S384(1) of CPC
+- The appeal may, without being set down for hearing, be summarily rejected by an order under the hand of a Judge or a presiding Judge certifying that the appellate court, having perused the record, is satisfied that the appeal has been brought without any sufficient ground of complaint 
+
+If Appellate court consists of more than one judge => Unanimous decision is required for summarily dismissal
+S384(2) of CPC
+- Where an appellate court comprises more than one Judge, the decision of the appellate court to reject the appeal summarily under subsection (1) can only be made by a unanimous decision of all the Judges sitting in the appellate court.
+
+Notice of rejection must served on Appellant 
+S384(3) of CPC
+- Notice of the rejection must be served on the appellant
+
+Within 14 days of receiving Notice of rejection, Appellant can apply for leave to amend grounds of appeal => CJ or Judge sitting in GDHC can restore appeal for hearing 
+S384(4) of CPC 
+- If, in any case rejected under subsection (1), the appellant gives, within 14 days of service of notice of the rejection on the appellant, notice to the Registrar of the Supreme Court of an application for permission to amend the appellant’s grounds of appeal so as to raise a question of law, accompanied by a certificate signed by an advocate specifying the question to be raised and undertaking to argue it, the Chief Justice (in the case where the appeal is made to the Court of Appeal) or any Judge sitting in the General Division of the High Court (in the case where the appeal is made to the General Division of the High Court) may grant permission to amend the grounds of appeal accordingly and shall restore the appeal for hearing
+* Step 1: Appellant gives Notice to Registrar of Supreme Court of application for permission to amend ground of appeal to raise question of law + Certificate signed by advocate specifying question to be raised and undertaking to argue it 
+* Step 2: Appellant gives such notice within 14 days of service of notice of rejection 
+* Step 3: CJ (appeal to CA) or GDHC Judge (appeal to GDHC) may grant permission to amend grounds of appeal accordingly and restore appeal for hearing 
+
+Question of whether sentence ought to be reduce is not a question of law
+S384(5) of CPC
+- For the purposes of subsection (4), the question whether a sentence ought to be reduced is deemed not to be a question of law
+
+*POWERS OF APPELLATE COURT 
+Generally:
+S387 CPC – at the hearing of an appeal, the appellate court shall hear the appellant or his advocate, if he appears, and if it thinks fit, the respondent or his advocate, if he appears, and shall hear the appellate or his advocate in reply.
+
+Threshold for appellate intervention
+S394 CPC – any judgement, sentence or order of a trial court may be reversed or set aside only where the appellate court is satisfied that it was wrong in law or against the weight of the evidence or, in the case of a sentence, manifestly excessive or manifestly inadequate in all the circumstances of the case.
+
+*Power to admit fresh evidence on appeal 
+Appellate Court on its own motion or Parties use criminal motion to request to file fresh evidence => Appellate Court can take fresh evidence itself or direct Trial Court to take fresh evidence 
+S392(1) of CPC
+- In dealing with any appeal under this Part, the appellate court may, if it thinks additional evidence is necessary, either take such evidence itself or direct it to be taken by the trial court
+
+Procedure for admitting fresh evidence
+S392 of CPC
+(2) Accused and his lawyer must be present when additional evidence is taken: Unless the appellate court directs otherwise, the accused or the accused’s advocate must be present when the additional evidence is taken.
+(3) When trial court takes additional evidence => Send record of proceedings to appellate court: When the trial court has taken the additional evidence, it must send the record of the proceedings duly certified by it to the appellate court for it to deal with in the appeal.
+(4) When trial court takes additional evidence => State effect of it on earlier verdict: The trial court must also state what effect (if any) the additional evidence taken has on its earlier verdict.
+(5) Sections 233 and 285 to 289 apply, with the necessary modifications, to the taking of additional evidence under this section.
+
+Appellate Court’s considerations when approving parties’ request to file fresh evidence 
+Accused request to admit fresh evidence on appeal 
+PP v Mohd Ariffan bin Mohd Hassan 
+- Court needs to be satisfied that:
+1. Additional evidence is relevant; AND
+2. Additional evidence is reliable 
+- Satisfaction of test would mean that additional evidence is “necessary” under s392(1) of CPC 
+
+Factors balance 2 opposing considerations: seek to avoid miscarriage of justice vs ensuring finality in proceedings
+
+NB: threshold is more liberal when appeal and request to admit fresh evidence is brought by D, since the criteria of non-availability is not enforced as strictly (unlike if PP introduces fresh evidence on appeal, see directly below)
+
+PP request to admit fresh evidence on appeal 
+PP v Mohd Ariffan bin Mohd Hassan 
+- Court needs to be satisfied that:
+1. Additional evidence is relevant; AND
+2. Additional evidence is reliable; AND 
+3. Additional evidence was not available at trial or proceedings below
+a. PP has to show that evidence “could not have been obtained with reasonable diligence” for use at trial below 
+b. Court will consider whether evidence was physically available to the PP 
+c. Court will consider, even if evidence was available, whether it was reasonable to consider that the evidence would not have a bearing on the case during trial below => Because “PP cannot be expected to consider evidence which objectively and reasonably would not have been thought to be relevant to the case”
+- Satisfaction of test would mean that additional evidence is “necessary” under s392(1) of CPC 
+
+Reasons for requirements for accused persons to be more lenient than requirements for PP
+PP v Mohd Ariffan bin Mohd Hassan 
+- Reasons: 
+1. Great social cost to accused and society if accused is wrongfully convicted or receives a manifestly disproportionate sentence relative to culpability 
+2. Disparity of resources between PP and accused in general 
+3. Accused/Defense counsel feel the tight timelines of litigation more acutely => Because PP has prosecutorial discretion and can decide when to initiate criminal litigation process i.e. PP has opportunity to ensure that evidence gathered is in a satisfactory state before it mounts charges 
+4. Accused faces great strain and anxiety in a criminal litigation 
+
+Court’s considerations considering whether to order re-trial to admit fresh evidence 
+PP v Mohd Ariffan bin Mohd Hassan 
+- After Court has formed the view that fresh evidence should be admitted => Court must consider the type of further proceedings to be ordered 
+- Court must also consider proportionality by balancing: 
+a. Significance of new evidence; vs 
+b. Need for swift conduct of litigation; vs 
+c. Prejudice that might arise from additional proceedings 
+- Guide: Court must only order additional proceedings as are necessary to address issues raised by fresh evidence 
+
+In appeal against acquittal (appeal by PP)
+S390(1)(a) of CPC 
+- Dismiss appeal (i.e. D is acquitted): Appellate court may dismiss appeal if it considers there is no sufficient ground for interfering 
+a. In an appeal from an order of acquittal, appellate Court may: 
+(i) Reverse order of acquittal and direct further enquiry: Reverse the order and direct that further inquiry shall be made, OR
+Reverse order of acquittal and direct retrial: that the accused shall be retried, OR 
+Remit matter to trial Court with opinion: remit the matter, with the opinion of the appellate court, to the trial court; OR 
+(ii) Find accused guilty and pass sentence: Find accused guilty and pass sentence on him according to law 
+
+S390(2) of CPC
+- Nothing in subsection (1) is to be taken to prevent the appellate court from making such other order in the matter as it may think just, and by such order exercise any power which the trial court might have exercised.
+
+In appeal against conviction (appeal by D)
+S390(1)(b) of CPC 
+- Dismiss appeal (i.e. D is convicted): Appellate court may dismiss appeal if it considers there is no sufficient ground for interfering 
+b. In an appeal from a conviction, appellate Court may: 
+(i) Reverse conviction and sentence and acquit the accused: Reverse the finding and sentence and acquit the accused 
+Reverse conviction and sentence and discharge the accused: Reverse the finding and sentence and discharge the accused 
+Reverse conviction and sentence and order retrial: Reverse the finding and sentence and order the accused to be retried by a court of competent jurisdiction  
+Remit matter to trial Court with opinion: Remit the matter, with the opinion of the appellate court, to the trial court; OR 
+(ii) Alter conviction and maintaining sentence: Alter the finding, maintaining the sentence 
+With or without altering conviction, reduce or enhance sentence: With or without altering the finding, reduce or enhance sentence  
+(iii) With or without reducing or enhancing sentence, with or without altering conviction, alter nature of sentence: With or without reducing or enhancing sentence, and with or without altering finding, alter the nature of the sentence 
+
+S390(2) of CPC
+- Nothing in subsection (1) is to be taken to prevent the appellate court from making such other order in the matter as it may think just, and by such order exercise any power which the trial court might have exercised.
+
+In appeal against sentence
+S390(1)(c) of CPC 
+- Dismiss appeal: Appellate court may dismiss appeal if it considers there is no sufficient ground for interfering 
+c. Reduce or enhance sentence: In an appeal as to sentence, reduce or enhance the sentence or 
+Alter nature of sentence: alter the nature of the sentence
+
+S390(2) of CPC
+- Nothing in subsection (1) is to be taken to prevent the appellate court from making such other order in the matter as it may think just, and by such order exercise any power which the trial court might have exercised.
+
+Appellate court can enhance D’s sentence even if it is hearing D’s appeal against the sentence imposed (with no cross appeal by PP – i.e. no need for PP to cross-appeal for appellate court to enhance) (Wong Tian Jun De Beers v PP)
+
+Appellate court can take into consideration outstanding offenses for sentencing
+S390(9) of CPC
+- At the hearing of the appeal, the appellate court may on the application of the Public Prosecutor, and with the consent of the accused, take into consideration any outstanding offences which the accused admits to have committed for the purposes of sentencing the accused.
+
+Appellate court’s sentencing powers limited to trial court’s sentencing power
+S390(10) of CPC
+- The sentencing powers of the appellate court in the exercise of its appellate jurisdiction do not exceed the sentencing power of the trial court whose judgment, sentence or order is appealed against
+
+In PG accused’s appeal against sentence 
+S390(3) of CPC
+- Despite section 375 and without limiting subsections (1) and (2), where an accused has pleaded guilty and been convicted on such plea, the appellate court may, upon hearing, in accordance with section 387, any appeal against the sentence imposed upon the accused:
+a. Set aside the conviction; --> set aside PG
+b. Make such order in the matter as it may think just; and
+c. By such order exercise any power which the trial court might have exercised.
+
+In appeal against any other order 
+S390(1)(d) of CPC 
+- Dismiss appeal: Appellate court may dismiss appeal if it considers there is no sufficient ground for interfering 
+d. Alter or reverse order: In an appeal from any other order, alter or reverse the order 
+
+S390(2) of CPC
+- Nothing in subsection (1) is to be taken to prevent the appellate court from making such other order in the matter as it may think just, and by such order exercise any power which the trial court might have exercised
+
+PP v Donohue Enilia 
+- Issue: Trial judge had made no compensation order and the current appeal is technically not “an appeal from any other order” => Could there still be an appeal against the trial judge’s refusal to grant a compensation order?
+- Held: Yes
+1. There could be an appeal against the court’s refusal to grant a compensation order 
+2. Opposite conclusion would be absurd as it would mean that an appeal would be possible if the Court awarded a manifestly inadequate amount of compensation but no appeal would be possible if the Court refused to grant any compensation 
+
+Power to alter charge 
+Appellate Court may frame altered charge if Appellate Court is satisfied there is sufficient evidence to constitute a case which accused has to answer
+S390(4) of CPC
+- Despite any provision in this Code or any written law to the contrary, when hearing an appeal against an order of acquittal or conviction or any other order, the appellate court may frame an altered charge (whether or not it attracts a higher punishment) if satisfied that, based on the records before the court, there is sufficient evidence to constitute a case which the accused has to answer
+
+Restriction: Appellate Court must be satisfied that evidence led in proceedings below would have been the same had the altered charge been presented from the beginning
+GDC v PP
+- Appellate court’s power to frame an altered charge must be exercised cautiously and be subject to careful observation of the safeguards against prejudice to the accused 
+- Test: Appellate court must be satisfied that the proceedings below would have taken the same course and that the evidence led would have been the same had the altered charge been presented at trial 
+a. Concerns over potential prejudice is more acute where initial conviction is the result of a trial and not because accused pleaded guilty => Because accused person might have conducted his defense in a particular way in response to the original charge => It might impact the evidence led by the accused person in Court 
+
+Restriction: Appellate Court must obtain PP’s consent if necessary  
+S390(5) of CPC
+- If the offence stated in the altered charge is one that requires the Public Prosecutor’s consent under section 10, then the appeal must not proceed before such consent is obtained, unless the consent has already been obtained for a prosecution on the same facts as those on which the altered charge is based.
+
+S10(1) of CPC
+- A prosecution for:
+a. An offence under section 172 to 188, 193 to 196, 199, 200, 205 to 211, 228, 376C, 376G or 505 of the Penal Code 1871;
+b. An offence under Chapter 5A, 6 (except section 127) or 18 of the Penal Code 1871;
+c. An offence under Chapter 21 of the Penal Code 1871; or
+d. An abetment of, or an attempt to commit, any offence mentioned in paragraphs (a), (b) and (c),
+must not be instituted except with the consent of the Public Prosecutor.
+
+Procedure after alteration of charge
+After alteration of charge => Appellant Court must ask accused if he intends to offer defense
+S390(6) of CPC
+- After the appellate court has framed an altered charge, it must ask the accused if the accused intends to offer a defence.
+
+If accused intends to offer defense => Appellate Court may order re-trial or hear submissions and convict accused on altered charge
+S390(7) of CPC
+- If the accused indicates that the accused intends to offer a defence, the appellate court may, after considering the nature of the defence:
+a. Order that the accused be tried by a trial court of competent jurisdiction; or
+b. Convict the accused on the altered charge (other than a charge which carries the death penalty) after hearing submissions on questions of law and fact and if it is satisfied that, based on its findings on the submissions and the records before the court, and after hearing submissions of the accused, there is sufficient evidence to do so.
+
+Accused is allowed to raise a new defense but must use evidence which had been led at trial 
+Mohd Suief bin Ismail v PP
+- Defendant is not precluded from relying upon a defence that is raised for the first time on appeal. 
+- However, in ascertaining whether or not an alternative defence raised by an accused person for the first time on appeal ought to be considered, the appellate court will have regard only to the evidence which had been led at the trial itself 
+
+If accused does not intend to offer defense => Appellate court may order re-trial or convict accused on altered charge if there is sufficient evidence based on existing records
+S390(8) of CPC
+- If the accused indicates that the accused does not intend to offer a defence, the appellate court may:
+a. Convict the accused on the altered charge (other than a charge which carries the death penalty) if it is satisfied that, based on the records before the court, there is sufficient evidence to do so; or
+b. Order that the accused be tried by a trial court of competent jurisdiction, if it is not satisfied that, based on the records before the court, there is sufficient evidence to convict the accused on the altered charge
+
+Appellate Court’s consideration when ordering a re-trial 
+Ng Chee Tiong Tony v PP
+1. Gravity of the charge & the facts: A court would be more inclined to order a retrial for a person charged, for example, for murder than one charged for littering. There is a greater public interest in ensuring that a person who has committed a serious offence is brought to justice as opposed to a less serious one.
+2. Likelihood of a successful prosecution in a retrial: A case in which the evidence is likely to result in a conviction upon retrial would be considered differently from one where the likelihood of a conviction is less certain. There is a greater public interest in remitting a strong case for retrial than a weak one.
+3. Prejudice suffered by the accused if a retrial is ordered: 
+a. In Ng Chee Tiong Tony v PP, re-trial was not ordered as it would cause accused to suffer prejudice:
+(i) The trial had taken six days spread over a five-month period. 
+(ii) Accused had been made to incur the expense of defending the charge for this period and has had this conviction hanging over his head for another eight months or so leading up to the appeal. 
+(iii) Furthermore, the learned trial judge had relied on evidence brought out by her questions to make findings of fact adverse to Ng that were material to her decision to convict him. 
+(iv) Had the learned trial judge not interfered in the proceedings, she would not have had the evidence to make those adverse findings. 
+(v) To order a retrial in these circumstances would mean that the PP would have a second bite of the cherry
+
+Restrictions on Powers of Appellate Court: In appeal against conviction 
+Limited power of review over trial judge’s findings of fact
+PP v Wang Ziyi Able 
+- General rule: Limited power of review over trial judge’s findings of fact especially those facts hinging on assessment of credibility and veracity of witness: Appellate Court has limited power of review over a trial judge’s findings of fact especially those hinging on the trial judge’s assessment of credibility and veracity of witnesses 
+- Exception: Power of review can be exercised over findings of facts shown to be plainly wrong or against evidence: Unless findings of fact can be shown to be plainly wrong or against the weight of the evidence
+
+Ordinary power of review over trial judge’s inferences of fact 
+PP v Wang Ziyi Able 
+- Appellate court is as competent as a trial judge to draw inferences of fact from actual findings which have been ascertained 
+
+Ordinary power of review over inferences of credibility from witness’ evidence/extrinsic evidence but NOT witness’ demeanor  
+PP v Wang Ziyi Able 
+- Appellate review over assessment of credibility is not constrained if based on: 
+a. Internal consistency in the content of the witness’s testimony 
+b. External consistency between content of witness’s testimony and extrinsic evidence 
+c. Inconsistencies, contradictions and improbabilities 
+- Appellate review over assessment of credibility is constrained if based on the witness’ demeanor => Because trial judge is presumed to have benefit of viewing and observing witnesses in Court but appellate court does not 
+
+Appellate court can disregard trial judge findings if no reasons are given 
+PP v Wang Ziyi Able 
+- Appellate court can disregard trial judge’s findings if trial judge does not give reasons for his belief 
+- E.g. Trial judge rejecting evidence of accused by simply stating he does not believe the accused
+- E.g. Trial judge refers generally to demeanor of witnesses without condescending to particulars 
+
+Restrictions on Powers of Appellate Court: In appeal against sentence
+Limited power of review over trial judge’s sentencing 
+PP v Kwong Kok Hing 
+- General rule: Limited power of review over trial judge’s sentencing: Appellate Court has limited scope for appellate intervention for sentences meted out by a lower Court 
+=> Reason: Sentencing is a matter of discretion and requires a delicate balancing of myriad considerations which are often plainly conflicting 
+- Exception: Power of review can be exercised if any conditions fulfilled: Appellate Court can only interfere with a sentence meted out by the trial judge if it was satisfied that: 
+a. Trial judge had made the wrong decision as to the proper factual matrix for sentencing; OR
+b. Trial judge had erred in appreciating the material before him; OR 
+c. Sentence was wrong in principle; OR 
+d. Sentence imposed was manifestly excessive or manifestly inadequate 
+
+Definition of “manifestly inadequate” 
+- Where sentence is said to be manifestly inadequate => Means that the sentence is unjustly lenient and requires substantial alterations rather than minute corrections to remedy injustice 
+
+Deference to sentencing judge’s discretion 
+- “The mere fact that an appellate court would have awarded a higher or lower sentence than the trial judge is not sufficient to compel the exercise of its appellate powers, unless it is coupled with a failure by the trial judge to appreciate the facts placed before him or where the trial judge’s exercise of his sentencing discretion was contrary to principle and/or law.”
+
+
+*CRIMINAL REVISION (SUPERVISORY FUNCTION, ON THE FACE OF IT, IT IS WRONG)
+Context
+- A criminal revision is filed for the GDHC to examine the correctness, legality, or propriety of any judgement, sentence or order recorded or passed by a State Court as well as the regularity of the proceedings before the State Court
+
+- While appeals can be pursued as of right, a criminal revision can be pursued only where serious injustice or palpable wrong is shown
+
+- S400 CPC: Gives GDHC overarching supervisory jurisdiction to correct any miscarriages of justice arising from misconception of law, irregularity of procedure, neglect of proper precautions, apparent harshness of treatment which has resulted in some injury to the due maintenance of law and order, or some undeserved hardship to individuals 
+
+- GDHC may exercise reversionary powers when hearing an appeal against conviction or sentence and even if a formal petition of revision has not been filed
+
+- GDHC may exercise reversionary powers at any time i.e. before trial, during trial, during ongoing appeal. However, in practice such applications are usually pursued at the conclusion of first instance proceedings. THERE IS NO TIME LIMIT
+
+Ramesh’s example:
+D pled guilty but said something in mitigation which qualified the plea (e.g. D carried the wooden stick for work purposes – this is a defence to the offence of carrying a weapon). However, the judge mistakenly allowed the guilty plea to go through to convict and sentence D to imprisonment. D can apply for criminal revision because the judge had erred in law by proceeding to convict him, instead of sending D for trial. The judgement convicting D was fundamentally wrong in law – cannot appeal against the conviction because D pled guilty, but D can apply for criminal revision
+
+Step 1: Procedure to file criminal revision 
+PP or accused must file petition for criminal revision in prescribed form and affidavit
+- Prescribed form: Form 70 of CPR Schedule 
+- Affidavit: Applicant has to file an affidavit accompanying Form 70 
+
+Step 2: Threshold for GDHC to exercise revisionary powers
+Applicant must satisfy the threshold: Show possible existence of a serious injustice for GDHC to exercise revisionary powers 
+Yunani bin Abdul Hamid v PP
+- Threshold: GDHC’s power of revision must be exercised sparingly, and the possible existence of a serious injustice must be present before the GDHC will exercise such powers 
+- E.g. of serious injustice:
+a. Where accused was pressured to plead guilty and did not genuinely have the freedom to choose between pleading guilty and pleading not guilty => However, if evidence before GDHC indicates that accused’s defense is hopeless or is doomed to fail even if he had pleaded not guilty and gone to trial, GDHC ought not to exercise its revisionary powers 
+b. Where accused has pleaded guilty but additional evidence before GDHC casts serious doubts as to the guilt of the accused
+
+Oon Heng Lye v PP
+- Revisionary jurisdiction of the court is to be sparingly exercised
+- There must be some error and material and serious injustice
+- Irregularity or otherwise noted from the record of proceedings must have resulted in grave and serious injustice
+- There must be something “palpably wrong in the decision that strikes at its basis as an exercise of judicial power” by the court below
+
+A common example of “serious injustice”: lower court imposes a sentence outside the prescribed punishment – this triggers the exercise of revisionary powers
+
+Jurisdiction of GDHC’s revisionary powers 
+Tee Kok Boon v PP 
+- GDHC only has revisionary powers over all subordinate courts
+- GDHC has no revisionary powers over: 
+* Decisions of the subordinate courts which has already been upheld on appeal by the GDHC
+* Decisions of another GDHC 
+- CA has no revisionary powers over GDHC 
+- It is of no consequence that the GDHC exercising revisionary powers comprises the same judges or different judges from the subordinate court 
+
+GDHC’s revisionary powers 
+1. Power to call for an examine State Court proceedings
+2. Powers under s401 
+
+Power to call for and examine State Court proceedings  
+Powers to call for and examine the record of State Court criminal proceedings as to two matters
+S400(1) of CPC
+GDHC has revisionary powers to call for and examine the record of any criminal proceedings before any State Court to satisfy itself as to
+* Correctness, legality or propriety of any judgement, sentence or order: The correctness, legality or propriety of any judgement, sentence or order recorded or passes
+* Regularity of proceedings: The regularity of those proceedings 
+
+Who can apply for GDHC to exercise revisionary powers?
+S400(1) of CPC 
+- GDHC may:
+* GDHC itself: On its own motion; OR
+* State Court: On the application of a State Court; OR 
+* PP: On the application of the PP; OR
+* Accused: On the application of the accused
+
+Party CANNOT make revision application if they can appeal against the judgement/sentence/order but had failed to do so => Unless application is in relation to certain matters
+S400(2) of CPC
+- No application may be made by any party under this section in relation to any judgment, sentence or order which the party could have appealed against but had failed to do so in accordance with the law
+- Unless the application is made
+a. Application is against failure of Court to impose sentence required by law: Against a failure by a court to impose the mandatory minimum sentence or any other sentence required by written law; or
+b. Application is against Court imposing sentence for which it is incompetent to impose: Against a sentence imposed by a court which the court is not competent to impose.
+
+Other powers under s401
+S401 of CPC 
+(1) Power to direct lower Court to make further inquiry into dismissal of complaint or discharge of accused: On examining a record under revision in this Division, the General Division of the High Court may direct the lower court to make further inquiry into a complaint which has been dismissed under section 152 or into the case of an accused who has been discharged
+(2) Powers under s383, s389, s390, s392: The General Division of the High Court may in any case, the record of proceedings of which has been called for by itself or which otherwise comes to its knowledge, in its discretion exercise any of the powers given by sections 383, 389, 390 and 392
+* S383: Stay of execution pending appeal 
+* S389: Arrest of respondent in certain cases
+* S390: Decision on appeal 
+* S392: Taking additional evidence 
+(3) GDHC must give parties adversely affected an opportunity to be heard before exercising powers under s401(1) and s401(2): The General Division of the High Court may not proceed under subsection (1) or (2) without first giving the parties adversely affected by the General Division of the High Court so proceeding an opportunity of being heard either personally or by advocate.
+(4) GDHC cannot convert acquittal into conviction: This section does not authorise the General Division of the High Court to convert an acquittal into a conviction.
+
+GDHC revisionary powers: GDHC can introduce fresh evidence for criminal revisions 
+- S401(2) of CPC provides that GDHC exercising revisionary powers can also exercise powers under s392 of the CPC which gives the GDHC power to take additional evidence 
+- When s392 of CPC is applies, the principles of Ladd v Marshall in PP v Mohd Ariffan bin Mohd Hassan will similarly apply 
+
+Power to revoke order of bail 
+PP v Yang Yin 
+- Application under s400 of CPC: Application for Court to exercise revisionary powers to revoke bail is under s400 of CPC 
+- Applicant also needs to show threshold of serious injustice: Applicant needs to show threshold i.e. that there was serious injustice with the grant of bail 
+ 
+Facts
+- PP made application under s400 of CPC seeking revision of order made by DJ offering bail to Yang Yin, the respondent
+- Bail was at the sum of $150k with one surety or $75k with two sureties 
+Held: Application for revision was allowed and order granting bail was revoked 
+1. Bail order is non-appealable (so cannot use appeal but revision under s400): Bail order is non-appealable as it is interlocutory in nature and is not a “judgement, sentence or order” under s374(1) of s377 of CPC because it lacks the requirement of finality 
+2. Bail order can be revised: Bail order is covered under “judgement, sentence or order” under s400 of CPC as there is no requirement for finality => Bail order granted by State Courts is liable for revision by the GDHC if the applicant can satisfy the high threshold of serious injustice for the GDHC to exercise revisionary powers
+3. GDHC found that there was serious injustice and revoked bail
+a. DJ erred in burden of proof: Respondent was charged with a non-bailable offense under s477A of PC where bail is not available as of right. The onus should be on the respondent to show that bail should nonetheless be extended to him. DJ erroneously place burden of proof on the PP. 
+b. DJ placed little weight on the fact that the bail money was not from sureties in Singapore but channelled from Respondent’s parents who are residing in China => Respondent could have in effect paid for his freedom i.e. pay the bail money and abscond because the provision of funds from his parents could very well have come from the respondent himself 
+
+Power to call for and examine CCDC orders 
+- Context: s374(5) CPC states that no appeal can be made against any order made in CCDC => To challenge an order made in CCDC, a criminal revision must be filed instead
+
+Powers to call for and examine the CCDC orders as to two matters 
+S404(1) of CPC
+- GDHC may call for and examine the record of any CCDC held under Part 9 or 10 before a Magistrate, a District Judge, Registrar of State Courts or Registrar of Supreme Court to satisfy itself as to: 
+* Correctness, legality or propriety of any CCDC order: The correctness, legality or propriety of any order recorded or passed at the CCDC and
+* Regularity of any CCDC: The regularity of the CCDC 
+
+Powers to affirm, vary or set aside any CCDC order
+S404(3) of CPC
+- On examining a record under revision in this Division, the General Division of the High Court may affirm, vary or set aside any of the orders made by the Magistrate, District Judge, Registrar of the State Courts or Registrar of the Supreme Court (as the case may be) who presided over the criminal case disclosure conference
+
+GDHC must give parties opportunity to heard before affirming, varying or setting aside CCDC order
+S404(4) of CPC 
+- The General Division of the High Court may not proceed under subsection (3) without first giving the parties adversely affected by the General Division of the High Court so proceeding an opportunity of being heard either personally or by advocate.
+
+S404(5) of CPC
+- Where a case is revised under this Division, the General Division of the High Court must certify its decision or order to the Magistrate, District Judge, Registrar of the State Courts or Registrar of the Supreme Court (as the case may be) who recorded or passed the order at the criminal case disclosure conference and that Magistrate, District Judge, Registrar of the State Courts or the Registrar of the Supreme Court (as the case may be) must make the requisite orders to give effect to the decision or order.
+
+Who can apply for GDHC to exercise revisionary powers over CCDC?
+S404(1) of CPC 
+- GDHC may:
+* GDHC itself: On its own motion; OR
+* PP: On the application of the PP; OR
+* Accused: On the application of the accused
+
+Step 1: Procedural matters which applicant must satisfy 
+PP or accused must file petition for criminal revision in prescribed form and affidavit
+- Prescribed form: Form 71 of CPR Schedule 
+- Affidavit: Applicant has to file an affidavit accompanying Form 71
+
+PP or accused must file petition within 7 days from date of order recorded or passed at CCDC 
+S404(2) of CPC
+- Any application by the Public Prosecutor or the accused under subsection (1) must be made within 7 days from the date of the order so recorded or passed at the criminal case disclosure conference to which the application relates
+
+Step 2: Applicant must satisfy threshold for GDHC to exercise powers of revision over CCDC orders
+PP v Li Weiming 
+- Threshold: For GDHC to revise orders made at CCDC under s404 of CPC, applicant must show existence of serious injustice (same as s401)
+=> Reason: Parliament’s intention must have been to subsume the GDHC’s revisionary powers at CCDCs under the umbrella of the GDHC’s paternalistic revisionary jurisdiction. Parliament did not intend to grant an independent and separate power to the GDHC to conduct a de novo review of the merits of CCDC orders
+- Principles when applying threshold: 
+1. CCDC orders involved some measure of administrative discretion exercised within the context of the entire CCDC process and GDHC ought to accord some latitude to that 
+2. CCDC orders might be interlocutory by nature and what may constitute substantial injustice must be viewed in light of this and it need not necessarily have a considerable or immediate bearing on the actual merits of the case 
+3. When considering whether CCDC orders result in substantial injustice, Court should have regard to: 
+(i) Yardsticks of fairness and natural justice 
+(ii) Whether CCDC orders would severely undermine the statutory purpose of the CCDC in assisting parties to prepare adequately for their cases before trial 
+
+
+*CRIMINAL MOTIONS (NOT STANDALONE)
+Context 
+- Criminal motions are for seeking ancillary relief to support the conduct of a primary criminal action (Amarjeet Singh v PP) --> such applications are FUNDAMENTALLY TETHERED to the conduct of the main trial, appeal or application for revision. 
+- A primary criminal action is a proceeding or action that invokes the original, appellate or revisionary criminal jurisdiction of the court
+- It is not uncommon (i.e. common) for criminal motions to be heard together with appeals
+- Criminal motions CANNOT be a means for parties to circumvent the general rule against appeals for interlocutory or procedural rulings
+- E.g. of criminal motions: Applications to High Court to – 
+a. Grant bail (while waiting for appeal) where lower court has refused bail
+b. Adduce additional evidence on appeal – there is already an existing appeal, so appellate court can consider the fresh evidence
+c. Extend time for filing of Notice of Appeal or Petition of Appeal 
+
+Purpose of criminal motions 
+Amarjeet Singh v PP 
+- Purpose of criminal motions: A mode of process primarily invoked when seeking a form of relief that is ancillary to or supportive of the conduct of a primary criminal action 
+a. Primary criminal action: Action that invokes original, appellate or revisionary criminal jurisdiction of the Court 
+- E.g. of criminal motions 
+a. Seeking extension of time to file Notice of Appeal => Applicant must make criminal motion to appellate court
+b. Seeking leave to adduce further evidence in support of application for revision => Applicant must make criminal motion to GDHC exercising revisionary power 
+
+Step 1: Applicant must serve notice of criminal motion (with affidavit) on other party in prescribed form 
+Applicant must serve notice of criminal motion on other party
+S406(1) of CPC
+- A motion must not be made without previous notice to the other party to the proceedings
+
+Prescribed form of notice of motion depends on the matter + Notice of motion *must be supported by affidavit sealed by Registry Officer 
+S407 of CPC
+(1) Prescribed form of notice of motion: The notice of a criminal motion must be in the prescribed form.
+(2) The notice of a criminal motion must be:
+a. Supported by affidavit: Supported by an affidavit setting out a concise statement of the facts, the relief or remedy required and the reasons for the relief or remedy; and --> CAN BE AFFIDAVIT OF D, COUNSEL OR A FRESH WITNESS, TO SHOW THE COURT THE BACKGROUND (WHY D SHOULD BE GIVEN BAIL, SIGNIFICANCE OF FRESH EVIDENCE, WHY WAS FRESH EVIDENCE NOT AVAILABLE EARLIER ETC.)
+b. Sealed by Registry officer: Sealed by an officer of the Registry of the Supreme Court.
+
+Example of prescribed forms
+- Form 72: Notice of Criminal Motion for general applications 
+- Form 73: Notice of Criminal Motion (Variation of bail) 
+- Form 74: Notice of Criminal Motion (Extension of Time)
+- Form 75: Notice of Criminal Motion (Adduction of Further Evidence) 
+
+Step 2: Criminal motion hearing will be held at least 7 days after service of notice of criminal motion unless relevant Court gives permission to the contrary or each party served consents --> criminal motion hearing must be after 7 days
+S406(2) of CPC
+- There must be at least 7 clear days between the service of the notice of a criminal motion and the day named in the notice for hearing the motion, unless:
+a. The relevant court gives permission to the contrary; or
+b. Each party required to be served with the notice consents to the relief or remedy that is sought under the motion.
+
+Consequences of improper criminal motions: Adverse costs orders 
+Court on its own motion or Respondent can apply to Court => Show that criminal motion was frivolous/vexatious/abuse of process => Court can order adverse costs orders on applicant
+S409 of CPC
+- If the relevant court dismisses a criminal motion and is of the opinion that the motion was frivolous or vexatious or otherwise an abuse of the process of the relevant court, it may, either on the application of the respondent or on its own motion, order the applicant of the criminal motion to pay to the respondent costs on an indemnity basis or otherwise fixed by the relevant court
+
+Examples of abuse of process
+Amarjeet Singh v PP
+- Using criminal motions to circumvent procedural safeguards that apply to certain OAs, appeals or revisions
+- Using criminal motions to circumvent general rule forbidding appeals against interlocutory or procedural rulings 
+- If criminal motion constitutes primary action invoking or purporting to invoke Court’s criminal jurisdiction 
+- If criminal motion is for seeking specific reliefs incidental to or supportive of a primary action invoking the original, appellate or revisionary criminal jurisdiction of the Court 
+
+However, precedent cases appeared to have allowed use of criminal motions to bypass the need to secure leave to commence actions for judicial review 
+a. Ramalingam – Accused applied for criminal motion that capital charge against him to be amended to non-capital charges on the ground that the AG had exercised prosecutorial discretion contrary to Art 12 of the constitution => Criminal motion to challenge constitutionality of AG’s exercise of prosecutorial discretion which should ordinarily require leave for JR  
+b. Yong Vui Kong – Accused also applied for criminal motion to challenge constitutionality of AG’s exercise of prosecutorial discretion => Criminal motion was not ancillary or incidental to any primary criminal action and ordinarily, such criminal motions are actually JR applications which fall under the Court’s supervisory civil jurisdiction 
+
+
+*Ancillary Proceedings/Matters: Disposal of Property 
+- Propriety of police’s exercise of power to seize property 
+
+S35 CPC: POLICE POWER TO SEIZE PROPERTY 
+Police has powers to seize relevant property 
+S35(1) of CPC
+- A police officer may seize, or prohibit the disposal of or dealing in, any property:
+a. Property in respect of which an offense is suspected to be committed: In respect of which an offence is suspected to have been committed;
+b. Property suspected to have been used/intended to be used for offense: Which is suspected to have been used or intended to be used to commit an offence; or
+c. Property suspected to be evidence of offense: Which is suspected to constitute evidence of an offence.
+
+Scope of “relevant property” includes 
+S35(9) of CPC 
+- Property in respect of which an offence is suspected to have been committed and property which is suspected to have been used or intended to be used to commit an offence include:
+a. Includes property originally in possession or control of any person: Such property as was originally in the possession or under the control of any person;
+b. Includes any other property traceable to the relevant property: Any property into or for which the property which was originally in the possession or under the control of any person has been converted or exchanged and anything acquired by such conversion or exchange, whether immediately or otherwise; and
+c. If relevant property is money in bank account – Includes (1) Any interest, (2) Other earnings on bank account, (3) Any payment credited to bank account after date which offense is suspected to have been committed or date which property is suspected to have been used/intended to be used to commit offense: If the property mentioned in paragraph (a) or (b) is money kept in an account in a financial institution, any interest or other earnings on such account or any other payment which is credited into such account after the date:
+(i) On which the offence is suspected to have been committed; or
+(ii) On which the property is suspected to have been used or intended to be used to commit an offence
+
+Definition of “police officer”
+S35(10) of CPC 
+- A reference to a police officer in this section includes a reference to a forensic specialist acting in the course of his or her duty as such in accordance with the written authorisation of the Commissioner under the Police Force Act 2004 and the lawful directions of the police officer he or she assists.
+
+Police officer power overwrites any other restriction 
+S35 of CPC
+(1) A police officer may exercise the powers conferred under this section despite any provision in any other law relating to the seizure of, or the prohibition of any disposal of or dealing in, any property.
+
+Special Scenario: Where relevant property is held in a bank 
+Police officer can direct bank act 
+S35(2) of CPC 
+- If the property liable to be seized under subsection (1) is held or suspected to be held in an account or a safe deposit box in a financial institution, a police officer of or above the rank of inspector may, by written order:
+a. Police can direct bank to deliver property in bank account to police officer: Direct the financial institution to deliver the property to any police officer; or
+b. Police can direct bank to freeze dealings in respect of the property in the bank account: Direct the financial institution not to allow any dealings in respect of the property in such account or safe deposit box for such period as may be specified in the order
+
+If police directs bank to deliver property in bank account to police officer => Police officer must make report of receipt as soon as reasonably practicable 
+S35(3) of CPC
+- A police officer to whom any property has been delivered under subsection (2)(a) must, as soon as is reasonably practicable, make a report of his or her receipt of the property at a police station.
+
+If police directs bank to freeze dealings of relevant property in bank account => Interest or earnings can still be credited to bank account 
+S35(5) of CPC
+- Where any property held in an account in a financial institution is subject to a written order made by a police officer under subsection (2)(b):
+a. Does not affect interest or earnings credited to bank account after direction: Any interest or other earnings on the account, or any other payments, may be credited into the account after the date on which the written order was made; and
+b. Any interest or earnings credited are subject to same direction: Any such interest, other earnings or payments are deemed to be subject to that same written order.
+
+Consequences of bank’s non-compliance 
+S35(6) of CPC
+- Any financial institution which contravenes an order made under subsection (2)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000.
+
+Person prevented from dealing with relevant property in bank account can apply to Court for release of police’s directions over bank account
+S35(7) of CPC
+- A court may:
+a. Subsequent to an order of a police officer made under subsection (2); and
+b. On the application of any person who is prevented from dealing with property, order the release of the property or any part of the property.
+
+Court’s considerations when releasing bank account 
+S35(8) of CPC
+- The court may only order a release of property under subsection (7) if it is satisfied that:
+a. Release necessary for payment of basic expenses: Such release is necessary for the payment of basic expenses, including any payment for foodstuff, rent, the discharge of a mortgage, medicine, medical treatment, taxes, insurance premiums and public utility charges;
+b. Such release is necessary exclusively for:
+(i) Release necessary for payment of legal fees: The payment of reasonable professional fees and the reimbursement of any expenses incurred in connection with the provision of legal services; or
+(ii) Release necessary for payment of fees or service charges for holding or maintenance of property in bank: The payment of fees or service charges imposed for the routine holding or maintenance of the property which the person is prevented from dealing in;
+c. Release necessary for payment of extraordinary expenses: Such release is necessary for the payment of any extraordinary expenses;
+d. Release necessary to satisfy another judgement provided judgement was entered into before s35(2)(b) order was made: The property is the subject of any judicial, administrative or arbitral lien or judgment, in which case the property may be used to satisfy the lien or judgment, provided that the lien or judgment arose or was entered before the order was made under subsection (2)(b); or
+e. Release for Singapore-incorporated company’s day-to-day operations: Such release is necessary, where the person is a company incorporated in Singapore, for any day?to?day operations of the company
+
+IMPORTANT: Note s370 obligation on police who has seized property to make a report by a certain time 
+
+S78 CPC: POLICE POWER TO SEARCH ARRESTED PERSON AND PREMISES (WHEN INVESTIGATING ARRESTABLE OFFENSE)
+When person arrested under warrant/without warrant + Person cannot take bail/unable to take bail => Police officer can search person and place in custody articles found on the person 
+S78 of CPC
+(1) Whenever:
+a. Person arrested under warrant + No bail: A person is arrested by a police officer under a warrant which does not provide for the taking of bail or under a warrant which provides for the taking of bail but the person arrested cannot furnish bail; or
+b. Person arrested without warrant + No bail: A person is arrested without warrant by a police officer or a private person under a warrant and the person arrested cannot legally be admitted to bail or is unable to furnish bail,
+Police officer can search person arrested and place in custody articles found on person arrested: the police officer making the arrest or, when the arrest is made by a private person, the police officer to whom the private person hands over the person arrested, may search the person arrested and place in safe custody all articles other than necessary wearing apparel found upon him or her
+
+When police investigating arrestable offense => Police officer can enter any place under control of person under arrest in connection with offense/reasonably believed to be connected with offense/reasonable believed to give shelter to person under arrest + Police can search place for evidence
+(2) Police officer investigating arrestable offense: A police officer investigating an arrestable offence under Part 4 may:
+a. Enter any place under control of person who: Enter any place belonging to or under the control of any person who:
+(i) Under arrest in connection with offense: Is under arrest in connection with the offence;
+(ii) Reasonably believed to be connected with offense: Is reasonably believed to be connected with the offence; or
+(iii) Reasonable believed to give shelter to person arrested: Is reasonably believed to have given shelter to the person under arrest; and
+b. Search place for evidence of offense: Search the place for any evidence of the offence
+
+Arrestable offenses under Part 4
+- First Schedule 3rd Column of CPC 
+
+IMPORTANT: Note s370 obligation on police who has seized property to make a report by a certain time 
+
+S370 CPC: PROCEDURE FOR SEIZURE OF RELEVANT PROPERTY (ONLY APPLICABLE WHEN POLICE INVESTIGATIONS ARE ONGOING AND TRIAL HAS NOT BEGUN) --> DOES THE POLICE HAVE POWER TO CONTINUE SEIZING PROPERTY?
+Preliminary: s370 of CPC only applies when police investigations are ongoing, and trial has not begun 
+Mustafa Ahunbay v PP
+- S370 of CPC is only operative at the stage of investigations and where no further action has yet to be taken by the police to commence an inquiry or a trial 
+- If inquiry or trial has commenced, the relevant provision for disposal of property is s364
+
+Preliminary: s370 of CPC applies where Law Enforcement Officer makes a seizure of property under s35 of s78 of CPC 
+
+Step 1: After police officer seizes relevant property under s35 or s78 CPC, he must make report of seizure to Magistrates Court at earlier of time when police officer considers property to be no longer relevant OR one year after date of seizure 
+S370(1) of CPC
+- Make report of seizure to relevant Court at earlier of: If a law enforcement officer seizes any property in the exercise of any power under section 35 or 78, the law enforcement officer must make a report of the seizure to the relevant court at the earlier of the following times:
+a. When law enforcement officer considers property irrelevant to investigation or trial: When the law enforcement officer considers that the property is not relevant for the purposes of any investigation, inquiry, trial or other proceeding under any written law;
+b. One year after date of seizure: One year after the date of seizure of the property.
+
+The requirement to report a seizure is made MANDATORY and NOT merely directory, for sound policy reasons:
+a. Mandatory and prompt reporting ensures safe custody of property once MC takes cognisance of seizure, and
+b. Prevents such property from being wrongfully detained, used, appropriated or disposed of
+
+Failure to report seizure altogether will deprive police of power to retain legal control and/or custody of the seized property, except with the consent of the MC.
+
+Definition of “law enforcement officer”
+S370(6)
+- “law enforcement officer” means:
+a. A police officer;
+b. An officer of the Central Narcotics Bureau;
+c. An immigration officer appointed under section 3 of the Immigration Act 1959;
+d. A Commercial Affairs Officer appointed under section 64 of the Police Force Act 2004;
+e. A public officer appointed as the Director, a deputy director, an assistant director or a special investigator of the Corrupt Practices Investigation Bureau; or
+f. Any other officer, of a prescribed law enforcement agency;
+
+Definition of “relevant court”
+S370(6)
+- “relevant court” means:
+a. In any case where the property was seized for the purposes of a particular inquiry, trial or proceeding — the court before which that inquiry, trial or proceeding is held; or
+b. In any other case, a Magistrate’s Court.
+
+S370(4)
+- Where the relevant court is not a Magistrate’s Court, the relevant court may, instead of making an order under subsection (2), direct that the property be delivered to a Magistrate, who must deal with the property in accordance with subsection (2) as if the report mentioned in subsection (1) was made to a Magistrate’s Court
+
+Step 2: After receiving report of seizure, Magistrate Court must afford all affected parties with a right to be heard 
+Mustafa Ahubay v PP
+- S370(3) of CPC requires Magistrate Court to exercise a judicial function and the Magistrate Court will be expected to hear all relevant parties 
+- As a matter of fairness and justice, where the interests of a party would be affected by the decision of Court, he should be afforded an opportunity to make representations 
+- Note: s370(2) does not restrict the right to be heard to only persons who are entitled to possession of the seized property => All persons who would be affected by the disposal order e.g. people with security interest are entitled to be heard 
+
+Guidelines for Court to determine if person has interest in the property 
+Mustafa Ahubay v PP
+- The nature and type of interest claimed in the seized property; 
+- Where there are claims by multiple parties, the relationship between each party claiming an interest in the property; and 
+- Whether documentary evidence of the interest in property is normally available, and if so, whether such evidence is produced.
+
+Step 3: Magistrate Court must make certain orders relating to the relevant property 
+S370(2) of CPC
+- Subject to subsection (3), and to any provisions on forfeiture, confiscation, destruction or delivery in any other written law under which property may be seized, the relevant court must, upon receiving a report mentioned in subsection (1), make such of the following orders as may be applicable:
+a. If relevant property consists of computer and data in computer + Offense committed in respect of data/Data used to commit offense/Data intended to commit offense: In any case where the property consists of a computer and any data stored in the computer, and the relevant court is satisfied that an offence was committed in respect of the data, or that the data was used or intended to be used to commit an offence — an order for:
+(i) Order for deletion of data and after deletion, delivery of computer to person entitled to possession of computer: The deletion of the data from the computer, and the delivery of the computer (after the deletion of the data) to the person entitled to possession of the computer; or
+(ii) If owner cannot be identified – Order for deletion of data and custody and production of computer: If that person cannot be ascertained, the deletion of the data from the computer, and the custody and production of the computer (after the deletion of the data);
+b. Relevant court satisfied that offense committed in respect of property/property used to commit offense/property intended to commit offense => Any order for disposal of property: In any case where the relevant court is satisfied that an offence was committed in respect of the property, or that the property was used or intended to be used to commit an offence — such order as the relevant court thinks fit for the disposal of the property;
+c. Any property traceable to relevant property => Any order for disposal of traceable property: In any case where the relevant court is satisfied that the property consists of anything into which any property mentioned in paragraph (b) has been converted, anything for which any property mentioned in paragraph (b) has been exchanged, or anything acquired (whether immediately or later) by this conversion or exchange — such order as the relevant court thinks fit for the disposal of the property;
+d. Property not (a), (b) and (c) + Person entitled to property consents to use of property as compensation/restitution/forfeiture => Any order to carry that out: In any case where the relevant court is satisfied that the property does not consist of any property mentioned in paragraph (a), (b) or (c), and the person entitled to possession of the property consents to the use of the property for compensation or restitution, or to the forfeiture of the property — such order as the relevant court thinks fit for the disposal of the property;
+e. In any other case, an order relating to:
+(i) Any order delivering property to person entitled to possession: The delivery of the property to the person entitled to possession of the property; or
+(ii) If owner cannot be identified – Custody and production of relevant property: If that person cannot be ascertained, the custody and production of the property
+
+*Step 4: Magistrate Court must not dispose of relevant property in certain circumstances
+S370(3) of CPC 
+- The relevant court must not dispose of the property if:
+a. Circumstance 1: There are pending court proceeding in relation to relevant property: There is any pending court proceeding under any written law in relation to the property; or
+b. Circumstance 2: Relevant property is relevant for purpose of investigation or trial: The relevant court is satisfied that the property is relevant for the purposes of any investigation, inquiry, trial or other proceeding under any written law
+
+Factors to be considered by the Court in s370(3) determination 
+- Mustafa Ahunbay v PP
+- Rajendar Prasad Rai v PP
+
+Applicability of s370
+S370(5)
+- On and after 31 October 2018:
+a. This section applies to any property seized or taken before that date, under section 370(1) of this Code as in force immediately before that date, or under section 35 or 78 — if no Magistrate’s Court has exercised, in relation to that property, any power under section 370 of this Code as in force immediately before that date;
+b. This section applies to any report made before that date, under section 370(1) of this Code as in force immediately before that date, of the seizure of any property, as if that report had been made under subsection (1) — if no Magistrate’s Court has exercised, in relation to that property, any power under section 370 of this Code as in force immediately before that date; and
+c. Section 370 of this Code as in force immediately before that date continues to apply, in every case where a Magistrate’s Court has exercised before that date any power under that section, as if this section had not been enacted.
+
+BES364 CPC: POWER OF COURT TO MAKE CERTAIN ORDERS IN RESPECT OF PROPERTY SEIZED, DURING OR AFTER TRIAL (ONLY APPLICABLE WHEN TRIAL HAS BEGUN) 
+Preliminary: s364 of CPC only applies when trial has begun (cf s370 for investigation stage)
+Mustafa Ahunbay v PP
+- S370 of CPC is only operative at the stage of investigations and where no further action has yet to be taken by the police to commence an inquiry or a trial 
+- If inquiry or trial has commenced, the relevant provision for disposal of property is s364
+
+Disposal Orders
+- Forfeiture 
+- Confiscation 
+- Destruction 
+- Delivery to any person 
+
+Step 1: During or at conclusion of inquiry or trial, Court can order the disposal of any property produced before it 
+S364(1) of CPC 
+- During or at the conclusion of any inquiry or trial under this Code, the court may make an order as it thinks fit for the disposal of any property produced before it.
+
+NB: the court possesses a relatively wide discretion
+
+Step 2: Identifying the property – Court can make orders for disposal for any relevant property or property seized under any law 
+S364(2) of CPC
+- Subject to any provisions on forfeiture, confiscation, destruction or delivery in any other written law under which property may be seized, a court may, during or at the conclusion of any criminal proceeding under this Code, make an order as it thinks fit for the disposal of any property:
+a. Relevant property – (1) Property in respect of which offense was alleged to have been committed (2) Property used or intended to be used for commission of offense (3) Property which constitutes evidence of offense AND: In respect of which an offence is or was alleged to have been committed or which has been used or is intended to have been used for the commission of any offence or which constitutes evidence of an offence; and
+b. Which is produced before the Court, in the Court’s custody or custody of police: Which is produced before the court or is in the court’s custody or the custody of a police officer or any other person who has seized the property pursuant to any law.
+
+Definition of “property”
+S364(4)
+- In this section, “property” includes not only property that was originally in the possession or under the control of a party to the case, but also property into or for which it has been converted or exchanged and anything acquired by this conversion or exchange, whether immediately or later.
+
+Step 3: Restrictions on Court’s power to order disposal of property – If any express provisions on forfeiture apply then the Court will have no discretion to decide what to do with the property 
+S364(2) CPC
+- Court’s power to order disposal of property is restricted by any express provisions on forfeiture, confiscation, destruction or delivery of the property in any other written law 
+
+Magnum Finance Bhd v PP
+1. If statute stipulates in clear and unambiguous terms that forfeiture is mandatory => Court cannot exercise any discretion and no disposal inquiry can be held => Property will be forfeited 
+2. If statute stipulates that forfeiture is discretionary => Court can exercise discretion to decide if property will be forfeited and hold disposal inquiry 
+3. If statute does not deal with the issue of disposal of property used or concerned in any offense => s364(2) applies => Court can exercise discretion to decide if property will be forfeited and hold disposal inquiry 
+
+E.g. of mandatory forfeiture: 
+- “s123(2) Customs Act: “An order for the forfeiture of goods shall be made if it is proved to the satisfaction of the court that an offence under this Act has been committed and that the goods were the subject matter of, or were used in the commission of, the offence, notwithstanding that no person may have been convicted of the offence.”
+
+Step 4: If case has an appeal, any order for disposal of property in the case can only be carried out after appeal has lapsed or has been dealt with
+S364(3) CPC – similar to s370(3) CPC for investigation stage
+- If an order is made under this section in a case in which an appeal lies, the order must not, except where the property is perishable, be carried out until the period allowed for the appeal has lapsed or the appeal has been dealt with.
+
+Step 5: If restrictions do not apply, => Look at 4 different disposal orders. Court will have discretion under s364(2) to decide  
+The court has wide discretion and the appropriate disposal order is heavily predicated on common sense, for example:
+- Items belonging to innocent party (victim, complainant, witness), likely order for delivery or return
+- Items used in commission of offence, likely order for forfeiture for the purpose of destruction
+- Was there a direct link?
+
+When Court has discretion to make disposal orders => PP and Defense will make submissions over whether the property should be forfeited or returned to the property owner 
+Magnum Finance Bhd v PP
+1. If statute stipulates in clear and unambiguous terms that forfeiture is mandatory => Court cannot exercise any discretion and no disposal inquiry can be held => Property will be forfeited 
+2. If statute stipulates that forfeiture is discretionary => Court can exercise discretion to decide if property will be forfeited and hold disposal inquiry 
+3. If statute does not deal with the issue of disposal of property used or concerned in any offense => s364(2) applies => Court can exercise discretion to decide if property will be forfeited and hold disposal inquiry 
+
+Principle 1: Burden of proof is on PP to show that forfeiture is appropriate 
+Magnum Finance Bhd v PP
+- Onus is on PP to show that forfeiture will be appropriate in the circumstances of each case
+- There is no principle that dictates that forfeiture must be ordered unless good reasons for not doing so are shown by the opposing party 
+
+Principle 2: Factors governing Court’s exercise of discretion under s364(2) 
+Magnum Finance Bhd v PP
+- Factors considered by the Court 
+a. Whether property was owned by offender and if not, the degree of the property owner’s complicity 
+(i) Whether property owner connived, participated or had Nelsonian knowledge of the property being used to commit the offense 
+b. Whether person could have reasonably taken any preventive measures regarding the use of the item in the commission of the offense
+c. Considering the value of the property, whether forfeiture is proportionate to the gravity of the offense and maximum penalty prescribed
+d. Need for deterrence 
+(i) Where property belongs to the accused or to someone tainted with complicity 
+(ii) E.g. if accused steals someone’s car to commit offense, the car owner is innocent and there is no reason to forfeit the car 
+e. Extent of use of the property in commission of offense 
+(i) Whether property was used on several occasions for the illegal purpose
+f. Whether property owner benefited from the commission of the offense 
+g. Whether the property owner had knowledge of the use of the property in the commission of the offense 
+
+Step 6: When there are competing claims to the property, Court can hold disposal inquiry to settle the competing claims => Court likely return property to legal owner with good title but whatever grievances should be settled between parties in civil proceedings 
+
+Parties have no right of appeal against orders made in disposal inquiry  
+Magnum Finance Bhd v PP
+- There is no right of appeal against an order made pursuant to a disposal inquiry 
+
+Parties should use petition for criminal revision to “appeal” but only if there are fundamental errors of law committed in the disposal inquiry which have occasioned a clear failure of justice 
+Magnum Finance Bhd v PP
+- Court suggested that the appropriate course of action for an aggrieved party is to start a petition for revision => But also cautioned that a revisionary Court will only exercise its powers if it is shown that there are fundamental errors of law which have occasioned a clear failure of justice 
+
+Court’s revisionary powers are limited in disposal inquiries 
+Wang Wang Pawnshop Pte Ltd v K J Tiffany 
+a. Judge presiding over disposal inquiry is given a wide measure of discretion to make orders as he thinks fit and he is often handicapped by the fact that there is a lack of procedure for proper discovery or inspection of documents => Judge often has to do justice in a “rough and ready” fashion 
+b. If parties bring criminal revisions to orders made in disposal inquiries, they will be re-canvassing the same issues before a revisionary Court and this time on a basis of scarce evidence 
+
+Parties should use civil proceedings to resolve their grievances with each other if there is no fundamental error of law to justify a petition for criminal revision 
+Wang Wang Pawnshop Pte Ltd v K J Tiffany 
+- Where there are no fundamental errors of law, aggrieved parties should commence civil proceedings instead of using a petition for criminal revision 
+- Disposal inquiry orders are not binding in a civil court and a rightful legal owner can should be able to assert his rights by commencing a civil suit 
+
+Interaction between s364 and s370
+- S370:
+a. Meant to be a statutory check to hold the police accountable for property seized during investigations => Court will be the check and balance on police powers because police must make report to the Court 
+b. If the property is no longer relevant for investigations or any possible trial, Court must make certain orders to dispose of property  
+c. When trial begins, s370 does not operate anymore and s364 operates instead
+- S364: 
+a. Meant to operate during or at the conclusion of trial => Court will have to deal with the relevant property 
+
+If Court makes orders to deliver relevant property to person entitled to the relevant property => Procedure to deliver 
+Procedure when person entitled to property is known
+S371 of CPC 
+(1) If person entitled to property is known => Relevant Court serve notice on that person => Person must take delivery of property within specified period => Specified period must be at least 48 hours after service: If the person entitled to the property mentioned in section 370 is known, the relevant court must cause a notice to be served on that person instructing that person to take delivery of the property within the period specified in the notice which must be at least 48 hours after the date of service of the notice.
+(2) Section 116 applies as nearly as may be practicable to the procedure governing the service of the notice mentioned in subsection (1) as if a summons were a notice.
+(3) If person fails to take delivery => Relevant Court can sell property 1 month after expiry of specified period: If the person entitled to the property mentioned in section 370 fails to take delivery of the property within the period specified in the notice mentioned in subsection (1), the relevant court may, after one month from the expiry of that period, cause the property to be sold.
+(4) If property is perishable or cost less than $500 => Relevant Court can sell property at any time: Despite the other provisions in this section, if the property is perishable or if, in the opinion of the relevant court, its value is less than $500, the relevant court may cause the property to be sold at any time.
+(5) Net proceeds can be paid on demand to person entitled: The relevant court must cause the net proceeds of the sale under subsection (3) or (4) to be paid, on demand, to the person entitled.
+=> Note: 
+a. s370(2)(a)(i) => S371
+b. s370(2)(e) => s371
+
+Procedure when person entitled to property is unknown 
+S372 of CPC 
+(1) If person entitled to property is unknown => Relevant Court direct property be detained in police custody => Police must issue public notice => Notice require any person who has a claim to appear before police and establish claim within 6 months of date of public notice: If the person entitled to the property mentioned in section 370 is unknown or cannot be found, the relevant court may direct that it be detained in police custody and the Commissioner of Police must, in that case, issue a public notice, specifying the articles of which the property consists and requiring any person who has a claim to it to appear before the Commissioner of Police and establish the person’s claim within 6 months from the date of the public notice.
+(2) If relevant property at least $1k => Notice must be published in Gazette or any daily newspaper: Every notice under subsection (1) must be published in the Gazette or any daily newspaper if, in the opinion of the Commissioner of Police, the value of the property is at least $1,000.
+(3) If nobody establishes claim within 1 month after publication => Police can order to sell property: If no person establishes a claim to the property within one month from the publication of a notice under subsection (1) and if the person in whose possession the property was found cannot show the person had legally acquired it, then the property may be sold on the order of the Commissioner of Police.
+(4) If property is perishable or worth less than $1k or if it is inconvenient and expensive to keep => Police can order to sell property: Despite subsection (3), if property detained in police custody under this section is perishable or is, in the opinion of the Commissioner of Police, worth less than $1,000, or if keeping it involves unreasonable expense or inconvenience, then the property may be sold at any time and this section applies, as nearly as may be practicable, to the net proceeds of the sale.
+(5) If nobody establishes claim within 6 months after publication => Property/net proceeds vest in Government: If no person has established a claim to the property within 6 months from the publication of the notice mentioned in subsection (1), the ownership of the property or (if sold) its net proceeds pass to and vest in the Government absolutely.
+(6) If person establishes claim within 6 months after publication + Property has been sold => Property entitled to net proceeds: If a person establishes the person’s claim to the property within 6 months from the publication of the notice mentioned in subsection (1), and the property has already been sold by the Commissioner of Police, that person is only entitled to the net proceeds.
+(7) Relevant Court can order property to be destroyed: In respect of property to which the person entitled is unknown or cannot be found, the relevant court may order the property to be destroyed or otherwise disposed of at any time if in its opinion:
+a. The property is of no appreciable value; or
+b. Its value is so small as to:
+(i) Make its sale impracticable; or
+(ii) Make the keeping of it in police custody unreasonably expensive or inconvenient.
+
+FORFEITURE (MANDATORY/DISCRETIONARY) 
+When is forfeiture of property mandatory and when is it discretionary? 
+- It would depend on statutory interpretation of the relevant legislative provisions 
+- E.g. of mandatory forfeiture: 
+“s123(2) Customs Act: “An order for the forfeiture of goods shall be made if it is proved to the satisfaction of the court that an offence under this Act has been committed and that the goods were the subject matter of, or were used in the commission of, the offence, notwithstanding that no person may have been convicted of the offence.”
+- E.g. of discretionary forfeiture: 
+“s364(2) of CPC: Subject to any provisions on forfeiture, confiscation, destruction or delivery in any other written law under which property may be seized, a court may, during or at the conclusion of any criminal proceeding under this Code, make an order as it thinks fit for the disposal of any property:
+a. In respect of which an offence is or was alleged to have been committed or which has been used or is intended to have been used for the commission of any offence or which constitutes evidence of an offence; and
+b. Which is produced before the court or is in the court’s custody or the custody of a police officer or any other person who has seized the property pursuant to any law.” 
+
+Relationship between CPC provisions and provisions in other statutes 
+Magnum Finance Bhd v PP
+1. If statute stipulates in clear and unambiguous terms that forfeiture is mandatory => Court cannot exercise any discretion and no disposal inquiry can be held => Property will be forfeited 
+2. If statute stipulates that forfeiture is discretionary => Court can exercise discretion to decide if property will be forfeited and hold disposal inquiry 
+3. If statute does not deal with the issue of disposal of property used or concerned in any offense => s364(2) applies => Court can exercise discretion to decide if property will be forfeited and hold disposal inquiry 
+
+Magnum Finance Bhd v PP
+Principles governing Court’s exercise of discretion under s364(2) 
+- Burden of proof: 
+a. Onus is on PP to show that forfeiture will be appropriate in the circumstances of each case
+b. There is no principle that dictates that forfeiture must be ordered unless good reasons for not doing so are shown by the opposing party 
+
+- Factors considered by the Court 
+a. Whether property was owned by offender and if not, the degree of the property owner’s complicity 
+(ii) Whether property owner connived, participated or had Nelsonian knowledge of the property being used to commit the offense 
+b. Whether person could have reasonably taken any preventive measures regarding the use of the item in the commission of the offense
+c. Considering the value of the property, whether forfeiture is proportionate to the gravity of the offense and maximum penalty prescribed
+d. Need for general deterrence 
+(iii) Where property belongs to the accused or to someone tainted with complicity 
+(iv) E.g. if accused steals someone’s car to commit offense, the car owner is innocent and there is no reason to forfeit the car 
+e. Extent of use of the property in commission of offense 
+(ii) Whether property was used on several occasions for the illegal purpose
+f. Whether property owner benefited from the commission of the offense 
+g. Whether the property owner had knowledge of the use of the property in the commission of the offense 
+
+Disposal Inquiries 
+Context:
+- Disposal inquiries for settling competing claims as to what should happen to relevant property 
+a. PP vs Defense
+b. PP vs 3rd party claimant
+
+No right of appeal against orders made in disposal inquiry  
+Magnum Finance Bhd v PP
+- There is no right of appeal against an order made pursuant to a disposal inquiry 
+
+If there is a fundamental error of law => Use revision 
+Magnum Finance Bhd v PP
+- Court suggested that the appropriate course of action for an aggrieved party is to start a petition for revision => But also cautioned that a revisionary Court will only exercise its powers if it is shown that there are fundamental errors of law which have occasioned a clear failure of justice 
+
+Wang Wang Pawnshop Pte Ltd v K J Tiffany 
+- Reasons why revisionary powers limited for orders from disposal inquiries:
+a. Judge presiding over disposal inquiry is given a wide measure of discretion to make orders as he thinks fit and he is often handicapped by the fact that there is a lack of procedure for proper discovery or inspection of documents => Judge often has to do justice in a “rough and ready” fashion 
+b. If parties bring criminal revisions to orders made in disposal inquiries, they will be re-canvassing the same issues before a revisionary Court and this time on a basis of scarce evidence 
+
+If there is no fundamental error of law => Use civil proceedings 
+Wang Wang Pawnshop Pte Ltd v K J Tiffany 
+- Where there are no fundamental errors of law, aggrieved parties should commence civil proceedings instead of using a petition for criminal revision 
+- Disposal inquiry orders are not binding in a civil court and a rightful legal owner can should be able to assert his rights by commencing a civil suit 
+
+Wang Wang Pawnshop Pte Ltd v K J Tiffany 
+Facts
+- Respondent is a jewelry merchant 
+- Kalimahton had an agreement with Respondent for Kalimahton to hold the Respondent’ jewelry while she considered whether she wished to purchase them 
+- Kalimahton was expressly prohibited from dealing with the jewelry 
+- Kalimahton then pawned the jewelry to the Applicants and then Kalimahton deceived Applicants to release the jewelry to her before she repaid the money loaned from the Applicant 
+- Kalimahton then re-pawned the jewelry at other pawnshops and used the money obtained to finance her extravagant lifestyle 
+- Respondent reported Kalimahton to the police
+- Kalimahton pleaded guilty to 8 counts of criminal breach of trust under s406 of Penal Code 
+- Disposal inquiry was held to determine who should take possession of the jewelry: 
+a. Respondent who were the original owners of the jewelry and who had entrusted them to Kalimahton; OR 
+b. Applicant who were the pawnshops where Kalimahton initially pledged the jewelry and deceived into releasing the jewelry before repaying th eloan; OR
+c. The other pawnshops who were holding the jewelry when Kalimahton re-pawned the jewelry
+- Judge: Distributed jewelry 
+a. 101 items returned to Respondent
+b. 56 items to the Applicant
+c. 20 items to other pawnshops 
+- Criminal revision of Judge’s order: Applicant (pawnshop) wanted all the jewelry and argued that: 
+a. Primary function of a judge in disposal inquiry is to restore seized items to the last person in lawful possession of items => Applicants had taken the jewelry in good faith from Kalimahton 
+b. Applicant had acquired good title by virtue of the fact that they were bona fide purchasers for value without notice
+- GDHC on revision: GDHC will not exercise revisionary power 
+1. There was no fundamental error of law committed by the Judge which gives rise to a clear failure of justice which required an exercise of GDHC’s revisionary power 
+a. Applicant wrong to assert that a judge presiding over a disposal inquiry is obliged to simply restore items to the last person in lawful possession => Judge has to examine the issue of ownership
+b. Applicant wrong to assert that they had good title 
+2. Applicants should have commenced civil proceedings against the Respondent and other pawnshop 
+
+CONFISCATION ORDERS
+Examples of confiscation orders in practice is not examinable.
+
+E.g. s6-7 Corruption, Drug Trafficking and other Serious Crimes (Confiscation of Benefits) Act 1992 (CDSA) relates to possible confiscation of proceeds from drug dealing and certain “serious offences” listed in the First and Second Schedules of CDSA

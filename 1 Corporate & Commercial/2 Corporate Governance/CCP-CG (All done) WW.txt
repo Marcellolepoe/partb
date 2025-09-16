@@ -1,0 +1,521 @@
+Corporate Governance
+I.	Introduction	2
+CG ecosystem	3
+The principal-agent problem	4
+Current Disclosure-based regime	4
+II.	SGX Listing Rules	6
+A. Immediate disclosure of information (general and specific)	6
+EXCEPTIONS to general disclosure	7
+How to make disclosures: Announcements	7
+B. Periodic Reports	7
+B(i). Financial statements (LR 705)	7
+B(ii). Annual Report (LR 707)	8
+B(iii). Sustainability Report (Practice Note 7.6; LR 711A-B)	8
+C. General disclosure requirements	10
+III.	Interested Person Transactions (Chapter 9 SGX Listing Manual): Announcement and shareholders’ approval requirements	11
+Interested person	11
+Transactions covered under IPTs	12
+Obligations relating to IPTs	12
+Exceptions to the obligations	13
+IV.	Corporate Governance regime	15
+Comply or explain regime: Code of Corporate Governance	15
+Contents of Code of Corporate Governance	16
+Independent Directors	16
+Composition of the Board	17
+Board Committees	18
+Audit Committee (AC)	19
+Remuneration Committee (RC)	19
+Nominating Committee (NC) – can have executive directors as members	19
+Board Risk Committee	20
+Enhanced Disclosure Remuneration	20
+
+
+I. Introduction
+* Corporate governance as a process: by which corporations are made responsive and accountable to the rights and wishes of stakeholders, especially shareholders.
+o A framework which involves having the appropriate people, processes and structures to direct and manage the business and affairs of the company to enhance long-term shareholder value, whilst taking into account the interests of other stakeholders (Singapore Code of Corporate Governance 2018)
+
+* Rationale for CG: Agency costs in company due to separation of ownership and management
+o Issues: Managers may have contrary incentives – e.g. remuneration pegged to revenue or growth size and hence managers tend to seek revenue growth over profit growth.
+o Issue: Principals (shareholders) incur costs to control agents (managers) due to divergent management-shareholder objectives and information asymmetry
+o Main problem 1: Shirking by managers (because no single manager will receive the full benefit of his work) – shareholders have no incentives to rectify this (no authority (i.e. not enough voting power to compel the company to make changes) or not interested).
+* Tender offers are the best way to monitor the work of management teams.
+* Source of the premium is the reduction in agency costs experienced.
+o Main problem 2: Self-dealing by managers – managers have substantial interest in preserving their company’s independence and thus their salaries and status.
+
+* Principles of good corporate governance
+o Transparency (following the law and making sure decisions are made openly and with full disclosure), 
+o accountability (to shareholders and stakeholders),
+o integrity (importance of reputation) , 
+o fairness (in dealing with different shareholders), 
+o independence, 
+o sustainability (considering the business’ impact on workers, environment and society), 
+o diversity (making sure different views, ideas and groups are represented so that groupthink is avoided), 
+o capability (getting the right people to work in the right position within the company), 
+o leadership (setting the tone at the top for everyone in the company to follow)
+
+* Tangible commercial benefits of good corporate governance
+o Encourages systems and processes that are sound, transparent and understandable
+o Helps a company make sustainable profits over the longer-term
+o Promotes business continuity
+o Reduces business inefficiency
+o Greater lender, investor and stakeholder confidence
+o Results in increased valuations, liquidity and share prices
+o Cheaper access to capital
+o Encourages entrepreneurial activity and foreign investment
+o Reduces risks premiums (for their debt and equity), as well as lower director and officer liability insurance premiums
+
+CG ecosystem
+
+
+
+* Corporate Governance Advisory Committee (CGAC) is an industry-led body involved in advising and making recommendations to the regulators. Its key function is to monitor the quality of CG among listed companies in Singapore and identify areas for improvement:
+o CGAC will make recommendations to the regulators on the practice guidance issued by the MAS
+o Monitor international governance trends and recommend updates to the code
+o Ultimately, it acts as a resource to regulators and advise on CG issues that are referred to it
+
+* Dual role of the Board: company performance and regulatory conformance
+o Board is mainly responsible for CG and regulatory conformance: “The business of a company should be managed by, or under the direction or supervision of, the directors” (s157A CA)
+* Compliance with laws and regulation is necessary.
+* But should not distract Board from their role to ensure success for the company.
+o Board must also ensure company performance.
+* A company exists to create value.
+* Each company having its own strategy to deliver its value proposition.
+
+The principal-agent problem
+* In agency theory:
+o The agent represents his principal in business
+o The agent is expected to advance his principal’s interests (without regard to his self-interest)
+o Problems arise when the interest of the principal and agent are in conflict
+
+* In companies, the Board is the “agent” of shareholders; while management is the “agent” of the Board
+
+* Corporate governance seeks to align the interests of the board, shareholders and other stakeholders in a transparent and fair way
+
+*Current Disclosure-based regime
+* Previously: Singapore had a merit-based approach in regulating the capital markets in Singapore, where the regulator was the gatekeeper. 
+
+* Move to disclosure-based regime: In a significant change, we moved to a market-driven, disclosure-based regime of supervision between 1998 and 2000. The objective is to allow market participants greater choice and freedom to take calculated risks so as to promote a more vibrant market.
+o Changes were made to the CA, the Securities and Futures Act (SFA) and the SGX Listing Manual (LM)
+o Also, the first Code of Corporate Governance was issued (CG Code)
+
+* S 203 SFA is the bedrock of the disclosure-based regime as it gives the disclosures rules of the SGX (i.e. the SGX Listing Rules) the force of law and provides for criminal sanctions for failures to disclose.
+o Normally, the SGX Listing Rules are principally just a contract between SGX (a listed company itself) and the companies listed on its exchange
+o This applies to all listed companies on the SGX, wherever incorporated (in Singapore or elsewhere). But this does not apply to public companies (which may not be listed)
+
+Subsection (1) applies to any of the following:
+(a)	an entity, the securities or securities?based derivatives contracts of which are listed for quotation on an approved exchange;
+(b)	a trustee?manager of a business trust, where the securities or securities?based derivatives contracts of the business trust are listed for quotation on an approved exchange;
+(c)	a responsible person of a collective investment scheme, where the units in the collective investment scheme are listed for quotation on an approved exchange.
+
+o CRIMINAL LIABILITY: any failure to notify the SGX of any information that is required by the Listing Rules to be disclosed, that is done:
+* Intentionally,
+* Recklessly, or
+* Negligently,
+Shall be liable on conviction to a fine not exceeding SGD250,000 or imprisonment not exceeding 7 years or to both. 
+
+o CIVIL LIABILITY: if failure to disclose is only negligent (s203(3) SFA), then no criminal consequences and there is only civil penalty and liability
+
+* s199 SFA: offence to disseminate information that is false or misleading in a material particular and is likely to induce other persons to sell, purchase or subscribe for securities if he does not care whether the information is true or false or has actual or reasonable knowledge 
+
+* s331 SFA: personal liability for directors and officers for breaches of disclosure rules by body corporate
+o Any offence committed by a body corporate that is committed with:
+* The consent of,
+* The connivance of, or 
+* Is attributable to any neglect on the part of
+Any officer of the body corporate, that officer as well as the body corporate shall be guilty of that offence and be liable to be punished accordingly
+
+
+II. SGX Listing Rules
+* Disclosure requirements in Chapter 7: Immediate disclosure via announcement and periodic disclosure via financial statements or reports
+* Key obligation is to ensure disclosure of material information as and when it arises
+* SGX RegCo (as a separate subsidiary company) undertakes all the frontline regulatory functions on behalf of the SGX, which aims to enhance the governance of the stock exchange by segregating its regulatory functions from its commercial and operating activities
+
+A. Immediate disclosure of information (general and specific) 
+General disclosure test in Listing Rule 703 must necessarily refer to information that is “likely to effect a significant change in the price or value of an issuer’s securities” (Madhaven Peter v PP)
+* LR 703(1): requires immediate announcement of GENERAL information concerning the issuer, its subsidiaries (more than 50%) and its associated companies (20% to 50%) – 
+(a) that is necessary to avoid the establishment of a false market, or
+(b) would be likely to materially affect the price or value of its securities
+
+NB: associated companies – a company in which at least 20% but not more than 50% of its shares are held by the listed company or group
+
+E.g. 3 directors were fined $150,000 each for failing to disclose the company’s losses from speculation in oil options in breach of Listing Rule 703 in China Aviation Oil case in 2006
+
+* Examples of material information, known to the issuer, to be disclosed (LR 703(4); Appendix 7.1, paragraph 4 of Corporate Disclosure Policy):
+o Info concerning property, assets, business, financial condition and prospects
+o mergers and acquisitions
+o dealings with employees, suppliers and customers
+o material contracts or development projects
+o significant change in ownership of shares owned by insiders
+o any developments that affect materially the present or potential rights or interests of shareholders
+
+* Non-exhaustive specific events “likely to require immediate disclosure” under LR 703 (Appendix 7.1, paragraph 8 of Corporate Disclosure Policy)
+o Joint venture, merger or acquisition
+o Evidence of significant change in near-team earnings prospects
+o Acquisition or loss of significant contract
+o Purchase or sale of significant assets
+o Significant litigation or dispute
+o Significant management change
+
+* Mandatory disclosures of specific events under LR 704 in addition to LR 703 (not all listed)
+o Change of address of registered office of issuer or of any office at which the Register of Members or any other register of securities of the issuer is kept
+o Any proposed alterations to the AA/Constitution of the issuer
+o Appointments/ resignations of directors, general managers or other equivalent executive officers (arguably including financial controllers)
+
+“Any appointment or cessation of service of key persons such as director, chief executive officer, chief financial officer, chief operating officer, general manager or, qualified person or other executive officer of equivalent authority, company secretary, registrar or auditors of the issuer”
+
+o Qualifications by auditors
+o Changes in substantial shareholders’ or directors’ interests
+o Notice of general meetings and announcement after the general meeting
+
+EXCEPTIONS to general disclosure
+* Exception 1: Immediate disclosure is NOT needed if it would be a breach of law to disclose the information (LR 703(2))
+
+* Exception 2: 3 cumulative requirements for exception – i.e. information can be withheld without infringement (LR 703(3)):
+1. reasonable person would not expect information to be disclosed;
+2. the information is confidential; AND
+3. the information – 
+o concerns an incomplete proposal or negotiation;
+o comprises matters of supposition or is insufficiently definite to warrant disclosure;
+o is generated for internal management purposes (e.g. internal budgets); OR
+o is a trade secret.
+
+If any of the 3 conditions ceases to be satisfied, the information MUST be disclosed immediately.
+
+How to make disclosures: Announcements
+* LR 702 requires an issuer to make announcements via SGXNET first or simultaneously with disclosure through other media, unless specified otherwise.
+
+* No waiver for requirements for disclosure of Material Information under LR 703 (LR 703(5)) --> notwithstanding the exceptions to disclosure 
+
+* Fact that information is generally available is not a reason for failure to disclose under LR 703 (Appendix 7.1 paragraph 5 of Corporate Disclosure Policy)
+
+B. Periodic Reports
+B(i). Financial statements (LR 705)
+* Announced quarterly or half yearly (LR 705(3)(b))
+o Even if quarterly reporting is not required, still encouraged to consider providing voluntary business updates to shareholders in between their half-yearly financial reports
+
+* Quarterly reporting no longer required for listed companies unless they are associated with higher risks (after 2020), which arises if (LR 705(2)):
+o “(d) its auditors have issued an adverse opinion, a qualified opinion or a disclaimer of opinion on the issuer's latest financial statements; or
+o (e) its auditors have stated that a material uncertainty relating to going concern exists in the issuer's latest financial statements.”
+o SGX publishes a list of companies required to do quarterly reporting
+on its website.
+
+* Reporting deadlines
+o Q1-Q3: 45-day reporting deadline (i.e. within 45 days from end of the quarter) – for quarterly Q1-Q3 FS and half yearly FS
+o Q4 & FY: 60-day reporting deadline (i.e. within 60 days of Q4 financial quarter, or the full year) – for Q4 FS and full FY FS
+
+B(ii). Annual Report and AGM (LR 707)
+* Issued at least 14 days before AGM 
+* Issued to shareholders and SGX
+* Date of AGM cannot exceed 4 months from the end of its FY
+
+*Board diversity policy (LR 710A) (added in 2022): 
+* Requires issuers to maintain a board diversity policy that addresses gender, skills and experience, and any other relevant aspects of diversity (e.g. tenure, age, nationality, ethnicity, geographical experience)
+
+* The issuer must describe in its annual report its board diversity policy, including the following: 
+(a) its targets to achieve diversity on its board; 
+(b) its accompanying plans and timelines for achieving the targets; 
+(c) its progress towards achieving the targets within the timelines; and 
+(d) a description of how the combination of skills, talents, experience and diversity of its directors serves its needs and plans
+
+B(iii). Sustainability Report (Practice Note 7.6; LR 711A-B)
+* The Code of Corporate Governance states that companies that embrace the tenets of good governance, including accountability, transparency and sustainability, are more likely to engender investor confidence and achieve long-term sustainable business performance
+o The Board is collectively responsible for the long-term success of the issuer, and its role includes setting strategic objectives which should include appropriate focus on sustainability
+o The Board bears ultimate responsibility for the issuer’s sustainability reporting, and should determine the ESG factors identified as material to the issuer’s business and see to it that they are monitored and managed
+
+* All directors are required to undergo a one-time training on sustainability matters unless nominating committee can explain that director already has expertise in sustainability matters.
+
+* Listing Rule 711A requires every issuer to prepare an annual sustainability report which must describe the issuer's sustainability practices with reference to the primary components set out in LR 711B on a 'comply or explain' basis (Practice Note 7.6, para 1.1)
+o The issuer’s sustainability reporting process must be subject to internal review (i.e. internal audit function should review the reporting)
+o But the issuer may additionally commission an independent external assurance on the sustainability report
+
+* Content of annual sustainability report: LR 711B(1) requires description of the following primary components:
+o (a) material environmental, social and governance factors;
+o *(aa) climate-related disclosures consistent with the recommendations of the Task Force on Climate-related Financial Disclosures; --> NB: mandatory for certain industries
+o (b) policies, practices and performance;
+o (c) targets;
+o (d) sustainability reporting framework; and
+o (e) Board statement and associated governance structure for sustainability practices.
+
+If the issuer excludes any primary component, it must disclose such exclusion and describe what it does instead, with reasons for doing so.
+
+* Reporting deadline (LR 711A; Practice note 7.6 para 6.1)
+o Issued no later than 4 months after FY
+o Where issuer has conducted external assurance: no later than 5 months after FY
+
+* *Mandatory reporting of primary component in LR 711B(1)(aa) (i.e. cannot exclude the primary component relating to climate-related disclosures) for following industries as identified by Task Force on Climate-related Financial Disclosures:
+o Financial (for FY commencing 1 January 2023)
+o Agriculture, Food and Forest Products (for FY commencing 1 January 2023)
+o Energy (for FY commencing 1 January 2023)
+o Materials and Buildings (for FY commencing 1 January 2024)
+o Transportation (for FY commencing 1 January 2024)
+
+C. General disclosure requirements
+* Material information must be disclosed when it arises, even during trading hours
+o If information is materially price-sensitive, a trading halt or suspension in trading may be required so that information can be properly disseminated prior to resumption of trading
+o Trading halt can be called for a minimum of 30 minutes to a maximum of 3 days, subject to certain exceptions the SGX may permit
+
+* Rumors or reports, especially if resulting in unusual trading activity, should be clarified, confirmed or explained
+
+* Profit guidance is required if the issuer is unlikely to meet its performance targets as previously publicly disclosed
+
+* No selective disclosure of information, e.g. to certain media/ analysts/ shareholders (Appendix 7.1 paragraph 7 of Corporate Disclosure Policy) – i.e. there should be thorough public dissemination of material information
+o Divulging of information to any person outside the issuer and its advisers which places them in a privileged dealing position is prohibited
+o Although SGX recommends an open door policy when dealing with analysts, journalists, shareholders and others, under no circumstances should disclosure of material information be made on an individual or selective basis (unless this information had previously been fully disclosed and disseminated to the public via SGXNET)
+
+
+III. Interested Person Transactions (Chapter 9 SGX Listing Manual): Announcement and shareholders’ approval requirements
+
+* Objective: To safeguard transactions with interested persons (IPTs) to ensure that interests of issuer or its shareholders are not adversely affected; i.e. conflicts of interest
+o IPTs may influence the issuer, its subsidiaries or associated companies to enter into transactions with interested persons that may adversely affect the interests of the issuer or its shareholders
+
+* LR 902: in applying the rules in Chapter 9, regard must be given to:
+(1) the objective of the Chapter; and 
+(2) the economic and commercial substance of the IPT, instead of legal form and technicality
+
+Interested person
+* Who is an “interested person”: 
+a. In the case of a company: a director, CEO, controlling shareholder or an “associate” of any such director, CEO or controlling shareholder (LR 904(4)); OR 
+
+* “Associate” is defined in the Listing Rules as:
+- the director’s, CEO’s or controlling shareholder’s “immediate family” (i.e., spouse, child, adopted child, step-child, sibling and parent), 
+- trustees where he or his immediate family are beneficiaries, and 
+- any company in which he and his immediate family have an interest of 30% or more
+* “Controlling shareholder” is a person who: 
+- holds directly or indirectly 15% or more of voting shares in the issuer; or 
+- in fact exercises control over the issuer.
+
+b. A person or entity deemed by the Exchange to be an “interested person” if the person/entity enters, or proposes to enter, into:
+(a) a transaction with an entity at risk (i.e. listed issuer and related companies – which is “at risk” due to the transaction (LR 904(2))); AND
+(b) an agreement or arrangement with an interested person in connection with that transaction (LR 904(4A))
+
+* "entity at risk" means:
+(a) the issuer;
+(b) a subsidiary of the issuer that is not listed on the Exchange or an approved exchange; or [more than 50% shareholding by issuer]
+(c) an associated company of the issuer that is not listed on the Exchange or an approved exchange, provided that the listed group, or the listed group and its interested person(s), has control over the associated company. [20-50% shareholding by issuer]
+
+Transactions covered under IPTs
+* “Transaction” includes  (LR 904(6)): - this is NOT a closed list (since it includes)
+(a) the provision or receipt of financial assistance; 
+(b) the acquisition, disposal or leasing of assets; - i.e. dealing with assets 
+(c) the provision or receipt of goods or services; 
+(d) the issuance or subscription of securities; 
+(e) the granting of or being granted options; and 
+(f) the establishment of joint ventures or joint investments; 
+
+whether or not in the ordinary course of business (i.e. can be as part of or outside OCB), and whether or not entered into directly or indirectly (for example, through one or more interposed entities).
+
+*Obligations relating to IPTs
+* Immediate announcement threshold of the transaction(s): generally, if value of (1) transaction or (2) aggregate transactions in a financial year with same interested person equal to or greater than 3% of audited net tangible assets (LR 905)
+o Transactions of value below S$100,000 disregarded for IPT purposes (LR 905(3))
+o Cannot circumvent aggregation requirements by separating the IPT into many transactions, each below S$100,000 as Exchange may aggregate them (LR 905(5))
+
+* Shareholders’ approval threshold of the transaction(s): generally, if value of (a) transaction or (b) aggregate transactions in a financial year with same interested person equal to or greater than 5% of audited net tangible assets (LR 906(1))
+o “… However, a transaction which has been approved by shareholders, or is the subject of aggregation with another transaction that has been approved by shareholders, need not be included in any subsequent aggregation.” (LR 906(1)(b))
+o Transactions of value below S$100,000 disregarded for IPT purposes (LR 906(2))
+o Cannot circumvent aggregation requirements by separating the IPT into many transactions, each below S$100,000 as Exchange may aggregate them (LR 906(4))
+
+* An issuer must disclose the aggregate value of interested person transactions entered into during the financial year under review in its annual report (LR 907). The content needed to be disclosed include:
+o name of interested person 
+o nature of relationship 
+o aggregate value of all IPTs during FY (excluding transactions less than S$100,000 and transactions conducted under shareholders' mandate made under LR 920) 
+o aggregate value of all IPTs conducted under shareholders' mandate (excluding transactions less than S$100,000)
+
+*Exceptions to IPT obligations
+* Exceptions in LR 915 set out transactions which are not required to comply with the announcement, shareholder approval and annual report disclosure requirements. E.g.:
+o A payment of dividends, a subdivision or consolidation of shares, an issue of securities by way of a bonus issue, a preferential offer of shares, or an off-market acquisition of the issuer's shares, made to all shareholders on a pro-rata basis, including the exercise of rights, options or company warrants granted under the preferential offer. 
+o The grant of options, and the issue of securities pursuant to the exercise of options, under an employees' share option scheme approved by the Exchange. 
+o A transaction between an entity at risk (party acting as investor) and an investee company, where the interested person's interest in the investee company, other than that held through the issuer, is less than 5%. 
+--> if interested person’s interest is more than 5%, then need to comply with announcement, shareholder approval and annual report disclosure
+o A transaction between an entity at risk and an interested person for the provision of goods or services if:
+(a) the goods or services are sold or rendered based on a fixed or graduated scale, which is publicly quoted; and 
+(b) the sale prices are applied consistently to all customers or class of customers. 
+E.g. not IPT if issuer buys telco services, electricity or water at fixed public prices from a company in which the person is a director
+o The receipt of financial assistance or services from a financial institution that is licensed or approved by the Authority, on normal commercial terms and in the ordinary course of business. 
+o Director's fees and remuneration, and employment remuneration (excluding "golden parachute" payments).
+
+* Exceptions in LR 916 sets out transactions which are not required to comply with the shareholder approval requirement (but the announcement and annual report disclosure requirements still apply).
+o The entering into, or renewal of a lease or tenancy of real property of not more than 3 years if the terms are supported by a valuation carried out by a property valuer. 
+--> i.e. if lease or tenancy is MORE than 3 years then shareholder approval is required
+
+o The award of a contract by way of public tender (by the issuer) to an interested person (subject to certain conditions). 
+
+o The receipt of a contract (by the issuer) which was awarded by way of public tender, by an interested person (subject to certain conditions).
+
+o Investment in a joint venture with an interested person if:— 
+(a) the risks and rewards are in proportion to the equity of each joint venture partner; 
+(b) the issuer confirms by an announcement that its audit committee is of the view that the risks and rewards of the joint venture are in proportion to the equity of each joint venture partner and the terms of the joint venture are not prejudicial to the interests of the issuer and its minority shareholders; AND 
+(c) the interested person does not have an existing equity interest in the joint venture prior to the participation of the entity at risk in the joint venture.
+
+o The provision of a loan to a joint venture with an interested person if:— 
+(a) the loan is extended by all joint venture partners in proportion to their equity and on the same terms; 
+(b) the interested person does not have an existing equity interest in the joint venture prior to the participation of the entity at risk in the joint venture; AND 
+(c) the issuer confirms by an announcement that its audit committee is of the view that:—
+(i) the provision of the loan is not prejudicial to the interests of the issuer and its minority shareholders; AND 
+(ii) the risks and rewards of the joint venture are in proportion to the equity of each joint venture partner and the terms of the joint venture are not prejudicial to the interests of the issuer and its minority shareholders.
+
+* Possible for issuers to obtain a general mandate (approval) from shareholders under LR 920 for recurrent transactions of a revenue or trading nature or those necessary for its day-to-day operations (e.g. purchase and sale of supplies and materials) (cf specific shareholder approval for each time for each IPT)
+o Issuers will have to issue a circular to shareholders containing the prescribed information which explains what the approach is, which includes the control measures the issuer intends to put in place to ensure shareholders’ interests are safeguarded and that the interested person’s interests are not preferred over the issuer’s)
+o A general mandate is subject to annual renewal, normally at AGMs.
+
+
+IV. Corporate Governance regime
+
+Overview:
+1. Mandatory: SGX Listing Rules: Mandatory rules that every listed company must follow
+2. Comply or explain regime: Code of Corporate Governance 2018 (4th edition)
+3. Voluntary: Practice Guidance – non-binding guidance on Code compliance and best practices
+o Provides companies with guidance on compliance with the Code as well as sets out best practices 
+o Complements the Code but is non-binding (i.e. applies on a voluntary basis) 
+o Content of Practice Guidance to be overseen by the Corporate Governance Advisory Committee
+
+Comply or explain regime: Code of Corporate Governance
+* Bedrock and foundation of corporate governance principles in Singapore
+o The latest Code of Corporate Governance and the Practice Guidance thereto were issued in August 2018 and this is the 4th edition of the Code
+o LR 710 makes it clear that the Code is not law (except the principles) and is applied on a “comply or explain” basis
+
+* Code 2018 has: 
+o 13 principles (Mandatory (Comply and explain)) and
+o 52 provisions (Comply or explain).
+
+* “Comply or explain” is a middle ground between mandatory prescriptive rules (e.g. legislation & the Listing Rules) and voluntary best practices (e.g. Practice Guidance). Its benefits are:
+o Avoid burdensome and costly mandatory rules 
+o Avoids “one-size-fits-all” solution for different types of companies 
+o Enables setup of aspirational principles and guidelines 
+o Provides flexibility for innovation 
+o Allows companies to internalize the principles of good governance
+
+* How “Comply or Explain” is effected under LR 710: describe compliance with Code in annual report and explain any variations and how still consistent with intent of principle
+o An issuer must describe in its annual report its corporate governance practices with specific reference to the principles and provisions of the Code 
+o An issuer MUST comply with the principles of the Code 
+o Where an issuer’s practices vary from any provisions of the Code, it must explicitly state, in its annual report, the provision from which it has varied, explain the reason for variation, and explain how the practices it had adopted are consistent with the intent of the relevant principle
+
+Contents of Code of Corporate Governance
+* Preamble / introduction
+* Board Matters: 
+1. The Board’s Conduct of Affairs 
+2. Board Composition and Guidance
+3. Chairman and CEO
+4. Board Membership
+5. Board Performance 
+
+* Remuneration Matters: 
+6. Procedures for Developing Remuneration Policies 
+7. Level and Mix of Remuneration 
+8. Disclosure on Remuneration 
+
+* Accountability and Audit: 
+9. Risk Management and Internal Controls 
+10. Audit Committee 
+
+* Shareholder Rights and Engagement: 
+11. Shareholder Rights and Conduct of General Meetings 
+12. Engagement with Shareholders
+
+* Managing Stakeholder Relationships 
+13. Engagement with Stakeholders
+
+Independent Directors
+* Main definition of an “independent” director (Provision 2.1 Code): generally, unrelated to company, related companies, substantial shareholders or officers for independent business judgment
+o one who is independent in conduct, character and judgement, and 
+o has no relationship with the company, its related corporations, its substantial shareholders or its officers 
+o that could interfere, or be reasonably perceived to interfere, 
+o with the exercise of the director’s independent business judgment 
+o in the best interests of the company
+
+* LR 210(5)(d) sets out certain baseline objective tests that disqualify a director from being independent if he (I.E. NOT AN INDEPENDENT DIRECTOR IF ANY OF THESE APPLY): 
+o is employed or has been employed by the issuer or a related company within the current or the last 3 financial years, or 
+o has an immediate family member similarly employed by the issuer or a related company in the current or last 3 financial years, and whose remuneration is determined by the Remuneration Committee of the issuer, or 
+--> immediate family member: spouse, child, adopted child, step-child, sibling and parent
+o has been a director of the issuer for an aggregate period of more than 9 years. Such director may continue to be considered independent until the conclusion of the next annual general meeting of the issuer. – NB: served as any sort of director
+
+NB: these tests are MANDATORY in nature since it is a LR
+
+* Non-mandatory further tests of independence set out in the Practice Guidance
+             
+Composition of the Board
+* Minimum Non-Executive Directors: majority of the Board (Provision 2.3 Code)
+
+* Minimum independent directors: 
+o Regular board: At least 2 minimum independent directors, and comprise 1/3 of board (LR 210(5)(c)) --> so board must have minimum of 6 directors
+o If chairman is not independent: Majority of board must be ID (Provision 2.2 Code)
+o In all cases but specifically where chairman is not independent: Appointment of Lead ID (Provision 3.3 Code)
+
+* LR 720(5) also requires all directors to submit themselves for re-nomination and re-appointment at least once every 3 years
+
+* LR 210(5)(a) now requires a director who has no prior experience as a director of a listed issuer to undergo mandatory training in the roles and responsibilities of a director as prescribed under Practice Note 2.3
+o First-time Directors must attend one of the training programmes conducted by a training provider (Singapore Institute of Directors or Institute of Singapore Chartered Accountants and SAC Capital)
+o A First-time Director of a REIT manager must also attend the training programme by the REIT Association of Singapore – a director is considered a First-time Director of a REIT manager if he or she has no prior experience as a director of a REIT manager
+
+o TIMING OF MANDATORY TRAINING (paragraph 1.2, Practice Note 2.3):
+* The Practice Note prescribes the training that a First-time Director must undergo within one year from the date of his appointment to the board.
+* If any director of an issuer which is newly listed on the Exchange has not attended any training as prescribed, such director must attend Mandatory Training by the end of the first year of the issuer's listing.
+
+o EXCEPTION TO MANDATORY TRAINING (paragraph 3.2, Practice Note 2.3): In exceptional circumstances, First-time Directors assessed by the issuer's Nominating Committee to possess relevant experience need not attend Mandatory Training. In assessing the relevant experience, the Nominating Committee must have regard to whether the experience is comparable to the experience of a person who has served as a director of an issuer listed on the Exchange. 
+* The issuer's Nominating Committee must disclose its reasons for its assessment that the First-time Director possesses relevant experience. Such reasons shall be disclosed in the announcement of the appointment of the First-time Director as director of the issuer or in the prospectus, offering memorandum or introductory document
+* Notwithstanding paragraph 3.2, the Exchange has the discretion to direct a First-time Director to attend Mandatory Training (paragraph 3.3, Practice Note 2.3)
+
+*Board Committees
+* *LR 1207(10) requires the Board to comment in the Annual Report on the adequacy and effectiveness of the issuer’s risk management and internal control systems with the concurrence of the AC in accordance with Practice Note 12.2
+
+* Mandatory Board Committees: Audit Committee (AC), Nominating Committee (NC) and Remuneration Committee (RC) (LR 210(5)(e)) 
+o Note only AC is prescribed by law (s 201B Companies Act)
+o Board committees do not necessarily have to be 3 distinct: Listing Rule requires establishment of one or more board committees to “perform the functions of an audit committee, a nominating committee and a remuneration committee” (LR 210(5)(e))
+o Board committees must have “written terms of reference which clearly set out the authority and duties of the committees.” (LR 210(5)(e))
+
+Audit Committee (AC) – CANNOT have executive directors as members
+* The AC comprises at least 3 directors, all of whom are non-executive and the majority of whom, including the AC Chairman, are independent (Provision 10.2 Code) 
+o At least 2 members, including the AC Chairman, should have recent and relevant accounting or related financial management expertise or experience (Provision 10.2 Code)
+
+* The AC’s duties under Provision 10.1 Code include: 
+o reviewing the adequacy, effectiveness, independence, scope and results of the external audit and the internal audit function 
+o reviewing significant financial reporting issues 
+o reviewing adequacy and effectiveness of internal controls and risk management systems
+o reviewing whistle-blowing policy and arrangements
+
+* LR 719(3) now requires the issuer to establish and maintain an effective internal audit function
+
+Remuneration Committee (RC) – CANNOT have executive directors as members
+* The RC comprises at least 3 directors, all of whom are non-executive and the majority of whom, including the RC Chairman, are independent (Provision 6.2 Code)
+
+* The RC’s duties under Provision 6.1 Code include:
+o recommending to the Board a general framework of remuneration for the Board and key management personnel 
+o recommending to the Board the specific remuneration packages for each director and key management personnel 
+o considering all aspects of remuneration, including termination terms, to ensure they are fair
+
+Nominating Committee (NC) – CAN have executive directors as members
+* The NC comprises at least 3 directors, the majority of whom, including the NC Chairman, are independent (Provisions 4.2 Code) 
+o The NC, unlike the AC and the RC, need not comprise all non-executive directors, and the CEO or another executive director may be a member
+o The lead ID, if any, should be a member of the NC (Provision 4.2 of the Code)
+
+* The NC’s duties under Provisions 4.1 and 4.4 Code include:
+o making recommendations to the Board on all Board appointments and re-appointments 
+o determining annually if a director is independent 
+o reviewing the process and criteria for evaluation of the performance of the Board, Board committees and directors 
+o reviewing the succession plans for directors
+o reviewing the training and professional development programmes for the Board
+
+Board Risk Committee
+* Provision 9.1 Code now requires the Board to consider establishing a Board Risk Committee to assist in determining the nature and extent of the significant risks which the issuer is willing to take in achieving its strategic objectives and value creation (as well as to manage these risks)
+o In practice, this BRC can be merged with the AC to form an Audit and Risk Management Committee
+
+Remuneration disclosure
+* Company is transparent on its remuneration policies, level and mix of remuneration, the procedure for setting remuneration, and the relationships between remuneration, performance and value creation. (Principle 8 Code) 
+--> NB: this is mandatory since it is a principle of the Code
+
+* Provision 8.1 Code of Corporate Governance (applies on a “comply-or-explain” basis) states that the company discloses in its annual report the policy and criteria for setting remuneration, as well as names, amounts and breakdown of remuneration of: 
+(a) each individual director and the CEO; AND 
+(b) at least the top five key management personnel (who are not directors or the CEO) in bands no wider than S$250,000 and in aggregate the total remuneration paid to these key management personnel.
+
+* *New LR 1207(10D) requires MANDATORY disclosure of the names, amounts and breakdown of remuneration paid to each individual director and the CEO by the issuer and its subsidiaries.
+NB: mandatory because this is a listing rule!
+o Such breakdown must include (in percentage terms) base or fixed salary, variable or performance-related income or bonuses, benefits in kind, stock options granted, share-based incentives and awards, and other long-term incentives
+o New LR 1207(10D) will take effect for annual reports prepared for the financial years ending on or after 31 December 2024
+
+
+
+Yong De Wei for Part B 2023
+
+2
+
+
+

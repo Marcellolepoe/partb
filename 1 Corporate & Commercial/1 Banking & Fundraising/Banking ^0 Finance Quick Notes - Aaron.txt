@@ -1,0 +1,391 @@
+Corporate & Commercial – Banking & Finance Quick Notes
+SECTION 1: INTRODUCTION TO FUNDRAISING
+?? Purpose
+Why do companies raise capital? To fund operations, expansion, manage cash flow, or restructure. The choice of financing affects control, cost, speed, and disclosure obligations.
+?? 1A. Why Do Companies Raise Capital?
+?? Purpose of this section:
+Companies need capital for a variety of reasons throughout their lifecycle. Understanding why capital is raised helps determine the appropriate funding instrument and structure. This context is often tested in situational MCQs.
+?? Common Reasons to Raise Capital
+PurposeNotesWorking capital needsCash flow shortfalls or day-to-day operationsExpansion or growthCapital expenditure, hiring, entering new marketsMergers & Acquisitions (M&A)Funding acquisitions or joint venturesResearch & DevelopmentParticularly in tech, pharma, deep capital-intensive sectorsRefinancing or restructuringTo pay off existing high-interest debt with cheaper alternativesRegulatory capital requirementsEspecially for banks/financial institutions under Basel/BCBS rulesCrisis liquidityTemporary shortfall or black swan event buffer?? TIP FOR EXAM: If asked “why issue equity vs debt,” think:
+* Equity: ? No repayment but ? dilutive
+* Debt: ? Non-dilutive but ? repayment required
+
+?? 1B. Types of Financing
+?? Purpose of this section:
+You must understand the key classifications of financing. This is foundational to analysing the right product to use (e.g., bilateral loan vs IPO). These categories are often implied in fact scenarios.
+?? Two Common Dimensions to Classify Financing:
+ClassificationCategoriesNotesInstrumentDebt vs EquityLoan vs share issuanceMarketPrivate vs PublicBilateral bank loan vs listed bond or IPO
+??? Debt vs Equity (Quick Reference Table)
+zDebtEquityRepayment required?? Yes – principal + interest? No – perpetualDilution to shareholders?? No? Yes – shares issuedCreditor vs Owner?Lender is a creditorShareholder is an ownerControl / Voting rights?? None? YesPriority in insolvency? Senior (gets paid first)? Subordinate (last in line)Cost? Predictable (interest)? Higher expected return (dividends, growth)
+??? Private vs Public Financing
+TypeExamplesKey FeaturesPrivateBank loan, private placement, shareholder loanNegotiated terms, faster, less disclosurePublicIPO, rights issue, bond issuanceRequires prospectus, heavy disclosure, SGX or MAS involvement?? TIP FOR EXAM:
+If the company wants:
+* Speed, control, privacy ? Private financing
+* Large amounts, visibility, liquidity ? Public markets
+
+?? SECTION 2: LENDING STRUCTURES
+?? Purpose
+How a company borrows depends on how much it needs, from whom, and for how long. Loans differ by lender number, duration, and facility structure. These choices affect cost, flexibility, and documentation complexity.
+?? 2A. Bilateral vs Syndicated Lending
+?? Purpose of this section:
+Understanding the number of lenders affects legal complexity, negotiation dynamics, and exam MCQs involving "agent banks" or waiver scenarios.
+?? Bilateral vs Syndicated Comparison Table
+FeatureBilateral LoanSyndicated LoanNo. of lendersOne bank (direct loan)Multiple lenders; coordinated via agent bankControl & consent1-on-1 negotiation; flexibleWaivers and amendments require majority lender approvalDocumentationSimple loan agreementComplex: facility agreement, intercreditor arrangementsTime to arrangeFastSlower – need coordination among syndicateCostLower (fewer legal/arranger fees)Higher – arranger/agent/participation feesCommon forSMEs, working capitalInfrastructure, LBOs, large corporates?? TIP FOR EXAM: If you see “majority lender consent” or “facility agent,” assume it’s syndicated.
+
+?? 2B. Term Loan vs Revolving Credit Facility
+?? Purpose of this section:
+Knowing the type of facility affects repayment structure, cash flow flexibility, and cost. These are often baked into drawdown/default MCQs.
+?? Facility Structure Comparison Table
+TypeDescriptionRe-drawable?Typical Use CaseTerm LoanFixed amount, repaid over time (in instalments or bullet)?Capex, acquisitions, fixed projectsRevolving CreditBorrower may draw and repay repeatedly within availability?Working capital, liquidity buffer?? Common Features of Revolving Facilities:
+* Interest is paid only on drawn amounts.
+* Unused amounts may incur a commitment fee.
+* Often reviewed annually.
+?? Example in MCQs: "The borrower has a $20M facility, has repaid $5M, and now wants to re-borrow $5M…" ? That’s a revolver, not a term loan.
+
+?? 2C. Committed vs Uncommitted Facilities
+?? Purpose of this section:
+Banks are not always legally obligated to lend — understanding commitment is key when assessing enforceability of drawdowns or obligations.
+?? Comparison Table
+TypeObligation to Lend?ExampleNotesCommitted Facility? Yes (subject to CPs)Term Loan, RevolverBank must lend if borrower meets conditionsUncommitted Facility? NoOverdraft, Intercompany creditBank has full discretion to approve each drawdown?? TIP FOR EXAM: Even if all CPs are met, an uncommitted line means the bank can still say no. This is a classic exam red herring.
+
+Section 3: Security – Types, Perfection & Priority
+?? Intro:
+Understanding how banks protect their position is crucial. This section explains the types of security (mortgage, charge, pledge), the difference between fixed and floating charges, and the legal requirements to ensure security is enforceable and ranks properly in insolvency.
+
+?? 3A. Types of Security: Mortgage vs Charge vs Pledge
+?? Purpose of this section:
+You’ll need to know the legal nature, formalities, and consequences of each type of security interest. These distinctions are frequently tested in MCQs about validity, registration, and enforcement.
+?? Comparison Table – Mortgage, Charge, Pledge
+FeatureMortgageChargePledgeOwnershipLegal title transferred to lenderNo title transfer – just equitable interestNo title transferPossessionBorrower typically retains possession (unless foreclosure)Borrower retains possessionCreditor takes possessionUse caseLand, buildings, leasehold propertyAll asset classes – especially book debts or sharesMoveable goods, negotiable instrumentsRegistrationSLA (land) + ACRA if co.ACRA if over company assetsNot generally registrable with ACRAEnforceabilityMust be executed via deed; foreclosure possibleEquitable remedy – court may order saleSelf-help allowed – pledgee can sell if default?? TIP FOR EXAM: Look for who holds possession and whether legal title is transferred.
+
+?? 3B. Fixed vs Floating Charges
+?? Purpose of this section:
+Floating charges are common in bank facilities but more vulnerable in insolvency. Be ready to identify the nature, risks, and implications of each charge type.
+?? Comparison Table – Fixed vs Floating Charge
+FeatureFixed ChargeFloating ChargeAttachmentImmediately attaches to specific assetHovers until “crystallisation” eventAsset controlLender has control; borrower cannot disposeBorrower can deal freely until crystallisationExamplesPlant, equipment, real propertyInventory, receivables, cashCrystallisation triggersDefault, winding up, noticeTurns floating ? fixedPriority in insolvencyRanks ahead of floating charges & unsecured creditorsSubordinated to preferential debtsRegistrationACRA (Companies Act s131)ACRA (also s131)VulnerabilitySecure — not generally clawed backCan be invalid if created ?6 months pre-insolvency?? EXAM DANGER ZONE: If floating charge created ?6 months before insolvency ? INVALID (unless new money given).
+
+?? 3C. Perfection & Registration of Security
+?? Purpose of this section:
+Even valid security must be perfected to bind 3rd parties. If not registered, security may be void against the liquidator.
+?? Registration under Companies Act s131
+Security TypeRegister Where?Consequence if Not RegisteredMortgage over landSLA + ACRAVoid against liquidator, no priority in insolvencyFixed or floating chargeACRA (within 30 days)Void against liquidator (s131(1))PledgeNo registration req.Not registrable?? What must be registered under s131 (Companies Act):
+* Charges over land, book debts, shares, goodwill, intellectual property, etc.
+?? Example in MCQ: “A floating charge over accounts receivable was not registered within 30 days.” ? Void against liquidator.
+
+?? ACRA Registration – Cheat Sheet (Companies Act s131)
+Type of Security / TransactionACRA Registration Required?DeadlineConsequence if Not RegisteredFixed charge (company asset)? Yes30 days from creationVoid against liquidator and creditors (CA s131(1))Floating charge? Yes30 days from creationVoid against liquidator and creditorsMortgage over land (by company)? Yes (ACRA) + SLA (if SG land)30 days from creationVoid against liquidator and creditorsCharge over book debts? Yes30 daysVoid if not registeredCharge over shares or IP? Yes30 daysVoid if not registeredPledge (e.g. possession of goods)? NoN/AValid without registration – possession perfects securityPersonal guarantee (not company asset)? NoN/ANot registrable with ACRALien / set-off? NoN/AOperates by law – not registrable
+?? Quick Notes:
+* Floating charges created <6 months before insolvency may be invalid unless new value is given (even if registered).
+* If not registered within 30 days, a registrable charge is void against the liquidator, even if valid between the parties.
+* Registration = perfection for company charges.
+?? EXAM TIP: If a company creates a charge over assets (like inventory, receivables, plant, or shares), always ask:
+? "Was it registered within 30 days?"
+? "Is it registrable under s131?"
+? "Will it rank in insolvency?"
+
+
+Section 4: Debt Finance Terms – CPs, Costs, Reps, Covenants & Defaults
+?? Intro:
+Loan agreements contain extensive commercial and legal protections for lenders. This section covers key provisions in facility documentation — from conditions precedent to interest margins, reps & warranties, covenants, and what constitutes an event of default.
+?? 4A. Conditions Precedent (CPs)
+?? Purpose of this section:
+Before a borrower can draw on a facility, CPs must be satisfied. These are critical for enforceability and heavily tested in MCQs involving drawdowns.
+?? Typical Conditions Precedent Checklist
+ConditionPurposeCertified constitutional documentsConfirm authority to borrowBoard resolutionsInternal approval of borrowing/securitySigned facility agreementBinding loan termsSigned security documentationPerfected collateralLegal opinion (SG qualified counsel)Lender assurance on enforceabilityR&Ws still trueOngoing compliance checkNo EODClean status at point of drawdownDrawdown noticeFormally requests disbursementRegulatory consents (if needed)MAS or SGX if applicable? NOT typically required unless contractually agreed:
+* Personal guarantees from directors
+* Updated business plan
+* New auditor’s confirmation
+?? TIP FOR EXAM: If drawdown is blocked, ask: “Were all CPs met?” Look for missing board resolution or unsatisfied legal opinion.
+
+?? 4B. Cost of Utilisation
+?? Purpose of this section:
+Lending comes with multiple cost layers — not just interest. You must recognise what applies when and spot traps in MCQs about commitment vs prepayment.
+?? Breakdown of Lending Costs
+CostWhen Charged?NotesBase RateAlways (e.g. SORA or SIBOR)Floating or fixedMarginAlwaysReflects borrower’s credit riskCommitment FeeOn undrawn amount in a committed facility~0.25–1.0% p.a. on undrawn balanceUtilisation FeeSometimes (for drawing above threshold levels)Used in large syndicated loansArrangement FeeUpfront for arranging the facilityUsually paid to lead bankPrepayment FeeEarly repaymentOften waived for voluntary repaymentDefault InterestAfter EODPenal rate (e.g. +2–3% above margin)?? TIP FOR EXAM: A fee “on undrawn portion” = commitment fee, not margin.
+
+?? 4C. Representations & Warranties (R&Ws)
+?? Purpose of this section:
+These are statements of fact the borrower makes at signing and repeats at drawdown. If untrue, lender may refuse disbursement or call default.
+?? Typical R&Ws
+RepresentationWhy It MattersCorporate status and capacityBorrower is validly incorporated and empoweredNo breach of law or other agreementsDoesn’t violate other loan agreements or contractsNo material litigationNot facing serious lawsuitsNo defaultNo current EODsValidity of obligationsLoan and security are bindingAuthorisations obtainedAll MAS/SGX/board approvals securedSolvencyCan pay debts as they fall due? Unusual R&Ws not generally included:
+* Forecasted business success
+* Confirming future market conditions
+* Personal guarantees or director solvency
+?? TIP FOR EXAM: At drawdown, R&Ws must still be true. If they aren’t, bank can block drawdown.
+
+?? 4D. Covenants
+?? Purpose of this section:
+Covenants are promises to do or not do things. They allow lenders to monitor risk and act early. You must identify which type applies and what triggers a breach.
+?? Covenant Categories
+TypeExamples? PositiveMaintain insurance, provide financials, pay taxes? NegativeNo additional debt, no asset sales, no guarantees?? FinancialMaintain debt/equity ratio, EBITDA coverage, interest cover?? InformationProvide audited accounts, notify of default?? EXAM TRAP: “Notify the lender of any breach” = information covenant.
+
+?? 4E. Events of Default (EODs)
+?? Purpose of this section:
+EODs allow lenders to accelerate repayment, enforce security, or cancel the facility. Some are automatic; others need grace periods or materiality thresholds.
+?? Common EODs
+CategoryExample?? Non-paymentFailure to pay interest or principal?? Breach of covenantBreaching negative or financial covenant? MisrepresentationAny R&W becomes materially untrue?? InsolvencyBorrower winds up, appoints receiver, ceases to trade?? Cross-defaultDefault under other facility or bond triggers this default?? UnlawfulnessLoan or security becomes illegal under new law?? MACMaterial Adverse Change in borrower’s position (optional)?? TIP FOR EXAM: Look out for “acceleration” language or questions asking if lender can cancel facility — check for valid EOD.
+
+
+?? 5. Enforcement of Security & Insolvency Implications
+?? Purpose of this section:
+When a borrower defaults, the bank's ability to enforce its security and recover debt becomes crucial. This section covers enforcement options, priority of claims, and what happens during insolvency. This is often tested in MCQs involving default scenarios.
+
+?? 5A. Enforcement of Security Interests
+?? When Can Security Be Enforced?
+TriggerExamplesEvent of Default (EOD)Non-payment, insolvency, covenant breachCrystallisation EventFloating charge becomes fixed (e.g. insolvency, notice served)Expiry of grace periodAfter borrower fails to cure within contractually allowed time
+?? Enforcement Mechanisms
+Security TypeRemedyNotesMortgageForeclosure or saleMortgagee may take possession or appoint a receiverFixed ChargeAppointment of receiver or saleCan enforce against specific asset immediatelyFloating ChargeCrystallises ? enforce as fixedMay rank behind preferential debts if created ?6 months before insolvencyPledgeSelf-help sale by pledgeeNo need for court process?? TIP FOR EXAM: If the lender is in possession of a movable asset (e.g. gold, shares), it’s likely a pledge, and self-help sale is allowed.
+
+?? 5B. Priority of Claims in Insolvency
+?? Who Gets Paid First?
+RankingExample1?? Costs of winding upLiquidator’s remuneration, court costs2?? Preferential debtsEmployees’ salaries, CPF, taxes3?? Fixed charge holdersSecured creditors with specific charge4?? Floating charge holdersSubject to deduction of preferential debts5?? Unsecured creditorsTrade creditors, unsecured loans6?? ShareholdersEquity holders (get nothing unless surplus)?? Preferential debts rank ahead of floating charge proceeds (Companies Act s328).
+
+?? Vulnerable Security — Clawback Risk
+Security TypeRiskFloating charge <6 monthsMay be invalid if borrower insolvent (unless new value was given)Transaction at undervalueCan be clawed back if undervalued + within 5 years pre-liquidationUnregistered charge (s131)Void against liquidator (no priority unless registered)?? TIP FOR EXAM: If a floating charge was created 6 months before insolvency, and no new money was advanced ? Void.
+
+?? 5C. Receivership vs Liquidation
+AspectReceivershipLiquidationTriggerAppointed by secured creditor (usually fixed charge)Court order / shareholder resolutionRoleRealise charged assets for creditorWind up company, pay off creditorsControl of Co.Receiver takes over assets onlyLiquidator displaces directors, takes full controlFocusRealisation of assets under securityEntire company dissolvedTerminationReceiver retires when secured debt is paidCompany ceases to exist at end of liquidation
+
+
+
+SECTION 2: Debt Capital Markets
+Table of Contents
+1. ?? 1. What is DCM & Why Use It
+2. ?? 2. Types of Debt Instruments
+3. ?? 3. Offer Structures & Core Documents
+4. ?? 4. Prospectus, OIS, IM – Liability & Filing
+5. ?? 5. Trustee & Trust Deed
+6. ?? 6. Covenants & Events of Default
+7. ?? 7. SGX Listing Requirements
+
+
+Liability of Offer Documents 
+Document TypeApplies to?Statutory Liability?Who is Liable?Defence Available?SFA ProvisionsProspectusPublic offers? YesIssuer, directors, underwriters, guarantors? Due diligence defencePart XIII (s253–s263)OIS (Offer Info Statement)Exempt offers (e.g. s277)? Yes, limitedIssuer only? Reasonable beliefs277(12)IM (Information Memorandum)Institutional offers (s274/275)? No (not regulated)Only contractual or tort liability? No statutory defenceCommon law only?? Lodgement / Registration of Offer Documents – MAS / ACRA Cheat Table
+Document TypeFiled with MAS?Registered with MAS?ACRA Filing?Statutory RequirementsProspectus (Public Offer)? Yes – must be lodged with MAS? Yes – must be registered by MAS before offer can proceed? NoSFA s240–242OIS (Offer Info Statement)? Yes – must be lodged with MAS? No – no need for MAS registration? NoSFA s277(4)IM (Information Memorandum)? No? No? NoExempt under SFA s274, s275, s302B
+
+?? Debt Capital Markets (DCM)
+?? 1. What is DCM & Why Use It 
+?? Purpose of this section:
+To understand what Debt Capital Markets are, when they are used, and how they compare with traditional bank lending.
+
+??? What is DCM?
+DCM refers to the process by which companies raise debt from the capital markets, by issuing bonds or notes to investors — instead of borrowing from banks.
+FeatureBank LendingDCM IssuanceLenderBank(s)Multiple institutional investorsDocumentFacility AgreementOffering documents, trust deedCostInterest rate (margin + base)Coupon on bondRepaymentFixed repayment scheduleBullet repayment (usually at maturity)DisclosurePrivateProspectus / OIS / IM (depends)Use caseShort-medium termLarger, long-term funding
+?? Why Use DCM?
+ReasonNotesDiversify funding sourcesReduces dependence on banksRaise larger sumsEspecially via programmes (e.g. MTN)Longer maturitiesBonds can go up to 10–30 yearsFlexibility in structureSubordinated debt, convertible, callable structures possibleAccess to broader investor baseIncludes insurers, pension funds, private banks?? TIP FOR EXAM: If the question mentions desire for repeat access, institutional base, or large, long-term funding ? likely use DCM route.
+* 2 Debt Capital Markets (DCM)
+o 2.1 Bonds & Bond Markets
+* 2.1.1 What is a bond
+* 2.1.2 Why bond vs loan (feature comparisons)
+* 2.1.3 Eurobond vs Domestic
+* 2.1.4 Standalone vs MTN programmes
+* 2.1.5 Wholesale vs Retail markets
+o 2.2 Structure of a Bond Transaction
+* 2.2.1 Key parties & what they do
+* 2.2.2 Trustee vs Fiscal Agency structures
+o 2.3 Prospectuses & Prospectus Exemptions
+* 2.3.1 Core offering documents (Prospectus / OIS / IM)
+* 2.3.2 Prospectus content & offences (SFA)
+* 2.3.3 Common exemptions: s 274, s 275; BSF & EBI frameworks
+o 2.4 Documents, Process & SG Regime
+* 2.4.1 Document suite (who prepares/signs/when)
+* 2.4.2 Step-by-step timeline (pre-launch ? launch ? signing ? closing)
+* 2.4.3 SGX Listing requirements for debt (Listing Manual r 303–305, 313, etc.)
+* 2.4.4 Liability matrix (Prospectus / OIS / IM; statutory & general law)
+* 2.4.5 Clearing & settlement (at a glance)
+
+2 Debt Capital Markets
+2.1 Bonds & Bond Markets
+2.1.1 What is a bond
+ItemExam-fast definitionBond natureInstrument constituting/evidencing a debt; issuer promises to repay principal at maturity; holder receives interest (coupon/zero/convertible features possible).ReturnInterest on specified dates; principal at maturity.Core contrastSecurities form, transferable; unlike a bilateral bank loan.2.1.2 Why bond vs loan (feature comparisons)
+FeatureBonds (typical)Syndicated Loans (typical)Exam flags / trapsInvestor baseBroad (institutions: insurers, pension funds, AMs); tradable on secondary markets.Banks / loan funds; secondary trading less common (except distressed).If liquidity/transferability matters ? bond.CovenantsFewer / lighter (often just negative pledge; light info covenants).Heavier operational/information covenants.“Covenant-lite” is not covenant-free.Interest profileFixed, floating, zero, convertible options; structurable.Mainly floating (IBOR/Term SORA + margin).Borrower wanting optionality may prefer bonds.SecurityFrequently unsecured (secured possible but uncommon).Security more common for leveraged borrowers.“Unsecured” ? “no recourse”; claim is contractual.Disclosure & DDLess granular disclosure (public financials; OC/prospectus driven).Deep lender DD; management accounts, covenants.Prospectus liability regime differs: see 2.3.Speed/CostCan be cheaper capital if investor appetite is strong.Relationship-driven, can be faster for bespoke needs.Market windows favour MTN speed (see 2.1.4).2.1.3 Eurobond vs Domestic
+FeatureDomestic BondEurobond (International)Currency/marketIssued to domestic investors in domestic currency.Denominated in a currency different from the country(ies) of sale.DistributionDomestic market (e.g., SGD to SG investors).Global distribution; traded across hubs (HK, SG, Tokyo, London, NY).RationaleLocal investor base; align with domestic liabilities.Larger pool of funds, pricing diversification, FX access.ConsiderationsLocal regulation & listing.Multi-jurisdictional compliance burden higher.2.1.4 Standalone vs MTN Programmes
+AspectStandalone IssueMTN ProgrammeWhat it isOne-off issuance with fixed terms.Uncommitted framework with appointed banks to issue notes from time to time.DocsOne set for that deal.Base docs stay; pricing supplement per tap.SpeedSlower; build docs each time.Fast to market; exploit windows.CostLower setup; higher per-issue friction.Higher initial setup; amortises over multiple taps.FlexibilityBespoke terms easier.Wide menu, but very unusual/complex terms may strain framework.Best forInfrequent issuers; bespoke features.Frequent or opportunistic issuers seeking consistency & speed.2.1.5 Wholesale vs Retail bond markets
+FeatureWholesaleRetailInvestorsSpecified investors only; large denominations.Open to all investors.TradingLargely OTC.Exchange-traded possible (e.g., SGX).DisclosureIM / professional-grade docs.Prospectus/OIS; fuller retail protections.SGX lot sizeOften SGD 200,000 min lot for wholesale listings (LM r e).Smaller lots for retail.
+2.2 Structure of a Bond Transaction
+2.2.1 Key parties & what they do
+PartyRolePractical notesIssuer / GuarantorIssues notes; may provide guarantee.Corporate authority, negative pledge, use of proceeds.Managers / UnderwritersAdvise on structure/market/covenants, manage marketing & bookbuild; may underwrite.Subscription/Underwriting Agreement governs; joint & several subscriptions; AAM for inter-manager split.Paying Agent / Fiscal AgentAdminister payments (coupon/redemption) to holders via clearing systems.Fiscal Agent acts for Issuer (not for holders).TrusteeRepresents bondholders collectively (trust structure).Required for SGX listing unless offered only to specified investors and min lot SGD 200k equivalent.RegistrarMaintains register for registered notes.Often same group as agent bank.Clearing systemsBook-entry settlement & DVP.Global note lodged; beneficial interests tracked.2.2.2 Trustee vs Fiscal Agency structures
+DimensionTrustee StructureFiscal Agency StructureExam flagsRepresentationTrustee represents all bondholders.No collective representative.Trustee is not a mere agent; owes fiduciary duties to holders.EnforcementTrustee may act without prior holder consent (subject to deed); often acts upon specified holder thresholds.Each holder must enforce its own rights.Practicality: trustee streamlines action in dispersed holdings.Listing on SGXTrustee generally required unless wholesale carve-out met.Used more for professional markets.Wholesale carve-out: offer only to specified investors and min lot SGD 200k.Paying agencySeparate paying agency agreement.Fiscal Agent doubles as principal paying agent.Deed of covenantNot needed (trustee enforces).Needed to give holders direct rights vs issuer.If no trustee, deed of covenant is critical.
+2.3 Prospectuses & Prospectus Exemptions
+2.3.1 Core offering documents (when to use; liability)
+DocumentWhen usedRegistrationLiability highlightsProspectusPublic/retail offers unless exempt.Register with MAS; circulate after registration.Civil & criminal: SFA ss 253–254 (false/misleading, omissions). Content: SFA s 243; Product Highlights Sheet required.Offer Information Statement (OIS)Listed issuer offering to retail (SFA s 277).Lodged (no 7-day exposure; no registration).Same ss 253–254 liability applies.Information Memorandum (IM)Specified investors (e.g., s 274 institutional, s 275 accredited).No MAS registration.No prospectus liability, but: SFA s 199 (false/misleading), s 200 (fraudulent inducement) + general law.2.3.2 Prospectus content & offences
+TopicRequirement / RiskStatute / RuleContent baselineAll info reasonably required for informed assessment + prescribed info.SFA s 243; regs; LM Ch 6 if listed.OffencesFalse/misleading statements; omission of required matters; offering without prospectus where required.SFA ss 253–254.Product Highlights SheetProspectus to be accompanied by PHS.SFA / regs.Exposure & registrationProspectus lodged for exposure before MAS registration (minimum exposure period).Practice: ?7 days exposure before registration.2.3.3 Prospectus exemptions (common)
+ExemptionWho qualifiesDocumentNotess 274 Institutional InvestorsBanks, FIs, etc.IMWholesale bonds; often SGX wholesale listing.s 275 Accredited Investors (AIs)Individuals (?SGD 2m net personal assets; or SGD 1m + income SGD 300k), corporations (?SGD 10m net assets).IMStandard AI carve-out.Issuer already listed ? OISListed issuers tapping retail.OISSFA s 277; reduced disclosure vs prospectus.Bond Seasoning Framework (BSF)Season wholesale bonds for retail trading after 6 months (conditions apply).Existing docs; seasoning notice.Issuers may re-tap seasoned terms.Exempt Bond Issuer (EBI)Higher credit/eligibility; permit direct retail offers without prospectus/seasoning.Simplified docs.Stricter criteria than BSF.SGX disclosure for wholesale listing“Offering documents must contain info customarily expected by professional investors.”LM r 313Sets market-standard disclosure expectation.Exam traps
+* IM ? “liability-free”: SFA s 199/s 200 still bite; Misrepresentation Act 1967 and common law negligence also apply.
+* OIS still attracts ss 253–254 liability (same as prospectus).
+
+2.4 Documents, Process & SG Regime
+2.4.1 Document suite (who prepares/signs/when)
+DocumentPurposeWho prepares (typical)Who signsNotesProspectus / OCMain offer disclosure.Managers’ counsel (lead); issuer counsel reviews.Issuer/Directors (prospectus)PHS accompanies; register with MAS (prospectus).Subscription (Underwriting) AgreementManagers commit to subscribe; pricing terms.Managers’ counsel.Issuer & Managers.Often joint & several; indemnities, reps/warranties.Agreement Among Managers (AAM)Inter-manager liability/splits/authority.Managers’ counsel.Managers.Authorises lead manager actions.Fiscal Agency AgreementRelationship Issuer–Fiscal Agent.Issuer counsel.Issuer & Fiscal Agent.Used in fiscal structure.Deed of CovenantDirect rights for holders (no trustee).Issuer counsel.Issuer.Only when no trustee.Trust DeedConstitutes trust; covenants; trustee powers.Trustee/Managers’ counsel.Issuer & Trustee.Used in trustee structure; trustee protections.Paying Agency AgreementMechanics for payments to holders.Issuer counsel.Issuer & Paying Agents.Applies in both structures.Global NoteThe security; deposited with ICSD.Issuer/Managers’ counsel.Issuer.Definitives only in limited cases.Legal OpinionsCapacity, authorisation, enforceability.Counsels.Law firms.Condition to closing.Auditor Comfort LettersFinancial diligence comfort.Auditors.Auditors.Negative assurance; procedures described.Corporate AuthorisationsBoard/Shareholder approvals.Issuer/Company Sec.Issuer.Condition precedent.Signing & Closing MemoChecklist & CPs.Counsel.N/A.Ensures orderly execution & delivery.2.4.2 Timeline (step-by-step)
+StageCore actionsKey docs / checksExam checksPre-launchMandate lead manager; appoint counsel; structure (registered/bearer; global vs definitive; list/rate).Mandate letter; due diligence; ratings; draft base docs.Capacity: “Can issuer issue? Can guarantor guarantee?”Launch & RoadshowAnnounce, pre-sell, bookbuild.OC/prospectus near-final; term sheet; investor presentations.No misleading statements (ss 199/253/254).SigningExecute Subscription; MAS approval/registration (prospectus).Signed Sub/Underwriting; AAM; process agent; escrow.Signing usually 2–7 days pre-closing.ClosingIssue & settle via ICSD; funds flow.Global note; trust/fiscal agreements; legal opinions; comfort letters.DVP through clearing; book-entry interests.Post-issueCoupons/redemption; ongoing disclosure if listed.Paying agency ops; issuer announcements.LM r 703(1) continuous disclosure; special shareholding condition triggers announcements (r 704(31), 728).2.4.3 SGX Listing requirements (debt) – at a glance
+Issuer typeMinimum principalAdditional criteriaRule / NoteLocal issuer listed on SGX? SGD 750,000 (or FX equiv.)—LM r 303–304.Local issuer not listed? SGD 750,000 and meet r 210(2)–(5); OR 80% to specified investors; OR SG Govt/agency; OR investment-grade rating; OR guaranteed by listed/eligible/SG Govt entity.One of listed pathways.LM r 303–304.Foreign issuerPathways include supranational; government/guaranteed; SGX-listed equity; meet r 210(2)–(5); profit/NTA thresholds; or alternatives (80% to specified; investment-grade; straight debenture exemption; Part VI eligibility).Paying agent in SG generally required.LM r 303–305 (r 305: paying agent).Wholesale board lotSGD 200,000 min (FX equiv.).For wholesale bonds on SGX.Practice rule in LM.Trustee requirementTrustee generally required unless (i) offered only to specified investors, and (ii) min lot SGD 200k.—SGX practice.Offering docs content (wholesale)“Info customarily expected by professional investors.”—LM r 313.Continuous disclosure (listed issuers)
+* LM r 703(1): announce info needed to avoid a false market or likely to materially affect price/value.
+* Special loan/straight debt conditions tied to controlling shareholders: immediate announcement if breach triggers default/enforcement/acceleration significantly affecting operations/cashflow; obtain undertakings (r 704(31), 728).
+2.4.4 Liability matrix
+Document / conductWho can be liableStatute / causeWhat triggersProspectusIssuer; directors/proposed directors; underwriters; named proposed directors etc.SFA ss 253–254False/misleading statements; omissions; offers without prospectus where required.OISSame as prospectus.SFA ss 253–254As above.IM (wholesale)Those making statements / inducing dealing.SFA s 199 (false/misleading); s 200 (fraudulent inducement)Misstatement/fraud in IM or marketing.General lawMakers of statements; advisors.Negligent misrep (common law); Misrepresentation Act 1967; Penal Code (fraud)Misstatements / reliance / loss; dishonesty offences.2.4.5 Clearing & settlement (one-page)
+TopicExam-fast takeGlobal vs DefinitiveGlobal Note represents the whole issue; lodged with ICSD; holders have beneficial interests. Definitives only in rare fallback situations.DVP via clearing systemsCash & securities move simultaneously on books of ICSD; reduces delivery risk across time zones/currencies.Why usedHigh values, many participants, cross-border timing ? need book-entry certainty and operational efficiency.
+
+
+SECTION 3: EQUITY CAPITAL MARKETS
+
+Table of Contents
+1. Why Issue Shares vs Debt (overview, quick compare)
+2. Private Equity Financing (Unlisted Cos.)
+2.1 Sources of capital
+2.2 Prospectus exemptions (small offer, private placement, AI/II)
+2.3 Shareholder number cap; Take-overs Code trigger; approvals
+2.4 Core documents & common investor protections
+3. Public Offerings / IPOs
+3.1 SGX boards & admission criteria (Mainboard vs Catalist)
+3.2 Prospectus (content, process, liability, publicity rules)
+3.3 IPO process & timetable
+3.4 Marketing methods (pre-IPO, cornerstone, roadshows, retail)
+3.5 Underwriting
+3.6 Key players & documents
+4. Post-Listing Continuing Obligations
+4.1 Immediate disclosure / false market
+4.2 Periodic financial reporting
+4.3 Interested Person Transactions (IPTs)
+4.4 Significant Transactions (Acquisitions/Disposals)
+4.5 Corporate governance highlights
+4.6 Share issue mandates (Rule 806)
+5. Secondary Equity Offerings (Placements / Rights)
+6. VC in Singapore (VIMA) – quick map to documents & typical protections
+7. Exam Application Guides (how to tackle MCQs)
+
+1) Why issue shares (vs debt) — quick compare
+DimensionEquityDebtCash obligationsNo principal repayment; dividends discretionaryMandatory interest & principalControlDilution of voting/controlNo voting/control rightsCovenantsLight (listing/CG rules)Often heavy financial/negative covenantsCostOften higher CoC but permanent capitalLower cost if credit strong; refinancing riskMarket impactBroader investor base; liquidityLeverage/credit metrics affectedExam flags
+* Don’t forget existing leverage/negative pledge constraints may block new debt; equity avoids breaches but dilutes.
+* Market timing: high valuation windows favour equity; distressed windows favour back-stop/rights.
+
+2) Private Equity Financing (unlisted companies)
+2.1 Sources (fast map)
+Friends/family, angels, government (Startup SG), incubators, CVCs, VC funds.
+2.2 Prospectus Exemptions (NO prospectus required) — SFA
+ExemptionCore testKey conditionsPin-citeSmall offers? S$5m raised in any 12 monthsOffer info memorandum; resale limitsSFA s 272A. AGC SingaporePrivate placementOffer to < 50 persons in any 12 monthsNo ads/publicitySFA s 272B. Monetary Authority of SingaporeInstitutional investorsOffer only to IIsNil min; resale limitedSFA s 274. Finreg.sgAccredited/other spec. investorsOffer only to AIs/Section 275 personsResale ring-fenced for 6 months (exceptions)SFA s 275–276. AGC SingaporeRed herrings
+* “49 people” per round ? compliant if multiple tranches cross 12-month window (aggregate headcount).
+* AI/II on-sale: within 6 months, re-sales are restricted (don’t assume free trading). AGC Singapore
+2.3 Other hurdles
+* Private company cap: ? 50 shareholders; else becomes public company (Companies Act s 18). AGC Singapore
+* Public company with >50 SHs and NTA ? S$5m is prima facie under Take-overs Code. rulebook.sgx.com
+* Board power to issue shares needs shareholders’ approval (specific or general mandate) (Companies Act s 161). AGC SingaporeDefault
+2.4 Core private docs & protections
+DocPurposeTypical investor protectionsSubscription AgreementTerms of subscription; warranties; CPsBusiness warranties; MAC; info rightsSHAGovernance between SHsBoard seats/observers, reserved matters, pre-emption, anti-dilution, ROFR/ROFO, tag/drag, lock-ups, exitConstitution updatesEmbed terms (e.g., pref share rights)Liquidation preferences, dividends, conversionExam flags
+* Anti-dilution usually weighted-average (not full-ratchet unless negotiated).
+* Founders: vesting/claw-backs + lock-ups are common.
+
+3) Public Offerings / IPOs
+3.1 SGX Boards & Admission (Mainboard vs Catalist)
+Mainboard – Rule 210 (key items)
+* Free float & spread at IPO (table below) and ? 500 shareholders. Post-listing free float ? 10% (policy). Public tranche: at least 5% of shares or S$50m, whichever lower (Rule 233A). rulebook.sgx.com+1
+o Free float & distribution at IPO (Rule 210(1))
+* Public hands = anyone who is not a director, substantial shareholder, CEO or their associates. 
+Market capPublic handsMin shareholdersDistribution notes< S$300m25%500Additional spread rules applyS$300–400m20%500—S$400m–<S$1b15%500—? S$1b12%500—
+* Quantitative criteria (pick one):
+o Profit test A: ? S$30m pre-tax profit latest FY; 3-yr track record.
+o Profit test B: Profitable latest FY; 3-yr track; ? S$150m market cap.
+o Market cap test: Revenue latest FY; ? S$300m market cap. (Special carve-outs for life sciences/MOG companies). Rule 210(2). rulebook.sgx.com
+Catalist
+* No quantitative minima; Sponsor-driven suitability (Approved Full Sponsor) incl. 3-yr continuous sponsor post-listing. (Catalist LM / Sponsor regime). ICMA
+* Free Float & Shareholding Spread:
+o At IPO: ? 15% in public hands.
+o ? 200 public shareholders.
+o Min subscription/allocation value = S$200 at ? S$0.20 per share.
+Red herrings
+* “Introduction” ? capital raise; needs introductory document (not a prospectus), but SGX may require prospectus-level disclosure in some cases. rulebook.sgx.com+1
+3.2 Prospectus (SFA / SFR (2018))
+Content test: “all information reasonably required by investors and their advisers” (SFA s 243 + detailed SFR schedules). Monetary Authority of Singaporerulebook.sgx.com
+Lodgement/registration: Lodged on OPERA; public exposure 7–21 days; MAS may register thereafter (or extend). Supplementary/replacement prospectus required if defect arises before close. AGC Singapore
+Publicity rules: No advertising of the IPO before lodgement (tight exceptions e.g., research reports under conditions) (SFA s 251/300 family). rulebook.sgx.com
+Liability & defences
+ProvisionWhat it doesSFA s 253Criminal liability for false/misleading statements/omissions in prospectus. Monetary Authority of SingaporeSFA s 254Civil liability (damages) for investors. Monetary Authority of SingaporeSFA s 255Defences: due enquiry + reasonable belief. Monetary Authority of SingaporeWho is on the hook? Issuer/offeror, directors (incl. proposed directors), issue manager, underwriters (not sub-underwriters), named experts, and any person making the statement/omission. (SFA scheme). Monetary Authority of Singapore
+Red herrings
+* Introductory document is not an SFA “prospectus”, so prospectus liability does not attach, but other SFA/common law liabilities may still apply. ???????? ?????????
+3.3 Typical IPO process (Mainboard)
+1. Appoint issue manager & professional team ? 2) Pre-IPO restructuring & due diligence ? 3) Draft prospectus ? 4) Submit listing application (SGX) + lodge prospectus with MAS (or pre-lodgement review) ? 5) Q&A with SGX/MAS ? 6) Underwriting / cornerstone ? 7) Registration of prospectus ? 8) Bookbuild & pricing ? 9) Allocation & settlement ? 10) Admission & listing (and possible stabilisation/over-allotment). AGC Singapore
+Indicative timing: ~6–12 months (issue-dependent).
+3.4 Marketing methods
+MethodWhat & whyExam cautionsPre-IPO placementsCredentialise book; early funding for processDon’t trip exemptions rules pre-lodgement (no ads). rulebook.sgx.comCornerstonesSeparate but concurrent at IPO priceAllocation disclosure; lock-ups commonRoadshowsInsto/AI marketing after lodgementKeep within publicity rules. rulebook.sgx.comRetail advertisingOnly post-lodgement & within rulesPre-lodgement ads prohibited. rulebook.sgx.com3.5 Underwriting
+* Mainboard IPOs typically fully underwritten; banks backstop unsubscribed shares ? deal certainty; non-underwritten IPO requires SGX consultation/approval. (Market practice; LM).
+3.6 Key players & core documents
+PartyRole (exam-style)Issue manager/Lead underwriterGatekeeper on suitability; files with SGX; bookbuild; underwriting syndicateLegal counsel (issuer/underwriters)Prospectus diligence & liability control; transaction docs; opinionsAuditorsHistorical/interim/pro forma FS; comfort lettersInternal controls consultantControls remediation/readinessPR/IRPublicity within rulesRegistrar/CDPRegister & scripless settlement (CDP)Key docs: Prospectus/OIS, underwriting agreement, cornerstone/lock-ups, comfort letters, legal opinions, board/SH resolutions. AGC Singapore
+
+4) Continuing Obligations (Listed issuers)
+4.1 Immediate disclosure / false market
+* Rule 703: disclose any material information necessary to avoid a false market or that would likely materially affect price. Must promptly clarify/confirm rumours with price impact.
+4.2 Periodic financial reporting (headline)
+* Half-year & full-year timelines (45/60 days respectively); quarterly if audit/adverse opinion/going-concern or regulatory concern. (SGX practice notes/LM). AGC Singapore
+4.3 Interested Person Transactions (Chapter 9)
+ThresholdRequirementRule? 3% latest audited NTA (per interested person per FY, aggregated)Immediate announcementRule 905. Exceptions < S$100k? 5% latest audited NTA (standalone or aggregated)Shareholders’ approval; interested person & associates abstainRule 906Red herrings
+* Aggregation across the FY with same interested person; < S$100k transactions are generally excluded (but SGX may aggregate). rulebook.sgx.com
+4.4 Significant Transactions (Chapter 10)
+* Relative figures tests (Rule 1006): assets, profits, consideration vs market cap, securities issued (%), and reserves (MOG disposals). rulebook.sgx.com
+CategoryRelative figureWhat’s requiredDiscloseable> 5% – ? 20%Immediate announcement (Rule 1010)Major> 20% – < 100%Announcement + shareholders’ approval (Rule 1014)VSA / RTO? 100% or change in controlEnhanced approvals/circulars (Rule 1015)Exam traps
+* Negative numbers can distort 1006(a)/(b) – see PN 10A for guidance; SGX can still apply Ch 10. rulebook.sgx.com
+4.5 Corporate Governance highlights
+* Independent directors: at least 1/3 of board (or majority if non-independent chair); 9-year tenure cap tightened (2-tier vote introduced; rules/guidance updated 2022). Comply-or-explain Code in AR. Monetary Authority of Singapore
+4.6 Share issue mandates (Rule 806)
+* General mandate: up to 50% of issued shares; non-pro-rata placements capped at 20% within that 50%. Adjustments per Rule 806(3). (Mainboard & Catalist mirror). rulebook.sgx.com
+
+?? Secondary Equity Offerings (SEO)
+1. What is an SEO?
+* Any issuance of new shares by a company after it is already listed.
+* Main routes:
+1. Placements (non-pro rata, usually to institutions/AI)
+2. Rights issues (pro rata to all shareholders, often renounceable)
+3. Preferential / open offers (pro rata to selected group, hybrid form)
+
+2. Key Methods Compared
+MethodWho gets to buy?Documents neededProsConsExam TrapsPlacementInstitutional / AI investors (selected by underwriters & issuer)Prospectus only if it’s a public offer; otherwise usually under s 274/275 exemption. Still needs SGX approval under Rule 806 mandateFast, flexible pricing, fewer disclosure obligationsDilutes existing SHs not invitedNeeds mandate: general mandate (50% cap; 20% for non-pro rata placements) under Rule 806Rights IssueAll existing SHs (pro rata entitlement). Rights may be renounceable (tradeable) or non-renounceableProspectus (if retail); sometimes OIS if secondary offeringFair (everyone gets chance), larger fundraise possible, can be underwrittenSlower, costlier (prospectus), SHs may not take up ? need underwritingWaived only if exempt; must check pre-emption rules in SHA/ConstitutionPreferential / Open OfferSub-set of SHs (pro rata, but to selected classes e.g. institutions, strategic investors)SGX approval; may need circular to SHsHybrid – flexible but still some fairnessCan look discriminatory if mis-usedDon’t confuse with rights issue (this is not tradable; narrower group)
+3. Regulatory Hooks
+* Rule 806 (LM):
+o General mandate allows up to 50% of issued shares to be issued.
+o Within that, non-pro rata placements capped at 20%.
+* If mandate exceeded ? specific SH approval needed.
+* Rights issues (pro rata) are often separately mandated each AGM.
+
+4. Exam Red Herrings
+* Thinking a placement = prospectus always ? ? not if exempt (s 274/275).
+* Forgetting Rule 806 caps (50% overall; 20% non-pro rata).
+* Mixing up rights issue (tradable) vs preferential offer (not tradable).
+
+?? Venture Capital (VC) in Singapore
+1. Difference between VC and PE
+AspectVenture Capital (VC)Private Equity (PE)Stage of companyEarly-stage, high growth, high riskMature, establishedStake sizeMinorityMajorityControlFounders usually retainPE firm takes significant controlDeal structureMultiple rounds; pref shares common; convertible notes (SAFE/CARE)Single/few rounds; equity + debt mixGoalGrowth & exit via IPO or saleOptimise, restructure, exit at profit
+2. Sources of VC Funding
+* Friends & family
+* Angel investors
+* Govt schemes (Startup SG)
+* Accredited incubators
+* Corporate VCs
+* VC funds
+
+3. Standard Docs (VIMA suite – exam buzzword)
+DocumentPurposeNDAKeep deal talks confidentialTerm sheetHigh-level commercial terms (non-binding except key clauses)Share Subscription Agreement (SSA)Binding terms of investment, warrantiesShareholders’ Agreement (SHA)Governance: reserved matters, board rights, transfersConstitution (amended)To embed pref share rights (liquidation prefs, conversion, dividends)Convertible Agreement Regarding Equity (CARE)SG version of US SAFE note (cash now, equity later on trigger events)Employee Share Option Plan (ESOP)Incentivise key employees
+4. Typical Protections VC Investors Negotiate
+ProtectionWhat it doesReserved mattersCertain key decisions require investor approvalAnti-dilutionWeighted-average (or rarely, full ratchet) adjustment if down-roundLiquidation preferencePref shareholders paid first (e.g. 1x, participating/non-participating)Pre-emption rightsRight to participate in new issuancesROFR / ROFOPriority to buy shares before external buyersTag-along (co-sale)Minority can piggyback if majority sellsDrag-alongMinority forced to sell if majority sellsLock-upsPrevent founders/SHs from selling for X yearsBoard rightsRight to nominate directors/observers
+5. Exit Strategies
+* Successful company: IPO (qualifying IPO clause often requires minimum valuation); trade sale; secondary buyout.
+* Unsuccessful company:
+o Co-sale rights (piggyback on a third-party buyer).
+o Redemption of pref shares (subject to solvency & profits test under Companies Act).
+o Liquidation preference triggered in winding-up, merger, asset sale, etc.
+
+6. Exam Red Herrings
+* Thinking VC always takes control ? ? usually minority, unlike PE.
+* Forgetting that pre-emption/ROFR rights may sit both in SHA & Constitution.
+* Redemption of pref shares is not always possible — limited by Companies Act solvency rules.
+* CARE ? debt ? it’s equity-linked; triggered on next round or exit.
+
+
+
+
+
+
+
+
+
+
+
+
+

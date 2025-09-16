@@ -1,0 +1,2077 @@
+Contents
+Supervision of staff, use of titles and executive appointments	5
+Responsibility for staff of law practice	5
+Lawyer’s Duty to exercise proper supervision over staff working under Lawyer in LP – Rule 32	5
+*Supervision of Paralegals	5
+S33 LPA: unauthorized persons carrying out lawyering	6
+Court proceedings (s33(1) LPA)	6
+Specific lawyering acts (non-Court proceedings) (s33(2) LPA)	7
+Offer or agree to provide lawyering services (s33(3) LPA)	7
+Body corporates	8
+Additional consequences for breach of s33 when money is received by unauthorized person	8
+Exceptions to s33	8
+S77 LPA: Lawyers assisting unauthorized persons to carry out lawyering	9
+Offense for lawyer to assist unauthorized person in carrying out lawyering	9
+Offense for lawyer to authorize unauthorized person to operate solicitor bank account	9
+Consequences of breach	10
+Practical tips to not breach s33: Solicitor should not rubber-stamp work by unauthorized person	10
+Descriptions and titles (R 33 PCR)	10
+Executive appointments (Rule 34, First to Fourth Schedules PCR)	10
+Lawyers absolutely prohibited from certain executive appointments in certain non-law businesses – Rule 34(1)	10
+Exception: Lawyers allowed to accept executive appointments in non-law business under conditions – Rule 34(4)	11
+Lawyer in a LP may accept executive appointment in another LP if 2 conditions satisfied – Rule 34(2)	12
+Lawyer may accept executive appointment in a business providing law-related services – Rule 34(3)	12
+Lawyer may accept appointment in institutions listed in Third Schedule – Rule 34(7)	12
+Consequences for breach of Rule 34 – Due cause for disciplinary action under s83 of LPA	12
+Publicity and prohibition against touting	14
+A.	Publicity	14
+As a general rule, lawyers may publicize their own practice or their law practice if they comply with the PCR	14
+Step 1: PCR imposes general duties on lawyers who publicize their own practice or their law practice	14
+Step 2: PCR imposes specific duties on lawyers who publicize their own practice or their law practice	14
+Special Scenario: Publicity restrictions when contributing to good causes	16
+Special scenario: Publicity restrictions when giving free legal advice at legal clinic	17
+Special scenario: Publicity restrictions when participating in 3rd party’s publicity	17
+Publicity restrictions when publicizing outside Singapore	17
+*Ethicality of publicity in media	18
+*Ethicality of publicity through public appearances and publications	18
+*Ethicality of 3rd party websites having hyperlinks to lawyer/LP websites	19
+*Ethicality of identifying lawyers/LPs on letterheads	19
+Ethicality of online referral and introduction schemes	19
+*Ethical guidelines for using emails in legal practice	19
+*Practicing law on the internet	20
+*Ethical guidelines for publicity through internet	20
+*Ethical guidelines for online referral and introduction schemes	21
+B.	Touting	21
+Touting restrictions in correspondences to potential clients when acting for client	21
+C.	Referrals	21
+Step 1: Identification of referral arrangement	21
+Step 2: General duties of lawyer/LP when there is reason to believe that client was referred to lawyer/LP – Rule 39(2)	22
+Step 3: Additional requirements for referral agreements for referral of any conveyancing service – Rule 40(1)	23
+Step 4: Consequences of non-compliance with Rule 39 => Refer to DT => If DT refers to Court	24
+Case Law Examples – Breach of Rule 39(2)(b)	24
+Case Law Examples – Breach of Rule 39(2)(g)	25
+D.	Prohibited business, trade or calling	25
+Lawyers absolutely prohibited from engaging in certain businesses – Rule 38	25
+Consequences for breach of Rule 38 – Due cause for disciplinary action under s83 of LPA	26
+Professional fees and Solicitors’ Accounts Rules (SAR)	27
+A.	Client money	27
+Duties owed to client in relation to client’s money under Rule 16 of PCR	27
+Legal Profession (Solicitors’ Accounts) Rules (“LPSAR”)	27
+Preliminary: Identifying “client’s money” and “client’s account”	27
+Part 1: When lawyer receives client money => Duty to put client money in client account immediately	28
+Duty to pay client money into client account without delay – Rule 3(1)	28
+Special scenario: Where lawyer receives a mixture of client’s money and other moneys	29
+Lawyer can keep as many client accounts as he thinks fit – Rule 3(2)	29
+Solicitor’s right of lien or set-off	29
+Part 2: Duty to not put any other money in client account	29
+Duty to not pay random money into client account – Rule 6	29
+Part 3: Lawyer can only withdraw money from client account under Rule 7 => Council approval is required for withdrawal of money in circumstances outside Rule 7	30
+Moneys which may be drawn from client account	30
+Duty to ensure client’s account is not overdrawn	30
+Procedure for withdrawal outside Rule 7	30
+Part 4: If lawyer withdraws money under Rule 7, lawyer duty to follow prescribed mode of withdrawal	30
+Procedure for withdrawal under Rule 7(1)(a)(ii), 7(1)(a)(iv), 7(1)(c), 7(1)(d)	30
+Procedure for lawyer to withdraw client’s money to pay legal fees under Rule 7(1)(a)(iii)	30
+No withdrawal by cash cheque or bearer cheque for Rule 7(1)(c), 7(1)(d)	31
+No withdrawal by cash cheque or bearer cheque unless GDHC authorization	31
+No withdrawal by ATM or Telephone banking service	31
+No withdrawal from account with approved finance company unless approved by Council or Signature of solicitor	31
+Part 5: If lawyer withdraws money above $5k, lawyer duty to follow Rule 8 additional conditions	31
+Rules for withdrawals above $5k and less than $30k	31
+Where withdrawal is above $30k	31
+Duty to not transfer sums between accounts	32
+Part 6: Continuing duty of lawyer to keep and maintain accounting records	32
+Duty to keep accounting records of accounts	32
+Duty to keep accounting records of bills of costs	33
+Duty to reconcile books and statements	33
+Duty to preserve books for at least 6 years from last entry	33
+Book-keeper to keep books and accounts	33
+Council has power to require lawyer to produce books of accounts	34
+Case Law Examples – Failure to keep accounting records in breach of Rule 11 of LPSAR	34
+B.	Anti-Money Laundering (AML) and Combating the Financing of Terrorism (CFT)	35
+Lawyer/LP duty to perform 3-part customer due diligence (CDD)	35
+Preliminary: Whether lawyer/LP duty to perform CDD is triggered?	35
+Preliminary: Whether CDD will tip-off suspicious client?	35
+Part 1: Ascertain identity of client (general)	36
+Part 2: Assess risk of money laundering and terrorism financing	37
+Part 3: Carry out enhanced CDD for higher risk clients	38
+When lawyer/LP unable to complete CDD measures on client	38
+Duty to not act for client/Duty to consider filing suspicious transaction report	38
+When lawyer/LP suspect client of ML/FT	39
+Duty to act when client is suspect of ML/FT	39
+Continuing Duties during business relationship with Client	39
+Duty to continue performing CDD during course of business relationship	39
+Duty to maintain documents and records relating to relevant matters	39
+Duty to maintain documents and records obtained through CDD measures	39
+Duty to make documents and records available to Council when necessary	39
+C.	Professional fees and costs	40
+C1. Duties relating to charging of legal fees	40
+Not to unnecessarily or improperly increase legal fees – Rule 17(2)(a)	40
+Use best endeavors to complete work for client as soon as reasonably possible – Rule 17(2)(b)	40
+Not to overcharge (even if there is a fee agreement) – Rule 17(7)	40
+Not to overcharge when recommending client to seek alternate legal representation – Rule 17(9)	41
+*Gross sum payment of legal costs is permissible as long as not unreasonable	41
+*No practice of Two-Thirds rule in Singapore	41
+*Equity in lieu of fees is prima facie permissible => Subject to usual restrictions	42
+C2. Duties relating to advising client of basis of legal fees	42
+Explain to client any proposal of amicable resolution from opposing party – Rule 17(2)(c)	43
+Provide translation of proposal, if client does not understand English – Rule 17(2)(d)	43
+Advise client on the consequences of pursuing matter vis-à-vis expense – Rule 17(2)(e)	43
+Advise client of relevant legal issues for client to make informed decision – Rule 17(2)(f)	43
+Inform client about fees and other payments – Rule 17(3)	43
+Inform client about his responsibility for costs in a contentious matter – Rule 17(4)	43
+C3. Duties in relation to Court assessment of bill (taxation proceedings)	44
+Duty to explain client’s right to apply to Court to assess bill – Rule 17(5)	44
+Duty to explain that Court assessment might result in larger assessed bill – Rule 17(6)	44
+Taxation proceedings – Ameliorates liability for overcharging	44
+Taxation proceedings – Unreasonable bill in taxation does not automatically constitute overcharging	44
+C4. Contingency fees prohibited – i.e. paid only upon successful suit (Rule 18 PCR)	44
+Duty not to enter into negotiations for contingency fees – Rule 18	44
+*Exception: agreement to charge pro bono client SnC costs if successful in pro bono work – Permissible	45
+*Contingency fees based on a percentage of sum recovered from trial – Prohibited	45
+*Agreement to cap client’s SnC costs based on quantum of PnP costs awarded to either party – Permissible	46
+*Agreement to charge client solicitor-and-client (SnC) costs based on quantum of party-and-party (PnP) costs recovered in Case of Judgement of Default of Appearance – Prohibited	46
+*Agreement to charge client SnC costs based on quantum of PnP costs recovered - Prohibited	46
+C5. Sharing fees with unauthorized persons	46
+Duty to not share legal fees with any unauthorized person for work done by lawyer – Rule 19	46
+*Use of debt collectors to recover legal fees – Prohibited	47
+
+
+
+Supervision of staff, use of titles and executive appointments 
+
+A. *RESPONSIBILITY FOR STAFF OF LAW PRACTICE 
+
+Rule 32: Lawyer’s Duty to exercise proper supervision over staff working under Lawyer in LP
+Rule 32 of PCR
+- A legal practitioner must, regardless of the legal practitioner’s designation in a law practice, exercise proper supervision over the staff working under the legal practitioner in the law practice 
+
+Principle 1: Lawyer will have duty to supervise non-lawyer staff regardless of lawyer’s designation in the law practice
+
+Purpose of Rule 32 is to protect the public and ensure that the public only receive legal advice from those qualified and authorized to carry on legal work 
+LSS v Tan See Leh Jonathan
+- Proper supervision is vital for protection of public and ensures that client’s receive legal advice only from those qualified and authorized to carry on legal work 
+- Unauthorized person who operates as a lawyer risks exposing his clients to possible loss as such unauthorized persons do not possess the necessary professional indemnity insurance cover 
+
+Case Law Example – Breach of Rule 32 for failing to take responsibility for staff of law practice 
+LSS v Yeow Siew Chye Troy – Conveyance lawyer had no system of periodic checks to monitor conveyance clerks 
+- Conveyancing lawyer allowed conveyancing clerk to liaise with clients on payment matters including the collection of payments for stamp duty 
+- Held: 
+1. Conveyancing lawyer breached Rule 8(1) of PCR 2010 (current Rule 32 of PCR 2015) for failing to exercise proper supervision over his staff and was suspended for 4 years
+2. He did not have a system of periodic checks to monitor the clerk’s dealings and the clerk was essentially given free rein to deal with the clients
+
+LSS v Tan See Leh Jonathan – Lawyer’s paralegal sent emails to 3 individuals representing himself to be a lawyer
+- Lawyer’s paralegal told lawyer that he was unable to renew his practicing certificate to practice as a lawyer 
+- Lawyer’s paralegal sent emails to 3 individuals where he represented himself to be a lawyer
+- Held: 
+1. Lawyer breached current Rule 32 of PCR for failing to exercise proper supervision over the paralegal
+2. Lawyer knew that his paralegal was an unauthorized person as he did not have a renewed practicing certificate 
+3. It does not matter that the paralegal was not a lawyer only because of a mere technicality of failing to renew his practicing certificate
+a. No distinction between different types of unauthorized person 
+b. No such thing as a technical breach 
+4. Reason for duty on lawyer:
+a. Proper supervision is vital for protection of public and ensures that client’s receive legal advice only from those qualified and authorized to carry on legal work 
+b. Unauthorized person who operates as a lawyer risks exposing his clients to possible loss as such unauthorized persons do not possess the necessary professional indemnity insurance cover 
+LSS v Clarence Lun Yaodong – Lawyer’s responsibility to supervise Practice Trainees
+- A practice trainee may be an employee of a law practice, but he or she is a particular type of employee. The main purpose of that employment is to provide the training necessary to imbue aspiring lawyers with the character and competencies expected of an advocate and solicitor. This much is clear from the definition of a “practice training contract” as a “formal training arrangement between a qualified person and a Singapore law practice, pursuant to which the qualified person receives, and the Singapore law practice provides, supervised training in relation to the practice of Singapore law” (s2(1) LPA)
+- What the respondent was providing Mr Lim, for the entirety of the six or more weeks in which Mr Lim was with Foxwood, could not in any way be meaningfully described as “supervised training in relation to the practice of Singapore law”. Accordingly, once the respondent knew that neither he nor anyone else in Foxwood was able to provide such supervision, it was improper and mischievous of him to insist that Mr Lim continue working
+- The respondent knew that there was no eligible supervising solicitor in Foxwood who could oversee Mr Lim’s work. Yet, the respondent continued to direct Mr Lim to perform substantive work, including drafting a letter seeking timelines from the court for amendments to a “Reply”, preparing an affidavit of evidence-in-chief, and performing legal research. Further, when Mr Lim informed the respondent on 30 January 2020 of his intention to resign and commence his TC with another law practice, the respondent replied at 4.22pm as follows: “to be fair to all parties, can you start on Monday [3 February 2020], after completion of the submissions” [emphasis added]. In short, he was pressing Mr Lim to continue to work at Foxwood to enable the respondent to meet a deadline, without any regard to the fact that Mr Lim should not have been undertaking any such work at all at this time, given the absence of a suitable supervising solicitor
+- [Supervising solicitor] rules exist to ensure lawyers are training appropriately and also to ensure that there is no compromise in the quality of any work that trainee lawyers do. The respondent’s clients were denied the benefit of these rules implemented to safeguard the quality of supervision provided to trainees, and ultimately to protect and uphold the quality of legal services dispensed to the clients. Moreover, as the applicant submitted, this was no technical breach of r 18(1)(b). In the seven years before the respondent commenced his supervision of Mr Lim and Ms Sunil, the respondent had held a practising certificate for only 2 years, 10 months and 16 days, and 2 years, 11 months and 3 days respectively. This was far short of the minimum of five years prescribed in r 18(1)(b). In these circumstances, we dismissed the respondent’s contention that the “overall harm” caused by his conduct was “not grave” --> handed a 18-month suspension 
+*Supervision of Paralegals 
+Guidance Note 3.7.1: Supervision of paralegals 
+
+Definition of “paralegal”
+- A legal executive/secretary/clerk who performs paralegal functions and assists a legal practitioner as a paralegal and who does not have in force a practicing certificate and is without regard to the designation of such employee 
+
+Guidance 1: Paralegal are considered “unauthorized persons” under the LPA as they do not have valid practicing certificates to practice law in Singapore 
+- Paralegal are unauthorized persons under s29, s32 and s33 of the LPA
+=> Paralegals do not have valid practicing certificates to practice law in Singapore 
+
+Guidance 2: Lawyer’s duty to constantly supervise and be responsible for paralegal’s actions 
+- Legal practitioner and law practices employing paralegal staff are under a duty to exercise proper supervision over the paralegal staff (s32 of PCR) 
+- Legal practitioner shall ensure that he remains responsible for all professional actions of a paralegal and his performance of duties 
+- Legal practitioner shall constantly supervise paralegal’s involvement in any legal matter
+
+Guidance 3: Lawyer’s duty to ensure paralegals do not make unsupervised appearance in Court 
+- Legal practitioner should take due care to ensure that paralegals are not allowed to make any unsupervised appearance before any Court in Singapore including hearings in judges’ chambers and at pre-trial conferences 
+
+Guidance 4: Paralegals have no right of audience before any Court but can be permitted to attend Court under certain conditions 
+- General principle – Paralegals no right of audience before any Court in Singapore including open court sessions, hearings in judges’ chambers and pre-trial conferences 
+- Exception: 
+a. With leave of Court, paralegals can attend chambers and open Court sessions to record notes of hearing:
+(i) Lawyer has responsibility to ensure Court is aware of paralegal’s status before commencement of proceedings
+(ii) Paralegals not allowed to occupy front row seating area or any other seating area normally reserved for legal practitioners without permission of Court
+
+Guidance 5: Lawyers duty to ensure paralegals refrain from advising in litigation matters
+- Paralegals restricted from unsupervised discussion with enforcement agencies, police or prosecutors
+- Paralegals allowed to take statements and interview clients or witness as long as no advice is rendered, in the absence of supervising legal practitioner
+
+Guidance 6: Paralegals have duties under Rule 13(6) of PCR 
+- Paralegals have a duty to not facilitate publication of any material which amounts to contempt of Court or which interferes with fair trial of a case, or to prejudice the administration of justice
+
+Guidance 7: Lawyer’s duty to ensure paralegals are aware of paralegal duties under Rule 13(6)
+- Legal practitioners are required to ensure that paralegal staff are aware of their obligations under Rule 13(6) of PCR
+
+Guidance 8: Solicitor shall not do anything that enables paralegal to practice law in Singapore (see section below)
+- S77 of LPA provides that no solicitor shall willfully and knowingly undertake any action that may amount to enabling an unauthorized person to practice law in Singapore => Paralegal is an unauthorized person 
+
+B. *S33 LPA: UNAUTHORIZED PERSONS CARRYING OUT LAWYERING
+
+Court proceedings (s33(1) LPA)
+Preliminary: Offense under s33(1) of LPA for unauthorized person to act as a lawyer or falsely use title of a lawyer 
+
+Step 1: Definition of unauthorized person 
+S32(2) of LPA
+- A person is an unauthorized person if:
+a. Name not on the roll; OR
+b. No practicing certificate in force; OR
+c. Is a lawyer who practices in Joint Law Venture, Qualifying Foreign Law Practice or licensed foreign law practice + No license under Part 4A or s36M.
+
+Step 2: Unauthorized person acts as a lawyer to carry out Court proceedings or falsely uses the title/description to imply he is a lawyer
+S33(1) of LPA
+- Any unauthorized person who:
+a. Acts as an advocate or a solicitor or an agent for any party to proceedings, or as such advocate or solicitor or agent, 
+(i) Sues out any writ, summons or process; OR
+(ii) Commences, carries on, solicits or defends any action or proceedings in name of any other person or in his own name in any courts in Singapore; OR 
+(iii) Prepares any Court document or instrument; OR 
+
+b. wilfully or falsely pretends to be, or takes or uses any name, title, addition or description implying that he or she is duly qualified or authorised to act as an advocate or a solicitor, or that he or she is recognised by law as so qualified or authorised,
+
+shall be guilty of an offence… (see penalties below) 
+
+Exception: Unauthorized person can prepare will, testamentary documents, transfer of stock with no limitation thereof
+s33(10) of LPA
+- Definition of “document” and “instrument” do not include:
+a. A will or other testamentary document; OR 
+b. transfer of stock containing no limitation thereof
+
+Step 3: Consequences – Liable for fine or imprisonment 
+s33(1) of LPA
+- Unauthorized person in breach of s33(1) shall be liable on conviction to:
+* a fine not exceeding $25k or to imprisonment for a term not exceeding 6 months or to both
+* in the case of a second or subsequent conviction, to a fine not exceeding 50k or to imprisonment for a term not exceeding 12 months or to both 
+
+Specific lawyering acts (non-Court proceedings) (s33(2) LPA)
+Preliminary: Offense for unauthorized person to carry out specific lawyering acts under s33(2) of LPA  
+
+Step 1: Definition of unauthorized person (see above) 
+
+Step 2: Unauthorized person carries out certain lawyering acts under s33(2) 
+Unauthorized person cannot act as a lawyer (Specific)
+s33(2) of LPA
+- Without limiting s33(1), any unauthorized person who directly or indirectly:
+a. Prepares document relating to any movable or immovable property or any legal proceedings;
+b. Take instructions for or prepares document for probate or letters of administration;
+c. [Deleted]
+d. On behalf of a claimant or persons alleging to have a claim to a legal right writes, publishes or sends a letter or notice threatening legal proceedings, [ALLOWED: other than a letter or notice that the matter will be handed to a solicitor for legal proceedings]
+e. Negotiates in any way for the settlement of claims for personal injury or death
+
+shall be guilty of an offense
+
+Step 3: DEFENCE – Unauthorized person must prove that the act was not done for or in expectation of any fee, gain or reward   
+S33(2) of LPA 
+- Unless the unauthorized person proves that the act was not done for or in expectation of any fee, gain or reward
+
+Step 4: Consequences – Liable for fine or imprisonment
+S33(5) of LPA
+- Every person convicted of an offense under s33(2) or s33(3) shall be liable for:
+* a first offense to a fine not exceeding 10k or in default of payment to imprisonment for a term not exceeding 3 months and 
+* for a second or subsequent offense to a fine not exceeding 25k or to imprisonment for a term not exceeding 6 months or to both 
+
+Offer or agree to provide lawyering services (s33(3) LPA)
+Preliminary: Offense for unauthorized person to offer or agree to provide lawyering services under s33(3) of LPA  
+
+Step 1: Definition of unauthorized person (see above)
+
+Step 2: Unauthorized person offers or agrees to provide lawyering services in expectation of fee, gain or reward
+S33(3) of LPA
+- Any unauthorized person who, for or in expectation of any fee, gain or reward, offers or agrees to place at the disposal of any other person the services of an advocate and solicitor shall be guilty of an offense 
+=> EXCEPTION IN S33(4) LPA: s33(3) does not apply to any person who offers or agrees to place at the disposal of any other person the services of an advocate and solicitor pursuant to a lawful contract of indemnity or insurance
+
+Step 3: Consequences – Liable for fine or imprisonment
+S33(5) of LPA
+- Every person convicted of an offense under s33(2) or s33(3) shall be liable for:
+* a first offense to a fine not exceeding 10k or in default of payment to imprisonment for a term not exceeding 3 months and 
+* for a second or subsequent offense to a fine not exceeding 25k or to imprisonment for a term not exceeding 6 months or to both 
+
+Body corporates
+Corporate body which breaches s33(1), s33(2), s33(3) or pretends to be a lawyer is guilty of offense
+S33(6) of LPA
+- Any act done by a body corporate which in the case of a person would be an offense under s33(1), s33(2) or s33(3) or is of such a nature or is done in such a manner as to be calculated to imply that the body corporate is qualified or recognized by law as qualified to act as a solicitor or has the capacity or powers of a law corporation or a LLP when in fact the body corporate does not shall be an offense 
+
+Consequences – Corporate body liable for fine
+S33(6) of LPA
+- Body corporate convicted of the offense shall be liable for
+* First offense to a fine not exceeding 25k
+* For a second or subsequent offense to a fine not exceeding 50k 
+
+Consequences – Officer of corporate body liable for fine or imprisonment
+S33(8) of LPA
+- Where any firm does an act which in the case of a person would be an offense under s33(1). S33(2) or s33(3), every member of the firm is deemed to have committed that offense [EXCEPTION: unless he proves that he was unaware of the commission of the act] 
+
+S33(7) of LPA
+- Where an act under s33(6) is done by a director, an officer or an employee of the body corporate, the director, officer or employee shall be liable to the punishments provided in s33(5)
+
+S33(5) of LPA
+- Every person convicted of an offense under s33(2) or s33(3) shall be liable for:
+* a first offense to a fine not exceeding 10k or in default of payment to imprisonment for a term not exceeding 3 months and 
+* for a second or subsequent offense to a fine not exceeding 25k or to imprisonment for a term not exceeding 6 months or to both 
+
+*Additional consequences for breach of s33 when money is received by unauthorized person 
+Consequence – Unauthorized persons will be made to repay any fee, gain or reward obtained 
+S35A(1) of LPA
+- Court may order any unauthorized person convicted of an offense under s33(1), s33(2) or s33(3) to repay any fee, gain or reward received in respect of any such offense to the person who made the payment
+
+S36(1) of LPA
+- Unauthorized person is not entitled to recover any costs done pursuant to an offense under s33
+
+Exceptions to s33
+Excluded from s33: Certain people
+S34(1)
+- s33 does not extend to
+a. AG or any person acting under authority of AG: The AG, a deputy AG or the Solicitor-General or any other person acting under the authority of any of them;
+b. Public Trustee, Official Assignee etc.: The Public Trustee, the Official Assignee, Assistant Public Trustees and Assistant Official Assignees acting in the course of their duties under any law relating to those offices 
+c. The Director, a Deputy Director or an Assistant Director of Legal Aid acting in the course of the duties of the Director, Deputy Director or Assistant Director of Legal Aid under the provisions of the Legal Aid and Advice Act 1995 or International Child Abduction Act 2010 
+d. Any public officer in course of duty: Any other public officer in the course of his duty
+e. Litigants-in-person: Litigants-in-person 
+f. Bona fide full-time employee of insurance company negotiating for settlement arising out of personal injury or death insured 
+g. [Deleted]
+h. Full-time university academic staff rendering opinion in advisory capacity: Full-time academic staff in a university rendering opinion in an advisory capacity 
+i. Accountant drawing or preparing documents
+j. Proceedings before Industrial Arbitration Court or Syariah court 
+k. Persons employed to engross any instrument or proceedings
+l. Public accountant drawing or preparing instruments
+m. Agent authorized by Registrar of Trademark to draw documents relating to trademarks
+NB: also includes the Chief Public Defender, a Deputy Chief Public Defender or an Assistant Chief Public Defender acting in the course of their functions under the Public Defenders Act 2022 (s34(1)(cb) LPA) or any public defender appointed under the PDA 2022 (s34(1)(cc) LPA)
+
+Excluded from s33: Arbitration proceedings 
+S35(1)
+- S32 and s33 do not extend to
+a. Any arbitrator or umpire lawfully acting in any arbitration proceedings 
+b. Any person representing any party in arbitration proceedings; or
+c. The giving of advice, preparation of documents and any other assistance in relation to or arising out of arbitration proceedings except for the right of audience in court proceedings.
+S35(2)
+- “arbitration proceedings” means proceedings in an arbitration which 
+a. Is governed by the Arbitration Act 2001 or the International Arbitration Act 1994; or
+b. would have been governed by either the Arbitration Act 2001 or the International Arbitration Act 1994 had the place of arbitration been Singapore.
+
+Excluded from s33: Mediation proceedings 
+S35B(1)
+- S32 and s33 do not extend to 
+a. any certified mediator conducting any mediation;
+b. any mediator conducting any mediation which is administered by a designated mediation service provider;
+c. any foreign lawyer representing any party in any mediation that
+(i) is conducted by a certified mediator or administered by a designated mediation service provider; and
+(ii) relates to a dispute involving a cross-border agreement where Singapore is the venue for the mediation; or
+d. any foreign lawyer registered under section 36P and representing any party in any mediation that relates to a dispute in respect of which an action has commenced in the Singapore International Commercial Court.
+
+S35B(2)
+- “certified mediator”, “designated mediation service provider”, “mediation” and “mediator” have the meanings given by the Mediation Act 2017;
+- “cross-border agreement” means an agreement in respect of which any one or more of the following circumstances exist:
+a. at least one party to the agreement is incorporated, resident or has its place of business outside Singapore;
+b. the subject matter of the agreement 
+(i) is most closely connected to a place located outside Singapore; or
+(ii) has no physical connection to Singapore;
+c. the obligations under the agreement are to be performed entirely outside Singapore.
+
+C. *S77 LPA: LAWYERS ASSISTING UNAUTHORIZED PERSONS TO CARRY OUT LAWYERING
+Offense for lawyer to assist unauthorized person in carrying out lawyering
+S77(1) of LPA
+- A solicitor must not:
+a. Must not willfully and knowingly act as agent of unauthorized person in any legal proceeding or in any matter which under LPA can be done only be a solicitor who has in force a practicing certificate;
+b. Must not allow his name to be used by unauthorized person in any legal proceeding or matter upon the account or for the profit of any unauthorized person; OR 
+c. Must not enable unauthorized person in act in any legal matter: Send any process to any unauthorized person or do any other act enabling unauthorized person to appear, act or practice or purport to practice in respect as a solicitor in any such proceeding or matter 
+
+Offense for lawyer to authorize unauthorized person to operate solicitor bank account 
+S77(2) of LPA
+- A solicitor must not authorize any unauthorized person to operate any bank account in the name of the solicitor or the Singapore law practice in which the solicitor practices and maintained by the solicitor or the Singapore law practice in which the solicitor practices in connection with his practice as a solicitor
+
+Consequences of breach 
+Disciplinary proceedings against lawyer 
+S77(3) of LPA
+- Disciplinary proceedings can be commenced against solicitor in breach
+S83(2)(j) of LPA
+- Due cause for disciplinary action can be shown by proof that an advocate and solicitor has contravened any of the provisions of this Act in relation thereto if such contravention warrants disciplinary action.
+
+Fine or imprisonment for unauthorized person 
+S77(4) of LPA
+- Unauthorized person who was enabled by solicitor to act shall be guilty of an offense and liable on conviction to a fine not exceeding 50k or to imprisonment for a term not exceeding 12 months 
+
+*Practical tips to not breach s33: Solicitor should not rubber-stamp work by unauthorized person
+PD 3.11.2: Work done by an unauthorized person 
+- Solicitor should not assist unauthorized persons to commit a breach of s33 of LPA by merely signing or “lending his name” to documents prepared by such unauthorized persons 
+- Rubber-stamping could be a breach of s32 and s33 of LPA 
+
+D. RULE 33: DESCRIPTIONS AND TITLES (R 33 PCR) 
+Description of a legal practitioner
+Lawyers should only describe himself according to Rule 33(1) 
+Rule 33(1)
+- A legal practitioner who is an advocate and solicitor must not describe himself in connection with his profession as anything other than:
+a. An advocate and solicitor
+b. A lawyer
+c. A legal consultant (if qualified)
+d. A Commissioner for Oaths (if appointed)
+e. A Notary Public (if appointed) 
+
+Regulated foreign lawyers should only describe himself according to Rule 33(2) 
+Rule 33(2)
+- A legal practitioner who is a regulated foreign lawyer must not describe himself in connection with his profession as anything other than:
+a. A foreign lawyer
+b. A legal consultant (if qualified) 
+
+E. RULE 34: EXECUTIVE APPOINTMENTS (RULE 34, FIRST TO FOURTH SCHEDULES PCR) 
+
+Absolutely prohibited from certain executive appointments in certain non-law businesses – Rule 34(1)
+Rule 34(1)
+- A legal practitioner must not accept any executive appointment associated with any of the following:
+a. Business that derogates from or is incompatible with the dignity of legal profession;
+
+b. Business that materially interferes with lawyering:
+(i) The legal practitioner’s primary occupation of practicing as a lawyer
+(ii) The legal practitioner’s availability to those who may seek the legal practitioner’s services as a lawyer
+(iii) The representation of the legal practitioner’s clients
+
+c. Business that unfairly attracts business in the practice of law;
+
+d. Business which involves sharing of legal practitioner’s fees with or the payment of a commission to any unauthorized person for legal work performed by the legal practitioner;
+
+e. Businesses in First Schedule;
+==> Housing or agency business, Debt collection business
+
+f. Business prohibited by any law or rules: Any business which is prohibited by
+(i) The Act
+(ii) The PCR or any subsidiary legislation under PCR
+(iii) Any PD, GN under s71(6) of the Act
+(iv) Any PD, GN issued by Council or Society 
+
+Definition of “business”, “executive appointment”
+Rule 34(9)
+- “business” includes any business, trade or calling in Singapore or elsewhere, whether or not for the purpose of profit but excludes the practice of law
+- “executive appointment” means:
+* a position associated with a business or Singapore law practice which entitles the holder of the position to perform executive functions in relation to the business
+* it excludes any non-executive director or independent director role associated with the business
+
+First Schedule of PCR
+- Prohibited businesses under Rule 34(1): 
+1. Housing or agency business
+2. Debt collection business 
+
+Exception: allowed to accept executive appointments in non-law business under conditions – Rule 34(4)
+Lawyers allowed to accept non-legal executive appointments if Second Schedule conditions are satisfied 
+Rule 34(4)
+- Subject to Rule 34(1), a legal practitioner (not being a locum solicitor) may accept an executive appointment in a business entity which does not provide any legal services or law-related services, if all of the conditions in Second Schedule are satisfied
+
+Second Schedule of PCR 
+- Conditions for legal practitioner working in a law practice to accept executive appointment in another business entity
+1. Business must not harm competence of legal practitioner and standing of legal profession: Business of business entity:
+a. Must not jeopardise the professional integrity, independence or competence of the legal practitioner; and
+b. must not detract from the standing and dignity of the legal profession.
+2. Business must not be held out as a law practice: The business entity must not be held out or described in such a way as to suggest 
+a. that the business entity is a law practice; or
+b. that any legal practitioner in the business entity provides services, carries on business, or is employed, as a regulated legal practitioner.
+3. Involvement in business must not conflict with legal practitioner’s duties to his main law practice and clients: The involvement of the legal practitioner in the business entity must not impair, and must not be in conflict with, the legal practitioner’s duties
+a. in the law practice in which the legal practitioner practises; or
+b. to any client of that law practice.
+4. Files of business separate from law practice: The files, records and accounts of the business entity must be kept separate from and independent of the files, records and accounts of the law practice in which the legal practitioner practises.
+5. Full disclosure if law practice client is referred to the business: Where, in the course of dealing with the law practice in which the legal practitioner practises, a client of that law practice deals with, or is referred by that law practice to, the business entity, the legal practitioner must make full and frank disclosure of all of the following matters to the client:
+a. the relationship (if any) between the business entity and each of the following:
+(i) that law practice;
+(ii) every legal practitioner in that law practice who has any interest in the business entity;
+b. the financial or other interests of each of the following in the business entity:
+(i) that law practice;
+(ii) every legal practitioner in that law practice who has any interest in the business entity;
+c. that the statutory protection conferred on a client of a law practice under the Act (including but not limited to compulsory professional indemnity insurance coverage and the Compensation Fund maintained under section 75 of the Act), or under any subsidiary legislation made under the Act, may not be available to a customer of the business entity.
+6. Client account of law practice must not hold money for the business: The client account of the law practice in which the legal practitioner practises, and any other account of that law practice used to hold money for a client of that law practice, must not be used to hold money for the business entity in its capacity as such, or for any customer of the business entity in the customer’s capacity as such.
+7. Bank account of business must not hold money for law practice: Each account of the business entity must not be used to hold money for the law practice in which the legal practitioner practises in that law practice’s capacity as such, or for any client of that law practice in the client’s capacity as such.
+8. Address of business must be distinct from address of law practice: The business entity must conduct its business at an address that is separate and distinct from the address of the law practice in which the legal practitioner practices. However: 
+a. Both addresses may be in the same building; and 
+b. The business entity is not to be treated as conducting its business at an address by reason only that the address is the address of the registered office of the business entity.
+
+Exception: executive appointment in another LP if 2 conditions satisfied – Rule 34(2)
+Rule 34(2)
+- Subject to Rule 34(1), a legal practitioner in a Singapore law practice (main practice) may accept an executive appointment in another Singapore law practice (related practice) if related practice is connected to main practice in the following ways:
+a. Condition 1: Every legal or beneficial owner of related practice is the sole proprietor/partner/director of the main practice, OR
+b. Condition 2: Legal practitioner accepts executive appointment as a representative of the main practice in the related practice and involvement of the main practice in the relative practice is not prohibited by any rules 
+
+Exception: executive appointment in a business providing law-related services, subject to s34(1) – Rule 34(3)
+Rule 34(3)
+- Subject to s34(1), a legal practitioner may accept an executive appointment in a business entity which provides law-related services 
+Rule 34(9)
+- “law-related service” means any service set out in Fourth Schedule 
+Fourth Schedule
+- Law-related services:
+1. Any intellectual property service
+2. Any tax service
+3. Any trust business or trust business service 
+4. Any company secretarial service
+5. Any service as a continuing sponsor company for an entity any shares of which are listed for quotation on the Singapore Exchange Catalist
+6. Any administrative, management, property or other service provided exclusively to a law practice or to a business entity referred to in r 34(3), (4) or (5)
+7. Any forensic investigation, document management or discovery service, or any other service relating to litigation support
+8. Any voluntary liquidation service
+
+Exception: appointment in institutions listed in Third Schedule – Rule 34(7)
+Third Schedule lists several Institutions
+Rule 34(7)
+- Nothing prohibits a legal practitioner from accepting appointment in any institutions in Third Schedule
+
+Third Schedule
+- Institutions in which legal practitioner may accept any appointment:
+1. The Society
+2. The Academy
+3. The Institute
+4. The National University of Singapore
+5. The Singapore Management University
+5A. The Singapore University of Social Sciences
+6. Any charity registered under section 5 of the Charities Act (Cap. 37)
+
+Consequences for breach of Rule 34 – Due cause for disciplinary action under s83 of LPA
+Proof that lawyer work in prohibited business => Due cause can be shown 
+s83(2)(i) of LPA
+- Due cause for disciplinary action can be shown by proof that an advocate and solicitor carries on by himself or any person in his employment any trade, business or calling that detracts from the profession of law or is in any way incompatible with it or is employed in any such trade, business or calling 
+
+After showing due cause => Lawyer can be sanctioned
+s83(1) of LPA
+- Disciplinary action can include striking off roll, being suspended, being made to pay a penalty, being censured etc. 
+
+*Specific appointments 
+PD 3.8.1: Executive Appointments and Engagement in Business, Trade or Calling 
+Solicitor appointed as company secretary – Allowed 
+- Generally, it is proper for a solicitor to be appointed as a company secretary for:
+* The law practice’s own clients OR
+* An external corporate secretarial firm’s clients in exchange for consideration (Corporate secretarial firm: Company that provide company secretary services to other companies) 
+
+- Additional conditions if lawyer working as company secretary through a corporate secretarial firm:
+a. Where lawyer works as company secretary for an external corporate secretarial firm’s clients => The clients will be clients of the solicitor’s law practice
+==> Even if the clients pay the fee to the external corporate secretarial firm who pays the solicitor
+b. Implication: Solicitor acting for external corporate secretarial firm’s clients would amount to a practice of law which must be effected through a proper practice structure => Guidance: Solicitor should effect company secretary services and receive consideration through his law practice to avoid breaching any requirements 
+Solicitor acting as housing agent/estate agent – Prohibited as a job/business but permissible if carry out one-off broker arrangement 
+- Solicitor cannot carry on business as housing agent/estate agent in tandem with business as lawyer 
+- But if solicitor come across opportunity to be a broker in the course of his business as a solicitor => Solicitor is allowed to receive commission from brokering the deal 
+Unsure:
+Solicitor acting as housing agent – Prohibited 
+- Generally, a solicitor cannot carry on business of a housing agent in tandem with that of a solicitor 
+- Reason: It would detract from the honor and dignity of the legal profession 
+
+Solicitor acting as estate agent – Allowed
+- Scenario: In the course of practice, solicitor had opportunity to make an agreement with a prospective flat vendor/purchaser that the solicitor would be paid a commission as a finder’s fee if the solicitor could secure a purchaser/vendor 
+- Guidance: Generally, solicitor is not prohibited from entering into the agreement and to broker a deal between the vendor/purchaser and purchaser/vendor 
+
+
+Publicity and prohibition against touting 
+A. PUBLICITY 
+(Rules 37, 41, 42, 43, 44, 45, 46, 47, 48 and 49 PCR)
+
+Rule 37 – Principle behind this Part
+- A legal practitioner must not engage in publicity, or procure any work or engagement for himself or herself, the law practice in which he or she practises or any other person, in circumstances which affect the dignity and standing of the legal profession.
+
+As a general rule, lawyers may publicize their own practice or their law practice if they comply with the PCR
+Publicity is allowed subject PCR  
+Rule 41 
+- Subject to PCR, a legal practitioner may:
+a. Publicize the legal practitioner’s practice or the practice of a law practice of which the legal practitioner is a director, a partner or an employee; OR 
+b. Allow the employees of the law practice to do so
+
+*Rule 42: General duties on lawyers who publicize their own practice or their law practice  
+Duty to ensure any publicity complies with the PCR (even if publicity is by 3rd party on lawyer’s behalf) – Rule 42(1)
+Rule 42(1)
+- A legal practitioner must ensure that any publicity relating to the legal practitioner’s practice complies with the PCR, whether that publicity is:
+==> by the legal practitioner OR 
+==> by any other person on the legal practitioner’s behalf 
+
+Duty to use best endeavors to rectify impropriety when lawyer is aware of it  
+Rule 42(2)
+- Where legal practitioner becomes aware of any impropriety in any publicity relating to the legal practitioner’s practice or the practice of a law practice of which the legal practitioner is a director or a partner => Legal practitioner must use his best endeavors to procure the rectification or withdrawal of the publicity and to prevent recurrence of the impropriety 
+* If publicity is for law practice: Duty is imposed on directors or partners of law practice
+
+Duty to not use LSS’s armorial bearings 
+Rule 42(3) 
+- A legal practitioner or law practice must ensure that any publicity relating to the practice of the legal practitioner or law practice does not make use of the armorial bearings of the LSS
+
+If non-compliance with PCR (as determined by Professional Conduct Council) => Court has powers to order lawyer/LP to alter, withdraw, remove or discontinue publicity
+Rule 42(4)
+- Where Council determines that any publicity relating to the practice of a legal practitioner or law practice is contrary to any provisions of PCR, Court may order legal practitioner or law practice to alter, withdraw, remove or discontinue the publicity or cause the publicity to be altered, withdrawn, removed or discontinued 
+
+*Rule 43: Specific duties on lawyers who publicize their own practice or their law practice 
+Duty to justify any claim to expertise or specialization 
+Rule 43(1)(a)
+- Legal practitioner must ensure that any claim to expertise or specialization can be justified 
+
+Factors considered when justifying any claim to expertise or specialisation
+Rule 43(2) 
+- The following factors may be taken into account when justifying any claim to expertise or specialization: 
+a. Academic qualifications
+b. Experience
+c. Proportion of working time involved
+d. Level of success achieved
+e. Complexity of law and practice 
+f. Significance of matters involved in: Significance of matters involving the legal practitioner or law practice of which the legal practitioner is a director, partner or employee
+g. Assessment by peers 
+
+Duty to ensure no breach of confidentiality owed to client or former client
+Rule 43(1)(b)(i) 
+- Legal practitioner must ensure that publicity does not make any direct or indirect mention of any past case or client if the provision if any such information will result in a breach of duty of confidentiality owed to a client or former client 
+
+Duty to ensure no mention of success rate of lawyer/LP
+Rule 43(1)(b)(ii)
+- Legal practitioner must ensure that publicity does not make any direct or indirect mention of success rate of legal practitioner, law practice or any member of law practice 
+
+Duty to ensure no comparison with or criticism of another lawyer/LP
+Rule 43(1)(c)
+- No comparison/criticism of fees charged or quality of services by another lawyer/LP: Legal practitioner must ensure that the publicity does not make any comparison or criticism in relation to the fees charged, or the quality of the services provided, by any other legal practitioner or law practice
+
+Duty to ensure reference is not made to judicial appointments 
+Rule 43(3)
+(a) If lawyer who practiced in law practice is appointed to judiciary => Publicity relating to law practice during time of lawyer’s judicial tenure must not refer to the lawyer’s judicial appointment: When a legal practitioner who practiced in a law practice is appointed to the judiciary, any publicity relating to the law practice must not refer to the legal practitioner’s appointment to the judiciary during the tenure of the legal practitioner’s judicial office
+(b) Exception: If lawyer’s name is part of law practice’s name: This paragraph does not prohibit the inclusion of the legal practitioner’s name in the publicity, if the name appears as, or forms part of, the name of the law practice.
+
+Duty to ensure nothing done can be reasonably regarded as touting – attempt to sell typically by a direct or persistent approach
+Rule 43(4)
+- These Rules do not permit the doing of anything which may reasonably be regarded as touting by:
+a. A legal practitioner;
+b. A law practice; or
+c. A director, a partner or an employee of a law practice.
+
+Duty to ensure publicity does not bring legal profession into disrepute
+Rule 44(1)(a) 
+- A legal practitioner must not publicize the legal practitioner’s practice or the practice of the law practice of which the legal practitioner is a director, a partner or an employee, in a manner which:
+* Diminishes public confidence in legal profession: Is likely to diminish public confidence in the legal profession or 
+* Brings legal profession into disrepute: to otherwise bring the legal profession into disrepute; 
+==> Note: Rule 44(1)(c): Council can determine that a manner of publicizing the practice of a legal practitioner or law practice is undesirable 
+
+Duty to ensure publicity is not regarded as misleading  
+Rule 44(1)(b)
+- A legal practitioner must not publicize the legal practitioner’s practice or the practice of the law practice of which the legal practitioner is a director, a partner or an employee, in a manner which:
+* Reasonably regarded as misleading, deceptive, inaccurate, false: May reasonably be regarded as being misleading, deceptive, inaccurate, false 
+* or unbefitting the dignity of the legal profession;
+
+Objective test: Whether publicity can be reasonably regarded as misleading, deceptive…etc.
+
+Definition of “misleading, deceptive, inaccurate, false”
+Rule 44(2)
+- A publicity is misleading, deceptive, inaccurate or false if:
+a. Material misrepresentation; OR
+b. Omission of material fact; OR
+c. Unverifiable information; OR 
+d. Creates unjustified expectation about results that can be achieved by lawyer/law practice.
+
+*Examples of misleading publicity 
+PD 6.2.1 
+Material misrepresentation
+Example: 
+- Representation that the practice is a leading family law practice when it does not have expertise or experience in family law
+Omits material fact
+Example:
+- Failure to state that the law practice only acts in uncontested divorce matters if the practice has no expertise or experience in contested divorce matters
+* See also Duty to justify any claim to expertise or specialization – Rule 43(1)(a)
+
+Unverifiable information
+Example:
+- Only a contact number is given without stating the name of the law practice
+- Recovered millions for plaintiffs using one “secret technique” Creates unjustified expectation about results that can be achieved by lawyer/law practice
+Example:
+- Stating the law practice will be able to recover party and party costs in a civil matter
+Duty to ensure publicity is not regarded as unbefitting the dignity of the legal profession
+Rule 44(1)(b)
+- A legal practitioner must not publicize the legal practitioner’s practice or the practice of the law practice of which the legal practitioner is a director, a partner or an employee, in a manner which:
+* May reasonably be regarded as being misleading, deceptive, inaccurate, false 
+* Reasonably regarded as unbefitting the dignity of the legal profession.
+
+*Examples of publicity unbefitting of legal profession  
+PD 6.2.1 
+- Publicity which suggests that other law practices overcharge their fees or sets out price lists in order to boost own law practice 
+=> However: Fixed fee arrangements are permissible to help provide clients with peace of mind and meet budgetary concerns 
+
+Rule 45: Contributing to good causes  
+When lawyer/LP contributes to good causes (e.g. donation, sponsorship, free services) => Permissible for recipient of contribution to publicly acknowledge lawyer/LP => However note restrictions under Rule 45(2)
+Rule 45(1)
+- Subject to Rule 45:
+a. Any legal practitioner or law practice may contribute to good causes, whether by way of donation, sponsorship subscription or the provision of free services; and 
+b. Any contribution made by the legal practitioner or law practice may be publicly acknowledged by the recipient of the contribution 
+Restrictions under Rule 45(2)
+Rule 45(2) 
+- However, lawyer/LP must take reasonable steps to ensure that recipient’s public acknowledgement does not state any information about lawyer/LP except: (I.E. CAN ONLY PUBLICISE THE THINGS BELOW)
+a. (if lawyer) Lawyer’s name, the fact that he is a lawyer, name of law practice (if any) of which he is a director, partner or employee; or
+b. (if LP): Law practice’s name 
+
+Definition of “good cause”
+Rule 45(4)
+- “good cause” includes any registered charity and any other benevolent cause or cause concerned with the promotion of education, sports or the arts
+
+When lawyer/LP endow prizes and scholarships in school => Permissible to identify lawyer/LP in name of prize and scholarship
+Rule 45(3)
+- A legal practitioner or law practice may endow prizes and scholarships at any school or educational institution, and may be identified in the name of any prize or scholarship as the endower of the prize or scholarship
+
+Rule 47: Giving free legal advice at legal clinic 
+When lawyer gives free legal advice at legal clinic => Note restrictions under Rule 47(2) and Rule 47(3)
+Rule 47(1)
+- A legal practitioner may give free legal advice to any person at or through any facility established with a view to providing legal assistance to members of the public.
+Restrictions under Rule 47(2) 
+Rule 47(2)
+- Lawyer must take reasonable steps to ensure that no information about the lawyer is publicized except (I.E. CAN ONLY STATE THE THINGS BELOW): 
+* Lawyer’s name; 
+* The fact that he is a Lawyer; and 
+* Name of Lawyer’s law practice.
+Restrictions under Rule 47(3) 
+Rule 47(3)
+- Lawyer in the course of giving free legal advice in legal clinic: 
+a. Must not distribute lawyer/lawyer’s LP’s business cards or brochures;
+b. Must not act for any person to whom he has given free legal advice, unless it is in a pro bono capacity.
+
+Rule 46: Participating in 3rd party’s publicity
+Lawyer/LP may allow themselves to be publicized in any 3rd party’s publicity => However note Lawyer/LP’s duties under Rule 42(1) and Rule 42(2)
+Rule 46
+- Subject to LPA and PCR:
+a. Legal practitioner may allow legal practitioner’s practice or practice of law practice of which legal practitioner is a director, a partner or an employee; AND 
+b. A law practice may allow its practice
+to be publicized in or in conjunction with the publicity of any 3rd party whether or not the 3rd party is a client of the legal practitioner or law practice or not 
+
+Lawyer/LP’s duties vis-à-vis 3rd party publicity
+- Rule 42(1): Places responsibility on law practice to ensure that the 3rd party’s publicity about the law practice complies with the PCR
+- Rule 42(2): Places responsibility on law practice to rectify any impropriety vis-à-vis 3rd party’s publicity about the law practice 
+Example
+- 3rd party’s website has a hyperlink to law practice’s website 
+
+Rule 48: Publicizing outside Singapore 
+Determining publicity in which jurisdiction 
+Rule 49 
+- For the purposes of these Rules:
+a. Jurisdiction where the publicity is reasonably expected to be received or accessible in normal course of event; and
+b. Publicity is not conducted in a jurisdiction if the receipt of the publicity in the jurisdiction is incidental.
+
+Overseas publicity: Rules 43 to 47 do not apply  
+Rule 48(1) 
+- A legal practitioner may publicize the legal practitioner’s practice, or the practice of the law practice of which the legal practitioner is a director, a partner or an employee, in a country other than Singapore, and where the legal practitioner does so, rules 43 to 47 do not apply
+
+Overseas publicity: Publicity must comply with overseas laws
+Rule 48(2)
+- Where a legal practitioner publicizes the law practice of which the legal practitioner is a director, a partner or an employee in a country other than Singapore, the legal practitioner must ensure that the publicity is not conducted in a manner that is contrary to the laws of that country.
+
+*Publicity in media
+PD 6.2.1 
+Legal practitioner presenting news show on radio or TV – Permissible
+- Okay for legal practitioner to present a news show on the radio or TV
+
+Legal practitioner advertising through press or TV – Permissible (but distribution of flyers in public places is impermissible as touting)
+- Advertisements through press or TV is not touting but the distribution of flyers in public places is touting 
+a. Advertisement through press or TV do not have the added danger of direct-in-person solicitation which can cause a potential client to be subject to undue influence, intimidation and over-reaching 
+
+Legal practitioner filming at law practice’s office premises – Permissible subject to conditions
+- Law practice filming at law practice’s office premises must ensure compliance with rules in PCR 
+a. Disclosure of law practice name in scenes – Might be touting;
+b. Disclosure of name of law practice in closing credits as acknowledgement of LP’s participation– Permissible;
+c. No confidential information must be disclosed during filming, to the film crew or any other 3rd party within the premises 
+
+*Publicity through public appearances and publications 
+PD 6.2.4 
+Public appearances by legal practitioners – Permissible subject to conditions 
+- When making a public appearance, legal practitioner may be identified by:
+a. Name
+b. The fact that he is a legal practitioner 
+c. Name of the law practice of which legal practitioner is a director, a partner or an employee
+d. Particulars of any special qualifications or specialized knowledge directly relevant to the subject matter of the publication or appearance 
+- Examples of public appearance:
+a. Makes an appearance on the radio or television 
+b. Gives a talk or lecture
+c. Gives an interview to the press
+d. Contributes an article or writes a letter to the press
+e. Edits or writes a book or other publication on a legal or non-legal subject 
+Organization of seminars – Permissible 
+- It is permissible for a law practice to organize and advertise a seminar for members of the public to be conducted at its premises as a means of self-promotion and to charge admission fees 
+- Must comply with rules in PCR
+Answering of questions on legal matters in non-legal publications – Permissible under certain conditions 
+- Permissible for legal practitioner to be identified by name, the fact that he is a legal practitioner, name of law practice and particulars of any special qualifications or specialized knowledge directly relevant to the subject matter of the publication under certain conditions: 
+- Condition 1: Non-legal publications must not be considered as “facilities” for giving out legal assistance to the public 
+- Condition 2: Legal advice could result in loss to readers if the advice is wrong => Legal practitioners should include disclaimer for reader to seek independent legal advice before acting on any advice in the publication 
+
+*3rd party websites having hyperlinks to lawyer/LP websites 
+Permissible under certain conditions 
+PD 6.1.2 
+- It is permissible for 3rd parties’ websites to have hyperlinks to law practice’s websites under certain conditions: 
+- Condition 1: There is no form of financial arrangement between the 3rd parties and law practice
+- Condition 2: The description of the hyperlink must not mislead viewers by suggesting that:
+a. the 3rd parties are in a position to give legal advice or 
+b. the law practice is formed by the 3rd parties to provide legal consultation or 
+c. that the viewer has to exclusively use the law practice
+
+e.g. if property agents’ websites hyperlink to law practice website for the purposes of assisting property agent’s potential clients => Allowed => Only if there is no form of financial arrangement between law practice and the property agent and the description of the hyperlink does not mislead viewers by suggesting that property agent is in a position to give legal advice or that law practice is formed by property agent to provide legal consultation on real estate matters or that viewer has to exclusively use services of law practice 
+
+=> If not, breach s33(1)(b) of LPA (unauthorized person holding out to be a lawyer)
+
+*Publicity through internet 
+GN 6.1.1
+- Publicity through internet is subject to Part 5 of PCR: Publicity conducted through the Internet is subject to Part 5 of the PCR 2015 that governs publicity in or outside Singapore.
+- LP’s website can provide generic legal information but LP must consider appropriate disclaimers: A law practice’s website can be used as an advertising tool or to provide generic legal information that can be accessed by the general public or clients of the law practice. If legal advice is given, a law practice must realise that it could give rise to attendant obligations and risks in law. A law practice may wish to, therefore, consider appropriate disclaimers.
+- If legal advice is dispatched through a 3rd party => The 3rd party may breach s33 if unauthorized: If legal advice is given or a document is prepared and dispatched through a third party, the law practice must be aware of the terms of section 33 of the LPA. An unauthorised person, as defined under section 32(2) of the LPA, may be in breach of section 33 of the LPA if he/she acts as an advocate or solicitor or provides legal services; e.g., if your client requested you to prepare a letter of demand threatening legal proceedings for a debt owed and requested the same be dispatched to them via e-mail to enable them to forward the same to the debtor via e-mail, you should refuse to do so
+
+*Identifying lawyers/LPs on letterheads   
+Permissible under certain conditions 
+PD 6.2.3	
+- Permissible under certain conditions 
+- Condition 1: Legal practitioners on law practice’s letterheads should be limited to:
+a. Partners or directors of law practice; and 
+b. Consultants, foreign lawyers or legal associates employed by the law practice in accordance with Singapore’s legislative and regulatory requirements 
+- Condition 2: Names of foreign lawyers or consultants who are not qualified to practice in Singapore are not considered employees and should not be included in letterhead => Inclusion might cause publicity to be misleading, deceptive, inaccurate or false 
+
+Disclaim an unregistered foreign lawyer’s relationship with a law practice
+- To prevent clients from being misled into perceiving foreign lawyer to be a part of the law practice, the following wording should be used: 
+“XYZ, qualified in [name of foreign jurisdiction] to practice [foreign law], not registered as a foreign lawyer practicing in Singapore, not regulated by the Law Society of Singapore and not a member of the firm” 
+
+*Online referral and introduction schemes - prohibited
+Illegal and punishable under s83 of LPA
+Due cause can be shown when lawyer pays for referral services
+s83(2)(e) of LPA
+- Due cause can be shown by proof that an advocate and solicitor has, directly or indirectly, procured or attempted to procure the employment of himself or herself, of any advocate and solicitor or, in relation only to the practice of Singapore law, of any foreign lawyer registered under section 36B through or by the instruction of any person to whom any remuneration for obtaining such employment has been given by him or her or agreed or promised to be so given
+
+S83(2)(d) of LPA
+- Due cause can be shown by proof that an advocate and solicitor has tendered or given or consented to retention, out of any fee payable to him or her for his or her services, of any gratification for having procured the employment in any legal business of himself or herself, of any other advocate and solicitor or, in relation only to the practice of Singapore law, of any foreign lawyer registered under section 36B;
+
+After due cause is shown => Sanction of lawyer
+S83(1) of LPA
+- All advocates and solicitors are subject to the control of the Supreme Court and shall be liable on due cause shown:
+a. to be struck off the roll;
+b. to be suspended from practice for a period not exceeding 5 years;
+c. to pay a penalty of not more than $100,000;
+d. to be censured; or
+e. to suffer the punishment referred to in paragraph (c) in addition to the punishment referred to in paragraph (b) or (d).
+
+*GN 6.1.1 
+- Offense for solicitor to give money to 3rd party for procuring business for him: Under sections 83(2)(d) and 83(2)(e) of the LPA, it is an offence if a solicitor (as defined by the Act) has “tendered or given or consented to retention, out of any fee payable to him for his services, of any gratification for having procured the employment in any legal business of himself, of any other advocate and solicitor” or “directly or indirectly, procured or attempted to procure the employment of himself, of any advocate and solicitor … to whom any remuneration for obtaining such employment had been given by him or agreed or promised to be so given”.
+- Lawyer must not reward a referrer: Members are reminded that, under rule 39(2) of the PCR 2015, the legal practitioner must not, inter alia, reward a referrer by the payment of any commission or other form of consideration
+- LP must not participate in Internet referral schemes which require LP to pay fee or share fees paid for legal services referred: There are prohibitions against a law practice rewarding any person for referring work to them. The participation in any Internet referral schemes which requires the law practice to pay a fee or share fees paid for legal services referred would be a breach of the LPA.
+- Even if no fees are paid, participation in internet referral service or online introduction service would be improper under s83(2)(b), s83(2)(h) of LPA for unfairly attracting work: Even if no fees are paid or shared, any participation in an online introduction service or referral service carried out in such a way as to ‘unfairly attract work’ to the law practice would be improper given the terms of section 83(2)(b) and/or section 83(2)(h) of the LPA.
+- Improper for LP to demand referral fee from another LP for merely referring work as that would be brokering: The Council has also ruled that it is improper for a law practice to demand a referral fee from another law practice for merely referring work to it as this would be tantamount to ‘brokering’.
+
+*Using emails in legal practice 
+GN 6.1.1 
+- Emails should not contain particulars that a law practice will not include in its correspondence
+- Emails should identify the sender and his designation in the law practice
+- There should be an automated out-of-office response used when a legal practitioner is away from the office for a day or more 
+- Record of all outgoing and incoming emails under a client’s file should be kept whether as a paper record on file or stored by electronic means 
+- Important and urgent messages, notices or documents should be sent with prior notification of their dispatch 
+- Confidential warnings should be added to all emails to warn unintended recipients of the confidential nature of the email message: “Information in this message is confidential and may be legally privileged. It is intended solely for the person to whom it is addressed. If you are not the intended recipient please notify the sender, and please delete the message and any other record of it from your system immediately” 
+
+If lawyer emails client letter of demand first, and the client forwards letter of demand to recipient: Breach of s33 
+- Unauthorized persons defined under s32(2) of LPA (i.e. client) may be in breach of s33 of LPA if he acts as an advocate or solicitor or provides legal services
+- E.g. If client requested you to prepare a letter of demand threatening legal proceedings for a debt owed => Client ask you to send the letter to them through email for them to forward it to the debtor via email => Might be in breach of s33 of LPA 
+
+*Practicing law on the internet 
+GN 6.1.1 
+Virtual law firm 
+- No prohibition against lawyer practicing law via website: The current Legal Profession Act (Cap 161, 2009 Rev Ed) (‘LPA’) and the rules made thereunder do not prohibit a lawyer practising law via the Internet through the law practice’s own website.
+- HOWEVER: S25(1)(a) of LPA requires every lawyer to declare principal address of the law practice to be recorded in annual register: This information is recorded under s 27(1) of the LPA in the annual register of practitioners maintained by the Registrar of the Supreme Court and the Council of the Law Society
+- Law practices must have place of business for clients to meet lawyer and to receive mail and telephone calls => Purely virtual office is not allowed: Given the terms of s 25(1)(a)(iv) of the LPA, law practices must have a place of business at which clients may meet their solicitor and where mail and telephone calls are received. Therefore, a ‘virtual office’ where the business of a law practice is conducted entirely online is not allowed.
+
+Client identification on the Internet
+- No requirement for lawyers to meet clients face to face => But it may be essential at times for lawyer to take necessary steps to verify their client’s identity and legal capacity.
+- When lawyers receive instructions from client’s agent => Lawyers must ensure that the agent has authority to give instructions on behalf of the client: In the case of taking instructions from a person purportedly acting on behalf of his/her client, there is an obligation under Rule 5(5) of the PCR for the legal practitioner to ensure that the person has the authority to give instructions on behalf of the client. In the absence of any evidence, the rule requires the legal practitioner must “obtain the client’s confirmation of those instructions within a reasonable time after receiving those instructions”.
+
+Client care 
+- Clients must receive adequate information on fees, costs and progress of matter: The requirements of the PCR 2015 on the standards of adequate professional service apply when lawyers conduct their clients’ businesses on the Internet. Accordingly the clients must receive adequate information on fees and costs and the progress of the client’s matter. 
+- Lawyers must respond to client’s emails and explain proposals of settlement and positions taken by other parties clearly: E-mails must, with reasonable dispatch, be responded to and proposals of settlement and positions taken by other parties explained in a clear manner.
+
+B. *RULE 39(1): TOUTING
+Duty of lawyer/LP to not tout for business or do anything reasonably inferred to be for touting – Rule 39(1) 
+Rule 39(1) of PCR
+- A legal practitioner or law practice must not tout for business or do anything which is likely to lead to a reasonable inference that the thing was done for the purpose of touting 
+- NB: Touting can be done by someone else other than the lawyer/LP, including existing or former clients
+Touting: Attempting to sell something by a direct or persistent approach 
+
+Duty of lawyer/LP to not remunerate a listed tout
+S78(1)(e) of LPA
+- No solicitor shall in connection with his practice employ or remunerate any person who to his knowledge is a listed tout under s39 of the Family Justice Act 2014, s62 of the State Courts Act 1970 or s73 of the Supreme Court of Judicature Act 1969 
+
+*Touting restrictions in correspondences to potential clients when acting for client 
+Correspondences to Potential Clients Where Legal Practitioner is Permitted to Act for More Than One Client in a Transaction
+PD 7.4.1 
+Context
+- Where legal practitioner is permitted to act for multiple parties in a transaction and is already acting for one of the parties => Legal practitioner should be careful to not use phrases which can be construed as an invitation to the other parties to employ the legal practitioner => This will infringe the rule against touting 
+Send disclaimer to potential client before retention
+Where legal practitioner is in fact informed by client that another party wishes to retain the legal practitioner to act for him, legal practitioner should write in his initial correspondence to the new party:
+- “I understand from my clients that they have arranged to sell to you the above property at the price of ____ subject to contract, and that you would like me to act on your behalf. While I should be happy to act for you if you so wish, I would point out that you are not bound to employ me and are entitled to instruct any other legal practitioner of your own choosing. Will you please therefore, either confirm in writing your wish that I should act for you, or let me have the name and address of the legal practitioners who will act for you”
+- Point is: Make it clear that the new party is entitled to instruct a legal practitioner of his choice and need not only employ you 
+
+C. *RULE 39(2): REFERRALS
+
+Step 1: Identification of referral arrangement
+Example of referral arrangement
+- Debt collection agency refers clients to a law firm for the recovery of their debts:
+a. Law firm must not allow the referrer to dictate the steps to be taken by the law firm in the recovery of the debts
+b. Law firm must only accept instructions regarding the progress of the case from the client and not the referrer 
+c. Even if the referrer has a Letter of Authority signed by the client to give the referrer authority, the law firm has a duty to clarify with the client that the Letter of Authority gives the referrer authority of an agent to give instructions 
+
+Step 2: General duties of lawyer/LP when there is reason to believe that client was referred to lawyer/LP – Rule 39(2) 
+Rule 39(2) of PCR
+- Where there is reason to believe that a client is referred to a legal practitioner or law practice by any other person, the legal practitioner or law practice: 
+a. Lawyer/LP must not allow referrer to undermine independence of the lawyer/LP (maintain the independence and integrity of the legal profession)
+b. Lawyer/LP must not reward referrer with any form of commission or other forms of consideration 
+c. Lawyer/LP must not allow the referral to affect legal advice given to the client
+d. Lawyer/LP must advise the client impartially and independently
+e. Lawyer/LP’s advice to client must not be influenced by fear of offending referrer
+f. Lawyer/LP must not be influenced by the referrer
+g. Lawyer/LP must communicate directly with client when providing legal advice or confirming instructions at all appropriate stages of the transaction 
+
+GN 6.1.1: General principle against using methods which “unfairly attract work”
+- Even if no fees are paid or shared, any participation in an online introduction service or referral service carried out in such a way as to ‘unfairly attract work’ to the law practice would be improper given the terms of s 83(2)(b) and/or s 83(2)(h) of the LPA.
+
+For Rule 39(2)(b): Lawyer/LP must not reward referrer with any commission 
+Principle 1: Commission and consideration can be in any form 
+- Commission in the form of shopping vouchers (LSS v Tan Guat Neo Phyllis)
+- Commission in the form of gifts and/or service fees for “consultancy and training” (LSS v Yap Kok Kiong) 
+Doesn’t seem to be limited to commission on a per-client basis. The referrer cannot be remunerated AT ALL, even in a flat fee per month regardless of number of referrals kind of deal (I think) 
+
+Principle 2: Referral agreement with commission disguised as Fee sharing arrangement with employee
+LSS v Lee Cheong Hoh – Commission disguised as fee sharing arrangement with employee 
+- Respondent lawyer hired a non-professional employee in his law firm on unique employment terms 
+- One of the terms was that the employee was entitled to a monthly basic salary and an additional 10% of all professional fees collected by the firm in respect of 3rd party claims 
+- That employee had previously worked at another law firm and he was procured to poach the pending files from his ex-law firm 
+- Held: Breach of Rule 39 
+1. The employee was hired for the purpose of procuring business for the respondent lawyer and the 10% additional payment was a commission for bringing in business for the respondent lawyer 
+
+Principle 3: Referral agreement disguised as “service fee” – “service fee” was only payable when solicitor received legal fees for work done 
+LSS v Lau See-Jin Jeffrey – Commission disguised as payment of “service fee” 
+- Real estate developer requested company to find a law firm to witness and arrange for the execution of sale and purchase agreements 
+- Company approached the respondent solicitor 
+- Respondent solicitor agreed to pay company 30% of his legal fees for company’s “consultancy and management services” and the 30% was described as a “service fee”
+- The “service fee was only payable upon the respondent solicitor receiving his legal fees for work done”
+- Held: Breach of Rule 39 and respondent solicitor suspended for 5 years 
+1. The true nature of the “service fee” was a commission to be paid from the respondent solicitor to the company for the company to procure work for the respondent solicitor 
+2. A significant factor was the fact that the “service fee” was only payable from the respondent solicitor to the company when the respondent solicitor had received his legal fees for any work done 
+3. If the “service fee” is intended to be genuine remuneration for consultancy and management services provided by the company, then it should be payable regardless of whether the respondent solicitor was paid legal fees for any work done 
+4. It was unrealistic for the company to agree to accept the risk of non-payment after the provision of “consultancy and management services” to the respondent solicitor 
+
+For Rule 39(2)(g): Lawyer/LP must communicate directly with client and not through the referrer 
+Principle 1: Lawyer should meet personally with client at outset and thereafter whenever necessary 
+LSS v Udeh Kumar s/o Sethuraju 
+- At the outset of the relationship, solicitor should meet personally with the client => Thereafter, solicitor should meet personally with the client whenever it is necessary 
+- It is unnecessary for the solicitor to attend to every single detail of the transaction in question with his client 
+
+Principle 2: Test to determine if solicitor’s physical presence is required for a matter – Nature of transaction, action required, accepted practice in the legal profession at that particular time 
+LSS v Udeh Kumar s/o Sethuraju 
+- To determine if a solicitor’s physical presence is required for a matter or whether the task can be reasonably delegated to his employee, Court will look at: 
+a. The nature of the transaction 
+b. The action required 
+c. The accepted practice in the legal profession at that particular point in time 
+
+Principle 3: Purpose of Rule 39(2)(g) is to protect client who might be in a vulnerable position 
+- Where a client is referred to a solicitor, there is a greater danger that the client might be in a vulnerable position => It is logical and commonsensical to require the solicitor to undertake a personal responsibility to communicate directly with the referred client to ensure that everything is in order 
+
+Step 3: Additional requirements for referral agreements for referral of any conveyancing service – Rule 40(1)
+Requirement 1: Agreement referral must be made in writing 
+Rule 40(1) of PCR
+- When a legal practitioner or law practice enters into any agreement for the referral of any conveyancing service the legal practitioner or law practice must ensure that the agreement is made in writing 
+
+Requirement 2: Agreement referral must contain terms under Rule 40(1) 
+Rule 40(1) of PCR
+- The agreement must contain the following terms:
+a. Referrer’s undertaking to comply with PCR: Referrer undertakes to comply with Rules under PCR 
+b. Lawyer/LP’s right to terminate agreement if referrer breach: Legal practitioner or law practice is entitled to terminate the agreement if there is reason to believe that the referrer is in breach of any term of the agreement 
+c. Referrer’s publicity must not suggest certain terms: Any publicity of the referrer which refers to any service provided by the legal practitioner/law practice must not suggest the following: 
+(i) That the conveyancing service is free 
+(ii) That different charges are payable for the conveyancing service, depending on whether the client instructs the legal practitioner or law practice
+(iii) That the availability or price of any other service offered by the referrer or by any party related to the referrer is conditional on the client instructing the legal practitioner or law practice 
+d. Referrer must not influence client’s appointment of lawyer: Referrer must not do anything to impair the right of the client not to appoint the legal practitioner/law practice and must not influence in any way the right of the client to appoint a legal practitioner or law practice of the client’s choice 
+
+Requirement 3: Lawyer/LP must terminate the agreement under Rule 40(2) circumstances 
+Rule 40(2) of PCR
+- Legal practitioner or law practice must terminate the agreement if:
+a. Referrer is in breach of any term referred to in Rule 40(1); OR 
+b. There is reason to believe that the legal practitioner or law practice is in breach of any such term 
+
+Lawyer/LP duties after termination of agreement 
+Rule 40(3)
+- Where legal practitioner or law practice has terminated an agreement under Rule 40(2), the legal practitioner or law practice:
+a. May continue to act in matters for which the legal practitioner or law practice was instructed prior to the termination; BUT 
+b. Must not accept any further referrals from the referrer 
+
+Step 4: Consequences of non-compliance with Rule 39 => Refer to DT => If DT refers to Court 
+Due cause can be shown
+S83(2)(d) of LPA – Solicitor consenting to providing gratification payable out of legal fees for procurement of legal work 
+- Due cause may be shown by proof that an advocate and solicitor has tendered or given or consented to retention, out of any fee payable to him or her for his or her services, of any gratification for having procured the employment in any legal business of himself or herself, of any other advocate and solicitor or, in relation only to the practice of Singapore law, of any foreign lawyer registered under section 36B;
+
+S83(2)(e) of LPA – Solicitor procured legal work by providing remuneration 
+- Due cause may be shown by proof that an advocate and solicitor has, directly or indirectly, procured or attempted to procure the employment of himself or herself, of any advocate and solicitor or, in relation only to the practice of Singapore law, of any foreign lawyer registered under section 36B through or by the instruction of any person to whom any remuneration for obtaining such employment has been given by him or her or agreed or promised to be so given
+
+S83(2)(f) of LPA – Solicitor accepting legal work through a tout 
+- Due cause may be shown by proof that an advocate and solicitor has accepted employment in any legal business through a person who has been proclaimed a tout under any written law relating thereto
+
+After due cause is shown => Sanction of lawyer/LP 
+S83(1) of LPA
+- All advocates and solicitors are subject to the control of the Supreme Court and shall be liable on due cause shown:
+a. to be struck off the roll;
+b. to be suspended from practice for a period not exceeding 5 years;
+c. to pay a penalty of not more than $100,000;
+d. to be censured; or
+e. to suffer the punishment referred to in paragraph (c) in addition to the punishment referred to in paragraph (b) or (d)
+
+Case Law Examples – Breach of Rule 39(2)(b) 
+LSS v Chong Wai Yen Michael – Payment in consideration for referral 
+- Respondent lawyers made payments to a company referrer as consideration for the company referring conveyancing-related matters to the respondent lawyers
+- Held: Breach of Rule 39(2)(b) => Guilty of s83(2)(b) and s83(2)(e) of LPA => 3 of the respondent lawyers were suspended while 1 of them was struck off the rolls
+1. Lawyer that was struck off was the one who instructed that the company be set up and had already been reprimanded before
+
+Wong Keng Leong Rayney v LSS 
+- Respondent lawyer promised to give renumeration to a referee for procuring legal work for the law firm of which he was partner – charged for breach of s83(2)(e) LPA (due cause shown when lawyer pays for referral services) and s83(2)(h) LPA (misconduct unbefitting a lawyer as an officer of the Supreme Court or as a member of an honorable profession)
+- “Without such observance and effective enforcement of ethical rules, the glue that binds and distinguishes advocates and solicitors as professionals as opposed to merely self-serving businessmen will soon dissolve. A solicitor is most certainly not merely a businessman or client proxy. He is an officer of the court charged with the unique responsibility of upholding the legal system and the quality of justice … A failure by significant numbers of the legal profession to abide by and observe these ethical standards would eventually drive the entire profession down the slippery slope of ignominy”
+- Lawyer was suspended from practice for a period of 15 months
+
+LSS v Lee Cheong Hoh – Commission disguised as fee sharing arrangement with employee 
+- Respondent lawyer hired a non-professional employee in his law firm on unique employment terms 
+- One of the terms was that the employee was entitled to a monthly basic salary and an additional 10% of all professional fees collected by the firm in respect of 3rd party claims 
+- That employee had previously worked at another law firm and he was procured to poach the pending files from his ex-law firm 
+- Held: Breach of Rule 39 
+2. The employee was hired for the purpose of procuring business for the respondent lawyer and the 10% additional payment was a commission for bringing in business for the respondent lawyer 
+
+LSS v Tan Buck Chye – Offer of monetary reward for referral 
+- Respondent solicitor attempted to procure conveyancing work by offering monetary rewards to individual referrers who referred such work to him 
+- Held: Suspended for 6 months 
+
+LSS v Lau See-Jin Jeffrey – Commission disguised as payment of “service fee” 
+- Real estate developer requested company to find a law firm to witness and arrange for the execution of sale and purchase agreements 
+- Company approached the respondent solicitor 
+- Respondent solicitor agreed to pay company 30% of his legal fees for company’s “consultancy and management services” and the 30% was described as a “service fee”
+- The “service fee was only payable upon the respondent solicitor receiving his legal fees for work done 
+- Held: Breach of Rule 39 and respondent solicitor suspended for 5 years 
+5. The true nature of the “service fee” was a commission to be paid from the respondent solicitor to the company for the company to procure work for the respondent solicitor 
+6. A significant factor was the fact that the “service fee” was only payable from the respondent solicitor to the company when the respondent solicitor had received his legal fees for any work done 
+7. If the “service fee” is intended to be genuine remuneration for consultancy and management services provided by the company, then it should be payable regardless of whether the respondent solicitor was paid legal fees for any work done 
+8. It was unrealistic for the company to agree to accept the risk of non-payment after the provision of “consultancy and management services” to the respondent solicitor 
+
+LSS v Lilian Bay Puay Joo – Commission pursuant to entrapment 
+- Private investigator was conducting investigations into law firms touting for conveyancing work 
+- PI met the respondent solicitor and PI claimed to be a real estate agent who needed to engage a lawyer for a fictitious transaction 
+- PI urged the respondent solicitor into agreeing to pay the PI referral fees 
+- The respondent solicitor wrote “10%” on a piece of paper and explained that the PI would receive 10% of the professional legal fees that the respondent solicitor would receive for the transaction 
+- Held: Breach of Rule 39 and respondent solicitor suspended for 9 months 
+1. Court found that there was inducement and entrapment, but the respondent solicitor was nevertheless liable under the LPA
+2. It did not matter that the work procured by the PI was fictitious or non-existent
+
+LSS v Tan Guat Neo Phyllis – Commission in the form of shopping vouchers pursuant to entrapment 
+- Private investigator was conducting investigations into law firms touting for conveyancing work 
+- PI met the respondent solicitor and PI claimed to be a real estate agent who needed to engage a lawyer for PI’s client 
+- Respondent solicitor agreed to give $200 in Takashimaya shopping vouchers to the PI 
+- Held: Breach of Rule 39 
+1. Court found that there was entrapment but the entrapment evidence would still be admissible as evidence 
+2. Respondent solicitor offered a referral fee to the PI in the form of Takashimaya shopping vouchers and she did so with a view to procuring conveyancing work from the PI  
+
+LSS v Yap Kok Kiong – Commission in the form of gifts 
+- Solicitor gave various shopping vouchers to a large number of real estate agents 
+- Solicitor initially argued that the vouchers were given to the real estate agents as business partners and as tokens of appreciation during the festive season or as a sponsorship for corporate events 
+- Held: Solicitor subsequently pled guilty to breach of Rule 39 
+
+Case Law Examples – Breach of Rule 39(2)(g)
+LSS v Udeh Kumar s/o Sethuraju 
+- Client was referred to the respondent solicitor to act for her in the sale of a flat and other matters
+- Respondent solicitor failed to attend to the client on the day the client executed multiple important legal documents
+- Respondent solicitor had not bothered to attend or meet or communicate directly with the client at all throughout the period of the retainer 
+- Held: Breach of Rule 39(2)(g)
+
+D. PROHIBITED BUSINESS, TRADE OR CALLING 
+Lawyers absolutely prohibited from engaging in certain businesses – Rule 38 
+Rule 38 PCR
+- A legal practitioner or law practice must not engage in any business, trade or calling which 
+a. Business that derogates from dignity of legal profession 
+b. Business that is likely to unfairly attracts legal work
+c. Business prohibited by any law or rules:
+(i) LPA 
+(ii) PCR or any other subsidiary legislation made under LPA
+(iii) Any practice directions, guidance notes and rulings issued by the Council or Law Society 
+
+Principle 1: Definition of employment incompatible with legal profession 
+LSS v Ong Teck Ghee 
+- For a trade or business to detract from or be incompatible with the legal profession, the trade or business must either be:
+* Illegal
+* Undesirable because it brings the legal profession into disrepute 
+
+Principle 2: Examples of undesirable businesses
+- E.g. of unsavory business – Running of a debt collection agency (Liam Kiap Khee) 
+- E.g. advocate and solicitor suspended because he was engaged in the business of selling female clothing (Re An Advocate). 
+o In light of the view expressed in Ong Teck Ghee that “perceptions may have changed since 1963” at (36), it is questionable whether the reasoning in Re An Advocate still applies. The outcome may still be prohibited but owing to another rationale under Rule 34(1)(b) PCR that selling ladies’ garments may be considered to materially interfere with the practice of law as the primary occupation
+
+Consequences for breach of Rule 38 – Due cause for disciplinary action under s83 of LPA
+Proof that lawyer work in prohibited business => Due cause can be shown 
+s83(2)(i) of LPA
+- Due cause for disciplinary action can be shown by proof that an advocate and solicitor carries on by himself or any person in his employment any trade, business or calling that detracts from the profession of law or is in any way incompatible with it or is employed in any such trade, business or calling 
+
+After showing due cause => Lawyer can be sanctioned
+S83(1) of LPA
+- All advocates and solicitors are subject to the control of the Supreme Court and shall be liable on due cause shown:
+a. to be struck off the roll;
+b. to be suspended from practice for a period not exceeding 5 years;
+c. to pay a penalty of not more than $100,000;
+d. to be censured; or
+e. to suffer the punishment referred to in paragraph (c) in addition to the punishment referred to in paragraph (b) or (d)
+
+LSS v Ong Teck Ghee – Lawyer allowed to earn commission from sale of smallpox vaccines
+- Respondent solicitor entered into agreement to provide consultancy services to a foreign pharmaceutical company 
+- Respondent solicitor’s job is to “promote, increase and maximize sales” and “conduct appropriate lobby/network activities” 
+- Respondent solicitor would earn a commission-based income 
+- Held: No breach of s83(2)(i) of LPA 
+1. Not illegal: There was nothing illegal in the respondent’s solicitor agreement with the foreign pharmaceutical company 
+a. The respondent solicitor was to use legitimate methods to achieve legitimate business objectives 
+2. Does not bring legal profession into disrepute: Agreement does not bring the profession into disrepute or detract from honor and dignity of legal profession 
+a. Business here is the sale of smallpox vaccines and there is nothing unsavory or morally reprehensible about it 
+b. E.g. of unsavory business – Running of a debt collection agency (Liam Kiap Khee) 
+c. Commission-based income does not by itself bring the profession into disrepute.
+
+
+Professional fees and Solicitors’ Accounts Rules (SAR)
+A. Rule 16 PCR: Client’s money
+Context
+1. Identifying *client’s money and *client’s account
+o Categories of accounts: 
+(1) Client account,
+(2) Conveyancing account,
+(3) Office account and 
+(4) Trust account.
+o Categories of money:
+(1) Client’s money,
+(2) Conveyancing money,
+(3) Anticipatory conveyancing money,
+(4) Unclaimed conveyancing money,
+(5) Trust money and
+(6) Money in office account.
+
+2. Duties owed to client in relation to client’s money 
+
+3. When to pay client’s money into client account 
+
+4. What to pay and what not to pay into client’s account
+
+5. Splitting of moneys
+
+Principles underlying Rule 16 PCR 
+Rule 16(1) of PCR 
+a. A legal practitioner is under a duty to ensure that any money or other property which a client of the legal practitioner, with the agreement of the legal practitioner, has entrusted with the legal practitioner, or has made the legal practitioner responsible for, is held in a way that protects the interests of the client 
+b. A law practice is under a duty to ensure that any money or other property which a client of the law practice, with the agreement of the law practice, has entrusted with the law practice, or has made the law practice responsible for, is held in a way that protects the interests of the client 
+
+DUTIES OWED TO CLIENT IN RELATION TO CLIENT’S MONEY UNDER RULE 16 OF PCR
+Duty to account client money to client – Rule 16(2) 
+Rule 16(2) of PCR 
+- A legal practitioner is accountable to his or her client for any money or other property which the client has entrusted with the legal practitioner, or has made the legal practitioner responsible for
+
+Duty to notify client when receiving money to be held on behalf of client – Rule 16(3)(a)
+Rule 16(3)(a) of PCR
+- A legal practitioner must promptly notify his or her client whenever the legal practitioner receives any money (including conveyancing money) or securities to be held on behalf of the client
+
+Duty to render statement of account – Rule 16(3)(b) 
+Rule 16(3)(b) of PCR 
+- A legal practitioner must expeditiously render statements of accounts when requested by the client.
+
+Duties under Rule 16(2), Rule 16(3)(a), Rule 16(3)(b) apply to a law practice 
+Rule 16(4) of PCR
+- The duties owed by a legal practitioner under this rule apply, with the necessary modifications, to a law practice.
+
+LEGAL PROFESSION (SOLICITORS’ ACCOUNTS) RULES (“LPSAR”)
+LPSAR Regime: Governing payments into client’s account held by lawyers 
+- Only client money, Rule 4 money, Rule 5(3) money can be paid into client account 
+- Lawyer has duty to pay such money into client account without delay => Unless Rule 9 exception applies
+
+Purpose of LPSAR
+- LPSAR protects the public against unauthorized use of client’s money by solicitors (Law Society of Singapore Dhanwant Singh – a solicitor CANNOT maneuver, by contract, out of the ambit of the Conveyancing Rules, r 3(1A) LPSAR and the LPSAR)
+
+- LPSAR maintains the legitimacy and standing of the legal profession (Law Society of Singapore v Yong Wei Kuen Paul) 
+
+IDENTIFYING “CLIENT’S MONEY” AND “CLIENT’S ACCOUNT”
+Definition of “client’s account”
+Rule 2 of LPSAR
+- “client account” means:
+a. Current or deposit account maintained by solicitor with bank + Title of account has the word “client”; OR
+b. Deposit account maintained by solicitor with approved finance company + Title of account has the word “client”,
+in the title of which account the word “client” appears;
+
+Lawyer can keep as many client accounts as he thinks fit – Rule 3(2) 
+Rule 3(2) of LPSAR
+- Any solicitor may keep one client account or as many such accounts as he thinks fit.
+
+Definition of “client’s money”
+Rule 2 of LPSAR
+- Money held or received by a solicitor on account of a person of whom he is acting either as a solicitor, or in connection with his practice as a solicitor, an agent, a bailee or a stakeholder or in any other capacity
+- Excludes (I.E. THESE ARE NOT CONSIDERED CLIENT’S MONEY):  
+* Money held on account of trustees of a trust of which the lawyer is a solicitor-trustee;
+* Money to which the only person entitled is the lawyer himself (or in the case of a law firm, one or more partners);
+* Conveyancing Money and Anticipatory Conveyancing Money.
+
+Rule 4 – moneys which can be paid into client account
+Rule 4 of LPSAR 
+- There may be paid into a client account (in addition to client money):
+a. Trust money 
+b. Lawyer’s money necessary for opening and maintaining client account: Such money belonging to the solicitor as may be necessary for the purpose of opening or maintaining the client account 
+c. Money to replace client’s money taken out in breach of Rule 8(2): Money to replace any sum which for any reason may have been drawn from the client account in breach of Rule 8(2) 
+d. Money received by lawyer which he does not split in breach of Rule 5(3): Money received by the solicitor, which under Rule 5(3) he is entitled to split, but which he does not split 
+e. Money provided to solicitor under Rule 5(3) of Conveyancing Rules: Any money provided to the solicitor under Rule 5(3) of the Conveyancing Rules, if the solicitor satisfies the condition referred to in that provision
+f. Money provided to solicitor under Rule 5(4) of Conveyancing Rules: Any money received by the solicitor under Rule 5(4) of the Conveyancing Rules if the solicitor satisfies the condition referred to in that provision
+
+PART 1: WHEN LAWYER RECEIVES CLIENT MONEY => DUTY TO PUT CLIENT MONEY IN CLIENT ACCOUNT IMMEDIATELY 
+
+Duty to pay client money into client account without delay – Rule 3(1) 
+Solicitor who holds or receives client money or elected Rule 4 money => Must pay them into client account without delay => Unless Rule 9(1), 9(2), 9(4) which sets out situations where solicitor is under NO obligation to pay
+Rule 3(1) of LPSAR
+- Subject to Rule 9, every solicitor who holds or receives client’s money, or money which under Rule 4 he is permitted and elects to pay into a client account, shall without delay pay such money into a client account.
+- Even an erroneous deposit of client money into an office account (cf client account) is a breach of r 3(1) LPSAR (LSS v Tan Chwee Wan Allan)
+
+Exception: Type of client’s money which need not be paid into client account 
+Rule 9(1) of LPSAR 
+- Notwithstanding the provisions of these Rules, a solicitor shall not be under obligation to pay into a client account client’s money held or received by him (i.e. solicitor):
+a. Client’s cash money which is paid in cash without delay in ordinary course of business to client: In the form of cash, and is without delay paid in cash in the ordinary course of business to the client or on his behalf to a third party;
+b. Client’s cheque money which is endorsed over in ordinary course of business to client without passing through a bank account: In the form of a cheque or draft which is endorsed over in the ordinary course of business to the client or on his behalf to a third party and is not passed by the solicitor through a bank account or an account with an approved finance company account; or
+c. Client’s money which is paid into a separate bank account opened in the name of the client: Which he pays into a separate bank account or into a separate account with an approved finance company opened or to be opened in the name of the client or of some person designated by the client in writing.
+
+Exception: Type of client’s money which must not be paid into client account 
+Rule 9(2) of LPSAR 
+- Notwithstanding the provisions of these Rules, a solicitor shall not pay into a client account, money held or received by him:
+a. Client’s money which client requests in writing to be withhold from client’s account: Which the client for his own convenience requests the solicitor in writing to withhold from such account;
+b. Client’s money used to reimburse/repay debt owed to solicitor: For or towards payment of a debt due to the solicitor from the client or in reimbursement of money expended by the solicitor on behalf of the client; or
+c. Client’s money which is expressly paid to lawyer for legal costs: Which is expressly paid to him:
+(i) On account of costs incurred, in respect of which a bill of costs or other written intimation of the amount of the costs has been delivered for payment; or
+(ii) As an agreed fee (or on account of an agreed fee) for business undertaken or to be undertaken
+Law Society of Singapore v Tay Choon Leng John 
+- (whether fee agreement is required to be in writing) There is no requirement for a fee agreement to be in writing, under s 111. An oral fee agreement isn’t invalid merely for the fact that it was made orally 
+a. No agreement, not even a written agreement, would bind the client unless the client signified his consent thereto by his signature. 
+b. The client is however still able to enforce oral agreements (or fee agreements not signed by the client) against the solicitor 
+c. In other words, a client can enforce an oral agreement against a solicitor but a solicitor cannot enforce an oral agreement against the client (it needs to be signed by the client) 
+- Rule 9(2)(c)(ii) does not affect enforceability of the fee agreement itself, but only whether the solicitor is permitted to put client money somewhere other than the client account 
+
+Rule 9(3) of LPSAR
+- Where money includes client’s money as well as money of the nature described in paragraph (2) (i.e. money that must not be paid into client’s account), that money shall be dealt with in accordance with Rule 5(3) (see below).
+
+Exception: Lawyer can apply to Council for authorization to withhold client’s money from client account
+Rule 9(4) of LPSAR
+- Notwithstanding the provisions of these Rules, the Council may upon an application made to it by a solicitor specifically authorise him in writing to withhold any client’s money from a client account.
+
+Mixture of client’s money and other moneys 
+Rule 5(1) of LPSAR
+- Lawyer shall not hold or receive any sum of money which consists of a mixture of conveyancing money and any other money: Subject to paragraph (2), a solicitor shall not hold or receive any sum of money which consists of a mixture of conveyancing money and any other money.
+Rule 5(2) of LPSAR
+- Where any sum of money held or received by a solicitor subsequently becomes a mixture of conveyancing money and any other money, the solicitor shall —
+(a) split the conveyancing money from the other money; and
+(b) deal with the conveyancing money as if he had received the conveyancing money as a separate sum of money.
+
+Rule 5(3) of LPSAR
+- Where lawyer receives mixture of client’s money and other moneys: Subject to paragraphs (1) and (2), where a solicitor holds or receives any sum of money which consists of a mixture of client’s money, or trust money of one or more trusts, or both, and any other money:
+a. Lawyer may where practical, split the money and deal with each part separately: He may where practicable split the money and, if he does so, he shall deal with each part thereof as if he had received a separate sum of money in respect of that part; or
+b. If not practicable to split and if any part consists of client’s money, lawyer shall and may pay all money into client account: If he does not split the money, he shall, if any part thereof consists of client’s money, and may, in any other case, pay the money into a client account.
+
+Solicitor’s right of lien or set-off 
+Rule 15 of LPSAR
+- LPSAR does not alter a solicitor’s recourse or right whether by way of lien, set-off, counter-claim, charge or otherwise, against moneys standing to the credit of a client account 
+
+PART 2: DUTY TO NOT PUT ANY OTHER MONEY IN CLIENT ACCOUNT
+
+Duty to not pay random money into client account – Rule 6
+Only money under Rule 3(1), 4 and 5(3) can be paid into client’s account
+Rule 6(1) of LPSAR
+- No money, other than money under rules 3(1), 4 and 5(3) which a solicitor is required or permitted to pay into a client account, shall be paid into a client account.
+
+If lawyer paid random money into client account => Lawyer duty to withdraw the random money without delay
+Rule 6(2) of LPSAR
+- It shall be the duty of a solicitor into whose client account any money has been paid in contravention of this rule to withdraw the money without the delay on discovery.
+
+PART 3: LAWYER CAN ONLY WITHDRAW MONEY FROM CLIENT ACCOUNT UNDER RULE 7 => COUNCIL APPROVAL IS REQUIRED FOR WITHDRAWAL OF MONEY IN CIRCUMSTANCES OUTSIDE RULE 7 
+
+Moneys which may be drawn from client account 
+List of client’s money which can be withdrawn
+Rule 7(1)(a) of LPSAR
+- In the case of client’s money: 
+(i) Money required for payment to or on behalf of client: Money properly required for a payment to or on behalf of the client 
+(ii) Money to reimburse expenses incurred by lawyer on behalf of client: Money properly required in full or partial reimbursement of money expended by the solicitor on behalf of the client
+(iii) Money withdrawn on client’s authority; Money drawn on the client’s authority
+(iv) Money for payment of legal fees + Client has been notified that client’s money will be so applied: Money properly required for or towards payment of solicitor’s costs where a bill of costs has been delivered to the client + and client has been notified that money held for him will be applied towards such costs 
+(v) Money to be transferred to another client account: Money to be transferred to another client account 
+
+List of trust money which can be withdrawn
+Rule 7(1)(b) of LPSAR
+- In the case of trust money:
+(i) Money properly required for a payment in the execution of the particular trust
+(ii) Money to be transferred to a separate bank account kept solely for the money of the particular trust 
+
+List of other money which can be withdrawn 
+Rule 7(1)(c) of LPSAR
+- Money paid into the client account under Rule 4(b) (solicitor’s money necessary to open and maintain client account) or Rule 5(3)(b) (mixture of client’s money and other moneys if impractical to split)
+
+Rule 7(1)(d) of LPSAR
+- Money which may have been paid into the client account in contravention of Rule 6 (duty not to pay random money into the client account)
+
+Duty to ensure client’s account is not overdrawn 
+Rule 7(2) of LPSAR
+- Money withdrawn shall not exceed the total of the money held for the time being in the client’s account 
+
+Procedure for withdrawal outside Rule 7
+Council approval in writing required if withdrawal is done outside of Rule 7
+Rule 8(1) of LPSAR 
+- Except as provided under Rule 7, no money shall be drawn from client’s account unless Council upon an application made to it by the solicitor specifically authorizes such withdrawal in writing 
+
+PART 4: IF LAWYER WITHDRAWS MONEY UNDER RULE 7, LAWYER DUTY TO FOLLOW PRESCRIBED MODE OF WITHDRAWAL 
+
+Procedure for withdrawal under Rule 7(1)(a)(ii), 7(1)(a)(iv), 7(1)(c), 7(1)(d)
+Withdrawal by cheque drawn in favor of lawyer or transfer to lawyer’s bank account for:
+- Money to reimburse expenses incurred by lawyer on behalf of client
+- Money for payment of legal fees + Client has been notified that client’s money will be so applied
+- Solicitor’s money necessary to open and maintain client account
+- Mixture of client’s money and other moneys if impractical to split
+- Money paid into client account in contravention of Rule 6 (i.e. random money, see above)
+
+Rule 8(2) of LPSAR
+- No money shall be drawn from a client account under rule 7(1)(a)(ii) or (iv), (c) or (d) except by —
+a. A cheque drawn in favour of the solicitor; or
+b. A transfer to a bank account in the name of the solicitor not being a client account.
+Note: 
+- Cheque drawn in favor of solicitor: Only the solicitor can withdraw the money 
+
+Procedure for lawyer to withdraw client’s money to pay legal fees under Rule 7(1)(a)(iii)
+PD 3.3.1: Drawing money for legal costs from client account 
+- Before a solicitor can deduct money from a client account in satisfaction of his costs, he must have:
+a. Delivered to the client a bill of costs or other form of written intimation of the amount of costs incurred
+b. Notified the client that such an amount will be deducted in satisfaction of his costs; and
+c. Allowed a lapse of 2 working days after giving the notification referred to in para (a) above, before transferring such amount for costs out of the client’s account 
+
+No withdrawal by cash cheque or bearer cheque for Rule 7(1)(c), 7(1)(d)
+Rule 8(3) of LPSAR
+- NO money shall be drawn from a client account under Rule 7(1)(c) or 7(1)(d) by a cash cheque or a bearer cheque
+- Solicitor’s money necessary to open and maintain client account
+- Mixture of client’s money and other moneys if impractical to split
+- Money paid into client account in contravention of Rule 6 (i.e. random money, see above)
+
+Note: 
+- Cash cheque: Person holding cash cheque can cash in without any authorization 
+- Bearer cheque: Person bearing the cheque can cash in without any authorization 
+
+No withdrawal by cash cheque or bearer cheque unless GDHC authorization 
+Rule 8(4) of LPSAR 
+- No money shall be withdrawn from a client’s account by a cash cheque or a bearer cheque except with the permission of the General Division of High Court 
+
+No withdrawal by ATM or Telephone banking service 
+Rule 8(4A) of LPSAR
+- No money shall be drawn from a client account by means of any:
+a. Automated teller machine; or
+b. Telephone banking service
+
+No withdrawal from account with approved finance company unless approved by Council or Signature of solicitor 
+Rule 11(7) of LPSAR
+- Unless authorised in writing by the Council, no money may be withdrawn from a bank account or a deposit account with an approved finance company, being or forming part of a client account, otherwise than under the signature of a solicitor who is not a person prohibited under rule 8(7) from signing a cheque or other instruction effecting a withdrawal from a client account.
+
+PART 5: IF LAWYER WITHDRAWS MONEY ABOVE $5K, LAWYER DUTY TO FOLLOW RULE 8 ADDITIONAL CONDITIONS 
+
+Rules for withdrawals above $5k and less than $30k
+Withdrawals above $5k require approval from 2 solicitors => Exception in Rule 8(6)
+Rule 8(5) of LPSAR
+- No sum exceeding $5,000 is to be drawn from a client account except —
+a. Upon a cheque (or other instruction effecting the withdrawal) signed by 2 solicitors; or
+b. By means of an online digital payment authorised by 2 solicitors in accordance with any practice directions issued by the Council.
+
+2-signatories rule DO NOT APPLY if lawyer has engaged an independent book-keeper and sum withdrawn is less than 30k  
+Rule 8(6) of LPSAR
+- Paragraph (5) shall not apply if:
+a. The solicitor has engaged a book-keeper for the purposes of rule 11(8); and
+b. The sum to be drawn does not exceed $30,000.
+
+Where withdrawal is above $30k
+2-signatories rule APPLY for withdrawal above $30k, who must fulfill the following requirements:
+Rule 8(7) of LPSAR
+- A solicitor can only sign a cheque or other instruction effecting a withdrawal from a client account, or authorise an online digital payment effecting such withdrawal, if:
+a. Situation 1: Solicitor in Singapore have been in practice or employed as JSO/LSO for at least 3 years in aggregate; OR 
+b. Situation 2: Solicitor holds a current practicing certificate (PC); OR
+c. Situation 3: Solicitor does NOT hold a conditional PC prohibiting signing of cheques or instructions.
+
+Responsibilities of a second signatory under Rule 8(7)
+PD 3.3.10: Responsibilities and duties of a second signatory under the LPSAR
+- Basic responsibility: 
+a. Second signatory must verify that every withdrawal of money from client account under Rule 7 of LPSAR must comply with Rule 8 of LPSAR 
+- Duties:
+a. Review supporting documents to support withdrawal 
+(i) For payment of legal fees: Ensure copy of bill of costs has been sent to the client in compliance with the 2-day notice requirement under PD 3.3.1
+(ii) For withdrawal of money to pay damages due to the client or payment of maintenance to client in a matrimonial matter: Check the relevant settlement letter, agreement or order of Court evidencing sum payable to the client 
+(iii) If payment is to be made to the client’s agent, written letter of authority signed by the client consenting payment to agent is required
+
+Duty to not transfer sums between accounts 
+No sum shall be transferred between client accounts (client A’s account to client B’s account) => Unless exceptions
+Rule 10 of LPSAR 
+- No sum shall be transferred from the ledger account of one client to that of another, except in circumstances in which:
+a. Exception 1: Transfer between accounts is permissible under PCR: withdraw from a client account the sum transferred from the first client and to have paid into a client account the sum so transferred to the second client; or
+b. Exception 2: Transfer between accounts is permissible under Conveyancing Rules: withdraw from a conveyancing account the sum transferred from the first client and to have paid into a conveyancing account the sum so transferred to the second client.
+
+PART 6: CONTINUING DUTY OF LAWYER TO KEEP AND MAINTAIN ACCOUNTING RECORDS  
+Duty to keep accounting records of accounts 
+Solicitor must keep English accounting records showing certain things  
+Rule 11(1) of LPSAR
+- Every solicitor shall at all times keep properly written up in the English language such cash books, ledgers and journals and such other books and accounts as may be necessary:
+a. Show dealings in client’s account/ conveyancing account: To show all his dealings with:
+(i) Client’s money received, held or paid by him through a client account;
+(ii) Conveyancing money received, held or paid by him through a conveyancing account or conveyancing (CPF) account; and
+(iii) Any other money dealt with by him through a client account;
+b. Show (a) in respect of each client separately: To show separately in respect of each client all money of the categories specified in sub-paragraph (a) which is received, held or paid by him on account of that client; and
+c. Distinguish (a) from dealings in other money: To distinguish all money of the categories mentioned in sub-paragraph (b) received, held or paid by him, from any other money received, held or paid by him
+
+Solicitor must keep accounting records in appropriate medium
+Rule 11(2) of LPSAR
+- All dealings referred to in paragraph (1)(a) shall be recorded as may be appropriate:
+a. In a client’s cash book or a client’s column of a cash book; or 
+b. In a record of sums transferred from the ledger account of one client to that of another,
+c. and in addition:
+(i) in a client’s ledger or a client’s column of a ledger; and
+(ii) in a journal
+
+Solicitor must not record other dealings in such accounting records
+Rule 11(2A) of LPSAR
+- No other dealings shall be recorded in such client’s cash book and ledger mentioned in paragraph (2) or, as the case may be, in such client’s columns and journal
+
+Duty to keep accounting records of bills of costs  
+Solicitor must keep accounting records showing certain things  
+Rule 11(3) of LPSAR
+- In addition to the books and accounts referred to in paragraphs (2) and (2B), every solicitor shall keep a record of:
+* All bills of costs (distinguishing between profit costs and disbursements) and 
+* All written intimations under rules 7(1)(a)(iv) and 9(2)(c)(i) delivered or made by the solicitor to his clients
+
+Solicitor must keep accounting records in appropriate medium
+Rule 11(3) of LPSAR 
+- Records shall be contained in a bills delivered book or a file of copies of such bills and intimations.
+
+Duty to reconcile books and statements at least once a month
+Solicitor must reconcile balance of client’s cash books with client’s bank statements not less than once every month 
+Rule 11(4) of LPSAR
+- Every solicitor shall within one month of his commencing practice on his own account (either alone or in partnership) and thereafter not less than once in every succeeding month cause the balance of his clients’ cash books (or clients’ column of his cash book) to be reconciled with his clients’ bank statements and shall keep in the cash book or other appropriate place a statement showing the reconciliation.
+
+Duty to preserve books for at least 6 years from last entry 
+Solicitor must preserve all accounts, books, ledgers, records, bank statements for at least 6 years from last entry
+Rule 11(6) of LPSAR
+- Every solicitor shall preserve for a period of at least 6 years from the date of the last entry therein:
+a. All accounts, books, ledgers and records kept by him under this rule; and
+b. All bank statements received by him in respect of each client account, conveyancing account and conveyancing (CPF) account.
+
+Book-keeper to keep books and accounts 
+If a law practice does not or cannot implement a 2-lawyer signatory control to authorise payments from the client account exceeding $5k but not exceeding $30k, then that law practice must engage an independent bookkeeper approved by the Council.
+
+Rule 11(8) of LPSAR
+- Subject to rule 11A, a solicitor may engage a book-keeper to keep his books and accounts properly written up and reconciled as required by this rule.
+
+Council approval required when engaging a book-keeper 
+- Lawyer can only engage a book-keeper to keep records if he has obtained written approval of the Council to do so (Rule 11A(1) of LPSAR)
+- Lawyer has to give Council a statutory declaration swearing on the status of the book-keeper (Rule 11A(2) of LPSAR)
+
+Criteria of book-keeper
+PD (2019) 3.3.2 – Engagement of a book-keeper under the Legal Profession (Solicitors’ Account) Rules
+- Possess relevant professional qualifications
+- Be independent, that is, not an employee, parent, spouse, sibling, adopted child, step child or child of the solicitor 
+- He or a relevant person of the law firm must submit the required statutory declaration to Council on an annual basis whenever there is a change of book-keeper by the law firm during that accounting period 
+- He must have completed the mandatory book-keeping course as prescribed by the Council and if he has not completed so, he must undertake to complete the course within 12 months of being appointed
+
+Professional qualifications of book-keeper
+PD (2019) 3.3.2
+- At least one of the following approved qualifications:
+(i) London Chamber of Commerce and Industry
+(ii) Association of Accounting Technicians 
+(iii) A diploma in accounts from polytechnic 
+(iv) Passed ACCA level 2
+(v) Degree in accountancy  
+- For (i), (ii) and (iii), book-keeper must have at least one year’s experience in writing up Books and Accounts for a law firm 
+- Alternatively, if book-keeper does not possess any of the qualifications above, he must have at least 5 years’ experience in writing up Books and Accounts for a law firm 
+
+Council has power to require lawyer to produce books of accounts 
+Application on its own motion or by written complaint lodged by 3rd party 
+Rule 12(1) of LPSAR
+- In order to ascertain whether these Rules have been complied with, the Council acting:
+a. On its own motion; or
+b. On a written complaint lodged with it by a third party,
+may require any solicitor to produce at a time and place to be fixed by the Council, his books of account, bank pass books, loose-leaf bank statements, statements of account, vouchers and any other necessary documents for the inspection of any person appointed by the Council and to supply to that person any necessary information and explanations and that person shall prepare for the information of the Council a report on the result of such inspection.
+
+If 3rd party written complaint lodged => Council will require evidence and payment by complainant 
+Rule 12(5) of LPSAR
+- Before instituting an inspection on a written complaint lodged with it by a third party, the Council:
+a. Shall require prima facie evidence that a ground of complaint exists; and
+b. May require the payment by that party to the Council of a reasonable sum to be fixed by it to cover the costs of the inspection, and the costs of the solicitor against whom the complaint is made
+
+Case Law Examples – Failure to keep accounting records in breach of Rule 11 of LPSAR
+LSS v Chiong Chin May Selena – Failure to prepare and maintain financial records
+- Solicitor failed to prepare and maintain any financial records or documents for a period of 6 months 
+- Solicitor breached Rule 11 of LPSAR and was suspended for 1 year and had to give an undertaking not to resume practice as a sole practitioner without the leave of Court 
+- No dishonesty was involved and there were no losses sustained by any of her clients 
+- Breach was due to illness as she was unable to cope with the demands of a sole proprietorship
+
+LSS v Tay Eng Kwee Edwin – Failure to prepare and maintain accounting records
+- Solicitor failed to prepare and maintain accounting records for a period of one year 
+- Solicitor breached Rule 11 of LPSAR and was struck off the roll of solicitors
+- Breach was deliberate and solicitor even tried to conceal his transgressions 
+
+LSS v Zulkifli bin Mohd Amin – Failure to reconcile statements
+- Solicitor failed to prepare reconciliation statements and breached Rule 11(4) of LPSAR 
+- Solicitor could not produce the firm’s ledger and breached Rule 11(1) and 11(2) of LPSAR 
+- The 2 solicitors failed to supervise the Client Account
+- Solicitor abdicated responsibilities to other partner who eventually absconded after misappropriating client’s money
+- The responsibility to supervise is a non-delegable responsibility of equity partners and there should be no obligation on salaried partners to supervise client account (since the salaried partner is an employee and his role to supervise was a voluntary one)
+- Solicitor was struck off the roll, especially as exceptional financial loss was caused to clients 
+
+
+B. Anti-Money Laundering (AML) and Combating the Financing of Terrorism (CFT)
+Legal Profession (Prevention of Money Laundering and Financing of Terrorism) Rules 2015 (MLFTR)
+
+Purpose of MLFTR
+LSS v Chan Chun Hwee Allan 
+- Law firms are at risk of being used as a front for money launderers to move money and if unregulated, the legal profession would be at risk of assisting in criminal activity and tarnishing Singapore’s standing as a clean and trusted global financial hub 
+- It is imperative for lawyers to be particularly vigilant 
+
+LAWYER/LP DUTY TO PERFORM 3-PART CUSTOMER DUE DILIGENCE (CDD)
+Rule 4 of MLFTR
+- A legal practitioner or law practice must perform the customer due diligence measures prescribed under MLFTR
+
+3-Part Customer Due Diligence under MLFTR
+1. Ascertain identity
+2. Ascertain risk 
+3. If client is high risk, carry out enhanced CDD  
+
+Whether lawyer/LP duty to perform CDD is triggered?
+Applicable time to perform CDD: Before start of relationship with client 
+Rule 11(1) of MLFTR 
+- The applicable time for performing the CDD measures referred to in Rules 6(1), 6(2), 7, 8(1), 8(2), 8(3), 9(2), 10(2) and 10(3) is before the start, or during the course, of establishing a business relationship with the client 
+
+Rule 11(2)(a) Exception: Unless deferral of CDD is necessary to not interrupt normal conduct of business 
+Rule 11(2)(a) of MLFTR
+- Performance of CDD measures need not be completed during the applicable time if:
+* Deferral of the completion of the measures is necessary in order not to interrupt the normal conduct of business operations
+
+Rule 11(2)(b) Exception: Unless risks of money laundering and terrorism financing can be effectively managed
+Rule 11(2)(b) of MLFTR
+- Performance of CDD measures need not be completed during the applicable time if:
+* The risks of money laundering and financing of terrorism can be effectively managed 
+
+Requirements to invoke Rule 11(2)(a) and Rule 11(2)(b) exceptions 
+Rule 11(3) of MLFTR
+- For lawyer to invoke exceptions in Rule 11(2): 
+a. Lawyer’s law practice must adopt internal risk management policies and procedures concerning the conditions under which the lawyer may establish a business relationship with the client before relevant CDD measures; and
+b. Lawyer must complete CDD as soon as reasonably practicable.
+
+Rule 11(4) of MLFTR 
+- For LP to invoke exceptions in Rule 11(2):
+a. Law practice must adopt internal risk management policies and procedures concerning the conditions under which a legal practitioner who practises in the law practice, or the law practice, may establish a business relationship with a client before relevant CDD measures; and
+b. Lawyer must complete CDD as soon as reasonably practicable.
+
+Whether CDD will tip-off suspicious client? 
+Rule 16 Exception: CDD not required if tip-off suspicious client 
+Rule 16 of MLFTR
+- Where lawyer/LP suspects that client may be engaged in ML or FT and has reasonable grounds to believe that performance of any CDD measures will tip-off the client, lawyer/LP:
+a. Need not perform those CDD measures but 
+b. Must instead file a suspicious transaction report with:
+(i) A Suspicious Transaction Reporting Officer, if the client may be engaged in ML 
+(ii) A Police officer or Commercial Affairs Officer, if the client may be engaged in FT
+
+Part 1: Ascertain identity of client (general)
+Normal CDD: Lawyer/LP must conduct certain acts
+Rule 6(1) of MLFTR 
+- At the applicable time specified in rule 11, a legal practitioner or law practice must perform the following customer due diligence measures in relation to a client:
+a. Ascertain client’s identity;
+b. Verify client’s identity using objectively reliable and independent sources;
+c. Take reasonable measures to determine if client and his related parties (family member or close associate) are politically-exposed.
+
+If client is an entity: Extra steps required under Rule 6(2) => Unless Rule 6(3) (i.e. it is a government entity)
+Rule 6(2) of MLFTR
+- Lawyer/LP must identify and verify client’s identity through:
+a. Client’s name
+b. Client’s legal form
+c. Documents that prove existence of client 
+d. Documents that regulate and bind client (constitution of a company if client is a company, trust deed if client is an express trust) 
+e. Individuals in senior management of client
+f. Address of registered office of client
+g. Address of principal place of business (if registered office not principal place of business)
+
+If client is a government entity, CDD is not required unless lawyer/LP suspicious 
+Rule 6(3) of MLFTR
+- The legal practitioner or law practice need NOT perform CDD if client is: 
+a. A Ministry or Government department, State organ or statutory board; OR
+b. A ministry or Government department of a foreign country or territory 
+- Unless: Legal practitioner or law practice suspects that the client may be engaged in or the business relationship with the client may involve engagement in money laundering or financing of terrorism 
+
+If client is a legal entity: Extra steps required under Rule 8(1) => Unless Rule 8(4)
+Rule 8(1) of MLFTR
+- Lawyer/LP must also: 
+a. Ascertain if client has any beneficial owner
+b. Ascertain each beneficial owner’s identity
+c. Take reasonable measures to verify beneficial owner’s identity using objective and independent sources 
+d. Determine if beneficial owner and his related parties are politically-exposed
+e. Understand the nature of the client’s business 
+f. Understand the ownership and control structure of the client 
+
+Instructions to carry out Rule 8(1)(b) and Rule 8(1)(c) – to determine beneficial owner’s identity
+Rule 8(2) of MLFTR
+- Lawyer/LP must identify and verify identity of each beneficial owner of the client through:
+a. Identity of each individual (if any) with controlling ownership interest in the client;
+b. Identity of each individual who has control of client through other means;
+c. Identity of each individual in senior management: If there is no individual who has a controlling ownership interest in the client or who has control of the client through other means, the identity of each individual in the senior management of the client.
+
+If client is some established institution, Rules 8(1), 8(2) and 8(3) not required => Unless lawyer/LP suspicious 
+Rule 8(4) of LPSAR
+- Despite paragraphs (1), (2) and (3), the legal practitioner or law practice need not perform the customer due diligence measures referred to in those paragraphs, if the client is:
+a. A Ministry or department of the Government, an organ of State or a statutory board;
+b. A ministry or department of the government of a foreign country or territory;
+c. An entity listed on a securities exchange as defined in section 2(1) of the Securities and Futures Act (Cap. 289), or a subsidiary of such an entity more than 50% of the shares or other equity interests of which are owned by the entity;
+d. An entity listed on a stock exchange outside Singapore that is subject to regulatory disclosure requirements;
+e. A relevant Singapore financial institution;
+f. A financial institution incorporated or established outside Singapore that is subject to and supervised for compliance with requirements for the prevention of money laundering and the financing of terrorism consistent with the standards set by the FATF;
+g. An investment vehicle every manager of which is a financial institution referred to in sub-paragraph (e) or (f);
+h. Any of the following universities in Singapore:
+(i) Nanyang Technological University;
+(ii) National University of Singapore;
+(iii) Singapore Institute of Technology;
+(iv) Singapore Management University;
+(v) Singapore University of Technology and Design;
+(vi) Singapore University of Social Sciences;
+i. A Government school as defi;ned in section 2 of the Education Act (Cap. 87);
+j. The Society; or
+k. An entity that is made up of regulated professionals who are subject to and supervised for compliance with requirements for the prevention of money laundering and the financing of terrorism consistent with the standards set by the FATF,
+unless the legal practitioner or law practice suspects that the client may be engaged in, or the business relationship with the client or the matter undertaken for the client may involve engagement in, money laundering or the financing of terrorism.
+
+If individual purports to act for client (i.e. client’s agent): Extra steps required under Rule 7 
+Rule 7 of LPSAR 
+- At the applicable time specified in rule 11, a legal practitioner or law practice must perform the following customer due diligence measures in relation to an individual purporting to act on behalf of a client:
+a. Verify whether individual authorized to act on behalf of client
+b. Ascertain and verify individual’s identity
+
+If client is a legal arrangement/express trust: Extra steps required under Rule 8(1) + Rule 8(3) => Unless Rule 8(4) 
+
+Part 2: Assess risk of money laundering and terrorism financing
+Extent of CDD depends on risk of money laundering and terrorism financing 
+Rule 12(1) of MLFTR
+- A legal practitioner or law practice is to perform CDD to an extent that is commensurate with the level of risk of money laundering and financing of terrorism 
+
+Lawyer/LP must perform risk assessment of client 
+Rule 12(2) of MLFTR
+- A legal practitioner or law practice must:
+a. Perform, in relation to each client, an adequate analysis of the risks of money laundering and financing of terrorism
+b. Document the analysis and conclusions reached; and
+c. Keep the analysis up to date 
+
+If client belongs in Rule 12(3): Risk is lower 
+Rule 12(3) of MLFTR
+- Risk of ML/FT is lower if client is any of the following: 
+a. A Ministry or department of the Government, an organ of State or a statutory board;
+b. A ministry or department of the government of a foreign country or territory;
+c. An entity listed on a securities exchange as defined in section 2(1) of the Securities and Futures Act (Cap. 289), or a subsidiary of such an entity more than 50% of the shares or other equity interests of which are owned by the entity;
+d. An entity listed on a stock exchange outside Singapore that is subject to regulatory disclosure requirements;
+e. A relevant Singapore financial institution;
+f. A financial institution incorporated or established outside Singapore that is subject to and supervised for compliance with requirements for the prevention of money laundering and the financing of terrorism consistent with the standards set by the FATF;
+g. An investment vehicle every manager of which is a financial institution referred to in sub-paragraph (e) or (f);
+h. Any of the following universities in Singapore:
+(vii) Nanyang Technological University;
+(viii) National University of Singapore;
+(ix) Singapore Institute of Technology;
+(x) Singapore Management University;
+(xi) Singapore University of Technology and Design;
+(xii) Singapore University of Social Sciences;
+i. A Government school as defined in section 2 of the Education Act (Cap. 87);
+j. The Society; or
+k. An entity that is made up of regulated professionals who are subject to and supervised for compliance with requirements for the prevention of money laundering and the financing of terrorism consistent with the standards set by the FATF,
+If client belongs in Rule 12(4): Risk is higher 
+Rule 12(4) of MLFTR
+- Risks of ML/FT are raised if: 
+a. Client is from a country where Financial Action Task Force (FATF) has called for enhanced due diligence measures: The client is from or in, or the transaction relates to, any country or jurisdiction in relation to which the FATF has called for countermeasures or enhanced customer due diligence measures, as notified to the legal practitioner or law practice generally by the Society;
+b. Client is from a country known to have inadequate measures to prevent ML/FT as determined by lawyer or the Law Society: The client is from or in any country or jurisdiction known to have inadequate measures to prevent money laundering and the financing of terrorism, as determined by the legal practitioner or law practice, or as notified to the legal practitioner or law practice generally by the Society; or
+c. Lawyer/LP suspects client is engaged in transactions involving ML/FT: The legal practitioner or law practice suspects that the client is engaged in, or the transaction involves, money laundering or the financing of terrorism.
+
+Part 3: Carry out enhanced CDD for higher risk clients
+3 Situations where enhanced CDD needs to be carried out 
+Rule 13(1) of MLFTR 
+- In addition to performing normal CDD measures, lawyer/LP must perform enhanced CDD if:
+a. Situation 1: Risks of ML/FT are raised under Rule 12(4) – see 3 situations above
+b. Situation 2: Client, beneficial owner or related persons are foreign politically-exposed individuals 
+c. Situation 3: Lawyer/LP assesses business relationship with the client to be higher risk AND client or beneficial owner belongs to a specified class:
+(i) A domestic politically-exposed individual 
+(ii) An individual who has been entrusted with a prominent function in an international organization; or 
+(iii) A family member or close associate of such individual in (A) or (B) 
+
+Enhanced CDD: Lawyer/LP must conduct certain acts
+Rule 13(2) of MLFTR 
+- The enhanced CDD measures to be performed by the lawyer/LP are as follows: 
+a. Obtain approval of lawyer/LP senior management before starting/continuing business relationship with client:
+(i) In the case of a new client, establishing a business relationship with the client; OR 
+(ii) In the case of an existing client, continuing a business relationship with the client 
+b. Establish client/beneficial owner’s source of funds: Take reasonable measures to establish the source of wealth, source of funds, of the client and if the client is a legal entity, of the beneficial owner of the client
+c. Conduct enhanced monitoring during business relationship: Conduct enhanced ongoing monitoring of the business relationship with the client 
+
+WHEN LAWYER/LP UNABLE TO COMPLETE CDD MEASURES ON CLIENT 
+Duty to not act for client/Duty to consider filing suspicious transaction report 
+If lawyer/LP unable to complete CDD measures => Duty to carry out certain acts
+Rule 15(1) of MLFTR 
+- Where a legal practitioner or law practice is unable to complete any customer due diligence measures prescribed in this Part in relation to a client, the legal practitioner or law practice:
+a. Must not commence new relationship and terminate ongoing relationship with the client;
+b. Must not undertake any transaction for the client; and
+c. Must consider filing suspicious transaction report in relation to the client.
+
+Definition of “unable to complete CDD measures”
+Rule 15(2) of MLFTR
+- For the purposes of paragraph (1), the legal practitioner or law practice is unable to complete those customer due diligence measures, if:
+a. Unable to obtain or verify client’s CDD information: The legal practitioner or law practice is unable to obtain, or to verify, any information required as part of those customer due diligence measures; or
+b. Unable to receive satisfactory response on client’s CDD information inquiry: The legal practitioner or law practice does not receive a satisfactory response to any inquiry in relation to any information required as part of those customer due diligence measures.
+
+WHEN LAWYER/LP SUSPECT CLIENT OF ML/FT
+Duty to act when client is suspect of ML/FT
+If lawyer/LP have reasonable suspicions that client ML/FT => Duty to carry out certain acts
+Rule 5(1) of MLFTR
+- Where a legal practitioner or law practice has reasonable grounds to suspect that a client may be engaged in money laundering or financing of terrorism, the legal practitioner or law practice: 
+a. Must not establish any new business relationship or undertake any new matter for client; AND
+b. Must file suspicious transaction report with either or both of the following: 
+(i) A Suspicious Transaction Reporting Officer, if the client may be engaged in money laundering 
+(ii) A police officer or Commercial Affairs Officer, if the client may be engaged in financing of terrorism 
+
+CONTINUING DUTIES DURING BUSINESS RELATIONSHIP WITH CLIENT 
+Continue performing CDD during course of business relationship 
+Rule 9 of MLFTR 
+
+Maintain documents and records relating to relevant matters
+Rule 19 of MLFTR
+* Must maintain records for at least 5 years after completion of relevant matter 
+
+Ensure documents and records are sufficient 
+Rule 21 of MLFTR
+* Sufficient to reconstruct relevant matter 
+* Sufficient as evidence for prosecution of offense relating to relevant matter
+
+Maintain documents and records obtained through CDD measures
+Rule 20 MLFTR 
+* Must maintain records for at least 5 years after termination of relationship with client
+* If document and record is for occasional transaction – At least 5 years after date of transaction 
+
+Make documents and records available to Council when necessary 
+Rule 22 of MLFT
+
+
+C. *Rule 17 PCR: Professional fees and costs 
+Principles underlying Rule 17 PCR 
+Rule 17(1) of PCR 
+- Lawyer must act in client’s best interests and charge client fairly for work done
+
+C1. DUTIES RELATING TO CHARGING OF LEGAL FEES 
+
+Not to unnecessarily or improperly increase legal fees – Rule 17(2)(a) 
+Rule 17(2)(a) of PCR
+- A legal practitioner must not undertake work in a manner that unnecessarily or improperly increases the costs that are payable to the legal practitioner 
+
+Use best endeavors to complete work for client as soon as reasonably possible – Rule 17(2)(b)
+Rule 17(2)(b) of PCR
+- A legal practitioner must, at all times, use the legal practitioner’s best endeavors to complete any work for his client as soon as is reasonably possible 
+
+**Not to overcharge (even if there is a fee agreement) – Rule 17(7)
+Rule 17(7) of PCR
+- A legal practitioner must not charge any fee or disbursements or render a bill (whether or not subject to assessment) for an amount, which constitutes overcharging, even if there is a fee agreement that permits the charging of the fee, disbursements or amount 
+Test of overcharging: Lawyer is overcharging if he cannot in good faith charge the fee considering the list of Rule 17(8) factors
+Rule 17(8) of PCR
+- There is overcharging if a reasonable legal practitioner cannot in good faith charge the fee, disbursements or amount, considering all of the following matters:
+a. Legal practitioner’s standing and experience 
+b. Nature of the legal work concerned 
+c. Time necessary to undertake the legal work 
+d. Instructions and requirements of the client concerned
+e. Any other relevant circumstances 
+
+Test of overcharging: 2 elements of overcharging 
+Re Lau Liat Meng 
+- Element 1: Whether the fee is “far in excess and disproportionate” to what the solicitor was entitled to charge for the service rendered
+* Objective test 
+* Consider factors such as: Solicitor’s competence, nature of work done, any prior agreement between parties 
+o Nature of work done – complexity, urgency, novel points of law 
+o Value of the claim is not directly relevant. Instead look at the reasonable work that is required of the solicitor. 
+- Element 2: Whether such overcharging amounted to grossly improper conduct in discharge of professional duty 
+**LSS v Ang Chin Peng at [42]
+- Lawyers were engaged to obtain grant of probate. 
+* Charged percentage fee based on the value of the estate, coming up to over $400,000. 
+* Upon review and taxation by the court, the amount of fees actually payable was determined to be $150,000. 
+* This 3-4x difference between a reasonable fee and the fee actually charged was egregious and constituted gross overcharging 
+
+- Nothing objectionable for a fee arrangement pegged to a percentage of the value of a non-contentious claim – s109(3) LPA allows this 
+* But such an agreement isn’t final and subject to review by the court to ensure that the fee paid is fair or reasonable relative to the work done – s109(6) LPA
+
+- **“This shows a basic misconception on the part of the Respondents that just because they had the oral agreements, the fees they billed pursuant to those agreements cannot be wrong. For the reasons set out above (see, in particular, [34]), such an agreement is always subject to the test of reasonableness. 
+- Indeed in **Wong Foong Chai v Lin Kuo Hao [2005] 3 SLR(R) 74 (“Wong Foong Chai”) at [31], the High Court held that:  ... no agreement for the payment of costs between client and solicitor is sacrosanct in the sense that it is conclusive and immune to, as well as impervious from, any investigation by the court itself. That such agreements can in fact be - and are - subject to the court's scrutiny, particularly from the perspective of reasonableness and fairness, is established in both local as well as English case law...”
+
+Case Law Example – Overcharging 
+LSS v Andre Ravindran Saravanan Arul 
+- Lawyer grossly overcharged client who is a management corporation, by rendering various bills for a total fee of $226,308.12 for a 13-month period of preparatory work concerning recovery of misappropriated money 
+- While the lawyer’s work included attending to clients, seeking information from police, answering queries, researching the law and giving legal opinions, it did not even result in any letter of demand being sent to intended defendants
+LSS v Syn Kok Kay 
+- Lawyer sanctioned under s83(1) LPA for overcharging a client, by charging $1.34 million for work which was taxed at $288k, and his non-compliance with a court order for failing to deliver a bill of costs for taxation for more than a year without just cause
+- The court held that not every instance of overcharging would constitute grossly improper conduct and result in due cause for disciplinary action, in evaluating the gravity of overcharging, the court would consider factors like:
+a. Extent of overcharging, 
+* In this case, the extent of overcharge was “egregious”, as the lawyer had charged over 4.65 times what he should have charged --> this could be strongly inferred as unethical behaviour
+b. Solicitor’s intention during the period of overcharging, and
+* The court did not think that the lawyer “even truly believed that he was charging reasonably”. He billed the client at regular intervals for round figures without any sort of itemization for his professional fees.
+* Nothing disclosed would reasonably suggest that the lawyer had a firm grasp of why he was charging what he did, let alone that he charged in the belief that he was being reasonable
+c. Solicitor’s conduct after the overcharging.
+* After overcharging, solicitor delayed presenting his bill of costs for taxation and failed to make restitution to his client. 
+* He also disposed certain assets at key junctures in the taxation proceedings, like transferring a vehicle to his wife for $1, and a membership of the Chinese Swimming Club to his wife for $1. 
+* The court found that he sought to dispose of his assets at a significant undervalue to conceal his assets from his creditors, choosing “evasion over contrition”
+- Lawyer suspended for 3 years and 9 months
+
+Re Lau Liat Meng 
+- Solicitor overcharged at $23k just to obtain letters of administration for an estate valued at $69k 
+
+Case Law Example – Overcharging and colluding with 3rd party to inflate bill 
+LSS v Low Yong Sen 
+- Lawyer devised an arrangement with his brother’s firm and an alleged 3rd party to lend a veil of legitimacy to his inflated bill and hide the fact that he would personally benefit from the excessive charges 
+- Overcharging may seem to be a minor transgression when compared to the case of a solicitor who commits a breach of trust of a client’s money (or commits other grave professional misconduct, such as misleading the court or creating a falsehood to cheat a client of his money). But the harm done by such misconduct can be far more insidious and prolonged. Whereas the dishonest lawyer who absconds with his client’s money would likely be found out soon enough and be disbarred, and thus prevented from further cheating any future clients, the solicitor who systematically overcharges by small amounts and is not discovered over an extended period can potentially defraud a large number of clients. 
+- We must therefore not condone an act of overcharging merely because it involves a small sum as, ultimately, what is at stake is of far greater importance – the integrity and standing of the profession. We would hasten to add that when we talk of overcharging we are referring to proven cases of overcharging, not just a case of a client complaining that the lawyer has charged too much. It is understandable that the expectations of the client may be different from that of the solicitor. The test is an objective one as determined by his peers of integrity and reasonable competence, having regard to the nature of the work done (contentious or otherwise) and any prior agreement between the parties
+LSS v Chua Swee Keng 
+- Charged overtime fees for last minute work – client was aware of this. 
+* Overtime was only billed for the fees of the staff, and never billed for lawyer’s own time. 
+- Lawyer continued to act even after client failed to pay a fee instalment 
+- Charge was dismissed. 
+
+Not to overcharge when recommending client to seek alternate legal representation – Rule 17(9)
+Rule 17(9) of PCR 
+- If lawyer has recommended client to seek alternative legal representation => Lawyer may only charge client for fees or disbursements which need not be duplicated by client’s new lawyer (i.e. can only charge for unique work which does not need to be repeated by the new lawyer)
+
+*Gross sum payment of legal costs is permissible as long as not unreasonable 
+PD 5.2.2: Non-Refundable Deposit or Retainer
+- While s111 of Legal Profession Act allows lawyers to agree in writing with any client a gross sum payment of legal costs that is either the same rate, greater or lesser than the rate at which the law corporation or LLP would otherwise be entitled to be remunerated
+- The collection of an unreasonable non-refundable deposit or retainer for contentious work, OR the retention of a non-refundable deposit irrespective of work done, may constitute overcharging and professional misconduct
+
+- However, s111 does not give solicitors a carte blanche to agree to an unreasonable fee 
+a. S113(2) of LPA makes it clear that cost agreements can be examined and set aside by the Court 
+b. S113(4) of LPA provides that cost agreement can be declared void if the terms are deemed by the Court to be unfair or unreasonable 
+c. S113(7) of LPA empowers Court to order the whole or portion of amount received by solicitor to be repaid to the client 
+
+*No practice of Two-Thirds rule in Singapore  
+PD 5.2.3: Two-Thirds Rule 
+- In Singapore, there is no rule of practice or etiquette whereby junior counsel is paid a fee equivalent to two-thirds of that paid to his leader 
+
+*Equity in lieu of fees is prima facie permissible => Subject to usual restrictions 
+PD 5.1.1: Equity in Lieu of Fees 
+Definition of “equity in lieu of fees”
+- An arrangement where: 
+* LP accepts client’s shares or share options in the client (company) itself or in any other client-owned company owned 
+* Either in full satisfaction for legal services provided by the Law Practice or as part of the remuneration for such services 
+
+Equity in lieu of fees is prima facie permissible subject to usual restrictions: 
+(i) Prohibition against Contingency fee arrangements for non-contentious work
+(ii) Overcharging
+(iii) Conflict of interest
+(iv) Secret profits 
+(v) Prohibition against sharing of profits with unqualified person 
+(vi) Tax matters
+
+Restricted: Contingency fees
+- Law on Contingency Fees: 
+a. There is a statutory prohibition under s107 of the LPA against contingency fee arrangements 
+b. There is no prohibition against contingency fee arrangements for non-contentious matters
+- Agreements for equity in lieu of fees which amount to contingency fee arrangements are prohibited 
+a. E.g. where the value of shares or share options given to the Law Practice depends upon the successful outcome of the contentious matter which the Law Practice is instructed to act 
+b. E.g. Where shares are themselves the subject matter of litigation 
+
+Restricted: Overcharging
+- Law on overcharging:
+a. S109(1), 109(3), 109(4), 109(5), 109(6) of the LPA prohibits overcharging and obliges that the Law Practice execute fee arrangements which satisfy the requirement of reasonableness
+- In determining whether agreements for equity in lieu of fees are reasonable, the following are considered:
+a. Quantity of shares to be owned by Law Practice
+b. Liquidity of shares, including whether shares are traded publicly at the time of the fee agreement and if the shares are not traded, the probability of such shares being publicly traded in the future
+c. Present and anticipated value of the shares
+d. Whether the shares offered are subject to terms which may affect the value of the shares to the Law Practice 
+
+Restricted: Conflict of interest
+- Law on COI: Rules 20 – 22 of PCR
+- Shareholding in the client company may affect professional dealings between the Law Practice and the client company as it may put the Law Practice in a position of conflict of interest 
+
+Restricted: Secret profits 
+- Law Practice owes a fiduciary relationship with client and Law Practice should ensure that there is no risk of it receiving any profits which may be construed as secret profits 
+
+Restricted: Prohibition against sharing of profits with unqualified person 
+- Law Practice should ensure that its arrangement to receive equity in lieu of fees does not amount to sharing of profits with an unqualified person 
+- When Law Practice creates a holding company to hold and receive equity in lieu of fees, it would not be considered as sharing fees with an unqualified person only if: 
+a. All the shares in the holding company must be legally and beneficially owned by legal practitioners who have valid practising certificates. All the directors of the holding company must also be legal practitioners who have in force practising certificates.
+b. Legal practitioners who have valid practising certificates must beneficially own the equity in lieu of fees (to be vested in the holding company).
+c. The above requirements must be complied with at the time the agreement to accept equity in lieu of fees is entered into and when the entitlement to receive such equity, pursuant to the agreement, arises
+
+C2. DUTIES RELATING TO ADVISING CLIENT OF BASIS OF LEGAL FEES 
+
+Explain to client any proposal of amicable resolution from opposing party – Rule 17(2)(c)
+Rule 17(2)(c) of PCR
+- A legal practitioner must explain clearly and properly to his client a proposal of amicable resolution, or any other offer taken by any other party which affects the client 
+
+Provide translation of proposal, if client does not understand English – Rule 17(2)(d)
+Rule 17(2)(d) of PCR
+- A legal practitioner must where, his client does not understand English, ensure that any offer or proposal of amicable resolution is explained to the client in a language or dialect that the client understands
+
+Advise client on the consequences of pursuing matter vis-à-vis expense – Rule 17(2)(e)
+Rule 17(2)(e) of PCR
+- A legal practitioner must, in an appropriate case, together with his client:
+(i) Evaluate whether any consequence of a matter involving the client justifies the expense of or risk involved in pursuing the matter; and
+(ii) Evaluate the use of alternative dispute resolution processes 
+Duty to ensure proper risk-benefit evaluation 
+Singapore Shooting Association v Singapore Rifle Association 
+- Solicitors have a professional obligation to ensure that a proper risk-benefit evaluation is undertaken at every step of the proceedings 
+- CA held that SRA’s conspiracy claim failed, and observed that the litigation was run in a disproportionate manner by SRA, having regard to the amount at stake. The Court also noted the following:
+o SRA’s conspiracy claim took up a large proportion of trial and appeal, and should not have been part of the proceedings in the first place. Even if SRA genuinely believed it was securing the proper governance of SSA (which is a charity), it had to consider whether this should be achieved through litigation in the High Court given the costs involved
+o Even if SRA brought the case on principle to defend itself against SSA’s alleged bullying, it had to be asked whether this principle should be defended at any price, especially given the quantum of loss it ultimately claimed
+
+- A proper risk-benefit evaluation would consider factors like:
+a. Merits of the claim
+b. Expenses and costs involved
+c. Risk involved
+d. Possible outcomes
+e. Quantum of claim 
+
+Advise client of relevant legal issues for client to make informed decision – Rule 17(2)(f)
+Rule 17(2)(f) of PCR
+- A legal practitioner must advise his client on the relevant legal issues in a matter to enable the client to make an informed decision about how to act in the matter 
+
+Inform client about fees and other payments – Rule 17(3)
+Lawyer must provide client with information about fees
+Rule 17(3) of PCR
+- A legal practitioner must:
+a. Inform client of the basis on which fees for professional services will be charged and of the manner in which those fees and disbursements are to be paid by the client
+b. Inform the client of any other reasonably foreseeable payments that the client may have to make, either to the legal practitioner or to any other party, and of the stages at which those payments are likely to be required 
+c. To the extent reasonably practicable and if requested by the client, provide the client with estimates of the fees and other payments in (a) and (b) 
+d. Ensure that the actual amounts of fees and other payments in (a) and (b) respectively, do not vary substantially from the estimates referred to in (c) unless the client has been informed in writing of any changed circumstances
+
+Inform client about his responsibility for costs in a contentious matter – Rule 17(4)
+Time of informing: Beginning of contentious matter
+Rule 17(4) of PCR 
+- A legal practitioner must explain the following matters to the client at the beginning of a contentious matter and at other appropriate stages in the matter:
+a. Regardless of result, client is responsible for SnC costs: That in any event, the client is personally responsible for paying the client’s own solicitor and client costs in full, regardless of any order for costs made against any other party; 
+b. If client loses, client may be responsible for PnP costs: That in the event the client loses, the client may have to pay the client’s own costs and the Court may order the client to pay the costs of one or more other parties as taxed or fixed by the Court; 
+c. If client wins, opposing party might not be responsible for PnP equal to client’s own SnC costs: That in the event the client wins, the other party:
+(i) May not be ordered to pay the full amount of the client’s own costs; and 
+(ii) May not be capable of paying what has been ordered 
+
+C3. COURT ASSESSMENT OF BILL (TAXATION PROCEEDINGS)
+
+Duty to explain client’s right to apply to Court to assess bill – Rule 17(5)
+If client disputes bill => Lawyer must inform client of right to apply to Court to assess bill 
+Rule 17(5) of PCR
+- If client of a legal practitioner disputes or raises a query about a bill of the legal practitioner in a matter, legal practitioner must inform the client in writing of the client’s right to apply to the Court to have the bill assessed or to review any fee agreement, 
+
+Exception: Unless lawyer believes client ought reasonably know of that right
+- Unless the legal practitioner believes that the client knows or reasonably ought to know of that right 
+
+Duty to explain that Court assessment might result in larger assessed bill – Rule 17(6)
+If client consents to Court assessment of bill => Lawyer must inform client that assessed bill might be larger 
+Rule 17(6) of PCR
+- If a client of a legal practitioner consents to the assessment of a bill issued to the client or the Court orders the assessment of a bill issued to a client of a legal practitioner, the legal practitioner must inform the client that:
+a. The delivery of a bill by the legal practitioner to the client does not preclude the legal practitioner from presenting a bill, for a larger amount or otherwise, for assessment; and 
+b. Upon such an assessment, the legal practitioner is entitled to any amount allowed by the Registrar, even if that amount is more than the amount claimed in any bill previously delivered to the client 
+
+Ameliorates liability for overcharging 
+LSS v Andre Ravindran Saravanapavan Arul 
+- Where solicitor charges a bill that is prima facie excessive => But also offers to have the bill taxed by the Court => Solicitor’s potential professional misconduct is remedied or ameliorated 
+- Reason: Taxation proceedings provide the best means for an aggrieved client to determine what the proper fee is for the actual work done by the lawyer => Solicitor who offers to have his bills of costs taxed is unlikely to have the frame of mind or intention to overcharge his client 
+
+Unreasonable bill in taxation does not automatically constitute overcharging 
+Wee Soon Kim Anthony v LSS
+- It does not follow that a bill found to be unreasonable upon taxation is necessarily so excessive as to constitute overcharging 
+
+C4. RULE 18: CONTINGENCY FEES PROHIBITED – I.E. PAID ONLY UPON SUCCESSFUL SUIT (RULE 18 PCR) 
+
+Duty not to enter into negotiations for contingency fees – Rule 18 
+Rule 18 of PCR
+- A legal practitioner or law practice must not enter into any negotiations with a client of the legal practitioner or law practice:
+a. Lawyer/LP cannot have interest in subject matter of litigation: For an interest in the subject matter of litigation or of any other contentious proceedings; OR
+b. Lawyer/LP cannot be remunerated based on amount recoverable by client unless permitted by scale of costs: Except to the extent permitted by an applicable scale of costs, for remuneration proportionate to the amount which may be recovered by the client in the proceedings 
+
+S107(1) of LPA
+- A solicitor must not:
+a. Lawyer must not purchase client’s interest in any suit, action or contentious proceedings: Purchase or agree to purchase the interest or any part of the interest of his client or of any party in any suit, action or contentious proceedings brought or to be brought or maintained; OR 
+b. Lawyer must not agree to act in proceedings to be remunerated only in the event of success: Enter into any agreement by which he is retained or employed to prosecute any suit or action or other contentious proceeding which stipulates for or contemplates payment only in the event of success in that suit, action or proceeding 
+
+Contingency fee based on result of settlement in contentious matter => Prohibited? 
+E.g. Client further agrees that, if Counsel manages to settle the suit for the Client for less than S$500,000 to be paid by the Client to ABC Co, Client shall pay Counsel an additional agreed fee of S$500,000.”
+- Yes? Argue that definition of contentious proceedings in s107(1) and r18 includes settlement from contentious matter
+- S2 of LPA: “contentious business” means business done in or for the purposes of proceedings begun before a court of justice or before an arbitrator
+
+Rationale for prohibition of contingency fees
+Legis Point LLC v Tay Choon Ai
+- Contingency fee arrangements are meant to prevent legal practitioners from having a stake in litigation 
+
+LSS v Kurubalan s/o Manickam Rengaraju 
+- Contingency agreements may tempt solicitors to subvert the course of justice and place their personal interests above that of justice 
+- Lawyer who has personal economic stake in litigation and is not otherwise being remunerated for his services faces an acute conflict of interest 
+- Lawyer must be able to maintain a sufficient sense of detachment to discharge his duty to the Court 
+
+*Exception: agreement to charge pro bono client SnC costs if successful in pro bono work – Permissible 
+Permissible for lawyer to do pro bono work and only recover appropriate fee if client is successful 
+LSS v Kurublan s/o Manickam Rengaraju
+- Prohibition does not apply in the context of pro bono work or to impecunious (poor) clients who would not otherwise have been able to afford legal representation 
+- It is permissible and honorable for lawyer to act for client in the knowledge that he would only be able to recover his appropriate fee if the client were successful in the claim and could pay out of proceeds 
+a. PD 5.2.1 should not be read to apply to poor litigants who would not otherwise be able to afford legal representation as there is an overriding public interest in ensuring access to justice 
+
+Requirements for lawyer to use pro bono exception 
+1. Client is impecunious 
+2. Lawyer must believe in all honesty and good faith that client has a reasonable cause of action or defense which, but for the client’s impecuniosity, would likely be litigated
+3. Lawyer must not bargain with client for an interest in subject matter of litigation or a remuneration proportionate to the amount recovered in proceedings --> he must not be acquiring an interest in the fruits of the litigation
+
+*Contingency fees based on a percentage of sum recovered from trial – Prohibited 
+LSS v Kurubalan s/o Manickam Rengaraju 
+- Lawyer engaged by his client to act for personal injury claim brought in Australia. 
+- Lawyer agreed to bear the costs of the action if it was unsuccessful and if lawyer was successful, the client would pay the lawyer 30% and 40% of the sum recovered. 
+- The claim in Australia was eventually settled and the client was paid the sum.
+- Lawyer sought to claim his share of the proceeds, but client refused. Complaint was lodged against lawyer
+Held: Lawyer was suspended for 6 months 
+1. Agreement constituted a champerty agreement and lawyer was in breach of s107 of LPA 
+
+LSS v Lau See Sin Jeffrey 	
+- Oral contingency fee agreement for client’s claim in medical negligence 
+a. Lawyer will be paid 20% of damages awarded
+b. Legal fees could be further increased to 25% of damages awarded if client received more than $5 million damages 
+- Respondent lawyer denied the existence of a contingency fee arrangement, and claimed that the percentages were merely used to estimate his fees
+- Court of Three Judges disagreed with the respondent:
+a. Given the potential claim of $5m, the complainant client would not have agreed without further assurance to embark on litigation and be exposed to legal costs of 20% amounting to $1m
+b. The court also noted the lack of attendance notes and the client was left unaware and uninformed of the exposure to legal fees
+c. ALL lawyers and law practices are subject to the prohibition against contingency fees – it rejected the suggestion that small law firms were to be held to a lower standard of acceptable conduct
+Held: Agreement which stipulates that solicitor is to be paid a percentage of the damages awarded can constitute contingency fee arrangements which are prohibited under s107 of LPA 
+
+*Agreement to cap client’s SnC costs based on quantum of PnP costs awarded to either party – Permissible 
+Legis Point LLC v Tay Choon Ai 
+Held: Agreement to cap client’s legal costs to the party-to-party costs awarded by the Court (to either party) in an action does not amount to a contingency arrangement
+1. Amount of party-to-party costs will serve as a cap regardless of whether the costs were awarded in favor of the client or not => Hence it is not a contingency arrangement 
+2. Client would still have to pay legal costs equal to the party-to-party costs payable to the opposing party if client loses the case 
+
+*Agreement to charge client solicitor-and-client (SnC) costs based on quantum of party-and-party (PnP) costs recovered in Case of Judgement of Default of Appearance – Prohibited
+PD 5.2.1: Fee Arrangements with Clients 
+An “agreement to Accept Payment of SnC costs Only in the Event of Success and Recovery by Client of his Fixed PnP costs in the Case of a Judgement in Default of Appearance” is unethical 
+
+Reason
+- Lawyers cannot agree with clients to only charge SnC costs at an amount fixed as PnP costs for judgements in default of appearance and payable upon the client’s recovery of such PnP costs
+- Lawyers also cannot charge less SnC costs than the fixed PnP costs if clients do not recover PnP costs from the judgement debtor
+- Such fee sharing arrangements will mean that a *solicitor’s SnC costs are dependent on the recovery of PnP costs by a client and such conduct can amount to a breach of s107 of the LPA – which prohibits purchasing an interest in the suit or entering into an agreement where payment is only due upon success of the suit
+
+Note:
+- Party and Party costs: When you are successful in a contentious matter, the other party will partially reimburse your lawyer’s costs and these costs are called PnP costs 
+- Solicitor and Client costs: Legal costs which client has to pay his lawyer 
+- When opposing party pays your SnC costs, they are paying PnP costs 
+- Judgement in Default of Appearance: If defense fails to file and serve a memorandum of appearance or defense within prescribed time limit 
+
+*Agreement to charge client SnC costs based on quantum of PnP costs recovered - Prohibited
+A “fee Arrangement with Clients where Payment of SnC Costs and Disbursements is Contingent on Recovery of PnP costs and disbursements” is unethical 
+
+Reason
+- Under such a fee agreement, SnC Costs and Disbursements would be limited to whatever PnP costs and disbursements are recovered from the other party and in the event that no costs are recovered from the other party, SnC will be waived and only disbursements billed
+- Fee arrangement would be in breach of s107 of LPA and Rule 18 of PCR as solicitor would have an interest in the subject matter of litigation or be purchasing an interest in the client 
+
+FAQ: Contingency fees and Conditional fees are different 
+- Conditional Fees: Arrangements in which a lawyer receives payment of the whole or part of his legal fees in specified circumstances (e.g. proportion of work completed)
+- Contingency Fees: Arrangements in which a lawyer may share in an agreed percentage of the sum recovered by the client with no direct correlation to the work done (but how much the client receives instead)
+- Conditional Fee Arrangements are allowed in prescribed proceedings – Arbitration, some proceedings in SICC, and related Court and mediation proceedings (Legal Professional (Conditional Fee Agreement) Regulations 2022)
+
+C5. RULE 19: SHARING FEES WITH UNAUTHORIZED PERSONS 
+
+Duty to not share legal fees with any unauthorized person for work done by lawyer – Rule 19 
+Rule 19 of PCR
+(1) A legal practitioner must not share the legal practitioner’s fees with, or pay a commission to, any unauthorized person for any legal work performed by the legal practitioner 
+(2) A law practice must not share its fees with, or pay a commission to, any unauthorized person for any legal work performed by the law practice
+
+LSS v Tan See Leh Jonathan
+- Paralegal was a former practicing lawyer who failed to renew his practicing certificate. He represented himself to be an advocate and solicitor despite having an expired PC
+- Paralegal entered into agreement with employer to be paid 50% of fees received by employer, for work done by the paralegal
+- Held: Employer charged for (i) failure to exercise adequate supervision and (ii) sharing fees with unauthorized persons
+- In relation to the sharing of legal fees, the Court of Three Judges held that there was serious misconduct by the employer:
+a. Employer had a duty not to share his fees with an unauthorized person
+b. It is an offence for an unauthorized person to hold himself out as an advocate and solicitor, he cannot recover any fees for any legal work he performed
+c. The fee agreement facilitated the commission of the offences
+d. The fact that the paralegal was a lawyer but could not renew his PC did NOT make the employer’s conduct any less serious. The law does not make a distinction between the various types of unauthorized persons.
+
+*Use of debt collectors to recover legal fees – Prohibited
+PD 5.4.1: Use of Debt Collectors for the Recovery of Legal Fees and Expenses 
+Definition of “debt collector”
+- Any person engaged in any business of collection of any debts, or who regularly collects or attempts to collect, directly or indirectly, debts owed or due or asserted to be owed or due to another
+
+Use of debt collectors is prohibited
+- Lawyers/LPs are not to engage, directly or indirectly, the services of debt collectors to recover outstanding legal fees and expenses
+
+Reasons
+a. Potential use of abusive unfair debt collection practices: Potential for use of abusive, deceptive and unfair debt collection practices by debt collectors. Unlike practicing legal practitioners, debt collectors are not bound by prescribed professional standards of conduct and owe no fiduciary or other special duties
+b. Remuneration agreement for debt collectors to take a percentage of legal fees collected is in breach of Rule 19 which prohibits fee sharing and payment of commission 
+c. Potential breach of confidentiality and derogation from dignity of legal profession in the eyes of the public 
+d. Lawyers should use Court process to recover legal fees and expenses: Legal practitioners are officers of the Court and they owe fiduciary obligations to their clients and they should thus look towards the Court as ultimate arbiters of the recovery of any legal fees and expenses 
+	

@@ -1,0 +1,1425 @@
+Contents
+Sources of law	3
+AA vs IAA	3
+Should the client pick Arbitration vs litigation?	4
+How to structure the arbitration agreement?	4
+Institutional vs ad hoc arbitration	4
+Institutional arbitration	4
+Ad hoc arbitration	5
+Choosing the institution and seat	5
+Choosing the institution	5
+What is the seat?	5
+How to choose a seat?	5
+How does the lex arbitri interact with the international rules of the arbitral institution?	5
+Practical things to consider	6
+Choosing the law to govern the substance of the dispute	6
+Choosing the law to govern the arbitration agreement itself	6
+arbitrability of issues	7
+Relevance	7
+Subjective arbitrability – what matters did the parties agree to refer to arbitration?	7
+Objective arbitrability – for what matters will a court refuse to permit arbitration?	7
+Pathological arbitration clauses	7
+Other issues	8
+Multi-tiered dispute resolution clauses	8
+What to do if other party doesn’t comply with arbitration agreement?	8
+Client commences litigation in Singapore	8
+Apply for stay of proceedings in Singapore in favor of arbitration	8
+For domestic proceedings under AA, court retains discretion to stay court proceedings	9
+Attaching conditions to stay	9
+Client commences litigation elsewhere	9
+Apply for stay in the place of litigation	9
+Apply for antisuit injunction in Singapore	9
+Contest jurisdiction of the tribunal	10
+Apply to set aside award, or resist enforcement	10
+What to do if you don’t want to undergo arbitration?	10
+Important points for all situations	10
+Starting point	10
+Applicable law is the law of the arbitration agreement	10
+Singapore courts like arbitration a lot	10
+Apply for stay before Singapore court	10
+Argue that arbitration agreement is null and void or doesn’t exist	10
+Argue that arbitration agreement is inoperative	11
+Argue that arbitration agreement is incapable of being performed	11
+Argue that the matter is not the subject of the arbitration agreement	11
+Go before the tribunal and raise a jurisdictional objection	11
+Basics	12
+Validity of arbitration agreement is separable from the contract in which it is contained	12
+Timing of objection	12
+Failure to object	12
+To hear jurisdictional issues as a preliminary issue or together with the merits?	12
+Appeal to court against tribunal’s decision on jurisdiction	13
+Refuse to participate in the arbitration	13
+Ask the tribunal to determine its jurisdiction as a preliminary issue, and boycott if not favorable	13
+Commence litigation	13
+Conduct of proceedings	13
+Core procedural rights and duties	14
+Default of a party (or non-participation)	14
+Obtaining evidence	14
+Confidentiality	14
+Representation of parties	14
+Termination of proceedings	14
+Typical procedural steps in a typical arbitration	15
+Interim measures	16
+Interim measures ordered by the tribunal	16
+Amendments to MAL that have not been enacted in Singapore	17
+Interim measures ordered by the court	17
+When do you need to go to court?	17
+Some interim measures under court	17
+Enforcement of interim measures	18
+Tribunal seated in SG	18
+Foreign tribunal	18
+Awards	18
+Remedies that tribunal can award	18
+What is an “award” anyway?	19
+Types of award	19
+CAn the tribunal revisit an award?	19
+Content and form of awards	20
+Scrutiny and time limits for rendering awards	20
+Dissenting judgments	20
+Correction and interpretation of awards	20
+Correction of award (Art 33(1)(a) MAL; s 43 AA; 1st Schedule IAA)	20
+Interpretation of award	20
+Additional award	20
+Extension of time	20
+Setting aside of award	20
+What if an unfavorable award has been made against you?	20
+Applying to set aside the award	20
+Procedural aspects	20
+Grounds for setting aside	21
+Timing of setting aside application	21
+Court’s discretion not to set aside the award	21
+Consequences	21
+Applying to resist enforcement	22
+Legal framework	22
+Misc. points on enforcement in NY Convention countries	22
+Procedure for enforcement	22
+Grounds for refusal of enforcement	23
+Court’s residual discretion to order enforcement	25
+Adjournment of enforcement proceedings	25
+One other approach – appeal against award (AA only)	25
+Constitution and challenge of arbitral tribunal	26
+Challenging arbitrators	26
+Test for impartiality and independence	27
+Conflicts of interest	27
+Challenge procedure	27
+Failure or impossibility to act	28
+Setting aside or resisting enforcement of award on ground that arbitrator was not impartial	28
+Immunity of arbitrators and institutions	28
+Arb-med (arbitrator acting as a mediator/conciliator)	28
+
+
+*1. Sources of law 
+- In Singapore: Arbitration Act (AA) and International Arbitration Act (IAA) 
+- UNCITRAL Model Law on International Commercial Arbitration (the Model Law, or MAL) – has force of law in Singapore under s 3(1) IAA, with the exception of Chapter VIII (which relates to international enforcement) 
+o The Model Law applies to international commercial arbitration (Art 1(1) MAL). The term “commercial” should be given a wide interpretation so as to cover matters arising from all relationships of a commercial nature, whether contractual or not
+
+*AA VS IAA 
+When is the AA used and when is the IAA used? 
+- AA is used when the place of arbitration is Singapore and where Part 2 of the IAA doesn’t apply 
+- Under Part 2 of the IAA (section 5(2)), an arbitration is international if: 
+o (a) One party has business outside Singapore – at least one of the parties to an arbitration agreement, at the time of the conclusion of the agreement, has its place of business in any State other than Singapore;
+o (b) The place of arbitration or dispute is outside Singapore – one of the following places is situated outside the State in which the parties have their places of business:
+* (i) the place of arbitration if determined in, or pursuant to, the arbitration agreement;
+* (ii) any place where a substantial part of the obligations of the commercial relationship is to be performed or the place with which the subject matter of the dispute is most closely connected; or
+o (c) By agreement – the parties have expressly agreed that the subject matter of the arbitration agreement relates to more than one country.
+- (3)  For the purposes of subsection (2) —
+o (a) if a party has more than one place of business, the place of business is that which has the closest relationship to the arbitration agreement;
+o (b)if a party does not have a place of business, a reference to the party’s place of business is to be construed as a reference to the party’s habitual residence.
+
+**3 practical differences between AA and IAA:
+(1) When the court has to grant a stay of court proceedings in favor of arbitration 
+a. Under s6 AA (domestic arbitration), the court has DISCRETION (may) to grant a stay of court proceedings in favor of arbitration proceedings 
+o 2 conditions for grant of stay of court proceedings: (1) if no sufficient reason why matter should not be referred in accordance with agreement and (2) the applicant remains ready and willing to do all things necessary for the proper conduct of the arbitration)
+o But even if these 2 conditions are satisfied, the court may still refuse to grant stay of court proceedings (i.e. continue court proceedings)
+--> court more likely to intervene in arbitration, has room to continue court proceedings
+
+b. Under the IAA (international arbitration), the court is bound (shall) to grant a stay of court proceedings if there is a valid arbitration agreement 
+--> court has less ability to intervene in arbitration
+
+c. Practically, the court would most likely grant a stay under AA anyway, but there is still some discretion
+
+(2) When parties have a power to refer a question of law to the courts which has arisen during arbitration proceedings:
+a. Under s45 AA, parties have the ability to apply to Court to determine a preliminary point of law that has arisen during arbitration proceedings (but this is seldom invoked – legacy statute from the English Arbitration Act, and the past where arbitrators may not have legal background so they could apply to courts)
+
+b. Cf IAA there is no such possibility, the tribunal will decide on the question of law
+
+(3) Appeal against award:
+a. Under s49 AA, after award has been released, you can appeal to the Court against the award on a question of law arising out of an award (subject to various stringent requirements in s49(5) AA)
+
+b. Cf IAA there is no such possibility of appeal against an award, even if tribunal got a question of law or fact wrong, too bad (but this may change in the future). Only possible to set aside the award under very limited grounds under MAL and NYC
+
+NB: 2 domestic parties can still agree for the IAA to apply (while opting out of AA). See s5 IAA
+
+
+ARBITRATION VS LITIGATION
+Litigation cons 
+- Litigation is more time-consuming 
+- No privacy for parties – court proceedings are public and reported 
+o That said, arbitration is also not exactly private because lawyers like to brag about their victories online and stuff so you have the arbitration reviews etc. 
+- No party autonomy – AR is going to set the timelines 
+
+Arbitration pros 
+- Party autonomy 
+o Parties have substantial autonomy over procedure, including dates etc. 
+o Parties are able to pick their own judge or arbitrator – perceived advantage because they might pick an arbitrator who specializes in the particular area that the dispute concerns 
+o This is the key point that is thrown around a lot in various arbitration circles – parties both agree to submit to arbitration, so they decide on the process, procedure, and the rules governing arbitration.
+o This is the biggest advantage of arbitration over courts 
+- Avoid home-state bias – parties can choose to conduct arbitration in a neutral country 
+
+How about the SICC or other international commercial courts? 
+- Lots of international commercial courts out there – England, Singapore, Dubai etc. 
+- Courts are also alive to the need for privacy because parties are able to apply in such courts for proceedings to be private 
+o But an application is still required 
+- Courts are also alive to parties’ needs to have specialized judges for each case, so they can pick the right specialists to hear specific cases. Parties cannot pick the precise judge, but at least the courts will pick someone with the relevant subject matter expertise 
+
+Arbitration cons 
+- Very limited grounds of appeal/challenge on the merits 
+o Some wiggle room by challenging due process or jurisdiction etc. but otherwise no 
+- Perceived time and cost savings are often overblown in practice – it is no longer the case that arbitration is more cost-effective 
+o Perceived time and cost differences: 
+* For court litigation, court fees are not based on the value in dispute, but instead on the workload – e.g. number of pages of affidavit, number of hearing days etc. 
+* For arbitration, fees are based on the value in dispute. Even simple cases with high value are going to be very expensive 
+o Pool of arbitrators is small – hearing dates are very limited and competition for arbitrators’ slots is stiff. As you drag out proceedings, time and costs tend to pile up 
+* Critics say that arbitration is too slow and too expensive now, and the courts are more efficient 
+
+But ultimately the client is most concerned about is enforceability 
+- Arbitration is the main mode of cross-border dispute resolution, thanks to the NY Convention
+o NY Convention signatories have all agreed to enforce each other’s arbitral awards 
+- Much easier enforcement of awards compared to judgments 
+- Don’t strike off SICC immediately, because it is quite easy to enforce in Commonwealth countries. 
+- But if the counterparty is in a civil law country, then enforceability depends on a case-by-case basis 
+o Don’t strike these off immediately either, because countries e.g. China have reciprocal judgment enforcement agreements with SG 
+o So the enforceability gap is not as large as sometimes commonly perceived 
+
+
+*2. How to structure the arbitration agreement? 
+
+*INSTITUTIONAL VS AD HOC ARBITRATION
+Institutional arbitration 
+Parties designate the use of an arbitral institution to administer the arbitration, typically (but not always) in accordance with the arbitral rules of that institution 
+
+Common institutions 
+- Singapore International Arbitration Centre (SIAC) 
+- International Chamber of Commerce (ICC) 
+- Hong Kong International Arbitration Centre (HKIAC) 
+- London Court of International Arbitration (LCIA)
+
+Advantages and disadvantages 
+- Advantages
+o Uses the rules of the particular institution
+- Disadvantages
+o Money – have to pay institution fees 
+
+Ad hoc arbitration 
+No involvement of an arbitral institution to help administer the arbitration 
+
+Advantages and disadvantages – simply the reverse of institutional arbitration. Save money, but no institution to help you administer the arbitration process 
+
+In ad hoc arbitration, common for parties to agree to adopt the UNCITRAL Arbitration Rules (cf UNCITRAL MAL, which is a guide for legislative enactment), which were designed to be used by parties without the involvement of an arbitral institution 
+
+If parties don’t choose any institution or rules, the rules of the seat will govern the arbitral procedure.
+
+*INSTITUTION AND SEAT 
+Choosing the institution 
+What does the choice of institution affect? 
+- Mainly procedural things like number of arbitrators, timelines, costs, timing and location of payments etc. 
+
+Biggest factor clients are concerned with – cost of each institution 
+- The rules applied by the various institutions have been converging and are now quite similar, so the rules are not usually a large factor in parties’ choice of institution 
+
+All main arbitration centers in the world can administer arbitration seated anywhere in the world. 
+
+What is the seat? 
+The seat of arbitration is the jurisdiction supplying the lex arbitri – the law governing the arbitration procedure 
+- Some countries have enacted specific laws governing arbitration proceedings. 
+- E.g. if the arbitration agreement provides for arbitration seated in Singapore, the procedural law governing the conduct of the arbitration is the AA or IAA for a domestic or international arbitration respectively 
+
+The seat is not necessarily the place where hearings are held 
+- The seat of arbitration—which is a juridical concept—is not necessarily the same as the venue of any arbitral hearing which is a logistical concept. 
+- The seat does not change merely because the tribunal holds its hearing at a different place (PT Garuda v Birgen Air [2002] SGCA 12 at [24]). The tribunal may hold hearings and meetings by any means and at any location it considers convenient or appropriate, independent of the seat. Of course, the tribunal can also choose to hold hearings at the seat, but it is not required to do so.
+
+How to choose a seat? 
+Parties are free to agree on the seat of arbitration (Art 20(1) MAL) 
+- *If parties fail to specify a seat, the arbitral rules may regulate how the seat is to be decided, for instance, by specifying a default seat in the absence of parties’ choice, or by giving the power to the arbitral tribunal to make that decision.
+
+Factors to consider when choosing a seat
+- Seat should be a party to the New York Convention (“NYC”). This is important for enforcement of any resulting award in other NYC countries because many jurisdictions have adopted the NYC with reciprocity reservations. 
+- Seat’s arbitration should provide the desired level of judicial interference and control. 
+- The quality of the judiciary and court system should be considered in case it is necessary to approach a court for assistance. 
+- Seat should be neutral. 
+
+The NY Convention is part of Singapore law (enacted under the IAA). Singapore has made a reciprocity reservation, meaning that it will only apply the NYC to awards made in another signatory state of the NYC. 
+
+How does the lex arbitri interact with the international rules of the arbitral institution? 
+To the extent that there is any conflict between the arbitration rules and the Model Law as incorporated by the IAA, the rules chosen by parties will prevail unless the conflict was with a mandatory provision of the Model Law 
+- In Singapore, a provision in an arbitration agreement referring or adopting any rules of an arbitral institution is by itself insufficient to exclude the application of the Model Law (s 15(2) IAA; overruling John Holland v Toyo). 
+- Provisions of rules of arbitration selected by parties will apply to the extent that such provision is not inconsistent with a provision of the Model Law or the IAA from which the parties cannot derogate (s 15A(1) IAA; overruling Dermajaya Properties)
+- A problem – the Model Law doesn’t expressly prescribe which provisions are mandatory in nature 
+o But some provisions provide a default position and are clearly optional – “unless otherwise agreed by the parties,…” 
+o Cf other jurisdictions like England where the English Arbitration Act sets out a list of mandatory provisions that have effect notwithstanding any agreement to the contrary
+- Affirmed by Insigma Technology v Alstom Technology [2009] SGCA 24 – parties are free to adopt the arbitration rules of their choice to govern their arbitration, and their choice of arbitration rules would be respected by Singapore law to and be given the fullest effect possible
+o In Singapore, to the extent there is any conflict between arbitration rules and the MAL as incorporated by the IAA, the rules chosen by parties will prevail unless the conflict was with a mandatory provision of the MAL
+- In Darius’ experience, there are very few situations where there are going to be conflicts between arbitral rules and the lex arbitri 
+
+A provision of rules of arbitration is not inconsistent with the Model Law or the IAA merely because (i.e. an arbitral rule can still be consistent even in the following circumstances): 
+- it provides for a matter on which the Model Law and the IAA is silent (s 15A(3) IAA), or 
+- merely because the rules are silent on a matter covered by any provision of the Model Law or the IAA (s 15(4) IAA), or 
+- merely because it provides for a matter which is covered by a provision of the Model Law or IAA which allows the parties to make their own arrangements by agreement but which applies in absence of such agreement (s 15A(5) IAA).
+
+Practical things to consider 
+- Where is the counterparty located? Pick an institution and a seat that puts me in a favorable position vis-à-vis the counterparty when it comes to enforcement 
+o E.g. if there is a Chinese counterparty – if I require interim measures like injunctions etc., I have to go to China to get those done. Where can I seat the arbitration that will make it easier to secure interim measures against the party in China? 
+o The answer right now is probably Hong Kong – HK as the seat and HKIC as the institution 
+o Legitimate concerns – political developments, e.g. HK’s neutrality as a place of arbitration might come under question 
+* But in the short term, the advantages highlighted above don’t disappear overnight 
+
+*ARBITRATION RULES
+- Parties may agree on a set of institutional rules (such as ICC or SIAC Rules) or ad hoc arbitration rules (like the UNCITRAL Rules) to apply to their arbitration
+- Alternatively, they may formulate their own rules by agreement
+- If the parties do NOT agree on any rules, the law of the seat of arbitration will govern the arbitral procedure (Art 21-27 MAL)
+- Arbitration rules may be revised from time to time, there is a presumption in favour of rules that are applicable as at the date of commencement of arbitration, rather than those at the date of contract (Black and Veatch Singapore v Jurong Engineering)
+
+*LAW TO GOVERN THE SUBSTANCE OF THE DISPUTE 
+This is a different concept from the seat of arbitration.
+- Parties are generally not restricted in their choice of applicable law – they are free to choose the rules of law applicable to the substance of the dispute (Art 28(1) MAL)
+- There is no requirement that the chosen law has some connection to the parties or to the dispute (Quarella SpA v Scelta Marble [2012] SGHC 166 at [34]). 
+- A tribunal’s interpretation of a choice of law clause cannot normally be reviewed unless the tribunal deliberately disregarded the parties’ choice of law clause (Quarella SpA v Scelta Marble).
+
+In the absence of any choice:
+- The arbitral tribunal shall apply the law determined by the conflict of laws rules which it considers appropriate (Art 28(2) MAL). 
+- The Model Law does not prescribe which set of conflict of laws rules to apply. Some commonly used conflict of laws rules include the conflict of laws rules of:
+o (i) the seat of arbitration; 
+o (ii) the place where the award is likely to be enforced; 
+o (iii) the jurisdiction that would have been competent but for the arbitration place; 
+o (iv) the place of contractual performance; 
+o (v) the jurisdiction with some element common to the parties; 
+o (vi) general principles of private international law; or 
+o (vii) the law with the closest connection to the dispute, etc.
+
+Although the Model Law requires tribunal to first apply conflict of law rules in order to ascertain the appropriate governing law, arbitral rules may not necessarily require the same approach. For instance, SIAC Rule 31 empowers the tribunal to apply the law or rules of law which the tribunal determines to be appropriate, without mandating a conflict of laws methodology. 
+
+A complication arises: are SIAC Rule 31 and Art 28(3) MAL inconsistent? If so, which prevails? A practical solution favoured by some tribunals is to apply a conflict of laws methodology anyway to ascertain the appropriate governing law, which is not prohibited under SIAC Rule 31.
+
+*LAW TO GOVERN THE ARBITRATION AGREEMENT ITSELF 
+Relevance: 
+- Formal validity of the arbitration agreement, from which the authority of the arbitrator flows 
+- Whether the dispute lies within the scope of the agreement
+
+Parties are free to choose the law that governs their arbitration agreement 
+- Art 34(2)(a) MAL and Art V(1)(a) NYC both refer to the validity of an arbitration agreement ‘under the law to which the parties have subjected it’. 
+- In practice, however, parties traditionally have not expressed a choice as to the law governing the arbitration agreement.
+
+In Singapore, where parties do not specify the law governing the arbitration agreement, there is a rebuttable presumption in favor of the law of the main contract (instead of the law of the seat of arbitration)
+- In the absence of an express choice, the position (in both England and Singapore) now is that there is a rebuttable presumption that parties have impliedly chosen the law governing the main contract to also govern the arbitration agreement. 
+
+- If there is no express or implied choice of law, the system of law with the closest and most real connection with the arbitration agreement will be applied – generally taken to be the law of the seat. 
+- This is not an universal approach. Some jurisdictions continue to prefer to apply the law of the seat as the law governing the arbitration agreement.
+
+*LAW GOVERNING A PARTY’S CAPACITY TO CONTRACT
+A party must have the capacity to enter into an arbitration agreement.
+- Issues of incapacity may be raised before or during arbitration and may be submitted as a ground to:
+a. Set aside the award (at the seat of arbitration) (Art 34(2)(a)(i) MAL), or
+b. To resist enforcement of an award (in the jurisdiction where award is being enforced) (Art V(1)(a) NYC; Art 36(1)(a)(i) MAL; s31(2)(a) IAA)
+
+- A party’s legal capacity to contract is generally governed by the law of the party’s nationality (lex personam), even if a different law applies to the merits of the parties’ dispute
+o For a company, that will be the law of the place of incorporation or business
+o Alternatively, whether a party has validly entered into a contract may be determined by the law governing the contract
+
+*ARBITRATION AGREEMENT
+An arbitration agreement may be in the form of an arbitration clause in a contract or in the form of a separate agreement (Art 7(1) MAL; s2A(2) IAA).
+
+Writing requirement
+- An arbitration agreement must be in writing (Art 7(2) MAL 1985; s2A(3) IAA)
+- In writing if its content is recorded in any form, whether or not the arbitration agreement or contract has been concluded orally, by conduct, or by other means (s2A(4) IAA)
+- Writing requirement is satisfied by an electronic communication if the information contained is accessible so as to be useable for subsequent reference (s2A(5) IAA)
+- There is deemed to be an effective agreement where in any arbitral proceedings, a party asserts the existence of an agreement in a pleading, and the assertion calls for a reply but is not denied (s2A(6) IAA)
+
+Incorporation by reference
+Refers to situation where parties have not included an arbitration agreement in their own contract, but merely a reference to another document which contains the arbitration agreement.
+- A reference would constitute an arbitration agreement provided the reference is such as to make that clause part of the contract (s2A(7) IAA; Art 7(2) MAL)
+- In Singapore, the TEST is whether parties INTENDED to incorporate the arbitration agreement via the reference (International Research v Lufthansa Systems) – this is a question of construction
+o Specific words of incorporation may express such an intention (Concordia v Cornelder)
+o Explicit reference to the arbitration clause is NOT necessary for it to be incorporated by reference, to do so would be too restrictive (Gay Construction, approved in International Research)
+o Where the reference to another document is clearly to adopt ALL the terms of the document referred to, then incorporation includes the arbitration clause (Mancon v Heng Holdings)
+
+Parties to an arbitration agreement
+Arbitration is based on consent, so an arbitration agreement can bind only those who have consented to it.
+- There are some ways that a non-party can be roped in under Singapore law – apply these only if the governing law of the arbitration agreement is Singapore law: 
+o Implied consent - Arbitral tribunals have held that negotiation or performance of obligations of a contract by a non-signatory can bind it to the agreement, including its arbitration clause. The fundamental question in the context of implied consent is whether the parties’ objective intention was for the non-signatory to be a party to the agreement and its arbitration clause.
+o Agency – a non-signatory can be bound if its agent entered the contract on behalf of it 
+o Assignment of the contract, including the arbitration agreement, to the party 
+o Group of companies doctrine – The doctrine allows, under certain limited conditions, the extension of an arbitration agreement signed only by one or some of the companies of a group also to the non-signatory companies of the same group. 
+* The oft-cited case on this doctrine is Dow Chemical v ISOVER Saint Gobain, which is an ICC arbitral decision, but it is often overlooked that, in this case, the non-signatory itself invoked the arbitration clause. In Manuchar Steel Hong Kong v Star Pacific Line [2014] SGHC 181, the Singapore High Court expressed doubts about the applicability of this doctrine under Singapore law.
+o Estoppel – a very narrow ground
+* The doctrine applies to estop one party (A) from arguing that another party (B) to the arbitration agreement needs to commence a separate arbitration for B’s claims against A, in circumstances where (Jiang Haiying v Tan Lim Hui [2009] SGHC 42):
+(i) there is an ongoing arbitration commenced by party C against party A on the same facts as party B’s claim; and 
+(ii) on a proper interpretation of the relevant contract, party B is a party to the arbitration agreement (between A and C).
+* The Singapore courts have considered, but not yet approved, of the wider approach to applying equitable estoppel to non-signatories endorsed in certain US cases: see Parmod Kumar Verma v Unique Food Partners Pte Ltd [2020] SGDC 254
+
+Joinder: fundamentally relates to consent and refers to the situation where an existing party seeks to add a new party to an arbitration proceeding and to have the 3P bound by its outcome.
+- MAL, NYC and most arbitration agreements are silent on the question of joinder
+- However, it is addressed in most institutional rules, which give arbitral tribunals the power to consider whether there is at least prima facie consent by the 3P to be bound by the arbitration agreement
+
+Consolidation: involves the fusion of 2 or more separate and independently existing arbitrations into one arbitration.
+- MAL, NYC and most arbitration agreements are silent on consolidation, but like joinder it is typically addressed in most institutional rules
+
+*ARBITRABILITY OF ISSUES 
+Relevance of matter at hand
+Question of subject matter arbitrability concerns whether the subject matter of a dispute is capable of determination by arbitration.
+
+For arbitrations seated in Singapore, any disputes which the parties have agreed to submit to arbitration under an arbitration agreement is ARBITRABLE (subjective arbitrability), UNLESS it is contrary to public policy to do so (objective arbitrability) (s11(1) IAA).
+
+If the matter is not the subject of the arbitration agreement, the party has no standing to apply for a stay of proceedings at all 
+- S 6(1) IAA – application for stay can be made “in respect of any matter which is the subject of the agreement”. 
+- S 6(1) AA – same thing “in respect of any matter which is the subject of the agreement” 
+
+If a dispute is not arbitrable, an award on the dispute can be set aside (Art 34(2)(b)(i) MAL) or the courts may refuse to enforce it (Art V(2)(a) NYC; s 31(4)(a) IAA).
+
+Subjective arbitrability – what matters did the parties agree to refer to arbitration? 
+Subjective arbitrability depends on which issues the parties have agreed to arbitrate 
+- This involves interpreting the agreement, including phrases such as “in connection with” or “arising out of” the contract
+- Note: must be “commercial” for the MAL and IAA to apply; see footnote to Art 1 MAL 
+
+Singapore courts strongly favor arbitration 
+- In Singapore, the SGCA has held that arbitration clauses should be construed widely such that ALL manner of claims relating to the contract (whether based on tort or contract; whether common law or statutory), should be regarded as falling within their scope unless there was a good reason to conclude otherwise (Larsen Oil v Petroprod [2011] SGCA 21 at [19]). 
+- The construction of an arbitration clause should start from the assumption that the parties, as rational businessmen, are likely to have intended any dispute arising out the relationship into which they have entered to be decided by the same tribunal (Premium Nafta v Fili Shipping applied in Larsen v Petroprod at [13])
+o In Larsen, despite the SGCA’s broad approach towards the construction of arbitration clauses, it found that the company’s pre-insolvency management was unlikely to have contemplated including avoidance claims within the scope of an arbitration agreement (at [20]). Even if so contemplated by parties, those claims were non-arbitrable as they were in essence insolvency claims (which falls foul of objective arbitrability)
+
+Objective arbitrability – for what matters will a court refuse to permit arbitration? 
+A dispute is not arbitrable if it is contrary to public policy (s 11(1) IAA). 
+- Under AA, no parallel provision. But public policy is a ground for the court to set aside award – s 48 AA (see below) 
+
+In Singapore, no specific subjects have been identified by statute as being or as not being arbitrable. 
+- However, it is generally accepted that issues which may have public interest elements may not be arbitrable, e.g. citizenship, legitimacy of marriage, grants of statutory licences, validity of registration of trademarks or patents, copyrights, winding-up of companies (Aloe Vera of America v Asianic Food [2006] SGHC 78 at [72]).
+o Specifically, avoidance provisions in the Bankruptcy Act and Companies Act exist for the benefit of the general body of creditors in an insolvency context. The policy underlying the provisions would be compromised if they were subject to private arrangements, including arbitration. 
+
+In Singapore, public policy includes foreign public policy: Anupam Mittal v Westbridge Ventures [2023] SGCA 1
+- The SGCA thus adopted a novel “composite” approach (2 steps) in determining the arbitrability of a dispute at the pre-award stage. 
+o FIRST LOOK AT WHETHER LAW GOVERNING AGREEMENT ALLOWS: 
+In the first instance, the arbitrability of a dispute is determined by the law that governs the arbitration agreement. If it is a foreign governing law and that law provides that the subject matter of the dispute cannot be arbitrated, the Singapore court will not allow the arbitration to proceed pursuant to s 11. 
+
+o THEN LOOK AT WHETHER LAW OF THE SEAT ALLOWS:
+Second, where a dispute may be arbitrable under the law of the arbitration agreement but Singapore law as the law of the seat considers that dispute to be non-arbitrable, the arbitration would not be able to proceed.
+
+*For corporate insolvency issues under IRDA – it may or may not be arbitrable, depending on the SUBSTANTIVE ISSUE of the dispute (Larsen)
+o If the claim relates to a pre-insolvency claim, it is arbitrable
+o If the claim arises BECAUSE of the insolvency regime (e.g. undue preference) or arises because of the onset of the insolvency regime, then it is NOT arbitrable.
+
+*PATHOLOGICAL ARBITRATION CLAUSES
+Pathological clauses are not automatically invalid 
+- Labelling a clause as “pathological” did not automatically invalidate it as an agreement. Rather, “it depends on the nature or substance of the defect, or whether the defect was curable” (Insigma Technology v Alstom Technology [2009] SGCA 24 at [38]). 
+
+Courts will try to cure pathological arbitration clauses 
+- In general, tribunals or courts will rely on the principle of effective interpretation to salvage the arbitration clause by restoring the true intention of the parties. 
+- However, the defect may not be curable if it is “impossible to infer an intention which is sufficiently coherent and effective to enable the arbitration to function” (Insigma at [39])
+
+Examples of defects:
+- Naming the arbitral institution incorrectly or identifying a non-existent institution.
+- Empowering one institution to administer another institution’s rules.
+- Referring to an arbitral institution by its location rather than by its name.
+- Failing to indicate clearly that the award is final and binding.
+- Identifying a specific arbitrator who has died or become unable to act thereafter.
+- Drafting terms that are inherently contradictory to other terms in the arbitration agreement.
+
+Some defects in particular:
+- Naming the arbitral institutions incorrectly, or identifying a non-existent institution 
+o Not immediately null if parties chose rules of a non-existent institution
+o Court will consider whether the dominant purpose of the agreement was to settle disputes by arbitration. If so, the court may direct arbitration before the most appropriate tribunal in the circumstances – Lucky-Goldstar v Ng Moo Kee [1993] 2 HKLR 73
+* Institution may be determined through parties’ intention 
+* In Lucky-Goldstar, the arbitration clause selected the rules of procedure of the ‘International Commercial Arbitration Association’, which was a non-existent organization. Despite this, stay of court proceedings was granted 
+o Re Shanghai Xinan Screenwall Building & Decoration Co Ltd [2022] SGHC 58 – arbitration agreement for “China International Arbitration Center” (a non-existent institution), was interpreted as an agreement to CIETAC arbitration and therefore upheld an award issued by a CIETAC Tribunal. 
+* Provided the parties objectively intended to refer to the same arbitral institution (rather than intended different arbitral institutions, or it being impossible to tell either way), the validity of the arbitration agreement would not be affected
+o KVC Rice Intertrade Co v Asian Mineral Resources:
+* relevant arbitration clauses in two contracts provided by “… arbitration as per Singapore Contract Rules” and “… arbitration as per Indian Contract Rules”
+* Court held that there were difficulties in appointing the arbitral tribunal due to the completely bare arbitration clauses (which did not specify either the place of arbitration or the means of appointing arbitrators)
+* But ultimately, court upheld the clauses by finding that the statutory appointing authority in the IAA (the President of the SIAC), has the power to appoint the tribunal even in cases where the place of arbitration is unclear or not yet determined 
+
+- Empowering one’s institution to administer another institution’s rules 
+o SGCA has held that in general, there is no objection in principle to providing for a hybrid arbitration, namely one administered by one arbitration institution (e.g. SIAC) but governed by the rules (adapted as necessary) of another arbitration institution (e.g. HKIAC rules), if the administering institution could arrange for organs to carry out functions similar to those performed by the other institution (Insigma Technology v Alstom Technology)
+* In Insigma, the arbitration clause provided that “… such disputes shall be resolved… before the Singapore International Arbitration Centre in accordance with the Rules of Arbitration of the International Chamber of Commerce… the proceedings shall take place in Singapore”. 
+* The arbitral tribunal found that it was workable because the SIAC (in a letter to the tribunal) had indicated which bodies and individual officers within the SIAC would perform the roles of the functionaries described under ICC rules. The Singapore High Court upheld the tribunal’s award. The Singapore Court of Appeal affirmed the decision below.
+
+o In HKL Group v Rizq [2013] SGHCR 5, the Court had to deal with an arbitration agreement which provided as follows. “Any dispute shall be settled by amicable negotiation between two Parties. In case both Parties fail to reach amicable agreement, all dispute out of in connection with the contract shall be settled by the Arbitration Committee at Singapore under the rules of The International Chamber of Commerce of which awards shall be final and binding both parties. Arbitration fee and other related charge shall be borne by the losing Party unless otherwise agreed”.
+* However, no entity called the “Arbitration Committee” exists in Singapore. The Singapore High Court upheld the arbitration agreement, but on the condition that “parties obtain the agreement of the SIAC or any other arbitral institution in Singapore to conduct a hybrid arbitration applying the ICC rules, with liberty to apply should they fail to secure any such agreement. [The Court] will hear parties on the issue of the imposition of any other conditions”. 
+* The Court reached this decision even though after the Insigma case the ICC amended its institutional rules to clarify that the ICC is the only body authorised to administer arbitrations under the ICC Rules.
+
+o Notwithstanding these cases, it is good practice to avoid using hybrid arbitration clauses, namely, clauses that provide for arbitral institution to administer the arbitration using the rules of another institution. Even if the clause maybe upheld in Singapore, any consequent award may not be enforceable in another jurisdiction
+
+- Lack of clear obligation to arbitrate
+o Drafting of OPTIONAL arbitration clauses should be avoided – agreements should provide that the dispute SHALL or WILL be referred to arbitration
+
+o If an arbitration agreement provides that a dispute MAY be referred to arbitration, whether there is a clear obligation to arbitrate is arguable. Some jurisdictions have equated the term “may” to “shall’’ such that arbitration clauses which state that parties “may refer to arbitration” have been interpreted to mean that parties are obliged to do so (China State Construction v Madiford [1992] 1 HKC 320). 
+
+o What if the clause states that the parties “CAN” refer the dispute to arbitration? In Guangdong Agriculture v Conagra International [1993] 1 HKLR 113, the Hong Kong High Court (per Barnett J) upheld such a clause. The clause stated that “All disputes… SHALL be settled by amicable negotiations. In case no settlement can be reached, the case under the dispute CAN then be submitted to… arbitration”. Construing the entire clause as a whole, the court found that the parties plainly agreed to settle any dispute by arbitration
+
+*DRAFTING ARBITRATION CLAUSES (IN GENERAL)
+Try as much as possible to stick to the model clauses promulgated by the different arbitral institutions (these clauses are usually accessible on their websites). If you are free drafting, essential elements to include:
+- Certainty regarding the identity of the parties.
+- Certainty that the parties have agreed to submit their disputes exclusively to arbitration.
+- Certainty as to the subject matter or scope of arbitrable disputes.
+- Certainty of the seat of arbitration.
+- Certainty as to the arbitral institution administering the arbitration, if any.
+- Certainty as to number of arbitrators—avoid having a panel of two arbitrators.
+- Stipulate the language of proceedings.
+- Stipulate the governing law of the arbitration agreement.
+- Stipulate to what extent parties agree to go for expedited arbitration (which is a feature available under certain institutional rules).
+
+MULTI-TIERED DISPUTE RESOLUTION CLAUSES
+Advantages 
+- ADR can save time and costs if you can solve the dispute before the dispute gets to the later stage of arbitration 
+- Parties tend to be quite reluctant to broach mediation because if they do, it looks like they don’t really believe in their case 
+o An agreement upfront to go for mediation prevents this perceived show of weakness
+
+Disadvantages 
+- The bottom line – if you want to mediate, you don’t need to agree to do it in writing. But bear in mind the earlier point of having a requirement for mediation in the contract 
+
+
+A. If other party doesn’t comply with arbitration agreement (if you are trying to defend or enforce the arbitration)
+
+A(I): WHERE OTHER PARTY COMMENCES LITIGATION IN SINGAPORE 
+Apply for stay of court proceedings in Singapore in favor of arbitration 
+Where any party to an arbitration agreement institutes any proceedings in any court in breach of the arbitration agreement, the other party may apply to the court to stay the proceedings and refer the parties to arbitration (Art II(3) NYC; Art 8(1) MAL; s 6(1) IAA)
+
+Timing of stay application 
+- The application to stay the court proceedings must be done not later than the submission of the first statement on the substance of the dispute (Art 8(1) MAL). 
+- This may be done at any time after appearance and before delivering any pleading or taking any other step in the proceedings (s 6(1) IAA).
+
+Court must order stay unless exceptions apply 
+- Under the IAA, the court shall stay the proceedings unless it finds that the arbitration agreement is null and void, inoperative or incapable of being performed (Art II(3) NYC; Art 8(1) MAL; s 6(2) IAA).
+- See info on this below 
+
+*For domestic proceedings under AA, court retains discretion to refuse to stay court proceedings (i.e. can continue with court proceedings even if grounds are satisfied)
+Specifically under the s 6 AA, the court may stay the court proceedings (in favour of arbitration) when it is satisfied that there is: 
+a. No sufficient reason why the matter should not be referred to arbitration (i.e. there is sufficient reason for matter to be referred to arbitration) in accordance with the arbitration agreement, or
+b. if the applicant seeking a stay of court proceedings, was at the time when proceedings were commenced, and still remains ready and willing to do all things necessary to the proper conduct of the arbitration (CSY v CSZ [2022] SGCA 43) 
+
+The court must scrutinize the myriad factual circumstances to determine how best to manage its processes and ensure the efficient and fair resolution of the entire dispute. The term “sufficient reason” captures a broad range of factors (Fasi Paul Frank v Speciality Laboratories Asia Pte Ltd [1999] 1 SLR(R) 1138 at [18]). 
+- Ultimately, the factors invoked will be weighed against and will have to be found to outweigh the significant consideration that the parties had voluntarily bound themselves to arbitrate and ought therefore to be held to their agreement (Sim Chay Koon v NTUC Income Insurance Co-operative Ltd [2016] 2 SLR 871 at [8]–[10]). 
+- Amongst others, we consider the following factors instructive in the inquiry:
+o (a) the existence of related actions and disputes, some of which are governed by an arbitration agreement and others which are not;
+o (b) the overlap between the issues in dispute such that there is a real prospect of inconsistent findings;
+o (c) the likely shape of the process for the resolution of the entire dispute;
+o (d) the likelihood of injustice in having the same witnesses deal with the same factual issues before two different fora;
+o (e) the likelihood of disrepute to the administration of justice ensuing from the fact that overlapping issues may be differently determined in different actions;
+o (f) the relative prejudice to the parties; and
+o (g) the possibility of an abuse of process.
+
+What if the existence of an arbitrable dispute itself is in question? 
+- In Singapore, the courts will only conduct a prima facie examination of whether a dispute which is subject to the arbitration agreement exists and whether there is a valid and binding arbitration agreement between the parties. 
+- A mere denial of liability or of the quantum claimed, even in circumstances where no defence exists, will be sufficient to find a dispute for the purpose of s 6 IAA (or Art 8 MAL) (Dalian Hualiang Enterprise v Louis Dreyfus Asia [2005] SGHC 161 at [43]; Tjong Very Sumito v Antig [2009] SGCA 41). 
+- However, no dispute will exist if there has been a clear and unequivocal admission of liability and quantum
+
+NB: When an application to stay court proceedings is made, arbitral proceedings may nevertheless be commenced or continued, and an award may be made, while the issue is pending before the court (s 8(2) MAL).
+
+Attaching conditions to stay  
+In Singapore, the court can order a stay of proceedings under such terms of conditions as it thinks fit (s 6(2) IAA), or impose any interim or supplementary orders as it thinks fit (s 6(3) IAA). 
+
+The court has an unfettered discretion to impose terms and conditions upon a stay of court proceedings in favour of arbitration. However, the courts will generally be slow to interfere in the arbitration process (The “Duden” [2008] SGHC 149 at [12], [15]).
+
+A(II): CLIENT COMMENCES LITIGATION ELSEWHERE OUTSIDE SINGAPORE (E.G. INDONESIA)
+Stay in the jurisdiction where litigation is brought 
+If foreign state is a NY Convention signatory, it is bound to order a stay if there is a valid arbitration agreement (Art II(3) NYC)
+- Unless agreement is null and void, inoperative or incapable of being performed. 
+
+Anti-suit injunction (ASI) in Singapore --> this is a common law remedy
+Order by a court that has personal jurisdiction over a party to require the party either not to file a claim in a foreign jurisdiction or not to proceed with a claim that has already been filed. Would expose counterparty to potential contempt of court proceedings before the Singapore courts (especially if the counterparty likes to travel to Singapore)
+
+Issues
+- ASIs are controversial because they interfere with the jurisdiction of the foreign court, going against international comity 
+- Because a court’s actions may simply be ignored by a foreign court, the success of the anti-suit injunction depends on the amount of coercive power a court can bring to bear over the party subject to its jurisdiction 
+
+Practical benefit of ASI (regarding enforcement and protection of assets): 
+- Even if the Indonesian courts do not care about Singapore courts’ ASI, other courts around the world may take into account the ASI in deciding whether to give effect to the Indonesian judgement (if any) was procured 
+
+Singapore position – threshold for granting a ASI is quite low
+- ASI should be granted in aid of arbitration proceedings as long as 2 conditions are fulfilled:
+o there is a valid and binding arbitration agreement pursuant to s2A IAA, and that 
+o there is evidence that a contracting party has acted in breach of the arbitration agreement by commencing proceedings elsewhere 
+
+- The SGCA made this attitude evident in its decision of Maldives Airports Co Ltd and anor v GMR Male International Airport Pte Ltd [2013] 2 SLR 449 (“Maldives Airports”), in which it accepted the English Court of Appeal’s holding in Aggeliki Charis Compania Maritama SA v Pagnan SpA, The Angelic Grace [1995] 1 Lloyd’s Rep 87 at 96 that there should be “no good reason for diffidence in granting an injunction to restrain foreign proceedings on the clear and simple ground that the defendant has promised not to bring them.”
+
+- Once the Court is satisfied that there is an arbitration agreement, “it has a duty to uphold that agreement and prevent any breach of it”: WSG Nimbus Pte Ltd v Board of Control for Cricket in Sri Lanka [2002] 1 SLR(R) 1088
+
+Contest jurisdiction of the tribunal 
+See jurisdiction below
+
+Apply to set aside award (at seat), or resist enforcement (at place of enforcement) 
+See below
+
+B. If you don’t want to undergo arbitration (if you are trying to attack or resist arbitration)
+Scenario – you’ve started court proceedings for some issue and the opponent applies for a stay, citing an arbitration agreement 
+- Or, if you apply for a stay of proceedings in favor of arbitration, what are the possible arguments an opponent could make to resist stay? 
+
+IMPORTANT POINTS FOR ALL SITUATIONS 
+Starting point 
+Under IAA:
+- s 6(2) IAA: The court must order a stay unless it is satisfied that the arbitration agreement is null and void, inoperative or incapable of being performed 
+
+Under AA: 
+- The court to which an application has been made in accordance with subsection (1) may, if the court is satisfied that —
+o (a) there is no sufficient reason why the matter should not be referred in accordance with the arbitration agreement; and
+o (b) the applicant was, at the time when the proceedings were commenced, and still remains, ready and willing to do all things necessary to the proper conduct of the arbitration,
+- make an order, upon any terms that the court thinks fit, staying the proceedings so far as the proceedings relate to that matter.
+- I actually have no idea what this means 
+
+Applicable law is the law of the arbitration agreement 
+Important to note that the applicable law in all these situations is not automatically Singapore law – it is instead the law governing the (putative) arbitration agreement 
+
+Singapore courts like arbitration a lot 
+In practice, the Singapore courts have been very generous in upholding arbitration agreements
+- E.g. even where a nonexistent arbitration institution was named, the court construed the clause to refer to a real institution, thus upholding the intention of the parties to proceed to arbitration 
+
+
+B(I): RESISTING OPPONENT’S APPLICATION FOR STAY BEFORE SINGAPORE COURT (I.E. WHERE YOU WANT COURT PROCEEDING TO START OR CONTINUE) 
+Argue that arbitration agreement is null and void or doesn’t exist 
+Standard of review of court regarding existence, scope and validity of arbitration agreement: prima facie finding (cf definitive ruling)
+- SGHC position – prima facie approach: Malini v Ventura [2015] SGHC 225
+o Because this is properly a matter within the jurisdiction of the arbitral tribunal (Tomolugen v Silica Investors [2015] 1 SLR 373)
+o The court will reach a definitive ruling (cf prima facie finding) only where it is clear that the dispute is outside the terms of the arbitration or that a party is not a party to the arbitration agreement or that the application is out of time (Dalian Hualiang Enterprise v Louis Dreyfus Asia [2005] SGHC 161 at [21]). 
+o TEST: where it is merely arguable that the dispute falls within the terms of the arbitration agreement or that a party to the legal proceedings is a party to the arbitration agreement, a stay of proceedings should be granted so that the matters can be determined by the arbitral tribunal (Dalian Hualiang v Louis Dreyfus at [21])
+
+- *SGCA definitive 3-condition TEST (Tomolugen): court should grant stay of court proceedings (i.e. favour arbitration) if the applicant shows prima facie that – 
+o (a) there is a valid arbitration agreement between the parties to the court proceedings;
+o (b) the dispute in the court proceedings (or any part thereof) falls within the scope of the arbitration agreement; and
+o (c) the arbitration agreement is not null and void, inoperative or incapable of being performed.
+
+- SG law departs from English law. English law favors a conclusive ruling on the existence of the arbitration agreement on a balance of probabilities 
+
+- Once this burden has been discharged by party apply for a stay of court proceedings, the court should grant a stay and defer actual determination of the tribunal’s jurisdiction to the tribunal itself. Court should only refuse to grant a stay (i.e. continue court proceedings) if one or more of the conditions above have not been satisfied
+
+- **However the tribunal’s determination of its jurisdiction REMAINS SUBJECT TO OVERRIDING COURT SUPERVISION in the form of: 
+a. an appeal under s10(3) IAA against the tribunal’s ruling that it has jurisdiction 
+o Appeal available only where tribunal has decided on jurisdiction as a preliminary matter, rather than as part of the award
+o If jurisdiction is decided as part of the award with the merits of the case, parties can only apply to set aside or oppose enforcement
+b. in proceedings for setting aside of award (s24 IAA; Art 34 MAL)
+c. refusing enforcement of award rendered by tribunal (s31 IAA)
+
+Party’s lack of capacity to contract 
+- Issues of incapacity may be raised before or during arbitration and may be submitted as a ground to set aside the award (Art 34(2)(a)(i) MAL), or to resist enforcement of an award (Art V(1)(a) NYC; Art 36(1)(a)(i) MAL; S 31(2)(a) IAA). 
+- A party’s legal capacity to contract is generally governed by the law of the party’s nationality (i.e. lex personam), even if a different law applies to the merits of the parties’ dispute. For a company, that will be the law of the place of incorporation or business. 
+- Alternatively, whether a party has validly entered into a contract may be determined by the law governing the contract.
+
+Requirement for arbitration agreements to be in writing 
+- An arbitration agreement must be in writing (Art 7(2) MAL 1985; s 2A(3) IAA; s 4(3) AA).
+- An arbitration agreement is in writing if its content is recorded in any form, whether or not the arbitration agreement or contract has been concluded orally, by conduct or by other means (s 2A(4) IAA; s 4(4) AA). 
+o The requirement that an arbitration agreement shall be in writing is satisfied by an electronic communication if the information contained therein is accessible so as to be useable for subsequent reference (s 2A(5) IAA; s 4(5) AA). 
+- There is deemed to be an effective arbitration agreement where in any arbitral proceedings, a party asserts the existence of an arbitration agreement in a pleading, and the assertion calls for a reply but is not denied (s 2A(6) IAA; s 4(6) AA). [Note 1: Article 7 MAL does not apply in SG (s 2A(9) IAA). Singapore’s version is similar to Option 1 of Art 7 of MAL 2006, except it has its own vocabulary.]
+
+Incorporation by reference 
+A reference in a contract to any document containing an arbitration clause constitutes an arbitration agreement provided the reference is such as to make that clause part of the contract (s 2A(7) IAA; Art 7(2) MAL; s 4(7) AA).
+- In Singapore, the test is whether the parties had intended to incorporate the arbitration agreement (International Research v Lufthansa Systems [2013] SGCA 55 at [34]). This is a question of construction. Specific words of incorporation may express such an intention (Concordia v Cornelder [1999] SGHC 269). 
+- Explicit reference to the arbitration clause is not necessary in order for it to be incorporated by reference. To do so would be far too restrictive (Gay Construction per Kaplan J; approved in International Research at [33]). 
+- Where the reference to another document is clearly to adopt all the terms of the document referred to, then incorporation includes the arbitration clause (Mancon v Heng Holdings [1999] SGHC 324).
+
+Arbitration agreement doesn’t bind 3rd parties 
+- Arbitration is based on consent, so an arbitration agreement can bind only those who have consented to it 
+- There are some ways that a non-party can be roped in under Singapore law – apply these only if the governing law of the arbitration agreement is Singapore law: 
+o Implied consent - Arbitral tribunals have held that negotiation or performance of obligations of a contract by a non-signatory can bind it to the agreement, including its arbitration clause. The fundamental question in the context of implied consent is whether the parties’ objective intention was for the non-signatory to be a party to the agreement and its arbitration clause.
+o Agency – a non-signatory can be bound if its agent entered the contract on behalf of it 
+o Assignment of the contract, including the arbitration agreement, to the party 
+o Group of companies doctrine – The doctrine allows, under certain limited conditions, the extension of an arbitration agreement signed only by one or some of the companies of a group also to the non-signatory companies of the same group. 
+* The oft-cited case on this doctrine is Dow Chemical v ISOVER Saint Gobain, which is an ICC arbitral decision, but it is often overlooked that, in this case, the non-signatory itself invoked the arbitration clause. In Manuchar Steel Hong Kong v Star Pacific Line [2014] SGHC 181, the Singapore High Court expressed doubts about the applicability of this doctrine under Singapore law.
+o Estoppel – a very narrow ground
+* The doctrine applies to estop one party (A) from arguing that another party (B) to the arbitration agreement needs to commence a separate arbitration for B’s claims against A, in circumstances where (i) there is an ongoing arbitration commenced by party C against party A on the same facts as party B’s claim; and (ii) on a proper interpretation of the relevant contract party B is a party to the arbitration agreement: see Jiang Haiying v Tan Lim Hui [2009] SGHC 42. 
+* The Singapore courts have considered, but not yet approved, of the wider approach to applying equitable estoppel to non-signatories endorsed in certain US cases: see Parmod Kumar Verma v Unique Food Partners Pte Ltd [2020] SGDC 254
+
+Argue that arbitration agreement is inoperative 
+This section is not incomplete; nothing has been said about this 
+
+Argue that arbitration agreement is incapable of being performed
+This section is not incomplete; nothing has been said about this 
+
+Argue that the matter is not the subject of the arbitration agreement
+See arbitrability of issues above 
+
+**B(II): RAISE A JURISDICTIONAL OBJECTION BEFORE THE TRIBUNAL 
+Tribunals are empowered to decide on their own jurisdiction under the competence-competence rule 
+- Under the doctrine of competence-competence, an arbitral tribunal may rule on its own jurisdiction, including any objections with respect to the existence or validity of the arbitration agreement (Art 16(1) MAL)
+- Can be a preliminary issue, or jurisdiction can be decided together with the merits of the case 
+
+Under the MAL, a tribunal’s decision that it possesses jurisdiction is always subject to review by the courts, at two stages. The first stage is after the tribunal decides the jurisdiction as a preliminary issue. The second stage is after the tribunal releases its final award.
+
+If the seat is in Singapore: 
+- If the tribunal decides it has jurisdiction as a preliminary decision, the objecting party can make an application under s 10(3) of the IAA (or s 21(9) AA for domestic arbitration) for the Singapore courts to review the tribunal’s decision on jurisdiction 
+o It has been held in obiter that if the objecting party does not make an appeal under s 10(3) of the IAA[WW1], that party loses the right to make a setting aside challenge on any eventual award subsequently on the same jurisdictional objection: PT First Media v Astro Nusantara [2013] SGCA 57. 
+--> SINCE APPEAL REMEDY UNDER S10(3) IAA AND SETTING ASIDE ON JURISDICTIONAL GROUNDS ARE IN THE SAME BASKET OF “ACTIVE” REMEDIES. BUT NOTE THAT SETTING ASIDE APPLICATIONS CAN STILL BE MADE IF THEY ARE BASED ON OTHER GROUNDS IN ART 34 MAL WHICH ARE NOT BASED ON JURISDICTION OBJECTIONS
+
+o Nevertheless, subject to any waiver, an award debtor always retains its rights to resist enforcement of the award wherever the award creditor may try to enforcement the award: PT First Media v Astro Nusantara [2013] SGCA 57. --> SINCE THIS IS IN A DIFFERENT BASKET OF “PASSIVE” REMEDIES
+
+- If the tribunal decides that it has jurisdiction in an award that also deals with the merits of the case, s 10(3) IAA is not triggered since it only covers appeals on rulings of jurisdiction
+o Instead, the objecting party can apply to set aside the award under Art 34 MAL, or resist enforcement of the award wherever the award creditor may try to enforcement the award under s 31 IAA and Art 36 MAL.
+
+Validity of arbitration agreement is separable from the contract in which it is contained 
+- An arbitration clause in a contract is treated as an agreement independent of the other terms of the contract (Art 16(1) MAL)
+- This allows a tribunal to declare a contract invalid and yet retain its jurisdiction to decide a dispute as to the consequences of such invalidity (Ferris v Plaister [1994] 34 NSWLR 474 per Kirby J). 
+o The arbitration agreement is treated as a distinct agreement that can be void or voidable only on grounds which relate directly to the arbitration agreement (Premium Nafta Products v Fili Shipping [2007] UKHL 40 at [17], per Lord Hofmann)
+
+- This doctrine of separability has been applied by the courts in Singapore (Govt. of Philippines v Philippine International Air Terminals [2006] SGHC 206). 
+
+- Practically speaking, this means that if one wants to challenge the validity of the arbitration clause, one cannot simply allege the invalidity of the entire contract—the challenge needs to be targeted at the arbitration clause
+
+- *SGCA in COT v COU [2023] SGCA 31 held that the separability principle only applies to questions of CONTRACTUAL VALIDITY, and not CONTRACTUAL FORMATION. As such, when the complaint goes towards whether the contract is even formed in the first place, separability does not apply and a party can dispute that the entire contract (including the arbitration clause) was not properly formed
+
+Timing of objection to tribunal (cf appeal to court AFTER tribunal has made a decision)
+- If a party wishes to object to the tribunal’s jurisdiction, he must do so not later (before) the submission of the statement of defence (Art 16(2) MAL). --> usually parties make the jurisdictional objection right up front once the tribunal is constituted
+
+NB: this timeline is different from the 30 day timeline when you apply to court against a tribunal’s decision that it has jurisdiction under Art 16(3) MAL
+
+- A plea that the tribunal is exceeded its jurisdiction must be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings. However, the arbitral tribunal may admit a late plea if it considers the delay justified (Art 16(2) MAL).
+
+- A party is not precluded from raising a plea (i.e. can still raise) that the arbitral tribunal does not have jurisdiction by the fact that he appointed, or participated in the appointment of an arbitrator (Art 16(2) MAL).
+
+Failure to object 
+- If the party has knowledge of the circumstances and yet proceeds with the arbitration without stating his objection to such non-compliance without undue delay or within the time limit provided, he shall be deemed to have waived his right to object (Art 4 MAL)
+
+- Alternatively, if a non-signatory participates in the arbitration and fails to object at a tribunal’s jurisdiction within the time limit specified, its silence may amount to entering into an arbitration agreement (Art 7(2) MAL; s 2A(6) IAA) --> there shall be deemed to be an effective arbitration agreement where a party asserts the existence of an agreement in a pleading and the assertion is not denied
+
+- However, commencing an action in court specifically in relation to proceedings for temporary injunctive relief or interim measures does not amount to a waiver of the arbitration agreement (Art 9 MAL: it is not incompatible with an arbitration agreement for a party to request from a court an interim measure of protection).
+
+To hear jurisdictional issues as a preliminary issue or together with the merits? 
+The arbitral tribunal may rule on a jurisdictional objection either as a preliminary question [thus bifurcating the proceedings] or in an award on the merits (Art 16(3) MAL; s 10(3) IAA).
+
+The advantage of deciding jurisdiction separately from the merits is that it potentially avoids long and costly proceeding on the merits when it is uncertain whether the arbitral tribunal possesses jurisdiction. It may make sense to bifurcate proceedings especially if the jurisdictional issues involved can be segregated from the merits of the case. 
+
+On the other hand, if the jurisdictional objections are frivolous (which is not uncommon in attempted dilatory tactics), this militates against bifurcation which would only delay progression to the merits of the case.
+
+Appeal to court against tribunal’s decision on jurisdiction 
+Under Model Law (MAL)
+- Mechanism to seek immediate review under Art 16(3): 
+o If the arbitral tribunal rules as a preliminary question that it has jurisdiction, any party may apply to the court at the seat of the arbitration within 30 days to decide the matter, *and the court’s decision is subject to no appeal (Art 16(3) MAL). 
+--> different position in Singapore under IAA where the court’s decision can be appealed
+o While such a request is pending, the arbitral tribunal may continue the arbitral proceedings and make an award. 
+
+- Setting aside / enforcement proceedings: 
+o A tribunal’s preliminary decision on jurisdiction is not liable to be set aside under Art 34 MAL because it is not an award. 
+o However, an award on the merits may be set aside (or resisted when enforced) on the ground that the tribunal lacked jurisdiction (Art 34(2) MAL; Art V NYC). 
+
+- Negative jurisdictional decisions (tribunal rules that it has no jurisdiction): 
+o (1) The Model Law does not provide for recourse against an arbitral tribunal’s decision that it lacks jurisdiction. In other words, if the tribunal decides that it has no jurisdiction, the court shall not second guess that decision. 
+o (2) Further, a negative determination on jurisdiction is similarly not an award as it is not a decision on the substance of the dispute. If jurisdictional decisions are not awards, then it cannot be set aside under Art 34 MAL (PT Asurani v Dexia Bank [2006] SGCA 41 at [66]).
+
+*IAA modifies the model law a bit 
+- Appeal is allowed regardless of whether the tribunal finds that it does or does not have jurisdiction (if jurisdiction is decided as a preliminary issue) 
+o Any party may, within 30 days after receiving notice of that ruling, apply to the SGHC to decide the matter (s 10(3) IAA).
+o Thus, even if a tribunal decides that it has no jurisdiction, it can be appealed to the SGHC (cf position under MAL where the court would not second guess the tribunal’s negative decision)
+- The decision of the SGHC is appealable to SGCA
+o An appeal from the decision of the SGHC can be made to the SGCA only with the leave of the appellate court (s 10(4) IAA). There is no appeal if the appellate court refuses to grant leave to appeal (s 10(5) IAA).
+
+Scope of court’s review of tribunal’s jurisdictional decisions 
+- Whenever a court at the seat of arbitration (typically called the curial court) reviews an arbitral tribunal’s decision on jurisdiction (whether under s 10(3) IAA or at the setting aside stage), the court decides the issue de novo and it is not bound by the tribunal’s decision. 
+o Singapore courts don’t give deferential treatment to the tribunal’s decision on jurisdiction. Jurisdiction of the tribunal is so fundamental to the arbitration process that the court must decide on its own 
+o But obviously the decision of the tribunal on its own jurisdiction will have significant persuasive value, and the court will definitely read the decision 
+- The court’s jurisdiction to decide the jurisdiction of an arbitral tribunal is an original jurisdiction and not an appellate one. This is implied from the wording of Art 16(3) MAL which provides for the court to “decide the matter” (Insigma Technology v Alstom Technology [2008] SGHC 134 at [21]; PT First Media v Astro Nusantara [2013] SGCA 57). 
+- The court is at liberty to consider the material before it, unfettered by any principle limiting its fact-finding abilities (AQZ v ARA [2015] 2 SLR 972 at [57]). 
+- Can parties adduce new evidence on appeal? 
+o There is no definitive guidance from the Singapore courts yet, with AQZ v ARA suggesting a less restrictive approach, compared to Laos v Sanum [2015] SGHC 15 applying a stricter approach.
+o Most recently in COT v COU, it was suggested that the Court has discretion to decide what evidence it will receive, but a party does NOT have the right to insist on a full rehearing of the evidence adduced before the tribunal. The discretion extends to what evidence the Court will receive, whether the Court is content to rely on the evidence presented to the tribunal or wishes to receive evidence anew, and whether the Court receives the evidence on affidavit alone or viva voce (oral rather than in writing), with or without cross examination.
+
+B(III): REFUSE TO PARTICIPATE IN THE ARBITRATION 
+Wait for the tribunal’s final award and then apply to set aside at the seat, or resist enforcement at the place of enforcement, both on the grounds that the tribunal lacked jurisdiction (Rakna Arakshaka Lanka Ltd v Avant Garde Martime Services).
+
+A non-participating respondent is not forced to invoke s10(3) IAA to oppose the tribunal’s jurisdiction, so he will not lose the active remedy of applying to set aside any awards granted later on (cf Astro).
+
+Respondent who protests a tribunal’s jurisdiction has the right not to participate in the arbitration, but practically this is risky because if the jurisdiction plea fails, the non-participating party will be bound by an award made in circumstances where its position was never argued before the tribunal.
+
+B(IV): ASK THE TRIBUNAL TO DETERMINE ITS JURISDICTION AS A PRELIMINARY ISSUE, AND BOYCOTT IF NOT FAVORABLE 
+Still participate in the jurisdictional phase in the arbitration as a preliminary issue, and only boycott after unfavourable ruling on jurisdiction (cf B(iii) situation above) where you refuse to participate from the very beginning).
+
+There is no case law on what remedies a boycotting participant would have – argument can be made both ways, either:
+- treat them as non-participating respondents like in Rakna (whether their active remedy of applying to set aside eventual award is preserved), or 
+- treat them as participating respondents so they would lose the ability to apply to set aside any eventual award, if they fail to lodge a s10(3) IAA appeal
+
+Same as above – is risky 
+
+B(V): COMMENCE LITIGATION 
+In such a case, it is expected that the opposing party may contest the court’s jurisdiction by applying for a stay of court proceedings in favour of
+arbitration. 
+
+On the other hand, the opposing party may accept the domestic court’s competence (e.g. if it argues its defence before the court without objecting to the court’s jurisdiction), and waives its right to invoke the arbitration agreement in connection with the dispute.
+
+
+*3. Conduct of proceedings 
+Parties are free to agree on the procedure followed by the arbitral tribunal in conducting the proceedings – Art 19(1) MAL 
+- Often, this is done by agreeing to certain institutional rules 
+- Failing such agreement, the tribunal has the power to conduct the arbitration in such manner as it considers appropriate, including eh power to determine the admissibility, relevance, materiality and weight of any evidence – Art 19(2) MAL 
+- Domestic evidence statutes and laws (e.g. Evidence Act) are not binding on the tribunal, unless parties agree. 
+
+CORE PROCEDURAL RIGHTS AND DUTIES 
+- A fundamental right is that all parties shall be treated with equality and be given a full opportunity of presenting his case (Art 18 MAL). 
+- Parties can request for an oral hearing to take place (Art 24(1) MAL). 
+- Parties are to be given sufficient advance notice of any hearing and of any meeting of the arbitral tribunal (Art 24(2) MAL). 
+- All statements, documents or information supplied to the arbitral tribunal by one party shall be communicated to the other party (Art 24(3) MAL).
+
+DEFAULT OF A PARTY (OR NON-PARTICIPATION) 
+Claimant fails to communicate statement of claim
+- If, without showing sufficient cause, the claimant fails to communicate his statement of claim, the arbitral tribunal shall terminate the proceedings (Art 25(a) MAL)
+
+Respondent fails to communicate statement of defence 
+- If, without showing sufficient cause, the respondent fails to communicate his statement of defence, the arbitral tribunal shall continue the proceedings without treating such failure as an admission of the claimant’s allegations (Art 25(b) MAL).
+
+Any party fails to appear at a hearing or to produce documentary evidence 
+- If any party, without showing sufficient cause, fails to appear at a hearing or to produce documentary evidence, the arbitral tribunal may continue the proceedings and make the award on the evidence before it (Art 25(c) MAL).
+
+OBTAINING EVIDENCE 
+Documentary evidence 
+- An arbitral tribunal seated in Singapore has the power to make orders or give directions to any party for the discovery of documents (s 12(1)(b) IAA). 
+- Court assistance may be sought in document production (Art 27 MAL). In Singapore, any party to an arbitration may take out a subpoena to produce documents, which may be issued by the SGHC (s 13(1), (2) IAA).
+
+Witness evidence – aka can you subpoena someone in arbitration? 
+- In ALC v ALF [2010] SGHC 231, the Singapore High Court confirmed that under s 30 of the AA, subpoenas may be issued to compel the attendance of a witness before an arbitral tribunal. 
+o Under IAA, s 13 has a similar effect – allows any party to an arbitration agreement to request an order to attend or order to produce documents 
+- However, in that case, the Singapore High Court set aside the subpoena on the basis that the party seeking the subpoena ought to have sought directions from the tribunal on the calling of the relevant witness prior to making any court application. This was because the terms of Procedural Order No. 1 in the arbitration reserved the decision as to what legal steps a party should take in the event it wishes to adduce evidence from a person who will not appear voluntarily at its request to the arbitrator; and second, that party should write first to the arbitrator, enclosing the grounds on which they seek such a witness’s testimony and explain its relevance to the substantive case.
+
+CONFIDENTIALITY
+Confidentiality is typically covered in institutional rules, and arbitration proceedings are conventionally private in nature 
+
+Singapore position 
+- In Singapore, ss 22 and 23 of the IAA provide, among other things, that court proceedings relating to arbitration are to be heard in private by default. 
+- In India v Deutsche Telekom [2023] SGCA(I) 4, it was recognised that the purpose of ss 22 and 23 is to protect the confidentiality of the arbitration itself and the interest in keeping any enforcement proceedings confidential under the IAA is essentially a derivative interest designed ultimately to protect the confidentiality of the underlying arbitration. 
+o However, when the confidentiality of the arbitration has been lost, the principle of open justice would weigh strongly in favour of lifting the cloak of privacy that has been provided for in the IAA.
+- Generally, the obligation of confidentiality will apply as a default to arbitrations where the parties have not specified expressly the private/confidential nature of the arbitration
+o But there is an exception for disclosure to the appropriate authorities where there is a reasonable suspicion of criminal conduct 
+
+REPRESENTATION OF PARTIES 
+Foreign lawyers can act for clients for arbitrations seated in Singapore – s 32 IAA 
+- Includes arbitrators themselves, persons representing parties in arbitration proceedings, and giving of advice, preparation of documents in relation to arbitration proceedings 
+
+TERMINATION OF PROCEEDINGS 
+Arbitral proceedings are terminated by the final award (Art 32(1) MAL). 
+
+The arbitral tribunal shall issue an order for termination of the arbitral proceedings when: 
+- (a) the claimant withdraws his claim, unless the respondents object and the arbitral tribunal recognises a legitimate interest on his part in obtaining a final settlement of the dispute; 
+- (b) the parties agree on the termination of the proceedings; 
+- (c) the arbitral tribunal finds that continuation of the proceedings has for any other reason become unnecessary or impossible (Art 32(2) MAL). 
+
+Reviving proceedings after termination (Art 32(3) MAL).
+- However, after termination, the mandate of the tribunal may revive if 
+o there is a request by a party to correct or interpret the award under Art 33 MAL or 
+o if a court hearing a setting aside application determines that the arbitral tribunal shall resume arbitral proceedings or to take such other action as in the arbitral tribunal’s opinion will eliminate the grounds for setting aside under Art 34(4) MAL 
+
+TYPICAL PROCEDURAL STEPS IN A TYPICAL ARBITRATION 
+Using the SIAC Rules as an example 
+- Step 1 – Notice of arbitration 
+o To be in writing, and filed with the registrar – Rules 2 & 3 SIAC 
+o Notice of arbitration may include the statement of claim – Rule 3.2 SIAC 
+- Step 2 – Response to notice of arbitration 
+o Respondent shall send claimant a response within 14 days of receipt of the notice of arbitration (see Rule 4 SIAC). 
+o Response may include the statement of defence and statement of counterclaim (Rule 4.2 SIAC). 
+- Step 3 – Deposit of fees for the institution
+o The claimant and respondent shall each pay 50% of the advance on costs of arbitration (Rule 30.2 SIAC). 
+o If a party fails to make advances or deposits, the Registrar may direct the tribunal to suspend work (Rule 30.5 SIAC). 
+o Parties are jointly and severally liable for the costs of arbitration. Any party is free to pay the whole of the advances or deposits should the other party fail to pay its share (Rule 30.6 SIAC). 
+- Step 4 – Expedited procedure 
+o Prior to the full constitution of the tribunal, a party may apply to the registrar in writing for the arbitral proceedings to be conducted in accordance with the expedited procedure if any of the following criteria is satisfied: 
+* (a) amount in dispute does not exceed S$5m; 
+* (b) parties so agree; or 
+* (c) case is of exceptional urgency (Rule 5.1 SIAC). 
+- Step 5 – Appointment of arbitrators 
+o Number of arbitrations: see Rule 6 SIAC. 
+o Appointing sole arbitrator: see Rule 7 SIAC. 
+o Appointing 3 arbitrators: see Rule 8 SIAC. 
+o Multiparty appointment of arbitrators: see Rule 9 SIAC. 
+o Qualifications of arbitrators: see Rule 10 SIAC. 
+o Challenge of arbitrators: see Rule 11 SIAC. 
+o Notice of challenge: see Rule 12 SIAC. 
+o Decisions on challenge: see Rule 13 SIAC. 
+o Replacement of arbitrator: see Rule 14 SIAC. 
+o Repetition of hearings in event of replacement of arbitrator: see Rule 15 SIAC. 
+- Step 6 – Preliminary meeting between arbitral tribunal and parties
+o As soon as practicable after appointment of all arbitrators, the tribunal shall conduct a preliminary meeting with the parties, in person or by any other means, to discuss the procedures that will be most appropriate and efficient for the case (Rule 16.3 SIAC). 
+- Step 7 – Exchange of written submissions
+o Unless already submitted, the Claimant shall, within a period of time determined by the tribunal, send to the respondent and the tribunal a statement of claim stating the facts, legal grounds, and relief claimed (see Rule 17.2 SIAC). 
+o Unless already submitted, the Respondent shall, within a period of time determined by the tribunal, send to the Claimant a statement of defence setting out its full defence to the statement of claim. The statement of defence shall also state any counter claim (see Rule 17.3 SIAC). 
+o If a counterclaim is made, the claimant shall, within a period of time to be determined by the tribunal, send to the respondent a statement of defence to the counterclaim (see Rule 17.4 SIAC). 8. Jurisdiction of tribunal: 
+o The tribunal has the power to rule on its own jurisdiction, including any objections with respect to the existence, termination or validity of the arbitration agreement (Rule 25.2 SIAC). 
+o A plea that the tribunal does not have jurisdiction shall be raised not later than in the statement of defence or in a statement of defence to a counterclaim (Rule 25.3 SIAC). 
+- Step 9 – Conduct of the proceedings and rules of evidence: 
+o The tribunal shall conduct the arbitration in a manner it considers appropriate to ensure the fair, expeditious economical and final determination of the dispute (Rule 16.1 SIAC). 
+o The tribunal shall determine the relevance, materiality and admissibility of all evidence. Evidence need not be admissible in law (Rule 16.2 SIAC). 
+o The tribunal may, in its discretion, direct the order of proceedings, bifurcate proceedings, exclude cumulative or irrelevant testimony (Rule 16.4 SIAC). 
+o The tribunal has the power to: 
+* … e. order the parties to make any property or item available for inspection 
+* … g. order any party to produce to the tribunal and to the other parties for inspection, and to supply copies of, any document in their possession or control which the tribunal considers relevant to the case 
+* … i. direct any party to give evidence by affidavit or in any form (see Rule 24 SIAC) 
+- Step 10 – Oral hearing: 
+o The tribunal may hold hearings and meetings by any means it considers expedient or appropriate and at any location it considers convenient or appropriate (Rule 18.2 SIAC). 
+o Unless parties have agreed on documents only arbitration, the tribunal shall, if either party so requests or the tribunal so decides, hold a hearing for the presentation of evidence or for oral submissions on the merits of the dispute, including without limitation any issue as to jurisdiction (Rule 21.1 SIAC). 
+o The tribunal shall fix the date, time and place of any meeting or hearing and shall give the parties reasonable notice (Rule 21.2 SIAC) 
+- Step 11 – Witnesses: 
+o The tribunal has discretion to allow, refuse or limit the appearance of witnesses (Rule 22.2 SIAC; see Rule 22 SIAC in general). 
+o The tribunal may direct the testimony of witnesses to be presented in written form. A party may request that such witness should attend for oral examination. If the witness fails to attend, the tribunal may place such weight on the written testimony as it thinks fit, or disregard it (Rule 22.4 SIAC). 
+o The parties can appoint expert witnesses under Rule 22.1 SIAC.. 
+o The tribunal may, following consultation with the parties, appoint an expert to report on specific issues (Rule 23.1 SIAC). Any expert so appointed shall submit a report in writing to the tribunal. The tribunal shall deliver a copy to parties and invite the parties to submit written comments on the report (Rule 23.2 SIAC). Unless the parties have agreed otherwise, if the tribunal considers it necessary, any such expert shall participate in a hearing where the parties shall have the opportunity to question him (Rule 23.3 SIAC). 
+- 12. Post hearing submissions 
+- 13. Deliberations of the arbitrations 
+- 14. Issue of the award 
+- 15. Setting aside or enforcement of the award 
+
+*4. Interim measures 
+Interim measures are court or arbitral tribunal orders designed to protect assets or maintain the status quo pending the outcome of legal proceedings. 
+- Most courts and tribunals have concurrent jurisdiction to grant interim relief.
+
+INTERIM MEASURES ORDERED BY THE TRIBUNAL 
+Under the IAA 
+- The tribunal has the power to issue an order or direction to any party granting an interim injunction or any other interim measure (s 12(1) IAA). 
+- This mirrors Art 17 MAL, which allows the arbitral tribunal to, at the request of a party, grant interim measures 
+- All orders and directions made or given by an arbitral tribunal is, by leave of the SGHC, enforceable in the same manner as if they were orders made by a court (s 12(6) IAA)
+
+Under s 12(1) IAA, an arbitral tribunal seated in Singapore has the powers to make orders or give directions to any party for:
+- (a) Security for costs;
+- (b) Discovery of documents and interrogatories;
+- (c) Giving of evidence by affidavit;
+- (d) The preservation, interim custody or sale of any property which is or forms part of the subject matter of the dispute;
+- (e) Samples to be taken from, or any observation to be made of or experiment conducted upon, any property which is or forms part of the subject matter of the dispute;
+- (f) The preservation and interim custody of any evidence for the purposes of the proceedings;
+- (g) Securing the amount in dispute;
+o Art 17 MAL allows parties to exclude this power of the tribunal by contract. But IAA gives the tribunal this power regardless of the parties’ agreement 
+- (h) Ensuring that any award which may be made in the arbitral proceedings is not rendered ineffectual by the dissipation of assets by a party; and
+- (i) An interim injunction or any other interim measure.
+
+This interim order cannot be set aside – it doesn’t count as an “award” that can be set aside 
+- s 34 MAL (and s 24 IAA) only extends to an “award” (PT Pukuafu v Newmont Indonesia [2012] SGHC 187 at [19]). 
+o To this end, the definition of an “award” under s 2 IAA specifically excludes orders and directions made under s 12 IAA. 
+- Nonetheless, the enforcement mechanism under s 12(6) IAA requires the leave of the SGHC, which provides some residual protection for the rights of both parties (PT Pukuafu at [27]). 
+o In PT Pukuafu, the plaintiffs applied to the SGHC to set aside the interim order restraining the plaintiffs from continuing with proceedings before Indonesian courts or instituting new proceedings. The court held that it did not have jurisdiction to set aside the interim order.
+
+Amendments to MAL that have not been enacted in Singapore 
+The 1985 version of the MAL has force of law in Singapore. Not the 2006 version. So these new ones don’t apply
+
+The 2006 amendments to the MAL introduced further provisions concerning interim measures, which have not been enacted in Singapore. 
+- For instance, the tribunal can order a party, inter alia, to maintain the status quo pending determination of the dispute, refrain from taking action that will prejudice the arbitral process, to preserve evidence relevant to the dispute (Art 17(2) MAL 2006). 
+- The party requesting an interim measure must satisfy the tribunal that harm not adequately reparable by damages is likely to result if the measure is not ordered, and such harm substantially outweighs the harm likely to result to the party against whom the measure is directed (Art 17A(1)(a) MAL 2006). 
+- Moreover, the party must show that there is a reasonable possibility that he will succeed on the merits of the claim (Art 17A(1)(b) MAL 2006).
+
+Ex parte preliminary orders 
+- A preliminary order is essentially the same as an interim measure, except it is obtained ex parte
+- The 1985 MAL is silent on ex parte orders
+- Unless agreed otherwise, a party may, without notice to any other party, make a request for an interim measure together with a preliminary order (Art 17B(1) MAL 2006). 
+- The arbitral tribunal may grant a preliminary order if it considers that prior disclosure of the request risks frustrating the purpose of the measure (Art 17B(2) MAL 2006). Notice of the order must be provided immediately after the order is made (Art 17C(1) MAL 2006). 
+- Further, the tribunal must give the party against whom a preliminary order is directed to present its case (Art 17C(2) MAL 2006). 
+- The order has a life span of 20 days but this may be varied after hearing the party subject to the order (Art 17C(4) MAL 2006). 
+- Such a preliminary order is binding on the parties but is neither an award nor is subject to enforcement by a court (Art 17C(5) MAL 2006). 
+
+The 2006 Model Law contains safeguards to prevent abuse of the interim measures regime: 
+- Arbitral tribunal may modify, suspend or terminate interim measure at any time (Art 17D MAL 2006). 
+- It may require appropriate security to be provided (Art 17E MAL 2006). 
+- It may require the requesting party to make prompt disclosure of any material change in the basis on which the measure was requested or granted (Art 17F MAL 2006). 
+- The party requesting the measure is liable for any costs or damages caused by the interim measure if the arbitral tribunal determines that the measure should not have been granted (Art 17G MAL 2006)
+
+INTERIM MEASURES ORDERED BY THE COURT 
+When do you need to go to court? 
+- Where tribunal has not yet been constituted, parties may seek (urgent) provisional measures from a court to protect against immediate harm. 
+- An interim measure may not be enforceable internationally under the NYC and may need to be requested directly from a court at the place of execution. 
+- If the interim relief sought would ultimately require court assistance, such as the attachment of a bank account, going to court immediately would save time. 
+- Tribunal may not have the powers to order interim measures.
+
+Some interim measures under court 
+Instead of adopting the 2006 MAL, the legislature instead decided to enact s 12A IAA – this allows parties to go to SGHC to seek interim relief 
+- The court has the power to make an order of any of the matters set out in s 12(1)(c) to (i) IAA (S 12A(2) IAA). 
+o These are listed above 
+- If it is urgent, the SGHC may make such orders as it thinks necessary for the purpose of preserving evidence or assets (s 12A(4) IAA). 
+- If it is not urgent, the SGHC will only grant interim relief if the application is made the permission of the arbitral tribunal or the agreement in writing of the other parties (s 12A(5) IAA). 
+- In every case, the SGHC will make an order only to the extent that the arbitral tribunal or institution has no power, or is unable for the time being to act effectively (s 12A(6) IAA). 
+- In any event, the SGHC may refuse to make an order if the fact that the seat is outside Singapore or likely to be outside Singapore makes it inappropriate to make such an order (s 12A(3) IAA).
+
+The court can order interim measures whether or not the seat of arbitration is Singapore (s 12A(1)(b) IAA; overruling Swift-Fortune v Magnifica [2006] SGCA 42).
+
+In determining whether the injunction should be granted or upheld, the test is whether the balance of convenience lies in favour of granting or upholding the injunction (Maldives Airports v GMR Male [2013] SGCA 16 at [53]). 
+- In Maldives Airports, the SGCA found that the balance of convenience was not in favour of granting or upholding the injunction. First, damages would be an adequate remedy. Second, there were practical problems with the enforcement of the injunction. The broad scope of the injunction meant that the Maldives government would not have any certainty of what was required of them to comply with the injunction. Moreover, the injunction required an unaccepted degree of supervision in a foreign land given that its terms were vague and broad. Accordingly, the injunction was set aside.
+
+
+ENFORCEMENT OF INTERIM MEASURES
+Tribunal seated in SG 
+All orders and directions made or given by an arbitral tribunal is, by leave of the SGHC, enforceable in the same manner as if they were orders made by a court (s 12(6) IAA)
+
+Foreign tribunal 
+Enforcement in Singapore
+- Interim orders or directions by foreign tribunals are enforceable in Singapore
+- Part III of the IAA (regarding the enforcement of foreign awards) defines an “arbitral award” to include an order or direction given by an arbitral tribunal (s 27(1) IAA). 
+- However, it should also be noted that the court in Singapore can refuse to enforce the interim order or direction under any of the grounds set out in s 31 IAA (same grounds for refusing enforcement of an award).
+
+Enforcement in general 
+- Might be difficult to enforce in a jurisdiction that doesn’t have the equivalent of s 27(1) IAA (which defines “award” to include interim orders)
+- NY Convention itself does not deal with the enforcement of directions, but only awards 
+
+Enforcement in country which has adopted MAL 2006: 
+- However, if the jurisdiction where enforcement is sought has adopted the MAL 2006, enforcement of the interim measure may be sought under Art 17H MAL 2006, which states that an interim measure issued by an arbitral tribunal shall be recognised as binding and is enforceable irrespective of the country it was issued. 
+- However, this is subject to Art 17I MAL 2006, which provides for grounds for refusing recognition or enforcement of an interim measure. 
+- The grounds for refusal in Art 36 are applicable. 
+- Accordingly, any interim measure issued by an arbitral tribunal would be enforceable in a Model Law country that has adopted Art 17I MAL 2006 without needing to consider the applicability of the New York Convention
+
+*5. Awards 
+The arbitrator’s duty to make decision in an arbitration is not delegable (Neale v Richardson). 
+- The test is whether there is excessive delegation of function is whether the arbitrator had exercised his own judgment in accepting or rejecting the opinions or advice given (Anderson v Wallace). 
+- Improper or excessive delegation of a tribunal’s functions may render the award challengeable as being not made in accordance with the agreed procedure or on the ground that the tribunal was improperly constituted.
+
+REMEDIES THAT TRIBUNAL CAN AWARD
+- (i) damages and interest; 
+- (ii) specific performance; 
+- (iii) declaratory orders, 
+- (iv) rectification, 
+- (v) indemnity against liability from third party claims; 
+- (vi) costs.
+
+Other stuff
+- The arbitral tribunal, in deciding the dispute that is the subject to the proceedings may award any remedy or relief that could have been made by the SGHC if the dispute had been the subject of civil proceedings in that court (s 12(5)(a) IAA). 
+- Further, the tribunal may award simple or compound interest on the whole or any part of the sum (s 12(5)(b) IAA).
+
+Costs
+- The final award will usually include an order on costs 
+- Three primary options 
+o Reasonable costs to be borne by the overall losing party.
+o Reasonable costs to be allocated on a proportional basis.
+o Each party is to bear its own costs.
+- Attempted argument to set aside costs for being disproportional as to be against public policy
+o Got shot down in VV v VW SGHC 
+
+WHAT IS AN “AWARD” ANYWAY? 
+Relevance
+- Only decisions that are “awards” can be the subject of setting aside proceedings and can be enforced under the NY Convention 
+
+How to know whether you’re looking at an award 
+- A key characteristic of an award under the IAA is finality, in the sense that, subject to narrow exceptions, the arbitral tribunal may not thereafter revisit or revise an award that it has made: s 19B of the IAA
+- An “award” is not defined in the New York Convention. However, it is defined in s 2(1) IAA as a decision of the arbitral tribunal on the substance of the dispute and includes any interim, interlocutory or partial awards but excludes any orders or direction. 
+- The mere titling of a document as an award does not make it an award. It is the substance and not the form that determines the true nature of the ruling of the tribunal (PT Asuransi v Dexia Bank [2006] SGCA 41 at [70]).
+
+Types of “awards” that “don’t exist” under Singapore law 
+- Orders and directions 
+o Cannot be set aside, but count as awards under s 27(1) IAA for the purposes of enforcement in Singapore 
+- A decision on jurisdiction alone does not qualify as an “award” under Singapore law – PT Asuransi v Dexia Bank [2006] SGCA 41
+o But a decision on jurisdiction together with an award does count as an award – basically if it’s in the same document 
+- Provisional award 
+o Caselaw tells us that you can have an interim award, or partial award, but not a provisional award 
+* Find the case in study notes – sounds like PT Perusahan or something like that 
+o What are the kinds of awards? 
+* Partial award – where some claims are disposed of and some are left for a later stage of arbitration proceedings. Money is awarded 
+* Interim award – on issues like the governing law, existence of time bar, construction of a pr ovision etc. – these are considered interim because they don’t award money 
+* Provisional award – can be amended by arbitrator during the timeline of arbitration, or set aside 
+o Provisional awards are not considered to be awards under Singapore law 
+o In practice, it’s quite rare for provisional awards to be given 
+o But note that the definition of “award” under IAA includes all of the above awards for the purposes of Part III of the IAA, for foreign awards. This means that foreign awards, however phrased, will be supported by the Singapore courts. The definition of award in this part is much broader 
+o For non-foreign awards, we fall back to the Singapore default position, which is that provisional awards are not 
+* Meaning that you can’t set aside interim relief orders or provisional awards 
+
+Types of award 
+- Final award 
+o Arbitral proceedings are terminated by the final award (Art 32(1) MAL)
+- Interim/partial awards: These are “awards made in the course of the arbitral proceedings that dispose of certain preliminary issues or certain claims for relief prior to the disposition of all the issues in the arbitration”: PT Perusahaan Gas Negara (Persero) TBK v CRW Joint Operation [2015] 4 SLR 364. 
+o Specifically: 
+* Interim awards typically refer to awards that are dispositive of discrete issues relevant the claims between the parties, but not a particular claim. 
+* Partial awards typically refer to awards that are finally dispositive of certain claims.
+- Provisional rulings (not awards in Singapore!): a determination which is not final, can be changed by the arbitrator before the end of proceedings 
+o An example would be interim measures of protection. They are “intended to preserve a factual or legal situation so as to safeguard rights the recognition of which is sought from the tribunal having jurisdiction as to the substance of the case”, “do not definitively or finally dispose of either a preliminary issue or a claim in an arbitration”, and are “inherently capable of being varied in due course”: Persero at [49]-[50]. 
+o The definition of an award under the IAA does not include awards that are provisional. “Provisional awards” are proscribed by s 19B of the IAA. 
+o In practice, quite rare for provisional awards to be granted 
+- Consent awards: award on agreed terms or settlement award. 
+o When parties settle their dispute during the arbitration, they may request the tribunal to record their settlement in the form of a consent award (see Art 30 MAL). 
+- Default awards: If the party refuses to participate in the arbitration, the arbitral tribunal may proceed in the absence of the party and render an award (see Art 25(c) MAL). 
+- Additional awards: Where the tribunal addresses issues which it failed to determine during arbitration proceedings (see Art 33(3) MAL)
+
+
+CAN THE TRIBUNAL REVISIT AN AWARD? 
+The arbitral tribunal may revisit an award only in the limited circumstances provided in Articles 33 and 34(4) of the Model Law, namely: 
+- (a) to correct in the award any errors in computation, clerical or typographical errors, or errors of similar nature; 
+- (b) to give an interpretation of a specific point or part of the award; or 
+- (c) where a court that has been asked to set aside the award suspends the setting-aside proceedings in order to give the tribunal an opportunity to resume the arbitral proceedings or to take such other action as in the arbitral tribunal’s opinion will eliminate the grounds for setting aside.
+
+CONTENT AND FORM OF AWARDS 
+Content of award 
+- Made in writing, signed by arbitrator 
+- In proceedings with more than one arbitrator, the signatures of the majority will suffice, provided that the reason for any omitted signature is stated (Art 31(1) MAL). 
+- The award shall state the reasons upon which it is based, unless the parties have agreed otherwise (Art 31(2) MAL). 
+- The award shall state its date and place of arbitration, and shall be deemed to have made at that place (Art 31(3) MAL).
+
+Scrutiny and time limits for rendering awards 
+See para 200 of Study Guide
+Dissenting judgments 
+See para 203 of Study Guide
+
+CORRECTION AND INTERPRETATION OF AWARDS 
+Correction of award (Art 33(1)(a) MAL; s 43 AA; 1st Schedule IAA)
+- Within 30 days of receipt of award (unless another time period has been agreed upon) 
+- Party may, with notice to the other party, request the tribunal to correct in the award any error in computation, any clerical or typographical errors or errors of a similar nature. 
+- If the tribunal considers the request to be justified, it shall make the correction within 30 days of receipt of the request 
+
+Alternatively, the tribunal can make such correction itself within 30 days from the date of the award – Art 33(2) MAL 
+
+Interpretation of award 
+- Within 30 days of receipt of an award (unless another time period has been agreed upon), 
+- if so agreed by the parties, 
+- a party, with notice to the other party, may request the arbitral tribunal to give an interpretation of a specific point or part of the award. 
+- If the tribunal considers the request to be justified, it shall make the interpretation within 30 days of receipt of the request. 
+- The interpretation shall form part of the award (Art 33(1)(b) MAL)
+
+Additional award 
+- A party, with notice to the other party, may request, within 30 days of receipt of the award, the arbitral tribunal to make an additional award as to claims presented in the arbitral proceedings but omitted in the award. 
+- If the tribunal considers the request to be justified, it shall make the additional award within 60 days (Art 33(3) MAL).
+
+is subject to a bit of gymnastics – Practical example 
+- Claimant succeeds at arbitration for unpaid debts plus interest. But after tribunal releases award, claimant looks at the award and notices some discrepancies, i.e. it asked for interest to run from the date each invoice came in. So claimant could ask for additional award, arguing that this was an issue or claim that had not been decided 
+- But respondent would argue that the claim had been fully ventilated, but the tribunal decided that interest was going to run from a fixed time 
+- So this shows that both sides can use the application for additional award to ask the tribunal to potentially revisit issues that have already been decided 
+
+Extension of time
+The tribunal may extend the period of time within which it shall make a correction, interpretation or additional award – Art 33(4) MAL 
+
+SETTING ASIDE OF AWARD 
+See below directly 
+
+
+*6. What if an unfavorable award has been made against you?
+2 main approaches: 
+- Apply at the seat of arbitration to set aside the award (the active approach) 
+- Wait for the counterparty to bring enforcement proceedings in whatever jurisdiction, then resist enforcement of the award in that jurisdiction (the passive approach) 
+
+
+**APPLYING TO SET ASIDE THE AWARD 
+Procedural aspects 
+Recap – finality of awards 
+- A valid award made by the tribunal is final and binding on the parties (s 19B(1) IAA; Rule 28.9 SIAC). 
+- Except as provided in Art 33 or 34(4) MAL, the arbitral tribunal shall not vary, amend, correct, review, add to or revoke the award (s 19B(2) IAA)
+- Errors of law or fact made in an arbitral decision are final and binding on the parties and may not be appealed against or set aside by a court (PT Asuransi v Dexia Bank)
+
+Relevant provisions 
+- S 48 AA
+- s 24 IAA + 1st Schedule (Art 34 Model Law) 
+
+Exceptions to finality (ways to resist the award) 
+- Apply to the courts at the seat to set aside the award within the stipulated timeframe under the lex arbitri 
+o A court may not set aside a foreign award – the setting aside application must be made at the seat 
+- Wait until enforcement action is taken by the award creditor, then resist enforcement in that jurisdiction 
+o Likely that the laws of that jurisdiction would mirror the NYC since most states are signatory to the NYC 
+
+Setting aside and resisting enforcement are cumulative options 
+- You can choose to do either or both 
+- The fact that the award debtor chooses not to apply to set aside the award does not preclude him from resisting enforcement of the award, and the converse is true as well 
+
+Assuming the seat of arbitration is Singapore, Art 1(2) MAL prescribes that an Art 34 MAL setting aside application must take place in Singapore, and it must be made before the Singapore High Court, the court specified in the IAA for the purposes of Art 6 MAL.
+
+Grounds for setting aside 
+The grounds are exhaustive and found in Art 34(2) MAL [and s 24 IAA, if the arbitration is seated in Singapore]. Apart from these grounds, a court has no power to investigate the merits of the dispute.
+
+Art 34(2)(a) MAL – the party making the application furnishes proof that: 
+(i) a party to the arbitration agreement was under some incapacity; or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of this state; or 
+(ii) the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitral proceeding or was otherwise unable to present his case; or 
+(iii) the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the award which contains decisions on matters not submitted to arbitration may be set aside; 
+(iv) the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this law from which the parties cannot derogate, or failing such agreement, was not in accordance with this Law; 
+
+OR 
+
+Art 34(2)(b) MAL – the court finds that (the court may raise these grounds on its own initiative) 
+(i) The subject matter of this dispute is not capable of settlement by arbitration under the law of this state; or 
+(ii) the award is in conflict with the public policy of this state.
+
+Additional grounds under s 24 IAA 
+(a) the making of the award was induced or affected by fraud or corruption; 
+(b) a breach of the rules of natural justice occurred in connection with the making of the award by which the rights of any party have been prejudiced.
+
+Timing of setting aside application 
+Setting aside application must be made within 3 months from the date on which the party making that application received the award – Art 34(3) MAL 
+- The Singapore courts have no discretion to extend the time period 
+- After the expiry of 3 months, the court will not entertain any application lodged (ABC Co v XYZ Co [2003] SGHC 107 at [9]; Bloomberry Resorts v Global Gaming [2021] SGCA 9
+o Singapore courts have said that the deadline is absolute, even if fraud is alleged 
+o The reason apparently is because if you miss the deadline for setting aside, you can still resist enforcement of the award anyway 
+
+Court’s discretion not to set aside the award 
+Art 34(2) MAL states that the court “may” set aside the award if any of the grounds is satisfied. As such, the court retains a discretion NOT to set aside the award even if one of the grounds has been established.
+
+Consequences 
+A court hearing a challenge to an award may: 
+- Set aside the award in whole or in part. 
+- Vary parts of the award. 
+- Remit the award to the arbitral tribunal for reconsideration.
+o Under Art 34(4) MAL, the court, when asked to set aside an award, may, where appropriate and so requested by a party, suspend the setting aside proceedings for a period of time in order to give the arbitral tribunal an opportunity to resume arbitral proceedings or to take such other action as in the arbitral tribunals opinion will eliminate the grounds for setting aside. 
+o Note that in CBS v CBP [2021] SGCA 4, the SGCA held that it did not have the power to remit award back to the tribunal because, among other reasons, the issue of remittal was not raised before the SGHC in the first instance. 
+- Refuse to set aside the award (even despite the applicant having established one or more grounds) 
+
+
+**APPLYING TO RESIST ENFORCEMENT 
+Legal framework 
+Resisting enforcement of a Singapore award 
+- Default position in Singapore is that international arbitration awards may be enforced as judgments or orders of the court – s 19 IAA 
+- There are no statutory provisions setting out when leave for enforcement of domestic awards would be refused under the IAA 
+- But SGCA has held that the same grounds for resisting enforcement under Art 36(1) MAL (which is excluded under the IAA) are equally available to a party resisting enforcement of a domestic international award under s 19 IAA (at [84]). 
+o S 19 IAA – enforcement of award is done with permission of the GDHC 
+o Even though Art 35 and 36 is expressly excluded by s 3(1) IAA, it was done so to maintain Singapore’s reciprocity reservation under the NYC (at [86]). Parliament did not intend to exclude the “choice of remedies” policy of the Model Law and must have intended for courts to retain the power to refuse enforcement of international arbitration awards made in Singapore (at [87]).
+
+Resisting enforcement of foreign awards: 
+- S 31(1) IAA – Refusal of enforcement 
+o In any proceedings in which the enforcement of a foreign award is sought by virtue of this Part, the party against whom the enforcement is sought may request that the enforcement be refused, and the enforcement in any of the cases mentioned in subsections (2) and (4) may be refused but not otherwise.
+- S 27 IAA – definition of “foreign award” 
+o “foreign award” means an arbitral award made pursuant to an arbitration agreement in the territory of a Convention country other than Singapore.
+
+The grounds are listed below 
+
+Misc. points on enforcement in NY Convention countries
+The NYC applies to the recognition and enforcement of foreign awards or awards not considered as domestic awards in the state where their recognition and enforcement is sought (Art I(1) NYC). 9.2.2 
+
+Reservations 
+- Reciprocity reservation: A contracting state may limit the NYC’s scope of application by declaring that it will apply the convention to the recognition and enforcement of awards made only in the territory of another contracting state (Art I(3) NYC). Numerous countries in the region have made a reciprocity reservation, including India, Indonesia, Japan, Korea, China, Malaysia, New Zealand, Pakistan, The Philippines, Singapore, Vietnam. 
+- Commercial reservation: A contracting state may limit the NYC’s scope of application to differences arising out of legal relationships which are considered as commercial under the national law of the state making such declaration (Art I(3) NYC). 
+
+Obligation to recognise and enforce arbitral awards 
+- A state that is party to the New York Convention is obliged to recognise arbitral awards as binding and enforce them (Art III NYC). 
+
+Bilateral and multilateral enforcement agreements – NYC will yield to a more favorable right to enforce an award 
+- NYC does not affect the validity of bi-/multilateral agreements concerning the recognition and enforcement of arbitral awards, or deprive the any interested party of any rights under the treaty or law of that country 
+- See para 238 of the Study Guide for more 
+
+Procedure for enforcement 
+Foreign awards are enforceable and recognized as binding – (s 29(1), (2) IAA; Art III NYC)
+- Foreign awards are awards made pursuant to an arbitration agreement seated outside Singapore – s 27(1) IAA 
+
+- Produce to the court (a) the duly authenticated original award or a certified copy; (b) the original arbitration agreement under which the award is made or a duly certified copy; and (c) a translation in English if the award or agreement is in a foreign language (s 30(1) IAA; Art IV NYC)
+- 2 stage process
+o Ex parte application for leave to enforce the award 
+* Supported by affidavit satisfying the relevant Rule of Court - eg it must exhibit the arbitration agreement and the award, state the name and the usual or last known place of business of the award creditor and debtor, and state either that the award has not been complied with or the extent to which it has not been complied with at the date of the application
+o Court then grants leave to enforce, which the creditor must serve on the debtor
+o Debtor may challenge enforcement within 14 days after service 
+* If order is served out of jurisdiction, within such other period as the court may fix
+- If the award debtor does not challenge the enforcement order within the stipulated timeframe, the award creditor may proceed to enter judgment-in-terms of the award, which can then be executed against assets of the award debtor in Singapore. 
+- If the award debtor does challenge the enforcement order based on or more of the exhaustive grounds listed in ss 31(2) and 31(4) of the IAA (for foreign awards) or Art 36 MAL read with s 19 of the IAA (for local awards), the proceedings move to a second inter partes phase, where the SGHC will have to decide on the challenge.
+
+Grounds for refusal of enforcement 
+General principles 
+- The grounds for resisting enforcement of an award in Singapore mirror the grounds for setting aside an award made in Singapore. This is because the drafters of the MAL deliberately took reference from the NYC
+o I think s 24(a) and (b) (fraud and natural justice) objections for setting aside do not apply to resisting enforcement 
+- A court hearing the application for enforcement of a foreign award cannot review the case on the merits. Errors of law or fact per se are final and binding on the parties (PT Asuransi v Dexia Bank at [57]).
+- A court may refuse enforcement only if certain grounds are met (Art V NYC; s 31 IAA; Art 36 MAL). 
+- In determining whether the ground for refusing establishment was established, the enforcement court is entitled to undertake a fresh examination of the issues alleged to establish the ground of challenge (First Media v Astro [2013] SGCA 57 at [164]) [i.e. standard of review is de novo].
+- In most cases, the court will accord deferential treatment to the tribunal on matters of procedure (other than issues of jurisdiction) – the tribunal is the master of its own process. The court will be very slow to rule on the correctness of the tribunal’s decisions on matters of procedure 
+o Exceptions for extreme cases 
+
+Recognition and enforcement of the award may be refused only if the party against whom it is invoked proves that: 
+- Incapacity: A party to the arbitration agreement was, under the law applicable to him, under some incapacity at the time the agreement was made (s 31(2)(a) IAA; Art V(1)(a) NYC; Art 36(1)(a)(i) MAL); 
+- Invalidity of arbitration agreement: The arbitration agreement is invalid under the law to which the parties have subjected it, or in the absence of any choice, under the law of the country where the award was made (s 31(2)(b) IAA; Art V(1)(a) NYC; Art 36(1)(a)(i) MAL); 
+o [Note: this is the provision relied upon when an award debtor alleges that the tribunal does not have jurisdiction for reasons such as an invalid or non-existent arbitration agreement.] 
+- Lack of notice: He was not given proper notice of the appointment of the arbitrator OR of the arbitration proceedings OR was otherwise unable to present his case in the arbitration proceedings (s 31(2)(c) IAA; Art V(1)(b) NYC; Art 36(1)(a)(ii) MAL); 
+- Subjective non-arbitrability: The award deals with a difference not contemplated by, or not falling within the terms of the submission to arbitration, or contains a decision on the matter beyond the scope of the submission to arbitration. 
+o However, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which contains decisions on matters submitted to arbitration may be recognised and enforced (s 31(2)(d) IAA, s 31(3) IAA; Art V(1)(c) NYC; Art 36(1)(a)(iii) MAL); 
+- Issues with composition of tribunal: The composition of the arbitral authority or the arbitral procedure was not in accordance with the agreement of the parties, or failing such agreement, was not in accordance with the law of the country where the arbitration took place [i.e. lex arbitri] (s 31(2)(e) IAA; Art V(1)(d) NYC; Art 36(1)(a)(iv) MAL); or 
+o This also includes the situation where the impartiality of a member of the tribunal is called into question 
+- Award is not yet binding: The award has not yet become binding on the parties to the arbitral award or has been set aside or suspended by a competent authority under the law the award was made (s 31(2)(f) IAA; Art V(1)(e) NYC; Art 36(1)(a)(v) MAL). 
+The individual grounds are elaborated on below 
+
+Further grounds – may be proven or enforcement court may raise these grounds on its own initiative: 
+- Objective non-arbitrability: The subject matter of the difference between the parties is not arbitrable under the law of the law of the country where enforcement is sought (s 31(4)(a) IAA; Art V(2)(a) NYC; Art 36(1)(b)(i) MAL); or 
+- Public policy: Enforcement of the award would be contrary to the public policy of the country where enforcement is sought (s 31(4)(b) IAA; Art V(2)(b) NYC; Art 36(1)(b)(ii) MAL).
+The individual grounds are elaborated on below 
+
+
+Lack of notice – Art V(1)(b). 
+- The challenging party was not given proper notice of the appointment of the arbitrator or of the arbitration proceedings or was otherwise unable to present his case in the arbitration proceedings (s 31(2)(c) IAA; Art V(1)(b) NYC; Art 36(1)(a)(ii) MAL). [Setting aside provision: Art 34(2)(a)(ii) MAL]
+- A restraint on the ability to present one’s case is often described as constituting a breach of natural justice rules or a denial of due process.
+- Singapore courts have indicated that there is a high threshold for proving a denial of due process 
+- Elements (John Holland Pty Ltd (formerly known as John Holland Construction & Engineering Pty Ltd) v Toyo Engineering Corp (Japan))
+o Which rule of natural justice was breached: either
+* No one shall be a judge in his own case (nemo iudex in causa sua) 
+* Each party is to be given the opportunity to be heard (audi alteram partem) 
+o How that particular rule of natural justice was breached 
+o In what way the breach of natural justice connected with the making of the award 
+o How the breach prejudiced the rights of the party concerned 
+- Court will not scrutinize an award to find defects in process – Soh Beng Tee v Fairmount [2007] SGCA 28
+o Award should be read generously such that only meaningful breaches of the rules of natural justice that have actually caused prejudice are ultimately remedied
+- IMPORTANT – if you claim breach of natural justice, you must raise the point before the tribunal: China Machine New Energy Corp v Jaguar Energy Guatemala LLC & Another [2020] 1 SLR 695
+o If a party intends to contend that there has been a fatal failure in the process of the arbitration, then there must be fair intimation to the tribunal that the complaining party intends to take that point at the appropriate time if the tribunal insists on proceeding. 
+o The complaining party, at the very least, should seek to suspend the proceedings until the breach has been satisfactorily remedied. The complaining party cannot simply “reserve” its position until after the award to see how the result turns out before deciding whether or not to take the point.
+o This decision will serve to reduce the risk of abuse by parties – should not be allowed to hold a natural justice objection up your sleeve. Must bring up the issue as soon as something goes wrong and you’re aware of it 
+* The court in China Machine was trying to solve a certain problem where the parties like to cite natural justice after they lose the arbitration, e.g. “I wasn’t given sufficient notice of the arbitration”, or “I reserve my right to natural justice objection because you didn’t give me extension of time”
+o If you didn’t raise the issue, then you can’t hedge your bets against the award 
+- Examples of successful natural justice challenges
+o The arbitral tribunal failed to consider an important issue that had been pleaded in an arbitration (Front Row Investment Holdings (Singapore) Pte Ltd v Daimler South East Asia Pte Ltd [2010] SGHC 80). 
+o The arbitral tribunal failed to give an opportunity to the aggrieved party to address the tribunal on a claim raised at the eleventh hour before rendering the award and was aware that the aggrieved party had not addressed the claim (AKN v ALC). 
+o The arbitral tribunal failed to give an opportunity to the aggrieved party to address the tribunal on issues to be decided in an additional award to be rendered under Article 33 of the Model Law (L W Infrastructure). 
+- Common arguments which failed in support of breach of natural justice challenges include the following: 
+o The arbitral tribunal misunderstood the case presented and so did not apply its mind to the actual case of the aggrieved party. 
+o The arbitral tribunal did not mention the arguments raised by the aggrieved party and so must have failed to consider that party’s actual case. 
+o The arbitral tribunal must have overlooked a part of the aggrieved party’s case because it did not engage with the merits of that part of the party’s case. 
+o Some of these are technical challenges and usually disguise the true nature of the complaint – that the arbitral tribunal made errors of law and/or fact in the arbitral award.
+
+Irregularity in procedure or composition of arbitral tribunal – Art v(1)(d) 
+- An award may be refused enforcement on the grounds that the composition of the arbitral authority or the arbitral procedure was not in accordance with the agreement of the parties, or failing such agreement, was not in accordance with the lex arbitri (s 31(2)(e) IAA; Art V(1)(d) NYC; Art 36(1)(a)(iv) MAL) [Setting aside provision: Art 34(2)(a)(iv) MAL]
+- Party may be deemed to have waived his right to a procedural irregularity if it proceeds with arbitration without stating objection in a timely manner, despite having knowledge of it – Art 4 MAL, Rule 37.1 SIAC 
+- Use this ground when you allege bias on the part of the arbitrator – see below 
+- Note – still subject to residual discretion, especially if the court considers that the irregularity is unlikely to have affected the outcome of the case 
+
+Award has been set aside – Art V(1)(e) 
+- An award may be refused enforcement on the ground that it has been set aside or suspended by a competent court at the seat of arbitration (s 31(2)(f) IAA; Art V(1)(e) NYC; Art 36(1)(a)(v) MAL).
+- SGCA dicta – SG court will not enforce an award that has been set aside at the seat – the effect of a setting aside is that there is no award left to enforce 
+- Caution – this isn’t a universal position – some jurisdictions (e.g. US) says that this is only a general rule. If the setting aside is not in accordance with the court’s standards of justice and fairness, they may enforce the award anyway 
+
+Public policy – Art V(2)(b) 
+- A court, of its own initiative, can consider that an award may be refused enforcement on the ground that it is against the public policy in the state it is located (s 31(4)(b) IAA; Art V(2)(b) NYC; Art 36(1)(b)(ii) MAL).
+- In Singapore, scope of public policy is narrow – only operates in instances where upholding the arbitral award would “shock the conscience” or is “clearly injurious to the public good” or “wholly offensive to the ordinary, reasonable and fully informed member of the public” or “where it violates the forum’s most basic notion of morality and justice” (PT Asurani v Dexia Bank [2006] SGCA 41).
+- How to contest public policy
+o Remedies ordered by the award are against public policy 
+o The award gives effect to an underlying contract that is illegal or tainted with illegality (most common) 
+o How the award was procured is contrary to public policy 
+- On the 2nd point – underlying contract tainted with illegality 
+o Ordinarily, the tribunal would already have dealt with the legality of the underlying contract. The question is to what extent the court should reopen that issue of illegality 
+o SGCA in AJU v AJT [2011] SGCA 41 appears to have held that only errors of law made by the tribunal as to the content of the forum’s public policy is subject to re-opening by that forum, but not otherwise.
+o An interpretation of AJU v AJT in VBX v CBZ 
+* Where underlying contract is Singapore law and the tribunal finds it not illegal, the court can reopen 
+* Where underlying contract is foreign law and the tribunal finds it not illegal, the court should only reopen where there is “palpable and indisputable illegality” 
+* In all other cases, unable to intervene 
+* This interpretation has not been considered by SGCA 
+- In several cases, the SGHC has held that, on the facts, even if there was illegality, it would not rise to the level necessary to justify setting aside the award based on the public policy ground: see Gokul Patnaik v Nine Rivers Capital Limited
+
+A fundamental one – error in Tribunal’s choice of seat is itself reason to refuse enforcement – ST Group Co Ltd and others v Sanum Investments Limited and another appeal [2019] SGCA 65
+- Consequence when the Singapore courts find that the tribunal had ascertained the seat of the arbitration wrongly – will not enforce 
+- In such cases, the issue falls within the jurisdictional basket of issues, since getting the seat wrong is akin to getting the issue of jurisdiction wrong. Thus the court will happily interfere and not allow enforcement of award (treating it as a jurisdictional defect rather than a procedural defect).
+
+Court’s residual discretion to order enforcement 
+Even if a refusal ground is established, the court still has a residual discretion to order enforcement. This is because Art V(1) states that enforcement “may be refused”, making refusal discretionary
+
+Adjournment of enforcement proceedings
+Occurs where simultaneous applications are made:
+- By the losing party to set aside the award at the seat 
+- By the winning party to enforce the award in another country 
+
+Enforcement court has discretion to adjourn the enforcement proceedings 
+- Adjournment is not automatic 
+- Factors – MAN Diesel v Turbo SE:
+o Merits of the setting aside application 
+o Likely consequences occasioned by an adjournment, notably the length of the adjournment 
+o Any other relevant factors 
+o Note that the court has a wide discretion 
+
+See para 266 onwards of Study Guide 
+
+ONE OTHER APPROACH – APPEAL AGAINST AWARD (AA ONLY) 
+Appeal against award
+49.—(1)  A party to arbitral proceedings may (upon notice to the other parties and to the arbitral tribunal) appeal to the Court on a question of law arising out of an award made in the proceedings.
+[12/2012]
+(2)  Despite subsection (1), the parties may agree to exclude the jurisdiction of the Court under this section and an agreement to dispense with reasons for the arbitral tribunal’s award is to be treated as an agreement to exclude the jurisdiction of the Court under this section.
+(3)  An appeal must not be brought under this section except —
+(a)with the agreement of all the other parties to the proceedings; or(b)with the permission of the Court.
+[Act 25 of 2021 wef 01/04/2022]
+(4)  The right to appeal under this section is subject to the restrictions in section 50.
+(5)  Permission to appeal is to be given only if the Court is satisfied that —
+(a)the determination of the question will substantially affect the rights of one or more of the parties;(b)the question is one which the arbitral tribunal was asked to determine;(c)on the basis of the findings of fact in the award —
+(i)the decision of the arbitral tribunal on the question is obviously wrong; or(ii)the question is one of general public importance and the decision of the arbitral tribunal is at least open to serious doubt; and(d)despite the agreement of the parties to resolve the matter by arbitration, it is just and proper in all the circumstances for the Court to determine the question.
+[Act 25 of 2021 wef 01/04/2022]
+(6)  An application for permission to appeal under this section must identify the question of law to be determined and state the grounds on which it is alleged that permission to appeal should be granted.
+[Act 25 of 2021 wef 01/04/2022]
+(7)  The permission of the appellate court is required for any appeal from a decision of the Court under this section to grant or refuse permission to appeal.
+[40/2019]
+[Act 25 of 2021 wef 01/04/2022]
+(8)  On an appeal under this section, the Court may by order —
+(a)confirm the award;(b)vary the award;(c)remit the award to the arbitral tribunal, in whole or in part, for reconsideration in the light of the Court’s determination; or(d)set aside the award in whole or in part.
+(9)  The Court is not to exercise its power to set aside an award, in whole or in part, unless it is satisfied that it would be inappropriate to remit the matters in question to the arbitral tribunal for reconsideration.
+(10)  The decision of the Court on an appeal under this section is to be treated as a judgment of the Court for the purposes of an appeal to the appellate court.
+[40/2019]
+(11)  The appellate court may give permission to appeal against the decision of the Court in subsection (10) only if the question of law before it is one of general importance, or one which for some other special reason should be considered by the appellate court.
+Effect of order of Court upon appeal against award
+51.—(1)  Where the Court makes an order under section 49 with respect to an award, subsections (2), (3) and (4) apply.
+(2)  Where the award is varied by the Court, the variation has effect as part of the arbitral tribunal’s award.
+(3)  Where the award is remitted to the arbitral tribunal, in whole or in part, for reconsideration, the tribunal must make a fresh award in respect of the matters remitted within 3 months of the date of the order for remission or any longer or shorter period that the Court may direct.
+(4)  Where the award is set aside or declared to be of no effect, in whole or in part, the Court may also order that any provision that an award is a condition precedent to the bringing of legal proceedings in respect of a matter to which the arbitration agreement applies is of no effect as regards the subject matter of the award or (as the case may be) the relevant part of the award.
+
+
+*7. Constitution and challenge of arbitral tribunal 
+Number of arbitrators 
+- Parties are free to determine the number of arbitrators (Art 10(1) MAL). If the number of arbitrators is not determined by the parties:
+o The default number of arbitrators is three (Art 10(2) MAL).
+o Notwithstanding Art 10(2) MAL, there shall be a single arbitrator (s 9 IAA).
+
+Procedure of appointment
+- Parties are free to agree on a procedure of appointing the arbitrator(s) (Art 11(2) MAL).
+- This is a matter usually addressed by institutional rules.
+- Failing such agreement:
+o In an arbitration with 3 arbitrators:
+* Each party shall appoint one arbitrator, and the parties shall by agreement appoint the third arbitrator (s 9A(1) IAA). If the parties fail to agree on the appointment of the third arbitrator within 30 days of the receipt of the request to do so, the appointment shall be made by the appointing authority (s 9A(2) IAA). 
+o In an arbitration with a sole arbitrator:
+* If the parties are unable to agree on the arbitrator, he shall be appointed by the relevant authority specified in Art 6 (Art 11(3)(b) MAL)
+o Appointing authority: 
+* In Singapore, the High Court is the competent court while the President of the SIAC Court has been designated as the authority competent to perform the functions under Art 11(3) and (4) of the MAL (s 8(1), (2) IAA)
+
+CHALLENGING ARBITRATORS 
+Steps:
+- Step 1: What is the ground for challenge? ? Test of ‘reasonable suspicion’ ? Look at the IBA Guidelines on Conflicts of Interest in International Arbitration 
+- Step 2: What is the challenge procedure under the institutional rules or lex arbitri? 
+
+Principles 
+- An arbitrator has an ongoing duty to disclose any circumstances likely to give rise to justifiable doubts as to his impartiality or independence (Art 12(1) MAL). 
+- An arbitrator may be challenged if circumstances exist that give rise to “justifiable doubts as to his impartiality or independence, or if he does not possess qualifications agreed to by the parties” (Art 12(2) MAL). 
+- However, a party may challenge an arbitrator nominated by him only for reasons of which he becomes aware after the appointment was made (Art 12(2) MAL). 
+
+An objection must be made as soon as the grounds are known to the party seeking the challenge. Failure to do so may constitute a waiver (Art 4 MAL).
+
+Test for impartiality and independence 
+Types of bias possible 
+- Actual bias – obviously will disqualify the arbitrator
+- Imputed bias – also certain disqualification 
+o arises where a judge or arbitrator may be said to be acting in his own cause (nemo judex in sua causa) and this happens if he has, for instance, a pecuniary or proprietary interest in the case. 
+o In such a case, disqualification is certain without the need to investigate whether there is a likelihood or even suspicion of bias
+- Apparent bias – apply the “reasonable suspicion” test 
+
+
+In Singapore, the applicable test is one of “reasonable suspicion” 
+- The concern is not whether there is a real likelihood or possibility of bias, but whether a reasonable man without any inside knowledge might conclude that there was an appearance of it – Re Shankar Alan [2006] SGHC
+- E.g. where an arbitrator has private contact with one party or appears to have some personal correspondence from that party. While that there is no absolute rule against an arbitrator corresponding directly with the parties, this should only be done in very exceptional circumstances (Turner (East Asia) v Builders Federal (Hong Kong) [1988] SGHC 47
+- This is an objective test – PT Central Investindo v Francisus Wongso and ors and anor matter [2014] SGHC 190
+o the court is to find circumstances that exist which give rise to justifiable doubts. Once such doubts have been found, the applicant need not prove the existence of actual bias 
+o Whether a reasonable and fair-minded person with knowledge of all relevant facts would entertain a reasonable suspicion that the circumstances leading to the arbitral award might result in the arbitral proceedings being affected by apparent bias if the arbitrator was not removed
+- The hypothetical reasonable observer is presumed to be a lay-person who is 
+o (1) informed of the relevant facts and able to consider them in their proper context, 
+o (2) not wholly uninformed and uninstructed about the law in general or the issues to be determined in the proceedings,
+o (3) aware of the traditions of integrity and impartiality that persons who exercise adjudicative functions generally have to uphold, and 
+o (4) fair-minded in the sense of being neither complacent nor unduly sensitive or suspicious.
+- A reasonable suspicion or apprehension arises when the hypothetical reasonable observer would think, from the relevant circumstances, that bias is possible. 
+o The belief should not be fanciful and must be capable of articulation by reference to the available evidence. 
+o A standard of possibility (as opposed to probability) is adopted to ensure that from the public perspective the administration of justice is beyond reproach (BYL v BYN, at [51])
+
+Conflicts of interest 
+See para 122 of the Study Guide – IBA Guidelines on Conflicts of Interest 
+
+While they are (typically) not binding and do not have the force of law, the IBA Guidelines on Conflicts of Interest in International Arbitration (2014) are widely referred to by parties, arbitrators, and courts. 
+
+Essentially, there are tiers to the level of conflict of interest 
+- Non-waivable red list 
+- Waivable red list
+- Orange list
+- Green list 
+
+Challenge procedure 
+Addressed in most institutional rules 
+
+Possible scenarios: 
+- Arbitrator does not resign and opposing party contests the challenge. In this case, a decision on the merits of the challenge will have to be taken.
+- Opposing party agrees to the challenge. The arbitrator’s mandate ordinarily terminates, although an arbitrator may purport to remain on the panel despite all parties agreeing to remove him. 
+- Arbitrator resigns. However, tendering a resignation after being challenged should not be seen as an admission that the challenge was justified
+
+The MAL which applies where parties have not agreed to any relevant rules provides as follows: 
+- Parties are free to agree on a procedure for challenging an arbitrator (Art 13(1) MAL). 
+- If there is no agreement, a party who intends to challenge an arbitrator shall submit a written statement of reasons for challenge to the arbitral tribunal within 15 days after becoming aware of the circumstances that give rise to justifiable doubts as to the arbitrator’s impartiality or independence. Unless the challenged arbitrator withdraws or the other party agrees to the challenge, the arbitral tribunal shall decide on the challenge (Art 13(2) MAL). 
+- If the challenge is unsuccessful, the challenging party may, within 30 days, request the court to decide on the challenge, which decision shall be subject to no appeal. While such a request is pending, the tribunal may continue proceedings and make an award (Art 13(3) MAL).
+
+Failure or impossibility to act 
+If an arbitrator becomes de jure or de facto unable to perform his functions or for other reasons fails to act without undue delay:
+- his mandate terminates if he withdraws from office or if parties agree on the termination. 
+o Withdrawal by the arbitrator or agreement by the parties to terminate the arbitration does not imply acceptance of the validity of any ground for removal (Art 39 14(2) MAL). 
+- Otherwise, any party can request the court to decide on the termination of the mandate, which decision shall be subject to no appeal (Art 14(1) MAL). 
+- The mechanism in Art 14 MAL is different from Art 13 MAL (which deals with challenges as to independence and impartiality) because it provides a direct recourse to the court and is not time limited. 
+
+Replacement of arbitrator 
+- Where the mandate of an arbitrator terminates or because of his withdrawal from office, a substitute arbitrator is appointed according to the rules that were applicable to the appointment of the arbitrator being replaced (Art 15 MAL). 
+
+Setting aside or resisting enforcement of award on ground that arbitrator was not impartial 
+A party may attempt to set aside an award on the grounds that the arbitrator was not independent under Art 34(2)(a)(iv) MAL [composition of arbitral tribunal or arbitral procedure not in accordance with agreement of parties] or under s 24(b) IAA [breach of rules of natural justice where rights of party prejudiced]. 
+
+Timeline for setting aside – 3 months hard deadline, and without undue delay 
+- An application for setting aside may not be made after 3 months of receiving the award (Art 34(3) MAL). 
+o Singapore courts have said that the deadline is absolute, even if fraud is alleged 
+o The reason apparently is because if you miss the deadline for setting aside, you can still resist enforcement of the award anyway 
+- However, if the party fails to challenge the arbitrator’s lack of impartiality or independence without undue delay after becoming aware of the circumstances, he may be deemed to have waived his right to challenge the arbitrator (Art 4 MAL). 
+
+Enforcement of the award in Singapore may be resisted on the similar grounds, i.e. that composition of the arbitral tribunal or arbitral procedure was not in accordance with agreement of parties (Art V(1)(d) NYC; s 31(2)(e) IAA).
+
+Immunity of arbitrators and institutions 
+See para 133 of Study Notes 
+
+Arb-med (arbitrator acting as a mediator/conciliator) 
+See para 135 of Study Notes 
+
+[WW1]Take note of this

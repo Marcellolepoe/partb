@@ -1,0 +1,341 @@
+Letter of demand template:
+
+Writer’s contact: [ ]
+Writer’s DID: 6123 4567
+Email: [ ]
+
+Our reference: [ ]
+[date]
+
+[Recipient name/company]					BY EMAIL & REGISTERED POST
+[Recipient address] 
+Email: [Recipient email]
+
+Dear Sirs,
+
+DEMAND FOR OUTSTANDING DEBT OWED TO PREENTERS SUPPLIERS PTE LTD
+
+1. We act for Preenters Suppliers Pte Ltd (“Client”).
+
+2. We were instructed that on 3 June 2024, you placed an order for ink toners and cartridges on our Client’s online website. Upon receiving your order, our Client fulfilled and shipped it along with the invoice (Invoice No. 062024-19) (the “Invoice”) on 5 June 2024. The order was delivered to you in the afternoon of 5 June 2024. For your reference, we enclose herewith a copy of the invoice.
+
+3. Pursuant to the Invoice, you were required to make payment of the sum of S$24,000.00 (inclusive of 9% GST) (“Outstanding Sum”) within 14 days from the date of the Invoice, i.e. by 19 June 2024. However, you have failed to do so despite the Client’s repeated reminders on 4 instances: on 25 June 2024, 12 July 2024, 14 July 2024 and 5 August 2024.
+
+4. Our Client noted that during the reminder call to you on 25 June 2024, your accounts department acknowledged that you have received the Invoice and that it was still being processed for payment, together with an apology for the delayed payment. Furthermore, the Client was informed by you on a follow up call on 5 August 2024 that they were to refrain from chasing on the payment status and to wait for your follow up instead. To date, the outstanding sum remains unpaid.
+
+5. Accordingly, we are instructed to and HEREBY DO DEMAND THAT you pay the sum of S$24,000.00 (inclusive of 9% GST) plus any interest that has continued to accrue within 14 days from the date of this letter, failing which, we will commence legal proceedings against you for the recovery of the same without further reference or notice to you. In that event, our Client shall seek from you any and all costs incurred, together with interest.
+
+6. All our Client’s rights are hereby reserved.
+Yours sincerely,
+[signature]
+[name]
+[law firm]
+Encl.
+cc Client
+
+
+NB: 
+- It is improper to demand the costs of the letter of demand, as these are not recoverable at this stage of the proceedings (Law Society of Singapore Practice Direction 1.8.1)
+- When issue a letter of demand, legal practitioners must not demand anything in the letter that is not recoverable by due process of law (r 8(4) PCR)
+- In a civil claim where the debt remains unsatisfied, legal practitioners must not threaten the institution of any criminal proceedings against the debtor (r 8(5) PCR). As such, the client’s threat of filing a police report cannot be included in the letter
+
+
+Statement of Claim template:
+Pleadings must include: (1) Material facts, (2) Cause of action, (3) Elements of cause of action and (4) reliefs sought. Do not include arguments and opinions in pleadings.
+
+
+STATEMENT OF CLAIM
+
+PARTIES
+1. The Claimant is a company incorporated under the laws of Singapore and is in the business of [].
+
+2. The Defendant is a company incorporated under the laws of Singapore and is in the business of [].
+
+3. [Relationship between Defendant and Claimant] – e.g. The Defendant was at all material times a sub-contractor of the Claimant.
+
+[Header for background] e.g. “ORAL AGREEMENT FOR [ ]” 
+4. [Describe facts that form the background]
+5. [Can use tables and such to help organize the content]
+
+[Header for facts constituting the claim], e.g. “BREACH OF ORAL AGREEMENT BY [DEFENDANT]”
+6. [What did the Defendant do wrong – e.g. despite multiple reminders through channels X, Y and Z, the Defendant has failed, refused, and/or neglected to make payment of the said sum of $xxx.]
+7. [Clearly state your head of claim – e.g. In the circumstances, the Defendant is in breach of the Agreement.]
+8. [What loss did you suffer – e.g. By reason of the said breach, the Claimant has suffered loss and damage amounting to $279,000.00 with accrued interest.]
+
+AND THE CLAIMANT CLAIMS 
+(1) [bla – e.g. the sum of $282,000.00 or such other sum as this Honourable Court deems fit;]
+
+(2) [bla, e.g. alternatively, for damages to be assessed;]
+
+(3) [interest;]
+
+(4) costs; and
+
+(5) such further relief as this Honourable Court deems fit.
+
+Dated this [] day of December 2024. 
+I, [name of claimant], certify that all the statements above are true to the best of my knowledge and belief. 
+I, [name of solicitor], certify that I have informed the claimant of his obligation above. 
+
+________________	_____________________
+Claimant 		Solicitor for the claimant
+[Name]				[Name of solicitor]
+
+
+Defence to a SOC template:
+Pleadings must include: (1) Material facts, (2) Cause of action, (3) Elements of cause of action and (4) reliefs sought. Do not include arguments and opinions in pleadings.
+NB: if a portion of the SOC does not relate to your client (in a multi-party claim), you can write: “As the matters in Paragraph 4 above relate to the first and second Defendants, the third Defendant does not plead to the same.”
+
+
+DEFENCE
+(HC/OC 3333/2024)
+
+DEFENCE
+
+Parties
+
+1. The Claimant is a company incorporated under the laws of Singapore and is in the business of providing interior design and such related services.
+1.1. Paragraph 1 of the Statement of Claim is admitted.
+
+2. The Defendant is a company incorporated under the laws of Singapore and is in the business of providing renovation related services.
+2.1. Paragraph 2 of the Statement of Claim is admitted.
+
+3. The Defendant was at all material times a sub-contractor of the Claimant.
+3.1. Paragraph 3 of the Statement of Claim is denied. The Claimant is not a sub-contractor of the Defendant. There was no main-contractor and sub-contractor relationship.
+
+Oral Agreement For Commissions
+4. By way of an oral agreement made on 14 February 2024, it was agreed by the Defendant that in relation to any and all renovation projects that were referred by the Claimant, there would be a 10% commission on the contract sum (less taxes) that would be payable to the Claimant (“Oral Agreement”).
+4.1. Save that the Defendant accepts there was an Oral Agreement between the Claimant and Defendant, Paragraph 4 of the Statement of Claim is denied. The Defendant avers that the agreement was for a commission of 10% of the contract sum (before taxes), which was only payable after the project is completed and within 30 days of the Defendant receiving full payment from the owner of the relevant property.
+
+5. As part of the Oral Agreement, the Defendant agreed that if any sums are due and owing for more than 7 days, interest at the rate of 9% per annum would be applicable.
+5.1. Paragraph 5 of the Statement of Claim is denied in full.
+
+6. Between March 2024 to July 2024, there were 9 renovation projects that were referred to the Defendant by the Claimant. 
+Particulars
+S/No Date Project Name 
+& Contract Sum (before taxes) Commission (S$) (a) 15 Mar 2024 51 Alpha Bravo Lane: S$500,000.00 $50,000.00 (b) 29 Mar 2024 7A Long Island Crescent: S$300,000.00 $30,000.00 (c) 3 Apr 2024 11C Watermelon Road: S$450,000.00 $45,000.00 (d) 19 Apr 2024 57 Purple Flower Road: S$190,000.00 $19,000.00 (e) 5 May 2024 96 Echo Foxtrot Lane: S$120,000.00 $12,000.00 (f) 20 May 2024 123 Waterfalls Road: $250,000.00 $25,000.00 (g) 2 Jun 2024 654 White Flower Lane: $270,000.00 $27,000.00 (i) 13 Jul 2024 33 Orange Peel Lane: $380,000.00 $38,000.00 (j) 24 Jul 2024 134 Compliant Walk: $340,000.00 $34,000.00 The total commissions payable pursuant to the Oral Agreement amounts to $280,000.00.
+6.1. Save that the Defendant accepts that the Claimant referred 9 renovation projects to the Defendant, the remainder of Paragraph 6 of the Statement of Claim is denied. 
+6.2. The defendant avers that only 8 of the projects listed ultimately proceeded. The owner of the property at 33 Orange Peel Lane (S/No (i) in the particulars table provided for in Paragraph 6 of the Statement of Claim) did not proceed with the project as he found another contractor that was able to carry out the work for a lower cost. Accordingly, it should not be included as part of any commissions payable pursuant to the Oral Agreement.
+6.3. The contract sums for 2 projects, namely 123 Waterfalls Road (S/No (f) in the particulars table provided for in Paragraph 6 of the Statement of Claim) and 654 White Flower Lane (S/No (g) in the particulars table provided for in Paragraph 6 of the Statement of Claim) are incorrect. They should be S$220,000.00 and S$240,000.00, respectively. Correspondingly, the commission amounts should also be adjusted to S$22,000.00 and S$24,000.00, respectively.
+6.4. Consequently, the total commissions payable pursuant to the Oral Agreement amounts to S$236,000.00 instead of S$280,000.00.
+
+Breach of the Oral Agreement
+7. Despite numerous requests for payment by way of telephone and WhatsApp calls between March to August 2024, the Defendant has failed, refused and/or neglected to make payment of the said sum of $280,000.00.
+7.1. Paragraph 7 of the Statement of Claim is denied and the Claimant is put to strict proof thereof. The Defendant avers that it did not receive any telephone or WhatsApp calls from the Claimant between March to August 2024 requesting payment.
+[NB: do not ask for strict proof when you deny something and provide an alternative, only ask for strict proof when you do not admit something.]
+7.2. The Defendant further asserts that the Claimant is well aware that the commissions are not yet due for payment under the terms of the Oral Agreement.
+
+8. The Claimant did not seek to enforce its right to seek interest on the unpaid sums at the time when it was chasing for payment. At the time, there was a wish to see if the relationship with the Defendant could be salvaged if payment was forthcoming. However, the Claimant will be seeking interest as provided for under the Oral Agreement.
+8.1. Paragraph 8 of the Statement of Claim is denied, as there was no interest that was agreed upon between the Claimant and the Defendant. The Defendant repeats Paragraph 4.1 above.
+
+9. In the circumstances, the Defendant is in breach of the Oral Agreement.
+9.1. Paragraph 9 of the Statement of Claim is denied. The Defendant avers that it has not breached the terms of the Oral Agreement as the obligation to pay has not yet arisen.
+
+10. By reason of the said breach, the Claimant has suffered loss and damage amounting to $280,000.00 with accrued interest.
+10.1. Paragraph 10 of the Statement of Claim is denied. The Defendant avers that there has been no breach of the terms of the Oral Agreement. Accordingly, no loss, damage or interest has been incurred.
+
+11. Save as hereinbefore expressly admitted or not admitted, the Defendant denies each and every allegation contained in the Statement of Claim as if the same had been set out seriatim and expressly traversed.
+
+Certification by defendant and solicitor
+I, [name of defendant], certify that all the statements made above are true to the best of my knowledge and belief.
+I, [name of solicitor] certify that I have informed the defendant of his obligation above.
+
+Signature of defendant 							Signature of solicitor
+
+_______________________ 						_______________________
+Defendant 								Solicitor for the defendant
+[Name] 								[Name of solicitor] 
+
+Letter of reply to opposing counsel template:
+
+[date]
+
+[Opposing counsel]
+[Opposing counsel address]
+
+Dear Sirs,
+
+HC/OC 2022/2024 [NB: main case number]
+- HC/SUM 1188/2024 [NB: setting aside application case number]
+- HC/EO 99/2024 [NB: enforcement order case number]
+
+Re: Response to your Letter dated 8 July 2024
+
+1. We acknowledge receipt of your letter regarding the setting aside application in HC/SUM 1188/2024 and your concerns in relation to the enforcement order in HC/EO 99/2024.
+2. We appreciate your diligence in bringing these matters to our attention. However, we would like to clarify our position and outline our proposed steps moving forward.
+a. Representation of Aggressif Marketing Pte Ltd: We recognize that you act for the Defendant, Aggressif Marketing Pte Ltd, and we have not overlooked this. We are committed to ensuring that all communications are directed appropriately regarding this matter.
+
+b. Setting aside application: We note the filing of the setting aside application in HC/SUM 1188/2024 to set aside the judgement in default ordered in HC/JUD 345/2024, and will review the supporting affidavit provided by Mr Ragey Mun with due diligence. We are currently assessing the merits of the application and will respond accordingly after taking instructions from our client Kalming Presence Pte Ltd.
+
+c. Enforcement order: We are aware of the enforcement order issued on 5 July 2024. While we note your request to withdraw the enforcement order, we must consider our client’s interests and the implications of the ongoing proceedings. We will be seeking our client’s instructions on this matter before taking any action.
+
+d. Timeline for response: Kindly note that we have responded to your letter today on 9 July 2024 at 1.00pm, which meets your specified deadline of 6.00pm on 9 July 2024. Please be assured that we take this matter seriously and will address it with the urgency it deserves. Moving forward, we will be taking instructions from our client before communicating with you again.
+
+e. Rights reserved: We acknowledge your statement regarding the reservation of your client’s rights. Similarly, we reserve our client’s rights in this matter and will act in their best interests as we move forward.
+3. In the spirit of cooperation, we are open to discussing this matter further to potentially reach an amicable resolution. Please do not hesitate to propose a suitable time for a discussion.
+
+Thank you.
+
+
+Yours sincerely,
+
+
+
+
+[Name]
+[Law firm]
+
+
+
+Affidavit template:
+Case No.: HC/OC 2222/2024						Df; Ragey Mun; 1st; 8.7.2024
+Sub Case No.: HC/SUM _______
+
+AFFIDAVIT
+(HC/JUD 345/2024)
+
+
+[Recent photograph]
+
+Between
+
+[Name of claimant]
+[UEN No. of claimant]
+       … Claimant(s)
+And
+
+[Name of defendant]
+[UEN No. of defendant]
+       … Defendant(s)
+
+
+AFFIDAVIT
+
+Name of maker: Ragey Mun (NRIC No. S1234567G)
+Residential address: [alternatively, office address if affirming in official, professional or occupational capacity]
+Occupation: Chief Financial Officer, Aggressif Marketing Pte Ltd
+Description: Claimant / Defendant / Third Party / Witness / Others
+
+1. The facts and matters deposed to herein are within my knowledge and/or are based on the documents in the Defendant’s possession. Insofar as the matters herein are within my knowledge, they are true. [Insofar as they are not within my knowledge, they are true to the best of my information and belief based on the information and documents in the Defendant’s possession.] [NB: the second part should be removed if used in final affidavits, for interlocutory affidavits it is fine]
+
+2. I make this affidavit in support of an application to set aside HC/JUD 345/2024, a judgement in default (“Default Judgement”) entered into against the Defendant dated 21 June 2024. 
+[I.e. the purpose of making the affidavit]
+3. The Default Judgement was entered into due to the Defendant’s failure to file its Notice of Intention to Contest and Defence by the stipulated time. This occurred due to my delayed receipt of the Originating Claim and Statement of Claim regarding HC/OC 2222/2024 (the “Documents”). The following chain of events is relevant:
+a. The Documents were served on 4 June 2024 at approximately 12.31pm at the Defendant’s registered address (“Registered Address”). The Documents were received by the receptionist who left the Documents on my desk on the same day.
+
+b. However, the receptionist was unaware that I would not be at the Registered Address that day. I continued to be away until 25 June 2024 as I was on leave.
+
+c. Upon my return on 26 June 2024, I was involved in various meetings and only had time to notice and read the Documents on 28 June 2024. Upon realizing the content of the Documents, I immediately engaged a law firm, Tan Ku Ku LLP, to act for the Defendant.
+4. I believe that the Defendant has cogent merits in its defence against the Claimant, Kalming Presence Pte Ltd. I outline the main points of the defence as follows: --> must use voice of the person making the affidavit
+a. The principal document between the parties is the Engagement Contract (the “Contract”), which is annexed hereto and marked as exhibit “AM-1”. 
+
+b. Notably, Clause 6.1 of the contract stipulates that the Claimant “… agrees that in curating and creating an online marketing campaign, the reactions and responses of the public (including the targeted audience) are uncertain and not always predictable. Accordingly, the Client accepts and acknowledges that there is a risk that the reactions and responses may be negative”.
+
+c. Clause 6.1 must also be read together with Clause 8.3 of the Contract, which stipulates that the Claimant “… agrees that due to the considerations as set out in clause 6.1, the Company cannot be held liable for any loss or damage arising out of any online marketing campaign that is curated and created…”.
+
+d. Based on the above clauses, the Claimant has surrendered its right to claim any loss of profit or damages against the Defendant arising from the public backlash following the launch of the marketing campaign. This is essentially the claim made by the Claimant.
+
+e. Furthermore, even if there were to be any sort of loss decided by this Court that falls outside the scope of the clauses mentioned above, Clause 8.4 of the Contract stipulates the following: “Further and in the alternative, and without derogation to the effect of clause 8.3, the Client also agrees that should any loss or damage be attributable to the Company, the same shall be limited to S$15,000.00”. Thus, the amount claimed by the Claimant, i.e. liquidated damages in the sum of S$1,250,000.00, far exceeds what the Claimant has expressly agreed to.
+
+f. All things considered, the Defendant has been advised and verily believes that [there are sufficient legitimate and triable issues to outweigh the unfortunate delay in the Defendant’s response].
+
+5. In light of the above, I respectfully request that this Honourable Court [sets aside the Default Judgement].
+
+6. The Defendant will leave it to my solicitors to make the relevant arguments in support of the matters raised above.
+
+AFFIRMED / SWORN in Singapore	)
+By NAME				)	[signed]
+[via live video link]			)
+On this 2nd day of December 2024	)
+
+(through the interpretation of [name of interpreter, if any])
+
+BEFORE ME
+
+
+[signed]
+A COMMISSIONER FOR OATHS
+
+This Affidavit is filed on behalf of the Defendant
+With the deponent appearing via a live video link
+
+
+
+Submissions template:
+Submissions must include: (1) Facts relied on, (2) Principles of law which apply, (3) Arguments and assessment of the law and facts of the case, (4) Weight which should be given to the evidence or witness testimony and (5) Why your remedies should be granted, rather than remedies sought by your opponent
+
+DEF v GHI [2024]
+
+SUBMISSIONS FOR INTERLOCUTORY STAY APPLICATION
+
+THE PARTIES
+
+1. The Claimant is DEF Investments Sdn Bhd (Malaysian Company Registration No. X12345Y) (“DEF”), a company registered in Malaysia.
+
+2. The Defendant is GHI Holdings Pte Ltd (Singapore UEN No. 698000754U) (“GHI”), a company registered in Singapore. 
+
+BACKGROUND
+
+3. Proceedings were commenced by the Claimant DEF before the Singapore High Court under HC/OC 678/2024 against the Defendant GHI for an alleged breach of a joint venture agreement entered into by both parties on 30 December 2022 (“JVA”), which is annexed hereto and marked “JVA”. The JVA was made in furtherance of the commercial objective of developing a mobile phone application for food delivery services. 
+
+4. The Claimant has alleged that the Defendant is in breach of the JVA for not making the necessary cash infusions as required under the investment timeline, as stipulated in the JVA. While the Defendant has a substantive defence to raise on the merits of the Claimant’s claims in the legal proceedings under HC/OC 678/2024, it respectively decided not to raise them before this Court, as it may amount to a submission to jurisdiction notwithstanding the Defence filed under Order 6 Rule 7(4) to (6) of the Rules of Court 2021 ("ROC”). 
+
+5. In light of a valid arbitration agreement between the parties within the JVA, the Defendant is seeking to challenge the jurisdiction of the Court to hear the action. As such, an application under Order 9, Rule 7(2) ROC has been made to stay court proceedings in favour of arbitration and these written submissions are made with the purpose of supporting the interlocutory application.
+
+ARBITRATION ARGREEMENT UNDER JVA
+6. Clause 25 of the JVA (“Clause 25”) stipulates that “any dispute arising out of or in connection with this JVA, shall be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre (“SIAC”) in accordance with the Arbitration Rules of the Singapore International Arbitration Centre for the time being in force…” (emphasis added in italics). This dispute resolution clause constitutes a valid arbitration agreement between the Claimant and the Defendant, which the Claimant has breached by directly commencing proceedings before the Singapore High Court. Instead, any dispute relating to the JVA must be referred to arbitration under the auspices of the SIAC.
+
+7. Preliminarily, the International Arbitration Act 1994 (“IAA”) is the governing act applicable to this dispute. Per s 5(2)(a) IAA, the IAA governs disputes where “at least one party to an arbitration agreement, at the time of conclusion of the agreement, has its place of business in any State other than Singapore”. On the facts, as the Claimant at the time of conclusion of the JVA had its place of business in Malaysia, the requirements of s 5(2)(a) IAA is satisfied, leaving the IAA to govern this dispute accordingly.
+
+LEGAL TEST FOR STAY OF COURT PROCEEDINGS
+8. Accordingly, the correct operative provision governing whether a stay of Singapore court proceedings in favour of arbitration should be granted is s 6 IAA. To guide our application of this provision, we refer to Tomolugen Holdings Ltd and another v Silica Investors [2016] 1 SLR 373 (“Tomolugen”) at [63], which made clear that the Singapore courts will only grant a stay of court proceedings in favour of arbitration if it is satisfied on a prima facie basis that:
+a. There is an arbitration agreement between the parties to the court proceedings;
+b. The dispute in the court proceedings (or any part thereof) falls within the scope of the arbitration agreement; and
+c. The arbitration agreement is not null and void, inoperative, or incapable of being performed.
+
+9. I now turn to discuss each of the limbs in paragraph 8 above in turn.
+
+10. Firstly, the existence of the arbitration agreement is not contended by the Claimant. Neither does the Claimant dispute the wording of Clause 25 as contained in the JVA. As such, the first limb is satisfied.
+
+11. Secondly, the issue of whether the Defendant is in breach of the substantive terms of the JVA, regarding the failure the necessary cash infusions as required under the investment timeline, falls squarely under the wide scope of Clause 25. Clause 25 covers “any dispute arising out of or in connection with this JVA” (emphasis added). Accordingly, the second limb is also satisfied.
+
+12. Third and most relevantly is whether the arbitration agreement is null and void, inoperative, or incapable of being performed. The Claimant had in its reply affidavit to the interlocutory application claimed that it had “reluctantly given in” to accept Clause 25 in the JVA during contractual negotiations. However, it is submitted that Clause 25 was validly entered into and remains enforceable despite the Claimant’s complaints. Neither unconscionability nor undue influence would act to void the clause.
+
+13. In no way can Clause 25 be vitiated on grounds of unfairness. For a finding of unconscionability, the Claimant must have had a sufficiently grave infirmity (which has been or ought to have been evident to the Defendant) affecting the Claimant’s ability to conserve his interests in order to successfully make such a claim. This requirement was laid out in BOM v BOK and another appeal [2019] 1 SLR 349 (“BOM v BOK”) at [141]-[142]. On the facts, this could not be further from the truth, with both parties being established corporate entities with the power to seek independent legal advice at the time the JVA was being negotiated and signed.
+
+14. As to whether undue influence can be made out, the court in BOM v BOK distinguished between “Class 1” cases from those of “Class 2A”. Where the former concerns itself with whether the person exerting the undue influence had exercised such domination over the victim’s mind that his independence of decision had been substantially undermined, the latter class is an objective inquiry into whether there was an implied retainer between parties such that there was an irrefutable presumption of a relationship of trust and confidence. Either way, the facts at hand fall into neither class.
+
+15. With regards to whether our current situation is envisaged by Class 1, it is argued that even if the Defendant’s in-house legal counsel strongly insisted on the arbitration clause and alluded to its exclusion as a potential deal breaker, such does not and cannot be said to amount to a “domination over the victim’s mind” so much as to have substantially undermined the Claimant’s independence of decision in entering the JVA. Insisting on the insertion of desired terms is part and parcel of negotiations, and so is the begrudging acceptance of such terms for contractual completion. For the court to vitiate terms agreed on by parties just because one party claims to have been “reluctant” would defeat the point of deal brokering and mutual agreement, stripping away the parties’ abilities and autonomy to negotiate for and secure their interests via contracting.
+
+16. In the same vein, no “irrebuttable presumption of a relationship of trust and confidence” can be said to exist between the parties as both the Claimant and Defendant are separate legal entities in the midst of striking a deal with different legal interests. To this end, the fact that the Claimant has never been involved in any arbitration proceedings is irrelevant (as claimed in its reply affidavit). Both parties are capable of and responsible for soliciting independent legal advice when negotiating for the JVA. Both parties negotiated on equal footing with no power disparity and had the power to walk away from signing the JVA should they have found reason to during negotiations.
+
+17. Satisfying all three conjunctive limbs espoused in Tomolugen, a prima facie case for a stay of court proceedings in favour of arbitration per s 6 IAA has been made out.
+
+18. In any case, even if the Court finds that the IAA does not apply, this Court should still not exercise its jurisdiction given that both limbs under s 6(2) of the Arbitration Act 2001 (“AA”) are nonetheless satisfied.
+
+19. First and foremost, there is “no sufficient reason why the matter should not be referred in accordance with the arbitration agreement” (s 6(2)(a) AA) given that the plain words of the JVA expressly binds the parties to arbitration whenever any dispute arises in relation to it. Arbitration here is not optional, contrary to what the Claimant has claimed in its reply affidavit.
+
+20. Secondly, the Defendant is, “and still remains, ready and willing to do all things necessary to the proper conduct of the arbitration” (s 6(2)(b) AA).
+
+21. Lastly, as this Court retains a discretion to reject an application for a stay of court proceedings under s 6(2) AA, even if the two limbs are satisfied, we submit that for the reasons above, the Court should uphold the JVA by granting a stay in favour of arbitration.
+
+22. The Defendant humbly prays that the Court will uphold the mutual agreement of the parties in the JVA, especially Clause 25, by granting a stay in favour of arbitration. Counsel will expand upon the arguments during the oral hearing before the Court.
+
+
+
+
+
+[signed]
+___________________
+Counsel for Defendant
+Name of Counsel:
+Date: 
+
+
+
+9. 
+10. 
+11. 
+2
+
+12. 

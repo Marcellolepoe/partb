@@ -1,0 +1,1667 @@
+Contents
+Misc. notes from opening lecture	2
+A.	Regulation of the legal profession in Singapore	2
+A1. Importance of professional responsibility	2
+A2. Structure of the Legal Profession Act	3
+A3. Principles guiding interpretation of PCR (Rule 4 PCR)	4
+B.	Relationship with client	5
+Overview	5
+B1. Formation and Termination of Retainer	5
+Definition of “client” under LPA and for PCR	5
+Implied retainers (implied solicitor-client relationship) – formation	5
+3P representative of client: When Client uses Agent to instruct Lawyer => Lawyer has additional duties	7
+Prior to representing client: Lawyer must obtain Warrant to Act (WTA) from client	7
+B2. Honesty, competence and diligence (Rule 5 PCR)	10
+3 General Principles underlying Rule 5 PCR	10
+B2(a): Duty to be honest in dealings with client – Rule 5(2)(a)	10
+B2(b): Duty to inform clients of important information – Rule 5(2)(b)	11
+B2(c): Duty to act with diligence and competence in provision of services to client – Rule 5(2)(c)	11
+B2(d): Duty to ensure legal practitioner has relevant knowledge and skills required for the client’s matter – Rule 5(2)(d)	12
+B2(e): Duty to keep client reasonably informed of progress – Rule 5(2)(e)	12
+B2(f): Duty to promptly respond to client’s communications where practicable – Rule 5(2)(f)	13
+B2(g): Duty to keep appointments with client – Rule 5(2)(g)	13
+B2(h): Duty to provide timely advise to client – Rule 5(2)(h)	13
+B2(i): Duty to follow client’s instructions if lawful, proper and reasonable - Rule 5(2)(i)	13
+B2(j): Duty to use all legal means to advance client’s interests – Rule 5(2)(j)	13
+B2(k): Duty to keep contemporaneous records of client’s instructions and advice rendered – Rule 5(2)(k)	14
+B3. Confidentiality (Rule 6 PCR)	15
+*5 EXCEPTIONS TO CONFIDENTIALITY	15
+B4. Interests of 2 or more clients (Rule 20 PCR)	17
+Case A: lawyer HAS NOT taken on the matter – RIGHT FROM THE START	17
+Case B: lawyer HAS already taken on the matter	19
+Specific Scenarios of Conflict	20
+B5. Interests of current client and former client (Rule 21 PCR)	23
+Duty to not represent current client because of conflict with former client	23
+*3 EXCEPTIONS (i.e. can still act for current/prospective client)	23
+Requirements for former clients to apply to Court for injunction to restrain law firm from acting for a prospective client on grounds of conflict of interest	24
+Specific Scenarios of Conflict between Current client and Former Client	24
+B6. Interests of client and interests of legal practitioner/law practice (Rule 22 PCR)	25
+Case A: FOR LAWYER	26
+Case B: FOR LAW PRACTICE:	26
+B7. Conflict of interest in family proceedings (Rule 15B PCR)	30
+B8. Prohibited borrowing transactions (Rule 23 PCR)	30
+Step 1: Identifying the prohibited borrowing transaction	30
+Step 2: Lawyer/LP must not do certain acts vis-à-vis the prohibited borrowing transaction	30
+If lawyer/LP breaches Rule 23(1)(a):	31
+If lawyer/LP breaches Rule 23(1)(b) or Rule 23(1)(c)	32
+Case Law Principles	33
+Case Law Examples – Breach of duty to not engage in prohibited borrowing transactions	33
+B9. Purchases from client (Rule 24 PCR)	35
+B10. Gifts from client (Rule 25 PCR)	35
+Duties of lawyer under Rule 25(2) when client intends to make significant gift to lawyer	35
+Duties of LP under Rule 25(2) when client intends to make significant gift to LP	36
+B11. Completion of retainer (Rule 26 PCR)	37
+By finishing work for client	37
+By dissolving the law practice which lawyer belongs to	37
+Lawyer under duty to withdraw	37
+By voluntary withdrawing	38
+*What happens if lawyer leaves a law practice to practice in another law practice?	39
+*WTA and LOE should expressly reserve right of lawyer/LP to terminate pursuant to Rule 26	40
+Case Law Examples	40
+
+
+Misc. notes from opening lecture 
+When dealing with question – start with subsection 2 of the PCR 2015, then apply the individual provision (see slides for context) 
+
+Important materials – 
+- Practice directions and guidance notes 
+o Now available as a consolidated PDF 
+- The ethics digest is a good place to start. Might need to quote more cases than available in it though 
+
+EPR course stuffs 
+- Practice sessions 
+o Used to have hypos that are exam questions 
+o They’re now rearranged. Attend the practice sessions to see attempts of the exam materials 
+- Questions 
+o Most hypos can be answered with the PCR – rules and exceptions. Express a view about whether there is a breach or not 
+o Sentencing/penalties are not really tested. Don’t worry about suspension/striking off etc. – not tested on figuring out what sentence should be given. Just see whether breach or not 
+
+Conduct in relation to the Court 
+- Addressing people 
+o In court – Your Honor 
+o Outside, or in chambers – Judge 
+- Conduct at the end of a hearing – don’t pack up until it’s completely clear that the hearing is over 
+
+
+A. Regulation of the legal profession in Singapore 
+A1. IMPORTANCE OF PROFESSIONAL RESPONSIBILITY 
+Solicitor’s professional responsibility owed to everyone 
+Law Society of Singapore v Ahmad Khalis bin Abdul Ghani 
+- Solicitor’s professional responsibility towards clients and non-clients 
+Professional responsibility is for protection of public interest 
+Law Society of Singapore v Ahmad Khalis bin Abdul Ghani 
+- Administration of justice can only proceed if clients can rely on the honesty of solicitors with whom they deal with 
+- When Court imposes sanctions, it will think of what to do to protect the public and to register its disapproval of the solicitor’s conduct => Court will also seek to achieve a deterrent effect to prevent other like-minded solicitors from committing similar conduct 
+Standard of professionalism: Objective 
+Law Society of Singapore v Ahmad Khalis bin Abdul Ghani 
+- Requisite standard of professionalism as an advocate and solicitor is an objective one as determined by the Court 
+- Subjective views of advocate and solicitor only constitute a mitigating circumstances that would go to the reduction of sanctions that would otherwise be imposed on him 
+3 essential attributes of the legal profession 
+LSS v Rasif David 
+- 3 essential attributes: 
+1. Disciplined body
+2. Pursuit of a learned art as a common calling
+3. Members of a disciplined body pursue common calling in the spirit of public service 
+Lawyers must conduct themselves honestly, honorably and incorruptibly in professional and personal lives 
+LSS v Rasif David
+- Values must be kept beyond professional lives and even in personal lives => Ensures that members of the public have well-founded confidence that any solicitor they instruct will be a person of unquestionable integrity, probity and trustworthiness
+Focus is on the spirit of professional ethical rules and not just plain letter 
+LSS v Tan Phuay Khiang 
+- Lawyers should be concerned with the spirit and intent of professional ethical rules and not just the plain letter when discharging professional obligations 
+a. Mere cursory steps to discharge duties are insufficient
+b. Guard against rigid and formalistic adherence to codes 
+A2. STRUCTURE OF THE LEGAL PROFESSION ACT 
+Powers of the Court vis-à-vis Lawyer’s breach of ethical duties  
+Context
+- Complainant will complain lawyer breach PCR => Disciplinary Tribunal decide if lawyer breach PCR => If so, Court will decide if there is due cause shown under s83(2) of LPA to sanction lawyer under s83(1) of LPA
+When due cause is shown => Court has powers to impose certain sanctions on all lawyers 
+S83(1) of LPA 
+- All lawyers are subject to control of Supreme Court and shall be liable on due cause shown: 
+a. Struck off roll: To be struck off the roll
+b. Suspension: To be suspended from practice for a period not exceeding 5 years
+c. Fine: To pay a penalty of not more than 100k 
+d. Censure: To be censured; or 
+e. A combination of (b), (c), (d) above 
+How can due cause be shown?
+S83(2) of LPA 
+- “Due cause” can be shown by proof that a lawyer: 
+a. Conviction of criminal offense – linked to defect of character unfit for profession: Has been convicted of a criminal offense which implies that he has a defect of character which makes him unfit for the profession 
+b. Fraudulent or gross improper conduct in discharge of certain rules: Has been guilty of fraudulent or grossly improper conduct in discharge of professional duty/guilty of breach of the following:
+(i) Usage or rule of conduct made by the Professional Conduct Council under s71 
+(ii) Part 5A or any rules under s70H
+(iii) Any rules made under s36M(2)(r)
+c. Adjudicated bankrupt or guilty of IRDA offenses: Has been adjudicated bankrupt or guilty of some acts mentioned in IRDA 
+d. Has tendered or given or consented to retention, out of any fee payable to him or her for his or her services, of any gratification for having procured the employment in any legal business of himself or herself, of any other advocate and solicitor or, in relation only to the practice of Singapore law, of any foreign lawyer registered under section 36B;
+e. Has directly or indirectly procured or attempted to procure the employment of himself or any lawyer in relation to practice of Singapore or any foreign lawyer registered under s36B and has received remuneration for obtaining such employment (basically providing referral services and earning money for that) 
+f. Worked for touting/referral services: Has accepted employment in any legal business through a business who has been proclaimed a tout under the law (basically for using referral services) 
+g. (deleted)
+h. Misconduct unbefitting of lawyer: Has been guilty of misconduct unbefitting a lawyer as an officer of the Supreme Court or as a member of an honorable profession 
+i. Carries on business that is incompatible with legal profession: Carries on by himself or any person in his employment any trade or business that detracts from the profession of law or is in any way incompatible with the profession of law 
+j. Contravention of LPA: Has contravened any provisions of the LPA which warrants disciplinary action 
+k. Has been disbarred, struck off, suspended, fined, censured or reprimanded: Has been disbarred, struck off, suspended, ordered to pay a penalty, censured or reprimanded in his capacity as a lawyer 
+Practice trainees are subject to s83 regime too 
+S83(3) of LPA
+- Practice trainee granted application under s32(3) is subject to the same rules in s83(2)
+- Instead of being struck off or suspended – Court will give prohibit trainee from applying for admission to the bar: However, in lieu of any order that the practice trainee be struck off the roll or suspended, an order prohibiting the practice trainee from applying to the court for admission as a lawyer until after a date specified will be given instead 
+
+A3. PRINCIPLES GUIDING INTERPRETATION OF PCR (RULE 4 PCR)
+Rule 4 PCR: The following principles guide the interpretation of these Rules.
+- Lawyer’s paramount duty to Court takes precedence over duty to client: A legal practitioner has a paramount duty to the court, which takes precedence over the legal practitioner’s duty to the legal practitioner’s client.
+- Lawyer’s duty to client is subject only to his duty to the Court: A legal practitioner’s duty to the legal practitioner’s client is subject only to the legal practitioner’s duty to the court, and must at all times be fulfilled in a manner that upholds the standing and integrity of the Singapore legal system and the legal profession in Singapore.
+- Lawyer duty to discharge responsibilities to tribunal honorably and with integrity: A legal practitioner has a duty to discharge honourably and with integrity all of the legal practitioner’s responsibilities to any tribunal before which the legal practitioner appears, the legal practitioner’s clients, the public and other members of the legal profession.
+- Lawyer must uphold Singapore laws in legal practice: A legal practitioner must uphold the laws of Singapore in the legal practitioner’s practice.
+- Lawyer must facilitate public’s access to justice: A legal practitioner must facilitate the access of members of the public to justice.
+- Lawyer must be fair and courteous to everyone in respect of his professional conduct: A legal practitioner must be fair and courteous towards every person in respect of the legal practitioner’s professional conduct.
+- Lawyer must ensure that professional conduct is consistent with values of legal profession wherever he practices or gives advice: A legal practitioner must ensure that the legal practitioner’s professional conduct is always consistent with the values of the legal profession in each jurisdiction in which the legal practitioner is qualified to practise law and, when giving advice in any other jurisdiction, the values of the legal profession in that other jurisdiction.
+- Lawyer must be up to date with all legal developments in lawyer’s area of practice: A legal practitioner must keep up to date with all pertinent developments in the law in the legal practitioner’s area of practice.
+
+
+
+B. Relationship with client 
+OVERVIEW 
+1. Formation of Retainer 
+2. Honesty, Competence and Diligence – Rule 5
+3. Confidentiality – Rule 6 
+4. Conflict or potential conflict between interests of 2 or more clients – Rule 20 
+5. Conflict or potential conflict between interests of current client and former client – Rule 21 
+6. Conflict or potential conflict between interests of client and interests of legal practitioner or law practice – Rule 22 
+7. Conflict of interest in family proceedings – Rule 15B
+8. Prohibited borrowing transactions – Rule 23 
+9. Purchases from client – Rule 24
+10. Gifts from client – Rule 25 
+11. Completion of retainer and withdrawal from representation – Rule 26 
+
+B1. FORMATION AND TERMINATION OF RETAINER 
+Definition of “client” under LPA and for PCR
+Definition of “client” for contentious business
+S2(1)(a) of LPA 
+- In relation to contentious business, client includes:
+* Person who retains or is about to retain solicitor: Any person who, as a principal or on behalf of another person, retains or employs, or is about to retain or employ, a solicitor, and 
+* Person liable to pay solicitor’s costs: Any person who is or may be liable to pay the costs of a solicitor, law corporation or limited liability law partnership; and
+
+Definition of “client” for non-contentious business 
+S2(1)(b) of LPA 
+- In relation to non-contentious business, client includes:
+(i) Person who retains or is about to retain solicitor: Any person who, as a principal or on behalf of another, or as a trustee, an executor or an administrator, or in any other capacity, has power (express or implied) to retain or employ, and retains or employs or is about to retain or employ, a solicitor, law corporation or limited liability law partnership; and
+(ii) Person liable to pay solicitor’s costs: Any person for the time being liable to pay a solicitor, law corporation or limited liability law partnership for his, her or its services any costs;
+
+Principle 1: Client can be a person who acts in a representative capacity 
+- Under s2 of LPA, Client includes a person who acts in a representative capacity i.e. “a person who acts on behalf of another person” 
+
+Principle 2: Client can be a walk-in member of the public who comes for first consultation (even before signing letter of engagement) 
+- Under s2 of LPA, Client includes a person who is “about to retain or employ a lawyer” 
+
+Implied retainers (implied solicitor-client relationship) – formation
+Objective test: Based on objective consideration of all circumstances, whether an intention to enter into a solicitor-client relationship ought fairly and properly to be imputed to all parties 
+LSS v Ahmad Khalis bin Abdul Ghani 
+- Objective test: Implied retainer is formed when on an objective consideration of all circumstances, an intention to enter into a such a contractual relationship ought fairly and properly to be imputed to all the parties 
+
+Factors considered in objective test
+LSS v Lee Suet Fern 
+- Objective analysis of circumstances from perspective of both parties – Whether they should be taken to have understood and believed that they were in a solicitor-client relationship
+- Factors such as: 
+a. Who is paying lawyer’s fees 
+b. Who is providing instructions 
+c. Whether a contractual relationship has existed between parties in the past 
+d. Whether express advice was given by lawyer and if so, whether such advice was relied upon by putative client  
+e. If express advice was given by lawyer, the nature of such advice i.e. whether it was mere preparatory steps to explain a legal document or it constituted more substantive advice 
+f. Whether lawyer asked putative client to seek independent legal advice 
+g. Whether any advice by lawyer was rendered without qualification 
+
+No formalities are required for retainer, but formalities required for agreement on lawyers’ fees 
+LSS v Ahmad Khalis 
+- No formalities required for retainer to be formed 
+- However, if there is a specific agreement for legal fees then it has to be in writing (if it is to be enforceable against the client)
+
+Absence of meaningful contact/advice is not decisive 
+Anwar Patrick Adrian v Ng Chong & Hue LLC
+- Absence of advice/meaningful contact could mean that there is no implied retainer (i.e. no solicitor-client relationship)
+- However, it is not a decisive factor as the absence of advice/meaningful contact could equally be evidence of a breach of an implied retainer (which already exists) 
+
+Case Law Examples – Implied Retainers
+LSS v Uthayasurian Sidambaram – Lawyer acting on instructions of 3P and tendered interim bill 
+Held: A person who acts in a representative capacity (such as an agent, trustee or personal representative of the client) who, or is about to, retain or employ a solicitor may be a client. Based on objective consideration of circumstances, an implied retainer had arisen between Respondent lawyer and Ang 
+1. Respondent lawyer acted only on instructions of Ang in relation to disbursement of funds
+2. In the interim bill tendered, respondent lawyer stated that the payment of 100k as fees was for work done and services rendered to parties such as Ang 
+3. Parties all gave instructions to respondent lawyer through conduit Ang 
+4. Respondent lawyer prepared a contract for parties 
+
+LSS v Ahmad Khalis bin Abdul Ghani – Lawyer provided advice without qualification and did not ask recipient to seek independent legal advice
+Respondent engaged by client to obtain letters of administration for his late father’s estate. After extensive investigations with other beneficiaries, necessary documents signed to allow client to become sole administrator and registered proprietor of property. Other beneficiaries did not formally appoint respondent as lawyer but respondent had met all of them 
+Held: An implied retainer had arisen between respondent lawyer and the beneficiaries (so there was a duty to act in their best interests)
+1. Respondent lawyer answered beneficiaries’ questions without qualification or telling them they should seek independent legal advice 
+a. Respondent lawyer did not say he was acting solely for client 
+2. Respondent lawyer had given express advice on renunciation document to the beneficiaries: 
+a. His advice was neither perfunctory nor non-committal 
+b. It went beyond merely “processing matters”
+3. Respondent lawyer informed beneficiaries as to the additional costs and delay in having a co-administrator of the estate 
+4. There was no other lawyer acting for the beneficiaries 
+5. Respondent lawyer knew that the beneficiaries were relying on him as their lawyer and considered himself as owing a reciprocal duty to them as their lawyer 
+
+Anwar Patrick Adrian v Ng Chong & Hue LLC – Lawyer signed off on formal documents in capacity as lawyer
+Ng solicitor signed off on Security Documents as “solicitor for the mortgagors” on the “Certificate of Correctness”. 
+Held: Implied retainer exists between Ng and parties to the instruments 
+1. Ng signed off on an official formal record as a solicitor 
+2. Certificate of Correctness must be signed by a solicitor 
+3. Parties did not have any other legally trained person on their side beside Ng and must have thought Ng was their lawyer as Ng was involved in execution of the instruments 
+Aside from the implied retainer, duties of care under common law may be owed to 3P (not the main client)
+AEL and others v Cheoh Yeoh & Associates LLC and another [2014] 3 SLR 1231: lawyer instructed to draft a will. But due to lawyer’s negligence the will was defective since it was executed in the presence of only 1 witness. When the client died, his estate fell to be distributed according to the rules of intestacy. Thus, client’s grandchildren who was originally part of the will was not entitled to their share of the client’s estate. Court (following English case of White v Jones) found that the lawyer owed DOC to the numerous intended beneficiaries under common law. Thus, the lawyer had to compensate the intended beneficiaries.
+
+Similarly, in Anwar Patrick Adrian, the lawyer was held to owe a DOC in common law to the plaintiffs, despite not being formally engaged as their lawyer.
+
+3P representative of client: When Client uses Agent to instruct Lawyer => Lawyer has additional duties  
+Rule 5(5) of PCR
+- Where lawyer is given instructions purportedly on behalf of his client, lawyer must: 
+a. Duty to ensure agent has authority from client: Ensure that the person giving those instructions has authority to give those instructions on behalf of client; OR 
+b. If no evidence of authority, duty to confirm instructions with client within reasonable time of receiving instructions: If there is no evidence of such authority, obtain the client’s confirmation of those instructions within a reasonable time after receiving those instructions 
+
+PD 7.4.3 repeats Rule 5(5) of PCR 
+- If lawyer accepts instructions from agent => Lawyer must ask for evidence of agent’s authority to act for client: If legal practitioner accepts instructions from an agent on behalf of principal client to act in the matter, legal practitioner must ask for evidence of agent’s authority to act on behalf of principal client 
+- If no evidence of authority => Lawyer can take instructions first then confirm with client within reasonable time: In the absence of evidence of such authority, legal practitioner must, within a reasonable time, confirm the instructions with the principal client 
+
+Fong Maun Yee v Yoong Weng Ho Robert 
+- Lawyer has duty to verify the agent’s instruction with client 
+a. Where property agent purports to be an agent of the seller (principal) and holds the seller’s option and was seeking to benefit from it => Lawyer should have insisted on getting the confirmation of the seller (principal) before holding himself out as acting for the seller in the sale of the property 
+- General rule: Person purporting to act as agent deemed to be duly authorized unless nature of his authority is fully known or if person disclaims present authority: Person who purports to act as an agent is deemed by his conduct to represent that he is in fact duly authorized so to act unless the nature and extent of his authority is fully known or if the person expressly disclaims any present authority  
+
+Prior to representing client: Lawyer must obtain Warrant to Act (WTA) from client 
+Duty of lawyer to obtain WTA before representing client 
+O 64 r 7 of old ROC 
+(1) Every lawyer representing any party in any matter shall obtain from such party or his duly authorized agent a warrant to act for such party either generally or in the said matter 
+
+Link to current law
+- Even though the current ROC 2021 no longer has a similar provision as the old O 64 r 7 of ROC 2014 which expressly provides that every lawyer representing any party must obtain from such party a warrant to act for the party in either generally or in a said matter:
+a. LSS PD 7.4.3 still maintains the position that a lawyer must obtain proper authority to act for a client
+b. This is also the position at common law in Tung Hui Mannequin which affirms the principle that a solicitor has a duty to obtain a written authority from his client before acting for the client.  
+
+Consequences of representing client without WTA: Prima facie evidence that lawyer is unauthorized
+O 64 r 7(2) of old ROC
+- Absence of WTA is prima facie evidence that the lawyer has not been authorized to represent the party 
+Link to current law
+- Also, even though the current ROC 2021 no longer has a similar provision as the old O 64 r 7(2):
+a. LSS PD 7.4.3 still maintains the position that if the solicitor’s authority to act is disputed, the absence of a warrant to act would be prima facie evidence that he is not authorized to represent the party 
+b. It is still the position at common law in Tung Hui Mannequin that the burden of proving that the lawyer had been authorized to act lies on the solicitor, and the absence of a warrant to act would be taken to be prima facie evidence of the lack of the solicitor's authority to act
+Steps for lawyer to obtain WTA 
+LSS PD 7.4.3: WTA, LOE, Referrals from 3rd Parties 
+Summary of steps for lawyer to get WTA from client 
+1. Verify client’s identity according to LSS PD 3.2.1 on Prevention of Money Laundering & Financing of Terrorism 
+2. Accept instructions from client to act 
+a. If instructions are from client’s agent, then lawyer must ensure that agent has required authority to give instructions. If there is no evidence of such authority then lawyer needs to confirm instructions with client 
+3. Draft WTA confirming the instructions from client 
+4. Explain the nature, contents and scope of the WTA to client 
+a. If client does not know what the WTA stands for when it is executed, it could attract allegations of misconduct and any contentious fee agreement between lawyer and client could be deemed unfair or unreasonable (s 113(4)) and thus void 
+
+Consequences of lawyer acting unauthorized 
+- Possible consequences: 
+* Breach of warranty of authority – Damages 
+* Liability for wasted costs
+* Disciplinary action 
+
+Duty to disclose WTA when requested for by opposing counsel
+Lawyers entitled to request opposing counsel to produce WTA
+Tung Hui Mannequin Industries v Tenet Insurance Co Ltd 
+- Yes O 64 r 7 necessarily implies that counsel is entitled to request opposing counsel to produce their WTAs 
+- When a lawyer receives a request to disclose his WTA, he should do so as a matter of course but must expunge any confidential material before handing it over 
+
+However, lawyers should not make requests unnecessarily 
+Tung Hui Mannequin Industries
+- One should only request opposing counsel to produce WTA if one has good reasons/exceptional circumstances to request 
+LSS PD 7.4.3
+- Requests for disclosure of WTA should not be made unnecessarily and the lawyer being asked to disclose WTA is entitled to ask the requesting lawyer to provide his reasons for suspecting that the lawyer being asked has falsely represented that he is the client’s lawyer
+Contents of WTA
+*PD 7.4.2: Reservation of right in WTA or LOE for lawyer to discharge himself on grounds set out in PCR
+- Lawyer should insert a reservation of right in client’s WTA or LOE to the effect that lawyer may at any time discharge himself based on the grounds set out in Rule 26(5) of PCR while observing obligation in Rule 26(6) of PCR 
+- Reason: Without reservation of right, lawyer might expose himself to claim for damages if his withdrawal leads to dismissal of client’s claim or recovery of judgement against client even if client has a valid defense 
+Any difficulty to a solicitor seeking to terminate his/her retainer may well be averted by inserting an appropriate reservation of right in his/her client’s Warrant to Act or Letter of Engagement. This reservation could be to the effect that the legal practitioner may at any time discharge himself/herself based on the grounds set out in rule 26(5) of the Legal Profession (Professional Conduct) Rules 2015 (S 706/2015) (‘PCR 2015’), while observing the obligation in rule 26(6) of the PCR 2015, to take reasonable care to avoid foreseeable harm to the client. Without a suitable reservation of right, a legal practitioner who obtains his/her discharge may well expose himself/herself to a claim for damages in the event his/her withdrawal leads to the dismissal of his/her client’s claim or the recovery of judgment against his/her client when there is a valid defence.
+*Limitation of liability
+*PD 7.1.2: Limitation of Civil Liability / Waiver and release 
+1. Not acceptable to exclude by contract all liability to clients => Can only limit liability if limitation not below minimum level of cover required by LPR 
+- It is not acceptable for lawyers to attempt to exclude by contract all liability to their clients 
+- However, lawyers are allowed to limit their liability provided that such limitation is not below the minimum level of cover required by the Legal Profession (Professional Indemnity Insurance) Rules  
+
+E.g. if clause limits law firm’s liability to 50k => Then it falls below minimum level of cover required by LPR which is 1mil/2mil => Clause will not be allowed
+- 1m for each claim for lawyers in sole props and partnerships (law firms)
+- 2m for each claim for lawyers in LLCs 
+- Liability for fraud and dishonesty is not covered  
+
+2. Liability for fraud or reckless disregard of professional obligations cannot be limited 
+
+3. Existing legal principles and restraints cannot be overridden 
+- Courts will not enforce in LP’s or lawyer’s favor an unfair agreement with his/her client 
+
+4. In any agreement as to costs for contentious business => Any clause that exclude lawyer’s liability for negligence is null and void 
+- Under section 112(5) of the Legal Profession Act (Cap 161, 2009 Rev Ed), a provision in any agreement as to costs for contentious business that the law practice or advocate and solicitor shall not be liable for negligence, or that he/she shall be relieved from any responsibility to which he/she would otherwise be subject as a law practice or advocate and solicitor, is null and void.
+S112(5) of LPA
+- A provision in any such agreement that the solicitor or law corporation or limited liability law partnership 
+a. Is not liable for negligence; or
+b. is relieved from any responsibility to which the solicitor or the law corporation or the limited liability law partnership would otherwise be subject as a solicitor or a law corporation or a limited liability law partnership, is wholly void.
+
+5. Any contract term that seeks to exclude liability must satisfy requirement of reasonableness in s11 of UCTA
+- By section 2(2) of the Unfair Contract Terms Act (Cap 396, 1994 Rev Ed) (applicable by virtue of the Application of English Law Act (Cap 7A, 1994 Rev Ed)), a contract term which seeks to exclude liability is of no effect except in so far as it satisfies the requirement of reasonableness set out in section 11, namely that the contract term must be a fair and reasonable one having regard to the circumstances which were or ought reasonably to have been known to or in the contemplation of the parties when the contract was made.
+
+6. Any contract term that seeks to restrict liability to a specified sum of money must satisfy requirement of reasonableness => Must consider the resources and insurance which the lawyer has available for the purpose of meeting the liability should it arise 
+- Section 11(4) of the Unfair Contract Terms Act (Cap 396, 1994 Rev Ed) provides that where a contractual term seeks to restrict liability to a specified sum of money, the question of whether the requirement of reasonableness has been satisfied must take into account the resources which the person seeking to impose it could expect to be available to him/her for the purpose of meeting the liability should it arise, and how far it was open to him/her to cover himself by insurance.
+
+7. When the retainer may be affected by foreign law, such matters may need to be considered according to the law applicable.
+
+8. Any limitation must be brought clearly to the attention of the client and be understood and accepted by him/her => The client’s acceptance of the limitation should be evidenced in or confirmed by writing.
+
+
+
+
+
+B2. HONESTY, COMPETENCE AND DILIGENCE (RULE 5 PCR) 
+3 General Principles underlying Rule 5 PCR 
+Rule 5(1) PCR
+a. Lawyer duty to be honest in all dealings with client: The relationship between a legal practitioner and his client imports a duty to be honest in all dealings with the client 
+b. Lawyer must have requisite knowledge, skill, and experience to provide competent advice and representation: A legal practitioner must have the requisite knowledge, skill and experience to provide competent advice and representation to his client 
+c. Lawyer has duty to be diligent in advice and representation: A legal practitioner has a duty to be diligent in the advice and information given to his client, and in the manner the legal practitioner represents the client 
+
+B2(a): Duty to be honest in dealings with client – Rule 5(2)(a) 
+Rule 5(2)(a) of PCR
+- A legal practitioner must be honest in all the legal practitioner’s dealings with his client 
+
+Definition of dishonesty: Asserting fact knowing it was untrue 
+LSS v Chia Choon Yang
+- Lawyer is dishonest when he asserts a fact or state of affairs that he knew was untrue and did so knowing that 3rd parties would or might rely on his acts as genuine and validly executed 
+
+Consequence of breach of Rule 5(2)(a)
+LSS v Chia Choon Yang 
+- Situation where striking off is presumptive sanction: 
+a. Dishonesty is integral to the commission of a criminal offense of which the lawyer has been convicted 
+b. Dishonesty violates the relationship of trust and confidence inherent in a solicitor-client relationship 
+c. Dishonesty leads to a breach of solicitor’s duty to the Court or impedes the administration of justice
+- Situation where striking off is NOT presumptive sanction: 
+a. Dishonesty is due to grave error of judgement by the lawyer instead of a character defect 
+- Factors to determine if striking off is presumptive sanction: 
+a. Real nature of the wrong and the interest that has been implicated 
+b. Extent and nature of deception 
+c. Motivations and reasons behind dishonesty and whether it indicates a fundamental lack of integrity or a case of misjudgement 
+d. Whether errant solicitor benefited from the dishonesty
+e. Whether the dishonesty caused actual harm or had potential to cause harm that the errant solicitor ought to have or in fact recognized 
+
+Case Law Examples – Breach of Rule 5(2)(a)
+LSS v Ng Bock Hoh Dixon – Forgery of client’s account bill and provision of false documentation to Law Society 
+- Lawyer was dishonest because he failed to return the USD100K to his client and forged a bill relating to client’s account and provided false documentation to the Law Society – there was an intent to confuse parties
+- Charged under s83(2)(b) and s83(2)(h) of LPA and was struck off the rolls 
+
+LSS v Ng Chee Sing – Worked for purchaser and mortgagor and earned commission by extending mortgage loans to others 
+- Lawyer worked for both the purchaser and mortgagor of a property transaction and extended part of the mortgage loans to others and earned commissions on those transactions. 
+- Grossly improper conduct is not confined to misconduct in the solicitor’s professional capacity, but also extends to misconduct in his personal capacity. On the facts of the case, despite the lawyer’s young age and being called recently to the bar, the court did not give weight to this as a factor given his dishonest acts
+- Charged under s83(2)(b) and s83(2)(h) of LPA and was struck off the rolls
+
+LSS v Jaya Anil Kumar – Forgery of school grades to improve chances of job hunt
+- Lawyer forged law school grades to improve chances of obtaining jobs 
+- Charged under s83 and struck off  
+
+LSS v Yong Wei Kuen Paul – Orchestrated illegal moneylending scheme and misled former client to lend to 3rd party
+- Lawyer orchestrated illegal moneylending transaction and misled former client to get her to unlawfully advance a substantial sum of money to a 3rd party on the pretext that it was a purported investment opportunity 
+- Charged under s83(2)(h) and struck off the rolls:
+a. Lawyer premeditated plan to swindle former client 
+b. Lawyer abused the trust in his former solicitor-client relationship 
+
+LSS v Chia Choong Yang – Lawyer prepared notarial certificate falsely stating that he witnessed Loy signing POA
+- Lawyer asked by Li to notarize a POA that granted Li powers to act on behalf of New Eastern Pte Ltd. POA bore the signatures of one of New Eastern’s directors, Loy. 
+- Li told lawyer that two other persons had witnessed Loy signing the POA. Lawyer then prepared a notarial certificate stating that he had witnessed Loy singing the POA even though he did not. 
+- Notarial certificate was presented to SAL and Chinese embassy for authentication 
+- Charged under s83(2)(b) and s83(2)(h) and suspended for 15 months:
+a. Striking off is too excessive as there was no deception of the Court and there was no violation of trust and confidence within client-solicitor relationship 
+b. Lawyer was not acting out of self-interest and only received a sum of $75 in notarial fees 
+c. Lawyer’s conduct was not a defect in character but a serious lapse of judgement 
+
+B2(b): Duty to inform clients of important information – Rule 5(2)(b) 
+Rule 5(2)(b) of PCR 
+- Duty to inform client of all known information that may reasonably affect client’s interests: A legal practitioner must when advising client, inform client of all information known to the legal practitioner that may reasonably affect the interests of the client in the matter 
+- Exceptions: 
+a. Exception: Lawyer under overriding duty of confidentiality: The legal practitioner is precluded from disclosing the information due to an overriding duty of confidentiality 
+b. Exception: Client consent in writing that information need not be disclosed: The client has agreed in writing with the legal practitioner that the legal practitioner need not disclose the information to the client 
+
+Principle 1: Advise client about kind of transaction and result of transaction 
+Su Ah Tee v Allister Lim and Thrumurgam 
+- Advise client about the kind of transaction client was entering into and what the result of the transaction would be 
+- Facts: nature of remaining lease on HDB shophouse (17 years remaining but buyer thought there was 62 years left) was not explained properly by the lawyer (who was clearly aware) to the buyers for them to make an informed decision. Plaintiff buyer was commercially experienced in buying shophouses, but this consideration cannot be taken too far
+- There is a basic duty on the lawyer to advise the nature of the transaction and what is the result of the transaction – need to ask whether the lawyer owed the clients a duty to take reasonable care in handling the conveyancing process
+Principle 2: No need to advise client about matters that are of a commercial or economic nature 
+Su Ah Tee v Allister Lim and Thrumurgam
+- No need to advise client about matters of a commercial or economic nature  
+Principle 3: Experience of client is a relevant factor to determine the extent of a solicitor’s duty to advise that client => However, the law is clear that even an experienced client would still require some information and advice => Solicitors should not be entitled to assume that the client knows what to do 
+Su Ah Tee v Allister Lim and Thrumurgam
+- “Legal advice which would be required by a first-time buyer of a property with no legal experience whatsoever may differ from that required by an experienced businessman-client who is buying property for the second or third time” 
+Principle 4: Lawyer cannot assume clients know certain matters merely because they have done similar transactions before (Su Ah Tee v Allister Lim and Thrumurgam)
+
+B2(c): Duty to act with diligence and competence in provision of services to client – Rule 5(2)(c)
+Rule 5(2)(c) of PCR 
+- A legal practitioner must act with reasonable diligence and competence in the provision of services to the client 
+
+General test: What a reasonably competent solicitor would do having regard to normal standards adopted in practice 
+LSS v K Jayakumar Naidu
+- General Test: What a reasonably competent solicitor would do having regard to the normal standards adopted in practice 
+- Facts: brother of a temporarily handicapped person hired lawyer to execute a POA to enable him to act in the sale of a flat owned by the handicapped. POA was granted and flat was sold. Loan was granted to the brother on the security of the sale proceeds. Family found out and hired a lawyer, who warned the original lawyer that the handicapped man did not know about the sale of the flat or the loan and that the brother was known to have a gambling problem. Original lawyer was asked to retain the funds in the interim while steps were taken to protect the handicapped. They did not comply and the monies were eventually misappropriated by the brother.
+
+Standard of duty: Depends on precise identity, sophistication and circumstances of the client 
+LSS v K Jayakumar Naidu
+- Extent of the duty depends on the precise identity, sophistication and circumstances of the client 
+a. Vulnerable client who is mentally disadvantaged, physically disadvantaged, uneducated or impecunious may require comprehensive advice for simple matter
+b. Seasoned businessmen or corporate entities with in-house risk management teams might be reasonably presumed to require less 
+c. Depends on client’s familiarity with proposed transaction 
+Note: Duty to reject untenable client’s instructions (Promethus Marine Pte Ltd v King, Ann Ria) 
+
+Case Law Example
+LSS v K Jayakumar Naidu – Failure to protect vulnerable client after receiving comprehensible and credible warnings of potential threat to client 
+- Respondent lawyer approached by HBS to prepare a POA authorizing him to act in a sale of a flat belonging to HCS. HBS sold flat and used the sale proceeds as security to get a loan from Tan. 
+- Lawyer was appointed to act in sale of flat and to repay the loan from the sale proceeds. 
+- Lawyer was warned by HCS’ family members and their lawyer Wong that HCS did not know the implications of the POA and about the sale of the flat and the loan. 
+- Lawyer was warned that HBS had a gambling problem and the loan was likely for related debts. 
+- HCS and Wong then tried to get Respondent lawyer to pass over the sale proceeds for safekeeping and to revoke the POA. 
+- The respondent lawyer refused and deposited sale proceeds as per HBS instructions. HBS misappropriated money. 
+- Charged under s83(2)(b) and s83(2)(h) and suspended for 3 months: 
+a. There was no dishonesty on the lawyer and there was no self-interest involved 
+b. Lawyer failed to act appropriately after receiving comprehensible and apparently credible warnings and refused to cooperate with Wong to safeguard HCS’s interests 
+c. HCS is a vulnerable client of the lawyer and lawyer has a grave responsibility to HCS 
+d. Lawyer failed to maintain direct and clear channels of communication with HCS 
+
+B2(d): Duty to ensure legal practitioner has relevant knowledge and skills required for the client’s matter – Rule 5(2)(d) 
+Rule 5(2)(d) of PCR
+- A legal practitioner must: 
+* Duty to ensure legal practitioner has relevant knowledge and skills for each matter undertaken for client: Ensure that the legal practitioner has the relevant knowledge, skills and attributes required for each matter undertaken on behalf of the client, and 
+* Duty to apply knowledge and skills appropriately: Apply the knowledge, skills and attributes in a manner appropriate to that matter
+
+B2(e): Duty to keep client reasonably informed of progress – Rule 5(2)(e)
+Rule 5(2)(e) of PCR
+- A legal practitioner must keep the client reasonably informed of the progress of the client’s matter
+
+Principle 1: Unnecessary for lawyer to keep client informed personally at all stages of the matter but lawyer cannot completely abdicate responsibility (LSS v Udeh Kumar s/o Sethuraju)
+
+Case Law Example
+LSS v Chiong Chin May Selena – Failure to inform client that opposing party had made a proposal to mediate to try and settle matter 
+- Facts: lawyer engaged to handle divorce proceedings. From time of engagement to termination, lawyer was incompetent, disorganized and displayed a complete lack of care towards the client. She gave sweeping statements which cannot be backed up by law or common sense, gave inappropriate advice and failed to explain processes and potential obstacles. There was also delay in filing of divorce papers, and was consistently late in appearing before the court. She also failed to inform client that the husband had made a proposal to mediate and settle the matter, instead demanded that the husband file his defence.
+
+LSS v Udeh Kumar s/o Sethuraju – Failure to inform client of Court hearing and to surrender to warrant to arrest
+
+LSS v Zulkifli bin Mohd Amin – Failure to inform client of important documents sent by opposing solicitors 
+- Lawyer failed to inform client of crucial documents sent by opposing solicitors such as:
+a. Letter of requests for payments from property developers 
+b. Notices to take vacant possession of property 
+c. Annulment of agreement
+- Client could not take any remedial steps to salvage the situation 
+
+B2(f): Duty to promptly respond to client’s communications where practicable – Rule 5(2)(f)
+Rule 5(2)(f) of PCR
+- A legal practitioner must where practicable, promptly respond to the client’s communications
+
+B2(g): Duty to keep appointments with client – Rule 5(2)(g)
+Rule 5(2)(g) of PCR
+- A legal practitioner must keep appointments with the client
+
+B2(h): Duty to provide timely advise to client – Rule 5(2)(h)
+Rule 5(2)(h) of PCR
+- A legal practitioner must provide timely advice to the client
+
+LSS v Chiong Chin May Selena – Failure to inform client-wife that husband had made a proposal to mediate and settle  
+- Lawyer found to have: 
+a. Made sweeping statements not backed up by law or common sense 
+b. Failed to explain the processes and potential obstacles in the conduct of divorce
+c. Lengthy and completely unreasonable delay in filing of divorce papers 
+d. Misled client to go with her to another firm
+e. Been consistently late in appearing at Court 
+f. Failed to inform client that husband had made a proposal to mediate and try to settle the matter but instead made things worse by demanding that husband file defense 
+- Lawyer found to have “a pattern of chronic irresponsibility and very poor handling of client’s matter” 
+- Charged under s83(2)(b) and s83(2)(h) and suspended for 6 months
+
+LSS v Udeh Kumar s/o Sethuraju – Failure to inform client of Court hearing to plead guilty, Failure to advise client to surrender to warrant to arrest issued due to non-attendance 
+- Lawyer failed to keep client informed of Court hearing where client was due to plead guilty. Lawyer also failed to advise client to surrender to warrant of arrest that was issued due to his unattendance 
+- Note: It is unnecessary for lawyer to keep client informed personally at all stages of the matter but lawyer cannot completely abdicate responsibility 
+
+B2(i): Duty to follow client’s instructions if lawful, proper and reasonable - Rule 5(2)(i)
+Rule 5(2)(i) of PCR 
+- A legal practitioner must follow all lawful, proper and reasonable instructions that the client is competent to give 
+Lawyer is allowed to decline to carry out illegal or unethical acts for client (Loh Der Ming Andrew v LSS) 
+
+If lawyer has multiple clients – Should confirm instructions with each client separately
+PD 7.1.1:
+- Where lawyer has more than one client involved, it would be advisable to send all correspondences to each of the clients separately to confirm instructions 
+
+Case Law Example
+Loh Der Ming Andrew v LSS – Lawyer concealed several arguments in Consent Order contrary to client’s instructions
+- Lawyer acted for client in a divorce case. Client wanted to allege that that his wife had an affair with neighbor and wanted to establish that the wife was the initiator of the affair. 
+- Wife contested allegation of adultery and applied to strike out the part on adultery in the statement of particulars. 
+- Lawyer consented to the parts being struck out knowing that the client did not consent to the striking out. 
+- Lawyer then hid the fact that he consented to the striking out from the client. 
+- Charged under s83(2)(h) and suspended for 3 years 
+
+B2(j): Duty to use all legal means to advance client’s interests – Rule 5(2)(j) 
+Rule 5(2)(j) of PCR
+- A legal practitioner must use all legal means to advance the client’s interests, to the extent that the legal practitioner may reasonably be expected to do so 
+
+B2(k): Duty to keep contemporaneous records of client’s instructions and advice rendered – Rule 5(2)(k)
+Rule 5(2)(k) of PCR 
+- A legal practitioner must keep proper contemporaneous records of all instructions received from, and all advice rendered to the client 
+
+Duty to maintain contemporaneous notes of dealings extends to routine matters 
+PD 7.1.1
+- Legal practitioners are required to maintain contemporaneous notes of their dealings with clients even for routine matters
+
+If dispute over solicitor-client dealings => If solicitor has no contemporaneous notes => Court may draw adverse inference against lawyer’s testimony 
+PD 7.1.1
+- Contemporaneous notes help to clarify matters and corroborate a lawyer’s testimony if there is a dispute over what happened 
+- Without these notes, the court may draw an adverse inference against the legal practitioner’s testimony of events.
+
+Evidential weight of contemporaneous note is stronger than evidential weight of lawyer’s description of matters post-event 
+Lie Hendri Rusli v Wong Tan and Molly Lim (a firm)
+- In a dispute with a client, lawyer will likely have to recall what sort of advice he gave to the client 
+- Without a contemporaneous note, lawyers can only describe their usual advice in the particular circumstance and speculate that the advice was what he “must” have said => This carries lesser weight than a contemporaneous attendance note written at that point in time 
+- Lack of contemporaneous note does not mean that the lawyer is not credible and contemporaneous notes might not automatically be accepted => But It is always better to have 
+- Law Society recommends that lawyers should confirm in writing the advice given and the instructions received 
+
+
+B3. CONFIDENTIALITY (RULE 6 PCR)
+Principles underlying Rule 6 PCR 
+Rule 6(1) of PCR
+- Lawyer duty to act in best interest of client => Duty to maintain confidentiality of any information acquired by lawyer in the course of professional work: A legal practitioner’s duty to act in the best interests of the legal practitioner’s client includes a responsibility to maintain the confidentiality of any information which the legal practitioner acquires in the course of the legal practitioner’s professional work 
+
+Duty of confidentiality
+Rule 6(2) of PCR
+Duty to not knowingly disclose information which is confidential to client and is acquired by lawyer in course of his engagement
+- Subject to paragraph (3) and any rules under ss136, 160 or 166, a legal practitioner must not knowingly disclose any information which: 
+a. Is confidential to his client; AND 
+b. Is acquired by the legal practitioner (whether from the client or from any other person) in the course of the legal practitioner’s engagement
+
+Principle 1: Information must be confidential in nature to begin with 
+LSS v Ravi s/o Madasamy 
+- Mere act of disclosure is not sufficient by itself to constitute a breach of confidentiality
+- There can only be a breach of confidentiality if, to begin with, the information was confidential in nature => Meaning it must not be publicly available 
+a. E.g. a letter from Courts to the client/lawyer concerning hearing dates may be publicly available and accessed from public hearing lists and are thus not confidential in nature 
+
+Principle 2: Importance of “privileged and confidential” express disclaimer 
+HT. S. R. L v Wee Shuo Woon 
+- Regardless of the contents of the email, an obligation of confidentiality will be imposed if there is an express “privileged and confidential” provision 
+- Facts: Pf commenced suit against Df. Pf’s computer was hacked and emails between Pf and Pf lawyer were released on the internet. Df sought to rely on the emails to strike out a bulk of the Pf’s claim. 
+- Held: The emails contained express provisos that they were “Privileged and Confidential” and thus the emails were still protected by confidentiality and the Df could not rely on them 
+
+*5 EXCEPTIONS TO CONFIDENTIALITY
+Rule 6(3) of PCR
+- A legal practitioner may disclose confidential information if: 
+a. Client authorizes disclosure: Client authorizes the disclosure 
+b. Lawyer required by law/order of Court to disclose: Legal practitioner is permitted or is required by law, by an order of court, or by a tribunal to make the disclosure 
+c. Lawyer disclose information for sole purpose of obtaining advice on its legal or ethical obligation: Legal practitioner discloses information in confidence for the sole purpose of obtaining advice in connection with the legal practitioner’s legal or ethical obligations 
+d. Lawyer disclose information to lawyer’s professional indemnity insurance when there is actual/potential complaint against lawyer: Legal practitioner discloses information in confidence to a provider or broker of the legal practitioner’s professional indemnity insurance in connection with any actual/potential claim or complaint by any person against the legal practitioner 
+e. Lawyer disclose information for sole purpose of defending complaints against his professional conduct: Legal practitioner discloses information for the sole purpose of responding or defending any charge or complaint relating to the legal practitioner’s professional conduct brought against the legal practitioner in court, before a Review Committee, an Inquiry Committee or a Disciplinary Tribunal or any relevant professional disciplinary of a foreign state which the legal practitioner is authorized to practice law 
+
+When authorities invoke powers to request for confidential information from lawyers => Lawyers have ethical duty to ensure that the authorities’ invoked power exists 
+PD 9.1.1
+- When various authorities such as Comptroller of Income Tax, Commercial Affairs Department and Official Assignee request for client’s confidential information from lawyers and claims to do so pursuant to their powers under relevant legislation => Lawyers have an ethical duty to satisfy himself that the authorities’ power invoked exists and have to make the necessary submissions for the client if there is an argument that the power does not exist or if the confidential information is provided by legal professional privilege 
+
+Professional Privilege: Lawyer’s duty to maintain professional privilege 
+PD 9.1.3 
+Client has professional privilege => Can restrain lawyer from making disclosure 
+- Professional privilege is the client’s and not the lawyers => This means that the client can restrain the legal practitioner from making disclosure or can waive the privilege 
+- Duration of privilege is forever
+
+Professional privilege applies to oral and written communications made between lawyer and client in lawyer’s professional capacity and legitimate course of lawyer’s professional employment 
+- Privilege applies to communications:
+a. Made directly or indirectly to legal practitioner by his client 
+b. Made to the legal practitioner in his professional capacity and in the legitimate course of his professional employment 
+c. There is no requirement for the communication to relate to a cause in progress or a cause in contemplation 
+- Privilege can attach to:
+a. Oral or written communications e.g. letters, deeds, bills of costs, entries, statements 
+b. Any other communications made by client to legal practitioner in the normal course of professional employment
+c. Information obtained by the legal practitioner when collecting evidence on behalf of the client.
+
+Privilege does NOT apply to non-confidential information, facts that are patent to senses, communications made in furtherance of fraud or crime etc. 
+- No privilege attaches to: 
+a. Any information which is not confidential in nature
+b. Facts which are patent to the senses e.g. the date on which a legal practitioner was first instructed, the fact that the client executed a particular deed, the fact that the legal practitioner witnessed that deed
+c. Communications which client has instructed his legal practitioner to repeat to a 3rd party and the communication was not intended to be confidential 
+d. Record of public proceedings 
+e. Communications made to legal practitioner in furtherance of a fraud or crime notwithstanding that the legal practitioner might not have been aware of the criminal or fraudulent purpose at the time the communication was made => However, privilege can still apply for communications made to a legal practitioner for the purpose of a defense in criminal proceedings as long as they are not made in furtherance of a criminal purpose 
+
+Where multiple clients employ common lawyer => Communications made to lawyer in common capacity are not privileged between the multiple clients involved 
+- Where several parties employ a common legal practitioner and have made communications to the legal practitioner in his common capacity then the communications are not privileged between those parties 
+
+
+
+*B4. INTERESTS OF 2 OR MORE CLIENTS (RULE 20 PCR)
+Principles underlying Rule 20 PCR 
+Rule 20(1) of PCR
+a. Lawyer owes duty of loyalty and confidentiality to each client => Lawyer must avoid conflict or potential conflict between multiple clients: A legal practitioner owes duties of loyalty and confidentiality to each client of the legal practitioner and must act prudently to avoid any compromise of lawyer-client relationship between legal practitioner and client by reason of a conflict, or potential conflict between the interests of 2 or more clients of the legal practitioner 
+b. LP owes duty of loyalty and confidentiality to each client => LP must avoid conflict or potential conflict between multiple clients:  A law practice owes duties of loyalty and confidentiality to each client of the law practice, and must act prudently to avoid any compromise of the lawyer-client relationship between the law practice and the client by reason of a conflict, or potential conflict between the interests of 2 or more clients of the law practice 
+
+Lie Hendri Rusli v Wong Tan and Molly Lim
+- While representing multiple parties to a transaction is not in and of itself improper, the lawyer cannot prefer the interests of one client over another 
+
+Summary of points from Kuek Siang Wei 
+- Conflict of Interest Handling:
+a. Solicitor must assess if they can act competently for all beneficiaries without compromising any interests.
+b. If conflict is manageable (which is usually possible), i.e. solicitor is able to act for all parties in a competent and even-handed manner, solicitor should seek informed consent from all beneficiaries.
+c. There are cases where it's impossible to represent all parties without favoring one; in such cases, solicitor must decline representation for one or more parties.
+- Informed Consent Process:
+a. Solicitor, if proceeding with informed consent, must communicate directly with beneficiaries.
+b. Explain potential conflicts, constraints, and the possibility of withdrawal.
+c. Advise beneficiaries to seek independent legal advice.
+d. Record any refusal to seek advice in writing and possibly obtain written confirmation of the decision.
+e. Obtain a written acknowledgment of informed consent from each beneficiary.
+- Ongoing Communication Obligation:
+a. Duty to communicate with beneficiaries may continue throughout the retainer.
+b. Direct communication with all beneficiaries may be necessary, even if one is authorized to act on behalf of all.
+c. Caution against relying solely on one beneficiary's updates; direct communication may still be required.
+
+
+REQUIRES CLIENTS TO BE IN SAME MATTER
+Case A: lawyer HAS NOT taken on the matter – RIGHT FROM THE START
+Step 1: Identify whether potential conflict will arise – Rule 20(2)
+Rule 20(2) of PCR
+- GENERAL RULE: ***Rules 20(3), 20(4) and 20(7) of PCR apply where: 
+a. Requirement 1: Legal practitioner or law practice intends to act for 2 or more different parties (relevant party) to a matter or transaction; and 
+b. Requirement 2: A diversity of interests exists, or may reasonably be expected to exist between those parties 
+
+If potential conflict will arise => Lawyer will have duties under Rules 20(3), 20(4) and 20(7)
+
+Definition of “matter”: 
+- Matters are related if they are dealing with the same matters which are subject matter of the current engagement: Vorobiev Nikolay v Lush John Frederick Peters [2010] SGHC 290
+- A related matter will always include any other matter which involves the same asset or liability: R 3.01 UK Solicitor’s Code of Conduct, referenced in Richard Hoare v Norhayate Binte Abdul Jali [2011] SGDC 58
+- E.g. if candidate is acting for Company A against multiple creditors and Company B is one of the creditors that could make a winding up application against Company A (even if it has not yet done so), it can reasonably be said to be the same matter or transaction
+
+FAQ: 
+- If lawyer is acting for Company A against its multiple creditors and also acting for Company B which is one of the creditors => The lawyer can reasonably be said to be acting for 2 or more different parties to the same matter or transaction 
+
+Definition of “diversity of interest” 
+- Mahidon: Lawyer acting for both sole administrator and beneficiaries => Lawyer took instructions from sole administrator to get beneficiaries to renounce their interest in father’s estate => Sole administrator gained substantially => Diversity of interest because sole administrator’s gain was the beneficiaries’ loss 
+
+Step 2: For all matters – Duties under Rule 20(3)(a), 20(3)(c), 20(3)(d), 20(3)(e)
+I. Duty to explain conflict and consequences to each relevant party 
+Rule 20(3)(a) of PCR 
+- Before accepting any instructions from any relevant party in relation to the matter or transaction, the legal practitioner or law practice:
+a. Must communicate directly with each relevant party
+(i) Explain conflict and consequences: To explain to EACH relevant party 
+A. How the interests of all or any of the relevant parties diverge or may diverge 
+B. How the legal practitioner or law practice may be prevented from disclosing to a relevant party information obtained from another relevant party, despite the relevance of the information to the matter or transaction; and 
+C. How the legal practitioner or law practice may be prevented from giving to a relevant party any advice that is prejudicial to another relevant party 
+(ii) Explain potential cessation of relationship: To inform EACH relevant party that legal practitioner or law practice must cease to act in the matter or transaction if, in the course of the retainer, the legal practitioner or law practice has difficulty in advising on and dealing with the relevant parties’ divergent interests competently, evenly and consistently 
+(iii) Answer queries about the conflict: To receive and deal with any queries which EACH relevant party may have on the matter or transaction, or on the risks of all or any of the relevant parties being jointly represented in the matter or transaction by the legal practitioner or law practice; and
+(iv) Ascertain intentions of each relevant party: To ascertain precisely the intentions of EACH relevant party 
+
+II. Duty to advise each relevant party to obtain independent legal advice and obtain written confirmation if relevant party declines 
+Rule 20(3)(c) and Rule 20(3)(d) of PCR – For general matters
+- Advise to obtain independent legal advice: Before accepting any instructions from any relevant party in relation to the matter or transaction, the legal practitioner or law practice must advise EACH relevant party to obtain independent legal advice 
+- Written confirmation from each relevant party who declines to obtain so: If a particular relevant party does not obtain independent legal advice, must obtain a written confirmation from the relevant party or maintain a written record that the relevant party declines to do so 
+
+III. Duty to obtain informed consent in writing from each relevant party 
+Rule 20(3)(e) of PCR– For general matters
+- Obtain informed consent in writing from each relevant party – Consent for lawyer/LP to act for all relevant parties despite divergent interests: Before accepting any instructions from any relevant party in relation to the matter or transaction, the legal practitioner or law practice must obtain EACH relevant party’s informed consent in writing to the legal practitioner or law practice acting for all relevant parties despite the relevant parties’ divergent interests 
+
+Step 3 (if necessary): For transactional matters – Additional duty under Rule 20(3)(b) 
+I. Duty to identify if **transaction will be ostensibly or potentially disadvantageous to particular relevant party 
+
+II. Duty to explain conflict and consequences to that particular relevant party + Duty to verify relevant party’s instructions + Duty to ensure relevant party not misled
+
+Rule 20(3)(b) of PCR – For transactional matters only
+- Before accepting any instructions from any relevant party in relation to the matter or transaction, the legal practitioner or law practice, in the case of a transaction that is ostensibly or potentially disadvantageous to a particular relevant party, must also communicate directly with the relevant party: 
+(i) Explain conflict and consequences: To explain the relevant party’s position and how the relevant party’s position will or may be altered to the relevant party’s detriment by the transaction
+(ii) Verify intentions of relevant party: To verify whether any instructions purportedly given on behalf of the relevant party do in fact reflect the relevant party’s intentions; and 
+(iii) Ensure relevant party not misled: To remove any doubt as to whether the relevant party may have been misled by, or may be acting under the undue influence of, another person
+
+Step 4: If lawyer carries on representing relevant parties notwithstanding the conflict/potential conflict => Lawyer/LP will continue to owe duties under Rule 20(4) to relevant parties 
+I. Duty to inform relevant parties of any conflict that arises throughout retainer 
+Rule 20(4)(a) of PCR
+- The legal practitioner or law practice must throughout the course of the retainer for the matter or transaction: 
+(i) Continue to be vigilant of any conflict or potential conflict between the interests of any of the relevant parties; and 
+(ii) Inform each relevant party of any conflict or potential conflict that arises or may arise between the interests of any of the relevant parties 
+
+II. Duty to cease acting for all parties if lawyer/LP has difficulty in properly advising and dealing with relevant parties’ divergent interests 
+Rule 20(4)(b) of PCR
+- Must cease to act in the matter or transaction if, in the course of the retainer, the legal practitioner or law practice has difficulty in advising on and dealing with the relevant parties’ divergent interests competently, evenly and consistently 
+EXCEPTION
+Exception to Rule 20(4)(b): Lawyer/LP can choose to drop all relevant parties except one and obtain consent from the dropped relevant parties for lawyer to continue to act for that one 
+Rule 20(7) of PCR
+- Despite Rules 20(4)(b) and 20(6)(b), legal practitioner or law practice may continue to act for a relevant party in the matter or transaction if: 
+a. Legal practitioner or law practice ceases to act for all other relevant parties whose interests diverge from the interests of that relevant party; and 
+b. All of those other relevant parties give their informed consent in writing for the legal practitioner or law practice to continue to act in the matter or transaction 
+
+REQUIRES CLIENTS TO BE IN SAME MATTER
+Case B: lawyer HAS already taken on the matter
+Step 1: Identify whether a conflict has arisen 
+Rule 20(5) of PCR
+- Rules 20(6) and 20(7) of PCR apply where: 
+a. Requirement 1: A legal practitioner or law practice acts for 2 or more different parties (relevant party) to a matter or transaction; and 
+b. Requirement 2: A diversity of interests arises between those parties during the course of the retainer for the matter or transaction 
+If conflict has arisen when lawyer has already taken on the matter => Lawyer will have duties under Rules 20(6) and 20(7)
+
+Step 2: Lawyer/LP will owe duties under Rule 20(6) as he continues retainer with the relevant parties  
+I. Duty to inform relevant parties of any conflict that arises throughout retainer 
+Rule 20(6)(a) of PCR
+- The legal practitioner or law practice: Must throughout the course of the retainer for the matter or transaction: 
+(i) Continue to be vigilant of any conflict or potential conflict between the interests of any of the relevant parties; and 
+(ii) Inform each relevant party of any conflict or potential conflict that arises or may arise between the interests of any of the relevant parties 
+
+II. Duty to cease acting (*FOR ALL THE PARTIES) if lawyer/LP has difficulty in properly advising and dealing with relevant parties’ divergent interests 
+Rule 20(6)(b) of PCR
+a. Must cease to act in the matter or transaction if, in the course of the retainer, the legal practitioner or law practice has difficulty in advising on and dealing with the relevant parties’ divergent interests competently, evenly and consistently 
+
+EXCEPTION (same as above)
+Exception to Rule 20(6)(b): Lawyer/LP can choose to drop all relevant parties except one and obtain consent from the dropped relevant parties for lawyer to continue to act for that one 
+Rule 20(7) of PCR
+- Despite Rules 20(4)(b) and 20(6)(b), legal practitioner or law practice may continue to act for a relevant party in the matter or transaction if: 
+a. Legal practitioner or law practice ceases to act for all other relevant parties whose interests diverge from the interests of that relevant party; and 
+b. All of those other relevant parties give their informed consent in writing for the legal practitioner or law practice to continue to act in the matter or transaction 
+
+Specific Scenarios of Conflict
+Scenario 1: Lawyer/LP drafts document for 2 or more parties => Dispute arises from the document => Lawyer/LP prohibited from representing any of the parties in dispute 
+Rule 20(8) of PCR
+- Where a legal practitioner or law practice has prepared a document on behalf of 2 or more parties concerning their rights and obligations => 2 or more of those parties become involved in a dispute arising from the document => The legal practitioner or law practice must not represent any disputing party in the dispute 
+
+Scenario 2: Lawyer/LP acting for both Applicant Creditors and Provisional Liquidator => Undesirable 
+PD 7.2.2: Acting for both Applicant Creditors and Provisional Liquidator (Undesirable)
+- When law practice acting for applicant creditors of a company => Court appoints a provisional liquidator for company pending outcome of winding-up application => Undesirable for law practice to act also on behalf of the provisional liquidator 
+a. Conflict between applicant creditors of company and provisional liquidator of company 
+
+Scenario 3: Lawyer/LP acting for both Complainant (victim) and Accused => Prohibited 
+PD 7.2.3: Acting for both Complainant and Accused (Prohibition) 
+- When legal practitioner has been retained by complainant to act for him in a criminal case => Legal practitioner cannot subsequently represent the accused person in his defense in same case 
+- Even though complainant only engaged legal practitioner to help obtain a certified true copy of the police report and did nothing further 
+
+Scenario 4: Lawyer/LP acting for both Debenture Holder and Receiver appointed by Debenture Holder 
+PD 7.2.4: Acting for both Debenture Holder of a Company and Receiver Appointed by the Holder (Not objectionable) 
+- When legal practitioner acts for debenture holder of a company (appointer) => It is not objectionable for legal practitioner to also act for the receiver 
+Reason:
+- Receiver is invariably a public accountant who should be able to identify a situation that is likely to give rise to a conflict of interest between the company he represents and the debenture holder => If a conflict of interest exists then the receiver should use a different legal practitioner. Legal practitioner should also be expected to advise receiver to engage a different legal practitioner 
+- There is no actual conflict but only a likelihood of conflict which could be remote 
+
+Scenario 5: Certain groups of people prohibited from litigating in any proceedings where public authority is a party or is directly interested in 
+PD 7.2.1: Acting against a Public Authority
+- The following people
+a. Solicitor who is a member of a public authority
+b. Partner of such solicitor 
+c. Assistant employed by such solicitor 
+should not be professionally engaged against such authority in any proceedings to which such authority is a party or in any matter in which such authority is directly interested 
+
+Exceptions
+- If exceptional circumstances justify any departure from this general rule, it is the duty of the solicitor to ensure that the interests of the authority are effectively protected 
+
+Case C: Not on the same matter, but multiple clients
+Scenario 6: Different scenarios mentioned in case law 
+COI likely COI unlikely LSS v Subbiah Pillai 
+- Sale and purchase transactions 
+- Interests of buyer and seller are in conflict 
+- Documentation is never identical 
+Lie Hendri Rusli v Wong Tan and Molly Lim (a firm) 
+- Straightforward case which is ministerial in nature Lie Hendri Rusli v Wong Tan and Molly Lim (a firm) 
+- Transactions where terms are required to be negotiated 
+Tan Phuay Kiang 
+- Standard banking documentation in straightforward loans 
+Lie Hendri Rusli v Wong Tan and Molly Lim (a firm) 
+- Where family members are parties to an arrangement 
+
+Case Law Principles on Conflicts between multiple clients 
+Principle 1: No general prohibition against acting for multiple clients => Overriding question is whether the interests of the relevant parties are adequately protected 
+Lie Hendri Rusli v Wong Tan and Molly Lim (a firm) 
+- Pf was a company which had close business relationships with another company, Alps 
+- Pf business met with difficulties and Alps pressed Pf for settlement of debts 
+- Pf and Alps reached an agreement on how to settle the debts 
+- Alps suggested that Pf hire the Df lawyer to help restructure the facility agreement 
+- Pf was not informed that the Df lawyer was also working for Alps and the bank 
+- Held: No Breach 
+1. There is no breach as Df lawyer had properly explained the purport and intent of the legal documents to the Pf 
+2. The omission to inform the Pf that Df lawyer was also acting for Alps and the bank was not a material one and there was no sinister or improper motive 
+3. Even if Df lawyer had disclosed to the Pf, the Df lawyer would have given the client the exact same advice and information as if the Pf was his only client 
+- Principles:
+1. Representing multiple parties is not in and of itself improper and the question to be answered is whether the interests of the parties are adequately protected 
+2. However, solicitor who objectively reaches crossroads when he has difficult in advising and dealing with multiple clients competently, evenly and consistently ought to discharge himself from further involvement in the subject matter
+
+Lie Hendri Rusli v Wong Tan and Molly Lim (a firm) – Conveyancing transactions => Typically no real conflict
+- Common for solicitor to act for more than one party in a conveyancing transaction 
+- Solicitor is not invariably in a position of conflict as parties all share a community of interests in completing the transaction 
+- Solicitor can act for multiple parties if he can fairly and objectively discharge his responsibility to protect each client’s interest with the same competence and skill that a solicitor acting for a single party would demonstrate 
+
+Lie Hendri Rusli v Wong Tan and Molly Lim (a firm) – Standard banking documentation in straightforward loan arrangements => Typically no real conflict
+- Usually no potential or actual conflict of interest provided solicitor clearly and adequately explain to parties the ambit and purport of the documentation generating their responsibilities and liabilities 
+- It is recognized that in most personal facilities, the borrower and mortgagor are invariably in no position to have lender’s standard terms re-negotiation or altered and there is very little scope for a conflict of interest 
+- E.g. Documentation involving CPF charges 
+- Solicitor’s primary responsibility is to ensure that multiple clients to loan transactions understand the responsibilities, liabilities and obligations 
+=> Public interest element in allowing multiple representation in certain matters: Practice assists in lowering transactional legal costs in standard matters 
+
+However 
+- If banking terms need to be negotiated => Must advise clients to seek independent representation 
+- If family member like wife or child is party to facility arrangement => Must advise client to get independent advice as there might be issues of undue influence 
+
+Lie Hendri Rusli v Wong Tan and Molly Lim (a firm) – Sale and purchase situation => Real conflict 
+- Documentation for sale and purchase hardly ever identical even if common templates are relied upon 
+
+Principle 2: Standard of skill and care expected of a solicitor acting for multiple parties vis-à-vis each client must be at least equivalent to that of the solicitor acting for a single party (Lie Hendri Rusli) 
+
+Principle 3: Recommended 5-step precautions for lawyers acting for multiple clients 
+LSS v Uthayasurian Sidambaram 
+- General rule: Solicitor must remember that his paramount duty is to conscientiously, unwaveringly and faithfully advance the interests of his clients and avoid all actual and/or potential conflict of interest
+- Recommended precautions when acting for multiple clients: 
+1. Advise client of risks and consequences of multiple representations and the actual or potential conflict that may arise 
+2. Give full disclosure and advise client to seek independent legal advice
+3. Highlight and advise on legal ramifications of transactions 
+4. Keep proper documents and contemporaneous attendance notes of significant advice rendered to clients 
+5. Be careful not to be a mere conduit or puppet 
+Irrelevant that there is no self-dealing (i.e. acting in his own interest) by the lawyer if he placed himself in situations where his duties to both parties were in conflict without proper precautions taken or advice given. The solicitor also has the burden to point out the COI even if parties were aware of it (Subbiah Pillai)
+
+Principle 4: Prejudicial transactions by client will be treated as suspect 
+Mahidon Nichiar bte Mohd Ali v Dawood Sultan Kamaldin 
+- Where solicitor acts for multiple clients with conflicting interests and where one client enters into a transaction which:
+a. prejudices him; and 
+b. benefits the conflicting interests of another client who is also represented by same lawyer 
+- that transaction:
+a. will be regarded as suspect; and 
+b. will be liable to be set aside in the absence of clear evidence that the solicitor did in fact fully advise the client who was prejudiced as to the terms and effect of the transaction 
+- Issue: Whether 3 siblings in signing the deed, understood what they were signing. This is dependent on whether they had been appropriately advised by their lawyers 
+- Held: There was a conflict that was very big as one party stood to gain everything and the others to lose everything 
+
+*Principle 5: Definition of “informed consent” 
+LSS v Uthayasurian Sidambaram 
+- Informed consent: Consent given in the knowledge that there is a conflict between the parties and that as a result, the solicitor may be disabled from disclosing to each client the full knowledge which he possesses as to the transaction or may be disabled from giving advice to one client which conflicts with the interests of the other 
+
+Principle 6: Lawyer should not place himself in a situation where there would be a conflict  
+LSS v Ahmad Khalis bin Abdul Ghani 
+- Implied retainer arose between the lawyer and the beneficiaries of the estate, and it created a conflict between lawyer’s duties to original client and lawyer’s duties to beneficiaries of the estate arising out of the implied retainer 
+- Held: 
+1. Lawyer should not place himself in the position in a situation where there would be a conflict of interest between his original client and the beneficiaries of the estate => Lawyer should not have allowed for implied retainer to arise between him and beneficiaries of estate 
+2. Lawyer should know he cannot satisfy all clients in the transaction because of diversity of opposing interests and must: 
+a. Seek informed consent of parties; OR 
+b. Extricate themselves from the conflict by declining to act for some or all of them 
+
+Principle 7: Lawyer must discharge duty to advise client to seek independent legal advice 
+LSS v Ganesan Krishnan
+- Held: 
+1. Even though lawyer had properly explained the purport and implication of the legal instrument (power of attorney) to the complainant
+2. Lawyer was still sanctioned because he failed to advise his client to seek independent legal advice 
+
+Principle 8: Two partners from same firm, each representing opposing parties in a case are both in conflict  
+LSS v Surinder Singh Dhillon 
+- Held: 
+1. Two lawyers practicing as partners in the same firm each represented parties who had opposing interests in a case and are both in breach 
+2. Reason: One of the underlying policy of conflict rules is the need to preserve the sanctity of trust and confidence between a lawyer and his client to allow the client to confide in his solicitor 
+
+Principle 9: 3 categories of conflict of interest and principles on sentencing
+LSS v Ezekiel Peter Latimer 
+- Court recognized that there could be 3 categories of conflict of interest: 
+1. Where errant solicitor preferred his own interests over that of a client 
+2. Where errant solicitor preferred interests of one client over the other 
+3. Where errant solicitor failed to advise a client of a potential conflict of interest arising out of concurrent representation 
+- Principles on sentencing:
+1. Where errant solicitor preferred own interests over client: Striking off is presumptive penalty 
+a. Reason: There is greater harm and culpability due to the abuse of trust between lawyer and client 
+2. Where errant solicitor preferred interests of one client over the other: Suspension is more appropriate 
+
+*B5. INTERESTS OF CURRENT CLIENT AND FORMER CLIENT (RULE 21 PCR)
+Principles underlying Rule 21 PCR 
+Rule 21(1) of PCR
+a. Lawyer owes duties to client after termination of retainer: The duties of loyalty and confidentiality owed by a legal practitioner to his client continues after the termination of the retainer 
+b. LP owes duties to client after the termination of retainer: The duties of loyalty and confidentiality owed by a law practice to its client continue after the termination of the retainer 
+
+Duty to not represent current client because of conflict with former client 
+GENERAL RULE: ***If 3 conditions satisfied => Lawyer/LP must decline to represent current client  
+Rule 21(2) of PCR
+- Subject to Rules 21(3), 21(4) and 21(5), a legal practitioner or law practice must decline to represent or must withdraw from representing a client (called in this rule the current client) in a matter if: 
+a. Requirement 1: The legal practitioner or the law practice holds confidential information relating to a former client (called in this rule the former client) that is protected by Rule 6 
+b. Requirement 2: The current client has an interest that is, or may reasonably be expected to be, adverse to an interest of the former client; and 
+c. Requirement 3: That information may reasonably be expected to be material to the representation of the current client in that matter 
+
+Referencing old cases (which can be used to show requirements 2-3 of Rule 21(2) PCR):
+- Same subject matter or asset or liability (Lush John Fredericks; Norhayati) --> higher chance there is adverse interest or confidential information that is material to current representation
+- Alignment of interests (India International Insurance)
+
+*3 EXCEPTIONS (i.e. can still act for current/prospective client)
+Exception 1: Where lawyer/LP advise former client to get independent advice + Former client gives informed consent in writing for lawyer/LP to continue acting for current client
+Rule 21(3) of PCR
+- Rule 21(2) does not prevent a legal practitioner or law practice from acting or continuing to act for the current client, subject to any conditions agreed between the legal practitioner or law practice and the former client if:
+a. The legal practitioner or law practice has adequately advised the former client to obtain independent legal advice; and 
+b. The former client gives the former client’s informed consent in writing to the legal practitioner or law practice acting, or continuing to act, for the current client 
+
+Exception 2: (if informed consent cannot be received from the former client – at LP level) Safeguards to protect former client confidential information + Lawyer/LP informs former client of safeguards and lawyer/LP intention to continue acting for current client
+Rule 21(4) of PCR
+- Even if Rule 21(3) is not met, Rule 21(2) does not prevent the legal practitioner or law practice from acting, or continuing to act for the current client if: 
+a. There are adequate safeguards in place to protect the former client’s confidential information; and 
+b. The legal practitioner or law practice has made reasonable efforts to notify the former client:
+(i) Of those safeguards; and 
+(ii) That the legal practitioner or law practice will act, continue to act, for the current client 
+
+Exception 3: where Rule 21(3)(a) and Rule 21(4)(b) is illegal (e.g. in order to tell the former client, you would breach the duty of confidentiality to your current client): Safeguards to protect former client confidential information + Ensures former client confidential information is not disclosed without consent 
+Rule 21(5) of PCR
+- Even if it would be illegal for legal practitioner or law practice to meet Rule 21(3)(a) and Rule 21(4)(b), Rule 21(2) does not prevent legal practitioner or law practice from acting for current claim if: 
+a. There are adequate safeguards in place to protect the former client’s confidential information; and 
+b. The legal practitioner or law practice ensures that the former client’s confidential information is not accessed, used or disclosed without the former client’s consent in writing 
+
+Requirements for former clients to apply to Court for injunction to restrain law firm from acting for a prospective client on grounds of conflict of interest 
+Step 1: Former clients will have to satisfy the Bolkiah test 
+Harsha Rajkumar Mirpuri (Mrs) nee Subita Shewakram Samtani v Shanti Shewakram Samtani Mrs Shanti Haresh Chugani 
+- Former clients will have to establish that: 
+a. Law firm is in possession of information which are confidential to former client and that former client has not consented to any disclosure 
+b. The information is or may be relevant to a new matter in which the interests of the prospective client are adverse to the former client’s
+c. There is a risk that the confidential information would come into the possession of those now acting for the prospective client 
+
+Step 2: Former clients will have to show that any measures taken by the law firm to ensure that they will not disclose the former client’s confidential information to the prospective client are ineffective 
+Harsha Rajkumar Mirpuri (Mrs) nee Subita Shewakram Samtani v Shanti Shewakram Samtani Mrs Shanti Haresh Chugani 
+- Factors to show effectiveness of measures: 
+a. Nature of work done for the former prospective client 
+b. Timing of creation of any information barrier
+c. Size of the law firm
+d. Physical locations of departments within the law firm
+e. Number and seniority of tainted lawyers 
+
+Harsha Rajkumar Mirpuri (Mrs) nee Subita Shewakram Samtani v Shanti Shewakram Samtani Mrs Shanti Haresh Chugani 
+- Pf approached a law firm to apply for a Mareva Injunction against the Df but eventually did not retain the law firm 
+- Df then appointed the same law firm as their lawyer 
+- Pf protested against Df’s appointment of same law firm by claiming that law firm would be in breach of Rule 21
+- Pf applied for an injunction to restrain the law firm from representing the Df 
+- Held: 
+1. No breach as law firm was not in possession of the Pf’s confidential information 
+2. Whatever the Pf told the law firm in October 2016 had ceased to be confidential when the Pf filed an affidavit in support of a Mareva Injunction against the Df in November 2017
+- Principle: Principles underlying a former prospective client’s application to restrain a law firm from acting for a new client on the ground of protecting former prospective client’s confidential information 
+1. Former prospective client must satisfy Bolkiah test and show: 
+a. Law firm is in possession of information which are confidential to him and that he has not consented to any disclosure 
+b. The information is or may be relevant to a new matter in which the interests of the new client are advise to the former prospective client’s
+c. There is a risk that the new information would come into the possession of those now acting for the new client 
+2. Former prospective client must also show that ineffective measures have been taken to ensure that law firm will not disclose confidential information to new client. Factors to show effectiveness of measures: 
+a. Nature of work done for the former prospective client 
+b. Timing of creation of any information barrier
+c. Size of the law firm
+d. Physical locations of departments within the law firm
+e. Number and seniority of tainted lawyers 
+
+Principles to invoke supervisory jurisdiction of Court to restrain lawyer or law firm from acting
+Lim Oon Kuin v Rajah & Tann Singapore LLP 	
+- Principle: 
+1. Objective test: Whether a fair-minded reasonably informed member of the public would conclude that the proper administration of justice requires that legal practitioner be restrained from acting, in the interests of the protection of the integrity of the judicial process including the appearance of justice 
+2. Countervailing considerations: 
+a. Public interest that a litigant should not be deprived of solicitor of his choice without due cause 
+b. Restraining of lawyer would not be used for “purely tactical reasons” to delay proceedings
+
+Specific Scenarios of Conflict between Current client and Former Client 
+Scenario 1: Where former client’s matters and current client’s matters are related => The former client’s and current client’s interests may reasonably be expected to be adverse under Rule 21(2)(b) (Richard Hoare)
+When are matters considered related?
+- Matters are related where: 
+* Information for first matter is relevant to the second matter (Richard Hoare) 
+* Both matters involve the same asset or liability (Richard Hoare) 
+
+Scenario 2: Lawyer who acted for both mortgagor and mortgagee in transaction => Lawyer should refrain from acting for either of them in litigation pertaining to the same transaction 
+PD 7.2.5: Conflict of Interest – Acting against Former Client in Litigation Pertaining to Same Transaction (Refrain) 
+Legal practitioner who has previously acted for both mortgagor and mortgagee should refrain from acting for either of them in litigation pertaining to the same transaction irrespective of whether: 
+a. Loan has been fully disbursed
+b. Separate title has been issued for the property 
+c. Transfer in favor of purchaser/mortgagor has been perfected
+
+(Question asked:
+- Whether a legal practitioner who has acted for both the mortgagor and the mortgagee in the same transaction can subsequently act for the mortgagee in an action against the mortgagor for default of payment under the mortgage?)
+
+Scenario 3: Lawyer who acted for a party before or after litigation began can still act for the opposing party in another matter
+PD 7.2.6: Conflict of Interest – Mortgagor/Mortgagee
+Guidance: No, Pf’s lawyer is free to carry on
+- There is no general rule that a legal practitioner who had acted for some person either before or after litigation began could not in any case act for the opposite party. In each case, Court has to be satisfied that the mischief was result from the legal practitioner so acting
+- Application: 
+a. No mischief here 
+b. Even though Pf’s lawyer acted for Pf, A and B in mortgage and current account was once secured by the mortgage => The current claim by Pf is solely based on the outstanding balance of the current account and had nothing to do with the mortgage 
+
+(Question asked by lawyer acting for Pf:
+- Pf granted banking facilities to A and B previously 
+- Banking facilities were secured by a mortgage of a property
+- Lawyer acted for both Pf and A and B in the mortgage transaction 
+- Subject property had since been disposed of long ago by A and B 
+- Mortgage of the property had been discharged but A and B still owes the Pf money under Pf’s current account 
+- Pf instructed lawyer to commence legal action against A only for $2.5k with interest 
+- Pf obtained summary judgement against A and filed bankruptcy proceedings against A 
+- Was Pf’s lawyer in conflict and in breach of PD 7.2.5?)
+
+
+*B6. INTERESTS OF CLIENT AND INTERESTS OF LEGAL PRACTITIONER/LAW PRACTICE (RULE 22 PCR)
+Principles underlying Rule 22 PCR 
+Rule 22(1) of PCR
+a. Lawyer duty of loyalty and confidentiality to client => Lawyer must avoid conflict with self-interest: A legal practitioner owes duties of loyalty and confidentiality to a client of the legal practitioner, and must act prudently to avoid any compromise of the lawyer-client relationship between the legal practitioner and the client by reason of a conflict, or potential conflict, between the interests of the client and the interests of the legal practitioner 
+
+b. LP duty of loyalty and confidentiality to client => LP must avoid conflict with self-interest A law practice owes duties of loyalty and confidentiality to a client of the law practice and must act prudently to avoid any compromise of the lawyer-client relationship between the law practice and the client by reason of a conflict, or potential conflict, between the interests of the client and the interests of the law practice 
+
+Lawyer/LP’s duty to not represent client because of conflict between client’s interests and lawyer/LP’s interests => VERY USEFUL 
+If reasonably expect conflict between Duty to serve the best interests of the client vs Interests of the lawyer/LP => Lawyer/LP must not act for the client 
+Rule 22(2) of PCR
+- Except as otherwise permitted by this rule, a legal practitioner/law practice must not act for a client if there is or may reasonably be expected to be a conflict between:
+a. Duty to serve the best interests of the client; and 
+b. Interests of the legal practitioner or law practice (*NOTE: not limited to the lawyer/LP alone but also the immediate family member of the legal practitioner)
+
+Difference between lawyer’s “adverse” and “non-adverse” interest in client’s matter:
+- If lawyer has interest in client’s matter => He may advance his own interests over the client’s interests => This gives rise to a conflict
+- However, this is different from saying that the interest itself is adverse to the client’s interests => Whether the lawyer’s interest is adverse to the client’s matter depends on the facts 
+
+Case A: FOR LAWYER 
+Rule 22(3)(a) of PCR
+Lawyer’s duty to not represent client if lawyer or lawyer’s related parties have an ADVERSE interest in client’s matter => Subject to exception 
+If Lawyer, Lawyer’s immediate family member, Lawyer’s law practice has an interest in client’s matter and if the interest is adverse to the client’s interests => Lawyer must not represent the client 
+ 
+Exception: Lawyer can represent current client if he: 
+(i) Makes full and frank disclosure of adverse interest to client; AND
+(ii) Advises client to obtain independent legal advice; AND 
+(iii) And if client does not obtain independent legal advice, lawyer must ensure that client is not under an impression that the lawyer is protecting the client’s interests (i.e. Client must know that LP is not protecting the client’s interests over LP’s); AND  
+(iv) Client has given informed consent in writing for the lawyer to continue acting for client 
+
+Rule 22(3)(b) of PCR
+(in any other case) Lawyer’s duty to not represent client if lawyer or lawyer’s related parties have a NON-ADVERSE interest in client’s matter => Subject to exception 
+If Lawyer, Lawyer’s immediate family member, Lawyer’s law practice has an interest in client’s matter and if the interest is NOT adverse to the client’s interests => Lawyer must not represent the client 
+ 
+Exception: Lawyer can represent current client if he: 
+(i) Makes full and frank disclosure of adverse interest to client; AND
+(ii) Client has given informed consent in writing for the Lawyer to continue acting for client 
+
+
+Case B: FOR LAW PRACTICE: 
+Rule 22(4)(a) of PCR
+LP’s duty to not represent client if LP has an ADVERSE interest in client’s matter => Subject to exception 
+If LP has an interest in client’s matter => If the interest is adverse to the client’s interests => LP must not represent the client 
+ 
+Exception: LP can represent current client if he: 
+(i) Makes full and frank disclosure of adverse interest to client; AND
+(ii) Advises client to obtain independent legal advice; AND 
+(iii) And if client does not obtain independent legal advice, LP must ensure that client is not under an impression that the LP is protecting the client’s interests; AND  
+(iv) Client has given informed consent in writing for the LP to continue acting for client 
+
+
+Rule 22(4)(b) of PCR
+LP’s duty to not represent client if LP has a NON-ADVERSE interest in client’s matter => Subject to exception 
+If LP has an interest in client’s matter => If the interest is adverse to the client’s interests => LP must not represent the client 
+
+Exception: LP can represent current client if he: 
+(i) Makes full and frank disclosure of adverse interest to client; AND
+(ii) Client has given informed consent in writing for the LP to continue acting for client 
+
+
+Case Law Principles for Rule 22 
+Principle 1: “Matter” under Rule 22 refers to the substantive matter which the client has entrusted the solicitor to handle 
+LSS v Low Yong Sen 
+- Purpose of Rule 22 is to ensure that the client will have the chance to assess whether he should allow the matter to remain in the solicitor’s hands or to appoint a new solicitor 
+- “Interest in any matter” cannot be taken to include an interest in the fees charged if not all solicitors would be in breach of Rule 22 as all solicitors have an interest in the fees paid by the client 
+- R’s decision to engage X’s services did not per se raise any problem of conflict, as it is not uncommon for solicitors to outsource services, provided the client’s interest is not compromised
+
+- Facts: R lawyer engaged by C and wife to act in a conveyancing transaction. R engaged freelance conveyancing secretary X to undertake searches in relation to conveyancing matters. X billed for his services through HBS, a business owned by R lawyer’s brother. C was unhappy with R’s bill and lodged a complaint. 
+- Held: R was found guilty of acting in COI or alternatively, failing to disclose the interest of his brother in the matter entrusted to him by his clients. R was also guilty of overcharging and had to show cause. 
+- However, if there had been no overcharging, appointment of X was uneventful and irreproachable.
+- Even if there was overcharging, R would be guilty of a breach of his duty of care, but not for acting in conflict. So R was acquitted.
+
+Principle 2: The person alleging that there is a conflict of interest has to adduce evidence to prove existence of the conflict beyond a reasonable doubt (LSS v Udeh Kumar s/o Sethuraju)
+
+Principle 3: If lawyer was willfully blind to the conflict of interest, lawyer cannot utilize ignorance as an excuse 
+LSS v Udeh Kumar s/o Sethuraju 
+- If lawyer is clearly suspicious that something was amiss but deliberately chose to turn a blind eye to avoid confirming that there is indeed a conflict of interest => Lawyer will not be allowed to utilize ignorance as an excuse 
+
+LSS v Udeh Kumar s/o Sethuraju – Example of NO willful blindness
+- Complainant and ex-husband contacted housing agent for sale of flat 
+- Housing agent worked in a company 49% owned by X who was a sole proprietor of a licensed moneylender 
+- Complainant told housing agent that she needed 10k to settle debts
+- Housing agent introduced complainant to X who agreed to extend loan if complainant appointed Law firm for sale of the flat 
+- Complainant then signed various documents including authorization for Law firm to act in sale of flat, documentation for loan of 9k from X to Complainant, authorization for Law firm to pay 19k from proceeds of sale to X 
+- Complainant revoked Law firm’s authority to distribute proceeds to X and to return the proceeds back to Complainant
+- Law firm then applied to Court to decide whether proceeds should be distributed to X or to the Complainant
+- Complainant complained that: 
+a. Law firm had a relationship with X
+b. Law firm was in breach for acting in conflict of C’s interests and X’s interests which by extension, is the Law firm’s interest 
+- Held: 
+1. Law firm was not in breach 
+a. Insufficient evidence to demonstrate that Law firm had a relationship with X 
+b. Insufficient evidence that Law firm turned a blind eye to the Complainant’s interests in the loan transactions to advance X’s interests
+c. Insufficient evidence to demonstrate that Law firm knew that X was a 49% owner of the housing agent’s estate company and that it was in the housing agent’s interests to recommend the Complainant to X 
+d. Insufficient evidence to demonstrate that X told Complainant that Complainant had to appoint Law firm 
+- Principle: 
+1. If Law firm had turned a willful blind eye to the circumstances where concerns of a potential conflict of interests would reasonably have been satisfied, Law firm would have been guilty 
+
+Principle 4: Rule 22 is for the protection of the client and the client must be the aggrieved party when a solicitor is alleged to have breached the rule (Then Khek Koon v Arjun Permanand Samtani) 
+
+Then Khek Khoon v Arjun Permanand Samtani – Conflict rule is for protection of the client and the client must be the aggrieved party
+- Pf sued Df for damages for solicitor-client costs by the Pf 
+- Df challenged the reasonableness of solicitor-client costs incurred by the Pf 
+- Df sought an injunction to restrain Pf’s solicitors from acting for the Pf because there was a conflict between the Pf’s solicitors and the Pf: 
+a. Pf’s solicitors would have to argue that the solicitor-client costs were reasonable and not too high 
+b. Pf’s had an interest in wanting lower solicitor-client costs 
+- Held: 
+1. Injunction not granted 
+2. Rule was supposed to be for the protection of the clients and not for 3rd parties
+3. If anyone, it must be the Pfs who bring the injunction against Pf’s lawyers but here, the Pfs were happy to have the Pf’s lawyers fight the Df’s allegations 
+
+Principle 5: There need not be harm caused before Rule 22(3) of the PCR is contravened (LSS v Govindan Balan Nair)  
+
+Principle 6: Outsourcing of certain services to related 3rd parties does not automatically result in contravention of s22 
+LSS v Low Yong Sen
+- Solicitors are allowed to outsource services provided that the client’s interests are not compromised 
+- If there was overcharging due to the outsourcing arrangement => The solicitor would be guilty of breach of his duty of care and not for breach of conflict rules 
+
+LSS v Low Yong Sen – No automatic conflict if lawyer outsourced services to related 3rd party 	
+- Lawyer was engaged by client to act in a conveyancing transaction 
+- Lawyer engaged a freelance conveyancing secretary X to undertake searches and requisitions in relation to the conveyancing matters
+- X billed for his services through a business, HBS, owned by lawyer’s brother
+- Client was unhappy with the bill and lodged a complaint 
+- Held: 
+1. Lawyer was not in breach of conflict rules (lawyer only in breach of overcharging rules) 
+2. The definition of “an interest in any matter” does not include an interest in fees charged and “matter” only refers to the substantive matter entrusted by the client 
+3. Lawyer’s decision to engage services of X which was under his brother’s company would not cause lawyer to be in breach for acting in conflict 
+- Principles
+1. Lawyers are allowed to outsource services provided client’s interest is not compromised 
+2. If arrangement is bona fide and there is no overcharging, the decision to outsource is uneventful and irreproachable 
+3. If arrangement is bona fide but there is overcharging, the solicitor would only be guilty of breach of duty of care and not an infringement for acting in conflict 
+
+Principle 7: Personal and sexual relationships between solicitors and their clients can result in conflict between the solicitor’s interests and client’s interests
+LSS v Singham Dennis Mahendran
+- Personal and sexual relationships between solicitors and clients are clearly wrong => If solicitors become too involved in their client’s personal lives during the existence of the solicitor-client relationship, they may find themselves placed in a position of a conflict of interests and the clients’ interests may be seriously prejudiced 
+- The fact that the relationship was consensual and genuine is not an excuse 
+
+Principle 8: LPs should avoid lending money to clients 
+GN 7.4.2: Providing Welfare Assistance to Clients not encouraged
+- When law practice lends money to clients (e.g. foreign workers) => A personal conflict of interest will arise as lawyer will have a creditor-debtor relationship with the client and the debt would only be repaid by client if client’s claim was settled or paid 
+- Law practices should direct clients who require welfare assistance to appropriate organizations that can provide such assistance to them 
+
+Lawyer would want client to be unable to pay the loan => So lawyer can enforce security under loan agreement 
+
+Case Law Examples – Examples of Lawyer placing self-interests over Client’s interests 
+LSS v Govindan Balan Nair – Lawyer breach Rule 22(3)(a) for not informing client of client’s potential claim against lawyer 
+- Held: Lawyer in breach of Rule 22(3)(a) of PCR 
+1. Lawyer failed to withdraw from representing client when he had an adverse interest to the client i.e. the lawyer discovered that his client had a potential claim against him for failure to file client’s defense 
+2. The failure to file defense resulted in default judgement entered against client, and the lawyer did not come clean to the client. The client’s interests and the lawyer’s are not aligned
+3. Lawyer had an adverse interest to client and failed to: 
+(i) Make full and frank disclosure of adverse interest to client
+(ii) Advise client to obtain independent legal advice of ensuring client not under impression that lawyer was protecting client’s interests
+(iii) Obtaining from client informed consent in writing to continue acting for them consequently 
+4. It would be in the client’s interests to know of the lawyer’s negligence and client’s rights in that situation => This was in conflict to lawyer’s interest in protecting himself from liability 
+
+LSS v Tan Phuay Khiang – Lawyer disregarded client’s interests to secure future referrals for himself and prioritized the interests of others (estate agent company and moneylender) ahead of the client’s interests
+- Complainant appointed estate agent to sell flat and estate agent said that complainant had to buy a new flat before selling 
+- Complainant needed money for the new flat and the estate agent introduced complainant to a licensed moneylender 
+- Moneylender agreed to extend loan on a condition that the documents were signed at the moneylender’s lawyer’s office 
+- Amount on documentation turned out to be lesser than the amount disbursed
+- Complainant went to lawyer’s office accompanied by a second estate agent 
+- After flat was sold, lawyer asked complainant to sign statutory declaration authorizing payments to second estate agent, second estate agent’s company, moneylender, a second moneylender, lawyer’s firm and a 3rd party 
+- Complainant complained that lawyer placed himself in a position of conflict by failing to inform complainant of lawyer’s prior and existing relationships with second estate company and moneylender 
+- Held:
+1. Lawyer was in breach and was suspended for 2 years
+2. There was an intricate web of relationships between everyone involved in the statutory declaration 
+a. The second estate agent and moneylender were the lawyer’s former clients and were referring new clients to the lawyer 
+b. Second moneylender was taken over by the manager of the second estate agent’s company 
+3. Lawyer had failed to advise complainant about the basis of the peculiar statutory declaration which authorized payments to lawyer’s former clients as lawyer was putting his own interests in receiving future referrals and the interests of his former clients ahead of the complainant’s interests
+
+Ho Kon Kim v Betsy Lim – Lawyer drafted transaction that led to a dispute and another lawyer from the same firm represented the client in dispute 
+- Lawyer Wong acted for Ho in a transaction that gave rise to a dispute
+- Lawyer Ponniah represented Ho in the dispute 
+- Lawyer Ponniah and Wong were from the same law firm 
+- Held: 
+1. Lawyer Ponniah and Wong should not have represented Ho in the dispute because their firm acted for Ho in the transaction which led to the dispute and they had a personal interest in the case as prima facie the dispute was caused by the way Lawyer Wong handled the transaction in the first place
+2. Lawyer Ponniah and Wong should have discharged themselves from acting for Ho and advised Ho to seek independent legal advice
+
+LSS v Tan Chun Chuen Malcolm – Lawyer procured client to invest money in his own company through false assurances made through the law firm’s letter of engagement 
+- Lawyer practiced with law firm and was also a sole shareholder and director of a business management consultancy and real estate services company 
+- Lawyer promoted investment scheme to client 
+- Client entered in two letters of engagement with the law firm 
+- The letters stated that lawyer will oversee the investments of the client and lawyer was in charge of the matter
+- Letters stated that payments from client were to be made to the law firm’s client account, but lawyer persuaded the client to make payments to the lawyer’s other company instead 
+- Held: 
+1. Lawyer placed himself in a position where duty to act for client’s best interests was in conflict with his self-interest
+2. Lawyer preferred own interests which is to procure the client to invest money in his own company through false assurances made through the law firm’s letters of engagement 
+
+LSS v Lee Suet Fern – Lawyer prepared and executed will of her father-in-law LKY, and her conduct was found to be misconduct unbefitting of an advocate and solicitor
+- A charge against LSF was premised on there being a solicitor-client relationship, but this was not found by the court
+- However, due to her divided loyalties between her husband and testator of the estate LKY, her conduct was found to be misconduct unbefitting of an advocate and solicitor
+
+
+
+B7. CONFLICT OF INTEREST IN FAMILY PROCEEDINGS (RULE 15B PCR)
+Principles underlying Rule 15B PCR 
+Rule 15B(1) of PCR
+a. Lawyer acts in particular role in family proceedings => Lawyer ensure no conflict with client’s interests: A legal practitioner who acts in a particular role in family proceedings must ensure that there is no conflict between that role and the interests of a client
+
+Prohibition from acting for any proceedings if acted as a child representative/parenting coordinator
+If Lawyer acted as child representative or parenting coordinator in family proceedings => Lawyer cannot act for any party in proceedings relating to same matter
+Rule 15B(2) of PCR 
+- A legal practitioner who has acted as a child representative or parenting coordinator in any family proceedings must not subsequently act for any party to those proceedings in relation to:
+a. Subject matter of those proceedings; or 
+b. Any matter relating to those proceedings that was discussed with or in the presence of the legal practitioner, while the legal practitioner was acting as a child representative or parenting coordinator in those proceedings 
+
+B8. PROHIBITED BORROWING TRANSACTIONS (RULE 23 PCR)
+Duty to not engage in prohibited borrowing transactions 
+Rule 23(1) of PCR
+- Lawyer/LP must not: Subject to Rule 23(2), a legal practitioner or law practice must NOT do any of the following:
+a. Enter into a prohibited borrowing transaction; OR 
+b. Instruct, procure, provide security for or arrange for an associated party to enter into a prohibited borrowing transaction; OR 
+c. Knowingly allow an associated party to enter into a prohibited borrowing transaction which the legal practitioner or law practice has the power to prevent 
+
+Step 1: Identifying the prohibited borrowing transaction 
+- “Prohibited borrowing transaction”: **Any transaction where legal practitioner/LP or their associated parties borrow money or valuable security from a client
+- Excludes borrowing transactions from licensed banks, finance companies or any other business which lends money to members of the public 
+
+Definition of “prohibited borrowing transaction” 
+Rule 23(4) of PCR
+- “prohibited borrowing transaction” means any transaction under or by virtue of which money or valuable security is borrowed (whether directly or indirectly, and whether with or without security) from a client of a legal practitioner or law practice:
+a. By the legal practitioner or law practice; OR 
+b. By an associated party of the legal practitioner or law practice 
+- Borrowing: Can be directly or indirectly and whether with or without security 
+- Does not apply to clients who are excepted persons i.e. licensed or authorized banks, finance company or other similar entity the business of which includes lending money to members of the public 
+
+How about law firm lending to client?
+- The Legal Profession Act, which governs legal professionals including lawyers in Singapore, does not outrightly prohibit lawyers from lending money to their clients for lawsuits. However, it is uncommon for lawyers to do so as this may conflict with the lawyer's duty to act objectively in their clients' best interests.
+
+Definition of “client”
+Rule 23(4) of PCR
+- “client”, in relation to a legal practitioner or law practice, includes
+a. Any person who has an existing lawyer-client relationship with the legal practitioner or law practice
+b. Any person seeking to invest money through the legal practitioner or law practice
+c. Any person approached by or on behalf of the legal practitioner or law practice to invest money through the legal practitioner or law practice 
+
+Step 2: Lawyer/LP must not do certain acts vis-à-vis the prohibited borrowing transaction 
+- Lawyer/LP must not: 
+a. Rule 23(1)(a): Enter into a prohibited borrowing transaction; OR 
+b. Rule 23(1)(b): Instruct, procure, provide security for or arrange for an associated party to enter into a prohibited borrowing transaction; OR 
+c. Rule 23(1)(c): Knowingly allow an associated party to enter into a prohibited borrowing transaction which the legal practitioner or law practice has the power to prevent 
+
+Definition of “associated party” 
+Rule 23(4) of PCR
+- “associated party” means
+a. In relation to a legal practitioner
+(i) Any individual who is an immediate family member of
+(A) The legal practitioner; OR 
+(B) The sole proprietor, or any partner, director, consultant or employee, of a law practice in which the legal practitioner practices law; OR 
+(ii) Any body corporate, partnership, syndicate, joint venture or trust in which any of the following individuals has any beneficial interest, whether vested or contingent 
+(A) The legal practitioner; OR 
+(B) Any individual who is an immediately family member of
+(BA) The legal practitioner; OR 
+(BB) The sole proprietor or any partner, director, consultant or employee, of a law practice in which the legal practitioner practices law 
+
+b. In relation to a law practice
+(i) The sole proprietor, or any partner, director, consultant or employee of the law practice
+(ii) Any immediate family member of the sole proprietor, or any partner, director, consultant or employee of the law practice
+(iii) Any body corporate, partnership, syndicate, joint venture or trust in which any of the following has any beneficial interest, whether vested or contingent
+(A) The sole proprietor or any partner, director, consultant or employee of the law practice
+(B) Any immediate family member of the sole proprietor or any partner, director, consultant or employee of the law practice 
+
+EXCEPTIONS if lawyer/LP breaches Rule 23(1)(a) – enter PBT itself
+Step 3: Whether Rule 23(2)(a) exception applies
+2 Requirements for Rule 23(2)(a) exception to apply
+Rule 23(2)(a)
+- Rule 23(1)(a) does not apply to a prohibited borrowing transaction if both of the following apply:
+(i) Requirement 1: Every party to transaction has received independent advice: Every party to the transaction (other than lawyer/LP) has received independent advice before transaction was entered into
+(ii) Requirement 2: Lawyer/LP has made full disclosure of their interest in the transaction: Legal practitioner or law practice has made full disclosure of each interest of the legal practitioner or law practice in the transaction
+
+Definition of “full disclosure”
+S23(4)
+- “full disclosure” means disclosure in writing by a legal practitioner or law practice as would be necessary for a trustee transaction 
+
+Definition of “independent advice”
+S23(4)
+- “independent advice” means advice:
+a. Given in relation to a transaction by a legal practitioner or law practice that
+(i) Is not a party to the transaction; and 
+(ii) Does not represent any associated party in the transaction; and
+b. Which the legal practitioner or legal practice has certified in writing that the legal practitioner or law practice has given 
+
+Step 4: Alternatively, whether Rule 23(2)(b) exception applies 
+2 Requirements for Rule 23(2)(b) exception to apply
+Rule 23(2)(b)
+- Rule 23(1)(a) does not apply to a prohibited borrowing transaction if both of the following apply:
+(i) Requirement 1: Lawyer/LP does not act for any client in the transaction: The legal practitioner or law practice does not act for any client of the legal practitioner or law practice in the transaction
+(ii) Requirement 2: Any client in the transaction is represented by a different lawyer/LP: Any client of the legal practitioner or law practice that is a party to the transaction is represented in the transaction by a legal practitioner from a different law practice or by a different law practice; 
+
+Step 5: Alternatively, whether Rule 23(2)(c) exception applies 
+Council can exercise discretion to exempt the prohibited transaction
+Rule 23(2)(c)
+- Rule 23(1)(a) does not apply to a prohibited borrowing transaction if the Council determines that Rule 23(1)(a) does not apply to that particular transaction (whether before or after the transaction was entered into)
+
+Factors which Council considered when exempting prohibited transaction 
+Wee Soon Kim Anthony v LSS
+- The prohibited transaction was exempted by Council for the following reasons: 
+1. Long friendship was the reason for loan from client to lawyer 
+2. No evidence of undue influence by lawyer on the client 
+3. Long delay in lodging complaint by the client despite knowing of the prohibition (2 years) 
+4. Client himself was a lawyer who had considerable legal and commercial experience 
+
+EXCEPTIONS if lawyer/LP breaches Rule 23(1)(b) or Rule 23(1)(c) – provide security for PBT or failed to stop associated party from entering into PBT
+Step 3: Whether Rule 23(3)(a) exception applies
+2 Requirements for Rule 23(3)(a) exception to apply
+Rule 23(3)(a)
+- Rule 23(1)(b) and Rule 23(1)(c) do not apply to a prohibited borrowing transaction if both of the following apply:
+(i) Requirement 1: Every party to transaction (other than associated party) has received independent advice: Every party to the transaction (other than the legal practitioner or law practice or the associated party) has received independent advice before the transaction was entered into 
+(ii) Requirement 2: Lawyer/LP has made full disclosure of their interest and associated parties’ interest in the transaction: The legal practitioner or law practice has made full disclosure of each interest of the legal practitioner or law practice, and of the associated party, in the transaction
+
+Definition of “full disclosure”
+S23(4)
+- “full disclosure” means disclosure in writing by a legal practitioner or law practice as would be necessary for a trustee transaction 
+
+Definition of “independent advice”
+S23(4)
+- “independent advice” means advice:
+c. Given in relation to a transaction by a legal practitioner or law practice that
+(iii) Is not a party to the transaction; and 
+(iv) Does not represent any associated party in the transaction; and
+d. Which the legal practitioner or legal practice has certified in writing that the legal practitioner or law practice has given 
+
+Step 4: Alternatively, whether Rule 23(3)(b) exception applies
+2 Requirements for Rule 23(3)(b) exception to apply
+Rule 23(3)(b)
+- Rule 23(1)(b) and Rule 23(1)(c) do not apply to a prohibited borrowing transaction if both of the following apply:
+(i) Requirement 1: Lawyer/LP does not act for any client in the transaction: The legal practitioner or law practice does not act for any client of the legal practitioner or law practice in the transaction 
+(ii) Requirement 2: Any client in the transaction is represented by a different lawyer/LP: Any client of the legal practitioner or law practice that is a party to the transaction is represented in the transaction, by a legal practitioner from a different law practice or by a different law practice; 
+
+Step 5: Alternatively, whether Rule 23(3)(c) exception applies 
+Council can exercise discretion to exempt the prohibited transaction
+Rule 23(2)(c)
+- Rule 23(1)(b) and Rule 23(1)(c) do not apply to a prohibited borrowing transaction if the Council determines (whether before or after the transaction was entered into) that paragraph (1)(b) and (c) does not apply to that particular transaction.
+
+Factors which Council considered when exempting prohibited transaction 
+Wee Soon Kim Anthony v LSS
+- The prohibited transaction was exempted by Council for the following reasons: 
+1. Long friendship was the reason for loan from client to lawyer 
+2. No evidence of undue influence by lawyer on the client 
+3. Long delay in lodging complaint by the client despite knowing of the prohibition (2 years) 
+4. Client himself was a lawyer who had considerable legal and commercial experience 
+
+Case Law Principles 
+Principle 1: Rationale of Rule 23
+- Client is vulnerable vis-à-vis solicitor as solicitor enjoys a position of influence over the client, a client may find it difficult to deny giving solicitor a loan because of the trust and confidence reposed in the solicitor (LSS v Yap Bock Heng Christopher) 
+- Solicitor stands in a fiduciary relationship to her client and a solicitor who borrows from client is taking advantage of his position (LSS v Yap Bock Heng Christopher) 
+
+Principle 2: No requirement for client to have approached the solicitor in his capacity as solicitor (LSS v Ong Teck Ghee) 
+- PCR definition of client means that any person investing money through legal practitioner would be deemed as client: 
+a. Applies regardless of whether there was a pre-existing relationship 
+b. Applies even if client is more astute about investments than the legal practitioner 
+
+Principle 3: An “investment” where the client gives money to the law firm but does not stand to lose what was “invested” is in substance an interest-free loan to the law firm that is considered a prohibited borrowing transaction (Ong Teck Ghee v LSS) 
+
+Principle 4: It is irrelevant as a matter of liability and as a mitigating factor that the client suffered no loss as a result of a prohibited borrowing transaction but aggravating factor if solicitor has not repaid loan (LSS v Yap Bock Heng Christopher) 
+- If solicitor has not repaid the loan and client is left worse off, it would be an aggravating factor that calls for more severe punishment 
+
+Case Law Examples – Breach of duty to not engage in prohibited borrowing transactions 
+LSS v Yap Bock Heng Christopher – Lawyer took a prohibited loan from client 
+- Lawyer was representing his nephew who was incarcerated in Indonesia 
+- Lawyer requested a loan from nephew 
+- Lawyer did not advise nephew to obtain independent legal advice before getting the nephew to grant him the loan 
+- Lawyer did not repay loan and the nephew lodged a complaint 
+- Held: 
+1. Lawyer guilty of entering into a prohibited borrowing transaction and was suspended for 2 years
+2. A client is vulnerable vis-à-vis solicitor as the solicitor enjoys a position of influence over the client. Client also has trust and confidence reposed in the solicitor => This might cause the client to find it difficult to deny a loan to the solicitor => Hence the rule prohibiting borrowing transactions to protect the client 
+3. When sentencing, the fact that the client suffered loss is an aggravating factor 
+
+LSS v Ong Teck Ghee – Lender’s investment with the lawyer was characterized as a prohibited loan to the lawyer
+- Lawyer entered into consultancy agreement with a company where lawyer will sell and promote the company’s products
+- Lawyer will bear cost of promotion and will receive commission on sales
+- Lawyer then invited various people to contribute to the cost of promotion and in return, they will get to share a part of the commission 
+- A lender agreed to do so. Lawyer and lender then entered into agreement which states that lender will make an investment with the lawyer. The lawyer drafted the agreement. 
+- However, it was found that the agreement actually amounted to a loan from the lender, and not an investment
+- Because it was found that the amount given by the lender was never at risk (lender would never lose the amount given regardless of whether lawyer actually earns commission) 
+- Held: 
+1. Lender did not engage lawyer as solicitor but lender fell within the definition of client under the rule because lawyer had drafted the agreement 
+Wee Soon Kim Anthony v LSS – Lawyer received a loan from his client/friend who was also a fellow lawyer, but the loan transaction was exempted from the prohibition and found not to be in breach
+- Loan made by C to R lawyer was on account of their long standing friendship at the bar
+- No evidence that R exercised undue influence or took advantage of C
+- C lodged complaint 2 years after loan was made, and C must or should have been fully aware of the prohibition
+- C himself was a lawyer of considerable legal and commercial experience
+
+LSS v Thirumurthy Ayernaar Pambayan – Lawyer took a prohibited loan from client
+- Complainant claimed that he had lent 19k to lawyer
+- Lawyer partially repaid the loan and the Complainant claimed that 10.5k remained outstanding at time of complaint 
+- It was undisputed that Complainant had not received independent legal advice in giving the loan to lawyer 
+- Disciplinary Tribunal found that: 
+1. Lawyer only borrowed 11k from complainant
+2. Complainant was carrying on business as a money-lender
+- Held: 
+1. There was still a sufficient breach and lawyer was referred to Court of 3 judges 
+
+
+
+B9. PURCHASES FROM CLIENT (RULE 24 PCR)
+Duty of lawyer/LP to only purchase goods from client at prevailing market price/reasonable price – Rule 24(1)
+Rule 24(1) of PCR
+- Subject to the law on fiduciary relationships, a legal practitioner or law practice may purchase goods and assets from a client only if the purchase is at the prevailing market price or at such price as is reasonable 
+
+Lawyer/LP must obtain an independent valuation of goods to be purchased 
+Rule 24(2) of PCR
+- Where practicable, the legal practitioner or law practice must obtain an independent valuation of the goods and assets being purchased from the client --> this helps to show that the lawyer/LP have not exercised undue influence over the client
+
+B10. GIFTS FROM CLIENT (RULE 25 PCR)
+Duties of lawyer under Rule 25(2) when client intends to make significant gift to lawyer 
+Step 1: Identifying situation where lawyer has duties under Rule 25(2)
+Lawyer’s duties under Rule 25(2) are engaged when client intends to make a significant gift to: 
+- The Lawyer 
+- The partner or employee or etc. of the LP in which the Lawyer practices 
+- Any immediate family member of the Lawyer
+- Any immediate family of the partner or employee or etc. of the LP in which the Lawyer practices 
+- The LP in which the lawyer practices
+
+Rule 25(1)(a) of PCR
+- Rule 25(2) applies where lawyer’s client intends to make a significant gift, whether by will or while the client is alive, or in any other manner, to
+(i) The legal practitioner 
+(ii) The sole proprietor, or any partner, director, consultant or employee, of the law practice in which the legal practitioner practices 
+(iii) Any immediate family member of
+(A) The legal practitioner; OR 
+(B) The sole proprietor, or any partner, director, consultant or employee, of the law practice in which the legal practitioner practices; OR 
+(iv) The law practice in which the legal practitioner practices; OR 
+
+To determine “SIGNIFICANT GIFT”: Court must have regard to client’s means and reasonable expectations of other prospective beneficiaries (LSS v Wan Hui Hong James) 
+- “Significant gift” is:
+* A gift significant in absolute terms
+* A gift significant having regard to the client’s means and reasonable expectations of other people who the gift could have gone to 
+
+Step 2: Duties of lawyer under Rule 25(2) 
+Rule 25(2) PCR
+- The legal practitioner or law practice
+a. Duty 1: Lawyer must not act for client in relation to the gift: Must not act for the client in relation to the gift; and 
+b. Duty 2: Lawyer must advise gift-giving client to get independent legal advice for gift: Must advise the client to obtain independent legal advice in relation to the gift 
+
+Principle 1: Legal practitioner or law practice can act for gift-giving client, but just not in relation to the gift (LSS v Wan Hui Hong James)
+
+Principle 2: Suggested approach before lawyer can accept a significant gift from client (LSS v Wan Hui Hong James)
+- Suggested approach before lawyer can accept gift: 
+1. Give client a full explanation of why independent advice is required 
+a. Independent advice cannot be just a formality 
+2. Ask client to nominate the independently advising lawyer 
+3. Advise client to obtain written confirmation from the independently advising lawyer that a full explanation of the nature of the transaction and its practical implications have been explained
+a. If transaction by which gift was to be made was complex then the independently advising lawyer should be provided with all information necessary to make a sufficiently comprehensive independent advice 
+4. If client declines to seek independent advice, lawyer should insist with some force that client do so 
+5. If client still declines to get independent advice, then lawyer should decline to accept the gift
+ 
+Principle 3: If client does not appear fully competent, lawyer must take extra steps to advise client (LSS v Wan Hui Hong James) 
+- E.g. if client has mental health problems, ensure client undergoes psychiatric evaluation to certify ability to understand the nature and effect of his actions 
+
+Duties of LP under Rule 25(2) when client intends to make significant gift to LP 
+Step 1: Identifying situation where LP has duties under Rule 25(2) 
+LP’s duties under Rule 25(2) are engaged when client intends to make a significant gift to: 
+- The LP 
+- The partner or employee or etc. of the LP 
+- Any immediate family of the partner or employee or etc. of the LP 
+
+Rule 25(1)(b) of PCR
+- Rule 25(2) applies where a client of a law practice intends to make a significant gift, whether by will or while the client is alive, or in any manner, to 
+(i) The law practice
+(ii) The sole proprietor, or any partner, director, consultant or employee, of the law practice; OR 
+(iii) Any immediate family member of the sole proprietor, or any partner, director, consultant or employee of the law practice
+
+Step 2: Duties of lawyer under Rule 25(2) 
+Rule 25(2) of PCR
+- The legal practitioner or law practice
+a. Duty 1: LP must not act for gift-giving client: Must not act for the client in relation to the gift; and 
+b. Duty 2: LP must advise gift-giving client to get independent legal advice for gift: Must advise the client to obtain independent legal advice in relation to the gift 
+
+Principle 1: Legal practitioner or law practice can act for gift-giving client, but just not in relation to the gift (LSS v Wan Hui Hong James)
+
+Principle 2: Suggested approach before lawyer can accept a significant gift from client (LSS v Wan Hui Hong James)
+- Suggested approach before lawyer can accept gift: 
+1. Give client a full explanation of why independent advice is required 
+a. Independent advice cannot be just a formality 
+2. Ask client to nominate the independently advising lawyer 
+3. Advise client to obtain written confirmation from the independently advising lawyer that a full explanation of the nature of the transaction and its practical implications have been explained
+a. If transaction by which gift was to be made was complex then the independently advising lawyer should be provided with all information necessary to make a sufficiently comprehensive independent advice 
+4. If client declines to seek independent advice, lawyer should insist with some force that client do so 
+5. If client still declines to get independent advice, then lawyer should decline to accept the gift
+ 
+Principle 3: If client does not appear fully competent, lawyer must take extra steps to advise client (LSS v Wan Hui Hong James) 
+- E.g. if client has mental health problems, ensure client undergoes psychiatric evaluation to certify ability to understand the nature and effect of his actions 
+
+Case Law Example – Lawyer failed to discharge duties under Rule 25(2) 
+LSS v Wan Hui Hong James – Lawyer dishonestly obtained will from client making lawyer sole beneficiary of client’s assets
+- X became owner of property but suffered from mental incapacity and was treated. X was eventually placed in a home for the aged
+- Singapore Land Registry wrote to X to say that a Certificate of Title to the property had been issued in her name 
+- X needs to locate the original deed of conveyance and produce it to collect the Certificate of Title but X was unable to locate it 
+- Superintendent of the home instructed Lawyer to act for X 
+- Lawyer obtained a power of attorney from X granting the lawyer authority to manage X’s affairs 
+- Lawyer also obtained a will and testament from X making lawyer the sole trustee and beneficiary of X’s assets 
+- Lawyer valued property at 1.1mil and arranged for it to be sold
+- Lawyer got X to sign a letter stating that X wanted to keep 500k of the sale proceeds and that lawyer could keep the excess 
+- AGC made an audit of the home’s books and made a complaint 
+- Held: 
+1. Lawyer pleaded guilty for failing to advise lawyer to seek independent legal advice in relation to gift 
+2. Lawyer was found to be dishonest and was struck off 
+- Principle: 
+1. “Significant gift” interpreted to mean not only a gift significant in absolute terms but also a gift significant having regard to the client’s means and reasonable expectations of other prospective beneficiaries 
+2. Suggested approach before lawyer can accept gift: 
+a. Give client a full explanation of why independent advice was required 
+b. Ask client to nominate the independently advising lawyer 
+c. Advise client to obtain written confirmation from the independently advising lawyer that a full explanation of the nature of the transaction and its practical implications have been explained
+(i) If transaction by which gift was to be made was complex then the independently advising lawyer should be provided with all information necessary (including by the lawyer receiving the gift) to make a sufficiently comprehensive independent advice 
+(ii) If client declines to seek independent advice, lawyer should insist with some force that client do so while reiterating the importance of receiving that independent advice
+(iii) If client still declines to get independent advice, then lawyer should decline to accept the gift (i.e. SHOULD ONLY ACCEPT GIFT WHERE THERE WAS INDEPENDENT LEGAL ADVICE)
+3. The rule presupposes that client is competent: If client is not or does not appear to be fully competent, extra steps will have to be taken depending on circumstances (e.g. if client has a history of mental illness, then client needs a psychiatric evaluation to show that he understood the advice given by the independent solicitor)
+
+LSS v Manjit Singh s/o Kirpal Singh 
+- Lawyers alleged that they received a 1.8mil gift from the client
+- No independent legal advice was given to the client 
+
+
+B11. COMPLETION OF RETAINER (RULE 26 PCR)
+Principles underlying Rule 26 PCR 
+Rule 26(1) of PCR
+a. Lawyer continues to owe duties to client until termination of retainer: The duties of honesty, competence and diligence owed by a legal practitioner to his or her client continue until the termination of the retainer 
+
+By finishing work for client 
+Duty to complete work agreed to be undertaken (unless legal practitioner withdraws) => NOTE: “Except as otherwise provided in Rule 26” means that cannot contract for lawyer to terminate his appointment in any other way other than set out in Rule 26
+Rule 26(2) of PCR
+- Except as otherwise provided in Rule 26, a legal practitioner must complete the work which he agreed to undertake pursuant to his client’s instructions 
+
+By dissolving the law practice which lawyer belongs to  
+Dissolution of law practice terminates lawyer-client relationship 
+Rule 26(3) of PCR
+- Dissolution of a law practice terminates the lawyer-client relationship between a client of the law practice and the legal practitioner in the law practice who is in charge of the client’s matter
+
+Duties upon dissolution of law practice 
+PD 7.3.4: Transfer of client’s monies on dissolution 
+Suggestion:
+- In the event of a dissolution of a law practice: 
+a. Duty to notify all clients of dissolution: All clients should be notified of dissolution 
+b. Duty to refund all client’s money or dealt according with clients’ instructions: All clients’ moneys should be refunded or dealt according with their instructions. No member of dissolved law practice is entitled to retain clients’ moneys without permission
+c. Duty to seek clients’ instructions on distribution of files: If files are distributed amongst members of dissolved law practice, client’s instructions should be sought regarding the distribution
+
+Principle 1: Once a partnership is dissolved, it will become incapable of completing any work contemplated by any agreement between the partnership firm and any client (Engelin Teh Practice LLC v Wee Soon Kim Anthony) 
+
+Lawyer under duty to withdraw 
+Duty to withdraw from representing a client in certain situations 
+Rule 26(4) of PCR
+- A legal practitioner must withdraw from representing a client if:
+a. Duty to withdraw when discharged by client: Legal practitioner is discharged from engagement by the client; OR 
+b. Duty to withdraw if lawyer will be embarrassed if he continues to act: Having come into possession of a document belonging to another party by any means other than the normal and proper channels, and having read the document, the legal practitioner would be embarrassed in the discharge of the legal practitioner’s duties by the knowledge of the contents of the document 
+Principle 1: Client may terminate retainer at any time and for any reason (Chew Kim Kee v Kertar ) 
+
+Principle 2: Client’s revocation of retainer must be unequivocal and can be by conduct 
+
+By voluntary withdrawing 
+Lawyer can only withdraw voluntarily under 8 circumstances – Rule 26(5)
+Rule 26(5) of PCR
+- A legal practitioner may withdraw from representing a client in a case or matter if:
+a. Circumstance 1: If lawyer gives reasonable notice of withdrawal to client: Legal practitioner gives reasonable notice of the withdrawal to the client; OR
+b. Circumstance 2: If withdrawal does not significantly harm client’s interests + Client is fully informed of consequences of withdrawal + Client voluntarily assents to withdrawal: Withdrawal will not cause any significant harm to the client’s interests, the client is fully informed of the consequences of the withdrawal and client voluntarily assents to the withdrawal; OR
+c. Circumstance 3: Continued engagement harms lawyer’s health: The legal practitioner reasonably believes that continued engagement in the case or matter is likely to have a serious adverse effect on the legal practitioner’s health; OR 
+d. Circumstance 4: Client never pay legal fees or breach contract with lawyer due to fees or client’s conduct: Client: 
+(i) Fails to pay legal practitioner’s invoice within the stipulated period; OR 
+(ii) Otherwise breaches an agreement with the legal practitioner regarding
+(A) Fees or expenses to be paid by the client; OR 
+(B) Client’s conduct; OR 
+e. Circumstance 5: Client makes material misrepresentations to lawyer about case facts: Client makes material misrepresentations about facts of the case or matter to the legal practitioner 
+f. Circumstance 6: Withdrawal is necessary to comply with any law/rules: Withdrawal is necessary to avoid a contravention by the legal practitioner of
+(i) the Act;
+(ii) these Rules or any other subsidiary legislation made under the Act;
+(iii) any practice directions, guidance notes and rulings issued under section 71(6) of the Act;
+(iv) any practice directions, guidance notes and rulings (relating to professional practice, etiquette, conduct and discipline) issued by the Council or the Society; or
+(v) if the legal practitioner is duly authorised or registered to practise law in any state or territory other than Singapore, any practice directions, guidance notes and rulings (relating to professional practice, etiquette, conduct and discipline) issued by
+(A) the foreign authority having the function conferred by law of authorising or registering persons to practise law in that state or territory; or
+(B) any relevant professional body of that state or territory;
+g. Circumstance 7: Serious loss of confidence between lawyer and client: There is a serious loss of confidence between legal practitioner and the client 
+h. Circumstance 8: Any good cause: Any other good cause exists 
+
+When lawyer voluntarily withdraws => Lawyers will owe duties to client under Rule 26(6)
+Rule 26(6)
+- When a legal practitioner withdraws from representing a client in a case or matter, the legal practitioner must
+a. Duty to take reasonable care to avoid foreseeable harm to client: Take reasonable care to avoid foreseeable harm to the client, including, where circumstances permit
+(i) Duty to give reasonable notice to client (if circumstances permit): By giving reasonable notice of the withdrawal to the client
+(ii) Duty to give client time to engage alternative lawyer (if circumstances permit): By giving the client a reasonable amount of time to engage another legal practitioner to take over the case or matter; and 
+(iii) Duty to cooperate with new lawyer (if circumstances permit): By cooperating with the client’s new legal practitioner; and 
+b. Duty to abide by client’s choice of new lawyer: Abide by client’s decision on whether to appoint another legal practitioner and who to appoint to take over the case or matter, if not completed 
+
+When outgoing lawyer (A) wishes to exercise lien for unpaid legal costs over any of client’s documents 
+2 Options for outgoing lawyer A to do so under Rule 26(7)
+Rule 26(7)
+Option 1: 
+- Where incoming lawyer (B) is acting for client => Outgoing lawyer A must release client’s documents to incoming lawyer B and offer assistance to enable incoming lawyer B to take over the matter 
+=> Incoming lawyer B will: 
+(i) Undertake to hold the document subject to the lien and provide reasonable security for outgoing lawyer A’s unpaid costs; OR 
+(ii) Offer to pay or enter into agreement with client to pay outgoing lawyer A’s costs 
+
+Option 2: 
+- Client can provide reasonable security for outgoing lawyer A’s unpaid costs => A must release client’s documents to B
+
+Rule 26(7)
+- Where legal practitioner (A) claims to exercise a lien for unpaid legal costs over any of client’s documents relating to a matter
+a. In any case where legal practitioner (B) is acting for the client, A must release that client’s document to B and offer assistance necessary to enable B to take over the matter if
+(i) B undertakes to hold that document subject to the lien and provides reasonable security for A’s unpaid costs; OR 
+(ii) B offers to pay, or to enter into an agreement with the client to obtain payment of A’s costs upon the completion of the matter, and A accepts B’s offer; or 
+b. In any other case, A must release that document to the client if A receives reasonable security for A’s unpaid costs 
+
+*What happens if lawyer leaves a law practice to practice in another law practice? 
+GN 7.3.1: Guidelines for handling of client’s files when a solicitor leaves a law practice to practice in another law practice
+When lawyer wants to leave CLP and move to NLP: Duties of lawyer and current law practice (CLP)
+Principles underlying the guidelines for the Existing Lawyer: 
+a. Duty of lawyer/CLP to act in best interests of client and ensure client’s interests not prejudiced by lawyer moving to NLP: Primary consideration in all cases is that the Existing Lawyer and the Current Law Practice must act in the best interests of the client and ensure that the client’s interests are not prejudiced by Existing Lawyer moving from Current Law Practice to New Law Practice
+b. Client has right to decide which LP to represent him: Client has right to decide on law practice that will represent the client and which could be the Current Law Practice, New Law Practice or another law practice
+c. Duty to notify client of lawyer’s departure and information to decide which LP to represent client: Client must be promptly notified of the Exiting Lawyer’s departure and must be given sufficient information to decide on the law practice that will represent the client 
+d. Between CLP and NLP – CLP has the right to retain client: Between the Current Law Practice and New Law Practice, the client is the client of the Current Law Practice and it will have a right to retain the client 
+e. Duty of exiting lawyer to comply with all obligations owed to CLP even after exiting: Exiting Lawyer must comply with all contractual, fiduciary and confidentiality obligations that Exiting Lawyer may owe to the Current Law Practice even after exiting 
+
+When lawyer wants to take client’s file to new law practice (NLP)
+Guidelines for Exiting Lawyer to take client’s file to New LP:
+1. Lawyer must inform CLP FIRST then inform client of intention to leave CLP: Exiting Lawyer must inform Current LP first before informing the client of intention to leave Current LP
+a. Unethical to inform client first 
+2. Lawyer must not take any client lists or proprietary information from CLP unless CLP agrees: Unless agreed between Current LP and Exiting Lawyer, the Exiting Lawyer must not remove list of clients or other proprietary information from Current LP 
+3. CLP and exiting Lawyer should jointly and promptly notify client of lawyer’s departure: Current LP and Exiting Lawyer should jointly and promptly notify client of the Exiting Lawyer’s proposed departure 
+a. If each party unilaterally notifies client – Cannot suggest that client has obligation to stay with either of them: If not possible, each party can unilaterally notify client, but the notification cannot solicit or suggest that the client has an obligation to stay with either the Exiting Lawyer and New LP, or the Current LP 
+4. If client wants to follow lawyer – Client must instruct CLP to transfer files to NLP: If client wants to carry on with Exiting Lawyer and New LP, Client must instruct Current LP that he wants to transfer the files to the New LP or another LP
+a. CLP must acknowledge client’s instructions and facilitate transfer: Current LP must expressly acknowledge the instruction and facilitate a transfer of client’s file in accordance with Rule 26 of PCR 
+5. If client is silent – Assumption is that client wishes to stay with CLP – Lawyer cannot take client’s files to NLP: If Current LP does not receive any instructions, it is assumed that client intends to continue with the Current LP 
+a. Exiting Lawyer cannot take client’s file to New LP because that would be undermining the existing lawyer-client relationship between client and the Current LP 
+b. Client is still a client of the Current LP 
+
+When exiting lawyer hands over files to incoming lawyer
+PD 7.3.1: Copies of documents 
+Suggestion: 
+- Exiting lawyer should make copies of all documents before handing over: Exiting Lawyer should make a copy of the documents before handing matter over to any incoming lawyer 
+- Copies of documents are for exiting lawyer’s protection: Exiting Lawyer should bear the costs of making copies of such documents as it is for his own protection in anticipation of future complications 
+
+*WTA and LOE should expressly reserve right of lawyer/LP to terminate pursuant to Rule 26
+PD 7.4.2: Reservation of right to terminate retainer in the WTA or Letter of Engagement 
+Suggestion: To insert an appropriate reservation of right in client’s WTA or Letter of Engagement 
+- Reservation that the “legal practitioner may at any time discharge himself based on the grounds set out in Rule 26(5) while observing the obligation in Rule 26(6) to take reasonable care to avoid foreseeable harm to the client” 
+
+Reason: 
+- If there is no suitable reservation of right, it could result in a possible claim for damages 
+
+Case Law Examples
+Chew Kim Kee v Kertar & Co – Client accepted law firm’s withdrawal when clients appointed new lawyers
+- Solicitor-client relationship had been terminated when: 
+a. Law firm informed client that it was applying to discharge itself; and 
+b. Client accepted the termination by appointing new lawyers 
+
+Engelin Teh Practice LLC v Wee Soon Kim Anthony – Dissolution of law firm
+- Issue: Whether client of a dissolved law firm was obliged to pay the fees of a new law firm (to which the business of the dissolved law firm had been transferred and which continued to act for the client) 
+- Held: Client not liable to pay the new law firm. Client liable to pay either the former partners of the dissolved law firm or its receiver 
+Alfons Tanumihardja v. Thio Su Mien 
+- Had Chuah been the plaintiff’s lawyer, Chuah would have had an undeniable duty to advise the plaintiff of his rights against Tradexim and its principals. However, the plaintiff’s file with the defendants’ firm was closed on 1 October 1996, even though the covering letter did not mention that they were closing the file. There was no duty on a solicitor to state in his covering note that the file would be closed after payment of the bill. Although the closing of a file did not in itself terminate a solicitor-client relationship, the closure of the file in this case indicated that Chuah was of the (not unreasonably held) view that he had no further substantial service to perform for the plaintiff in respect of that file.
+- Even if Chuah was still regarded as the plaintiff’s solicitor in respect of procuring the plaintiff’s release from the Guarantee, that relationship was surely terminated when the plaintiff sought independent legal advice after Chuah informed the plaintiff that he (Chuah) was unable to act for him because of a conflict of interest. A solicitor-client relationship between the defendants and the plaintiff could only come about from a fresh and express agreement.
+
+LSS v Chiong Chin May Selena – Client’s request to terminate retainer must be unequivocal
+- Client sent an email stating she wished to cease her contract with lawyer and hoped the firm will assign her another lawyer 
+- Held: Client’s retainer with Firm and with Lawyer not terminated
+1. Client’s retainer with Lawyer had not been terminated
+a. Client’s intention to cease her contract was framed as a request or an expression of future intent rather than as an instruction 
+b. It is not clear that Client wanted to cease her retainer with the Lawyer 
+2. Client’s retainer with Firm had not been terminated 
+a. Client intended the Firm to act for her but change the lawyer in charge of her case 
+
+

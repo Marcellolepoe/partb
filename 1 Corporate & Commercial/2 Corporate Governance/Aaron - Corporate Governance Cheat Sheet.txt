@@ -1,0 +1,205 @@
+Corporate Governance Cheat Sheet – Part B (Singapore Bar)
+
+?? Table of Contents
+1. Disclosure Regime – SFA Framework & Overview
+2. Immediate Disclosure – SGX Listing Rules (LR 703–704)
+3. Periodic Reports – Financials, AR, Sustainability (LR 705, 707, 711A-B)
+4. General Disclosure Practices – Trading Halts, Rumours, Profit Guidance
+5. Interested Person Transactions (IPTs) – LR 905–920
+6. Exceptions to IPT Requirements – LR 915–916
+7. Director Independence – Code Provision 2.1; LR 210(5)(d)
+8. Board Composition & Lead Independent Director
+9. Board Committees – AC, RC, NC, BRC
+10. Mandatory Director Training – Practice Note 2.3
+11. Remuneration Disclosure – Code Provision 8.1; LR 1207(10D)
+12. “Comply or Explain” Framework – Code of Corporate Governance 2018
+
+
+
+? 1. Disclosure Regime – SFA Framework & Overview
+?? When to Refer: Questions about penalties for disclosure failures, misleading statements, or officer liability.
+?? Key SFA Rules
+SectionWhat it CoversKey Exam Notess203(2)Criminal liability for failing to disclose under SGX rulesIntentional, reckless, or negligent non-disclosure ? Fine + Jails203(3)Civil liabilityFor negligence only – no jails331Personal liability of officersConsent, connivance, or neglect ? officer guilty toos199False/misleading disclosureIf person doesn’t care if true or false ? Criminal?? Frequently Tested: s203 and s331
+?? Red Herring Trap: s203 applies even if issuer is foreign-incorporated ? applies to all SGX-listed companies.
+
+
+
+? 2. Immediate Disclosure – LR 703–704
+?? When to Refer: “Does this event require immediate announcement?” “Can it be withheld?”
+?? LR 703(1): General Disclosure Obligation
+Must disclose immediately if:
+* (a) Needed to avoid a false market
+* (b) Likely to materially affect price/value of securities
+Applies to:
+* Issuer, subsidiaries (>50%), associated companies (20–50%)
+
+?? LR 703(4): Examples of Material Info
+* Financial condition
+* M&A, JV, or litigation
+* Change in CEO/major shareholder
+* Loss of key customer
+* Anything affecting shareholder rights
+?? Common in exams: Manager resignation, material contract loss, litigation
+
+?? LR 704: Mandatory Events to Disclose
+* Appointments/resignations (director, CEO, CFO, auditors)
+* Amendments to constitution
+* Shareholder meetings
+* Auditor qualifications
+?? Red Herring Trap: Media release ? proper disclosure. Must use SGXNET (LR 702).
+
+?? LR 703(2)-(3): Exceptions to Disclosure
+ExceptionExplanationLR 703(2)Prohibited by law – e.g. court gag orderLR 703(3) – 3-part test (ALL must be satisfied):1) A reasonable person would not expect disclosure
+2) Info is confidential
+3) Info is incomplete, speculative, internal, or trade secret?? Frequently Tested: Must disclose once any of the 3 conditions no longer hold.
+
+? 3. Periodic Reports – LR 705, 707, 711A-B
+?? When to Refer: Financials, annual report, sustainability reporting
+?? LR 705: Financial Statements
+Report TypeDeadlineQ1–Q3 / H145 days from quarter endQ4 / FY60 daysQuarterly reporting required only if:
+* Audit opinion is qualified, or
+* Going concern risk raised
+?? SGX maintains a list of quarterly-reporting companies
+
+?? LR 707: Annual Report & AGM
+* AGM ? 4 months from FY end 
+* AR sent ?14 days before AGM
+
+?? LR 710A: Board Diversity Disclosure
+* Describe targets, timelines, progress in AR
+* Include skills, gender, nationality, tenure, etc.
+
+?? LR 711A-B: Sustainability Reporting
+* Must include:
+o ESG factors
+o Climate disclosures (mandatory for listed sectors)
+o Board statement
+o Targets & policies
+Industry (mandatory climate)From FY:Financial / Agri / Energy2023Materials / Transport2024?? Frequently Tested: Whether climate disclosures can be excluded ? no for flagged industries
+
+Climate Disclosures & External Assurance (LR 711A–B)
+?? Deadline for Sustainability Report
+ConditionDeadlineStandard case (no assurance)4 months after FY endExternal assurance obtained (for climate report or key data)5 months after FY end
+External Assurance
+* Refers to independent verification by a third-party assurance provider (e.g. PwC, KPMG)
+* Must follow international assurance standards (e.g. ISAE 3000)
+* Can apply to:
+o Entire report
+o Only material ESG metrics
+o Only climate disclosures (if issuer is in high-impact sector)
+
+?? Mandatory Climate Disclosures Apply to:
+Per LR 711B(2):
+SectorExamplesFinancialBanks, insurance, asset managersEnergyOil & gas, utilitiesAgriculture/FoodAgri-business, plantationsMaterials & BuildingsConstruction, cement, steelTransportationAirlines, logistics, shipping
+?? Exam Tip:
+If issuer is in a covered sector + has assurance ? gets 1-month extension
+No other extensions unless SGX grants waiver (rare)
+
+
+? 4. General Disclosure Practices
+?? When to Refer: Trading halt? Rumour clarification? Analyst briefing?
+?? Trading Halts
+* Min: 30 mins | Max: 3 market days
+* Used to facilitate disclosure of material info
+
+?? Rumours / Market Activity
+* Must clarify if unusual trading occurs due to leaks
+
+?? Selective Disclosure
+* Prohibited to leak material info to analysts/media
+* Even if info is “already known”, must still publish on SGXNET
+
+? 5. IPT Regime – LR 905, 906, 907
+?? When to Refer: Transactions with directors/CEOs/shareholders or their family
+?? Who is an Interested Person (IP)?
+* Director, CEO, controlling shareholder
+* Their immediate family
+* Entities they control ?30%
+* Trustee where they or family are beneficiaries
+
+?? “Entity at Risk”
+* Issuer
+* Subsidiary (>50%)
+* Associated company (20–50%) only if issuer controls it
+
+?? Thresholds
+Rule / ThresholdAnnouncement (905)Shareholder Approval (906)Annual Report Disclosure (907)(less than)< S$100,000 (any IPT)??????(more than)? S$100,000 but (less than)< 3% of Net Tangible Asset????? (under LR 907)? 3% but < 5% of   (LR 905)???? (under LR 907)(more than) ? 5% of NTA (LR 906)? (LR 905 still applies)? (LR 906)? (LR 907?? Transactions < $100k = excluded, but aggregation applies to prevent abuse
+Aggregation is required across financial year for same Interested Person (LR 905(2)).
+- If NTA transactions accumulate to above x% in a year, they have to follow disclosure rules 
+?? Frequently Tested: Aggregation rules & identifying IP/entity at risk
+
+? 6. IPT Exceptions – LR 915–916
+?? When to Refer: Lease? Utility purchase? Public tender?
+?? LR 915 – Full Exemptions
+No announcement, approval or AR disclosure required:
+* Dividends, splits, rights issues
+* Employee stock options
+* Utility purchases (fixed public pricing)
+* Loans from licensed banks on arm’s length terms
+
+?? LR 916 – Partial Exemptions C
+AnnouncementShareholder ApprovalAnnual Report Disclosure????
+TypeConditionsLease ?3 yearsValuer supports termsPublic tenderOpen & competitive tender process
+No pre-existing arrangement with Interested Person
+Awarded based on lowest bid or best value
+Board or AC confirms fairness (ideally)JV investmentProportional equity + no pre-existing interest + audit committee confirms fairness?? Frequently Tested: Lease >3 years = needs shareholder approval
+
+? 7. Director Independence – Provision 2.1, LR 210(5)(d)
+?? When to Refer: “Is this person independent?”
+?? Code Provision 2.1
+Director must:
+* Be independent in character/judgment
+* Have no relationship that interferes with independent judgment
+
+?? LR 210(5)(d): Hard Disqualifiers (Cannot Be Independent If…)
+ConditionResultEmployed in issuer or related corp within last 3 FYs?Immediate family employed (with RC-determined pay)?Director for >9 years (any kind)? – exception until next AGM following the 9 year mark only?? Frequently Tested: Director's independence lapses automatically after 9 years
+
+? 8. Board Composition & Lead ID
+?? When to Refer: “Does this board meet ID minimums?”
+?? Board Composition Rules
+RuleRequirementProvision 2.3Majority non-execLR 210(5)(c)? 2 Independents AND ?1/3 of boardProvision 2.2If Chairman ? Independent ? majority must be IndependentProvision 3.3If Chairman ? Independent ? must appoint Lead IndependentLR 720(5)All directors must be reappointed every 3 years
+? 9. Board Committees – AC, RC, NC, BRC
+?? When to Refer: “Who can sit on which committee?”
+?? Required Committees: LR 210(5)(e)
+CommitteeCompositionNotesKey DutiesAudit C?3, all non-exec, majority ID? Exec directors barred
+Review financials, internal controls, external auditRenumeration CSame as AC? Exec directors barredRecommend remuneration policies, approve pay for directors/CEONominating C?3, majority ID? Execs (e.g. CEO) allowedBoard appointments, review independence, succession planningBoard Risk CommitteeOptional (Code 9.1)Often merged with ACOversee risk framework, appetite, internal controls (if not handled by AC)
+Whistleblowing (Code 10.2, LR 1207(10)(f))
+- AC must oversee whistleblowing framework — including review, effectiveness, & reporting.
+- Must disclose in AR how whistleblowing is handled (even if no complaints).
+- ? Cannot omit on grounds of confidentiality.
+- ?? Put under AC or Risk committee duties.
+
+? 10. Mandatory Director Training – Practice Note 2.3
+?? When to Refer: “Does this director need training?”
+?? Required if:
+* First-time director of listed company
+* Complete within 1 year of appointment
+?? Exemption:
+* NC assesses equivalent experience
+* Must disclose reasons in AR / announcement
+?? SGX can still require training despite exemption
+
+? 11. Remuneration Disclosure – Code 8.1, LR 1207(10D)
+?? When to Refer: “What level of detail must be disclosed?”
+?? Code Provision 8.1 – Comply or Explain
+* Disclose CEO + each director: name + amount + breakdown
+* Top 5 key management (non-directors): in bands + aggregate total
+
+?? LR 1207(10D) – Mandatory (From FY ending ? 31 Dec 2024)
+* Names, amounts, % breakdown (base, bonus, benefits, shares)
+* Covers directors + CEO + subsidiary pay too
+?? Frequently Tested: Band disclosure ? sufficient post-2024
+
+? 12. Comply or Explain – Code of Corporate Governance 2018
+?? When to Refer: “Is this a Code requirement?” “Is deviation okay?”
+?? Structure of the Code
+TypeRuleMandatory?13 PrinciplesHigh-level goals (e.g. independence, accountability)? Yes52 ProvisionsSpecific practices (e.g. Lead ID, AC duties)? Comply or explainPractice GuidanceSoft best practices? Voluntary
+?? LR 710 Obligations
+Issuer must state in AR:
+* Compliance with all principles
+* If a provision is varied:
+o Identify it
+o Explain the variation
+o Show how the intent of principle is still met
+?? Red Herring Trap: Compliance with principles = mandatory; provisions = explain if not followed
+

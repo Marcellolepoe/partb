@@ -1,0 +1,577 @@
+Mergers & Acquisitions
+
+1. Intro to M&A 
+1.1 Structural Considerations
+1.1.1 Methods of Acquisition
+Overview:
+Two main ways to acquire a business in Singapore — either by purchasing the shares of the company or by acquiring the assets directly. Both result in the business being acquired, but with very different consequences.
+?? Share Sale vs Asset Sale
+FactorShare SaleAsset SaleNatureAcquire the shares of the company that owns/runs the businessAcquire specific assets (contracts, land, IP, employees)Status quoBusiness continues as usual; only change is upstream ownershipMore complex – must transfer each asset separatelyMultiple businessesBuyer inherits all business lines (cannot “pick and choose”)Buyer can cherry-pick only desired assetsMerger of operationsBuyer takes the whole company – risk of overlap and redundanciesEasier to avoid overlaps (only acquire what’s needed)ContractsUsually unaffected (unless there’s a change of control clause)Requires novation (rights & obligations) or assignment (only rights)EmploymentNo change – employer remains the sameNew employer – need to transfer contracts, comply with EA & CPFRegulatory restrictionsFocus on change of ownership approvalFocus on contract novations, permits, asset-specific approvalsExecution riskGenerally simpler – 1 transfer of sharesHigh – must identify and transfer each asset, obtain consentsTaxStamp duty on shares (0.2% of consideration)Stamp duty on property (up to 6%) + GST may apply?? Exam Trap:
+* Share sale = simpler execution, but inherit all liabilities.
+* Asset sale = cleaner, but harder to execute (consents required).
+
+1.1.2 Parties & Capacity Issues
+(a) Capacity of Sellers
+* Seller must have good title.
+* Issues: bankrupt sellers, trustees, estates.
+* CA s 160: company cannot dispose of substantially the whole of its property without shareholder approval (special resolution).
+(b) Many Shareholders
+* Listed co. — difficult to negotiate individually.
+* Takeover Code: if acquiring control (>30% or crossing 1% above 30–50%), must make general offer.
+* Scheme of Arrangement (CA ss 210–212):
+o Court orders SH meeting.
+o Approval threshold: 75% in value + majority in number of those voting.
+o Once sanctioned, binds all SHs (compulsory acquisition route).
+
+1.1.3 Acquisition of Shares
+(a) Prohibited Financial Assistance – CA s 76
+* Public companies (and subsidiaries) cannot give financial assistance for acquisition of their own shares.
+* Includes loans, guarantees, release of obligations.
+* Rationale: protects creditors and SHs from depletion of company’s assets.
+?? Case: Intraco v Multi-Pak [1995] – broad reading of “financial assistance.”
+?? Trap: Does NOT apply to private companies.
+(b) Validity of Share Issues – CA s 161
+* Directors cannot issue shares without prior SH approval (ordinary resolution), even if the constitution allows.
+
+1.1.4 Consents & Third Party Approvals
+(a) Right of First Refusal (ROFR)
+* Almost all private companies have transfer restrictions in constitution/shareholders’ agreement.
+* Waiver usually required.
+(b) Foreign Assets/Parties
+* May need foreign investment approval.
+* Exchange control restrictions (e.g. if assets overseas).
+(c) Acquisition of Substantial Assets
+* CA s 160: requires SH approval if disposal of substantially the whole undertaking.
+* SGX LR: listed cos require SH approval for major/significant transactions + related party transactions.
+(d) Other Approvals
+* Mortgagee banks – if security interest over assets.
+* JTC / HDB / URA – land use consents.
+* MAS – regulated financial institutions.
+* Competition Act – merger control notification (voluntary, but advisable if risk of SLC).
+
+1.1.5 Tax Considerations
+* Stamp Duty
+o Shares: 0.2% consideration.
+o Land/Property: up to 6%.
+o Reliefs: Reconstruction/Amalgamation relief, Associated companies relief.
+* Income Tax
+o Transfer of losses/shares may affect ability to carry forward losses.
+* GST
+o Not payable on shares.
+o May apply on asset transfers unless it qualifies as a “transfer of a business as a going concern” (TOGC).
+?? Trap: Many exam Qs test stamp duty reliefs.
+
+1.1.6 Pricing & Consideration Structures
+(a) Fixed Price – agreed upfront.
+(b) Completion Accounts
+* Preliminary price paid ? final price adjusted post-completion using accounts.
+* Buyer-prepared ? seller can dispute ? independent accountant resolves.
+(c) Locked Box
+* Final price fixed based on last audited FS (at “locked box date”).
+* Buyer protected against leakage; seller may seek interest uplift.
+(d) Earn-Outs / Contingent Value Rights
+* Part of price deferred, tied to performance (EBITDA, revenue, KPIs).
+* Used when buyer/seller disagree on valuation.
+?? Trap: Earn-outs create disputes ? must define metrics clearly in SPA.
+
+1.2 Roadmap & Documentation
+1.2.1 Roadmap of a Typical Deal
+1. Identify target.
+2. Due diligence (red flags, consents, kill-switch issues).
+3. Negotiate/documentation (SPA, disclosure letter).
+4. Completion (transfer + filings).
+5. Post-completion integration.
+
+1.2.2 Documentation at Each Stage
+(a) Preliminary
+* Engagement letters (financial advisor, lawyers).
+* NDA/confidentiality agreement.
+* Information Memorandum (IM).
+* Vendor due diligence (to speed up process).
+* Term sheet (non-binding, except exclusivity/confidentiality).
+* Deal timetable.
+(b) Due Diligence
+* Data room (physical/virtual).
+* Rules & procedures.
+* Due diligence questionnaire.
+* Indexing of documents.
+(c) Negotiation
+* SPA – core contract.
+* Reps & Warranties (R&W): financials, litigation, compliance.
+* Indemnities: for known issues (e.g. tax).
+* Disclosure Letter: exceptions to R&W (cuts back liability).
+* Limits on Liability:
+o Caps (quantum).
+o Time limits (e.g. 3 yrs for warranties).
+(d) Conditions Precedent (CPs)
+* SH approval.
+* Regulatory approval.
+* Competition clearance.
+(e) Completion
+* Share sale: share transfer forms, resolutions, update register, ACRA filing, stamp duty.
+* Asset sale: conveyancing, novations, delivery, etc.
+* Clean-up: new directors, bank signatories, auditors/secretary.
+(f) Post-Completion
+* New share certificates.
+* Collect documents from seller.
+* Assume seller won’t cooperate much afterwards.
+
+
+2. Intro to Public M&A
+When relevant: Any acquisition of control of a Singapore-listed issuer, large public unlisted company/business trust, or REIT. Core regimes: Take-over Code (non-statutory rules administered by SIC), Companies Act 1967 (schemes, compulsory acquisition, amalgamation), SFA (Part VIII takeovers, insider trading), SGX Listing Manual (Ch 11 & 13 on takeovers/delisting), Competition Act (s 54 SLC test).
+2.1 Take-over Code
+2.1.1 Overview & Administration	
+* Nature: Non-statutory code administered by the Securities Industry Council (SIC).
+o SFA s 138: SIC constituted; members appointed by Minister.
+o SFA s 139: SIC powers to administer/enforce the Code.
+* Personal scope: Applies to all offerors (individuals or companies; in/outside Singapore) and acts done or omitted in or outside Singapore.
+* Material scope (who is protected): Code applies to takeovers of:
+1. SGX-primary listed corporations (incl. foreign-incorporated);
+2. Registered business trusts (incl. foreign-registered) with SGX primary listing;
+3. Unlisted Singapore public companies with >50 shareholders and NTA ? S$5m;
+4. Unlisted registered business trusts with >50 unitholders and NTA ? S$5m;
+5. REITs constituted under the SFA.
+Waivers of Code (apply to SIC):
+* Where: (i) foreign-incorporated co./Business Trust with SGX primary listing; (ii) SG-incorporated co./registered BT with primary listing overseas; (iii) unlisted SG public co./registered BT otherwise caught.
+* SIC considerations: (a) number of SG-based holders (fewer = better); (b) extent of SG trading (limited = better); (c) whether SG holders are protected by equivalent takeover laws overseas.
+2.1.2 Consequences of Breach
+* SIC sanctions: private reprimand; public censure; market facilities deprivation (e.g., dealing ban); for advisers, ban from Code-related work for a period.
+* Referrals: possible referral to Police/MAS/ACRA for offences under CA/SFA/other laws.
+* Payments to holders: SIC may require just and reasonable payments to security holders so they receive what they’d have received had the Rule been complied with; simple/compound interest may be ordered.
+2.1.3 Other Sources of Law (know the hooks)
+* Companies Act 1967 (CA):
+o s 210 Schemes of arrangement;
+o s 215 Compulsory acquisition;
+o ss 215A–215K Amalgamations (statutory mergers).
+* SFA:
+o Part VIII: statutory takeover provisions;
+o s 140: offence to make a false offer without reasonable grounds for funding;
+o s 295A: compulsory acquisition for REITs;
+o Part VII: insider trading — strict compliance during offer periods.
+* Business Trusts Act (BTA): s 40A compulsory acquisition for BTs.
+* SGX Listing Manual:
+o Ch 7 (Continuing obligations): Rule 723 10% free float;
+o Ch 11 (Takeovers): Rule 1105 suspension when offeror + concert parties reach ?90%;
+o Ch 13 (Trading halt, suspension & delisting): Rules 1307 & 1309 (voluntary delisting framework).
+?? Traps
+* Code = non-statutory, but SFA backs enforcement.
+* Inside information controls apply throughout the offer period (Part VII SFA).
+* SGX rules can impose additional conditions even when the Code is complied with.
+
+2.2 Types of Take-over Transactions
+2.2.1 General Offers (GO)
+Essentials: Offer to all shareholders. Board must issue offeree circular + IFA opinion within 14 days of offer document posting. Offer may be hostile or friendly. Three forms:
+?? MGO vs VGO vs Partial — Snapshot
+FeatureMandatory (MGO)Voluntary (VGO)Partial OfferTriggerCrossing 30%; or holding 30–50% and acquiring >1% in rolling 6 monthsNo trigger; bidder’s choiceOffer for <100% of sharesMin acceptance>50% of voting rights (MAC)>50%; may set higher (75%/90%)If leads to >50% or breaches free float, independent SH approval requiredOther conditionsGenerally none except merger controlPermissible (regulatory/SH approvals), non-subjective, SIC pre-clearSIC consent required; strict Rule 16 conditionsPricing floor? highest price paid by bidder/concert parties in Offer Period + 6 months pre-announcement? highest price in Offer Period + 3 months pre-announcementPrice in cash/securities/both (Rule 16.5)Cash alternative?Yes if ?10% bought for cash in last 6 monthsCash/securities/both; securities offer required if ?10% acquired for securities in last 3 monthsAs stated; SIC conditions applyUnconditionalityIf bidder already >50%, MGO is unconditionalCan be conditional incl. higher MACTypically conditional; plus no dealing windows2.2.1.1 Mandatory Offer (MGO)
+Offeror MUST make offer if all triggers are met. 
+* Triggers:
+o Acquire ?30% voting rights; or
+o While holding 30–50%, acquire >1% in any rolling 6-month period (aggregation with concert parties).
+* Conditions:
+o Minimum acceptance condition (MAC): must result in >50% voting control.
+o If bidder already >50%, MGO is unconditional.
+o No other conditions generally permitted except merger control.
+* Offer Price (Rule 14.3):
+o Cash or cash alternative at ? highest price paid by bidder/concert parties for voting shares during Offer Period + 6 months pre-announcement.
+o Must factor in prices paid via convertibles/options/rights.
+?? Trap: Rolling 6-month 1% creep applies aggregate with concert parties; inadvertent trigger is examinable.
+2.2.1.2 Voluntary Offer (VGO)
+
+* Conditions:
+o MAC ?50% (same as MGO).
+o May set higher MAC (e.g., 75%/90%). (If the offeror wants to have special resolution control – 75% etc). 
+o May include regulatory/SH approvals etc., but must be objective and SIC-cleared in advance (no “to bidder’s satisfaction” DD conditions).
+* Offer Price:
+o Cash/securities/both; floor is ? highest price paid during Offer Period + 3 months pre-announcement.
+o Include prices via convertibles/options/rights (same method, shorter look-back).
+2.2.1.3 Partial Offers (Rule 16)
+* Nature: Offer to all SHs for less than 100%. – want a specific amount of shares (eg. only 70% max) 
+* Consent: SIC consent mandatory.
+* When allowed:
+o <30% outcome: SIC normally grants consent (Rule 16.2).
+o 30–50% outcome: SIC will not grant consent (Rule 16.3).
+o >50% but <100% outcome: SIC may consent subject to conditions (Rule 16.4), including:
+* No acquisitions in 6 months before announcement and between consent application and announcement;
+* No acquisitions during Offer Period and 6 months post-close if unconditional;
+* Independent SH approval where outcome could breach free float (10%) or lead to >90%; bidder group abstains; approval by poll or tick-the-box;
+* Disclosure that bidder will have statutory control and be free to buy more after 6 months.
+* Price: Cash/securities/both (Rule 16.5).
+2.2.1.4 Timetable & General Points
+Indicative Rule 22 Timeline (learn the beats):
+DayMilestoneDOffer announcedD+1Target holding announcement; appoint IFAD+14 ? D+21 = TOffer Document posted (no earlier than D+14)T+14Offeree Circular + IFA opinion dueT+28Earliest close (?14 days after offeree circular) unless extendedT+60Last date for offer to become/be declared unconditional as to acceptances+7 Biz DaysSettlement after offer becomes unconditional in all respectsGeneral points:
+* Irrevocable undertakings: secure early acceptances.
+* No special deals: equal treatment principle.
+* Cash offer required if bidder/concert bought ?10% for cash in Offer Period/last 6 months.
+* Securities offer required if ?10% acquired for securities in Offer Period/last 3 months.
+?? Traps
+* Board circular + IFA must issue within 14 days of posting.
+* Settlement within 7 biz days of becoming unconditional in all respects.
+* Breach of dealing restrictions around partial offers is a common exam pitfall.
+
+2.2.2 Scheme of Arrangement (SOA)
+Overview: All-or-nothing route to acquire 100% via CA s 210. Only Target (through its Board) can propose the scheme. SIC typically exempts certain Code rules (timetable/consideration) subject to conditions. Often used for friendly deals.
+Approvals:
+* Court-convened meeting:
+o Majority in number (?50%) of SHs present and voting and
+o ?75% in value of shares voted.
+o Bidder/concert parties abstain.
+* Court sanction after vote; effective upon ACRA lodgement of the sanction order.
+* SGX clears scheme document; eventual delisting post-effectiveness (if listed).
+* SIC: exemptions on timetable/type of consideration typically granted on request.
+?? Traps
+* Only Target Board can table a scheme (offeror must engage).
+* Scheme not effective until order lodged with ACRA.
+
+2.2.3 Voluntary Delisting (SGX LM r 1307, 1309)
+Overview: Target exits SGX; a third party or controlling SH provides an Exit Offer. Only the Board can propose; cooperation essential.
+Approvals:
+* Independent SH vote: ?75% of shares held by independent SHs present and voting (poll); offeror/concert/associates abstain.
+* SGX: clears circular and must approve delisting, subject to:
+o Exit offer fair & reasonable; cash default alternative (r 1309(1));
+o IFA opinion: fair & reasonable (r 1309(2)).
+* SIC: Practice Statement — Exit Offer must comply with the Code; waivers on timetable possible if offer open ?21 days (post-circular) or ?14 days (if letter dispatched with circular announcement).
+?? Traps
+* Delisting proceeds regardless of Exit Offer outcome — SHs decide whether to accept or remain in a public unlisted company.
+* Independent threshold applies; bidder group abstains.
+
+2.2.4 Amalgamation (CA ss 215A–215K)
+Overview: Statutory merger of Singapore-incorporated companies; no court approval; one entity disappears; less used for public takeovers (director solvency statements; cross-border recognition concerns).
+Types:
+* Full amalgamation (relevant for public deals):
+o Merge into an existing company; or
+o Merge into a new company.
+* Short-form (100% group only): vertical/horizontal within group.
+Approvals & Conditions:
+* Shareholders: special resolutions (?75%) for each company.
+* Board solvency statements for each amalgamating company and the amalgamated company (as at effective date).
+* SIC: Code compliance; waivers on timetable may be granted.
+?? Traps
+* Directors incur personal liability for false solvency statements.
+* Ensure automatic transfer effects are acceptable to creditors/overseas regulators.
+
+2.3 Approvals Required — Quick Matrix
+RouteShareholder ApprovalCourtSICSGXMGO/VGONo general meeting; acceptances must reach >50% (higher for VGO if set)No (but s 215 CA compulsory acquisition challenge possible)Yes: price, conditions, timetable conformityOngoing obligations; Rule 1105 if ?90% reachedPartial OfferIndependent SH approval if may cause >90% or breach 10% free float; bidder group abstainsNoYes: consent under Rule 16Free float monitoringSOA?50% in number & ?75% in value at court meeting; bidder group abstainsYes: convening + sanction; effective on ACRA lodgementYes: exemptions on Code rulesYes: clear scheme doc; delist post-effectivenessDelisting?75% independent SHs present & voting; bidder group abstainsNoYes: Exit Offer must comply; timetable waiversYes: circular clearance; approve delisting; cash defaultAmalgamationSpecial resolutions (?75%) of each companyNo (but SH/creditor may object pre-effective date)Yes: Code compliance/waiversIf listed, SGX approvals/documentation
+2.4 Concert Parties
+2.4.1 Definition
+* Acting in concert: Persons who, under any agreement/arrangement/understanding (formal/informal), co-operate to obtain/consolidate effective control (through acquisitions by any of them). Question of fact.
+2.4.2 Presumptions (rebuttable; burden on offeror to displace)
+* Company group & related entities: company, parent, subs, fellow subs, associated companies (20–50%), and those who provided financial assistance (other than a bank in ordinary course) for voting rights.
+* Company & directors (incl. close relatives/related trusts).
+* Company & pension funds/employee share schemes.
+* **Person & funds he discretionarily manages.
+* Adviser & client (where adviser + its discretionary funds hold ?10% of client).
+* Target’s directors (incl. close relatives/related trusts) where offer is made or bona fide imminent.
+* Partners inter se.
+* Individuals with close relatives/related trusts/controlled companies/persons accustomed to act per instructions + financiers (non-bank) of voting acquisitions.
+Close relatives: parents, siblings, spouse, children; uncles/aunts & cousins; nephews/nieces.
+?? Traps
+* Aggregation with all concert parties for trigger, dealing restrictions, pricing floor.
+* Discretionary fund management can make a manager a concert party with client.
+
+2.5 Merger Control (Competition Act; CCCS)
+2.5.1 Overview
+* s 54 Competition Act: mergers that result or may be expected to result in a Substantial Lessening of Competition (SLC) in any SG market are prohibited.
+* Filing is voluntary, but recommended if risk of SLC.
+* Self-assess using CCCS Guidelines on Substantive Assessment and Market Definition.
+Practical screening (exam-useful, indicative only):
+* Combined market share <40% often low risk;
+* Combined 20–40% with CR3 <70% often lower risk;
+* Vertical/conglomerate theories may still bite.
+2.5.2 SIC Practice on CCCS Process (Practice Statement)
+* Pre-conditional offers: Announce a pre-conditional MGO/VGO with CCCS clearance as a pre-condition.
+* If no pre-clearance: Offer must lapse if CCCS opens Phase 2 or prohibits acquisition.
+* If Phase 2 later approves:
+o MGO: duty to make the offer revives on same terms/price as soon as practicable.
+o VGO: bidder may (not obliged to) reinstate or launch a new offer.
+?? Traps
+* Don’t forget merger control is typically the only acceptable condition in MGOs.
+* Build timetable buffers for CCCS; align with Rule 22 deadlines.
+
+?? Exam Flags & Red Herrings
+* Pricing floors differ: 6-month look-back for MGO, 3-month for VGO.
+* Cash offer if ?10% for cash in 6 months (Offer Period included).
+* Concert party aggregation drives trigger and price.
+* SOA: only Target Board can propose; effective only on ACRA lodgement of court order.
+* Delisting requires independent SH 75% vote and cash default Exit Offer + IFA fair & reasonable.
+* Partial offers are rare: heavy SIC consent conditions (no dealing windows).
+* Amalgamation: director solvency statements (personal exposure).
+* Insider trading (SFA Part VII) runs alongside the Code — do not ignore.
+
+?? How to Answer (MCQ/Short-Essay Checklist)
+1. Identify the route: MGO/VGO/Partial/SOA/Delisting/Amalgamation.
+2. Check triggers: 30% / 1% in 6 months; concert parties; pricing floor window.
+3. State conditions: MAC (?50%), higher thresholds, only merger control in MGO, objective conditions in VGO (SIC-cleared), Rule 16 for partials.
+4. Map approvals: SH/Court/SIC/SGX matrix for the chosen route.
+5. Timetable beats: Rule 22 dates; offeree circular + IFA within 14 days; settlement within 7 biz days post-unconditional.
+6. Free float & 90%: SGX 10% public float, Rule 1105 suspension at 90%; s 215 compulsory acquisition mechanics.
+7. Merger control: Need pre-conditional structure? Phase 2 consequences?
+8. Red flags: insider info handling; equal treatment; no special deals; dealing prohibitions.
+
+?? Quick Tables (for last-minute review)
+A. Pricing Floors & Cash/Scrip Requirements
+ItemMGOVGOLook-backHighest price in Offer Period + 6 months pre-announceHighest price in Offer Period + 3 months pre-announceFormCash or with cash alternativeCash, securities, or bothCash offer requiredIf ?10% acquired for cash in Offer Period/last 6 monthsN/A (but cash/securities both possible)Securities mirror offerIf ?10% acquired for securities in last 3 months, must offer the same securitiesYes (same principle)B. Approvals by Route (1-glance)
+RouteSH VoteCourtSICSGXMGO/VGONo GM; acceptances >50% (or higher if set)NoYesMonitor free float/Rule 1105PartialIndependent SH approval if >50% or free float riskNoConsentMonitor free floatSOA?50% in number & ?75% in valueYesExemptionsClear doc; delistDelisting?75% independent (cash default + IFA)NoWaiversApprove delistAmalgam.?75% each companyNo (but objections possible)WaiversIf listed, approvalsC. Partial Offers — Key Rule 16 Conditions (selected)
+* No acquisitions 6 months pre-announce & until announce (post-consent submission).
+* No acquisitions during Offer Period & 6 months post-close (if unconditional).
+* Independent SH approval if risk of >90% or free float breach; bidder group abstains.
+* Disclosure: statutory control; free to buy more after 6 months.
+
+
+3. Due Diligence (DD)
+When relevant: Any M&A, banking, or capital markets (IPO/offerings) transaction where the client needs decision-quality facts to price, structure, allocate risk, and comply with disclosure laws.
+
+3.1 What is Due Diligence?
+3.1.1 Definition & Purpose
+* Definition: Systematic gathering, organising, analysing, and verifying information relevant to a transaction. Essentially fact-finding for a corporate purpose (M&A, financing, IPO).
+* Private deals: Shapes price, structure (share vs asset), CPs, W&I package, indemnities, integration plan, and walk-away calls.
+* IPOs: Supports true, accurate, complete disclosures under ?? SFA s 243 and the Fifth Schedule to the 2018 Securities & Securities-based Derivatives Regulations; mitigates prospectus liability under ?? SFA ss 253–255 (incl. due diligence defence in s 255).
+3.1.2 DD Varies By
+* Transaction: M&A / Banking / Capital markets.
+* Role: Buyer vs Seller; Issuer vs Issue Manager/Underwriter.
+* Data: Quality (are the right docs available?) & Quantity (size/speed of review; tech-assisted DD).
+3.1.3 Types of DD (who leads / what they look for)
+TypeLed byFocus (illustrative)LegalLaw firmTitle/authority, corp-sec, contracts (COC/assignment), finance docs, licences/permits, litigation, IP/IT, land, employment, data/privacy, complianceBusiness/CommercialStrategy consultantsMarket, competitors, unit economics, R&D roadmap, ops risksFinancial/TaxAccounting firmsQuality of earnings, working capital, debt-like items, tax exposures, NOLsEnvironmentalSpecialistsContamination, remediation costs, EHS complianceTech/Code/InfoSecSpecialistsCodebase, IP provenance, security posture, cyber incidents?? Exam flag: Legal DD does not replace warranties—complements them.
+
+3.2 Purpose of Legal DD
+3.2.1 Seller (M&A)
+* Grooming: Carve-outs, fixables (e.g., IP assignments), clean registers.
+* Information Memorandum (IM) preparation.
+* Disclosure Letter backbone—identify what must be fairly disclosed to limit warranty liability.
+* Sensitive info control: Stage releases; protect trade secrets/pricing.
+3.2.2 Buyer (M&A)
+* Verify the asset: What exactly am I buying?
+* Structure & CPs: Share vs asset; COC/consents; merger control.
+* Risk allocation: What warranties, indemnities, escrow, price adjustments are needed?
+* Integration plan: HR harmonisation, system cutovers, novations, leadership.
+* Walk-away: Identify deal-killers early.
+3.2.3 IPO (Capital Markets)
+* Disclosure compliance: ?? SFA s 243 “all information an investor would reasonably require,” incl. Fifth Schedule line-items.
+* Liability: ?? SFA s 253 (criminal), s 254 (civil) for false/misleading statements/omissions; ?? s 255 due diligence defence.
+* Stakeholders protected: Issuer directors, Issue Manager, Underwriters (verification and negative assurance).
+?? Traps: Prospectus omissions; unverified “market leader” claims; selective disclosure to analysts; insider trading rules under SFA Part VII apply throughout.
+
+3.3 Warranties, Indemnities & Disclosures (and why DD still matters)
+3.3.1 Warranties (contractual statements of fact)
+* Often materiality/knowledge qualified; backed by caps, baskets (de minimis/threshold), and time limits (commercially 12–36 months; tax/title longer).
+* Disclosure Letter fairly discloses exceptions ? no breach for disclosed items.
+* Data room as disclosure? Negotiated—often only documents specifically cross-referenced count.
+3.3.2 Indemnities
+* Targeted cover for known issues surfaced by DD (e.g., identified litigation, tax audits).
+* Can be paired with escrow/retention for collectability.
+3.3.3 Why DD ? “just rely on warranties”
+* Warranties may be limited, heavily qualified, or credit-impaired (seller SPV).
+* Many risks are uninsurable or non-remediable post-close.
+* DD informs price and structure (or walk-away).
+?? Quick Table — Warranties vs Indemnities
+FeatureWarrantiesIndemnitiesScopeGeneral statementsSpecific known risksQuantumSubject to caps/basketsOften £1-for-£1 (may cap)Time limitsShorter (12–24m), tax/title longerTailored to risk profileBurdenBuyer proves breach & lossBuyer proves trigger event onlyDisclosure impactFair disclosure defeats claimUsually survives disclosure (if drafted so)?? Traps: “Knowledge qualifiers” + “fair disclosure” can gut warranty coverage; negotiate clear disclosure standards.
+
+3.4 Due Diligence Process in Singapore (Practical 8-Step Flow)
+StepWhat you doWhy it matters1. Protect data (Seller)NDAs, clean teams, access rulesPreserve secrecy; avoid gun-jumping/antitrust issues2. Acquire dataBuyer RFIs; auction VDR load; IPO DDQ by Issue ManagerEnsure scope completeness3. VettingSeller/Issuer counsel screens for sensitivity, timing, redactionsBalance disclosure vs competitive harm4. Index & organiseVDR foldering, doc IDs, audit trailLater supports disclosure letter and verification5. Access controlRole-based access, logs, watermarksTraceability; leak deterrence6. CollaborateLegal + tax + financial + enviro + tech streamsAvoid gaps/duplication7. AnalyseMateriality thresholds; focus on client objectivesDecision-useful insights, not doc dumps8. ReportExceptions-only report; red-amber-green (RAG) risks; SPA asksDrives SPA/CPs/price/indemnities3.4.1 Data Rooms
+What: Central repository (now overwhelmingly VDRs).
+Who runs it: Seller/Issuer and their counsel; Issue Manager sets IPO DD protocols.
+?? VDR Pros/Cons
+ProsCons / Mitigants24/7 access; multi-bidderSecurity risk ? choose reputable providers; strict permissionsAudit trail; Q&A workflowsCost ? budget earlySpeeds auctions; remote teamsNavigation friction ? disciplined index; trainingTiered access; watermarkingOver-sharing risk ? staged releases; redactionsHandling sensitive items (esp. competitor bidders):
+1. Summaries of key terms; 2) Redactions; 3) Clean team review (advisers only); 4) Tiered release (auctions/M&A; not feasible for IPO where material must be provided promptly to Issue Manager).
+?? Traps:
+* Change-of-control and no-assignment clauses missed until late ? closing fail.
+* Gun-jumping/antitrust: avoid forward-looking competitively sensitive exchanges; use clean teams.
+* PDPA/Data privacy: anonymise personal data; ensure lawful basis.
+
+3.5 Due Diligence Report (Form & Content)
+3.5.1 Tailoring knobs (what drives scope)
+* Target profile (regulated? land-heavy? IP-heavy?), deal structure (share vs asset), jurisdictions, timeline, budget, and who else is reviewing (tax/financial/enviro).
+3.5.2 Core Document Buckets & What You Look For
+BucketWhat you checkWhy it mattersCorp-sec / Constitution / RegistersAuthority, share issuances/transfers, pre-emption, ROFR, moratoria, minority protections, encumbrancesTitle chain; transfer controls; CPs to lift encumbrancesMaterial contractsCOC (share sale), assignment/novation (asset sale), termination rights, unusual indemnities/guarantees, term/renewal, governing lawContinuity of revenue/supply post-closeJVs/SHAsReserved matters, vetoes, transfer restrictions, funding obligations, deadlockPost-close control; exit routesFinance docsCOC EoDs, prepayment penalties, covenants, security, guaranteesRefinancing plan; CP to obtain consents/waiversLand/Real estateTitle, planning, JTC/HDB/URA consents, requisitions, stampingAsset value & transfer mechanicsLicences/PermitsMAS/IMDA/NEA/MOM etc.; COC; transferabilityRegulated continuity; re-licensingInsuranceCoverage scope, gaps, claims historyRisk transfer; systemic loss patternsEmploymentKey staff, retention, benefits, union CBAs, restrictive covenants, EA compliance, work pass quotasTalent retention; integration; liabilitiesIP/IT/DataIP ownership/assignments, OSS compliance, cyber incidents, PDPACompetitive moat; privacy finesLitigationPending/threatened cases; insurance coverQuantify/indemnify; price adjustAccountsRead early: provisions, contingent liabilities, debt-like itemsScope the DD; align with financial DD3.5.3 Reporting Styles
+StyleUse whenFeaturesLong-formEducation required (e.g., IPO; first-time buyer)Business description + doc-by-doc summariesExceptions-only (short form)Sophisticated buyer; time/cost constraintsRAG issues; CPs; SPA asks; schedules to Disclosure LetterIPO verification packsProspectus sign-offVerification notes, director Q&As, evidence bankAssumptions/Exclusions: State what you didn’t review (e.g., no financial/tax opinion, foreign law AS IF SG law, reliance on documents provided).
+3.5.4 IPO “Negative Assurance” Letters
+* Issue Manager’s and Issuer’s counsel typically give negative assurance that nothing has come to their attention suggesting the prospectus contains untrue statements or material omissions (ties to ?? SFA ss 253–255 risk).
+
+3.6 Dealing with Negative Findings (M&A vs IPO)
+3.6.1 M&A Toolkit (choose one or combine)
+MethodWhen to useExample exam hookPrice adjustmentQuantifiable fix costIllegal extension structure ? deduct remediation costRestructureRing-fence liabilitiesSwitch to asset deal to leave litigation behindConcessions tradeAccept risk for better termsHigher cap/longer survival on tax warrantiesCP to remedyFix before completionCourt rectification of defective allotmentEarn-outDisputed performance metricsPay last 20% if EBITDA target metSpecific indemnityKnown issue survives disclosureTax audit indemnity with escrowEscrow/RetentionCredit risk of seller10% price in escrow for 24 monthsPost-close actionsAdmin/minor issuesLate licence renewalsWalk awayDeal-killer; unfixableUnconsented regulator block; fatal COC?? Traps: Forgetting to align CP long-stop date with regulatory timing; indemnities without survival/collectability (no escrow).
+3.6.2 IPO Playbook
+MethodCommentFull, prominent disclosure?? SFA s 243 standard—material facts + risks; engage MAS/SGXQualify warranties in underwriting agreementReflect known issues; avoid misrepRe-profile offeringDownsize/tranche switch / timing shiftPull the dealIf investors cannot be satisfied—IPO deal-breaker?? Traps: “Burying” material risks in boilerplate; failing to update the prospectus for late-breaking events.
+
+3.7 Extra Singapore-Specific Considerations (high-yield marks)
+* Competition/Antitrust info-sharing: Use clean teams, avoid future pricing/output plans; document protocols (especially where buyers are competitors).
+* Insider trading (?? SFA Part VII): DD participants are often insiders—no trading, strict walling, control lists.
+* Data protection (PDPA): Lawful basis for sharing personal data; redact/anonymise where possible; cross-border transfer clauses in VDR Ts&Cs.
+* Sector regulators: MAS, IMDA, HDB/JTC/URA, NEA, MOM—build regulatory CPs and realistic long-stop dates.
+* Stamping/completeness: Confirm stamping of key instruments; unstamped = inadmissible for some purposes and penalties may apply.
+* Foreign law docs: Flag for local counsel; do not assume transferability/COC rules are the same.
+
+3.8 “How to Answer” (MCQ / Short-Essay Checklist)
+1. Role & deal: Buyer vs Seller / IPO vs M&A; share vs asset.
+2. Scope plan: What buckets matter most (COC/novations, licences, finance EoDs, land/JTC, IP ownership, litigation)?
+3. Red flags: Any deal-killers ? CP, indemnity, restructure, price chip, escrow, or walk.
+4. Disclosure mechanics: Fair disclosure standard; data room cross-references; IPO verification.
+5. W&I package: Caps, baskets, time limits; specific indemnities + escrow.
+6. Regulatory CPs: Sector approvals, SGX free float, merger control (CCCS), PDPA.
+7. Timelines: Align CPs, long-stop, VDR staging, and offer timetables (if public).
+8. Paper trail: Indexing and audit trail to back Disclosure Letter/IPO negative assurance.
+
+
+4. Joint Ventures (JVs)
+When relevant: Any collaborative business arrangement where 2+ parties combine assets/skills to pursue a defined business or project. For equity JVs, the JV company (JVCo) sits at the centre; for non-equity/contractual JVs, the contract does.
+
+4.1 Introduction
+4.1.1 What are JVs?
+* Not a defined legal term in Singapore; it’s a commercial concept.
+* Collaborative business arrangement with integration of resources/management to pursue profit.
+* ?? United Dominions Corporation v Brian (HCA): “JV” connotes an association for a specific commercial undertaking for mutual profit; contributions can be money, property or skill.
+4.1.2 Why enter JVs? (Spot the client’s true goal)
+* Cost/Risk sharing: R&D, capex-heavy projects (pharma, infra, telco).
+* Access: Technology, know-how, markets, distribution.
+* Strategic: Speed to market; platform for future acquisition; regulatory fit (local sponsor).
+* Financing: “Leveraged JV” where financial investor enables scale.
+* Tax/accounting: Structure-driven outcomes.
+4.1.3 Role of lawyers
+* Structure the JV to the objective; flag approvals/consents; run DD; document the deal; set governance/controls; anticipate exits.
+4.1.4 Issues to surface on Day 1 (use as client intake)
+* Objectives & scope (field/territory)
+* Contributions (cash, assets, IP, personnel) and returns (dividends, fees, royalties, product offtake)
+* Control & vetoes; non-compete/exclusivity
+* Licences/regulatory; 3P consents
+* Exit vision (IPO, sale, put/call, fixed term)
+?? Traps: Parties often jump to “50/50” before agreeing veto map, deadlock, exit, and funding obligations.
+
+4.2 Forms of JV
+4.2.0 Choosing a form — what really drives it
+DriverContractual JVPartnershipCorporate JV (Company/LLP/LLP-like)LiabilityAllocated by contract (but leakage risk)Unlimited joint liabilityLimited (company/LLP)LicensingMay be harder (no legal person)VariesStraightforward (entity holds licences)FundingMainly shareholder/sponsorHard to raiseEasier (bankability, security)TransferabilityHard to trade “contract slots”HardShares/units transferable (with restrictions)AdminLightMediumHeavier (filings, audit)TaxFlexible by draftingPass-throughEntity-level; plan returns?? Exam flag: For continuing businesses and asset-holding, the default exam answer is Corporate JV (limited liability + bankability).
+
+4.2.1 Contractual Alliances
+* Unincorporated; purely contract-based cooperation (R&D, joint production, shared services).
+* Pros: Low formality; flexible; easy to unwind; tax efficiency possible.
+* Cons: No separate legal identity; hard to transfer; risk of being characterised as a partnership; competition-law sensitivities; must draft everything from scratch.
+?? Trap: Sharing net profits/losses can tip into partnership characterisation.
+
+4.2.2 Partnerships
+* Unincorporated business carried on in common with a view to profit (Singapore Partnership Act definition concept).
+* Pros: Simple; tax transparency; private.
+* Cons: Unlimited joint liability; bankability issues; rarely used for commercial JVs in SG (except professional firms or tax-driven cases).
+?? Exam flag: Many JV clauses aim to avoid creating a partnership (no net profit/loss sharing language; label as “independent contractors”).
+
+4.2.3 Corporate Joint Ventures (focus)
+* JVCo (private limited company) jointly owned by participants; holds assets, contracts, people.
+* Pros: Limited liability; licences in JVCo; clean governance; easier financing; share transfer mechanics; established company law backdrop.
+* Cons: Compliance/admin; less flexibility than pure contract; winding-up/exit is harder.
+
+4.3 Documentation (Constitution & JVA/SHA)
+4.3.1 Constitution vs JVA/SHA (who binds whom)
+* Constitution/Articles (Companies Act framework): binds company + all shareholders (present/future); amendable by ?75% special resolution; public document.
+* JVA/SHA: private contract among parties; binds only signatories; supplements the Constitution; cannot fetter company vis-à-vis third parties acting under the Constitution.
+?? Trap: Inconsistencies between JVA and Constitution ? operational chaos. Include obligation to align and amend Constitution if conflict emerges.
+4.3.2 Typical JVA/SHA terms (exam checklist)
+* Parties & guarantees (parent guarantees? keepwell?)
+* Purpose & scope (business plan; field/territory; exclusivity/non-compete)
+* Conditions precedent (licences, 3P consents, contributions)
+* Capital & contributions (cash/in-kind; valuation of in-kind IP/assets)
+* Funding (future calls; debt vs equity waterfall; external financing priority)
+* Governance
+o Board: composition, appointment/removal per shareholding; independent directors?
+o Quorum: protects minority (presence of each side?)
+o Voting: ordinary vs reserved matters (veto list)
+o Management: CEO/CFO nomination; key hires
+o Dividend policy
+* Information & audit rights (budgets, MIS, audit committee)
+* Inter-party dealings (related-party transactions; arm’s-length; non-compete; IP licensing)
+* Transfers (lock-ups; ROFO/ROFR; permitted transfers; tag/drag)
+* Deadlock (prevention, continuity tools, “divorce” options)
+* Default (insolvency, material breach, COC) + remedies (put/call; price adjustments)
+* Exit (IPO/sale/put-call)
+* Governing law/DR (arbitration; expert determination for valuation)
+4.3.3 Parties to the JVA
+* Only direct shareholders sign (plus separate parent guarantees), or ultimate parents sign and bind group behaviour.
+* Should JVCo be a party?
+o Pros: Direct obligations, easier enforcement.
+o Cons: Risk of fettering statutory powers; consents needed in disputes.
+o Practice: Often not a party in 2-party JVs; common in multi-party or where many JVCo covenants are needed.
+
+4.4 Financing the JV
+4.4.1 Funding architecture (decide the waterfall)
+* Order of funding (typical): external debt ? SH loans ? equity.
+* Debt/equity mix: tax shield vs bankability; regulatory capital; balance-sheet optics.
+* Security & recourse: limited/non-recourse project debt; sponsor guarantees; share pledges.
+4.4.2 Key issues
+* Mandatory capital calls & consequences of non-funding (interest, dilution, default buy-out).
+* Share classes (prefs for early returns; dividend priority; convertibles/warrants for management).
+* Anti-dilution protections.
+* Accounting consolidation vs equity method at parent level.
+* Cash extraction: dividends vs fees/royalties/interest (must be arm’s-length).
+?? Traps: Thin capitalisation; transfer pricing; financial assistance/whitewash in certain structures if JVCo later acquires shares of a parent (avoid).
+
+4.5 Minority Protection
+4.5.1 Statutory baseline (limited)
+* Block special resolutions if ?25%; derivative actions; oppression remedy; info/meeting rights.
+4.5.2 What to negotiate (practical tools)
+* Board seats; quorum requiring minority presence.
+* Reserved matters (veto list) – e.g., budget, capex, debt, security, share issues, business changes, related-party deals, IP transfers, liquidation.
+* Anti-dilution; pre-emption on new issues; information rights (monthly MIS, budgets, audit).
+* Dividend policy (payout ratios; conditions).
+* Breaches by majority: related-party transaction controls; independent director; audit committee.
+* Exit safety valves: tag-along, put options on certain triggers, IPO rights.
+?? Trade-off: Stronger minority protections ? deadlock risk and may impair bankability.
+
+4.6 Deadlocks
+4.6.1 How they arise
+* Board stalemates (parity seats; vetoes), shareholder quorum boycotts, strategic disagreements.
+4.6.2 Three layers of management
+(A) Avoidance by design
+* Asymmetrical control in certain domains; allocate “portfolio leads”; push decisions down to executives; keep reserved matters list tight.
+(B) Continuity tools
+* Chair’s casting vote; independent director swing vote; stepped escalation (GC ? CEOs); expert determination/mediation for discrete technical issues.
+(C) Divorce mechanisms (last resort)
+* Put/Call options; Russian roulette/Texas shoot-out; sale of JVCo; winding-up.
+?? Reality check: Parties often settle commercially rather than invoke nuclear options. Draft with cool-off periods and clear timetables.
+
+4.7 Transfer of Shares
+4.7.1 Why restrict?
+* JV is personal; private companies must typically restrict share transfers in their constitution; protect partner selection.
+4.7.2 Spectrum of restrictions
+* Free transfer (rare) ? limited refusals ? pre-emption (common) ? consent-only ? absolute bar (short lock-ups).
+4.7.3 Pre-emption mechanics
+* ROFO (soft): non-seller gets first bite at a seller-stated (or expert-valued) price before market testing.
+* ROFR (hard): kicks in after seller sources a bona fide 3P offer; non-seller can match.
+4.7.4 Valuation bases (state clearly!)
+* Fair value (clarify control premium/minority discount).
+* Market value (pro-rata) for whole-company pricing.
+* NAV / DCF / Earnings multiple / Dividend yield (as appropriate).
+* Provide expert appointment and timeline; who pays costs; interim completion rules.
+4.7.5 Tag & Drag
+* Tag-along: Minority sells alongside majority on same terms to avoid being stranded.
+* Drag-along: Majority can force minority to sell to deliver 100% to buyer (conditions & fair price protections).
+?? Trap: Vague valuation terms = litigation. Build a worked expert process (inputs, format, finality).
+
+4.8 Exit from a JV
+* Term & renewal (more common in contractual JVs).
+* Termination for convenience (notice; unwind plan).
+* Termination for cause (material breach, insolvency, change of control of a shareholder, failure to hit KPIs).
+* Put/Call options (trigger events; price formula).
+* Sale/IPO rights (who can force? thresholds; drag/tag interplay).
+* Change/scope review (re-set discussions on hardship/market shift; mediation fallback).
+?? Exam flag: Align exit rights with transfer restrictions and bank covenants (no-transfer, pledges).
+
+4.9 Default
+4.9.1 Default events
+* Insolvency of a shareholder; material breach (limit to key clauses); cross-default under side agreements; change of control of a shareholder.
+4.9.2 Remedies & pricing
+* Put/Call mechanics in favour of non-defaulting party.
+* Pricing: usually fair value, with discount if buying the defaulting shareholder; premium if defaulting shareholder is buying out the non-defaulting.
+* Unwinding: terminate or novate ancillaries (IP licences, supply, services); deal with contributed assets.
+?? Traps: Enforceability of penalties; ensure valuation process is workable; consider financial assistance rules if JVCo funds buy-backs.
+
+?? One-Glance Tables
+A. Forms of JV — quick compare
+ItemContractual JVPartnershipCorporate JVLegal personNoSometimes (not in SG)YesLiabilityBy contract (residual risk)UnlimitedLimitedLicencesTrickyVariesStraightforwardFundingSponsorsHardBankableTransferHardHardShares (with ROFR/ROFO)AdminLightLight/MedHeavierB. Minority Toolkit (what to ask for)
+* Board seat(s) + quorum; reserved matters; anti-dilution; pre-emption on new issues and transfers; info rights; dividend policy; RPT safeguards; tag-along; put on triggers; deadlock safety.
+
+?? How to Answer (MCQ / Short-Essay)
+1. Identify JV form (contractual/partnership/corporate) and why chosen (liability, licensing, funding, transfer, tax).
+2. List the core documents (Constitution + JVA) and who they bind; warn about inconsistency.
+3. Governance: board, quorum, veto map, reserved matters; minority info/dividend rights.
+4. Funding: calls, waterfall, consequences of non-funding; bankability & security.
+5. Transfers: ROFO/ROFR; valuation method & expert process; tag/drag.
+6. Deadlock: prevention ? continuity ? divorce; emphasise commercial settlement likelihood.
+7. Exit/Default: triggers (cause/COC/insolvency), put/call pricing, unwind arrangements.
+8. Red flags: partnership risk in contractual JVs; vague valuation; over-broad vetoes (bankability); Constitution/JVA misalignment.
+

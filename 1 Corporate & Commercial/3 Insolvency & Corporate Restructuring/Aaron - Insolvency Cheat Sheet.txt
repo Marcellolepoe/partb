@@ -1,0 +1,1339 @@
+3.1 ?? Insolvency & Corporate Restructuring – Liquidation & Winding Up
+1. Overview: Types of Winding Up & Triggers
+?1.1 Types of Winding Up – CWU vs VWU
+?1.2 When is Each Procedure Used?
+2. Compulsory Winding Up (CWU)
+?2.1 CWU – 3-Stage Legal Framework
+?2.2 Requirement (1): Locus Standi (s 124)
+?2.3 Requirement (2): Grounds for WU (s 125)
+?2.4 Requirement (3): Court’s Discretion (s 128)
+?2.5 Disputed Debts, Cross-Claims, and Abuse of Process
+?2.6 Summary Guide: Answering CWU MCQs
+?2.7 Comparison Table: CWU vs VWU
+?2.8 Comparison Table: MVWU vs CVWU
+3. Voluntary Winding Up (VWU)
+?3.1 Legal Framework Overview
+?3.2 MVWU – Members’ Voluntary Winding Up
+?3.3 CVWU – Creditors’ Voluntary Winding Up
+?3.4 Conversion from VWU to CWU (s 124(2)(e), 126(1)(b))
+?3.5 Summary Guide: Answering VWU MCQs
+4. Effect of Winding Up
+?4.1 Commencement Timing Rules (s 126, s 161(6))
+?4.2 Moratorium on Proceedings & Enforcement
+?4.3 Enforcement Traps – Execution and Bona Fide Buyers (s 206)
+?4.4 Leave of Court to Proceed – Factors from Korea Asset
+5. Powers and Role of the Liquidator
+?5.1 Appointment of Liquidator (CWU: s 135, VWU: s 164/167)
+?5.2 Powers and Duties (s 140, s 144)
+?5.3 Oversight and Accountability (s 188, 244, 181, 190)
+?5.4 Case Law on Liquidator Duties: Nova Leisure v Dynasty
+?5.5 Red Flag Traps for Liquidators
+6. Dissolution & Discharge of Liquidator
+?6.1 Final Winding Up Steps (s 147–148)
+?6.2 Dissolution Order & Liquidator Release (s 149)
+?6.3 Post-Dissolution Voiding (s 208)
+7. Claims Against the Company
+?7.1 Provable Debts (s 218)
+?7.2 Pari Passu Principle (s 172)
+?7.3 Priority of Payments (s 203)
+?7.4 Insolvency Set-Off (s 219)
+?7.5 Estate Costs Rule & Liquidator’s Personal Liability (Ho Wing On Christopher)
+
+3.1.1. Overview: Types of Winding Up 
+?? TABLE: CWU vs VWU
+FeatureCompulsory Winding Up (CWU)Voluntary Winding Up (VWU)Who initiatesCreditors / others (s 124(1))Company via resolution (s 160)Grounds neededYes – s 125 IRDA (e.g. insolvency)No need to prove groundsCourt involvementYes – Court makes winding up orderNo – out-of-court processLiquidator appointmentCourt-appointed (s 135)Appointed by company / creditors (s 164/167)Locus standi of creditorsYes – must be creditor under s 124(1)Not neededTiming of commencementFrom date CWU application is filed, unless VWU resolution passed earlier (then earlier date applies) - s 126(1)(a)/(2)From date special resolution is passed, or when provisional liquidator is appointed, whichever is earlier - s 161(6)Creditor protectionStronger, court supervises processWeaker, unless converted to CVWU (s 165)Used when...Company is insolvent and not cooperatingCompany voluntarily winds up (solvent or not)
+?? TABLE: MVWU vs CVWU
+FeatureMVWU (Members’ Voluntary Winding Up)CVWU (Creditors’ Voluntary Winding Up)Company must be solvent?? Yes – directors declare solvency (s 163)? No – company is insolventDeclaration by directorsMust declare full repayment within 12 monthsMust declare company cannot continue businessCreditors’ meeting required?? No? Yes – s 166–170 IRDALiquidator chosen by...Company in general meeting (s 164)Creditors (if disagree with company) (s 167)Converts to CVWU if...Turns out insolvent ? must notify creditors (s 165)Already insolventUsed when...Company wants to wind up in orderly solvent mannerDirectors initiate due to insolvency risk?? When to Use Which?
+* Use MVWU: Company is solvent and directors are confident debts can be paid within 12 months.
+* Use CVWU: Company is insolvent and creditors should oversee the process.
+* Use CWU: Creditor is dissatisfied or there’s fraud/abuse in VWU.
+
+
+3.1.2. COMPULSORY WINDING UP (CWU)
+?? Legal Source: s 124–138 IRDA
+?? Used when: Creditors or other stakeholders wish to wind up an insolvent company through the courts.
+
+3.2.1 CWU — 3-Stage Legal Framework (What must be satisfied?)
+StageRequirementStatutory Provision(1) Locus StandiApplicant must fall within the class of permitted personss 124(1) IRDA(2) Statutory GroundsCompany must fall within one of the grounds for winding ups 125(1) IRDA(3) Court’s DiscretionEven if above satisfied, court must still agree to grant the orders 128(1) IRDA
+All 3 Stages are required
+
+3.2.2 Requirement (1): Locus Standi to Apply
+?? s 124(1) IRDA – Who can apply?
+* (a) the company itself
+* (b) any director
+* (c) a creditor (including contingent or prospective)
+* (d) a contributory
+* (e) a liquidator or judicial manager
+* (f) a Minister or regulator (in certain cases)
+?? Special Case: Contingent or Prospective Creditor
+* A contingent creditor is one to whom a present liability may arise in the future upon the happening of some event - Re People's Parkway Development Pte Ltd [1991] 2 SLR(R) 779
+* Test:
+o Whether there exists an existing obligation, and a real possibility that the company will be subject to a present liability to pay money in the future.
+?? Exam Trap:
+* Not every “future claimant” is a contingent creditor. Must have an existing legal relationship (e.g. contract, loan agreement) that may crystallise into a debt.
+
+3.2.3 Requirement (2): Grounds for Winding Up
+?? s 125(1) IRDA – Lists grounds including:
+* Company has suspended business for ?1 year
+* It is just and equitable
+* Company is unable to pay its debts (most commonly tested) ? s 125(1)(e)
+
+?? Proving Inability to Pay – s 125(2) IRDA (any 1 of these would do – no need to prove all 3) 
+Mode of ProvingExplanation(a) Statutory DemandCompany owes ?$15,000, and fails to pay/secure/compound within 3 weeks(b) Unsatisfied ExecutionJudgment creditor tried to enforce debt but execution returned unsatisfied(c) Actual Inability to PayCompany cannot meet debts as they fall due – Court uses cash flow test
+?? (a) Statutory Demand Mechanics — s 125(2)(a)
+Company is indebted ? $15,000, and has for 3 weeks neglected to pay, secure or compound for it, after written demand is served at the registered office.
+Demand must clearly state the 3 options (BNP Paribas v Jurong Shipyard [2009]): 
+* pay the sum,
+* secure the sum, or
+* compound for it to the reasonable satisfaction of the creditor.
+?? Trap:
+* If creditor refuses reasonable security ? demand is invalid
+* If demand omits any of the 3 options ? fatal defect
+Ng Tai Tuan v Chng Gim Huat Pte Ltd: No “neglect” if the debt is bona fide disputed – statutory demand will fail.
+
+?? (b) Unsatisfied Execution — s 125(2)(b)
+Execution or other court process issued in favour of creditor, and is returned unsatisfied, in whole or in part.
+? Fulfilled if:
+* Judgment creditor obtains court order
+* Attempts enforcement (e.g. Writ of Seizure, Garnishee)
+* Sheriff/bailiff returns writ as fruitless or partially fruitless
+?? Trap:
+* Mere non-payment = ? Not enough
+* Must try formal enforcement, and fail
+?? Partial satisfaction is sufficient – full failure not required.
+
+?? (c) Actual Inability to Pay — Cash Flow Test
+?? Sun Electric Power Pte Ltd v RCMA Asia [2021] SGCA 60
+?? Test:
+Can company meet debts as and when they fall due in the next 12 months?
+?? Court considers (non-exhaustive) [Sun Electric at [69]]:
+1. All debts currently due or due soon
+2. Whether payment is being (or likely to be) demanded
+3. How long debts have been unpaid
+4. Value of current + near-future realisable assets
+5. Expected net cash flow from business
+6. Other income or payments due
+7. Bank/shareholder loans likely to bridge liquidity gap
+8. Whether problem is temporary or terminal
+?? Not a balance sheet test (not about assets > liabilities).
+?? Future assets/liabilities + contingent obligations are considered.
+?? Even undemanded debts may be relevant.
+
+3.2.4 Requirement (3): Court Must Exercise Discretion — s 128(1) IRDA
+Even if all the above are satisfied, court may still refuse to grant CWU order.
+
+?? Court’s Discretion Factors
+?? s 128(1) IRDA — Court must not refuse CWU solely because:
+* Company has no assets
+* Company is over-mortgaged
+* There’ll be nothing for contributories
+?? s 201(1) IRDA — Court may:
+* Consider creditors’ wishes (by value/majority)
+* Consider contributories' interests
+?? Policy considerations:
+?? BNP Paribas v Jurong Shipyard [2009] 2 SLR(R) 949
+[19] Court considers impact on employees, suppliers, other creditors
+[21] Court will reject petitions used to pressure solvent companies
+?? Raiffeisen Zentralbank v Continental Chemical [2010]
+Creditors’ majority in number and value important to court's decision.
+
+?? Disputing Debt (Affects BOTH Grounds & Discretion)
+?? Disputing Creditor’s Status = No Locus Standi
+?? Disputed Debt = Court will not allow winding up
+??? Grounds to Challenge:
+Type of DefenceEffectCase LawBona fide substantial disputeLocus standi lost + debt not “due”Chimbusco, BNP ParibasSubstantial cross-claimCan displace petitionMetalform, Chimbusco?? Threshold: Must show triable issue — not full defence.
+?? Winding up not proper tool to collect disputed debts.
+? Threshold Rule:
+The debtor must show that there is a substantial and bona fide dispute, or a genuine cross-claim, that raises a triable issue — i.e. one that could reasonably succeed at trial, not necessarily that it will.
+The standard is not a full defence. It’s lower:
+* ? Not proving the debt is false.
+* ? Only need to show a genuine dispute on credible grounds — not a sham or delay tactic.
+
+?? Key Case Examples & Application
+?? BNP Paribas v Jurong Shipyard [2009] 2 SLR(R) 949
+* Facts: Debt arose from a shipbuilding contract. Jurong claimed there was a genuine dispute over defects in the ship.
+* Held: The alleged dispute was a commercial excuse and not genuine.
+* ? Principle: A “triable issue” must be supported by credible facts — vague assertions, delay tactics, or unsubstantiated excuses won't suffice.
+Application Tip:
+If the debtor raises a detailed, contract-based dispute supported by some evidence (e.g. expert opinion, counterclaim in other proceedings), the court will treat it as triable.
+If the debtor merely says “I dispute this” without basis — ? no triable issue.
+
+?? Chimbusco Int’l Petroleum v PT Sentosa [2015] SGHC 210
+* Held: Court struck out CWU application due to a substantial cross-claim for defective fuel.
+* ? The dispute was supported by pre-existing arbitration proceedings and voluminous correspondence.
+Key Quote (Chimbusco at [37]):
+“The court must be satisfied that the alleged dispute or cross-claim is not a mere concoction or sham, but one that deserves serious consideration.”
+
+?? Summary Flow for Exam:
+StepWhat to CheckImplication1??Does debtor raise a genuine factual/legal issue about the debt?If yes ? triable issue exists2??Is the issue supported by credible docs, prior proceedings, or expert opinion?If yes ? no CWU (debt not “due”)3??Is the claim a delay tactic or bare denial?If yes ? Court may allow CWU4??Is it a cross-claim?Must be substantial and possibly exceed the debt
+?? Exam Flag:
+In MCQs, when the company raises a defence with factual basis (e.g. pending litigation, arbitration, counterclaim, technical dispute), select the answer that says CWU will not be granted because a triable issue exists.
+
+?? Summary: How to Answer an MCQ on CWU
+1. Does applicant have locus standi (s 124)?
+o Creditor? Contingent creditor? Any challenge to their standing?
+2. Is there a valid statutory ground (s 125)?
+o Inability to pay proven by one of 3 methods?
+o Was demand valid (all 3 options)? Is debt genuinely disputed?
+3. Should court grant the order (s 128)?
+o Is this an abuse of process?
+o Are public interest / creditor wishes against winding up?
+4. Watch for traps:
+o Invalid statutory demand ? fatal
+o Disputed debt ? no locus + discretion fails
+o Bona fide cross-claim = no winding up
+
+3.1.3. VOLUNTARY WINDING UP (VWU)
+?? Legal Source: s 160–170 IRDA
+?? Used when: A company chooses to wind itself up without court involvement.
+
+3.3.1 VWU — Legal Overview 
+?? TABLE: MVWU vs CVWU
+FeatureMVWU (Members)CVWU (Creditors)Company solvent?? Yes – directors declare solvency (s 163)? No – directors declare company cannot continueInitiated byMembersDirectors + membersControlCompany (via directors/liquidator)CreditorsCreditors’ meeting required?? No? Yes – s 166–170Liquidator appointed byCompany (s 164)Creditors (s 167)Conversion required if...Turns out insolvent ? s 165Already presumed insolventMoratorium on legal action?? Yes (from s 161(6), s 170(2))? YesUsed when...Orderly closure of solvent companyDirectors acknowledge insolvency
+
+?? VWU is out-of-court. No statutory grounds like CWU; instead, focus is on financial state at time of resolution.
+?? s 160(1) IRDA — VWU may be commenced:
+* When a fixed duration ends / event occurs; or
+* If the company passes a special resolution to wind up.
+
+3.3.2 MVWU – Members’ Voluntary Winding Up
+?? Legal Source: s 160–165 IRDA
+?? Used when: Company is solvent, and members wish to voluntarily close it down.
+?? Legal Test (Must Fulfil All):
+RequirementExplanationStatutory Source1?? Declaration of SolvencyDirectors must resolve that the company will be able to pay its debts in full within 12 months. Must be made before notice of WU resolution is sent.s 163(1)–(3)2?? Special ResolutionMembers must pass a special resolution to wind up the company.s 160(1)(b)3?? Appointment of LiquidatorCompany must appoint one or more licensed liquidators.s 164(1)
+?? Supplementary Rules / Post-Test Mechanics:
+1. Effect of Declaration (s 163)
+o Must be in prescribed form, made by majority of directors, and filed with ROC.
+o Declaration must be accompanied by statement of affairs.
+o Filed within 7 days of declaration.
+2. Directors’ Powers Cease (s 164(2))
+o Once liquidator appointed, board powers cease, unless permitted by liquidator.
+
+?? Common Traps / ?? Exam Flags
+* ? Failure to file valid solvency declaration = invalid MVWU.
+* ? Continuing MVWU when insolvency is discovered = breach of duty.
+* ?? MVWU can only be used if solvency is genuinely believed at the time of declaration.
+
+3.3.3 CVWU – Creditors’ Voluntary Winding Up
+?? Legal Test (Must Fulfil All):
+RequirementExplanationStatutory Source1?? Directors Declare Business Cannot ContinueBoard believes company cannot continue due to liabilities.s 161(1)(a)2?? Special Resolution to Wind UpMembers pass special resolution to wind up company.s 160(1)(b)3?? Members' and Creditors’ Meetings ConvenedMust be held within 30 days of declaration.s 161(1)(b)4?? Statement of Affairs PresentedDirectors present full list of creditors and SOA at creditors’ meeting.s 166(4)
+?? Supplementary Rules:
+1. Notice Requirements (s 166)
+o 10-day notice to creditors
+o Advertise meeting in Gazette + local newspaper at least 7 days before
+2. Appointment of Liquidator (s 167)
+o Members and creditors both nominate, but if they disagree ? creditors’ choice prevails
+3. Directors’ Powers Cease (s 167(5))
+o Cease upon appointment of liquidator unless creditors permit continuation.
+4. Committee of Inspection (s 169)
+o Creditors may appoint up to 5 persons, company may appoint another 5.
+5. Moratorium (s 170(2))
+o No legal action can be taken against company without leave of court
+
+3.3.4 Conversion from VWU to CWU
+?? Legal Source: s 124(1), s 124(2)(e), s 126(1)(b)
+?? Used when: Creditors or liquidator believe VWU is not protecting creditors’ interests.
+?? Conversion to Creditors' VWU (CVWU) – s 165 IRDA
+TriggerRequired ActionConsequenceLiquidator forms opinion that company cannot pay debts in fullMust summon creditors’ meetingWinding up proceeds as CVWU (even if creditors don’t appoint a new liquidator)
+
+?? Test: When can CWU override VWU?
+ConditionCase / SourceVWU is not in the interests of creditors or shareholderss 124(2)(e) IRDAFraud or mistake in voluntary processs 126(1)(b) IRDAConversion would benefit creditors or reflect majority’s wishKorea Asset Management
+?? Factors from Korea Asset Management:
+* Is applicant trying to gain advantage?
+* Would other creditors be prejudiced?
+* Are there cost/resource concerns?
+* Is liquidator too close to directors?
+?? Goal: Extract maximum value to distribute fairly to creditors.
+
+?? Summary: How to Answer MCQs on VWU
+1. MVWU or CVWU?
+o ? MVWU: Company is solvent; directors declare solvency (s 163)
+o ? CVWU: Company cannot continue business (s 161)
+2. Were the procedural requirements followed?
+o MVWU: Declaration + special resolution + liquidator
+o CVWU: Notice + creditor meeting + statement of affairs
+3. Did CVWU arise from MVWU?
+o s 165 triggered ? conversion required ? check if creditor appointed new liquidator
+4. Could CWU override VWU?
+o Creditor dissatisfied with VWU (s 124(2)(e))
+o Look for fraud, prejudice, or lack of transparency
+
+
+3.1.4. EFFECT OF WINDING UP
+
+3.4.1 Commencement of Winding Up – Timing Rules
+Triggering EventWhen Winding Up CommencesSourceCWU – Court OrderAt filing of CWU applications 126(1) IRDA… but prior VWU resolution passedUse earlier VWU resolution dates 126(2)VWU – Voluntary Winding UpWhen resolution passed or provisional liquidator appointeds 161(6)?? Trap: All acts post-commencement may be void if done in breach of IRDA moratoriums.
+
+3.4.2 Moratorium on Proceedings & Enforcement
+?? CWU Moratorium – Post-Application / Post-Order
+Moratorium TypeStatuteTriggerEffectStay of legal proceedingss 129Between CWU application and orderCourt may stay proceedings (discretionary)Post-order stay of proceedingss 133(1)CWU order or provisional liquidatorNo action against company without leave of courtDispositions of property voids 130(1)After CWU commencementDispositions/shares/alteration of status void unless court ordersExecution voids 130(2)Attachment/enforcementVoid unless court otherwise orders
+?? VWU Moratorium – After Resolution Passed
+Moratorium TypeStatuteTriggerEffectMoratorium on proceedingss 170(2)After VWU resolutionNo action/proceeding unless with leave of courtCompany must cease businesss 162(1)From VWU startExcept as needed for beneficial winding upDispositions of shares voids 162(3)After VWU startTransfer of shares/alteration in member status = void unless sanctioned
+?? Enforcement Traps – Execution & Attachment
+?? s 206 IRDA – Restricts creditor enforcement rights unless:
+* Execution/attachment completed before commencement
+* Creditor had no notice of intended VWU resolution (date of notice = deemed commencement date)
+* Bona fide third-party buyer of seized goods = good title
+
+?? Court’s Leave to Proceed (s 133 / s 170(2))
+?? Where company is in CWU or VWU, leave of court required to sue. 
+- (eg . If a third party (creditor, former employee, contractor) wants to bring legal proceedings against the company (e.g., for breach of contract, wrongful dismissal, debt recovery) after WU has commenced, they must first obtain leave of court.
+?? Korea Asset Management Corp v Daewoo SG [2004]
+Court balances interests of the applicant vs. all creditors:
+? Leave May Be Granted If…? Leave May Be Refused If…Applicant seeks recovery of their own property (not company’s)Claim prejudices pari passu treatment of other creditorsLiability must be determined before proof can be admittedNo likelihood of recovery / claim too costly to defendThird-party rights crystallised before WU (e.g. insurance proceeds)Can be more conveniently resolved in insolvency process?? Trap: Strategic use of leave to bypass winding up process = likely denied
+
+?? Common MCQ Trap:
+“Company X is being wound up. A creditor commences legal proceedings in court to establish liability.”
+? Wrong answer: “Creditor may proceed as long as proceedings are unrelated to other creditors.”
+? Correct answer: “Creditor requires leave of court to proceed due to s 133 or s 170(2).”
+
+
+3.1.5. POWERS AND ROLE OF THE LIQUIDATOR
+
+3.5.1 Who Appoints the Liquidator?
+ContextAppointment RulesCWU (Court WU)? Applicant must nominate licensed IP (s 135(1))
+? If none available, may nominate Official Receiver with consent (s 135(3))VWU (MVWU/CVWU)? Members (MVWU – s 164)
+? Creditors (CVWU – s 167, their choice prevails if conflict)
+3.5.2 Core Powers & Duties
+?? s 140(1) – Liquidator takes custody/control of all company assets
+?? BUT assets do not vest in liquidator (s 140(2))
+?? s 144 IRDA – Liquidator may (inter alia):
+* Sell property
+* Carry on business for beneficial winding up
+* Pay any class of creditors
+* Compromise debts
+* Bring/defend legal claims
+?? Court/COI approval required to carry on business beyond 4 weeks after order (s 144(1)(a))
+?? s 144(3) – Powers subject to Court supervision, creditors can challenge
+?? Liquidator owes fiduciary duties to company + creditors (independent of appointment)
+
+3.5.3 Key Oversight & Accountability Rules
+RuleDetailsBooks & recordss 188: Must maintain records of meetings, transactions. Creditors may inspect.Examination of personss 244: Court may summon persons with company knowledge for examinationCourt applicationss 181: Liquidator may ask court to resolve disputes, clarify powersChallenge to liquidator’s conducts 190: Any aggrieved party may apply to court to review act/decisionCourt may remove or refuse discharges 139: Court may remove/resign liquidator.
+?? Case: Nova Leisure v Dynasty Theatre [2005]
+Court has no power to authorise unilateral payout by liquidator from company accounts without dual signature (committee of inspection member required).
+?? Trap: Liquidators must follow strict authorisation procedures ? improper payout = personal liability.
+
+
+
+3.1.6. DISSOLUTION & DISCHARGE OF LIQUIDATOR
+
+3.6.1 Final Steps Before Dissolution – s 147–148 IRDA
+StageKey RequirementsLiquidator finishes winding up (s 147)Assets realised, dividends/final returns paidCalls final meetings (s 148(1))With members + creditors to lay account of WUPublishes notice (s 148(2))Gazette + local newspaper ? 30 days before meetingLodges return + account (s 148(3))To Registrar + Official Receiver within 7 days after meetingFails quorum? (s 148(6))File alternative return to show proper notice given?? Offence to fail to file (s 148(4)) – fine up to $1,000 + default penalties
+
+3.6.2 Dissolution & Release of Liquidator – s 149 IRDA
+ActionEffectCourt makes dissolution order (s 149(1))Company is dissolved from date of orderCourt considers report/objections (s 149(2))May refuse discharge if complaints by creditors/ORDischarge relieves liquidator of liability (s 149(4))But can be revoked for fraud or concealment?? Court may still void dissolution up to 2 years later (s 208 IRDA)
+?? Trap: Liquidator must ensure all creditor claims are properly dealt with before dissolution.
+
+
+3.1.7. CLAIMS AGAINST THE COMPANY
+When a company is being wound up (or under judicial management), creditors must prove debts to participate in distributions. The IRDA strictly defines what debts are provable, how they are assessed, and what priority they receive.
+
+3.7.1 Provable Debts — s 218 IRDA
+Determines which liabilities can be claimed by creditors in WU or JM.
+Type of ProceedingWhat Debts Are Provable?Solvent winding ups 218(1): Any debt/liability the company is subject to at commencement or may become subject to after (regardless of when obligation incurred)Insolvent WU / JMs 218(2): Debt/liability that arises before WU/JM or arises after, only if caused by pre-WU obligation? Includes:
+* Future and contingent liabilities
+* Interest on debts
+* Court-ordered confiscation (e.g. proceeds of crime — s 218(8))
+* Unliquidated damages arising from contract, tort, trust, bailment, or restitution (s 218(3))
+? Excludes:
+* Unliquidated damages not based on above categories
+* Claims that cannot be fairly valued ? Court may deem non-provable (s 218(6))
+?? Contingent/Prospective Debts
+* Liquidator must estimate value (s 218(4))
+* Aggrieved party may appeal estimate (s 218(5))
+* Court may:
+o Declare debt not provable (s 218(6))
+o Assess and fix value as provable debt (s 218(7))
+?? Case: Fustar Chemicals v Liquidator [2009]
+* Liquidator must scrutinise proof only if suspicious
+* Not bound by company’s accounts
+* Should reject only with reasonable basis
+?? Common Traps:
+* Forgetting that future or contingent debts may still be provable
+* Omitting interest claims on debts
+* Confusing test between solvent and insolvent WU
+
+3.7.2 Pari Passu Principle — s 172 IRDA
+Governs how provable debts are treated once admitted. All creditors of same class must be treated equally.
+?? Rule:
+Subject to preferences, the company’s assets must be applied pari passu to satisfy liabilities.
+? Like creditors treated alike
+? Applies to provable debts only
+? Creditors cannot contract out of this scheme, even if:
+* Agreement made in good faith
+* No intention to circumvent IRDA
+* Made for commercial reasons
+?? Joo Yee Construction [1990]:
+* Invalid for debtor to pre-direct payments to certain unsecured creditors in WU
+* Violates public policy on liquidation
+?? Traps:
+* Thinking any agreement overrides IRDA ? it cannot
+* Assuming secured creditors are affected ? they are outside the pari passu rule
+
+3.7.3 Priority of Payments — s 203(1) IRDA
+Where assets are insufficient to pay everyone, s 203 prescribes the statutory ranking for unsecured debts.
+RankPriority ClassStatutory Source1??Official Receiver’s costs + appointed liquidator pays 203(1)(a)2??Other WU costs + Liquidator’s remunerations 203(1)(b)3??Applicant’s legal costs under CWU (if ordered)s 203(1)(c)4??Wages/salary incl. allowance, commissionss 203(1)(d)5??Retrenchment benefits, ex gratia employment paymentss 203(1)(e)6??Work Injury Compensations 203(1)(f)7??CPF or superannuation fund contributions (within qualifying 12-month window)s 203(1)(g)8??Vacation leave pays 203(1)(h)9??Pre-WU assessed taxes and GSTs 203(1)(i)
+3.7.4 Insolvency Set-Off — s 219 IRDA
+Allows mutual debts between the company and a creditor to be netted off in WU/JM.
+When applicable?
+* Only in insolvent WU or judicial management
+* Does not apply to solvent liquidation
+Legal Basis:
+* Mandatory: If there are “mutual credits/debts/dealings” between creditor and company (s 219(1)-(2))
+* Debt counts whether: future/contingent/unliquidated (s 219(4))
+ConditionMust Be MetPersonal liability & beneficial ownership?Dealings occurred before WU?Debt must be provable?No notice of WU/JM application when incurred??? Cannot be used if:
+* Claim is not provable under s 218
+* Obligation incurred after creditor received WU/JM application notice (s 219(3))
+?? Panorama Development [2003]
+* Mutuality assessed at commencement of WU
+* But timing of valuation for proof = date of liquidation
+?? Re Lehman Brothers Finance Asia
+* Foreign currency conversion = date of WU order, not WU applicssationss
+
+3.7.5 Estate Costs Rule — ?? Ho Wing On Christopher v ECRC Land
+Liquidator may bring legal action in name of company — but if costs awarded against company…
+* These costs rank in priority over other unsecured creditors
+* Liquidator who pays other debts first may be personally liable
+* Must not use company funds recklessly to litigate
+?? Trap: Failing to account for potential adverse costs before commencing legal action
+
+
+3.2 BANKRUPTCY (INDIVIDUAL INSOLVENCY)
+
+?? TABLE OF CONTENTS
+2.1 Bankruptcy Proceedings
+??2.1.1 Jurisdiction – s 310
+??2.1.2 Who May Apply – s 307, s 308
+??2.1.3 Grounds for Bankruptcy – s 311
+??2.1.4 Presumption of Inability to Pay – s 312
+??2.1.5 Statutory Demand Mechanics – r 64–73
+??2.1.6 Setting Aside SD – r 67
+??2.1.7 Hearing & Orders – s 315, s 318
+??2.1.8 Commencement of Bankruptcy – s 326
+??2.1.9 Common Traps
+2.2 Debt Repayment Scheme (DRS) – Part 15
+??2.2.1 Eligibility – s 289, s 290
+??2.2.2 Mechanics & OA Role – s 291–s 301
+??2.2.3 Moratorium – s 293
+??2.2.4 Completion & Outcome – s 301
+??2.2.5 Traps & Comparison with Bankruptcy
+2.3 Individual Voluntary Arrangement (IVA) – Part 14
+??2.3.1 Eligibility & Initiation – s 275–s 279
+??2.3.2 Interim Order – s 276
+??2.3.3 Nominee’s Report – s 280
+??2.3.4 Creditors’ Meeting & Approval – s 281–s 284
+??2.3.5 Effect, Enforcement & Review – s 285
+??2.3.6 Common Traps
+
+3.2.1 BANKRUPTCY PROCEEDINGS
+Logic Flow for Bankruptcy
+1. Creditor applies for bankruptcy ? must prove s 311(a)–(d)
+2. Uses SD or other method to trigger presumption (s 312)
+3. Debtor may challenge:
+a) Set aside SD
+b) Show triable issue / cross-claim
+c) Prove solvency
+4. Court hears application (s 315–318)
+5. If satisfied ? makes Bankruptcy Order (s 326)
+6. Bankruptcy commences on order date
+3.2.1.1 Jurisdiction to Bring Application
+Statutory: s 310 IRDA
+You cannot bring a bankruptcy application unless the debtor:
+TestHow to identifyDomiciled in SingaporeLong-term residence or permanent ties (eg. NRIC holder, local dependents)Has property in SGOwns real estate, bank account, shares etc. in SGResident or carried on business in SG (within 1 year)Lease, business registration, prior employment or SG address
+3.2.1.2 Who Can Apply?
+ApplicantStatutory SourceNotesCreditor(s)s 307 IRDAOne or more creditors OR nominee under a voluntary arrangementDebtors 308 IRDASelf-initiated application?? Red Flag: Must use prescribed forms and comply with service requirements.
+
+3.2.1.3 Grounds for Bankruptcy — s 311 IRDA
+ALL of the following must be satisfied (no discretion).
+ElementWhat must be shownHow to identify(a) Det > $15,000 (S311(1)(a))Total debt owing > $15KSum across multiple creditors allowed(b) Liquidated debt (S311(1)(b))Fixed, ascertained, presently payableNot contingent/unliquidated; no dispute(c) Unable to pay (S311(1)(c))Debtor cannot pay each debtSee s 312 presumptions below (3.2.1.4)(d) Foreign debts? (S311(1)(d))Must be immediately enforceable in SGEg. enforceable foreign judgment (see Ambank)?? Ambank v Raymond Yong
+A foreign debt must be immediately executable (eg. registered judgment is not enough if further steps needed).
+3.2.1.4 Presumption of Inability to Pay – s 312 IRDA – Supports (c) (S311(1)(c))
+Presumption = grounds under s 311(1)(c) satisfied, unless rebutted.
+Only one of the following must be shown:
+GroundStatutory SourceHow to Identify(a) Statutory demand non-compliances 312(1)(a)No payment or no set-aside within 21 days(b) Execution returned unsatisfieds 312(1)(b)Eg. garnishee or writ of seizure fails(c) Debtor abscondss 312(1)(c)Intent to defeat/delay creditors(d) OA denies DRSs 312(1)(d)Certificate revoked or denied? s 314 IRDA: Urgency Exception – creditor can apply before 21 days if debtor’s assets are likely to diminish.
+
+3.2.1.4.1 Statutory Demand Mechanics – S313(1)(a)
+Rules 64–66, IRD(PI)R
+ElementRuleKey RequirementsPurpose of demandr 65(1)(a)Must warn that bankruptcy may followTime to complyr 65(1)(b)Must state 21 days from serviceCompliance optionsr 65(1)(c)Pay, secure, or compoundRight to challenger 65(1)(d)Must explain set-aside rightsContact infor 65(1)(e)-(f)Creditor contact person listedServicer 66Must take all reasonable steps to serve personally?? Trap: Demand invalid if any of the above omitted — winding up will fail (see BNP Paribas v Jurong Shipyard).
+
+3.2.1.4.2 Setting Aside Statutory Demand – r 67 – S313(1)(a)
+Grounds:
+1. Procedural Defect
+?• r 68(2) – Court may set aside if injustice
+?• Eg. incorrect form, wrong creditor info
+2. Substantial Dispute
+?• Only need to raise a triable issue
+?• Wong Kwei Cheong: Mistake-based guarantee defence was sufficient
+3. Debt compounded or satisfied
+?• Bombay Talkies: Reaching a new binding agreement counts
+?? Threshold Test for dispute = “triable issue”, like in resisting summary judgment. No need to fully disprove debt.
+
+3.2.1.7 Hearing and Bankruptcy Order
+This is the court stage where:
+* The applicant (usually creditor) must prove all 4 s 311 grounds;
+* The debtor can rebut (esp. s 311(1)(c): “unable to pay”).
+?? What is the Court assessing at the hearing?
+IssueExplanation? Have all 4 s 311 elements been met?Amount, nature of debt, enforceability, inability to pay?? Has the debtor rebutted presumption of insolvency (s 312)?e.g. shows cashflow, disputes debt, raises triable issue?? Is there any triable dispute or procedural defect?See Chimbusco, Wong Kwei Cheong?? Should the application be dismissed despite facial compliance?Court has power under s 315 IRDA
+IssueStatutory ReferenceNotesCourt power to dismisss 315 IRDAEven if procedural grounds metMust prove inability to pays 318 IRDAPresumption rebuttable if debtor shows solvencyApplication withdrawals 323 IRDAMust notify parties & court?? Chimbusco International – raising a bona fide triable issue is enough to prevent bankruptcy.
+
+3.2.1.8 Bankruptcy Order & Commencement
+If Court is satisfied at the hearing:
+* It issues a Bankruptcy Order under s 326 IRDA
+* That is when bankruptcy legally commences
+StepLegal EffectBankruptcy Order issuedCompany or individual is officially bankruptCommencement Date = Order Dates 326(1) IRDAConsequencesAll bankruptcy effects kick in (OA takes over, stay on legal proceedings, etc.)Notice RequirementsMust be published in Gazette and sent to Official Assignee
+IssueStatutory SourceNotesBankruptcy commences on date of orders 326 IRDAEffects last until dischargeOrder must be advertisedIRD(PI)RMust publish in Gazette and notify OA
+3.2.1.9 Common Exam Traps (Red Flags)
+TrapExplanationSD omits compliance optionsDemand invalid — no deemed inabilityForeign debt without enforceable SG judgmentFails s 311(1)(d)Debt < $15,000 or unliquidatedFails s 311(1)(a) or (b)Triable issue raisedApplication must fail (Chimbusco, Wong)Disputed debt = no locus standiCreditor loses standing to apply
+3.2.2 DEBT REPAYMENT SCHEME (DRS)
+DRS is a non-bankruptcy rehabilitation scheme managed by the Official Assignee (OA). It applies after a bankruptcy application is filed but before a bankruptcy order is made, where the debtor meets certain criteria.
+? Used to avoid bankruptcy by allowing a debtor to repay debts in instalments over a maximum of 5 years, without incurring the legal and social stigma of bankruptcy.
+DRS can only be triggered if the Court refers the matter to the OA, typically at the hearing of a bankruptcy application under s 316(9) or s 318(3) IRDA.
+DRS Flow
+1. Bankruptcy application filed
+2. Court considers debtor's financial situation
+3. Court adjourns hearing and refers to OA (s 316(9), s 318(3))
+4. OA reviews debtor’s suitability (s 289)
+5. If suitable ? OA implements repayment plan (s 291)
+6. Plan lasts max 5 years (s 291(7))
+7. If debtor completes plan ? Certificate of completion (s 301) ? No bankruptcy
+8. If DRS fails ? bankruptcy proceedings resume
+2.2.1 Eligibility
+RequirementStatutory SourceNotesTotal liabilities ? $150,000s 288 IRDABased on total across all creditorsNo bankruptcy/DRS/IVA in past 5 yearss 288(1)(c)-(d)Lookback test appliesNot a sole prop or partner in LLPs 288(1)(e)Businesspersons excluded
+2.2.2 Mechanics & Official Assignee Role
+StepStatutory SourceNotesReferred by courts 289, s 318(3)At bankruptcy hearingOA reviews eligibilitys 289(1)Suitability testOA modifies repayment plans 291(1)OA has discretionMax duration = 5 yearss 291(7)No extensions allowed
+2.2.3 Moratorium – s 293 IRDA
+No bankruptcy application may be made while DRS is in force
+BUT:
+
+* Secured creditors can still enforce security
+
+2.2.4 Completion – s 301
+• Certificate of completion issued if debtor complies
+• Discharge achieved without bankruptcy
+• Creditors’ rights extinguished
+
+2.2.5 Common Traps
+TrapExplanationLiabilities exceed $150KIneligible for DRSSole proprietor appliesAutomatically disqualifiedFailing DRS = bankruptcy continuesNo second chance once DRS fails
+3.2.3 INDIVIDUAL VOLUNTARY ARRANGEMENT (IVA)
+An IVA is a pre-bankruptcy alternative under Part 14 IRDA. It allows an individual debtor to propose a voluntary debt repayment plan to creditors, supervised by a licensed insolvency practitioner (nominee).
+? Use before bankruptcy is triggered
+?? Gives debtor breathing space (interim order), protects from legal action
+?? Must be approved by creditors (special resolution) to take effect
+
+IVA Flow:
+1. Debtor intends to propose arrangement (s 276)
+2. Applies to Court for interim order (valid 42 days)
+3. Appoints Nominee (must be licensed)
+4. Debtor submits proposal + SOA to Nominee (s 280)
+5. Nominee reviews & files report with Court
+6. If viable ? Creditors’ meeting convened (s 281)
+7. Creditors approve by special resolution (?75% in value) (s 282)
+8. If approved ? Arrangement binds all creditors (s 284)
+9. Bankruptcy application deemed dismissed
+10. If unfair / irregular ? Court may revoke (s 285)
+2.3.1 Eligibility
+TestStatutory SourceHow to IdentifyNot yet bankrupts 275Must apply pre-bankruptcyDebtor intends to propose VAs 276Must be genuine effort
+2.3.2 Interim Order (42 days) – s 276
+- Protects debtor while proposal is made.
+- Stay applies to all proceedings incl. bankruptcy.
+- May be extended if Nominee needs more time.
+
+2.3.3 Nominee’s Role & Report – s 277–280
+• Must be licensed insolvency practitioner
+• Reviews debtor’s proposal & SOA
+• Recommends whether creditors’ meeting should be summoned
+
+2.3.4 Creditors’ Meeting & Approval – s 281–283
+StepNotesMeeting summonedMust notify all known creditorsApproval by special resolution>75% in value requiredDebtor must consent to modificationsPreferential/secured creditor rights protected
+2.3.5 Effect of Approval – s 284
+• Binds all creditors with notice
+• Interim order ends after 28 days
+• Bankruptcy application deemed dismissed
+
+2.3.6 Review – s 285
+Ground for ChallengeOutcomeArrangement unfairly prejudices creditorCourt may revoke/suspendMaterial irregularity in meetingCourt may summon new meeting3.2.4 COMPARISON TABLE: BANKRUPTCY vs DRS vs IVA
+?? Feature?? Bankruptcy?? Debt Repayment Scheme (DRS)?? Individual Voluntary Arrangement (IVA)SourceIRDA Part 13 (s 307–326)IRDA Part 15 (s 288–306)IRDA Part 14 (s 275–285)Who can initiate?Creditor or DebtorReferred by Court/OADebtor onlyEligibilityDebt > $15K, liquidated, due, unable to pay (s 311)Total liabilities ? $150K, not a business owner or bankrupt in past 5 years (s 288)Debtor not yet bankrupt (s 275)Court Involvement?Yes – Court issues bankruptcy orderYes – Court refers to OA during bankruptcy applicationYes – Court issues interim order and supervises processKey ProcedureSD ? Application ? Hearing ? Bankruptcy orderCourt referral ? OA suitability review ? Plan approved ? 5-year capInterim order ? Nominee report ? Creditors' meeting ? ApprovalStay/Moratorium?No automatic stay during SD period; automatic moratorium after bankruptcy orderYes – from time of referral until DRS ends (s 293)Yes – full moratorium during interim order (s 276–278)Who manages process?OA or Private TrusteeOA supervisesNominee (licensed insolvency practitioner)How binding?Order binds all creditorsOnly applies while DRS in forceIf approved, binds all creditors who had notice and were entitled to voteSecured creditors?May enforce unless stayed by courtMoratorium does NOT bind secured creditors (s 293(2))Secured creditors unaffected unless they consent (s 282(5))Discharge?After 3 years or via application (separate process)Certificate of completion (s 301)No bankruptcy occurs if IVA succeedsCommon FailuresDisputed debt; invalid SD; < $15K debtDebtor is sole prop or has > $150K liabilityNot yet bankrupt; no nominee; improper noticeExam TrapPresumption rebutted or invalid SD = bankruptcy failsDebtor owns business ? ineligibleDebtor bankrupt already ? IVA invalid
+3.2.5 BANKRUPTCY ADMINISTRATION
+?? Overview
+Once a bankruptcy order is made, the bankrupt's estate is administered by a trustee (Official Assignee or Private Trustee). The IRDA governs:
+* Who administers the estate
+* How bankrupts must assist
+* What duties apply
+* Consequences and restrictions
+
+3.2.5.1 OFFICIAL ASSIGNEE & PRIVATE TRUSTEES
+Bankrupt’s estate is run by OA and PTs
+TrusteeStatutory SourcePowers / DutiesOfficial Assignee (OA)s 22–23, s 327Receiver of bankrupt's property (s 327(1)(b)); Investigates conduct (s 22); Manages estate (s 23(3))Private Trustee (PT)s 36–39 IRDAAppointed by court (s 36); Mandatory if institutional creditor involved (s 36(2)); Must be licensed (s 37); Same duties as OA (s 39)
+?? Institutional Creditor Definition (s 36(3))
+Bank, finance company, or undertaking with:
+* Annual turnover > $100m and
+* 200 employees in relevant period
+
+?? Remuneration of Trustee (IRDA Rule 47)
+Court considers:
+* Complexity
+* Degree of responsibility
+* Effectiveness
+* Value/nature of estate
+
+3.2.5.2 EFFECT OF BANKRUPTCY ORDER
+EffectStatutory SourceHow It WorksProperty vests in OAs 327(1)(a)No further transfer neededOA = Receivers 327(1)(b)OA takes control of all assetsMoratoriums 327(1)(c)No legal actions without court leaveSecured creditors preserveds 327(3)May still enforce securityInterest claim limitss 327(4)Must notify OA within 30 days and realise security within 12 months
+3.2.5.3 VOID DISPOSITIONS (s 328)
+?? All dispositions made between bankruptcy application and order are void unless court consented or later ratified.
+Includes:
+* Payments, transfers, settlements (even via court order)
+? Cheo Sharon Andriesz [2013] 2 SLR 297: Consent orders also void unless court-ratified.
+? Exceptions (s 328(3)):
+* Good faith, for value, without notice of application
+* Trust property not affected
+
+?? Exam tip: Look for payments made after the filing date but before the order. Even settlements in matrimonial proceedings may be void unless ratified.
+
+3.2.5.4 DUTIES OF BANKRUPT – s 399
+DutyDescriptionDiscoveryMust deliver all property and documentsAttend interviewsAnswer OA's questions on dealings, causes of bankruptcyAssist OAWith inventory, claims, and recovery of assetsDisclose past disposalsIncl. gifts or under-value disposals in last 5 yearsAttend meetingsCreditors' meetings (unless excused)Aid distributionCooperate in distribution to creditorsKeep contact updatedMust update OA with address details at all times
+3.2.5.5 STATEMENT OF AFFAIRS – s 332
+Applies ToTimingContentsCreditor-initiated bankruptcyWithin 21 daysAssets, liabilities, income, work history, expenses, family details, etc. (Prescribed form)?? OA can extend, exempt, or require supplementary info (s 332(4))
+?? Offences: Failure to file, false/misleading statements – Fine up to $10k / 2 years
+
+3.2.5.6 SUBMIT ACCOUNTS – s 333
+WhenWhat Must Be SubmittedWhen directed by OA(a) Income/assets received; (b) Expenses for self/family?? Offences: Failure = Fine up to $10k / 2 years, + daily fine for ongoing non-compliance
+
+3.2.5.7 RESTRICTIONS ON BANKRUPT – s 400, 401, 412
+RestrictionDescriptionCannot act as trustee of estates 400 – Unless court allowsCannot sue/defend (except PI/divorce)s 401 – Needs OA's prior sanction, except limited exceptionsCannot leave Singapores 401(1)(b) – Must get OA's permissionMust disclose bankruptcy if obtaining credit ? $1,000s 412(1)(a)Cannot run business or give guarantees ? $1,000 without disclosures 412(1)(b)-(c)Cannot be a directorCompanies Act s 148(1)
+3.2.6 DISCHARGE & ANNULMENT
+3.2.6.1 OVERVIEW – 4 PATHS TO END BANKRUPTCY
+PathStatutory SourceKey Condition1. Annulment by Court/OAs 392, s 393All debts + expenses paid/satisfied2. Composition / Scheme of Arrangements 357Approved by special resolution of creditors3. Discharge by Courts 394Court discretion; may impose conditions4. Discharge by OA Certificates 395Based on time elapsed + payment of Target Contribution (TC)
+3.2.6.2 DISCHARGE BY OA (s 395)
+First-Time Bankrupts
+?? Discharged if:
+* TC paid or extenuating circumstances
+* (i) ? 3 yrs passed + no creditor objection (over 50% in number OR >25% in value), or
+* (ii) ? 5 yrs passed (even with objection), or
+* (iii) ? 7 yrs passed (auto)
+
+Repeat Bankrupts
+?? Discharged if:
+* Same as above, but:
+o (i) ? 5 yrs passed + no creditor objection, or
+o (ii) ? 7 yrs passed (with objection), or
+o (iii) ? 9 yrs passed (auto)
+
+?? Extenuating Circumstances = e.g. death, long-term illness
+?? Creditors may object within 21 days ? OA must consider. If rejected, creditors can apply to court.
+
+3.2.6.3 DISCHARGE BY COURT – s 394
+Who may apply:
+* OA
+* Bankrupt
+* Interested party
+
+Court may:
+* Deny discharge
+* Grant absolute discharge
+* Grant conditional discharge (e.g. income contributions)
+
+?? Conditional discharge often tied to future income or newly acquired property
+
+3.2.6.4 EFFECT OF DISCHARGE – s 397
+EffectReleased FromNOT Released FromAutomatic release (s 397(1))All provable debts- Government debts (taxes, penalties) 
+- MediShield Life debts 
+- Debts from fraud/fraudulent breach of trust 
+- Fines 
+- Personal injury damages 
+- Family court orders (Women’s Charter) 
+- Proceeds of crime debts?? Secured creditors’ rights to enforce remain unaffected
+
+3.2.6.5 SUMMARY – HOW TO ANSWER MCQs
+?? Recognising Bankruptcy Administration Rules
+ClueApplyOA or PT appointed to manage estates 22–23, s 36–39Asking who has control of assets post-orders 327 – OA vests + receivesTransactions after bankruptcy app, before orders 328 – Void disposition rules“Debtor gave gifts pre-bankruptcy”s 399 – Duty to disclose 5-year giftsDebtor leaves SG without permissions 401 – Restriction on travelTime-based release from bankruptcys 395 – Discharge by certificate
+3.3 Judicial Management 
+?? Overview
+Judicial Management (JM) is a court-supervised corporate rescue regime under Part 7 of the IRDA. It allows distressed companies to reorganise or reach compromises with creditors to avoid liquidation.
+* It temporarily replaces directors with an independent Judicial Manager.
+* It imposes an automatic moratorium on enforcement actions.
+* It is meant to achieve specific statutory purposes listed in s 89 IRDA.
+* May be initiated via Court application (s 90–91) or by creditors’ resolution (s 94).
+
+3.3.1 Statutory Purpose & Jurisdiction
+?? Statutory Purposes – s 89 IRDA
+The Judicial Manager must pursue at least one of:
+s 89(1) PurposeExam Application Trigger(a) Survival of company or its business as a going concernViable business, temporary liquidity issue(b) Approval of a compromise/arrangement (s 71 IRDA or s 210 CA)Scheme of arrangement planned, but court process needed(c) More advantageous realisation of assets than in winding upAsset fire-sale in WU would destroy recoverable value* s 89(2): JM must act in the interests of creditors as a whole.
+* s 89(3): Must perform duties quickly and efficiently.
+* s 89(4): JM is an officer of the court, even if appointed by creditors.
+* 
+? Jurisdiction
+* Court has JM jurisdiction over any corporation liable to be wound up, including foreign corporations with substantial Singapore nexus.
+
+3.3.2 Application by Court – Company or Creditor
+Who May Apply – s 90 IRDA
+* Company (via member/director resolution)
+* Any creditor (secured/unsecured)
+
+Threshold Conditions – s 90 + s 91(1)
+Court may grant a Judicial Management Order (JMO) if BOTH:
+RequirementExplanation & Application1. Company is, or is likely to become, unable to pay its debtsTrigger: statutory demand, cash flow insolvency, balance sheet insolvency
+? See s 125(2) IRDA (statutory demand = presumption)2. Making of order “would be likely” to achieve one or more purposes under s 89(1)Court assesses viability – needs evidence, not mere assertion
+i) Reasonable probability of rehabilitating the companyE.g. restructuring plan backed by expert/creditors
+(ii) Reasonable probability of preserving business as going concernE.g. partial business can be spun off or retained
+(iii) Interests of creditors better served than by winding upE.g. higher recovery rate under controlled reorganisation?? Red Flag: Company must not already be in liquidation (s 91(8)).
+
+Court Discretion & Key Case Law
+Court retains full discretion. Two main factors:
+?? (i) Viability of Objectives – Independent Reports
+* Re Genesis Technologies [1994] 2 SLR(R) 298
+o Court refused JM due to lack of credible plan to resolve company’s difficulties.
+o Exam Flag: No explanation of business rescue = likely rejection.
+* Deutsche Bank AG v Asia Pulp & Paper [2003]
+o Restructuring expert’s opinion was crucial to grant order.
+o Lesson: Independent expert input increases chance of success.
+?? (ii) Good Faith Use – Not to Delay Creditors
+* Courts will refuse JM if used to delay enforcement by creditors.
+
+Opposition – s 91(6) IRDA
+Court must dismiss JMO application if BOTH:
+1. Opposed by a person entitled to appoint receiver & manager under a floating charge, AND
+2. Prejudice to floating charge holder is disproportionately greater than prejudice to unsecured creditors.
+?? BUT: Public Interest Override – s 91(10)
+Court may still grant JM order if public interest requires, even if:
+* Purposes under s 89 not satisfied,
+* Opposed by secured creditors.
+?? Applied in:
+* Re Cosmotron Electronics
+* Re Bintan Lagoon Resort
+
+Interim JM – s 92 IRDA
+Court may appoint an interim judicial manager if:
+* Application has been made under s 91
+* Order not yet granted
+* Interim protection of assets/affairs needed
+?? Used when delay may harm creditors or business viability
+
+Application via Creditors' Resolution – s 94 IRDA
+JM can also commence without court order if creditors resolve to appoint a Judicial Manager.
+? Conditions to Use s 94 Procedure:
+Same statutory criteria as s 91(1) must be met:
+* Company is or is likely to be unable to pay debts
+* Purpose of JM likely to be achieved (s 89(1))
+?? Voting Requirements (s 94(11)(d)–(e)):
+ThresholdNotes50% in number and value of creditors present and votingCreditors can reject company nominee for JM?? Typically used where majority of creditors agree on course of action and seek faster route than court.
+
+
+3.3.3 Administration of Judicial Management
+Judicial Management (JM) has specific legal consequences once an application is filed or an order is made. These provisions ensure the company gets “breathing space,” while giving creditors safeguards and requiring the JM to propose a roadmap for rehabilitation.
+
+3.3.3.1 Effect of Applying for JM or Making JM Order
+?? Two stages of moratorium:
+1. Application stage ? Automatic moratorium (s 95).
+2. Order stage ? Expanded moratorium (s 96).
+
+Stage 1: Automatic Moratorium — s 95 IRDA
+Triggered when:
+* Company applies under s 91, OR
+* Written notice of interim JM filed under s 94(5)(a).
+Prohibited ActionIRDA ReferenceNotesWinding up order/resolutions 95(1)(a)No new winding up initiated.(ii) No steps taken to enforce of security / repossessions 95(1)(b)Leave of Court required.(iii) Commencement/continuation of proceedingss 95(1)(c)Includes arbitration.Enforcement orders, execution, distresss 95(1)(d)Court leave required.
+(ii) No Steps Taken to Enforce Security/Repossession 
+What is a “Security”?
+Electro Magnetic (S) Ltd v DBS
+* “Security” = proprietary interest in property
+* Set-off ? Security
+? It is a personal contractual right, not a proprietary interest
+?? Affirmed Goode: Set-off = extinction of monetary liability, not acquisition of rights in the other party’s claim
+
+What is a “Step Taken to Enforce a Security”?
+Bristol Airport plc v Powdrill [1990] Ch 744 (CA)
+* A “step” means preventing the JM from doing something with the asset
+* Merely serving a demand or notice ? enforcement
+? Passive assertion ? prohibited
+? Active interference = prohibited
+
+(iii) No other proceedings & execution of legal process
+What Are “Proceedings”?
+Electro Magnetic (at [18])
+* Legal/arbitral process initiated in court/arbitration
+* Set-off is not a proceeding ? it’s a self-help remedy
+? Moratorium does not catch set-offs.
+
+Possession-Based Securities & Liens
+Bristol Airport plc v Powdrill
+* Lien = passive right
+* BUT if lien holder refuses to hand over property, this is a “step taken to enforce a security”
+? Violates moratorium unless court leave is obtained
+?? Applied in DBS case — DBS's refusal to release shipping documents was a breach of moratorium
+
+
+?? Duration: from filing ? until Court decides application (s 95(4)(a)).
+?? If company filed JM/interim JM within past 12 months ? no moratorium (s 95(2)).
+Ministerial carve-outs (s 95(3)(b), (5)(b)): Some proceedings (e.g. admiralty writs) may be excluded by regulations.
+Once a company files an application under s 91, or files a written notice of appointment of an interim JM under s 94(5)(a):
+? An automatic moratorium comes into effect from the filing date until the court decides on the JM application (s 95(4)(a)).
+
+Stage 2: Expanded Moratorium — s 96 IRDA
+Applies once JM order is granted ? lasts until discharge.
+Key effects:
+* Receivers vacate office (s 96(1)(a)).
+* Winding up applications dismissed (s 96(1)(b)).
+* Following actions prohibited unless JM consents or Court permits (s 96(4)):
+o WU applications (s 96(4)(a))
+o Appointment of receiver/manager (s 96(4)(b))
+o Legal proceedings (s 96(4)(c))
+o Enforcement orders/distress (s 96(4)(d))
+o Enforcement of security/repossession (s 96(4)(e))
+o Re-entry/forfeiture of lease (s 96(4)(f), overrides CLPA ss 18–18A).
+?? Rights of vacating receivers: entitled to remuneration, expenses, indemnity (s 96(2)), payable in priority to underlying secured creditor.
+?? Set-off rights preserved — s 96(5): Contractual/netting set-off = self-help remedy, not “proceedings”.
+
+3.3.3.2 Duration and Extension of JM Order
+RuleReferenceDefault JM period180 days (s 111(1)–(2))Extension by CourtAny number of times; before expiry (s 111(3)(a), (4))Extension by CreditorsOnce only, up to 6 months (s 111(3)(b), (5))?? Extension by creditors requires majority in number and value (in writing or at meeting)
+?? Creditors may also challenge extension (s 111(6))
+
+“Effect of Application or Filing” vs “Effect of JM Order” – Comparison Table
+Effects 95 (Application Stage)s 96 (Post-JM Order)WU applicationsProhibited (s 95(1)(a))Must be dismissed (s 96(1)(b))Enforcing securityRequires Court leave (s 95(1)(b))Requires JM consent or Court leave (s 96(4)(e))Legal proceedingsRequire Court leave (s 95(1)(c))Require JM consent or Court leave (s 96(4)(c))Receiver/manager appointmentsNot mentionedMust vacate + cannot be re-appointed (s 96(1)(a), 96(4)(b))Lease re-entry/forfeitureNot coveredExplicitly prohibited (s 96(4)(f))Set-off rightsNot affectedNot affected (s 96(5))3.3.3.3 ADMINISTRATION OF JUDICIAL MANAGEMENT — (FROM DUTIES OF JM ONWARD)
+FUNCTIONS, DUTIES & LIABILITIES OF THE JUDICIAL MANAGER
+Core Powers & Duties (during JM) — s 99 IRDA + First Schedule
+TopicStatutory SourceWhat the JM Can / Must DoExam Notes / TrapsTake control of propertys 99(1)Take into custody/control all property the company is or appears entitled to.“Appears to be entitled to” = wide; move fast to preserve value.Directors displaceds 99(2)All director powers/duties under IRDA/CA/constitution vest in JM; JM need not call company meetings.Directors lose management power; but members’ rights remain unless varied by order.General management powers 99(3)(a)Do anything necessary for management of affairs/business/property.Reads broadly; use First Schedule to illustrate scope.Court-sanctioned extrass 99(3)(b)Court may sanction additional acts (incl. altering constitution).Use when constitutional constraints block restructuring.First Schedule powers (non-exhaustive)s 99(4) + First SchTypical powers include: continue business; sell property; borrow and grant security; bring/defend proceedings; make/compromise debts/claims; appoint agents/professionals; execute documents; insure assets; carry out works; make calls; disclaim onerous contracts/leases (where permitted under scheme of powers).In exams: treat First Sch as illustrative + broad; always tie back to s 99(3) umbrella.Directions from Courts 99(5)JM may apply for directions on specific issues.Use to de-risk contentious steps (e.g., related-party sales).Payments of pre-JM debtss 99(6)Prohibited unless: (a) Court-sanctioned compromise/arrangement; (b) sums secured/HP/leases/retention of title falling within s 100(2),(5),(6); (c) necessary/incidental to perform JM’s functions; or (d) necessary to achieve s 89(1) purpose(s).?? Classic MCQ: “JM pays old unsecured trade creditor to keep supply going?” Only if it fits (c) or (d) and is genuinely necessary.Summon creditors’ meetings 99(7)JM may (and must if ordered by Court) summon creditors’ meeting.Link to proposal approval timeline (s 107–108).Alter constitution by orders 99(8)Constitution changes via Court order have same effect as member resolution.File with ROC within 14 days (s 99(9)).Filing after constitutional changes 99(9)File copy of order with ROC within 14 days.Late filing ? compliance risk.Good-faith protection for third partiess 99(10)Person dealing in good faith for value with JM need not inquire into JM’s authority.Facilitates transactions; reduces counterparty hesitation.Status of JM vis-à-vis Company/Court
+PointStatutory SourceConsequenceJM is officer of Courts 89(4)Owes duties to the Court; higher standard of candour; possible contempt if flouts orders.JM is agent of companys 102(1)(a)Company (not JM personally) is principal in ordinary dealings; primary liability to third parties remains with company.Things the JM Cannot Do (unless within exceptions)
+ProhibitionStatutory SourceScope / Practical ExampleDeal with trust property held by company for others(General principle; not vested as company’s property)Customer escrow/clients’ monies not available to creditors.Pay pre-JM unsecured debtss 99(6)Unless within (a)–(d). Keep tight audit trail on any payments justified as “necessary”.Ignore filing/notice dutiess 99(9), s 111(7)Missed filings can be offences or ground for creditor challenge (s 115).Personal Exposure / Liability & Release
+IssueStatutory SourceTakeawayRelease on discharges 112(4)–(5)Court may release JM from liability except for misapplication/retention of company property, negligence, default, misfeasance, breach of trust/duty.Officer of Court standards 89(4)High duty of candour; comply strictly with orders and proposals approved.Acting ultra vires(Agency law; s 99(10) protects third parties)Risk of personal exposure if acting outside powers and not protected by good-faith third-party rule; mitigate via Court directions (s 99(5)).
+APPROVAL OF JUDICIAL MANAGER’S PROPOSALS — s 107–108, 110 IRDA
+Timeline & Mechanics
+StepStatutory SourceDeadline / ThresholdWhat to WatchServe Statement of Proposals (to ROC + all known creditors)s 107(1)(a)Within 90 days of entry into JMMust map to s 89(1) purposes; be concrete (cashflow, milestones, asset plan).Convene creditors’ meetings 107(1)(b), s 108(1)?14 days’ noticeNotice content + service proof = common attack points.Extend proposal deadlines 107(3)(i) Court application; or (ii) once by majority in number & value (in writing/meeting)s 107(4): creditor-granted extension ? 60 days, only before expiry, and only if Court has not extended.Voting thresholds 108(3)Majority in number & value of creditors present & voting (whose claims accepted by JM)JM must consent to each modification.Report result to Court & notify ROCs 108(4)After meetingFile promptly; this book-ends the meeting process.If Proposals Approved
+EffectStatutory SourceNotesJM must run company in accordance with approved proposalss 110, subject to s 115Deviations ? exposure under s 115 (unfair prejudice). Keep a change-control trail for revisions.? If Proposals Not Approved
+Court’s OptionsStatutory SourcePractical UseDischarge company from JM (plus consequential orders)s 108(5)(a)Often triggers shift to CWU / other pathway.Adjourn (cond./uncond.)s 108(5)(b)Buy time to refine proposals/secure commitments.Make interim/other orders 108(5)(c)Tailored relief (e.g., partial approvals, limited sales).
+3.3.3.4 SCHEMES OF ARRANGEMENT IN JM — s 117 IRDA (? s 71 IRDA / s 210 CA)
+How Schemes Sit Inside JM
+PointSourcePractical MeaningJM may propose a scheme while in JMs 117Leverages moratorium + independent stewardship to secure class-by-class compromises.Approval mechanicss 71 IRDA / s 210 CA (imported)Court-convened class meetings; ?75% in value + >50% in number of those present & voting per class; then Court sanction.Binding effectScheme lawBinds all within class (incl. dissenters) once sanctioned.Interaction with s 115s 115(4)Court must not prejudice/prevent implementation of any approved scheme when granting s 115 relief.?? Exam Flags (Schemes in JM)
+* Purpose limb s 89(1)(b) = scheme approval — explicitly recognised path to success.
+* Use schemes to “cram-in” sustainable terms while the s 96 moratorium stabilises the platform.
+* Maintain evidence of class composition rationale (avoid unfair prejudice arguments).
+
+3.3.3.4 DISCHARGE & RELEASE — s 111–112 IRDA
+? Duration & Extension (Automatic Discharge) — s 111
+ItemSourceRuleDefault terms 111(1)–(2)180 days from order (court-ordered or creditor-initiated).Extend by Courts 111(3)(a), (4)Before expiry; multiple extensions allowed.Extend by creditorss 111(3)(b), (5)Once only, ? 6 months, before expiry; majority in number & value (in writing or at meeting).Challenge by creditors 111(6)Court may terminate/shorten creditor-extension.Filing of expiry/extensions 111(7)–(8)File with Court/ROC/OR; failure = offence (fine ? $5,000 + default penalty).?? Mandatory Duty to Seek Discharge — s 112
+TriggerSourceCourt’s PowersAftermath(a) At least one s 89 purpose achieved or (b) none is achievables 112(1)Discharge; adjourn; interim/other ordersJM must lodge discharge order with OR + ROC immediately (s 112(3)).JM release from liabilitys 112(4)–(5)Court may order release; does not cover misapplication/retention, negligence, default, misfeasance, breach of trust/duty.Keep records; seek directions early on grey areas (s 99(5)).
+3.3.3.5 PROTECTION OF CREDITORS & MEMBERS — s 115 IRDA
+Who Can Apply & When
+ApplicantTimingGrounds (illustrative)Any creditor/member; part of creditors/members; single creditor ?25% in valueAny time during interim JM or JMUnfairly prejudicial conduct of JM; prejudicial proposed/actual act/omission; interim JM/JM under s 94 should not have started; purposes achieved/incapable; not managing per approved proposals. (s 115(1)(a)–(f))Court’s Toolkit (Relief)
+Order TypeSourceExamplesRegulate future managements 115(3)(a)Reporting, spending caps, sales protocols.Require JM to act/refrains 115(3)(b)Stop related-party sale; compel market testing.Summon meeting(s)s 115(3)(c)Re-test creditor mandate; table modifications.Discharge from JMs 115(3)(d)If purpose achieved/failed or conduct warrants.?? Do not prejudice an approved scheme (s 115(4)).
+?? If discharged under s 115(3)(d): lodge order with OR + ROC; failure is an offence (s 115(5)–(6)).
+
+3.3.3.6 TRANSITION TO WINDING UP — s 118 IRDA
+SituationEffectJM applies to wind up the companyJM’s term extends until WU application is determined/withdrawn (despite s 111). Company is discharged from JM on that date. (s 118(a)–(b))
+
+
+3.4 AVOIDANCE OF ANTECEDENT TRANSACTIONS
+?? Overview
+Antecedent transaction rules under the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) claw back transactions that deplete the estate before insolvency. They prevent companies from preferring creditors, dissipating assets, or trading dishonestly.
+Key IRDA Provisions:
+* s 224 – Transactions at undervalue
+* s 225–226 – Unfair preferences (with timing rules)
+* s 227 – Remedies for avoidance
+* s 229 – Avoidance of floating charges
+* s 130 – Void dispositions after commencement of WU
+* s 237 – Failure to keep proper accounts (offence)
+* s 238 – Fraudulent trading
+* s 239 – Wrongful trading
+3.4.1 UNFAIR PREFERENCES — s 225–226 IRDA
+4.1 UNFAIR (UNDUE) PREFERENCES — s 225–s 227 IRDA (companies)
+(Bankrupt individuals: s 362–s 363 — not covered here unless noted)
+?? What is the “offence” (the legal wrong)?
+Core rule (precise wording):
+A company “gives an unfair preference” to a person if (i) that person is one of the company’s creditors or a surety or guarantor for any of the company’s debts or other liabilities and (ii) “the company does anything or suffers anything to be done which … has the effect of putting that person into a position which, in the event of the company’s winding up, will be better than the position that person would have been in if that thing had not been done.” (s 225(3)(a)–(b)).
+Power to unwind: If, when the company “is in judicial management or is being wound up”, and the company at the relevant time gave an unfair preference, the judicial manager or liquidator may apply for relief; the Court may “make such order as it thinks fit for restoring the position to what it would have been if the company had not given that unfair preference.” (s 225(1)–(2), s 227)
+Important overlay: “The Court must not make an order … unless the company … was influenced in deciding to give the unfair preference by a desire to produce [that] effect.” (s 225(4))
+And if the preferred person was connected with the company (other than as an employee) there is a presumption the company was so influenced, unless the contrary is shown. (s 225(5))
+Doing the act pursuant to a court order does not, without more, prevent it from being a preference. (s 225(6))
+
+?? Proof flow (decision tree for exam/application)
+ISSUE: Did the company give an unfair preference within s 225, at a relevant time under s 226, so that s 227 relief should be granted?
+Step 1 — Standing / Procedural posture
+QuestionSourceAnswer/NotesWho can bring the application?s 225(1)Judicial manager or liquidator (as the case may be).When?s 225(1)Only when company is in JM or is being wound up.Practical: if you are counsel pre-insolvency, preserve evidence now; the action only vests once JM/WU is on foot.
+
+Step 2 — Factual preference (betterment effect)
+ElementStatutory wordingWhat to proveEvidence / Case lawBeneficiary statuss 225(3)(a)The payee is a creditor, or a surety/guarantor for the company’s debt.Contracts, guarantees, loan docs.Betterment effects 225(3)(b)The act “has the effect of putting that person into a position which, in the event of winding up, will be better than if the act had not happened.”Compare counterfactual distributions: who would have ranked where? Early cash repayment, granting security for old debt, release of surety, selective set-off, etc. Note: Grant of security typically analysed under preference rather than undervalue (see Rothstar under 4.2; cross-reference).How the cases fit here:
+* Use Rabobank v Jurong Technologies to illustrate a classic betterment: pre-insolvency payments and security improved one bank’s position ahead of others notwithstanding pressure.
+* The case does not set the test; it exemplifies what counts as betterment under s 225(3)(b).
+
+Step 3 — Relevant time + Insolvency gateway
+You must satisfy both the timing window and the insolvency condition in s 226.
+QuestionPrecise ruleNotes / PresumptionsIs timing within a relevant time?s 226(1): 
+• Connected person (not merely an employee): within 2 years before commencement of JM/WU; 
+• Any other person: within 1 year before commencement; 
+• During the period after JM commences but before entry into JM (technical window): also relevant, s 226(4). 
+• Moratorium creep-back: if scheme moratoriums overlapped, add back those periods: s 226(5)–(6).“Commencement” = JM/WU commencement date per IRDA timing rules. Watch the moratorium add-back rule—it can extend the look-back.Was the company unable to pay its debts at that time or became so in consequence?s 226(2) (imports s 125(2) test)Connected undervalue has an insolvency presumption (s 226(3)). For preferences, there is no statutory insolvency presumption, so prove cash-flow or balance-sheet insolvency (using s 125(2) indicia: statutory demand, returned execution, etc.).How the cases fit here: cases are rarely about the calendar—they focus on insolvency proof. Use bank statements, aging reports, bounced cheques, unsatisfied executions. Tie those to s 125(2) language.
+
+Step 4 — Mental element: “influenced by a desire to prefer”
+You must show the company was influenced by a desire to produce the betterment effect for the beneficiary. (s 225(4))
+Sub-issuePrecise ruleHow to prove / Case lawWhat is the test?s 225(4)Subjective desire; need only be one of the factors influencing the decision (not sole or dominant).Authority—DBS Bank Ltd v Tam Chee Chong [2011] 4 SLR 948 (CA): the inquiry is subjective; desire may be inferred; it suffices that desire influenced the decision among other motives. A genuine commercial rationale can negate desire if credible.Presumption for connected personss 225(5)If preference to a person connected with the company (other than as employee) ? presumed influenced by desire to prefer. Progen Engineering [2010] 4 SLR 1089 confirms the burden shifts to the payee to rebut.Commercial pressure—Rabobank v Jurong Technologies [2011] 4 SLR 977: pressure may exist but does not automatically negate desire; court looks at actual state of mind on the evidence.Court orderss 225(6)Doing the act pursuant to a court order does not, without more, prevent it from being a preference. (Still analyse desire and betterment.)Practice tip: marshal internal emails/board minutes showing why the payment/security was granted; cross-examine on “supportive bank” narratives (as in Rabobank and DBS).
+
+Step 5 — Connected with the company (definition you’ll actually need)
+You invoke this only when applying s 225(5) (presumption of desire) and s 226(1)(b) (two-year window).
+Statutory hook: “connected with the company” (s 217(2)(b)) if:
+* (i) the person is a director of the company or an associate of such a director; or
+* (ii) the person is an associate of the company.
+Associate—relevant illustrations (s 217(3)–(15)):
+* Individuals: spouse; relatives (brother, sister, uncle, aunt, nephew, niece, lineal ancestor/descendant); spouses of those relatives (s 217(4), (11), (12)); partners and their relatives (s 217(5)); employment relationships (s 217(6), (13)); trust beneficiaries (s 217(7));
+* Corporations: common control (one-third votes or accustomed to act per directions) (s 217(8)–(10), (14), (15)).
+Exam move: When the payee is an affiliate/insider, explicitly cite s 217(2)(b) to trigger s 225(5) (presumption) and s 226(1)(b) (two-year window).
+
+Step 6 — Relief / Orders (what the Court can do)
+If all elements are met, Court may “restore the position” (s 225(2)) and use s 227 tools:
+ToolWordingUse caseRe-vestings 227(1)(a)–(b)Return/transferred property; trace substitutes in others’ hands.Discharge securitys 227(1)(c)Cancel security created to prefer.Repayments 227(1)(d)Order beneficiary (or others who received) to pay sums/benefits.Revive surety obligationss 227(1)(e)Reverse releases that advantaged guarantors.Priority/security for compliances 227(1)(f)Secure compliance on terms mirroring released security.Proof directionss 227(1)(g)Adjust how affected persons may prove in WU/JM.Third-party reachs 227(2)Orders may bind non-parties who received benefits.Good-faith shieldss 227(3)–(4)Protect BFPV and good-faith recipients; presumption of no good faith if recipient had notice of surrounding circumstances/proceedings or was connected (rebuttable).
+?? Element-by-element burden and evidence map
+ElementBurdenTypical proofBeneficiary is creditor/surety/guarantor (s 225(3)(a))ApplicantFacility/guarantee docs; ledgers.Betterment effect (s 225(3)(b))ApplicantCounterfactual in WU waterfall; timing; pari passu impact; expert distribution model if needed.Relevant time (s 226(1), (4)–(6))ApplicantDate of act vs JM/WU commencement; any scheme-moratorium add-back.Insolvency (s 226(2), s 125(2))ApplicantCash-flow: unpaid SDs/returned executions; aged payables; bounced GIROs. Balance-sheet: negative equity, qualified audit.Desire to prefer (s 225(4))Applicant (but see presumption)Subjective evidence: minutes/emails; testimony; surrounding circumstances.Presumption (s 225(5))Applicant shows connected ? Burden shifts to respondentRespondent adduces credible commercial rationale; DBS indicates genuine belief/commercial purpose can rebut if convincing.Court order carve-out—Even if pursuant to order ? still analyse (s 225(6)).
+?? Quick “apply in exam” checklist (IRAC-ready)
+1. Identify beneficiary (creditor/surety/guarantor) — s 225(3)(a).
+2. Describe the act and show betterment in WU — s 225(3)(b).
+3. Fix timing inside s 226 relevant time (+ add-back if any).
+4. Prove insolvency (s 226(2) using s 125(2)).
+5. Prove desire to prefer (s 225(4)); if connected, invoke s 225(5) presumption and shift burden. Use DBS (subjective desire; “influenced”), Rabobank (pressure not decisive), Progen (presumption).
+6. Remedies under s 227; consider good-faith shields and non-party recipients.
+7. Cross-check against undervalue (s 224): if part of the same transaction exceeds the debt (mixed preference/undervalue), split the remedy accordingly.
+
+?? Common traps
+* Treating “dominant” intention as required — wrong: it suffices that desire influenced the decision (DBS, s 225(4)).
+* Skipping s 226(2) insolvency proof for preferences (there’s no presumption here; the presumption in s 226(3) is for undervalue with connected persons).
+* Ignoring moratorium add-back (s 226(5)–(6)): extends your look-back.
+* Assuming court-ordered payments are safe — s 225(6) says otherwise.
+* Misclassifying a grant of security for old debt as undervalue: the right lens is preference (see Rothstar reasoning under 4.2).
+
+3.4.2 TRANSACTIONS AT UNDERVALUE — s 224 IRDA (Companies)
+(Bankrupt individuals: s 361 IRDA)
+
+?? What is the “offence” (the legal wrong)?
+Core statutory rule (s 224(1)–(3)):
+Where a company in JM or WU has, at the relevant time (s 226), entered into a transaction at an undervalue with any person, the judicial manager or liquidator may apply to Court for relief.
+A company enters into a transaction at an undervalue if:
+1. It makes a gift or otherwise enters into a transaction with no consideration; OR
+2. It receives consideration of significantly less value (in money or money’s worth) than it provided.
+
+?? Proof flow
+Step 1 — Standing
+* Applicant: Only JM or liquidator (s 224(1)).
+* Timing: Company must already be in JM or WU.
+
+Step 2 — Factual Undervalue
+* s 224(3)(a): Company makes gift / receives no consideration.
+* s 224(3)(b): Company receives significantly less than what it gave.
+* Mercator & Noordstar v Velstra — “transaction” includes unilateral act of payment or gift; no mutuality required.
+* Velstra v Dexia Bank — mistaken payment ? undervalue, as there was no intention to “enter into a transaction.”
+* Buildspeed Construction v Theme Corp — valuation judged at time of transaction.
+
+Step 3 — Relevant Time (s 226)
+* Companies (s 226(1)(a)): within 3 years before commencement of JM/WU.
+* During JM (s 226(4)): any undervalue transaction is automatically relevant.
+* Add-back (s 226(5)–(6)): periods covered by moratoria (e.g. schemes) extend the look-back window.
+
+Step 4 — Insolvency Gateway
+* s 226(2): The transaction is only voidable if:
+o Company was unable to pay debts at the time (s 125(2) test); OR
+o It became unable as a consequence.
+* s 226(3): For undervalue with a connected person, insolvency is presumed (rebuttable).
+
+Step 5 — Defence (s 224(4))
+Court must not grant relief if:
+* Transaction was entered into in good faith, for the purpose of carrying on business, AND
+* At the time, there were reasonable grounds to believe it would benefit the company.
+This is a statutory safe harbour for commercial justifications.
+
+Step 6 — Special case: Grant of Security
+* Encus International v Tenacious Investment: SGHC (obiter) suggested grant of security could be undervalue, following UK case Hill.
+* Rothstar Group v Leow Quek Shiong [2022] SGCA 25:
+o Rule: Grant of security for company’s own existing debt is not undervalue. (if company gives security to a creditor of its own liability)
+* Reason: does not reduce net assets — merely reallocates assets to one creditor. Such cases should be analysed under preferences instead, as it moves the creditor up the preference list
+o Exception: Grant of security for a third party’s debt can be undervalue, because it imposes a new liability and reduces net assets.
+
+Step 7 — Valuation issues
+* Face value of paying a debt = not undervalue even if company distressed (Leun Wah Electric).
+* Principle: repayment of genuine debts at face value is outside undervalue law (otherwise all payments would be caught).
+
+Step 8 — Connected Persons
+* Importance: triggers insolvency presumption.
+* Definition: same “connected/associate” framework as s 217 (see 4.1 unfair preferences).
+o Directors and their associates.
+o Corporations under common control.
+o Spouses, relatives, trustees, partners, etc.
+
+Step 9 — Remedies
+* s 224(2): Court may “make such order as it thinks fit for restoring the position.”
+* s 227 (applies here too):
+o Vest property back in company (s 227(1)(a)–(b)).
+o Discharge security (s 227(1)(c)).
+o Order repayment of benefits (s 227(1)(d)).
+o Adjust obligations of sureties/guarantors (s 227(1)(e)).
+o Allow new proofs in JM/WU (s 227(1)(g)).
+o Reach non-parties who received benefits (s 227(2)).
+* Good-faith defence: s 227(3)–(4) shields bona fide purchasers for value.
+
+?? Element-by-Element Burden & Evidence
+ElementBurdenEvidence / CasesStanding (JM/liquidator)ApplicantProof of appointment.Factual undervalueApplicantTransaction docs; valuation evidence. Mercator (includes unilateral acts); Velstra (must intend transaction); Buildspeed (value at transaction date).Relevant timeApplicantDate vs commencement (s 226(1)(a), (4)); moratorium add-back (s 226(5)).InsolvencyApplicant (unless connected)Financials, cash-flow, statutory demand. Presumption for connected (s 226(3)).DefenceRespondentEvidence of business rationale, contemporaneous belief of benefit (s 224(4)).RemediesCourt’s discretionOrders under s 224(2), s 227.
+? Exam Checklist
+1. Applicant = JM or liquidator? (s 224(1))
+2. Transaction undervalue? (gift, no consideration, or significantly less consideration) (s 224(3)).
+3. Relevant time? 3 years before commencement, during JM, or add-back (s 226).
+4. Insolvency condition? (s 226(2)), with presumption if connected (s 226(3)).
+5. Any statutory defence? (s 224(4)) good faith + business purpose + reasonable belief of benefit.
+6. Special case: Was it a grant of security? Apply Rothstar:
+o Own debt ? not undervalue.
+o Third party’s debt ? undervalue.
+7. Remedies under s 224(2) + s 227.
+
+?? Common Traps
+* Treating repayment of genuine debt as undervalue — it is not (Leun Wah Electric).
+* Forgetting insolvency gateway in s 226(2).
+* Confusing preference vs undervalue:
+o Preference: improves one creditor’s position.
+o Undervalue: depletes pool of assets for all creditors.
+* Grant of security usually tested under preference, not undervalue (Rothstar).
+* Overlooking the good-faith defence in s 224(4).
+3.4.3 VOID DISPOSITIONS AFTER COMMENCEMENT OF WU — s 130 IRDA
+Elements
+RequirementStatutory SourceExplanationTimings 126 + s 130(1)WU deemed to commence on filing date of WU application. Any disposition after commencement = void, unless validated by Court.Scopes 130(1)–(2)Includes property dispositions, transfer of shares, alteration of member status, enforcement actions.ExceptionCourt may validate.
+?? Case Law
+* Cheo Sharon Andriesz [2013] – even disposition under court order (e.g. consent divorce judgment) can be void under s 328 BA / s 130 IRDA.
+* QCD v Wah Nam [1997] – “Disposition” does not include secured creditor enforcing pre-existing proprietary interest.
+
+?? Exam Flags
+* Distinguish:
+o s 130 = post-application dispositions (automatic void).
+o s 224–225 = pre-application transactions (clawback only if criteria met).
+
+3.4.4 FLOATING CHARGES — s 229 IRDA
+?? Elements
+RequirementStatutory SourceNotesRelevant times 229(2)Connected person: within 2 years pre-JM/WU. 
+Unconnected: within 1 year.Insolvency requirements 229(3)Required only for unconnected persons.Validitys 229(1)Charge invalid except to extent of: (a) fresh money, goods, services supplied; (b) discharge/reduction of debt at time/after charge; (c) interest on such amounts.
+?? Exam Flags
+* Connected person ? easier to set aside (no insolvency requirement).
+* Floating charge for old debt = invalid unless fresh consideration.
+
+3.4.5 FRAUDULENT TRADING — s 238 IRDA
+?? Elements
+RequirementStatutory SourceExplanationConducts 238(1)Business carried on with intent to defraud creditors or fraudulent purpose.Parties liables 238(1)Any person knowingly a party to carrying on business in that manner.Liabilitys 238(1)–(2)Unlimited personal liability for debts; Court can impose charges on assets.Criminal offences 238(4)Fine ? $15,000, imprisonment ? 7 years.Applicabilitys 238(5)Applies whether or not company is in WU/JM.
+?? Case Law
+* Tang Yoke Kheng v Lek Benedict [2005]
+o “Fraud” = actual dishonesty involving moral blame.
+o To defraud = cheat by deception ? enrich fraudster or cause creditor detriment.
+o Test: subjective good faith, cross-checked against objective commercial standards.
+
+3.4.6 WRONGFUL TRADING — s 239 IRDA
+?? Elements
+RequirementStatutory SourceExplanationDefinitions 239(12)Company trades wrongfully if: (a) incurs debts while insolvent without reasonable prospect of meeting them in full; OR (b) incurs debts with no reasonable prospect of paying in full, which cause insolvency.Knowledges 239(1)Person liable if: (a) knew company trading wrongfully (subjective); or (b) officer ought to have known (objective).Who may applys 239(5)JM, liquidator, OR, creditor/contributory (with leave).Reliefs 239(2)Court may relieve if person acted honestly and fairly.Criminal liabilitys 239(6)Offence: fine ? $10,000, imprisonment ? 3 years.Prospective rulings 239(10)Company may apply to Court for declaration that a proposed course of conduct will not be wrongful trading.
+?? Exam Flags
+* Fraudulent trading = dishonesty, intent to defraud.
+* Wrongful trading = negligence standard — incurring debts when insolvent / no reasonable prospect of meeting them.
+* Officers judged objectively; outsiders only if actual knowledge.
+* Both civil + criminal liability.
+
+?? Comparison Table — Preference vs Undervalue
+AspectPreference (s 225)Undervalue (s 224)Nature of harmFavours one creditor over othersRemoves assets from estate to detriment of allMental elementMust show desire to prefer (presumed for connected persons)No desire neededRelevant time1 year (unconnected); 2 years (connected); after commencement3 years (all); after commencementInsolvency requirementYes (or caused insolvency)Yes (or caused insolvency); presumption if connectedRemedys 227: reverse preference, discharge security, repayment, etc.s 227: restore position, broad clawbackExamplePaying one bank creditor ahead of othersSelling $5m asset to insider for $1
+
+
+3.5. Schemes of Arrangement (SOA)
+5.1 Preliminary matters
+?? Objective & nature
+* What it is: A statutory procedure that lets a majority bind a minority to a compromise/arrangement between a company and its creditors and/or members.
+* Not an insolvency proceeding: Directors remain in control (contrast JM/WU).
+* Uses: Takeovers, share capital reorganisations, debt restructurings (key focus here).
+?? Framework
+* IRDA: ss 66–72 (SOA machinery in insolvency statute).
+* Companies Act (CA): s 210–211 (foundational scheme machinery still applied via IRDA—see s 117 for JM context).
+* In JM: IRDA s 117 imports the SOA machinery (e.g., CA s 210; IRDA ss 68–71).
+?? Three-stage roadmap (RBS v TT International)
+1. Threshold (formulate proposal)
+– May seek stay under CA s 210(10) or moratorium under IRDA s 64 (automatic interim moratorium available: see §5.2.4).
+2. Stage 1 — Leave to convene (CA s 210(1)–(2))
+– Court orders the meetings (who votes, how, and class structure).
+3. Stage 2 — Creditors’/Members’ meetings (CA s 210(3))
+– Vote by statutory majorities in each class (see §5.3).
+4. Stage 3 — Sanction (Court approval)
+– If sanctioned, the scheme is binding on all in each approving class and the company (see §5.4).
+
+3.5.2 Stage 1 — Application for leave to convene meetings
+3.5.2.1 Who may apply & eligible companies
+? Eligible “company”
+* IRDA s 63(3) / CA s 210(11): any corporation liable to be wound up under IRDA, incl. foreign companies with a substantial connection to Singapore.
+* Exclusions: certain prescribed entities (e.g., banks/finance companies/public utilities) per Companies (Prescribed Companies and Entities) Order 2017.
+?? Who can apply (CA s 210(2); IRDA s 117 in JM)
+* If in winding up: the liquidator.
+* Otherwise: the company, any creditor, or any member.
+* If in JM: the judicial manager (IRDA s 117) may propose and run the SOA.
+
+3.5.2.2 The leave application (convene meetings)
+?? Statutory footing
+* CA s 210(1): Court may order meetings of creditors/members/any class to be summoned.
+* Procedure: Originating application (ex parte), supported by affidavit from a duly authorised company officer (see ROC: O 38 r 2(1)).
+?? Court’s role at Stage 1 (RBS v TT International)
+* Not a merits/fairness hearing of the scheme yet.
+* Court decides:
+1. Should meetings be called?
+2. How they are to be conducted?
+3. Provisional class composition (see §5.3.1).
+* Realistic prospect test: if there’s no realistic prospect of achieving statutory approval, leave should not be granted (TT International).
+?? Disclosure at leave stage (lower than sanction, but real)
+* Duty of unreserved disclosure of material information to allow the Court to:
+o set fair meeting mechanics,
+o consider class issues, prospects of success, and any abuse of process.
+* Pathfinder Strategic Credit v Empire Credit Resources: at leave stage, the baseline standard must be met—enough particulars to address classification, feasibility, and process fairness. If disclosure is so lacking and nothing more will be forthcoming, leave should be refused.
+
+3.5.2.3 Stay under CA s 210(10)
+?? Court-ordered stay (pre-IRDA overlap that still matters)
+CA s 210(10) (classic scheme stay): Court may restrain proceedings against the company if:
+1. No WU order/resolution has been made/passed;
+2. A compromise/arrangement is proposed;
+3. Applicant is the company, a member, or a creditor.
+Threshold: There must be a bona fide scheme with sufficient particulars to assess feasibility (e.g., Re Conchubar Aromatics: 10-week timeline, regular updates—enough particulars and bona fide intent).
+* Can be sought before the CA s 210(1) leave application, if particulars suffice (Conchubar).
+?? Choice of shield: With IRDA in force, you cannot stack CA s 210(10) and IRDA s 64—see IRDA s 64(2)(c) (must pick one path).
+
+3.5.2.4 Automatic Interim Moratorium — IRDA s 64
+?? Big picture
+* IRDA s 64(1): Company proposes or intends to propose a scheme ? the Court may order a moratorium (court-ordered).
+* IRDA s 64(8) & (14): On filing the application, an automatic interim moratorium starts immediately, without an order, for up to 30 days (or until the s 64 application is decided) — once per 12 months (s 64(9)).
+* Cannot simultaneously seek CA s 210(10) stay (s 64(2)(c)).
+? Preconditions to apply for s 64 (IRDA s 64(2))
+* (a) No WU order/resolution;
+* (b) Company makes/undertakes to make promptly either:
+o CA s 210(1) leave-to-convene application, or
+o IRDA s 71(1) (court approval of compromise/arrangement); and
+* (c) Does not make a CA s 210(10) stay application.
+?? Filing requirements (IRDA s 64(4))
+* Evidence of creditor support (and why it matters);
+* If not yet proposed, a brief description with sufficient particulars to assess feasibility (aligned with Re IM Skaugen standard);
+* Lists of secured creditors and (up to 20 largest) unrelated unsecured creditors.
+?? Scope of automatic moratorium (IRDA s 64(8))
+During the automatic period (30 days max or until decision):
+* No WU order/resolution;
+* No receiver/manager appointments;
+* No proceedings (save scheme-related), no enforcement or security enforcement or lease forfeiture — except with leave.
+* Set-off/netting rights preserved (s 64(12)).
+* Court can give the order (when made) in personam extra-territorial reach (s 64(5)).
+?? Extensions / variation
+* Court-ordered moratorium can be extended (no hard cap, s 64(7));
+* Any creditor/receiver/company may seek discharge/variation (s 64(10)); must be granted if s 64(4) filings were not complied with (s 64(11)).
+?? Guidance (Re IM Skaugen)
+* Support under s 64(4)(a) relates to the moratorium, not necessarily the finished scheme.
+* “Sufficient particulars” standard ? CA s 210(10) test (with modifications): broad feasibility; no vote counting; quality of support matters (key creditors’ support weighs heavily).
+3.5.3 Creditor’s Meeting
+
+3.5.3.1 Notice & Disclosure Requirements
+?? Statutory foundation — CA s 211(1)
+* Every notice summoning the meeting must include (or notify where to obtain):
+1. Statement explaining effect of the compromise/arrangement.
+2. Material interests of directors (as directors, members, creditors, or otherwise).
+3. Effect on those interests, compared with others.
+* This explanatory statement must be sent with the notice (to creditors, members, shareholders).
+* In advertisements of the meeting ? either the statement itself or notice of where to obtain it.
+?? Content requirements (developed by case law)
+The explanatory statement must:
+* Explain nature of the scheme.
+* Disclose all material interests of directors/shareholders.
+* Provide full and fair disclosure of all info reasonably necessary to enable creditors to make an informed voting decision.
+
+3.5.3.1.2 Level of disclosure — leave stage vs voting stage
+StageDisclosure StandardAuthorityNotesLeave application (CA s 210(1))“Sufficient particulars” of scheme proposal; realistic prospect of success; enough info for Court to decide whether to convene and how to classify creditors.TT International, Pathfinder Strategic CreditEarly stage ? no need for fully finalised restructuring plan.Creditor’s meeting (CA s 211(1))Full & fair disclosure ? explanatory statement must equip creditors to vote meaningfully.Pathfinder Strategic CreditHigher standard than leave stage.?? Practice point: Although CA s 211(1) suggests explanatory statement only goes to creditors after leave is granted, in practice it is often provided to the Court at leave stage to support the application (RBS v TT International).
+
+3.5.3.1.3 Classification of Creditors
+?? Legal test — TT International
+* Principle: Creditors are in the same class if their legal rights against the company are not so dissimilar that they cannot sensibly consult together with a view to their common interest.
+* Focus = legal rights (not commercial interests or private motivations).
+* Minor variances tolerated; major dissimilarity = separate class.
+* Rationale: Protects minorities from being “crammed down” by majorities with materially different rights.
+
+?? Typical classes
+* Secured creditors (legal rights over assets).
+* Preferential creditors (e.g. employees) who are to be paid in full vs unsecured creditors receiving only part.
+* Unsecured creditors (general pool).
+* Subordinated creditors (contractual subordination).
+* Contingent creditors:
+o Court in TT International held they belong in same class as unsecured creditors, since their rights under scheme ? rights in liquidation (appropriate comparator test).
+o Separate classification = minority veto risk ? avoid unless rights truly dissimilar.
+
+?? Practical comparator test (TT International)
+* Compare creditors’ rights under the scheme vs the most likely alternative (insolvent liquidation).
+* If a creditor’s position under the scheme would improve or decline to a markedly different extent vis-à-vis others (due to terms of the scheme itself, not private circumstances), they belong in a separate class.
+
+?? Caution — “mushrooming classes”
+* Courts emphasise a broad, practical approach to classification.
+* Over-fragmentation can create unjustified minority vetoes and frustrate workable schemes.
+* Policy concern: Don’t let minority use classification test as “instrument of oppression”.
+
+3.5.3.1.4 Exam Application Guide
+1. Step 1: Notice & disclosure
+o Has s 211(1) CA been complied with?
+o Does explanatory statement cover scheme’s nature, directors’ interests, full and fair disclosure?
+2. Step 2: Standard of disclosure
+o At leave stage ? “sufficient particulars”.
+o At meeting ? full and fair disclosure enabling meaningful vote.
+3. Step 3: Classification
+o Analyse legal rights pre- and post-scheme.
+o Apply TT International test: Are rights so dissimilar that creditors cannot consult together?
+o Beware of contingent creditors: usually classed with unsecured.
+o Guard against over-fragmentation.
+
+3.5.3.2 Voting on the Scheme
+Statutory foundation — CA s 210(3AB)
+* Once leave is granted, the proposed scheme is put before creditors/members for approval.
+* Threshold for approval:
+o Majority in number (headcount test, >50%) AND
+o Representing at least 75% in value of creditors/members present and voting (in person or by proxy).
+* Applies to each class of creditors/members separately.
+* If approved ? Court may then sanction the scheme (CA s 210(4)).
+* Sanction order must be lodged with Registrar (CA s 210(5)).
+
+Manipulation of voting — safeguards in case law
+IssueCaseRule / PrincipleArtificial inflation of headcount (majority in number test)SK Engineering & Construction v Conchubar Aromatics [2017]Assignments of debt must be genuine & at arm’s length. Sham assignments to multiple friendly creditors to boost numbers are invalid.Related party votesTT International [2012]- Wholly-owned subsidiaries’ votes must be discounted to zero (control by parent = not independent). 
+- Related creditors’ votes may be partially discounted (dicta).SK Engineering (CA)SGCA rejected partial discounting as arbitrary. Bright-line rule: once creditor’s position is tainted by relationship, votes are wholly disregarded.
+? Exam structure for voting analysis
+1. Identify classes correctly (see 5.3.1).
+2. Apply headcount (>50%) + value (?75%) test within each class.
+3. Check if any votes must be discounted (subsidiaries/related parties).
+4. Ensure no artificial assignments or manipulations.
+5. If valid majority secured ? move to Court sanction stage.
+
+3.5.3.3 Court’s Other Powers
+1?? Court’s cram-down power — s 70 IRDA
+* Even if one or more classes dissent, Court may still approve (“cross-class cram down”).
+* Requirements:
+1. At least one class of creditors approves (s 70(1)).
+2. Overall requisite majority (3/4 in value) satisfied (s 70(3)).
+3. No unfair discrimination between classes (s 70(3)).
+4. Scheme is fair & equitable to dissenting class (s 70(3)).
+
+2?? Pre-pack Schemes — s 71 IRDA
+* Court may approve scheme without convening a creditors’ meeting, if safeguards are met.
+* Conditions (s 71(3)):
+1. Company provides full explanatory statement to each creditor (property, assets, financials, impact on rights).
+2. Public notice of application in Gazette + local newspaper.
+3. Creditors notified of application.
+4. Court satisfied that, if a meeting had been held, s 210(3AB) approval thresholds would have been met.
+* Key features:
+o Faster, cheaper, procedurally simpler (suited for “clear cases” of pre-agreed restructuring).
+o Cannot use s 71 to cram down dissenting classes ? unanimity (or near-unanimity) required.
+* Re DSG Asia Holdings [2021]
+o Pre-pack rejected due to inadequate disclosure & misclassification of creditor.
+o Court stressed s 71 only for clear, uncontested cases.
+o Where major creditor objects or disclosure is lacking ? must use full s 210 procedure.
+
+3?? Administrative convenience classes — Re Zipmex Co Ltd [2022]
+* Attempt to group small unsecured creditors separately (to reduce admin burden).
+* Abdullah J declined (unclear basis under s 71), but did not reject concept entirely.
+* Test if allowed in future:
+o Whether grouping balances creditor interests fairly.
+o Whether safeguards exist against minority oppression.
+* Suggests possible evolution of SOA law toward practical creditor management.
+
+? Exam Application Guide (Voting & Court powers)
+1. Voting compliance:
+o Were thresholds under CA s 210(3AB) met?
+o Any related-party votes discounted?
+o Any artificial assignments struck down?
+2. Court’s discretion:
+o Even if thresholds satisfied, Court must still consider fairness & equity before sanction.
+o If thresholds not met ? can Court use s 70 cram-down?
+3. Pre-pack schemes (s 71):
+o Was full disclosure made to creditors?
+o Were approval thresholds effectively met without a meeting?
+o Is it a clear case of creditor agreement (DSG Asia test)?
+4. Special classes:
+o If “administrative convenience” class proposed ? weigh fairness, safeguards, and statutory basis (Zipmex).
+3.5.3.4 Court Approval of Scheme
+
+3.5.3.4.1 Conditions for Court to Sanction SOA
+ConditionSourceExplanation / Case LawJurisdictions 210(3AB)(c) CACourt must first be satisfied that all statutory requirements were complied with (meetings duly convened, requisite majorities obtained).Fair representation & minority protectionTT InternationalCreditors attending must be fairly representative of their class, and the majority must not coerce the minority to promote interests adverse to the class.ReasonablenessTT InternationalCourt applies the “man of business” test: Would an intelligent, honest member of the class, acting in respect of their interest, reasonably approve?Fairness as overarching testRe Conchubar Aromatics [2017] 3 SLR 748Court’s ultimate concern is fairness of the scheme. Creditors normally best judges of their commercial interests; assumption is valid if majority exercised independent, objective judgment.
+?? Key Takeaway:
+Court is not a rubber stamp. Even if statutory majority is met, scheme can fail sanction if:
+* classification wrong,
+* inadequate disclosure, or
+* unfair coercion of minority.
+
+3.5.3.4.2 Disclosure Requirements at Sanction Stage
+?? Distinct from disclosure at leave stage or creditors’ meeting.
+At sanction, full transparency is critical. Failure = scheme struck down.
+* Wah Yuen Electrical Engineering [2003] – Scheme refused. Lack of transparency on related debts; no info if returns > liquidation outcome.
+* Re Econ Corp [2004] – Parent company finances withheld. Creditors unable to compare scheme vs liquidation.
+* Re Horizon Knowledge Solutions [2004] – Accounts and related creditors’ debts not disclosed.
+Principle: Scheme must contain sufficient information for creditors to make an informed decision.
+
+3.5.3.4.3 Court’s Power to Impose Conditions
+* s 210(4) CA: Court may approve scheme “subject to such alterations or conditions as it thinks just.”
+* The Oriental Insurance v Reliance National Asia Re [2008]:
+o Discretion is broad.
+o Substantive amendments (not just procedural) ? usually referred back to creditors for further vote (at [43]).
+
+3.5.3.4.4 Effect of Court Sanction
+AspectRuleAuthorityBinding EffectScheme binds all creditors in the class, including dissenters.Oriental InsuranceTimingSanction has no effect until lodged with Registrar. Once lodged, effective from lodgment date or earlier date specified by Court.s 210(5) CA
+3.5.3.4.5 Effect of Scheme on Third Parties
+General Rule
+* Scheme binds only creditor ? company relationship.
+* Does not normally affect rights against 3rd parties (Eltraco at [26]).
+Exceptions – Third Party Releases
+* Daewoo Singapore Pte Ltd v CEL Tractors [2005] (SGCA):
+o Scheme may release obligations of guarantors (3Ps).
+o No principle that such releases are barred.
+* Pathfinder Strategic Credit LP v Empire Credit Resources [2019] 2 SLR 77:
+o Facts: Guarantor proposed scheme to restructure notes across group companies. Minority argued only “necessary” releases allowed.
+o Held: Test = whether there is a sufficient nexus between the release of 3P liability and the relationship between company & scheme creditors.
+o Here, nexus satisfied ? releases valid.
+
+?? Summary Table – Court’s Role at Sanction
+Issue Court ConsidersKey CasePrincipleJurisdictionTT InternationalProcedural compliance (votes, meetings).Minority ProtectionTT InternationalMajority must not coerce minority.ReasonablenessTT International“Man of business” test.FairnessRe Conchubar AromaticsFairness is overarching concern.DisclosureWah Yuen / Econ Corp / HorizonFull and fair disclosure required.ConditionsOriental InsuranceCourt may impose just terms.Binding EffectOriental InsuranceScheme binds dissenting creditors once sanctioned.Third Party RightsDaewoo / PathfinderSOA may release 3P obligations if sufficient nexus.
+? Exam flag: Always structure SOA sanction answers around the 3 TT International conditions + fairness + disclosure. Then discuss Court’s powers (conditions, binding effect, 3P releases).
+3.5.3.5 Termination of SOA
+Scheme document will set out termination events, which may include:
+a) Duration
+b) Occurrence of events of default
+c) Final payment or distribution made to creditors and full implementation of scheme
+d) Vote at a meeting of creditors or on decision of the scheme manager
+
+
+
+3.6. CROSS-BORDER INSOLVENCY
+
+3.6.1 Winding Up of Foreign Companies (Part 10 Div 1 IRDA)
+?? Statutory Basis
+* s 245–249 IRDA (unregistered companies = foreign companies).
+* Applies only to winding up; not JM (Part 7) or Schemes (Part 5).
+?? Jurisdiction (s 246 IRDA)
+Court may wind up a foreign company only if substantial connection with Singapore.
+Factors in s 246(3):
+Factor showing “substantial connection”ExampleCOMI in SingaporeHeadquarters, decision-making hereCarrying on business / place of businessSingapore branch officeForeign company registered under CARegistered under Part XI CASubstantial assets in SingaporeE.g. bank accounts, real estateSingapore law governs loan/disputeContract governed by SG lawSubmission to SG court jurisdictionForum clause in loan agreement?? Case Law
+* Re Griffin Securities [1999] – Major part of assets + extensive operations in SG = sufficient nexus.
+* Re Projector SA [2009] – Close links with SG cos, deregistration after SD = “misguided attempt” to evade jurisdiction ? sufficient nexus.
+
+3.6.2 Administration of Foreign Liquidations
+* General rule: Assets not ring-fenced in SG (s 250(3)(c) IRDA).
+* Exception: For “relevant companies”, SG debts must first be paid before remittance abroad.
+* I.e. local creditors protected first for certain classes (e.g. banks, insurers).
+
+3.6.3 UNCITRAL Model Law (Third Schedule IRDA)
+?? Purpose
+Framework for recognition + assistance to foreign insolvency proceedings.
+Functions:
+1. Access to SG courts by foreign insolvency office holders.
+2. Recognition of foreign insolvency proceedings.
+3. Relief to assist (e.g. moratoria, discovery orders).
+4. Co-operation between courts and office holders.
+?? No reciprocity required (SG can recognise even if foreign jurisdiction has not adopted Model Law).
+
+?? Key Concepts
+ConceptMeaningForeign main proceedingInsolvency in debtor’s COMI.Foreign non-main proceedingInsolvency where debtor has only an establishment (non-transitory economic activity).Presumption (Art 16(3))Registered office = COMI, unless rebutted.COMI (Zetta Jet; Rooftop)Nerve centre – factual test: where management, business operations, stakeholders located.
+Reliefs Granted
+TypeReliefsNatureForeign main proceedingAutomatic stay: suspension of proceedings, enforcement, asset transfers in SG (Art 20).MandatoryForeign non-main proceedingRelief discretionary (e.g. stay, exam of witnesses, delivery of info).Discretionary?? Stay exceptions: secured creditor enforcement, HP repossession, set-off rights (Art 20(3)).
+
+Protection of Parties (Art 22)
+Court must ensure interests of creditors (including secured), debtor, and other persons are adequately protected before granting relief.
+
+3.6.4 Interaction with Singapore Processes
+* Model Law = procedural only ? doesn’t itself restructure debts.
+* To restructure in SG, foreign co. must initiate SOA (Part 5) or JM (Part 7).
+Eligibility:
+* SOA (s 63(3) IRDA; s 210(11) CA): Must be “company” = corp liable to be wound up ? requires substantial connection.
+* JM (s 88 IRDA): Must be “corp liable to be wound up” ? also requires substantial connection.
+o Court may still deny JM if practically unworkable (e.g. inability to control foreign subs: Deutsche Bank v APP).
+
+3.6.5 Exam Flags
+* Substantial connection = key jurisdictional gateway for foreign cos.
+* Ring fencing: Generally no, except for relevant companies under s 250(3).
+* COMI: Watch for fact patterns (registered office ? actual nerve centre).
+* Main vs non-main: Automatic vs discretionary relief.
+* Model Law limits: Only procedural aid; not substantive restructuring.
+

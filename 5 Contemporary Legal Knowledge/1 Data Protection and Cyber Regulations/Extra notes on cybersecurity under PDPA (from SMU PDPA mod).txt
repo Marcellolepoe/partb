@@ -1,0 +1,708 @@
+Managing protection/retention obligations, accountability 
+Contents
+Protection obligation – elaborations	2
+Levels of protection	2
+Elaboration on Technical controls	2
+Security and data breach risks	2
+Governance	2
+Security awareness	3
+Compliance, testing and audits	3
+Authentication, authorization and passwords	3
+PDPC guide to building websites for SMEs	4
+Guide to disposal	4
+Guide to Disposal of Personal Data on Physical Medium	5
+Guide to Securing PD in Electronic Medium	5
+Data protection management programme	5
+Steps to create and maintain DPMP	5
+Policies and practices	6
+Obligation to implement policy	6
+Content of policy	6
+Designating data protection roles	6
+Developing processes	7
+Maintenance of DPMP	8
+Tools and resources	8
+Managing data intermediary risks	8
+DPMP Conceptual	8
+Why have a DPMP?	8
+Data Protection Officer (DPO)	9
+Requirements, obligations and power of DPOs	10
+Responsibilities	10
+Power of DPOs	10
+Professionalizing the role of DPO in Singapore?	11
+Conceptual	11
+GDPR DPO comparison	11
+CIPM requirements	11
+Data Protection Impact Assessment	12
+Data protection by design and default	12
+Accountability	12
+Fundamentals of the accountability principle	12
+Accountability in Singapore – historical and current	13
+Historical	13
+Under the PDPA	13
+Accountability in practice	14
+DPO certification	14
+Accountability in Singapore – next steps	15
+Accountability worldwide	15
+
+
+Protection obligation – elaborations 
+LEVELS OF PROTECTION 
+Physical controls 
+- To deter or prevent unauthorized physical access to, and use/disclosure of PD 
+- E.g. locking premises and documents, locking doors, keeping personal data in secured medium
+- Case – Spear Security – leaving visitor logbook unattended outside the guardhouse. 
+
+Administrative controls 
+- Human factors of data protection – all levels of personnel within the org, determine which users have access to which resources and information, what they can do with the information, and consequences for non-compliance 
+- E.g. 
+o Policies like PDP policy, information policy, data retention policy etc. etc. 
+o Confidentiality obligations of employees under NDAs 
+o Contracts with data intermediaries requiring compliance with org’s policies and contractual terms supporting the org’s compliance with PDPA 
+- Case – SingHealth – failure of the CISO to comply with internal policies 
+
+ELABORATION ON TECHNICAL CONTROLS 
+PDPC Guide to Securing PD in Electronic Medium 
+
+Security and data breach risks
+Examples of risks 
+hacking or other unauthorised access of databases; 
+(“ATM”); 
+physical attacks such as use of skimming devices on Automated Teller Machine 
+malware or hostile programs such as computer viruses and spyware;social engineering, such as phishing scams and the circulation of malware-laden 
+email attachments; 
+unauthorised access or misuse of personal data by employees or vendors;loss or theft of electronic devices or portable storage devices containing personal 
+data; 
+fault or weakness in a system’s or device’s program code causing it to reveal personal data to incorrect parties, such as a bug in an online portal allowing 
+someone to access another person’s data; 
+compromised network devices;compromised point of sales (“POS”) systems;not disposing of electronic personal data properly;unintended disclosure of personal data to another individual other than the 
+intended recipient, such as emailing to the wrong recipient.
+
+Governance 
+Components of governance that orgs must take into consideration 
+- Accountability 
+- Standard, policies and procedures 
+- Risk management
+- Classification and tracking 
+
+Clear accountability 
+- Provide clear direction on ICT security goals and policies for personal data protection within the organisation. 
+- Identify and empower the person(s) accountable for personal data protection within the organisation. 
+ 
+Standards, policies and procedures 
+- Establish and enforce ICT security policies, standards and procedures. 
+- Review and update ICT security policies, standards and procedures periodically to ensure relevance.
+- Establish end user policies to prevent misuse of ICT systems. 
+ 
+Risk management 
+- Institute a risk management framework to identify the security threats to the protection of personal data, assess the risks involved and determine the controls to remove or reduce them. 
+- Assess the effectiveness of the risk mitigation controls periodically.  
+- Assess the security risks involved in out-sourcing or engaging external parties for ICT services and mitigate them. 
+ 
+Classification and tracking 
+- Classify and manage the personal data by considering the potential damage (e.g. reputational or financial) to the individuals involved should the data be compromised.  
+- Conduct periodic checks for personal data stored in ICT systems. For personal data that is not required in any form anymore, securely dispose the data (refer to section 8). If there is a need to retain the data but not in identifiable form, e.g. for performing data analytics, consider anonymising2 the data. 
+- Conduct physical asset inventory checks regularly to ensure all computers and other electronic devices (e.g. portable hard drive, printer, fax machine etc) used to store or process personal data are accounted for.
+
+
+Security awareness
+Increasing awareness helps reduce the risk of data breaches through system misuse or mistakes
+- Example of awareness – being cautious about phishing or other forms of social engineering 
+- They should be made aware of the security policies and standards relevant to their work 
+- Software developers and ICT personnel should be aware of current and emerging ICT threats, in order to design systems capable of protecting PD
+
+Security awareness – good practices
+- Educate employees on ICT security threats and protection measures for personal data. This includes the org’s ICT security policies, standards and procedures 
+- Keep ICT security awareness training for employees updated and conduct such training regularly 
+
+
+Compliance, testing and audits 
+Regular assurance checks ensures that security controls are properly implemented and practiced 
+
+Good practices
+- Conduct regular ICT security audits, scans and test to detect vulnerabilities and non-compliance with organizational standards 
+- Apply prompt remedial actions to detect security vulnerabilities and any non-compliance with policies and procedures 
+- Implement measures to ensure ICT system logs are viewed regularly for security violations and possible breaches 
+
+
+Authentication, authorization and passwords 
+Principles 
+- The strength of authentication (e.g. password requirements or other mechanisms for access to personal data) should depend on the potential damage to the individual (e.g. reputation or finances) if PD is compromised
+- Password policies should require changes to passwords periodically, and there should be technical mechanisms to enforce the policy in terms of password selection and change 
+- More secure auth methods include 2FA 
+
+A brief aside on authentication vs authorization 
+- Authentication – “who are you” 
+- Authorization – “get off my lawn” 
+
+Authentication – good practices 
+- Choose suitable auth method based on risk of damage 
+- Determine max allowable login attempts depending on type of data
+- Account lockout when max attempts reached to prevent dictionary or brute force attacks 
+- Password at least 8 chars long with one alphabetical and one numeric character
+- Hide password when typed in (duh) 
+- Encrypt password during transmission, encrypt or hash in storage – review encryption/hashing mechanism periodically to ensure that it is recognized in the industry as secure 
+- Users required to change passwords regularly – frequency depends on risk of damage 
+- Change default passwords to strong ones ASAP 
+Authentication – enhanced practices
+- Assign unique user ID to individual users 
+- Encourage users not to use passwords that can be easily deduced, like birth date or name 
+- Users should change system-generated password upon first login
+- Discourage users from using the same password across different systems or applications 
+- The same password should not be reused in the last 3 changes 
+- Password comprises both lowercase and uppercase characters 
+- Password comprises special characters like “!”, “&” etc. 
+
+Authorization – good practices 
+- Implement authorization mechanisms and processes to check if the person accessing the system has the appropriate access rights to the data
+- Define user roles or groups for systems that enable access to PD. Review access rights regularly 
+- Grant a user only the necessary rights to PD within systems to fulfill their role or function
+- Track and review usage of accounts and their associated access rights regularly – remove or change access rights for unused or obsolete accounts promptly 
+- Log all successful and failed access to systems to help detect unauthorized attempts to gain access to them 
+
+PDPC GUIDE TO BUILDING WEBSITES FOR SMES 
+Orgs should require IT vendors to include security as an important requirement when designing the website
+
+Access control
+- Only allow authorized users to access the administrative functions of the site and PD handled by the site 
+- The list of authorized admin users should be reviewed and updated regularly to account for resignations, transfers, or changes in job scope 
+- Password security requirements – see above
+- Lockout users who incorrectly login too many times 
+- Passwords should be hashed/encrypted in transmission and storage 
+- Dormant user accounts should be suspended 
+
+Audit log
+- Logs help to determine the cause of security incidents as well as monitor the overall health of the website 
+- Logs should record computer or user events with a timestamp, e.g. 
+o System events like startup or shutdown
+o Security events like access violations 
+o User logins and logouts, including unsuccessful ones 
+o Actions performed by users 
+- Audit logs take up space and will increase in size over time – orgs need to decide what to log and keep – the system should be designed such that audit logs cannot be modified 
+- Audit logs should be regularly reviewed to ensure that there has not been unauthorized activity 
+
+Server and network security
+- Install application control (software that only allows authorized applications to work) and updated antivirus software on servers 
+- Deploy firewalls and intrusion detection mechanisms on the network 
+- Implement HTTPS for all pages that accept user input
+
+Website programming 
+- Programmers should be aware of the common vulnerabilities and how to avoid them – OWASP Top 10 vulnerabilities is a good guide 
+- Orgs should ensure that PD cannot be exposed through such vulnerabilities – website functions must be tested and scanned for vulnerabilities before deployment 
+- Orgs should discuss with vendors whether vulnerability scanning is included in their scope ofwh work or procured from another service provider 
+
+GUIDE TO DISPOSAL
+Guide to Disposal of Personal Data on Physical Medium 
+- Common acceptable means 
+o Incineration
+o Shredding in such a way that makes it reasonably difficult or impossible in order to reconstruct the information 
+* PDPC prefers this to shredding because it’s more environmentally friendly
+o Pulping – mixing with water and chemicals before processing into recycled paper 
+- Shredding
+o Must use the appropriate level of shredder – straight-cut shredders can still allow a 3p to reassemble the doc 
+o Cross-cutting or confetti shredders work well 
+o Categorized into 7 levels according to DIN standard, a measure of particle size after shredding 
+- Typical disposal mistakes
+o Common to neglect PD where it is only part of a whole data set, there are mistakes in some fields (and therefore data is deemed inaccurate) or it contains printing errors 
+o Paper docs slated for disposal are commonly considered “valueless” and are not secured properly while awaiting destruction 
+o Etc. 
+- Good practices
+o When in doubt whether the paper document contains PD, shred it
+o Encourage staff to shred paper documents containing PD regularly to cultivate the habit 
+- Brief everyone at every level of seniority on the proper way to deal with PD documents from creation to disposal 
+- Outsourcing disposal of paper documents
+o Accountability and responsibility to ensure that PD is destroyed remains with the org – contracts must contain the necessary terms and conditions to comply with the PDPA obligations 
+o Orgs need to understand the process by which PD is destroyed – whether the 3p does it itself, or there are subcontractors involved, the measures the 3p takes to protect the data/prevent access
+o Check whether the data is sent overseas – must comply with Transfer Limitation Obligation 
+
+Guide to Securing PD in Electronic Medium 
+- Orgs should ensure that deletion is done in a manner that data cannot be recovered or disclosed. Or can also anonymize data. 
+- Electronic storage media (HDDs, SSDs, USB drives, DVD, CD) – when computer equipment is disposed of, these are often returned to the vendor, sold to a 3p or thrown away. Risk of unauthorized disclosure of PD 
+- Common deletion not enough, data remains on drive. Secure deletion required via overwriting the selected file, multiple passes required to ensure thorough deletion 
+o Overwriting standards are available 
+- Sometimes simple overwriting is insufficient – for magnetic storage media, degaussing (removal of magnetic fields) is also available. Physical methods like drilling holes, crushing and shredding the HDD. 
+
+Data protection management programme 
+DPMP is a systematic framework to help orgs establish a robust data protection infrastructure.
+Covers: 
+- Management policies and processes for handling of PD 
+- Defines roles and responsibilities for the people in the org in relation to DPMP 
+
+STEPS TO CREATE AND MAINTAIN DPMP 
+Big picture: 
+- Identify PD handling by the org
+- Identify, assess and manage risks 
+- Develop DPMP – 
+o Policy and practices
+o Designate data protection roles 
+o Processes to operationalize policy  
+o Detail ways to stay relevant 
+- Maintain DPMP 
+
+A 4 step program to establish a robust data protection infrastructure
+- Step 1: Governance and risk assessment – establishing governance structure to define values and identify risks with organizational leadership 
+- Step 2: Policy and practices 
+- Step 3: Processes – to operationalize policy 
+- Step 4: Maintenance – to keep policy and processes up to date 
+
+
+POLICIES AND PRACTICES 
+Obligation to implement policy 
+Policies and practices
+12.  An organisation shall —
+(a)develop and implement policies and practices that are necessary for the organisation to meet the obligations of the organisation under this Act;(b)develop a process to receive and respond to complaints that may arise with respect to the application of this Act;(c)communicate to its staff information about the organisation’s policies and practices referred to in paragraph (a); and(d)make information available on request about —
+(i)the policies and practices referred to in paragraph (a); and(ii)the complaint process referred to in paragraph (b).
+Notes
+Only about 10% of PDPC cases are directly on the failure to implement privacy policies. But the majority of PDPC cases (data protection and consent obligations) have a bad/absent privacy policy as their underlying causes. 
+
+Content of policy 
+What should be in a policy? 
+- General – Definition of PD, how often the policy is reviewed 
+- People – Intended audience of the policy, policy owner 
+- Process – Whose personal data is handled, purpose of PD, what type of PD, how are queries, feedback, disputes and requests handled? With which 3p orgs is data shared? How is PD protected, how should incidents be handled, when are Data Protection Impact Assessments (DPIA) handled and on which systems or processes? 
+- Orgs should have dedicated internal policies on specific areas that require elaboration – e.g. reviewing access requests, in addition to a data protection policy for external parties 
+- Privacy policy should set out a clear understanding within the org of its obligations and the standard that the staff should adhere to – Re M Stars Movers 
+
+Policies demonstrate accountability to external parties by informing them of the ways in which the org handles data 
+
+Privacy policy vs notice – 
+- Privacy notice is for external stakeholders, should be simplified etc. 
+- Privacy policy is also meant for internal use – staff 
+- But in practice, companies often just copy paste privacy policy and use it as privacy notice 
+
+Notes on privacy policy – 
+- Privacy policies should be customized. 
+o May be inadequate to reproduce the data protection policies of the parent or sister company without tailoring it to fit the circumstances of the org itself 
+o Failure to customize privacy policy may be a lead to a breach of the protection obligation – 
+* e.g. Re Tiger Airways Singapore – APS relied on SATS’ administrative safeguards without additional actions to contextualize the group policies. Customer PD was thrown into a Changi Airport dustbin, by entering the details on the Tiger Airways portal, you could get full name, passport number, home address etc. and further PD. This failure led to the breach.
+* E.g. Re Actxa – reused privacy notice meant for the website for its app (Lanx: the entire Actxa case could have been avoided if they changed “website” to “app” in the app privacy notice)
+- Privacy policies should address specific issues like password policy – e.g. Re K Box where weak passwords could have been prevented by a proper privacy policy 
+- Privacy policies must be documented and implemented properly and consistently – Re Habit for Humanity Singapore 
+- Policies should be implemented via training and raising awareness
+- Policies should be communicated to all employees who handle PD and not just specific people
+o E.g. Re NUS – privacy policy was only communicated to the initial student leaders, and not their successors 
+- Policies should receive consistent oversight and monitoring, e.g. via audit 
+- Policies should be internally enforced via appropriate sanctions 
+
+ 
+Designating data protection roles 
+People in the PDPP 
+- Senior management is responsible for the org’s approach to handling PD through their corporate governance, policies and communication through the org 
+
+What should orgs do to make stakeholders aware of their roles and responsibilities? 
+- Note PDPA requirement – orgs have to “communicate to its staff information about the organization’s policies and practices” – s 12(c) PDPA 
+- Training and communication at transitory stages 
+o Onboarding, on-the-job assignment, change in job scope, promotion and exit 
+- Also training and communication for all staff as an ongoing thing
+- For more on staff training – see Galway Project and Paris Project for internal implementation of DP policy  
+
+Types of training 
+- PDPC events (seminar, briefings) 
+o Incl. PDPC sectoral briefings
+- PDPC’s e-learning module 
+- PD briefings by external vendors 
+- DP Advisory sessions 
+- Internal
+o In-house trainings by DPO 
+o EDMs, posters, videos etc. on org’s intranet 
+o 
+- Professional certification
+o Certified Information Privacy Manager Programme (CIPM)
+o Certified Information Privacy Technologist Programme (CIPT) 
+o Certified Information Privacy Professional Asia Programme (CIPP)
+
+
+Developing processes 
+- Key steps to include in the process (table below) 
+
+
+What HowDocument PD flows in the org to understand how PD is being collected, stored, used, disclosed, archived/disposed- Use a data inventory map or data flow diagram – to monitor the movement of data within the org 
+- Create a consent registry (record consent provided by individuals and the purpose consented to)Adopt accountability tools to identify key gaps and areas for improvement wrt data protection- Identify gaps using PDPC’s Assessment Tool for Organizations 
+- Use the relevant tools to address gaps after identifying them 
+- Refer to relevant PDPC Advisory Guidelines and industry best practicesIncorporate DP good practices into business processes, systems, products or services- Adopt a DP by Design approach – including conducting DP Impact Assessments (DPIA) for systems or processes that are new or undergoing major changes 
+- Ensure compliance with PDPA and org’s PD policies – using contractual clauses and performing regular checks on compliance with clauses 
+- Establish a process for data breaches by observing PDPC’s CARE framework and use an incident record log to document incidents and post-breach response 
+Establish risk monitoring and reporting structure- Manage risk through an enterprise risk management network with reporting mechanisms 
+- Conduct internal audits to monitor and evaluate the implementation of DP policies and processes 
+Maintenance of DPMP
+Systems for internal, ongoing oversight, assurance reviews, external verification
+- Policies and practices must be complemented by a system that monitors and measures their effectiveness 
+- 3 aspects
+o Ongoing management oversight 
+o Internal assurance reviews 
+o External verification 
+- Not all 3 components are necessary for all orgs, but it is difficult for any org to justify a lack of ongoing management oversight 
+- Art 29 WP exhorts the implementation and supervision of verification procedures to ensure that all measures not only exist on paper but are implemented in practice
+o Paris Project places this responsibility for executive oversight on top management 
+- DPMP Guide sets out the need for a monitoring system – advocates “an enterprise risk management framework with reporting mechanisms (ie regular risk reporting and internal audit) as part of their data protection measures” 
+- Internal audit 
+o The role of internal assurance reviews can take the form of internal audits
+o Can systematically test the effectiveness of DP practices and the organizational readiness 
+o The Galway project advocates the standard that the internal audit reports to an entity independent of the organization being audited 
+* Locally, audits normally report to the audit committee of the board, which should therefore be sufficiently independent of the organization’s management 
+
+
+Tools and resources 
+General resources 
+- Main point – there are many resources and tools available to orgs, both developed by the PDPC and independently, to aid orgs in compliance and accountability 
+- PDPA Assessment Tool for Organizations (PATO) – get a high-level report on the implementation status of their DP measures 
+- DP Starter Kit – sample clauses, forms, communication materials 
+- Corporate e-Learning program 
+- Personal Data Asset Inventory Tool (DocukitData Protection App) – helps DPOs track how data is being managed in their orgs 
+- DPOinBox – supports orgs in the development of and implementation of their DPMP – for areas such as identifying risks, managing program, sustaining initiatives and responding to incidents and requests 
+
+Other points
+- The PDPC Guide to Developing DPMP advocates for a DP by Design approach 
+- The Guide advises orgs to (in addition to the above):
+o Establish a process for managing data breaches 
+o Establish risk monitoring and reporting structure 
+
+Maintenance of DPMP
+- Why review? – to keep in line with regulatory and technological developments, ensure data protection risks are being managed effectively 
+- How to keep relevant?
+o Monitor internal an external environment for developments – can use tools like DPO Connect 
+o Conduct regular reviews of DP policies and practices – periodically and in response to major events like major incidents, changes to the org like M&A or restructuring 
+o Keep staff and external stakeholders apprised of changes to DP policies and practices 
+o Validate the DPMP through external review – e.g. through DP Trustmark (DPTM) Certification 
+
+MANAGING DATA INTERMEDIARY RISKS 
+Most often than not, the data intermediary proves to be the Achilles’ heel in the data protection process. The most famous example will be the Facebook/Cambridge Analytic incident where Facebook faced investigation worldwide for the action committed by Cambridge Analytic and was fined the maximum £500,000 by the Information Commissioner’s Office this year. In gist, poor management of the data intermediary will result in the organisation being found in breach of the protection obligation under the PDPA. However, good management will exonerate the organisation from the data breach. That said, if both organisation and DI are equally culpable, then the PDPC will take both to task. Therefore, it is pivotal that organisation is cognizant of the risk and manage the risk when comes to DI.
+
+See PDPA Obligations 2 – Protection Obligation > managing intermediaries 
+
+DPMP CONCEPTUAL 
+Why have a DPMP?
+DPMP plays a key role in risk identification and management 
+- Provides clarity to internal stakeholders on the responsibilities and process on handling personal data in their day-to-day work 
+- Demonstrates accountability to external parties by informing them on the way in which the org handles data 
+
+DPMP deals with 3 categories of risks 
+- Risk that policies and practices become outdated
+o Periodic review of the entire program is necessary 
+o DPMP Guide includes a part on maintenance that suggests internal and external factors that ought to be monitored, and when the DPMP ought to be reviewed. Suggests that DPMP be validated by external review 
+- Risks introduced when products or processes undergo changes
+o Orgs need a process to assist the org in understanding the risk to privacy raised by new products, services, technologies and business models, and mitigate these risks 
+o Data Protection Impact Assessment – a key tool, covered in w 12
+- Risk of data breaches 
+o Establish procedures for the effective management and reporting of security breaches
+o Ought to anticipate data misuse and misappropriation in addition to data breaches 
+
+
+Relating to accountability – PDPC?? Accountability Guidelines 
+- Complex, competitive and evolving business environment – “checkbox” compliance approach no longer sufficient to keep pace with developments in data processing activities. Organizations that focus on checkbox compliance may find themselves disadvantaged and unable to use data for innovation 
+- PDPC recommends shifting to accountability-based approach 
+- Including implementing a DPMP as outlined above 
+
+Data Protection Officer (DPO)
+ A DPO is the key to implementing and administering the law into practice, and is a common accountability measure. This position in fact is the most critical within an organisation as it often entails devising the privacy policy and notice, and data protection management Program. Its essentiality is demonstrated by the fact that both PDPA and GDPR (if certain conditions are met) made it mandatory for an organisation to appoint a DPO.
+
+The Guide to Developing a Data Protection Management Program states that the DPO should be appointed from the senior management and the role can and is usually assumed by a compliance officer, lawyer or in-house counsel.
+
+Lanx paper overview: 
+- The DPO is the cornerstone of accountability, and appointing a DPO can facilitate compliance – Art 29 Working Party 
+- Some issues to be considered: 
+o Accountability among Singapore organizations can only be improved if DPOs possess the right level of data protection expertise and knowledge 
+o Whether Singapore will pursue the professionalization of DPOs in the future 
+
+Requirement to appoint DPO
+- 11(3) PDPA – org must designate one or more individuals to ensure org’s compliance with PDPA 
+- Failure to appoint DPO is a strict liability breach – no way to wiggle your way out of this one 
+- 11(4) – the DPO may delegate to another individual the responsibility conferred by that designation 
+- 11(5) – An org must make public the business contact information of at least one DPO.
+o PDP Regulation 2021 – to fulfil 11(5), can register DPO on ACRA website, or put their contact details in a readily accessible part of the org’s official website
+- 11(6) – the designation of a DPO does not relieve the org of any of its PDPA obligations 
+- Group companies can appoint a single DPO as long as he is easily accessible from each establishment 
+o Enabling group companies to appoint a single DPO or outsource appointment to a contractor DPO is sensible to aid in reducing costs 
+o Outsourcing also paves the way for the professionalization of the DPO role in the future 
+- Relevant DPO cases – Re M Stars Movers, Re K Box Entertainment 
+
+Lanx notes: 
+- The role is delegable, even to some overseas person 
+- The DPO must be appropriately qualified, depending on the kind of data that is used. Even a single professional DPO may not be enough to meet this criterion 
+- DPO contact doesn’t need to be displayed on company website etc. – can notify public by registering with ACRA 
+- Can hire external vendors to be DPO 
+o Pros and cons: 
+* Conflict of interest? Commercial conflict and legal conflict 
+* Multiple DPOs in different jurisdictions – more expensive, risk of inconsistencies, but you gain the benefit of more expertise 
+* Single DPO – more expensive than vendor, but will be available all the time. Can be overloaded with contract drafting, negotiations, other compliance etc. 
+* External vendors – confidentiality, conflict of interest, they can’t give you full attention 
+
+Expertise of DPO 
+- S 11(3) does not define the expertise required of the DPO.  
+- Can use the reasonableness standard to guide this – s 11(3) 
+o Maybe say that the DPO should possess a reasonable amount of expertise and knowledge to advise the org on PDPA compliance 
+o The greater the volume and the more sensitive the PD handled by the org, the higher the qualities and knowledge the DPO should possess 
+* E.g. SingHealth 
+- In practice
+o Some organizations appoint a HR person to be the DPO, particularly SMEs with no resources 
+o But PDPC has provided lots of affordable PDPA training, so it’s getting better 
+o Larger SMEs and multinationals usually engage a professional DPO, or at least appoint their compliance officer or in-house counsel as DPO
+
+REQUIREMENTS, OBLIGATIONS AND POWER OF DPOS
+Requirements 
+- No hard definition, apply reasonable standard 
+- Logical to conclude that a reasonable person would consider the nature of the data processing activity of an organization in determining the requirements – the greater volume and the more sensitive, the higher the qualities and knowledge the DPO should possess 
+- The exact qualities and knowledge can be determined by a combination of certifications – e.g. CIPM, CIPP or similar
+
+Responsibilities 
+Obligations 
+- Ensure that orgs comply with PDPA – s 11(3) PDPA 
+o Advise orgs how to put in place adequate protection for data under their control 
+o Develop and implement privacy policies and practices 
+o Ensure consent has been obtained and proper notification given before the CUD of personal data 
+o Referencing from Art 39 GDPR – DPOs probably have a responsibility to advise their colleagues and monitor compliance via training and awareness raising, running audits, advising regarding DPIA and cooperating with supervisory authorities 
+* Not super clear whether the DPO is solely responsible for all this in Singapore, since it’s not stated in PDPA 
+- Orgs should develop guidelines to set out when the DPO must be consulted 
+
+Additional obligation in M Stars Movers – “fostering a data protection culture and accountability among employees and communicating personal data protection policies to stakeholders” 
+
+Power of DPOs 
+Empowerment of DPOs
+- DPOs must be adequately empowered in order for them to fulfil their obligations to a reasonable level 
+- An adequately empowered DPO ought to also be part of the senior management team, entrusted with the responsibility and provided with the resources he needs to discharge his responsibilities 
+- Borrowing empowerment requirements from GDPR (not in PDPA):
+o Adequate resources must be provided 
+o DPO can operate independently of instruction and should report directly to the highest level of management (Directors, CEO or equivalent) 
+* Lanx notes: this is difficult in practice, particularly for large companies 
+o DPOs cannot be dismissed or penalized for performing their task 
+- Immunity from dismissal?
+o Too far, according to Lanx
+o We already have adequate protections against unfair dismissal 
+o Direct access to highest management should be sufficient for DPOs to operate without fear 
+o Immunity from dismissal runs counter to Singapore’s capitalism and laissez-faire approach to the economy 
+
+What if the company blames the employees/vendors/DPO?
+- E.g. sue the DPO for negligence
+- This happens in real life – but it depends on the situation 
+o DPO not personally liable under the PDPA as an employee of the org 
+o Law firms which provide DPO services may incur professional liability 
+
+Professionalizing the role of DPO in Singapore?
+At the International Association of Privacy Professionals (“IAPP”) Asia Privacy Forum 2016, Deputy Commissioner Yeong Zee Kin remarked that the PDPC is looking to professionalizing DPOs as a career in Singapore to improve compliance with the PDPA 
+- PDPC recently awarded a DPO certification project that would give advanced DPO training in addition to the current Fundamentals course 
+- There has been market talk among DPOs about the creation of a Singapore DPO association – a platform for knowledge sharing and continuous training 
+
+Benefits of professionalizing 
+- Improved accountability 
+- Trained DPOs (particularly those with technical knowledge) are essential for tech-enabled businesses 
+- Job creation – creates a new profession 
+- Industrialization of DPOs – providing DPO services to multiple companies as a business 
+
+CONCEPTUAL 
+GDPR DPO comparison 
+DPO appointment – under Art 37 of the GDPR, it is now mandatory for organisations to have a DPO where:
+- a) core activities require regular, systematic and large scale monitoring of data subjects; or
+- b) large scale processing of sensitive data.
+
+Qualification of DPO:
+- Recital 97 suggests the level of expert knowledge “should be determined in particular according to the data processing operations carried out and the protection required for the personal data processed by the controller or the processor”.
+
+According to WP29, DPO is the cornerstone of accountability and appointing a DPO can facilitate compliance 
+
+Art 39 GDPR – DPO should :
+- Advise colleagues and monitor org’s privacy compliance 
+- Conduct training and awareness raising 
+- Draft and implement privacy policy 
+- Run audits 
+- Advise regarding DPIA 
+- Lead cooperation with supervisory authorities 
+
+Empowerment of DPOs
+- Art 38 of the GDPR provides DPOs with the power to fulfil their obligations:
+o (a) adequate resources must be provided;
+o (b) DPOs can operate independently of instruction and should report directly to the highest level of management (eg, the board of directors or the CEO or equivalent); and
+o (c) DPOs cannot be dismissed or penalised for performing their task.
+
+Q from prof – why not (c) in Singapore? Because employee rights aren’t a thing here. 
+
+
+CIPM requirements 
+3 tasks to implement privacy management
+- Define org’s privacy vision and privacy mission
+- Develop privacy strategy 
+- Structure your privacy team 
+
+Create privacy vision and mission statements 
+- The value the org places on privacy 
+- Desired organizational objectives 
+- Strategies to achieve intended outcomes 
+- Clarification of roles and responsibilities 
+
+Privacy programme scope – org must: 
+- Understand the global perspective in order to meet legal, cultural and personal expectations, e.g. balancing business vs consumer interests 
+- Customize privacy approaches from both global and local perspectives 
+- Be aware of privacy challenges – translations of laws and regulations, how actively laws are enforced in various jurisdictions – European high penalties, vs Malaysia no enforcement cases at all 
+- Monitor all legal compliance factors in both local and global markets 
+
+Develop privacy strategy 
+- Identify stakeholders and internal partnerships – e.g. C-suite management, cutting across all departments 
+- Leverage key functions – legal, HR, IT, compliance, sales and marketing 
+- Create a process for interfacing within an org – privacy policy and practices 
+- Develop data governance strategy for personal information 
+- Conduct privacy workshops for stakeholders 
+
+Develop privacy strategy – data governance
+- Key – no “one size fits all” strategy 
+- Address major laws or regulations that you need to comply with 
+o At a high level, most laws and regulations impose broadly the same obligations – look at individual differences after ensuring compliance with the common ones 
+- When seeking a strategy, consider the strictest standard, but don’t forget the local standard 
+o E.g. can plan most of your data policy around GDPR. But don’t forget that PDPA imposes DPO obligation on all orgs, unlike GDPR. 
+
+Privacy team 
+
+Data Protection Impact Assessment 
+A key component of the wider DPbD approach could be conducting a Data Protection Impact Assessment (DPIA) for each project. This involves identifying, assessing and addressing personal data protection risks based on the organisation’s functions, needs and processes. By conducting a DPIA, an organisation would be better positioned to assess if the handling of personal data complies with the PDPA or data protection best practices, and implement appropriate technical or organisational measures to safeguard against data protection risks to individuals.
+
+This is a key component of the wider DPbD approach – conduct DPIA for each project 
+
+This is a deeper assessment of the DP compliance for the project 
+
+Involves identifying, assessing and addressing PD protection based on the org’s functions, needs and processes
+- Would better position the org to assess if the handling of PD complies with PDPA, and implement technical measures to safeguard against data breaches
+
+Data protection by design and default 
+An effective data protection policy is one that can be operationalised into business processes. One way to translate data protection policies to business processes is by adopting a Data Protection by Design (DPbD) approach in which organisations consider the protection of personal data from the earliest possible design stage of any project, and throughout the project’s operational lifecycle. This can be as simple as putting data protection considerations in the foreground of any project development instead of as an afterthought.
+
+The basic idea
+- Data protection policies are incorporated into the design of the company’s systems or processes – privacy by design 
+- Use of data protection tools like data inventory maps or data flow diagrams to track and manage responsibility for PD at various stages of the informational lifecycle
+
+Audit 
+- Many orgs include audit rights into their contracts 
+o This is intrusive, but it’s the only way to ensure compliance of the intermediary 
+o In fact, this is a requirement under the GDPR 
+- Audits are commonly done via phishing exercises 
+o Stats show that 60-70% of employees would click on the link 
+
+Accountability 
+FUNDAMENTALS OF THE ACCOUNTABILITY PRINCIPLE 
+General 
+- Academic opinion that traditional approaches to DP (trying to keep data within certain boundaries, drawn at the point when the data was first collected) are no longer effective. Data controllers who respect the consent boundaries find themselves disadvantaged and unable to use data for unanticipated purposes. Those who don’t, make a mockery of consent. 
+- “Consent fatigue” – it is no longer practical to require consumers to give consent to every instance of data collection. Consent fatigue has been blamed for consumers’ behavior of clicking through terms of use/privacy policies without reading them.
+- Weitzner et al suggested that the need for consumers to be informed is misplaced. Should instead give access to redress instead, according to the accountability principle. 
+o Privacy by design – building it into our systems and processes, instead of bolting it on as an add-on 
+
+The Galway Project: 
+- Accountability requires that orgs take responsibility for its protection and appropriate use, beyond mere legal requirements, and they are accountable for any misuse of the information that is in their care 
+- This principle does not redefine privacy or replace existing law or regulation – just shifts the focus of privacy governance to an org’s ability to demonstrate its capacity to achieve specified objectives 
+- 5 essential elements of an accountability approach
+o Organizational commitment to accountability and adoption of internal policies consistent with external criteria 
+o Mechanisms to put privacy policies into effect, including tools, training and education – DPO, DPMP
+o Systems for internal, ongoing oversight and assurance reviews and external verification 
+o Transparency and mechanisms for individual participation 
+o Means for remediation and external enforcement 
+- Elaborations 
+o Proactive in nature, goes beyond compliance 
+o Data controller ought to answer and provide an account to regulators and individuals when data breach occurs 
+
+The Paris Project – proposed a set of common fundamentals to be demonstrated and measured (e.g. policies, executive oversight, staffing and delegation, education and awareness etc.).
+
+
+ACCOUNTABILITY IN SINGAPORE – HISTORICAL AND CURRENT 
+Historical 
+Broad historical overview 
+- In 2019, PDPC changed terminology to accountability, revised Advisory Guidelines on Key Concepts 
+o E.g. added to part III --> Part III – General rules with respect to protection of and accountability for personal data 
+o Explicit reference to accountability to reflect an increased emphasis on accountability and to make clearer that orgs are accountable for PD in their possession, and are expected to be able to demonstrate compliance 
+- PDPC introduced accountability tools for orgs (e.g. PDPA Assessment Tool for Organizations) 
+- PDPC introduced Data Protection Trustmark certification 
+- Amended PDPA to mandate certain accountability practices 
+- Feb 2021 – Accountability introduced to revised PDPA 
+o Existing accountability stuff – requirement to put in place privacy policy and notice, appoint DPO 
+o New requirements
+* Mandatory breach notification 
+* Orgs must conduct DPIA when relying on legitimate interest or deemed consent 
+* New offences for mishandling of PD 
+* Inclusion of intermediary of public agency 
+
+New developments 
+- Legitimate interests exception (see PDPA Obligations 1 doc for application) – org can CUD PD for detecting or preventing illegal activities or threats to physical safety, ensuring IT and network security, preventing misuse of services. 
+o To rely on the LI exception, orgs must, inter alia, assess the likely adverse effect to the individuals, and implement measures to eliminate, reduce the likelihood of, or mitigate the identified adverse effect 
+- Deemed consent – orgs have to ascertain that the CUD is not likely to have any adverse effect on the individual after implementing measures to eliminate/reduce likelihood/mitigate the adverse effect to the individual 
+
+Under the PDPA 
+Not an explicit principle, put the accountability principle is embedded in in the substantive obligations of the PDPA 
+- Model Code before the PDPA made explicit reference to accountability 
+- Model Code also had these features of accountability which were brought over to the PDPA 
+o Designation of a person who is accountable for the org’s compliance 
+o Obligation on the org to ensure that in transfers, the recipient would process data consistently with the Model Code
+o Required org to implement policies and procedures to give effect to the principles 
+- Identification of to whom the data controller is answerable in the Commission’s Key Concepts Guidelines – org is answerable to data subjects and the Commission 
+- Flexibility (a feature of the accountability principle) granted to orgs in cross-border transfers – no hard requirements or stipulated contractual clauses, orgs are given the freedom to impose obligations on foreign recipients of personal data 
+
+PDPC is shifting towards accountability: 
+- Trustmark Certification Program, DPO Certification, DPMP, Privacy by Design, DPIA, rules on managing data breaches 
+
+Specific provisions 
+- 11(2) – an organization is responsible for PD in its possession and control 
+- 11(3) – requirement to have a DPO 
+- 12(a) – requirement to develop and implement privacy policy 
+o Demonstrates accountability to external parties by informing them of the ways in which the DPO handles personal data
+
+
+ACCOUNTABILITY IN PRACTICE 
+Data protection officers – mandatory under s 11(3)
+
+Policies and practices
+- Statutory obligation to implement policies and practices necessary to meet obligations under the PDPA 
+- This obligation has been subject to enforcement by the Commission 
+
+Data Protection Management Programme 
+- DPMP Guide sets out a comprehensive approach to designing, implementing or administering a DPMP 
+- The implementation of a DPMP evinces accountability to regulators 
+- DPMP functions as risk identification and management 
+o Risk of policies becoming outdated 
+o Risk introduced when products or policies undergo changes 
+o Risk of data breaches through the establishment of procedures for effective management and reporting of data breaches 
+
+Mechanisms to put privacy policies into effect, including tools, training and education 
+- This looks like “privacy by design” – implementation of processes and training etc. 
+- Staff training (an important aspect of accountability) – under PDPA, orgs have to “communicate to its staff information about the org’s policies and practices”. 
+
+Systems for internal, ongoing oversight, internal assurance reviews and external verification
+- WP29 recommends implementing procedures to ensure that measures work not only in paper but also in practice 
+- Can take the form of internal audits 
+
+Transparency and mechanisms for individual participation
+- PDPA – express obligation for an org to make information available on request about its policies and practices and its complaint process (the openness obligation)
+- Also obligation to provide the business contact info of the DPO, who should be readily accessible from Singapore during business hours 
+- This author thinks that consent is not eclipsed despite the PDPA anticipating situations where consent is not required – privacy notice forms the basis of consent etc. etc. 
+- Access and correction obligations – accountability to individuals 
+- Retention limitation obligation 
+
+Means for remediation and external enforcement
+- Organizations must anticipate failures of policies and practices – must provide for a recourse mechanism to deal with individuals harmed by such failures 
+- Under PDPA, org has to “develop a process to receive and respond to complaints that may arise with respect to the application of [the PDPA]”. 
+- PDPA also empowers the Commission to refer any complaint to mediation’
+
+DPO certification
+Options 
+- CIPP/Asia, by International Association of Privacy Professionals (IAPP) 
+o IAPP is the leading international body that promotes data protection and privacy laws. Provides training and certification 
+o CIPP/Asia provides privacy laws, regulations and frameworks of Singapore, HK and India 
+- Certified Information Privacy Manager cert (CIPM) – translates legal knowledge into practical and operational expertise 
+- Practitioner Certificate in Personal Data Protection, by PDPA
+o Similar to CIPM but in the local context 
+
+ACCOUNTABILITY IN SINGAPORE – NEXT STEPS 
+Data protection trust mark 
+- A voluntary certification system 
+
+Cross-border transfers 
+
+
+ACCOUNTABILITY WORLDWIDE 
+The principle of accountability features in many global privacy frameworks 
+- EU DP Directive – not explicitly stated but some say that it is a feature in the cross-border data transfer rules in the EU DPD 
+- PIPEDA – accountability is emphasized in cross-border transfers 
+- APEC privacy framework – Art IX – “A personal information controller should be accountable for complying with measures that give effect to the Principle stated above.” 
+o Gave rise to the APEC CBPR, to which the principle of accountability is central 
+- Recent developments suggest that the principle plays a more foundational role than just in cross-border data transfers – in response to recent technological developments  
+- WP29 also picked up on the theme of accountability – published Opinion 3/2010 on the Principle of Accountability 
+o 2 tier accountability mechanism – give incentives to data controllers who exceed the minimum legal requirements 
+- OECD – goes beyond identifying the data controller, now also identifies to whom an explanation ought to be rendered 
+o 14. A data controller should be accountable for complying with measures which give effect to data protection principles 
+o Data controller has to be able to demonstrate its privacy management program at the request of a competent privacy enforcement authority or another entity responsible for promoting adherence to a code of conduct 
+
+2
+
+

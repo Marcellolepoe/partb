@@ -1,0 +1,323 @@
+During investigation 
+What happens at the first instance of meeting an accused: 
+1. Bail Issues --> Advise him on to arrange a bailor / personal bond without sureties 
+a. Meant to secure attendance for investigations or court while preserving golden threat (person is innocent until proven guilty) 
+b. Bailable vs non-bailable 
+i. Bailable: 5th column of 1st schedule (s2CPC) 
+1. S352 criminal force on grave and sudden provocation 
+2. s354(1) Assault with intent to outrage modesty 
+3. Generally offered as right s92(1) CPC) 
+4. BUT if punishable by imprisonment, can prevent release 
+ii. Non-bailable: any offence other than bailable offence 
+1. S354(2) Assault with intent to outrage modesty <14 years of age 
+2. S379 Theft 
+3. Discretionary s95(1) CPC + must be released by sergeant or above / court 
+4. BUT if not reasonable grounds for believing non-bailable offence must release 
+a. Factors in Yang Yin 
+iii. Life or death imprisonment / belief accused will not attend / Extraction Act auto NO bail 
+c. Types of bail 
+i. Police / agency bail (Arrest without warrant, must be produced before magistrates court within 48 hours) 
+ii. Court bail. (After accused is brought before court. Replaces police bail, meant to secure future court attendance) 
+d. Conditions of bail 
+i. S94 CPC 
+1. Surrender passport, be available for investigation on the day time and place, non-interference of witnesses 
+2. Ensure that bail bond executed by one or more sufficient sureties 
+e. Arrest without warrant while on bail 
+i. If you don’t show up 
+ii. If you leave court room during recess of court 
+iii. If court believes got reasonable grounds that you unlikely to surrender to custody 
+iv. If court believes high likelihood of breaking bail or non-surrender 
+f. Offence of absconding 
+i. Fine and imprisonment <3 (S103(5)CPC
+g. Quantum s96 CPC 
+i. Ewe Pang Kooi ==> fundamentally to ensure bailor does not shrink from his or her duties  
+h. Bailor must be
+i. SGP / PR, >21, not bankrupt and not involved in case 
+
+2. Access to accused in lock-up / remand. 
+a. Can appoint lawyer to resist remand for 7 days or argue for bail 
+3. Alibi notice must be given to DPP
+a. S278 (a) and (b) timelines (starts when accused is charged within 14 days)  
+
+4. Make sure you advise the following: 
+a. Statements recorded. 
+b. S23 CPC “Cautioned statement” from accused only (Note ITP exception below) 
+i. Form: 
+1. “You have been charged… Do you want to say something” 
+2. Recorded when investigations are complete or close to being complete 
+ii. Purpose: 
+1. Inform accused of the charge he is facing and give him an opportunity of stating any fact on which he intends to rely in his defence and to further warn that if he doesn’t say anything, his silence may give rise to an adverse inference (Sim Cheoh v PP). Although note how much defence to reveal per Khoo Kwoon Hain v PP and Tay Kok Poh Ronnie, 
+2. Recorded in writing or audio visual (s23(3) CPC) 
+3. Must be read over, translated if necessary and signed (s23(3A) CPC) 
+4. Where recorded in audio-visual form, consider exceptions (s22(3B) 
+
+c. S 22 CPC “Long statement” (Note ITP exception below)
+i. Power of police to record statements from witness (s22(1) 
+1. If compromised by manifest irregularities (procedural requirements, court has discretion to exclude evidence if prejudicial effect exceed probative value) Kadar
+2. What circumstances are excluded/inadmissible: Explanation 2 s258 CPC 
+ii. No duty to inform witness of existence of privilege of self-incrimination Mazlan
+iii. Must be recorded in writing or audio visual (s22(3) CPC) 
+iv. Must be read over to person, interpreted if necessary and signed (s22(4) CPC) 
+v. Where recorded in audio-visual form, consider exceptions (s22(5) 
+d. Do not collude, destroy, conceal or screen evidence (s201, s213 PC) 
+e. Lawyer also cannot concoct evidence (Rule 9)(2)(g) PCR 
+f. Give pamphlet of rights
+g. Whether need Appropriate Adults Scheme 
+i. Where accused is <21, put on record so that next time can challenge admissibility of statement made without AA present 
+
+
+5. On lawyer’s end once client is charged: 
+a. Decide whether to make visual representation to AGC 
+i. Reduce charge
+ii. Lesser number of charges 
+iii. Withdraw charge 
+b. Whether to plead guilty or claim trial 
+c. Note the professional ethics per PCR that apply to you (see notes) 
+
+First appearance in court 
+1. Accused is charged in court where the charged is framed, read out and explained (s158(a) CPC) 
+2. Accused decides whether he contest and claim trial or not contest and plead guilty. 
+a. If accused wishes to PG, court will fix date for him to Plead Guilty 
+
+3. If guilt is uncontested, the accused pleads guilty:
+a. Plead Guilty
+i. Validity ==> cannot have qualification. 
+1. If accused pleads guilty on charge, plea is recorded and may be convicted on it s227(1) 
+2. Court must check before it records PG s227(2) 
+(a) If accused is not represented, he understands nature and consequences and without qualification. 
+(b) If represented, lawyer confirms accused understands nature and consequences and without qualification.  
+(c) See factors in MD Rafiqul v PP on when court should not accept an accused PG 
+ii. Requirements 
+1. Does not need to admit to every single fact of statement of facts, as long as admit to essential ingredients of the offence. 
+2. Must not qualify the plea 
+3. Note that there is not “statement of facts” provision. Parties will agree upon it. Biplob Hossain v PP factors 
+4. PP cannot introduce more facts which accused person has not already accepted in his PG s228 CPC 
+iii. Procedure
+1. Confirm accused wishes to PG (See factors in MD Rafiqul v PP on when court should not accept an accused PG) 
+2. Read out Statement of facts. 
+3. Confirm accused agreed to SOF without qualifications. 
+4. Convict based on SOF 
+5. What are things taken into consideration (TIC) 
+iv. What is appealable? 
+v. If you PG, you cannot appeal on the conviction but on the sentencing (s374(3) and s375 CPC)
+b. TICs (Charges taken into consideration) s148 (1) 
+i. Purpose
+1. This relates to outstanding offences that accused admits to have committed. 
+2. This impacts purposes of sentencing (s148 CPC) 
+ii. Procedure 
+1. Court convicts accused after he accepts SOF without qualification 
+2. PP applies for remaining charges to be TIC-ed
+3. Accused admit and consent to remaining charges being TIC-ed
+
+c. What are community sentences? What are the principles governing consecutive imprisonment terms? (NB: also relevant for claim trial cases)
+If guilt is contested, the accused does not plead guilty: 
+4. If guilt is contested, the accused claims trial:
+a. Does it fall under s159 CPC (offence is specified in second schedule and tried in District Court) 
+b. What are the applicable disclosure rules? S159 CDC 
+i. Common law disclosure rules, Kadar and Nabil (not tested) 
+c. Criminal case disclosure conference (s160 CDC)
+i. Applicability 
+1. Provisions below are subjected to s160 CDC as they are specified in Second schedule CPC and to be tried in DC (s159(1). 
+(a) S352 criminal force on grave and sudden provocation 
+(b) s354(1) Assault with intent to outrage modesty 
+(c) S354(2) Assault with intent to outrage modesty <14 years of age 
+(d) S379 Theft 
+2. You can opt out of CCDC if you inform before on or before first CCDC fixed by court s161(1). 
+ii. Procedure 
+1. Case for prosecution 
+(a) Contents (s162(1) CPC)
+i. Charge 
+ii. Summary of facts
+iii. List of witnesses 
+iv. List of exhibits 
+v. Written statement made by accused
+vi. Every statement made by accused that they intend to adduce as evidence.
+2. Case for defence 
+(a) Contents s165(1)
+i. Summary of defence to the charge and facts in support of defence
+ii. List of names of witnesses 
+iii. List of exhibits 
+iv. Object to issue of fact or law that DPP said 
+3. Prosecution supplementary bundle (PSB) s166(1) 
+(a) Within 2 weeks after Case for defence was served 
+i. Contains every other written statement given by accused 
+ii. Transcript of audio recording of statements
+iii. Documents exhibits 
+iv. Criminal records (upon payment of prescribed fee) 
+(b) If Case for defence not served, no need supplementary bundle s166(3) 
+4. Defence bundle of exhibits s166(4) 
+(a) 2 weeks after Case for defence served 
+iii. Timeline 
+1. 1st CCDC s161 (1) 
+(a) Must be >8 weeks from date that accused refuses to plead guilty or does not plead or claims trial. 
+(b) Prosecution to file, serve CFP not later than 2 weeks from 1st CCDC 
+2. 2nd CCDC (> 7 days from filing of CFP) s161(4) 
+(a) Defence to file, serve CFD < 2 weeks from 2nd CCDC 
+(b) Prosecution to serve PSB < 2 weeks of CFD, but if not CFD, no need PSB (s166(1) 
+(c) Defence to serve copy of exhibits in accused possession <  2 weeks after CFD
+3. 3rd CCDC (any time after CFD filed and PSB is served) s163(2) CPC 
+(a) Trial dates are fixed s167 CPC
+iv. Breach of CCDC 
+1. Elements s169(1) 
+(a) Fail to serve CFP or CFD
+(b) CFP or CFD doesn’t contain necessary documents in s165(1), s166(1) 
+2. Result 
+(a) Court draw adverse inferences if it thinks fit s169(1) 
+(b) May order discharge not amounting to an acquittal if elements in s169(2) are satisfied. 
+v. Accused don’t have to personally attend CCDC if lawyer indicates (s167 CPC) 
+vi. No need to serve on accused personally but on counsel. 
+vii. CFD admissible during XX or to impeach accused credit (s258A CPC) and can refuse CFD if prejudicial effect outweighs probative value 
+viii. CFP can be admitted if part of prosecutions opening statement (s258B CPC) 
+
+
+Procedure at trial (s230(1) CPC)
+1. Accused can still plead guilty on the first day of trial 
+d. If accused plead guilty 
+i. Charge read out, explained and plea taken (refer above to PG) s230(1)(b) CPC
+ii. Skip this section on Trial 
+e. If accused doesn’t plead guilty 
+i. Charges read out explained and accused claims trial s230(1)(b) CPC
+2. Prosecution 
+a. Opening Statement (s230(1)(d) CPC) 
+b. Prosecutions witnesses 
+i. Process per s230(1)(e)
+ii. Adverse inference drawn per s116(g) EA 
+1. Materiality of the witnesses considered 
+2. Failure to offer witness to defence 
+iii. Prosecution can call witness not in CFP or CFD if notice is given to court and other parties s231(1) CPC. 
+iv. Can allow for live video evidence if: 
+1. Witness below 18, 
+2. Offence is specified in s281(2) [note that the provisions above do not fall under this] 
+c. Witness statements during investigation
+i. Witness statements generally inadmissible as hearsay 
+1. Any statement made by person other than accused during course of investigation is inadmissible (s259(1) CPC) 
+d. Accused person’s statements are generally admissible s258 CPC
+i. Unless 
+1. Subject to ITP (inducement, threat or promise) 
+2. Voluntariness (ie no ITP)  Chai Chien Wei Kelvin 
+3. Having reference to the charge
+4. Made by person of authority 
+5. Must be sergeant and above (s258(2) CPC) 
+ii. Common law discretion to exclude admissible evidence (Kadar, Sulaiman) 
+e. Case for defence admissible (s258A CPC read with s163(1) or s215(1) 
+i. Admissible during trial and witnesses may be used in XX and for purpose of impeaching that person’s credit 
+f. Defence can invite the court to dismiss the case if no case to answer (s230(1)(f). 
+g. Court can alter the charge or frame new charge (s230(1)(g) 
+i. If accused then pleads guilty to new charge see Div 3 part 11 
+3. Ancillary hearings 
+a. Procedure
+i. Occurs when a party objects to the admissibility of any statement going to be tendered at any stage of the trial. S279 CPC. Usually when defence challenges admissibility of an accused statement 
+ii. Held before case for prosecution is completed. (PP v Parthiban Kanapathy) 
+iii. S279(3) for procedure 
+b. Rationale 
+i. Accused steps into witness box to give evidence on oath to challenge (PP v Parthiban Kanapathy)
+c. Orders to be made: 
+i. Ask parties to make further submissions if doubtful (s279(7) CPC) 
+ii. Disregard evidence (s279(8) CPC)
+iii. Admit evidence s279(9) CPC) 
+4. Court determines on the evidence supplied by prosecutor’s witnesses, whether there is a case to be answered. 
+a. If so, calls on accused to give defence (s230(1)(j) 
+b. If no case, court order a discharge amounting to an acquittal. 
+5. Defence 
+a. Oath s291(1) 
+b. Opening statement s230(1)(o) 
+c. Defence witnesses s230(1)(p) 
+d. Defence can compel witnesses for examination whether or not he has previously been examined s230(1)(q) 
+e. Prosecution’s rebuttal s230(1)(t) 
+6. Closing submissions 
+a. Made by prosecution s230(1)(u)
+b. Made by defence 
+c. Prosecution’s right of final reply s230(1)(v)
+7. Court decision 
+a. Not guilty – discharge amounting to acquittal 
+i. Note DPP must prove Beyond reasonable doubt (PP v GCK)
+b. Guilty – must record conviction and comply with s228 
+8. Other misc things
+a. Counsel can act for 2 or more co-accused but note Rule 20 LPA. 
+b. Summons to appear issued by the court: form and content found in s115 CPC, s116 CPC 
+
+
+
+After conviction, before sentencing.
+1. Mitigating Plead s228 (3)(4) CPC
+a. Must make sure that it does not materially affect any legal condition on which the offence is charged s228 (4) if not will reject earlier plea of guilty. 
+b. This occurs when accused has plead guilty, has been convicted but not yet sentenced s228(4)
+2. Once convicted on one or more charges, PP can apply to withdraw remaining charge (s147 CPC). This amounts to an acquittal s147(2) CPC
+3. Newton Hearing (only available upon PG)  
+a. Material fact in dispute such as aggravating factor / mitigating factor that only goes towards sentencing and not guilt of accused 
+b. Is predicated on valid guilty plea 
+c. Party asserting a fact that is contested has BOP (Chan yoke ling Catherine vs PP)
+i. PP beyond reasonable doubt, Df balance of probabilities 
+d. Quite rare.
+4. Offender’s antecedents s228(1),(2) CPC 
+a. Can take into account a compounded offence for a more holistic approach in sentencing 
+5. Prosecutor should explain charge in sentencing submissions s228(1) CPC
+
+Sentencing 
+1. In open court (s298(1) CPC 
+2. Generally, accused must be there s298(10) CPC but exception per s154(1) CPC 
+3. Orders of court: 
+a. Sentencing 
+i. Sentencing will start from the date it was passed. S318 CPC 
+1. Can ask for deferment (BOP on df) but consider factors in Loh Kok Siew v PP 
+2. Can backdate the sentence by equating it to the date of arrest if the accused was remanded (s318) 
+ii. Types of sentencing 
+1. Consecutive s306(2) CPC 
+a. Custodial sentences for unrelated offences (PP v Raveen) 
+b. 3 distinct offences, at least 2 must run consecutively. S307(1) CPC 
+c. Where mix of related and unrelated offences, unrelated sentences run consecutively with the related one offence (PP v Raveen)
+2. Concurrent s306(2) CPC
+a. One transaction rule (Mohamed Shoufee) 
+i. Proximity of time, purpose and location 
+ii. Whether offending acts offend the same legal interest
+b. Totality principle (Mohamed Shoufee)
+c. Note: For life imprisonment, other sentences will run concurrently. S307(2) CPC
+3. District court cannot impose total term imprisonment that extends twice which they are allowed to impose s306(4) ie must be < 10 years. 
+iii. Maximum sentence 
+1. May be imposed even in PG cases 
+2. Identify range of conduct characteristics 
+3. Nature of offence 
+a. Aggravating features 
+b. Disposal or property by Court (s364(1) 
+c. Fine 
+i. Where maximum amount is not stated in law, cannot be excessive. s319(1)(a) CPC  
+ii. They cannot run concurrently but stack up. 
+iii. May allow extension of time, and paid in instalments (s319(1)(b) 
+iv. Magistrate court < $10,000, District court < $30,000, High court no limit
+Selected Paragraphs: 
+Impeachment: To impeach a witness’ credit is to disparage or undermine his character and moral reliability and worth. Kwang Boon Keong Peter v PP at [19] The purpose of the impeachment of a witness’s credit is to undermine his credibility by showing that his testimony in court should not be believed because he is of such a character and moral make-up that he is one who is incapable of speaking the whole truth under oath and should not be relied on.
+
+Conduct of impeachment
+1. Establish material parts of the witness’s evidence that are inconsistent with his/her previous statements
+2. Highlight the material discrepancies in the statements  (usually by underlining in red), and cover up the prejudicial  portions (if any)
+3. Apply under s157(c) of EA to cross examine witness on the statement and tender copy of statement to court for court to determine whether material discrepancies exist
+4. Court determines if there are serious/material discrepancies. If Court deems the discrepancies to be minor or immaterial, impeachment process will not be allowed to proceed.
+5. If court determines that there are serious/material discrepancies, impeachment process continues.
+6. Witness is asked whether he made the statement voluntarily. If witness denies making the statement, the statement must be proved by calling the maker of the statement
+7. After statement is admitted, the discrepancies are pointed out to the witness, and he is given a chance to explain
+8. If the witness’s explanation is satisfactory, his credit is saved
+Effect of successful impeachmentNo need to rule on whether witness is impeached; only need to evaluate evidence in entiretyLoganatha Venkatesan v PP [2000] 2 SLR(R) 904
+[56]: there is no requirement that the trial judge must, at any stage of the trial, make a ruling on whether the credit of the witness is impeached. All that is required is that the court must consider the discrepancies and the explanation proffered by the witness for the purpose of an overall assessment of his credibility. In this regard, it is important to bear in mind that an impeachment of the witness’s credit does not automatically lead to a total rejection of his evidence. 
+
+The court must carefully scrutinise the whole of the evidence to determine which aspect might be true and which aspect should be disregarded... Thus, regardless of whether his credit is impeached, the duty of the court remains, that is, to evaluate the evidence in its entirety to determine which aspect to believe.
+
+Sentencing Philosophy and principles:
+Sentencing overview
+* Sentencing only takes place if there is a conviction (including a successful appeal against acquittal by the Prosecution)
+* Not much controversy when it comes to conventional sentences of fines and imprisonment for individual charges – courts will usually have regard to (1) the prescribed punishment for the offence and (2) any sentencing guideline judgments / sentencing norms
+o Court of Appeal and High Court have been very active in promulgating sentencing guideline judgments in recent times
+o Optional: For a good overview (and example) of such guideline judgments – see Ng Kean Meng Terence v PP [2017] 2 SLR 449
+Sentencing philosophy
+Holistic assessment as sentencing is not a scientific exercise (Lee Shing Chan)
+
+Key sentencing principles and sentencing pillars (Angliss SG):
+* Retribution: punishment must reflect gravity of offence
+* Deterrence: deter likeminded offenders (general deterrence) and/or deter a particular offender from reoffending (specific deterrence)
+* Prevention: take offender out of circulation to protect public (e.g. preventive detention)
+* Rehabilitation: targeted at reform - underpins the sentencing of youthful offenders and adult offenders who may qualify for community sentences
+
+*Sentencing often entails identifying the most relevant principle and proceeding from there. There can certainly be competing considerations (e.g. deterrence v rehabilitation when it comes to youthful offenders).
+
+Need to explain reason behind sentencing
+insufficient to merely allude to deterrence as the basis for imposing a stiff sentence, especially in instances where it was invoked as a principal sentencing consideration or when existing guidelines were not followed. In such instances, the precise reasons for invoking deterrence or for choosing to depart from existing guidelines together with the attendant judicial concerns had to be clearly and unambiguously articulated
+

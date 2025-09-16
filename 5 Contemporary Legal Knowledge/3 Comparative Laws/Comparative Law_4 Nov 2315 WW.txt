@@ -1,0 +1,495 @@
+Comparative Law
+
+Table of Contents
+Context – the purpose of this course	3
+Civil Law Tradition – Conceptual Understanding	3
+Civil Law as a Mentality	3
+Civil Law - Methodology	3
+Legislative supremacy	3
+Role of judges	3
+Challenge of Incompleteness	4
+Jurisdictional Differences	4
+Scope + Application of Codes	4
+Overview of Major Codes (German/French)	5
+German Code - BGB	5
+Influence in Asia	5
+French Code – Code Civil	5
+How to Use the Codes	7
+Case Analysis	7
+Hypothetical 1	7
+Negotiorum gestio [Quasi-contractual claim]	9
+Overview	9
+German – Mandate / NG	9
+Claims under NG	10
+Claims available	10
+Establishing a Claim under NG (aka Justified Actual NG)	10
+Reimbursement vs Damages	10
+Examples	11
+Law of Delictual Liability [equivalent to Tort]	12
+Comparisons between Jurisdictions	12
+French	12
+German	13
+Japan	14
+China	14
+Unilaterally Binding Contracts – Civil Law	15
+Gifts	15
+Germany	15
+China	15
+Taiwan	15
+Japan	16
+South Korea	16
+France	16
+Mandate(s) – gratituously performed work or service	17
+Principle of Good Faith (+ Absence of Trust & Equity Law)	18
+General Provisions on the Good Faith Principle	18
+Applying the principle of good faith	18
+Example of gap-filling	19
+Absence of Trust Law / Equity Law	20
+Enforced Performance	21
+Principles	21
+Principles relating to Secondary Rights	21
+Help me I’m scared	22
+
+
+
+
+Context – the purpose of this course 
+To aid future communication with civil law counterparts 
+- Give a general idea of civil law methodology and mentality
+- Highlight some of the key legal concepts that don’t exist in common law 
+Civil Law Tradition – Conceptual Understanding
+
+Features:
+* Large resident judiciaries
+* Judge-controlled procedure (investigative cf adversarial in common law)
+* Denial of judicial law-making --> instead courts are focused on articulating + applying the law
+* Historical prestige of law professors
+* Primacy to codes (esp Civil Code)
+o Case law not a formal “source” of law
+
+Civil Law as a Mentality1. Primacy to the state vs other potential sources of legal normativity (e.g. religious norms)
+
+2. Civil law being a “rational expression” and organisation reflected in “order”
+* Codes having deductive logic […] rationality all the way down
+* Very logic-oriented, cf. common law, where the life of the law is experience, not logic. 
+
+3. Law as a set of established rules and institutions (Merryman & Perdomo)
+- NOT as a process for the perception and resolution of problems (as common law systems perceive it) 
+- This is a difference in how common law vs civil law sees the whole paradigm of law 
+
+Civil Law - MethodologyLegislative supremacy* Art 5 Code Civil: judges are forbidden to decided cases submitted to them by way of general and regulatory provisions
+* Other sources include “general principles”, “la doctrine” (academic opinion), and “la jurisprudence” (case law)
+* Subjectivity – role of the subject + rights
+Role of judges* Judges as mouthpieces of the law (Montesquieu)
+* No stare decisis (but precedent can be persuasive / protective)
+o Judicial decisions are not a formal source of law
+
+Cassation: type of judicial review to determine whether the rules of law were correctly or incorrectly applied in lower courts (error of law --> vacate and remand)
+Challenge of IncompletenessPortalis: “A code, however complete it may seem, is no sooner finished than thousands of unexpected questions present themselves to the magistrate.”
+
+A code, once drafted, remains as written, but the people continue moving and changing. Laws need to be interpreted to apply to the real world 
+Jurisdictional DifferencesGermany (Pandectists):
+* More historical, organic perspective (not out of revolution)
+* More emphasis on case law and longer judgments
+* Longer and more elaborate code which is more technical
+Cf the French and Code Civil
+- Which is shorter and with less technical language Scope + Application of CodesCodes cover the bulk of private, penal, and procedural law
+
+Codes need interpretation
+* E.g. Art 1240 Code Civil – “Any act whatever of man, which causes damage to another, obliges the one by whose fault it occurred, to compensate it”. 
+And 1241 requires compensation for negligent conduct as well. 
+o What is an “intentional act”; “negligent conduct” etc. 
+o Many types of situations that may trigger this one provision. Amount of liability? The bare language of the code doesn’t articulate these, and they will all need to be decided in real cases. 
+Key ideas 
+- What are the major structural, epistemological differences between the common law and civil law? 
+- How important are the differences, 
+o As a matter of the system/tradition (a theoretical point), and 
+o In terms of practice (an application point)? 
+
+
+Overview of Major Codes (German/French)
+
+German Code - BGBConsists of 5 books (going from general --> specific)
+1. Book of General Provisions [Allgemeiner Teil]
+a. Provisions which are applicable to all the following books, private law codes (e.g. Commercial Code), acts (e.g. Companies Act), and further statutes
+b. E.g. what persons are, what things are, what is necessary for validity of legal acts like entering into contract and obstacles to validity of legal acts 
+2. Law of Obligations
+a. General Part [Schuldrecht allgemeiner teil]
+b. Particular Part [Schuldrecht besonderer teil]
+3. Property Law [Sachenrecht]
+4. Family Law
+5. Law of Succession
+
+Interpretation
+1. Grammatical
+2. Systematic
+3. Genetic
+4. Historical
+5. Teleological
+Influence in AsiaJapanese/Korean Civil Code
+* Part I: General Provisions
+* Part II: Property Law (“Real Things”)
+* Part III: Law of Obligations (“Claims”)
+* Part IV: Family Law (“Relatives”)
+* Part V: Law of Succession (“Inheritance”)
+Taiwanese Civil Code
+* Part I: General Principles
+* Part II: Obligations
+* Part III: Rights in rem
+* Part IV: Family
+* Part V: Succession
+ 
+French Code – Code CivilConsists of 4 books:
+1. Book I of Persons
+2. Book II of Property and of the Various Modifications of Ownership
+a. Art 516: All property is movable or immovable.
+3. Book III of the Various ways how Ownership is acquired (Law of Succession and Obligations) 
+a. Art 711: Ownership of property is acquired and transmitted by succession, by gift inter vivos or will, and by the effect of obligations.
+4. Book IV of Securities (Law of securing claims)
+
+Approach in French Civil Code is a bit different from the German one – instead of going from general to specific, it tries to pack lots of information about a specific topic into each individual book 
+
+
+How to Use the Codes
+
+Case AnalysisHypothetical 1Kelly wants the iPhone displayed for CU 1000 in George’s store. She hands George the CU 1000 and walks away with the phone. Later she realises that something is wrong with the phone. She asks you about her rights.First question: what does Kelly ultimately want to achieve?
+- Would help Kelly if she had remedies under a sales contract (against George)
+- This requires Kelly and George to be parties to a sales contract re: faulty phone
+> Consider what sources of law provide initial guidance on whether there is a sales contract
+--> A civil law person would refer first to the relevant provisions in Civil Code
+
+Cases are not ignored in civil law, but they have a gap-filling interpretive role rather than a law-making role Steps: look at the relevant provisions: is this specific scenario covered by a specific contract --> engage in detailed discussion of whether all reqs for valid declarations of intent are met --> hence whether there is a valid contract or not
+
+Based on reference to s 433 of the German BGB (see below) which lays out characteristics of a sales contract
+* Desired objectives of Kelly & George correspond with the obligations stated in BGB 433, so they fall within the ambit of this rule, thus the contract is a sales contract 
+* But is there a valid sales contract from which the desired obligations result?
+o What is needed for a valid contract? --> Two corresponding valid “declarations of intent” (aka offer & acceptance)
+o BUT no provisions of the civil code explicitly tells us this
+o Follows instead from a systematic analysis of the explicit provisions (see s 145 and 147 below)
+o The lesson here is that there’s a lot implied in the provisions, and the provisions still need to be studied. Not every single basic rule is explicitly provided in the rules. 
+* Then what makes a declaration of intent valid? --> see Book of General Provisions
+o Made by person with legal capacity (or agent with authority)
+o Not invalid ex lege with effect ex ante
+o Not annulled/rescinded/revoked/terminated
+* Mistake
+* Fraud/duress
+* Termination rights
+German Code (BGB) sec. 433
+(1) By a purchase agreement, the seller of a thing is obliged to deliver the thing to the buyer and to procure ownership of the thing for the buyer. The seller is to procure the thing for the buyer free from material defects and defects of title.
+(2) The buyer is obliged to pay the seller the agreed purchase price and to accept delivery of the thing purchased.
+
+Explicit provisions (offer/acceptance):
+BGB 145: Any person who offers to another to enter into a contract is bound by the offer, unless the person has ruled out the offer’s being binding upon them.
+BGB 147:
+(1) An offer made to a person who is present may only be accepted immediately. This also applies to an offer made by one person to another using a telephone or some other technical system.
+(2) An offer made to a person who is absent may be accepted only until the time at which the offeror may expect to receive the answer under ordinary circumstances.
+Chinese Civil Code art. 595 
+A sales contract is a contract whereby the seller transfers the ownership of the subject matter to the buyer and the buyer pays the price for it.
+* This was the exact wording of the old German BGB (before they added defects/title)
+Taiwanese Civil Code
+Art. 345: A sale is a contract whereby the parties agree that one of them shall transfer to the other his rights over property and the latter shall pay a price for it. The contract of sale is completed when the parties have mutually agreed on the object and the price.
+- The part specifying when the sale is completed is an addition to the original German provision, and would actually be found in the first book (the one applying generally) in the German code. 
+- This approach of putting everything you need in one book looks a bit like how the French code does it 
+
+Art. 347: The seller of a thing is bound to deliver the thing to the buyer and to make him acquire its ownership. The seller of a right is bound to make the buyer acquire the right sold. If, by virtue of such right, the seller can possess a certain thing, he is also bound to deliver the thing.
+
+
+
+Negotiorum gestio [Quasi-contractual claim]
+* Obligation relationship ex lege (instituted by law) 
+* Different from mandate (unilaterally binding contracts) as there is no agreement expressly based on parties’ intentions
+o E.g. of mandate: trainee in law firm being told by partner to pick up a parcel from the post office or a book from the library – this is a contractual relationship if trainee says “yes”
+* Note: if asked by your friend instead (social situation) then likely not mandate
+* Intended to encourage a specific kind of social ethics
+
+Overview* Applies when a person acts altruistically to help another (without being legally obliged to do so) and incurs expenses or damage in the process. 
+o The intervener can claim reimbursement of expenses reasonably incurred
+o The other party can claim from the intervener any enrichment which was gained from the exercise of the other party’s interests
+
+See ss 677-687 German BGB [not required to know specific provisions for exam]
+* Just know the general principles
+German – Mandate / NGStarting point: s 662 German BGB (Typical contractual duties in a mandate)
+By accepting a mandate, the mandatary agrees to carry out a transaction entrusted to him by the mandator for the mandator gratuitously S 667 BGB (Duty to return)
+The mandatary is obliged to return to the mandator everything he receives to perform the mandate and what he obtains from carrying out the transaction S 670 BGB (Reimbursement of expenses)
+If the mandatary, for the purpose of performing the mandate, incurs expenses that he may consider to be necessary in the circumstances, then the mandator is obliged to make reimbursement S 677 BGB (Duties of the voluntary agent [NG])
+A person who conducts a transaction for another person without being instructed by him or otherwise entitled towards him must conduct the business in such a way as the interests of the principal require in view of the real or presumed will of the principal.S 683 BGB (Reimbursement of expenses) – this is the specific provision in the BGB relating to NG
+If the assumption of agency corresponds to the interest and the real or presumed will of the principal, the voluntary agent may demand reimbursement of expenses like a mandataryHow it applies to NG 
+Why is there an obligation, if NG is a unilateral thing? 
+* Secondary obligation arises – altruistic person should neither be better off nor worse off. Thus, the gestor (the altruistic person) is entitled to claim expenses and obliged to pay back enrichment ^ Don’t need to know the specific numbering etc. of these, just need to be aware that the principles exist 
+
+Claims under NGNature of a NG relationship: An imperfectly bilateral relationship. There is no synallagmatic contract, but instead an obligation relationship ex lege 
+Terminology
+* Gestor: the voluntary agent
+* Principal: the person for whom the Gestor carries out the task for 
+
+> Both the Gestor and principal have claims under NG
+Claims availableGestor’s Claims against the PrincipalPrincipal’s Claims against the Gestor1. Incurred expenses
+- s 670 BGB with s 683 BGB1. Restoration of everything the Gestor has acquired in executing the Gestio2. Suffered damages
+- analogously apply s 670 BGB with s 683 BGB2. Damages for mismanagement
+- s 280(1) BGB and s 680 BGB (for fault standard)Establishing a Claim under NG (aka Justified Actual NG)Need to establish a relationship of NG which requires the following elements:
+
+1. Altruistic motivation: the Gestor intentionally conducts a transaction for another person
+
+2. There must be no mandate or other contractual relationship
+a. Gestor must conduct a transaction for the principal without being instructed to do so by the Principal (s 677 BGB)
+
+3. The Gestor must conduct the transaction in the Principal’s interests 
+a. P’s interests = their real or presumed will (s 677 BGB)
+i. General rule: the actual real intention of the Principal prevails (even if it is irrational). Gestor is bound even if he does not know of the real will (as long as he could have known). If there is no actual real will then presumed intention prevails
+ii. Exception: where the actual real intention of the Principal is overridden by public interest (s 679 BGB)
+1. Only happens in very rare circumstances, not relevant for this paper
+
+Once justified actual NG is found: consequence is that Gestor can claim reimbursement of necessary expenses including any damages (s 670 & 683 BGB)
+Reimbursement vs Damages* You rescue a neighbour from a roof. You rip your pants trying to get up, then buy a ladder to get him down. 
+o Cost of ladder = reimbursement; damage to pants = damages 
+
+* BUT although only reimbursement, and not damages, is mentioned in s 670 --> courts have interpreted it to also include damages in the spirit of the legislation, that the gestor should not suffer any loss for his actions which are altruistically motivated
+
+* Another type of loss – expectation loss – is not claimable 
+o E.g. help someone and fired from job/missed interview because late. Only entitled to reimbursement of expenses incurred and damage sustained, but not the opportunity cost 
+o Cf costs of rescheduling your job interview as you missed it while saving someone from drowning --> potentially claimable, though more indirect. 
+Examples* Accidents: Car swerves to avoid colliding with a child, hits something. Reasonable compensation permitted under BGB 683 and 670 (analogous application).
+o Note: in this case it will be the parents who owe the compensation
+
+* Wine-grower unable to look after his vineyard. Neighbour employs workers to attend to the vineyard (harvest his grapes). Depending on whether the activity corresponds with the owner’s actual will, compensation for the neighbour (gestor) is possible under BGB 683 and 670. Principal may also have a claim against the gestor (s 667) if gestor is enriched (e.g. money received from selling the grapes)
+o In practice, best to try and contact the Principal first to establish his will
+o If it is clear (at the time) the wine-grower does not want ANYONE to touch his vines (so cannot establish NG) --> best case the interferer cannot claim expenses; worst case he even has to pay damages
+* Expression of will for NG: “I won’t harvest these grapes this year” cf Mandate: “I’d be grateful if you help me harvest these grapes should I not be around”
+
+
+
+Law of Delictual Liability [equivalent to Tort]
+
+Comparisons between JurisdictionsFrenchThree elements are necessary to trigger liability:
+* Fault understood as any kind of deliberate act (Civil Code, art. 1240) or any reckless or negligent conduct (Civil Code, art. 1241); AND
+* Damage; AND
+* Causal link between the two.
+The burden of proof of all these elements falls on the claimant.
+
+FOR OMISSIONS:
+French courts have decided that, in certain circumstances, there is a specific obligation to act, making breach of this obligation actionable.
+• E.g. a general obligation placed on individuals to rescue others who are in danger, or, in a more restricted context, a duty imposed on an employer to ensure safety in the workplace.
+• Whereas there has been no difficulty in imposing such a duty to act where there is a relevant statute or a contract, it has been more problematic in circumstances where no juridical source for such an obligation could be found.
+• However, here again, lack of legal basis has not prevented judges from extending the notion of wrongful abstention to non-statute-based areas.
+o Branly (Cass. 1, 27 Feb 1951, D.1951, 329): historian writing on the history of wireless telegraphy omitted to mention the name of Edouard Branly, one of the inventors of this means of communication
+Art 1382: Any act of man, which causes damage to another, obliges the one by whose fault it occurred, to repair it.
+
+Art 1383: One shall be liable not only by reason of one’s acts, but also by reason of one’s imprudence or negligence.
+Analysis (vis-à-vis the German Code) 
+
+Very broad approach leads to some issues --> wideness of delictual liability risks defeating the much more narrowly defined liability in contractual relationships
+> The three elements are likely to be met in most situations where there is breach of contract
+
+THUS we need the principle of non-concurrence of actions:
+• French civil liability is traditionally divided between tort law and contract law. This rule derives from the principle of non-cumul des responsibilities (principle of non-concurrence of actions), which states that contractual and tortious liability are distinct. Thus within a contractual relationship – liability can only arise under the more specific principles of contract law and NOT the principles of tort law
+• Reasoning:
+o Contractual liability imposes sanctions for the non-observance of contractual obligations, while tort law attaches sanctions to breaches of rules of conduct which are imposed by statute, regulation or judicial principles.
+o Specificity of French contract law versus generality of tort-based liability
+German4 requirements:
+1. There must be an infringement of an absolute right.
+a) An absolute right can be interfered with by anyone and asserted against anyone, unlike a relative right which arises in a specific contractual relationship
+b) The infringement must be unlawful (i.e. lack legal justification)
+2. It must be culpable (intentional or negligent fault element).
+3. There must be loss (including economic loss).
+4. There must be a causal link between the defendant’s conduct and the claimant’s harm.
+
+FOR OMISSIONS:
+Liability only arises if there is a duty of care that requires the person subject to the duty to act. Under what circumstances is a person required to act? Who is required to act?
+• Preceding (potentially) dangerous activity;
+• A dangerous state of affairs (establishment of a source of potential danger);
+• Public roads, factories, stores, homes are all potential sources of danger for absolute rights;
+• Construction sites;
+• Pool in garden;
+• Poisonous snakes in a terrarium.
+Contractual duties and duties of care under delict coexist but follow their own rules.
+Examples of absolute rights:
+• Life: Interference with life means killing a person.
+• Body and Health
+o Body: Any direct interference with the Claimant’s body, such as severing his finger, breaking his leg, or external abrasations in car accidents
+o Health: Any externally provoked malfunctions of the Claimant’s inner body. The interference must emanate from an external source to the Claimant’s body e.g. the inhalation of poisonous fumes and psychiatric injuries.
+• Freedom: Interference with freedom means interfering with the person’s liberty and freedom of movement. The notion of freedom is interpreted restrictively to relate only to movement.
+• Property: Interference with property can be with regards to ownership or possession of a thing.
+• Another Right: This is a “mini-general clause” which covers an absolute right that amounts to something that is worth protecting as the enumerated rights above.
+Much more narrowly defined – unlike the French approach, it is not any kind of fault that gives rise to delictual liability --> there MUST be infringement of an absolute rightJapanCivil Code, art. 709: A person who has intentionally or negligently infringed any right of others, or legally protected interest of others, shall be liable to compensate any damages resulting in consequence.
+
+Civil Code, art. 710: Persons liable for damages under the provisions of the preceding Article must also compensate for damages other than those to property, regardless of whether the body, liberty or reputation of others have been infringed, or property rights of others have been infringed.
+Note that the although the wording of provisions seems to follow the broad French approach, the application of the provisions can be tricky – often, the actual application by courts often tends to follow the German tradition (e.g. for Japan, and for Korea as well)
+ChinaCivil Code, art. 1165: 
+• One who is at fault for infringement upon a civil right or interest of another person, causing harm, shall be subject to the tort liability.
+• One who is at fault as construed in accordance with legal provisions and cannot prove otherwise shall be subject to the tort liability.
+
+Civil Code, art. 120: In case of infringement upon civil rights and interests, the victim shall have the right to request that the tortfeasor assume tort liability.
+
+Civil rights are defined in Chapter V of the Civil Code (arts. 109 to 132)
+Taiwan and China prefer the German approach
+
+
+
+Unilaterally Binding Contracts – Civil Law
+
+Mutually vs Unilaterally Binding Contracts
+Most contracts are mutually binding (synallagmatic)
+* Though unilaterally binding contracts are less common – still valid and enforceable in civil law jurisdictions 
+o E.g. gifts (donations) and mandates
+
+GiftsGermanyBGB Civil Code, section 516: Concept of donation
+(1) A disposition by means of which someone enriches another person from his own assets is a donation/gift if both parties are in agreement that the disposition occurs gratuitously.
+(2) (...)
+
+BGB Civil Code, section 518: Form of promise of donation [formality requirement as a protective mechanism]
+(1) For a contract by which performance is promised as a donation to be valid, notarial recording of the promise is required. (...)
+(2) A defect of form is cured by rendering the performance promised.
+- This just means that you can’t claim back the donation after you give it, even if there was a defect of form 
+- If the donation is in tranches, the unperformed tranches are not enforceable if there is a defect in form, but no take backsies for the performed ones 
+
+* Under civil law, possible to have a contract under which one party owes an enrichment to the other even though the other party is under NO obligation to provide any sort of consideration (one-sided benefit)
+ChinaCivil Code, art. 657: A gift contract is a contract whereby the donor conveys his property to the donee gratuitously and the donee expresses his acceptance of the gift.
+
+Civil Code, art. 658: [right of revocation]
+* Prior to the transfer of rights to the gift property, the donor may revoke the gift.
+* The provisions of the preceding paragraph do not apply to any gift contract which has been notarized (...)
+
+* Comparison with German code: Has protective mechanisms like the German BGB, but slightly different – valid but can revoke unless notarized cf not valid unless notarized. Taiwan is same as Mainland.
+TaiwanCivil Code, art. 406: A gift is a contract whereby the parties agree that one of the parties delivers his property gratuitously to another party and the latter agrees to accept it. 
+
+Civil Code, art. 408:
+* So long as the right of the gift has not been transferred to the donee, the donor may revoke the gift. If the thing given has been partially transferred, the donor may revoke the gift for the portion has not been transferred.
+* The provision of the preceding paragraph shall not apply to gifts notarized (...)
+JapanCivil code, art. 549: Gifts shall become effective by the manifestation by one of the parties of his/her intention to give his/her property to the other party gratuitously, and the acceptance of the other party thereof.
+
+Civil code, art. 550: Gifts not in writing may be revoked by either party; provided, however, that this shall not apply to any portion of the gift for which performance has been completed.
+
+Similar to Chinese one 
+* Except the Pure writing requirement (not notary)South KoreaCivil Code, art. 554: A contract of gift shall become effective when one of the parties declares his intention to transfer his property gratuitously to the other party and the other party agrees to it.
+
+Civil Code, art. 555: A contract of gift which is not in writing may be rescinded by either party.
+
+Civil Code, art. 558: Rescission of a contract of gift (...) shall not have any effect in respect to any portion as to which performance has been completed.
+
+* Pure writing requirement, just like Japanese law
+FranceCode Civil, art. 931: All acts importing donation during life shall be passed before notaries, in the ordinary form of contracts; and a minute thereof shall be left, on pain of nullity.
+
+Code Civil, art. 932: A donation during life shall not bind the donor, or produce any effect, except from the day on which it shall have been accepted in express terms.
+The acceptance may be made, living the donor, by a subsequent and authentic act, of which a minute shall remain; but then the donation shall not have effect with regard to the donor, except from the day on which the act which shall verify such acceptance shall have been notified to him.
+
+* Like the German BGB, execution cures any lack of formality.
+
+Mandate(s) – gratituously performed work or serviceMandate: gratuitous contract by which one party undertakes to do something on behalf of another gratuitously
+* Mandatary: party who undertakes to carry out the task / mandate 
+o Has no compensation claim against the Mandator
+* Mandator: party on whose behalf the Mandatary carries out the task
+o Has an enforceable claim of performance against the Mandatary
+Once the mandate has been executed, the following claims arise subsequentially:
+(1) Mandator’s subsequent claim against the Mandatary:
+a. Claim of the Mandator against the Mandatary for everything that the Mandatary receives in performance of the mandate.
+(2) Mandatary’s claim against the Mandator:
+a. Mandatary does not receive remuneration
+b. BUT has a claim for expenses made in performing the mandate.
+
+Note: you cannot claim for the opportunity cost of accepting a mandate (e.g. giving up doing something else)
+- Since you are under no obligation to say yes to the mandateS 662 German BGB (Typical contractual duties in a mandate)
+By accepting a mandate, the mandatary agrees to carry out a transaction entrusted to him by the mandator for the mandator gratuitously S 667 BGB (Duty to return)
+The mandatary is obliged to return to the mandator everything he receives to perform the mandate and what he obtains from carrying out the transaction S 670 BGB (Reimbursement of expenses)
+If the mandatary, for the purpose of performing the mandate, incurs expenses that he may consider to be necessary in the circumstances, then the mandator is obliged to make reimbursement 
+
+
+
+Principle of Good Faith (+ Absence of Trust & Equity Law)
+
+General Provisions on the Good Faith PrincipleIn every civil code, you will find a principle that addresses the issue of good faith.
+
+Germany, sec. 242: An obligor has a duty to perform according to the requirements of good faith, taking customary practice into consideration.
+
+PR China, art. 7: The parties to civil legal relations shall conduct civil activities under the principle of good faith, adhere to honesty, and fulfill their promises. 
+
+Taiwan, art. 148: A right shall be exercised and a duty shall be performed in accordance with the means of good faith.
+
+Japan, art. 1: (2) The exercise of rights and performance of duties must be done in good faith.
+Applying the principle of good faithWhat does the principle of good faith mean in practice? 
+- Does the principle of good faith defeat contractual terms? Does it go against principles of reliability, foreseeability, freedom of contract?
+
+YES, insofar as it defeats contractual terms considered unfair toward consumers (and other weaker parties)
+* Oftentimes specifically addressed by legislation (see sec 307 BGB below)
+a. In that respect, not limited to civil law jurisdictions, see UK Unfair Terms in Consumer Contracts Regulations 1999
+* Also these days, practically only done by courts in specific contexts – stronger vs weaker party (esp if consumers are involved)
+
+NO, insofar as it serves a gap-filling role (gaps left in legislation regarding certain situations and cases) – see below
+BGB Civil Code Germany, sec. 307:
+(1) Provisions in standard business terms are ineffective if, contrary to the requirement of good faith, they unreasonably disadvantage the party contracting with the user. An unreasonable disadvantage also may arise from the provision not being clear and comprehensible.
+
+(2) In case of doubt, an unreasonable disadvantage is to be assumed to exist if a provision
+1. is not compatible with essential principles of the statutory provision from which it deviates, or
+2. limits essential rights or duties inherent in the nature of the contract to such an extent that attainment of the purpose of the contract is jeopardized.
+Example of gap-fillingWhere obligor meets contractual obligations, but in ways that harm the obligee
+* E.g. Seller delivers the sold merchandise, but while doing so damages buyer’s other property – a positive contract breach
+o Contractual claim for poor performance in addition to delictual claim?
+* Not covered under contractual claim (sales law) bc while there was poor performance, it did not affect the quality of the delivered and sold goods. The poor performance was in the way the seller performed his obligations
+* There was a delictual claim – but very narrow scope of application and courts came to the conclusion that purely relying on delictual claims meant that the aggrieved buyers were not adequately protected and compensated
+o Hence the courts in Germany, Japan, South Korea, China, and Taiwan developed specific obligations (and claims resulting from these obligations) based on the principle of good faith --> Parties to contractual agreements owe performance of their obligations in ways compatible with other party’s rights and interests
+* Closest thing to case law in civil law
+
+Later, the German legislators responded to this “case law” such that there are now specific provisions in the BGB (see below) so their courts no longer need to refer to the principle of good faith
+* The principle of good faith was often cited by the courts in this gap-filling exercise for other areas of law as well, before legislators plugged the gap 
+* But note that the Asian jurisdictions following the German tradition have not done so and still rely on the “case law” based on good faith
+German BGB Civil Code, sec. 241: 
+(2) By its contents, an obligation may oblige each party to take account of the rights, legal interests and other interests of the other party.
+
+German BGB Civil Code,sec 280:
+(1) If the obligor breaches a duty arising from the obligation, then the obligee may demand compensation of the damage caused thereby
+
+German BGB Civil Code, sec. 311:
+(2) An obligation with duties under section 241 (2) also comes into existence by
+1. the commencement of contract negotiations,
+2. the initiation of a contract where one party, with regard to a potential contractual relationship, gives the other party the possibility of affecting its rights, legal interests and other interests, or entrusts these to the other party, or
+3. similar business contacts.
+
+(3) An obligation with duties under section 241 (2) may also come into existence in relation to persons who are not themselves intended to be contractual parties. Such an obligation comes into existence in particular if the third party, by laying claim to being given a particularly high degree of trust, substantially influences the pre-contract negotiations or the conclusion of the contract.
+Absence of Trust Law / Equity LawNo such thing as trust law in most civil law jurisdictions
+- Civil law does not recognize beneficiary ownership
+- Only recognizes one type of ownership; not the split ownerships (legal/beneficiary) that results from trust law
+
+There are some exceptions where the civil law jurisdiction HAS introduced trust law and beneficiary ownership but generally still no.
+
+Also no such thing as equity law or its principles
+
+Takeaway – when talking to your civil law counterparts, they won’t know what you’re talking about when you start referring to principles of equity. 
+
+
+Enforced Performance
+
+PrinciplesStarting point in civil law systems = parties owe their obligations as promised (exactly what they promised to do, not money, not damages etc)
+> Promisee is in principle entitled to performance in specie
+
+Thus civil law therefore does not know the concept of “specific” performance
+- Bc performance as promised is not the exception, but the rule
+- Instead the term is “enforced performance”
+o Significance of enforced performance is derived from the civil law’s emphasis of the idea of pacta sunt servanda, which ascribes a binding force to the promise of performance.
+
+Civil law is hostile towards allowing the promisor to take the easy way out: avoid performance and pay damages instead
+German BGB civil code, sec. 241
+(1) By virtue of an obligation an obligee is entitled to claim performance from the obligor. The performance may also consist in forbearance.
+(2) ...Principles relating to Secondary RightsPrimary enforceable right = enforced performance 
+
+Concepts of grace period and impossibility:
+
+General Rule [second chance to perform]: If the promisor fails to perform his obligation on time, the promisee must give the promisor a second right of performance before allowing the promisor to rely on secondary rights to claim damages instead. (even if he wants to just give up and claim damages)
+* Rationale: This gives the promisor a second chance to perform. Since both parties entered into specific obligations (a synallagmatic relationship), the law holds them to their specific duties (and pursues enforced performance). Any replacement of these obligations by secondary rights is therefore only permitted under additional requirements.
+* Note that obligee is allowed to claim damages for the delay and loss or harm arising from the delay on top of enforced performance
+
+Exception: There is no need to set a grace period where,
+(1) Performance is impossible, or
+(2) Situations in which it would appear disproportionate (or pointless) to require the promisee to wait:
+a. Promisor definitively refuses performance;
+b. Parties’ interests justify immediate damages or revocation;
+c. Timing is of essential importance to the promisee.
+Impossibility of performance – consequences
+* Where performance is impossible --> obligation is excluded (without a grace period)
+* The promisor owes damages if he is responsible for the impossibility
+German civil code, sec. 275: Exclusion of the duty of performance
+(1) A claim for performance is excluded to the extent that performance is impossible for the obligor or for any other person.
+
+Help me I’m scared 
+The role of status in French vs other laws 
+- French code invented early, so patriarchal ideology followed from the old regime 
+- German code was invented 100 years later, where ideas of class/status had simmered down a bit. The idea that those should make a difference in the law was gone. Focus of the time was on industrialization 
+
