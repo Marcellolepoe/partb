@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "Five major supermarket chains in Singapore (Chain A, B, C, D, and E) have been under investigation by the CCCS for potential anti-competitive conduct. The investigation revealed that: (1) Chain A and B agreed to fix the price of fresh chicken at S$8.50 per kg, (2) Chain C attended meetings with A and B but claims it never implemented the agreed prices, (3) Chain D received price information from Chain A but did not respond, and (4) Chain E independently raised its prices to S$8.50 per kg after seeing the others' prices. The CCCS is determining liability under section 34 of the Competition Act. Which of the following statements about liability may apply?",
+    "statements": [
+      "I. Only Chain A and B are liable as they were the only ones who explicitly agreed to fix prices.",
+      "II. Chain C is liable as it attended the meetings and is presumed to have participated in the concerted practice.",
+      "III. Chain D is liable as it received price information from Chain A, creating a presumption of concerted practice.",
+      "IV. Chain E is not liable as it acted independently without any communication with other chains.",
+      "V. All chains except Chain E are liable as they were all part of the same anti-competitive arrangement."
+    ],
+    "options": [
+      "A. II, III and V only",
+      "B. I, II and III only",
+      "C. II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "**Statement I (INCORRECT):** This oversimplifies the law. Liability under section 34 extends beyond explicit agreements to include concerted practices. **Statement II (CORRECT):** Chain C is liable as attending meetings creates a presumption of participation in concerted practice under the Anic presumption. **Statement III (CORRECT):** Chain D is liable as receiving price information creates a presumption of concerted practice, even without reciprocal exchange. **Statement IV (INCORRECT):** Chain E's independent action doesn't create liability, but the statement is wrong about the overall liability assessment. **Statement V (CORRECT):** Chains A, B, C, and D are all liable as they were part of the same anti-competitive arrangement through agreements and concerted practices.",
+    "detailed_explanation": "### Understanding Section 34 Liability for Anti-competitive Agreements and Concerted Practices\n\n**What this question is testing:** This question tests your understanding of the broad scope of section 34 liability, including both explicit agreements and concerted practices, and the presumptions that apply in competition law.\n\n**Key Legal Principles:**\n*   **Section 34 CA:** Prohibits agreements, decisions, and concerted practices that have the object or effect of preventing, restricting, or distorting competition.\n*   **Concerted practice:** Knowingly substituting the risks of competition for practical cooperation between undertakings.\n*   **Anic presumption:** Market actors are presumed to use information exchanged with competitors when determining their market conduct.\n*   **One-way information exchange:** Even one-way provision of information can create liability.\n*   **Independent action:** Acting independently without communication does not create liability.\n\n**Why each statement is correct or wrong:**\n\n*   **I. Only Chain A and B are liable as they were the only ones who explicitly agreed to fix prices.**\n    *   **INCORRECT.** This is a red herring that oversimplifies section 34 liability. The prohibition extends to concerted practices, not just explicit agreements. Chain C's attendance at meetings and Chain D's receipt of price information can create liability even without explicit agreement.\n\n*   **II. Chain C is liable as it attended the meetings and is presumed to have participated in the concerted practice.**\n    *   **CORRECT.** Under the Anic presumption, attending meetings where anti-competitive information is exchanged creates a presumption that the party used that information in determining their market conduct, making them liable for concerted practice.\n\n*   **III. Chain D is liable as it received price information from Chain A, creating a presumption of concerted practice.**\n    *   **CORRECT.** Even one-way provision of information can create liability under the Anic presumption. The CCCS has held that mere receipt of price information raises the presumption that the recipient's future behavior would not be independent.\n\n*   **IV. Chain E is not liable as it acted independently without any communication with other chains.**\n    *   **INCORRECT.** While Chain E's independent action doesn't create liability, this statement is wrong about the overall liability assessment. The question asks about liability generally, not just Chain E's liability.\n\n*   **V. All chains except Chain E are liable as they were all part of the same anti-competitive arrangement.**\n    *   **CORRECT.** Chains A, B, C, and D are all liable through different mechanisms: A and B through explicit agreement, C through participation in meetings, and D through receipt of price information. Chain E acted independently and is not liable.\n\n**Exam Tips:** Remember that section 34 liability is broad and includes both explicit agreements and concerted practices. The Anic presumption is crucial for understanding how information exchange creates liability. Independent action without communication does not create liability.",
+    "reference": "Competition Act s34; Fresh Chicken case; Ferry Operators case; CCCS Guidelines on s34"
+  },
+  {
+    "question": "PharmaCorp Ltd is the dominant supplier of a critical vaccine in Singapore, holding 70% market share. The company has recently engaged in the following conduct: (1) Refused to supply the vaccine to a new entrant, MedStart Pte Ltd, citing capacity constraints, (2) Offered exclusive supply agreements to hospitals with discounts of 30% if they agree not to purchase from competitors, (3) Predatorily priced the vaccine at below cost for 6 months to drive out a competitor, and (4) Tied the sale of the vaccine to the purchase of other pharmaceutical products. The CCCS is investigating potential abuse of dominant position under section 47. Which of the following statements about the conduct may apply?",
+    "statements": [
+      "I. The refusal to supply constitutes abuse of dominant position as it prevents market entry and restricts competition.",
+      "II. The exclusive supply agreements with discounts are permissible as they provide benefits to consumers through lower prices.",
+      "III. The predatory pricing constitutes abuse as it is designed to eliminate competitors and maintain dominance.",
+      "IV. The tying arrangement constitutes abuse as it leverages dominance in one market to gain advantage in another market.",
+      "V. All the conduct constitutes abuse of dominant position under section 47 of the Competition Act."
+    ],
+    "options": [
+      "A. I, III and IV only",
+      "B. I, II, III and IV only",
+      "C. I, III, IV and V only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "**Statement I (CORRECT):** Refusal to supply by a dominant firm can constitute abuse if it prevents market entry and restricts competition. **Statement II (INCORRECT):** Exclusive supply agreements with discounts can constitute abuse if they foreclose competitors from the market, even if they provide short-term benefits to consumers. **Statement III (CORRECT):** Predatory pricing is a classic form of abuse designed to eliminate competitors and maintain dominance. **Statement IV (CORRECT):** Tying arrangements can constitute abuse when they leverage dominance in one market to gain advantage in another market. **Statement V (INCORRECT):** While most conduct constitutes abuse, the exclusive supply agreements need further analysis to determine if they have anti-competitive effects.",
+    "detailed_explanation": "### Understanding Abuse of Dominant Position Under Section 47 CA\n\n**What this question is testing:** This question tests your understanding of the different types of abusive conduct under section 47, including refusal to supply, exclusive dealing, predatory pricing, and tying arrangements.\n\n**Key Legal Principles:**\n*   **Section 47 CA:** Prohibits abuse of dominant position that has the object or effect of preventing, restricting, or distorting competition.\n*   **Three-step analysis:** Market definition, dominance assessment, and abusive conduct analysis.\n*   **Refusal to supply:** Can constitute abuse if it prevents market entry and restricts competition.\n*   **Exclusive dealing:** Can constitute abuse if it forecloses competitors from the market.\n*   **Predatory pricing:** Pricing below cost to eliminate competitors and maintain dominance.\n*   **Tying arrangements:** Leveraging dominance in one market to gain advantage in another market.\n\n**Why each statement is correct or wrong:**\n\n*   **I. The refusal to supply constitutes abuse of dominant position as it prevents market entry and restricts competition.**\n    *   **CORRECT.** Refusal to supply by a dominant firm can constitute abuse under section 47 if it prevents market entry and restricts competition. The dominant firm has a special responsibility not to impair competition.\n\n*   **II. The exclusive supply agreements with discounts are permissible as they provide benefits to consumers through lower prices.**\n    *   **INCORRECT.** This is a red herring. While exclusive supply agreements with discounts may provide short-term benefits to consumers, they can constitute abuse if they foreclose competitors from the market and restrict competition in the long term. The key test is whether the conduct has anti-competitive effects.\n\n*   **III. The predatory pricing constitutes abuse as it is designed to eliminate competitors and maintain dominance.**\n    *   **CORRECT.** Predatory pricing is a classic form of abuse under section 47. It involves pricing below cost to eliminate competitors and maintain dominance, which has the object of restricting competition.\n\n*   **IV. The tying arrangement constitutes abuse as it leverages dominance in one market to gain advantage in another market.**\n    *   **CORRECT.** Tying arrangements can constitute abuse when they leverage dominance in one market to gain advantage in another market. This can prevent competitors from entering the tied market and restrict competition.\n\n*   **V. All the conduct constitutes abuse of dominant position under section 47 of the Competition Act.**\n    *   **INCORRECT.** While most of the conduct constitutes abuse, the exclusive supply agreements need further analysis to determine if they have anti-competitive effects. The statement is too broad and doesn't account for the need to analyze each type of conduct separately.\n\n**Exam Tips:** Remember that section 47 requires a three-step analysis: market definition, dominance assessment, and abusive conduct analysis. Each type of conduct must be analyzed separately to determine if it constitutes abuse. The key test is whether the conduct has the object or effect of preventing, restricting, or distorting competition.",
+    "reference": "Competition Act s47; CCCS Guidelines on s47; Case law on abuse of dominance"
+  },
+  {
+    "question": "Competition Law Question 3 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 4 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 5 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 6 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 7 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 8 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 9 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 10 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 11 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 12 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 13 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 14 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 15 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 16 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 17 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 18 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 19 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 20 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 21 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 22 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 23 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 24 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 25 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 26 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 27 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 28 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 29 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 30 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 31 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 32 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 33 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 34 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 35 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 36 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 37 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 38 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 39 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 40 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 41 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 42 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 43 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 44 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 45 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 46 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 47 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 48 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 49 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 50 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 51 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 52 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 53 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 54 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 55 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 56 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 57 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 58 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 59 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 60 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 61 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 62 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 63 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 64 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 65 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 66 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 67 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 68 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 69 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 70 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 71 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 72 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 73 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 74 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 75 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 76 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 77 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 78 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 79 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 80 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 81 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 82 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 83 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 84 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 85 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 86 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 87 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 88 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 89 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 90 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 91 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 92 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 93 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 94 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 95 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 96 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 97 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 98 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 99 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 100 - Comprehensive question covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of competition law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common competition law trap or exception",
+      "IV. Statement IV - Practical competition law consideration",
+      "V. Statement V - Overall competition law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's competition law treatment with specific reference to Competition Act provisions and CCCS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  }
+]

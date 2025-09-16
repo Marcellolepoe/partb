@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "TechCorp Pte Ltd (Singapore) and GlobalSoft Ltd (Malaysia) have entered into a software licensing agreement with an arbitration clause providing for arbitration in Singapore under SIAC rules. A dispute arises and TechCorp commences court proceedings in Singapore. GlobalSoft wishes to stay the proceedings in favor of arbitration. Which of the following statements about the stay application may apply?",
+    "statements": [
+      "I. The court has discretion to grant a stay under the Arbitration Act as this involves domestic parties.",
+      "II. The court must grant a stay under the International Arbitration Act as there is a foreign element present.",
+      "III. The court will apply the Arbitration Act because the seat is Singapore and no foreign element exists.",
+      "IV. The court will apply the International Arbitration Act because GlobalSoft has its place of business in Malaysia.",
+      "V. The court has discretion to attach conditions to the stay even if granted."
+    ],
+    "options": [
+      "A. II and IV only",
+      "B. I, II and V only",
+      "C. II, IV and V only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "**Statement I (INCORRECT):** This is a red herring. The presence of a foreign party (GlobalSoft in Malaysia) makes this an international arbitration under IAA s5(2)(a), not domestic. **Statement II (CORRECT):** Under IAA s6, the court must grant a stay if there is a valid arbitration agreement. **Statement III (INCORRECT):** The foreign element (Malaysian party) triggers the IAA, not the AA. **Statement IV (CORRECT):** GlobalSoft's place of business in Malaysia creates the foreign element under IAA s5(2)(a). **Statement V (INCORRECT):** While courts can attach conditions to stays, this is not a key distinguishing feature between AA and IAA.",
+    "detailed_explanation": "### Understanding International vs Domestic Arbitration Under Singapore Law\n\n**What this question is testing:** This question tests your understanding of the key distinction between the Arbitration Act (AA) and International Arbitration Act (IAA), particularly the criteria for determining which regime applies and the different stay provisions.\n\n**Key Legal Principles:**\n*   **IAA s5(2):** An arbitration is international if: (a) one party has business outside Singapore, (b) place of arbitration/dispute is outside Singapore, or (c) parties agree the subject matter relates to more than one country.\n*   **AA s6:** Court has discretion (may) to grant stay of court proceedings.\n*   **IAA s6:** Court must (shall) grant stay if valid arbitration agreement exists.\n*   **Foreign element:** Presence of foreign party triggers IAA regime.\n*   **Seat relevance:** Seat determines lex arbitri but not necessarily which Act applies.\n\n**Why each statement is correct or wrong:**\n\n*   **I. The court has discretion to grant a stay under the Arbitration Act as this involves domestic parties.**\n    *   **INCORRECT.** This is a common exam trap. While TechCorp is Singaporean, GlobalSoft is Malaysian, creating a foreign element under IAA s5(2)(a). The presence of any foreign party makes this an international arbitration, triggering the IAA regime, not the AA.\n\n*   **II. The court must grant a stay under the International Arbitration Act as there is a valid arbitration agreement.**\n    *   **CORRECT.** Under IAA s6, once the court is satisfied there is a valid arbitration agreement, it must grant a stay. This is mandatory, unlike the discretionary power under AA s6.\n\n*   **III. The court will apply the Arbitration Act because the seat is Singapore and no foreign element exists.**\n    *   **INCORRECT.** This statement incorrectly assumes no foreign element exists. GlobalSoft's Malaysian place of business creates the foreign element, making this an international arbitration under IAA s5(2)(a), regardless of the Singapore seat.\n\n*   **IV. The court will apply the International Arbitration Act because GlobalSoft has its place of business in Malaysia.**\n    *   **CORRECT.** IAA s5(2)(a) specifically provides that an arbitration is international if 'at least one of the parties to an arbitration agreement, at the time of the conclusion of the agreement, has its place of business in any State other than Singapore.' GlobalSoft's Malaysian place of business satisfies this requirement.\n\n*   **V. The court has discretion to attach conditions to the stay even if granted.**\n    *   **INCORRECT.** While courts can attach conditions to stays, this is not a distinguishing feature between AA and IAA. Both regimes allow for conditional stays, so this doesn't help determine which Act applies.\n\n**Exam Tips:** Always identify the foreign element first - this determines whether AA or IAA applies. Remember that IAA s6 is mandatory ('shall') while AA s6 is discretionary ('may'). The seat determines lex arbitri but not which Act applies.",
+    "reference": "IAA s5(2), s6; AA s6; Arbitration cheatsheet - AA vs IAA section"
+  },
+  {
+    "question": "In a SIAC arbitration between Singapore parties, the tribunal has rendered a final award. The losing party is considering its options for challenging the award. Which of the following statements about challenging the award may apply?",
+    "statements": [
+      "I. The party can appeal against the award on a question of law under section 49 of the Arbitration Act.",
+      "II. The party can apply to set aside the award under the UNCITRAL Model Law grounds.",
+      "III. The party can apply to set aside the award under section 48 of the Arbitration Act.",
+      "IV. The party has 3 months from receipt of the award to file any challenge application.",
+      "V. The party can only challenge the award on procedural grounds, not on the merits."
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and V only",
+      "C. II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "**Statement I (CORRECT):** Under AA s49, parties can appeal against an award on a question of law, subject to stringent requirements. **Statement II (CORRECT):** The UNCITRAL Model Law grounds for setting aside apply under AA s48. **Statement III (CORRECT):** AA s48 provides grounds for setting aside awards. **Statement IV (INCORRECT):** The timeline is 3 months from the date of the award, not receipt. **Statement V (INCORRECT):** While most challenges are procedural, AA s49 allows appeals on questions of law (merits).",
+    "detailed_explanation": "### Understanding Award Challenges Under the Arbitration Act\n\n**What this question is testing:** This question tests your understanding of the different ways to challenge arbitral awards under the Arbitration Act, including appeals on questions of law and setting aside applications.\n\n**Key Legal Principles:**\n*   **AA s49:** Allows appeals against awards on questions of law, subject to stringent requirements.\n*   **AA s48:** Provides grounds for setting aside awards, incorporating UNCITRAL Model Law grounds.\n*   **Timeline:** 3 months from date of award, not receipt.\n*   **Grounds:** Both procedural and substantive challenges available under AA.\n*   **Requirements:** s49 appeals have strict requirements including leave of court.\n\n**Why each statement is correct or wrong:**\n\n*   **I. The party can appeal against the award on a question of law under section 49 of the Arbitration Act.**\n    *   **CORRECT.** AA s49 specifically provides for appeals against awards on questions of law, subject to various stringent requirements in s49(5). This is a unique feature of the AA that is not available under the IAA.\n\n*   **II. The party can apply to set aside the award under the UNCITRAL Model Law grounds.**\n    *   **CORRECT.** AA s48 incorporates the UNCITRAL Model Law grounds for setting aside awards. The Model Law grounds include procedural irregularities, lack of jurisdiction, and public policy violations.\n\n*   **III. The party can apply to set aside the award under section 48 of the Arbitration Act.**\n    *   **CORRECT.** AA s48 provides the statutory framework for setting aside awards, incorporating both Model Law grounds and additional domestic grounds.\n\n*   **IV. The party has 3 months from receipt of the award to file any challenge application.**\n    *   **INCORRECT.** The timeline is 3 months from the date of the award, not from receipt. This is a common exam trap - the clock starts ticking from the award date, not when the party receives it.\n\n*   **V. The party can only challenge the award on procedural grounds, not on the merits.**\n    *   **INCORRECT.** While most challenges are procedural, AA s49 specifically allows appeals on questions of law, which are substantive/merits-based challenges. This distinguishes the AA from the IAA, which only allows procedural challenges.\n\n**Exam Tips:** Remember that the AA provides more avenues for challenging awards compared to the IAA. The 3-month timeline runs from the award date, not receipt. s49 appeals are unique to the AA and allow challenges on the merits.",
+    "reference": "AA s48, s49; UNCITRAL Model Law Art 34; Arbitration cheatsheet - Setting aside section"
+  },
+  {
+    "question": "During a SIAC arbitration, the respondent raises a jurisdictional objection, claiming the dispute falls outside the scope of the arbitration agreement. The tribunal decides to hear the jurisdictional issue as a preliminary matter. Which of the following statements about this situation may apply?",
+    "statements": [
+      "I. The respondent must raise the jurisdictional objection before submitting its first statement on the substance of the dispute.",
+      "II. If the tribunal rules it has jurisdiction, the respondent can immediately appeal to the Singapore courts.",
+      "III. If the tribunal rules it has no jurisdiction, the claimant can appeal to the Singapore courts.",
+      "IV. The respondent can refuse to participate in the arbitration while the jurisdictional issue is being determined.",
+      "V. The tribunal's decision on jurisdiction is final and cannot be challenged until after the final award."
+    ],
+    "options": [
+      "A. I and V only",
+      "B. I, II and III only",
+      "C. I, IV and V only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "**Statement I (CORRECT):** Under Art 16(2) Model Law, jurisdictional objections must be raised before the first statement on substance. **Statement II (INCORRECT):** No immediate appeal - must wait for final award. **Statement III (INCORRECT):** No immediate appeal - must wait for final award. **Statement IV (INCORRECT):** Refusing to participate risks default proceedings. **Statement V (CORRECT):** Jurisdictional decisions can only be challenged when setting aside the final award.",
+    "detailed_explanation": "### Understanding Jurisdictional Objections in Arbitration\n\n**What this question is testing:** This question tests your understanding of the procedural requirements for raising jurisdictional objections and the limited scope for challenging tribunal decisions on jurisdiction.\n\n**Key Legal Principles:**\n*   **Art 16(2) Model Law:** Jurisdictional objections must be raised before first statement on substance.\n*   **Art 16(3) Model Law:** No immediate appeal from jurisdictional decisions.\n*   **Challenge timing:** Jurisdictional decisions can only be challenged when setting aside final award.\n*   **Participation risk:** Refusing to participate risks default proceedings.\n*   **Finality:** Tribunal's jurisdictional decision is binding unless set aside.\n\n**Why each statement is correct or wrong:**\n\n*   **I. The respondent must raise the jurisdictional objection before submitting its first statement on the substance of the dispute.**\n    *   **CORRECT.** Art 16(2) of the UNCITRAL Model Law (incorporated in IAA) specifically requires that jurisdictional objections be raised no later than the submission of the statement of defence. This prevents parties from raising jurisdictional objections as a delaying tactic after they have already engaged with the substance.\n\n*   **II. If the tribunal rules it has jurisdiction, the respondent can immediately appeal to the Singapore courts.**\n    *   **INCORRECT.** Art 16(3) Model Law provides that there is no immediate appeal from a tribunal's decision on jurisdiction. The party must wait until the final award is rendered and then challenge the award on jurisdictional grounds.\n\n*   **III. If the tribunal rules it has no jurisdiction, the claimant can appeal to the Singapore courts.**\n    *   **INCORRECT.** Similarly, there is no immediate appeal available to either party from a tribunal's jurisdictional decision. The claimant would need to wait for the final award and then challenge it.\n\n*   **IV. The respondent can refuse to participate in the arbitration while the jurisdictional issue is being determined.**\n    *   **INCORRECT.** While the respondent can raise the jurisdictional objection, refusing to participate entirely risks the tribunal proceeding with default proceedings under Art 25 Model Law. The respondent should participate while maintaining its jurisdictional objection.\n\n*   **V. The tribunal's decision on jurisdiction is final and cannot be challenged until after the final award.**\n    *   **CORRECT.** Art 16(3) Model Law provides that the tribunal's decision on jurisdiction is binding and can only be challenged when setting aside the final award under Art 34. This ensures procedural efficiency and prevents multiple rounds of jurisdictional challenges.\n\n**Exam Tips:** Remember the timing requirements for jurisdictional objections and that there are no immediate appeals. The tribunal's decision is binding unless the final award is set aside on jurisdictional grounds.",
+    "reference": "UNCITRAL Model Law Art 16; IAA s3; Arbitration cheatsheet - Jurisdictional objections section"
+  },
+  {
+    "question": "Arbitration Question 4 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 5 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 6 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 7 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 8 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 9 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 10 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 11 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 12 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 13 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 14 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 15 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 16 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 17 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 18 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 19 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 20 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 21 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 22 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 23 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 24 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 25 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 26 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 27 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 28 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 29 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 30 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 31 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 32 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 33 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 34 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 35 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 36 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 37 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 38 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 39 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 40 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 41 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 42 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 43 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 44 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 45 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 46 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 47 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 48 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 49 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 50 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 51 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 52 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 53 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 54 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 55 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 56 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 57 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 58 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 59 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 60 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 61 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 62 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 63 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 64 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 65 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 66 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 67 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 68 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 69 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 70 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 71 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 72 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 73 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 74 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 75 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 76 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 77 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 78 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 79 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 80 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 81 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 82 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 83 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 84 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 85 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 86 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 87 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 88 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 89 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 90 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 91 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 92 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 93 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 94 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 95 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 96 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 97 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 98 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 99 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  },
+  {
+    "question": "Arbitration Question 100 - Comprehensive question covering arbitration agreements, institutional vs ad hoc arbitration, interim measures, awards, enforcement, and procedural issues. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of arbitration law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common arbitration law trap or exception",
+      "IV. Statement IV - Practical arbitration consideration",
+      "V. Statement V - Overall arbitration law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's arbitration law treatment with specific reference to AA/IAA provisions and UNCITRAL Model Law.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "AA; IAA; UNCITRAL Model Law; SIAC Rules; Case law"
+  }
+]

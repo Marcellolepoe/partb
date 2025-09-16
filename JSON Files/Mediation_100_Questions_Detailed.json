@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "TechCorp Pte Ltd and GlobalSoft Ltd are in a commercial dispute over software licensing fees. Both parties have agreed to mediation under the Singapore International Mediation Institute (SIMI). The mediator has been selected and the mediation is scheduled. Which of the following statements about the mediation process may apply?",
+    "statements": [
+      "I. The mediator can provide evaluative feedback on the legal merits of each party's case during the mediation.",
+      "II. The mediator must maintain strict confidentiality under the Mediation Act 2017.",
+      "III. The parties can agree to have the mediator act as both mediator and arbitrator in the same dispute.",
+      "IV. The mediator can issue binding decisions if the parties fail to reach agreement.",
+      "V. The mediation proceedings are protected by without prejudice privilege under section 10 of the Mediation Act."
+    ],
+    "options": [
+      "A. II and V only",
+      "B. I, II and V only",
+      "C. II, III and V only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "**Statement I (INCORRECT):** This depends on the type of mediation. Evaluative mediators can provide feedback, but facilitative mediators focus on process, not evaluation. **Statement II (CORRECT):** Mediation Act 2017 s9 requires strict confidentiality. **Statement III (INCORRECT):** Med-arb (mediator acting as arbitrator) is generally not permitted in the same dispute due to conflict of interest. **Statement IV (INCORRECT):** Mediators cannot issue binding decisions - that's the role of arbitrators or judges. **Statement V (CORRECT):** Mediation Act 2017 s10 provides without prejudice privilege protection.",
+    "detailed_explanation": "### Understanding Mediation Process and Legal Framework\n\n**What this question is testing:** This question tests your understanding of the mediation process, the different types of mediators, confidentiality obligations, and the legal framework under the Mediation Act 2017.\n\n**Key Legal Principles:**\n*   **Mediation Act 2017 s9:** Strict confidentiality requirements for mediation proceedings.\n*   **Mediation Act 2017 s10:** Without prejudice privilege protection for mediation communications.\n*   **Mediator types:** Evaluative vs facilitative mediators have different roles.\n*   **Med-arb prohibition:** Mediators cannot act as arbitrators in the same dispute.\n*   **Non-binding nature:** Mediators cannot issue binding decisions.\n\n**Why each statement is correct or wrong:**\n\n*   **I. The mediator can provide evaluative feedback on the legal merits of each party's case during the mediation.**\n    *   **INCORRECT.** This is a red herring that oversimplifies mediator roles. While evaluative mediators can provide feedback on legal merits, facilitative mediators focus on process and communication, not evaluation. The statement doesn't specify which type of mediation is being conducted, making it incorrect as a blanket statement.\n\n*   **II. The mediator must maintain strict confidentiality under the Mediation Act 2017.**\n    *   **CORRECT.** Mediation Act 2017 s9 specifically requires that mediation communications be kept confidential. This is a fundamental principle of mediation that ensures parties can speak freely without fear of their statements being used against them in subsequent proceedings.\n\n*   **III. The parties can agree to have the mediator act as both mediator and arbitrator in the same dispute.**\n    *   **INCORRECT.** Med-arb (mediator acting as arbitrator) in the same dispute is generally not permitted due to conflict of interest concerns. The mediator would have received confidential information during mediation that could influence their arbitral decision, creating a fundamental conflict.\n\n*   **IV. The mediator can issue binding decisions if the parties fail to reach agreement.**\n    *   **INCORRECT.** This confuses mediation with arbitration. Mediators facilitate negotiation and cannot issue binding decisions. If parties fail to reach agreement, they must pursue other dispute resolution methods like arbitration or litigation.\n\n*   **V. The mediation proceedings are protected by without prejudice privilege under section 10 of the Mediation Act.**\n    *   **CORRECT.** Mediation Act 2017 s10 specifically provides that mediation communications are protected by without prejudice privilege, ensuring that statements made during mediation cannot be used as evidence in subsequent court proceedings.\n\n**Exam Tips:** Remember that mediation is non-binding and confidential. Mediators facilitate, they don't decide. The Mediation Act 2017 provides strong confidentiality and privilege protections. Med-arb in the same dispute is generally not permitted.",
+    "reference": "Mediation Act 2017 ss9, 10; Mediation Advocacy notes - Mediation basics section"
+  },
+  {
+    "question": "During a mediation between TechCorp and GlobalSoft, the mediator conducts separate private sessions (caucuses) with each party. In the private session with TechCorp, the company reveals that it is willing to accept S$500,000 to settle the dispute, but asks the mediator not to reveal this to GlobalSoft. Which of the following statements about the mediator's obligations may apply?",
+    "statements": [
+      "I. The mediator must maintain absolute confidentiality and cannot reveal TechCorp's settlement position to GlobalSoft.",
+      "II. The mediator can reveal TechCorp's settlement position to GlobalSoft if it would help facilitate settlement.",
+      "III. The mediator can use the information to guide the negotiation process without revealing the specific amount.",
+      "IV. The mediator must inform both parties about the confidentiality rules at the beginning of mediation.",
+      "V. The mediator can reveal the information if TechCorp later denies having made the offer."
+    ],
+    "options": [
+      "A. I, III and IV only",
+      "B. II, III and IV only",
+      "C. I, II and V only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "**Statement I (CORRECT):** Mediators must maintain confidentiality of private caucus communications unless expressly authorized to reveal. **Statement II (INCORRECT):** Mediators cannot reveal confidential information without express authorization. **Statement III (CORRECT):** Mediators can use information to guide negotiations without revealing specifics. **Statement IV (CORRECT):** Mediators must explain confidentiality rules at the outset. **Statement V (INCORRECT):** Mediators cannot reveal confidential information even if a party later denies making statements.",
+    "detailed_explanation": "### Understanding Mediator Confidentiality and Caucus Communications\n\n**What this question is testing:** This question tests your understanding of mediator confidentiality obligations, particularly in private caucus sessions, and the ethical boundaries of mediator conduct.\n\n**Key Legal Principles:**\n*   **Confidentiality:** Mediators must maintain strict confidentiality of private communications.\n*   **Caucus sessions:** Private meetings allow parties to speak freely with the mediator.\n*   **Authorization required:** Mediators cannot reveal confidential information without express permission.\n*   **Process guidance:** Mediators can use information to guide process without revealing specifics.\n*   **Initial disclosure:** Mediators must explain confidentiality rules at the beginning.\n\n**Why each statement is correct or wrong:**\n\n*   **I. The mediator must maintain absolute confidentiality and cannot reveal TechCorp's settlement position to GlobalSoft.**\n    *   **CORRECT.** Mediators have a fundamental duty to maintain confidentiality of private caucus communications. TechCorp specifically asked the mediator not to reveal the information, creating an express confidentiality obligation. Revealing this would breach the trust essential to the mediation process.\n\n*   **II. The mediator can reveal TechCorp's settlement position to GlobalSoft if it would help facilitate settlement.**\n    *   **INCORRECT.** This is a common misconception. Even if revealing the information might help facilitate settlement, mediators cannot breach confidentiality without express authorization from the disclosing party. The ends do not justify the means in mediation confidentiality.\n\n*   **III. The mediator can use the information to guide the negotiation process without revealing the specific amount.**\n    *   **CORRECT.** Mediators can use confidential information to guide the process and ask strategic questions without revealing the specific confidential details. This allows them to be effective facilitators while maintaining confidentiality.\n\n*   **IV. The mediator must inform both parties about the confidentiality rules at the beginning of mediation.**\n    *   **CORRECT.** Mediators have a duty to explain the confidentiality rules and process at the beginning of mediation. This ensures all parties understand their rights and obligations regarding confidentiality.\n\n*   **V. The mediator can reveal the information if TechCorp later denies having made the offer.**\n    *   **INCORRECT.** Mediators cannot reveal confidential information even if a party later denies making statements. The confidentiality obligation is absolute and cannot be waived by subsequent conduct or statements.\n\n**Exam Tips:** Mediator confidentiality is absolute unless expressly authorized. Mediators can use information to guide process but cannot reveal specifics. The duty to explain confidentiality rules exists at the outset of mediation.",
+    "reference": "Mediation Act 2017 s9; Mediation Advocacy notes - Confidentiality section; SIMI Code of Conduct"
+  },
+  {
+    "question": "TechCorp and GlobalSoft have reached a settlement agreement during mediation. The agreement is documented in writing and signed by both parties. However, GlobalSoft later refuses to perform its obligations under the settlement agreement. Which of the following statements about enforcing the mediated settlement agreement may apply?",
+    "statements": [
+      "I. The settlement agreement can be enforced as a contract under general contract law principles.",
+      "II. The settlement agreement can be converted into a consent judgment by the Singapore courts.",
+      "III. The settlement agreement is automatically enforceable under the Mediation Act 2017.",
+      "IV. The settlement agreement can be enforced through summary judgment proceedings.",
+      "V. The settlement agreement must be registered with the Singapore International Mediation Centre to be enforceable."
+    ],
+    "options": [
+      "A. I, II and IV only",
+      "B. I, II, III and IV only",
+      "C. I, II and V only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "**Statement I (CORRECT):** Mediated settlement agreements are contracts and can be enforced under general contract law. **Statement II (CORRECT):** Courts can convert settlement agreements into consent judgments for enforcement. **Statement III (INCORRECT):** The Mediation Act 2017 doesn't provide automatic enforcement - it's a contract. **Statement IV (CORRECT):** Settlement agreements can be enforced through summary judgment if there's no genuine dispute. **Statement V (INCORRECT):** No registration requirement exists for enforcement of mediated settlement agreements.",
+    "detailed_explanation": "### Understanding Enforcement of Mediated Settlement Agreements\n\n**What this question is testing:** This question tests your understanding of how mediated settlement agreements are enforced, the legal nature of such agreements, and the available enforcement mechanisms.\n\n**Key Legal Principles:**\n*   **Contract nature:** Mediated settlement agreements are contracts governed by general contract law.\n*   **Consent judgments:** Courts can convert settlement agreements into consent judgments.\n*   **Summary judgment:** Available if there's no genuine dispute about the agreement.\n*   **No automatic enforcement:** Mediation Act 2017 doesn't provide automatic enforcement mechanisms.\n*   **No registration requirement:** Settlement agreements don't need to be registered to be enforceable.\n\n**Why each statement is correct or wrong:**\n\n*   **I. The settlement agreement can be enforced as a contract under general contract law principles.**\n    *   **CORRECT.** A mediated settlement agreement is fundamentally a contract between the parties. It creates legally binding obligations that can be enforced through normal contract law remedies, including specific performance and damages.\n\n*   **II. The settlement agreement can be converted into a consent judgment by the Singapore courts.**\n    *   **CORRECT.** Singapore courts can convert mediated settlement agreements into consent judgments under the Rules of Court. This provides a more direct enforcement mechanism and allows for execution proceedings if the judgment is not complied with.\n\n*   **III. The settlement agreement is automatically enforceable under the Mediation Act 2017.**\n    *   **INCORRECT.** The Mediation Act 2017 focuses on confidentiality and privilege protections, not enforcement mechanisms. Settlement agreements must be enforced through normal contract law or court procedures, not automatically under the Act.\n\n*   **IV. The settlement agreement can be enforced through summary judgment proceedings.**\n    *   **CORRECT.** If there is no genuine dispute about the terms of the settlement agreement, it can be enforced through summary judgment proceedings under the Rules of Court. This provides a faster enforcement mechanism than full trial.\n\n*   **V. The settlement agreement must be registered with the Singapore International Mediation Centre to be enforceable.**\n    *   **INCORRECT.** There is no requirement to register mediated settlement agreements with SIMC or any other institution for enforcement purposes. The agreement's enforceability depends on its contractual validity, not registration.\n\n**Exam Tips:** Mediated settlement agreements are contracts that can be enforced through normal contract law remedies, consent judgments, or summary judgment. The Mediation Act 2017 doesn't provide automatic enforcement mechanisms. No registration is required for enforcement.",
+    "reference": "Mediation Act 2017; Rules of Court 2021; Contract law principles; Mediation Advocacy notes - Settlement agreements section"
+  },
+  {
+    "question": "Mediation Advocacy Question 4 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 5 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 6 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 7 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 8 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 9 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 10 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 11 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 12 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 13 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 14 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 15 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 16 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 17 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 18 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 19 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 20 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 21 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 22 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 23 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 24 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 25 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 26 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 27 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 28 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 29 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 30 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 31 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 32 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 33 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 34 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 35 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 36 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 37 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 38 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 39 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 40 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 41 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 42 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 43 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 44 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 45 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 46 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 47 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 48 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 49 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 50 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 51 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 52 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 53 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 54 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 55 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 56 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 57 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 58 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 59 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 60 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 61 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 62 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 63 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 64 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 65 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 66 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 67 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 68 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 69 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 70 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 71 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 72 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 73 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 74 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 75 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 76 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 77 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 78 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 79 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 80 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 81 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 82 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 83 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 84 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 85 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 86 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 87 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 88 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 89 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 90 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 91 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 92 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 93 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 94 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 95 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 96 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 97 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 98 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 99 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  },
+  {
+    "question": "Mediation Advocacy Question 100 - Comprehensive question covering mediation process, mediator roles, confidentiality, settlement agreements, and advocacy techniques. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of mediation law application",
+      "II. Statement II - Specific provision analysis",
+      "III. Statement III - Common mediation law trap or exception",
+      "IV. Statement IV - Practical mediation consideration",
+      "V. Statement V - Overall mediation law position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's mediation law treatment with specific reference to Mediation Act 2017 and mediation principles.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Mediation Act 2017; SIMI Code of Conduct; Mediation Advocacy notes; Case law"
+  }
+]

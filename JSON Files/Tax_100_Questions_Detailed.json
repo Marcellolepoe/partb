@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "TechCorp Pte Ltd, a Singapore-incorporated company, has the following income streams in Year of Assessment 2024: (1) S$2 million from software licensing to customers in Singapore, (2) S$500,000 from consulting services provided to clients in Malaysia (services performed in Singapore), (3) S$300,000 dividend income from a Malaysian subsidiary, and (4) S$200,000 capital gain from sale of investment property in Singapore. The company's CFO is calculating the chargeable income. Which of the following statements about the tax treatment may apply?",
+    "statements": [
+      "I. The S$2 million software licensing income is chargeable to tax as it is derived from Singapore.",
+      "II. The S$500,000 consulting income is chargeable to tax as the services were performed in Singapore, even though the clients are in Malaysia.",
+      "III. The S$300,000 dividend income from the Malaysian subsidiary is not chargeable to tax as it is foreign-sourced income.",
+      "IV. The S$200,000 capital gain from the property sale is chargeable to tax as it is derived from Singapore.",
+      "V. All income streams are chargeable to tax under section 10(1) of the Income Tax Act."
+    ],
+    "options": [
+      "A. I, II and V only",
+      "B. I, II and III only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "**Statement I (CORRECT):** Software licensing income is chargeable as it's derived from Singapore (services provided from Singapore to Singapore customers). **Statement II (CORRECT):** Consulting services performed in Singapore are chargeable regardless of where the clients are located, as the income is derived from Singapore. **Statement III (INCORRECT):** Foreign-sourced dividend income is generally not chargeable to tax in Singapore unless received in Singapore and the company does not meet the economic substance requirements. **Statement IV (INCORRECT):** Capital gains are generally not chargeable to tax in Singapore unless they fall under specific provisions. **Statement V (CORRECT):** The chargeable income includes the licensing and consulting income, but not the dividend or capital gain.",
+    "detailed_explanation": "### Understanding Singapore Corporate Income Tax Charging Provisions\n\n**What this question is testing:** This question tests your understanding of Singapore's semi-territorial tax system and the charging provisions under section 10(1) of the Income Tax Act. It requires you to distinguish between different types of income and their tax treatment based on source and nature.\n\n**Key Legal Principles:**\n*   **Section 10(1) ITA:** Income tax is payable on income accruing in or derived from Singapore, or received in Singapore from outside Singapore.\n*   **Semi-territorial system:** Singapore taxes income derived from Singapore and foreign income received in Singapore.\n*   **Source of income:** Determined by where the income-producing activities take place, not where the customers are located.\n*   **Capital vs Income:** Capital gains are generally not taxable unless specifically provided for.\n*   **Foreign-sourced income:** Generally not taxable unless received in Singapore and specific conditions are met.\n\n**Why each statement is correct or wrong:**\n\n*   **I. The S$2 million software licensing income is chargeable to tax as it is derived from Singapore.**\n    *   **CORRECT.** Software licensing income where the services are provided from Singapore to Singapore customers is clearly derived from Singapore and chargeable under section 10(1). The source is determined by where the income-producing activities (licensing) take place.\n\n*   **II. The S$500,000 consulting income is chargeable to tax as the services were performed in Singapore, even though the clients are in Malaysia.**\n    *   **CORRECT.** The key factor is where the services are performed, not where the clients are located. Since the consulting services were performed in Singapore, the income is derived from Singapore and chargeable to tax.\n\n*   **III. The S$300,000 dividend income from the Malaysian subsidiary is not chargeable to tax as it is foreign-sourced income.**\n    *   **INCORRECT.** This is a red herring. While foreign-sourced dividend income is generally not chargeable, the statement oversimplifies the rule. Foreign-sourced income may be chargeable if received in Singapore and the company does not meet the economic substance requirements under section 10L. The question doesn't provide enough information about whether the dividend was received in Singapore or whether the company meets the economic substance test.\n\n*   **IV. The S$200,000 capital gain from the property sale is chargeable to tax as it is derived from Singapore.**\n    *   **INCORRECT.** This is a common exam trap. Capital gains are generally not chargeable to tax in Singapore unless they fall under specific provisions (e.g., gains from trading in property, gains from sale of shares in property companies). The mere fact that the property is in Singapore does not make the capital gain chargeable.\n\n*   **V. All income streams are chargeable to tax under section 10(1) of the Income Tax Act.**\n    *   **CORRECT.** Based on the analysis above, the software licensing income (S$2m) and consulting income (S$500k) are chargeable, totaling S$2.5 million chargeable income.\n\n**Exam Tips:** Always distinguish between income and capital, and remember that source is determined by where the income-producing activities take place, not where the customers are located. Be careful with foreign-sourced income rules and capital gains exceptions.",
+    "reference": "Income Tax Act s10(1), s10L; IRAS e-Tax Guide on Corporate Income Tax"
+  },
+  {
+    "question": "ManufacturingCorp Ltd incurred the following expenses in Year of Assessment 2024: (1) S$100,000 interest on a bank loan used to purchase new machinery, (2) S$50,000 legal fees for defending a patent infringement lawsuit, (3) S$30,000 entertainment expenses for client dinners, (4) S$20,000 donation to an approved charity, and (5) S$15,000 penalty for late filing of GST returns. The company's tax advisor is determining which expenses are deductible. Which of the following statements about the deductibility may apply?",
+    "statements": [
+      "I. The S$100,000 interest expense is deductible under section 14(1) as it was incurred wholly and exclusively in the production of income.",
+      "II. The S$50,000 legal fees are deductible as they were incurred to protect the company's business assets.",
+      "III. The S$30,000 entertainment expenses are fully deductible as they were incurred for business purposes.",
+      "IV. The S$20,000 donation is deductible under section 14(1)(a) as it was made to an approved charity.",
+      "V. The S$15,000 penalty is deductible as it was incurred in the ordinary course of business."
+    ],
+    "options": [
+      "A. I, II and IV only",
+      "B. I, II, III and IV only",
+      "C. I, II and V only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "**Statement I (CORRECT):** Interest on business loans is generally deductible under section 14(1) as it's incurred wholly and exclusively in the production of income. **Statement II (CORRECT):** Legal fees to protect business assets (like patents) are deductible as they're incurred to protect income-producing assets. **Statement III (INCORRECT):** Entertainment expenses are subject to restrictions and are not fully deductible. **Statement IV (CORRECT):** Donations to approved charities are deductible under section 14(1)(a). **Statement V (INCORRECT):** Penalties are generally not deductible as they're not incurred in the production of income but as a consequence of non-compliance.",
+    "detailed_explanation": "### Understanding Allowable Deductions Under Section 14(1) ITA\n\n**What this question is testing:** This question tests your understanding of the general deduction rule under section 14(1) and specific deduction provisions, as well as common exclusions and restrictions on deductions.\n\n**Key Legal Principles:**\n*   **Section 14(1) ITA:** Expenditure wholly and exclusively incurred in the production of income is deductible.\n*   **Section 15(1) ITA:** Lists specific exclusions from deduction.\n*   **Wholly and exclusively test:** The expenditure must be incurred solely for business purposes.\n*   **Capital vs Revenue:** Capital expenditure is generally not deductible (except through capital allowances).\n*   **Penalties and fines:** Generally not deductible as they're not incurred in the production of income.\n\n**Why each statement is correct or wrong:**\n\n*   **I. The S$100,000 interest expense is deductible under section 14(1) as it was incurred wholly and exclusively in the production of income.**\n    *   **CORRECT.** Interest on business loans is a classic example of deductible expenditure under section 14(1). The loan was used to purchase income-producing machinery, making the interest wholly and exclusively for business purposes.\n\n*   **II. The S$50,000 legal fees are deductible as they were incurred to protect the company's business assets.**\n    *   **CORRECT.** Legal fees incurred to protect business assets (like defending patent infringement) are deductible as they're incurred to protect the company's income-producing capacity. This is different from legal fees for capital transactions.\n\n*   **III. The S$30,000 entertainment expenses are fully deductible as they were incurred for business purposes.**\n    *   **INCORRECT.** Entertainment expenses are subject to restrictions under section 15(1)(c). Only 25% of entertainment expenses are deductible, and there are further restrictions for certain types of entertainment.\n\n*   **IV. The S$20,000 donation is deductible under section 14(1)(a) as it was made to an approved charity.**\n    *   **CORRECT.** Donations to approved charities are specifically deductible under section 14(1)(a), subject to certain limits and conditions.\n\n*   **V. The S$15,000 penalty is deductible as it was incurred in the ordinary course of business.**\n    *   **INCORRECT.** Penalties and fines are generally not deductible under section 15(1)(g) as they're not incurred in the production of income but as a consequence of non-compliance with legal requirements.\n\n**Exam Tips:** Always check both section 14(1) for general deductibility and section 15(1) for specific exclusions. Remember that penalties, fines, and certain types of entertainment have specific restrictions.",
+    "reference": "Income Tax Act s14(1), s15(1); IRAS e-Tax Guide on Deductions"
+  },
+  {
+    "question": "Tax Question 3 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 4 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 5 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 6 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 7 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 8 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 9 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 10 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 11 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 12 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 13 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 14 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 15 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 16 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 17 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 18 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 19 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 20 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 21 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 22 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 23 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 24 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 25 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 26 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 27 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 28 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 29 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 30 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 31 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 32 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 33 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 34 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 35 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 36 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 37 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 38 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 39 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 40 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 41 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 42 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 43 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 44 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 45 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 46 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 47 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 48 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 49 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 50 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 51 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 52 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 53 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 54 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 55 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 56 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 57 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 58 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 59 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 60 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 61 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 62 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 63 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 64 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 65 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 66 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 67 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 68 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 69 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 70 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 71 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 72 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 73 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 74 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 75 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 76 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 77 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 78 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 79 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 80 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 81 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 82 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 83 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 84 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 85 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 86 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 87 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 88 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 89 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 90 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 91 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 92 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 93 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 94 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 95 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 96 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 97 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 98 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 99 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  },
+  {
+    "question": "Tax Question 100 - Comprehensive question covering corporate income tax, GST, stamp duty, withholding tax, and M&A tax considerations. This will be replaced with detailed scenario-based questions.",
+    "statements": [
+      "I. Statement I - Detailed analysis of tax treatment",
+      "II. Statement II - Specific tax provision application",
+      "III. Statement III - Common tax trap or exception",
+      "IV. Statement IV - Practical tax consideration",
+      "V. Statement V - Overall tax position assessment"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "Detailed explanation of each statement's tax treatment with specific reference to Income Tax Act provisions and IRAS guidelines.",
+    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "reference": "Income Tax Act; IRAS e-Tax Guides; Case law"
+  }
+]

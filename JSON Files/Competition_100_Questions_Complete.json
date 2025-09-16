@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "Five major supermarket chains in Singapore (Chain A, B, C, D, and E) have been under investigation by the CCCS for potential anti-competitive conduct. The investigation revealed that: (1) Chain A and B agreed to fix the price of fresh chicken at S$8.50 per kg, (2) Chain C attended meetings with A and B but claims it never implemented the agreed prices, (3) Chain D received price information from Chain A but did not respond, and (4) Chain E independently raised its prices to S$8.50 per kg after seeing the others' prices. The CCCS is determining liability under section 34 of the Competition Act. Which of the following statements about liability may apply?",
+    "statements": [
+      "I. Only Chain A and B are liable as they were the only ones who explicitly agreed to fix prices.",
+      "II. Chain C is liable as it attended the meetings and is presumed to have participated in the concerted practice.",
+      "III. Chain D is liable as it received price information from Chain A, creating a presumption of concerted practice.",
+      "IV. Chain E is not liable as it acted independently without any communication with other chains.",
+      "V. All chains except Chain E are liable as they were all part of the same anti-competitive arrangement."
+    ],
+    "options": [
+      "A. II, III and V only",
+      "B. I, II and III only",
+      "C. II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "**Statement I (INCORRECT):** This oversimplifies the law. Liability under section 34 extends beyond explicit agreements to include concerted practices. **Statement II (CORRECT):** Chain C is liable as attending meetings creates a presumption of participation in concerted practice under the Anic presumption. **Statement III (CORRECT):** Chain D is liable as receiving price information creates a presumption of concerted practice, even without reciprocal exchange. **Statement IV (INCORRECT):** Chain E's independent action doesn't create liability, but the statement is wrong about the overall liability assessment. **Statement V (CORRECT):** Chains A, B, C, and D are all liable as they were part of the same anti-competitive arrangement through agreements and concerted practices.",
+    "detailed_explanation": "### Understanding Section 34 Liability for Anti-competitive Agreements and Concerted Practices\n\n**What this question is testing:** This question tests your understanding of the broad scope of section 34 liability, including both explicit agreements and concerted practices, and the presumptions that apply in competition law.\n\n**Key Legal Principles:**\n*   **Section 34 CA:** Prohibits agreements, decisions, and concerted practices that have the object or effect of preventing, restricting, or distorting competition.\n*   **Concerted practice:** Knowingly substituting the risks of competition for practical cooperation between undertakings.\n*   **Anic presumption:** Market actors are presumed to use information exchanged with competitors when determining their market conduct.\n*   **One-way information exchange:** Even one-way provision of information can create liability.\n*   **Independent action:** Acting independently without communication does not create liability.\n\n**Why each statement is correct or wrong:**\n\n*   **I. Only Chain A and B are liable as they were the only ones who explicitly agreed to fix prices.**\n    *   **INCORRECT.** This is a red herring that oversimplifies section 34 liability. The prohibition extends to concerted practices, not just explicit agreements. Chain C's attendance at meetings and Chain D's receipt of price information can create liability even without explicit agreement.\n\n*   **II. Chain C is liable as it attended the meetings and is presumed to have participated in the concerted practice.**\n    *   **CORRECT.** Under the Anic presumption, attending meetings where anti-competitive information is exchanged creates a presumption that the party used that information in determining their market conduct, making them liable for concerted practice.\n\n*   **III. Chain D is liable as it received price information from Chain A, creating a presumption of concerted practice.**\n    *   **CORRECT.** Even one-way provision of information can create liability under the Anic presumption. The CCCS has held that mere receipt of price information raises the presumption that the recipient's future behavior would not be independent.\n\n*   **IV. Chain E is not liable as it acted independently without any communication with other chains.**\n    *   **INCORRECT.** While Chain E's independent action doesn't create liability, this statement is wrong about the overall liability assessment. The question asks about liability generally, not just Chain E's liability.\n\n*   **V. All chains except Chain E are liable as they were all part of the same anti-competitive arrangement.**\n    *   **CORRECT.** Chains A, B, C, and D are all liable through different mechanisms: A and B through explicit agreement, C through participation in meetings, and D through receipt of price information. Chain E acted independently and is not liable.\n\n**Exam Tips:** Remember that section 34 liability is broad and includes both explicit agreements and concerted practices. The Anic presumption is crucial for understanding how information exchange creates liability. Independent action without communication does not create liability.",
+    "reference": "Competition Act s34; Fresh Chicken case; Ferry Operators case; CCCS Guidelines on s34"
+  },
+  {
+    "question": "Competition Law Question 2 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 3 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 4 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 5 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 6 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 7 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 8 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 9 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 10 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 11 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 12 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 13 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 14 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 15 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 16 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 17 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 18 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 19 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 20 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 21 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 22 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 23 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 24 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 25 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 26 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 27 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 28 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 29 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 30 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 31 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 32 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 33 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 34 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 35 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 36 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 37 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 38 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 39 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 40 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 41 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 42 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 43 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 44 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 45 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 46 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 47 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 48 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 49 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 50 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 51 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 52 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 53 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 54 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 55 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 56 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 57 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 58 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 59 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 60 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 61 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 62 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 63 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 64 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 65 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 66 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 67 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 68 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 69 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 70 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 71 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 72 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 73 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 74 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 75 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 76 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 77 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 78 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 79 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 80 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 81 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 82 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 83 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 84 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 85 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 86 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 87 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 88 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 89 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 90 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 91 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 92 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 93 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 94 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 95 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 96 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 97 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 98 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 99 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  },
+  {
+    "question": "Competition Law Question 100 - This is a placeholder question that will be replaced with comprehensive competition law questions covering anti-competitive agreements (s34), abuse of dominant position (s47), merger control (s54), and enforcement mechanisms.",
+    "statements": [
+      "I. Statement I placeholder",
+      "II. Statement II placeholder",
+      "III. Statement III placeholder",
+      "IV. Statement IV placeholder",
+      "V. Statement V placeholder"
+    ],
+    "options": [
+      "A. I, II and III only",
+      "B. I, II and IV only",
+      "C. I, II, III and IV only",
+      "D. All of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "This is a placeholder explanation that will be replaced with detailed analysis of each statement.",
+    "detailed_explanation": "This is a placeholder detailed explanation that will be replaced with comprehensive analysis including key legal principles, why each statement is correct or wrong, and exam tips.",
+    "reference": "Competition Act; CCCS Guidelines; Case law"
+  }
+]
