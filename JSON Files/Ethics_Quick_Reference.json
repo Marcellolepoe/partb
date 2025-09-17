@@ -1,0 +1,467 @@
+{
+  "topic": "Ethics & Professional Responsibility - Quick Reference Guide",
+  "purpose": "Rapid rule lookup and issue identification",
+  "sections": {
+    "ethics_framework": {
+      "title": "The ETHICS Checklist",
+      "description": "Use this systematic approach for every ethics scenario",
+      "framework": {
+        "E": {
+          "name": "Engagement Issues",
+          "rules": ["Rule 5", "Rule 6"],
+          "key_questions": [
+            "Retainer formation/termination problems?",
+            "Competence/diligence issues?",
+            "Confidentiality breaches?"
+          ],
+          "common_scenarios": [
+            "Client asks for advice outside expertise",
+            "Client wants you to lie to court",
+            "Client complains about lack of communication",
+            "Client wants to share confidential information"
+          ]
+        },
+        "T": {
+          "name": "Two or More Clients",
+          "rules": ["Rule 20", "Rule 21", "Rule 22"],
+          "key_questions": [
+            "Current client conflicts?",
+            "Former client conflicts?",
+            "Personal interest conflicts?"
+          ],
+          "common_scenarios": [
+            "Two clients in same transaction",
+            "Former client's competitor wants to hire you",
+            "Client wants to sue your business partner",
+            "Two co-defendants want joint representation"
+          ]
+        },
+        "H": {
+          "name": "Honesty to Court",
+          "rules": ["Rule 9", "Rule 10"],
+          "key_questions": [
+            "Is lawyer misleading court?",
+            "Is client giving false evidence?",
+            "Is lawyer supervising client conduct properly?"
+          ],
+          "common_scenarios": [
+            "Client admits guilt but wants to plead not guilty",
+            "Client wants to present false evidence",
+            "Client lies in affidavit",
+            "Lawyer discovers client is lying"
+          ]
+        },
+        "I": {
+          "name": "Improper Financial Arrangements",
+          "rules": ["Rule 23", "Rule 24", "Rule 25"],
+          "key_questions": [
+            "Is lawyer borrowing from clients?",
+            "Is lawyer buying from clients?",
+            "Is lawyer accepting gifts from clients?"
+          ],
+          "common_scenarios": [
+            "Client offers to lend money",
+            "Client wants to sell you property",
+            "Client gives expensive gift",
+            "Client wants to invest in your firm"
+          ]
+        },
+        "C": {
+          "name": "Court Duties",
+          "rules": ["Rule 11", "Rule 12", "Rule 13"],
+          "key_questions": [
+            "Conflict in proceedings?",
+            "Proper witness handling?",
+            "Respectful court conduct?"
+          ],
+          "common_scenarios": [
+            "Lawyer is material witness",
+            "Witness wants payment for testimony",
+            "Lawyer gives undertaking to court",
+            "Lawyer disrespects court"
+          ]
+        },
+        "S": {
+          "name": "Special Situations",
+          "rules": ["Rule 14", "Rule 15", "Rule 15B"],
+          "key_questions": [
+            "Criminal defense issues?",
+            "Prosecution issues?",
+            "Family law conflicts?"
+          ],
+          "common_scenarios": [
+            "Client admits guilt in criminal case",
+            "Prosecutor discovers favorable evidence",
+            "Husband and wife want joint representation",
+            "Client absconds during trial"
+          ]
+        }
+      }
+    },
+    "rule_summary": {
+      "title": "PCR Rules Summary",
+      "rules": {
+        "rule_4": {
+          "title": "Rule 4 - General Principles",
+          "key_principle": "Paramount duty to court takes precedence over duty to client",
+          "application": "When client wants you to do something that would mislead court, you must refuse",
+          "common_breaches": [
+            "Presenting false evidence",
+            "Suppressing relevant information",
+            "Misleading court about law or facts"
+          ]
+        },
+        "rule_5": {
+          "title": "Rule 5 - Honesty, Competence and Diligence",
+          "key_principle": "Comprehensive duty to client in all aspects of representation",
+          "main_requirements": [
+            "Be honest with client",
+            "Inform client of important information",
+            "Act with competence and diligence",
+            "Have relevant knowledge and skills",
+            "Keep client informed of progress",
+            "Respond promptly to communications",
+            "Keep appointments",
+            "Provide timely advice",
+            "Follow lawful instructions",
+            "Use all legal means to advance client interests",
+            "Keep contemporaneous records"
+          ],
+          "common_breaches": [
+            "Giving advice outside expertise",
+            "Not responding to client calls",
+            "Missing appointments",
+            "Not keeping client informed"
+          ]
+        },
+        "rule_6": {
+          "title": "Rule 6 - Confidentiality",
+          "key_principle": "Keep all client information confidential with 5 specific exceptions",
+          "five_exceptions": [
+            "Client consents to disclosure",
+            "Disclosure required by law or court order",
+            "Disclosure necessary to prevent death or serious bodily harm",
+            "Disclosure necessary to prevent client from committing crime or fraud",
+            "Disclosure necessary to defend lawyer against allegations of misconduct"
+          ],
+          "common_breaches": [
+            "Sharing client information without consent",
+            "Discussing client matters in public",
+            "Not maintaining confidentiality after retainer ends"
+          ]
+        },
+        "rule_9": {
+          "title": "Rule 9 - Duty to Court",
+          "key_principle": "Never mislead the court - this is your paramount duty",
+          "main_requirements": [
+            "Do not mislead court, court staff, other lawyers, or witnesses",
+            "Do not fabricate facts or evidence",
+            "Do not include false statements in court documents",
+            "Do not express personal opinion of client's conduct",
+            "Do not allow personal opinion to affect work",
+            "Do not mislead court with wrong law",
+            "Do not concoct evidence or facts",
+            "Inform court of relevant decisions and laws",
+            "Disclose every fact and evidence required"
+          ],
+          "common_breaches": [
+            "Presenting false evidence",
+            "Mischaracterizing the law",
+            "Suppressing relevant information",
+            "Making false statements in court documents"
+          ]
+        },
+        "rule_10": {
+          "title": "Rule 10 - Responsibility for Client's Conduct",
+          "key_principle": "You are responsible for ensuring your client doesn't mislead the court",
+          "main_requirements": [
+            "Inform client of duties to court",
+            "Prevent client from suppressing evidence and giving false evidence",
+            "If client gives false evidence, cease acting or continue but don't perpetuate falsehood",
+            "Don't render advice for dishonest, fraudulent or unlawful purposes",
+            "Prevent impropriety of client"
+          ],
+          "common_breaches": [
+            "Allowing client to lie in court",
+            "Helping client suppress evidence",
+            "Giving advice for illegal purposes",
+            "Not supervising client conduct"
+          ]
+        },
+        "rule_11": {
+          "title": "Rule 11 - Conflict of Interest in Proceedings",
+          "key_principle": "Cannot act if you have a conflict in court proceedings",
+          "main_requirements": [
+            "Cannot appear before court if in conflict of interest",
+            "Cannot act for client if you're required to give evidence material to the case"
+          ],
+          "common_breaches": [
+            "Acting as both lawyer and witness",
+            "Having financial interest in outcome",
+            "Personal relationship with opposing party"
+          ]
+        },
+        "rule_12": {
+          "title": "Rule 12 - Witness Handling",
+          "key_principle": "Proper conduct when dealing with witnesses",
+          "main_requirements": [
+            "Cannot discuss with witness after cross-examination starts",
+            "Cannot make unaddressed allegations during cross-examination",
+            "Cannot suggest witness is guilty of offense",
+            "Cannot make statements to vilify, insult or annoy witness",
+            "Can interview any witness (including opposing witness)",
+            "Cannot offer payment contingent on evidence given"
+          ],
+          "common_breaches": [
+            "Coaching witnesses",
+            "Paying for testimony",
+            "Making improper allegations",
+            "Discussing testimony after cross-examination"
+          ]
+        },
+        "rule_13": {
+          "title": "Rule 13 - Court Respect and Undertakings",
+          "key_principle": "Show respect to court and honor all undertakings",
+          "main_requirements": [
+            "Be respectful to court",
+            "Be courteous to court and other persons",
+            "Honor all undertakings given to court",
+            "Don't give undertaking unless necessary and you can honor it",
+            "Don't facilitate publication of contemptuous material"
+          ],
+          "common_breaches": [
+            "Disrespecting court",
+            "Breaking undertakings",
+            "Giving undertakings you can't honor",
+            "Facilitating contemptuous publications"
+          ]
+        },
+        "rule_14": {
+          "title": "Rule 14 - Criminal Defense Duties",
+          "key_principle": "Special duties when defending criminal cases",
+          "main_requirements": [
+            "Pursue every reasonable defense",
+            "Cannot pursue certain improper acts",
+            "When accused confesses to offense, must handle properly",
+            "Advise accused properly",
+            "When accused absconds, must handle properly",
+            "Cannot vilify during mitigation",
+            "When accused has previous convictions, must handle properly"
+          ],
+          "common_breaches": [
+            "Presenting false evidence",
+            "Making improper allegations",
+            "Not advising client properly",
+            "Vilifying during mitigation"
+          ]
+        },
+        "rule_15": {
+          "title": "Rule 15 - Prosecution Duties",
+          "key_principle": "Special duties when prosecuting criminal cases",
+          "main_requirements": [
+            "Present evidence fairly and without fear",
+            "Cannot suppress evidence favorable to accused",
+            "Cannot make improper allegations",
+            "Cannot vilify accused during sentencing"
+          ],
+          "common_breaches": [
+            "Suppressing favorable evidence",
+            "Making improper allegations",
+            "Vilifying accused",
+            "Not presenting evidence fairly"
+          ]
+        },
+        "rule_15B": {
+          "title": "Rule 15B - Family Law Conflicts",
+          "key_principle": "Special conflict rules for family law matters",
+          "main_requirements": [
+            "Cannot act for both parties in family law matters",
+            "Cannot act for one party if you previously acted for both",
+            "Cannot act for one party if you have confidential information about the other"
+          ],
+          "common_breaches": [
+            "Representing both spouses in divorce",
+            "Acting for one spouse after representing both",
+            "Using confidential information from one spouse against the other"
+          ]
+        },
+        "rule_20": {
+          "title": "Rule 20 - Interests of 2 or More Clients",
+          "key_principle": "Cannot act for clients with conflicting interests unless specific conditions met",
+          "main_requirements": [
+            "Cannot act for clients with conflicting interests",
+            "Exception: If clients give informed consent after full disclosure",
+            "Must be able to act in best interests of each client"
+          ],
+          "common_breaches": [
+            "Representing buyer and seller in same transaction",
+            "Representing two parties in litigation against each other",
+            "Representing two co-defendants with conflicting defenses"
+          ]
+        },
+        "rule_21": {
+          "title": "Rule 21 - Current Client vs Former Client",
+          "key_principle": "Cannot act against former client if you have confidential information that could be used against them",
+          "main_requirements": [
+            "Cannot act for current client against former client",
+            "If you have confidential information from former client",
+            "That information could be used against former client",
+            "In the current matter"
+          ],
+          "three_exceptions": [
+            "Former client gives informed consent",
+            "Information is no longer confidential",
+            "Information is not relevant to current matter"
+          ],
+          "common_breaches": [
+            "Acting for former client's competitor",
+            "Using confidential information against former client",
+            "Acting for former client's business partner against them"
+          ]
+        },
+        "rule_22": {
+          "title": "Rule 22 - Client vs Lawyer/Law Practice Interests",
+          "key_principle": "Cannot act when your personal interests conflict with client's interests",
+          "main_requirements": [
+            "Cannot act if personal interest conflicts with client interest",
+            "Cannot act if law practice interest conflicts with client interest",
+            "Must avoid situations where you benefit at client's expense"
+          ],
+          "common_breaches": [
+            "Client wants to sue your business partner",
+            "Client wants to buy property you own",
+            "Client's case could affect your other client",
+            "You have personal relationship with opposing party"
+          ]
+        },
+        "rule_23": {
+          "title": "Rule 23 - Prohibited Borrowing Transactions",
+          "key_principle": "Cannot borrow money from clients except in very limited circumstances",
+          "main_requirements": [
+            "Cannot borrow money from client",
+            "Cannot guarantee client's debt",
+            "Cannot act as surety for client",
+            "Exception: Client is financial institution in ordinary course of business"
+          ],
+          "common_breaches": [
+            "Borrowing money from client",
+            "Guaranteeing client's loan",
+            "Acting as surety for client",
+            "Accepting investment from client"
+          ]
+        },
+        "rule_24": {
+          "title": "Rule 24 - Purchases from Client",
+          "key_principle": "Cannot buy property from client unless specific conditions met",
+          "main_requirements": [
+            "Cannot purchase property from client",
+            "Exception: If client is in business of selling such property",
+            "Exception: If property is publicly traded",
+            "Exception: If client gives informed consent after independent advice"
+          ],
+          "common_breaches": [
+            "Buying client's house",
+            "Buying client's business",
+            "Buying client's car (unless they're a dealer)",
+            "Buying shares in client's private company"
+          ]
+        },
+        "rule_25": {
+          "title": "Rule 25 - Gifts from Client",
+          "key_principle": "Cannot accept significant gifts from clients",
+          "main_requirements": [
+            "Cannot accept significant gift from client",
+            "Exception: If client is family member",
+            "Exception: If gift is reasonable and not significant",
+            "Must advise client to get independent legal advice if significant gift"
+          ],
+          "common_breaches": [
+            "Accepting expensive gifts from client",
+            "Accepting money from client",
+            "Accepting property from client",
+            "Not advising client to get independent advice"
+          ]
+        }
+      }
+    },
+    "analysis_framework": {
+      "title": "4-Step Analysis Method",
+      "description": "Use this systematic approach for analyzing each ethical issue",
+      "steps": [
+        {
+          "step": 1,
+          "name": "Issue Statement",
+          "description": "State the issue clearly",
+          "format": "Whether [lawyer] breached [Rule X] by [specific conduct]",
+          "example": "Whether Otto breached Rule 20 by agreeing to represent both Stelle and Jade in the same criminal proceedings"
+        },
+        {
+          "step": 2,
+          "name": "Rule Application",
+          "description": "Quote the rule requirement and identify any exceptions",
+          "format": "Rule X states that [requirement]. The exceptions are [list exceptions].",
+          "example": "Rule 20(1) states that a legal practitioner must not act for 2 or more clients in any matter if there is a conflict of interest between the clients. The exception is if clients give informed consent after full disclosure."
+        },
+        {
+          "step": 3,
+          "name": "Analysis",
+          "description": "Apply facts to rule, consider exceptions, conclude: breach/no breach",
+          "format": "Here, [facts]. This [does/does not] breach Rule X because [reasoning]. [Exception analysis if applicable].",
+          "example": "Here, Otto is representing two co-defendants in the same criminal proceedings. This breaches Rule 20 because co-defendants often have conflicting interests - one may want to blame the other, or their defenses may conflict. The exception for informed consent would require full disclosure to both clients, which the facts suggest did not occur."
+        },
+        {
+          "step": 4,
+          "name": "Reasoning",
+          "description": "Explain why this conclusion and what proper conduct would be",
+          "format": "Therefore, [conclusion]. Proper conduct would be [what should have been done].",
+          "example": "Therefore, Otto breached Rule 20. Proper conduct would be to either decline to act for both clients or obtain proper informed consent after full disclosure of the potential conflicts."
+        }
+      ]
+    },
+    "common_patterns": {
+      "title": "Common Ethical Patterns",
+      "patterns": {
+        "conflict_scenarios": {
+          "description": "Two clients same matter → Rule 20, Former client conflict → Rule 21, Personal interest → Rule 22",
+          "examples": [
+            "Two business partners want joint representation in dispute → Rule 20",
+            "Former client's competitor wants to hire you → Rule 21",
+            "Client wants to sue your business partner → Rule 22"
+          ]
+        },
+        "court_duty_violations": {
+          "description": "Client admits guilt → Rule 10(4), False evidence → Rule 10(3), Misleading court → Rule 9(2)",
+          "examples": [
+            "Client admits guilt but wants to plead not guilty → Rule 10(4)",
+            "Client wants to present false alibi → Rule 9(2)(b)",
+            "Client lies in affidavit → Rule 10(3)"
+          ]
+        },
+        "financial_issues": {
+          "description": "Borrowing from client → Rule 23, Gifts from client → Rule 25, Buying from client → Rule 24",
+          "examples": [
+            "Client offers to lend money → Rule 23",
+            "Client gives expensive gift → Rule 25",
+            "Client wants to sell you property → Rule 24"
+          ]
+        }
+      }
+    },
+    "exam_tips": {
+      "title": "Exam Strategy Tips",
+      "tips": [
+        "Start with Rule 4 - it's the foundation for everything",
+        "Use the ETHICS checklist for every scenario",
+        "When in doubt about conflicts, don't act",
+        "Court duty always trumps client duty",
+        "Confidentiality has only 5 exceptions - memorize them",
+        "Practice issue spotting daily - it's a skill that improves with repetition",
+        "Time management: 5 minutes to spot issues, 10 minutes to identify rules, 15 minutes to analyze, 5 minutes to review",
+        "Common mistakes: Missing conflicts, not considering confidentiality exceptions, forgetting court duty vs client duty",
+        "Always consider whether informed consent is possible for conflicts",
+        "Remember that exceptions to rules are limited and specific"
+      ]
+    }
+  }
+}
+

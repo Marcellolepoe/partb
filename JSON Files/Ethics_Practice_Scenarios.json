@@ -1,0 +1,382 @@
+{
+  "topic": "Ethics & Professional Responsibility - Practice Scenarios",
+  "total_scenarios": 25,
+  "difficulty_levels": ["Beginner", "Intermediate", "Advanced"],
+  "scenarios": [
+    {
+      "scenario_id": 1,
+      "title": "The Otto/Stelle/Jade Scenario",
+      "difficulty": "Advanced",
+      "marks": 20,
+      "scenario": "Otto is an experienced criminal defence lawyer who practices as a sole proprietor. He is approached by Stelle and Jade, two university students who are each facing several charges of Unlawful Stalking under the Protection from Harassment Act 2014. The alleged victim in all the above charges is Dan, who studies at the same university. Stelle and Jade inform Otto that they had indeed carried out at least some of the acts which they are accused of, including sending Dan hundreds of text messages over a period of two weeks, loitering outside Dan's classroom, loitering outside Dan's university housing, taking hundreds of photographs of Dan, and rummaging through trashcans to collect items discarded by Dan. They explain to Otto that Dan reminds them of a well-known actor from a popular television drama series, and that they meant no harm but only wanted to get to know him better. Jade also informs Otto that she will pay for all legal fees as Stelle has limited financial resources. Otto agrees to act for both Stelle and Jade, and he hands each of them his firm's standard engagement letter, which they sign.",
+      "question": "Discuss and evaluate Otto's conduct in agreeing to act for both Stelle and Jade in relation to the proceedings.",
+      "issues_to_identify": [
+        {
+          "issue": "Rule 20 - Current Client Conflict",
+          "description": "Whether Otto can represent both Stelle and Jade when they are co-defendants in the same criminal proceedings",
+          "analysis": "Rule 20 prohibits acting for clients with conflicting interests. Co-defendants may have conflicting interests - one may want to blame the other, or their defenses may conflict.",
+          "breach": "Likely breach - co-defendants often have conflicting interests",
+          "rule_text": "Rule 20(1): A legal practitioner must not act for 2 or more clients in any matter if there is a conflict of interest between the clients."
+        },
+        {
+          "issue": "Rule 6 - Confidentiality",
+          "description": "Whether Otto can maintain confidentiality for both clients when they share information",
+          "analysis": "Information shared between co-defendants may not be confidential as between them, but Otto must still maintain confidentiality from third parties.",
+          "breach": "No breach - can maintain confidentiality",
+          "rule_text": "Rule 6(1): A legal practitioner must not disclose any information relating to the client's affairs."
+        },
+        {
+          "issue": "Rule 5 - Competence and Diligence",
+          "description": "Whether Otto can provide competent representation to both clients",
+          "analysis": "Otto may not be able to act in the best interests of each client if their interests conflict.",
+          "breach": "Potential breach - may not be able to act competently for both",
+          "rule_text": "Rule 5(2)(c): A legal practitioner must act with diligence and competence in the provision of services to the client."
+        },
+        {
+          "issue": "Financial Arrangement",
+          "description": "Whether Jade paying for Stelle's legal fees creates any ethical issues",
+          "analysis": "Third party payment arrangements can create conflicts if the payer's interests differ from the client's interests.",
+          "breach": "Potential issue - need to ensure Stelle's interests are protected",
+          "rule_text": "Rule 5(2)(j): A legal practitioner must use all legal means to advance the client's interests."
+        }
+      ],
+      "model_answer": "Otto's conduct in agreeing to act for both Stelle and Jade raises several ethical issues under the PCR 2015. The primary concern is Rule 20 - Otto cannot represent both clients if there is a conflict of interest between them. As co-defendants in the same criminal proceedings, Stelle and Jade may have conflicting interests. For example, one may want to blame the other, or their defenses may conflict. Otto should have assessed whether informed consent was possible after full disclosure, but the facts suggest he did not do this. Additionally, while Otto can maintain confidentiality under Rule 6, he may not be able to act competently for both clients under Rule 5 if their interests conflict. The financial arrangement where Jade pays for Stelle's fees also requires careful consideration to ensure Stelle's interests are protected. Otto should have either declined to act for both clients or obtained proper informed consent after full disclosure of the potential conflicts."
+    },
+    {
+      "scenario_id": 2,
+      "title": "The Confessing Client",
+      "difficulty": "Intermediate",
+      "marks": 15,
+      "scenario": "Sarah is a criminal defence lawyer. Her client, Mike, is charged with theft. During their initial consultation, Mike admits to Sarah that he did steal the items, but claims he was under extreme financial pressure and only took what he needed to feed his family. Mike wants Sarah to help him plead not guilty and present a defense that he was not at the scene of the crime. Sarah knows that presenting such a defense would require her to present false evidence to the court.",
+      "question": "What are the ethical issues and how should Sarah proceed?",
+      "issues_to_identify": [
+        {
+          "issue": "Rule 4 - Paramount Duty to Court",
+          "description": "Whether Sarah's duty to court overrides her duty to client",
+          "analysis": "Rule 4 establishes that the paramount duty to court takes precedence over duty to client.",
+          "breach": "Cannot present false evidence",
+          "rule_text": "Rule 4: A legal practitioner has a paramount duty to the court, which takes precedence over the legal practitioner's duty to the legal practitioner's client."
+        },
+        {
+          "issue": "Rule 9(2)(b) - Fabricating Evidence",
+          "description": "Whether Sarah can present false evidence about Mike's whereabouts",
+          "analysis": "Rule 9(2)(b) prohibits fabricating any fact or evidence in any communication or submission to the Court.",
+          "breach": "Breach - cannot fabricate evidence",
+          "rule_text": "Rule 9(2)(b): A legal practitioner must not fabricate any fact or evidence in any communication or submission to the Court."
+        },
+        {
+          "issue": "Rule 10(4) - Client Giving False Evidence",
+          "description": "Whether Sarah must cease acting if client intends to give false evidence",
+          "analysis": "Rule 10(4) requires Sarah to cease acting or continue but not perpetuate the falsehood.",
+          "breach": "Must either withdraw or not perpetuate falsehood",
+          "rule_text": "Rule 10(4): If a legal practitioner knows that the legal practitioner's client is about to give or has given false evidence to the Court, the legal practitioner must cease acting for the client or continue acting but not perpetuate the falsehood."
+        },
+        {
+          "issue": "Rule 6 - Confidentiality",
+          "description": "Whether Sarah can disclose Mike's admission",
+          "analysis": "Mike's admission is confidential information that Sarah cannot disclose unless an exception applies.",
+          "breach": "No breach - must maintain confidentiality",
+          "rule_text": "Rule 6(1): A legal practitioner must not disclose any information relating to the client's affairs."
+        }
+      ],
+      "model_answer": "Sarah faces several ethical dilemmas. Under Rule 4, her paramount duty to the court overrides her duty to the client. She cannot present false evidence about Mike's whereabouts under Rule 9(2)(b). Under Rule 10(4), since Mike intends to give false evidence, Sarah must either cease acting or continue but not perpetuate the falsehood. She cannot present the false alibi defense. Sarah should advise Mike of his options: plead guilty and present mitigation about his circumstances, or find another lawyer. She cannot disclose his admission due to Rule 6 confidentiality, but she also cannot present false evidence to the court."
+    },
+    {
+      "scenario_id": 3,
+      "title": "The Former Client Conflict",
+      "difficulty": "Intermediate",
+      "marks": 15,
+      "scenario": "Lawyer Alex previously represented Company ABC in a contract dispute with Company XYZ. The matter was resolved two years ago. Now, Company XYZ wants to hire Alex to represent them in a new dispute against Company ABC involving a different contract. Alex has confidential information about ABC's business practices and financial position from the previous matter. XYZ knows that Alex previously represented ABC and says they don't mind.",
+      "question": "Can Alex act for XYZ against ABC?",
+      "issues_to_identify": [
+        {
+          "issue": "Rule 21 - Former Client Conflict",
+          "description": "Whether Alex can act for current client (XYZ) against former client (ABC)",
+          "analysis": "Rule 21 prohibits acting for current client against former client if the lawyer has confidential information that could be used against the former client.",
+          "breach": "Likely breach - has confidential information about ABC",
+          "rule_text": "Rule 21(1): A legal practitioner must not act for a client against a former client if the legal practitioner has confidential information relating to the former client that could be used against the former client."
+        },
+        {
+          "issue": "Confidential Information",
+          "description": "Whether Alex's knowledge of ABC's business practices and financial position is relevant",
+          "analysis": "This information could be used to XYZ's advantage in the new dispute, creating a conflict.",
+          "breach": "Information is relevant and confidential",
+          "rule_text": "The information must be confidential and relevant to the current matter."
+        },
+        {
+          "issue": "Informed Consent Exception",
+          "description": "Whether ABC could give informed consent",
+          "analysis": "ABC could potentially give informed consent, but this would require full disclosure and independent advice.",
+          "breach": "Exception possible but requires proper process",
+          "rule_text": "Rule 21(2): The prohibition does not apply if the former client gives informed consent."
+        }
+      ],
+      "model_answer": "Alex likely cannot act for XYZ against ABC due to Rule 21. Alex has confidential information about ABC's business practices and financial position from the previous matter. This information could be used against ABC in the new dispute, creating a conflict of interest. The fact that XYZ doesn't mind is irrelevant - the conflict is with the former client ABC. Alex could only act if ABC gives informed consent after full disclosure and independent advice, but this is unlikely to be practical. Alex should decline to act for XYZ and refer them to another lawyer."
+    },
+    {
+      "scenario_id": 4,
+      "title": "The Borrowing Transaction",
+      "difficulty": "Beginner",
+      "marks": 10,
+      "scenario": "Lawyer Ben represents Client Carol in a property transaction. Carol is a successful businesswoman. After the transaction is completed, Carol offers to lend Ben $100,000 to help him expand his law practice. Carol says it's just a business investment and Ben can pay her back with interest over 5 years. Ben is considering accepting the loan.",
+      "question": "Can Ben accept the loan from Carol?",
+      "issues_to_identify": [
+        {
+          "issue": "Rule 23 - Prohibited Borrowing Transactions",
+          "description": "Whether Ben can borrow money from his client Carol",
+          "analysis": "Rule 23 prohibits borrowing money from clients except in very limited circumstances.",
+          "breach": "Breach - cannot borrow from client",
+          "rule_text": "Rule 23(1)(a): A legal practitioner must not borrow money from a client."
+        },
+        {
+          "issue": "Conflict of Interest",
+          "description": "Whether the loan creates a conflict of interest",
+          "analysis": "Borrowing from a client creates a conflict - Ben's financial interests conflict with his duty to Carol.",
+          "breach": "Creates conflict of interest",
+          "rule_text": "Rule 22: A legal practitioner must not act for a client if there is a conflict between the legal practitioner's interests and the client's interests."
+        },
+        {
+          "issue": "Independence",
+          "description": "Whether the loan undermines Ben's independence",
+          "analysis": "Being indebted to a client undermines the lawyer's independence and ability to act in the client's best interests.",
+          "breach": "Undermines independence",
+          "rule_text": "The loan undermines the lawyer's professional independence."
+        }
+      ],
+      "model_answer": "Ben cannot accept the loan from Carol. Rule 23(1)(a) prohibits legal practitioners from borrowing money from clients. This creates a conflict of interest under Rule 22, as Ben's financial interests would conflict with his duty to Carol. The loan would also undermine Ben's professional independence and ability to act in Carol's best interests. Ben should decline the loan and explain the ethical restrictions. If Ben needs financing, he should seek it from a financial institution or other non-client sources."
+    },
+    {
+      "scenario_id": 5,
+      "title": "The Witness Lawyer",
+      "difficulty": "Intermediate",
+      "marks": 15,
+      "scenario": "Lawyer David is representing Client Emma in a contract dispute. During the trial, it becomes clear that David was present at a key meeting where the contract was discussed. The opposing party wants to call David as a witness to testify about what was said at that meeting. David has personal knowledge of facts that are material to the case.",
+      "question": "Can David continue to act for Emma?",
+      "issues_to_identify": [
+        {
+          "issue": "Rule 11(3)(a) - Lawyer as Witness",
+          "description": "Whether David can act for client when he is required to give evidence material to the case",
+          "analysis": "Rule 11(3)(a) prohibits acting for a client if the lawyer is required to give evidence material to the case.",
+          "breach": "Breach - cannot be both lawyer and witness",
+          "rule_text": "Rule 11(3)(a): A legal practitioner must not act for a client in any case if the legal practitioner is required to give evidence material to the case."
+        },
+        {
+          "issue": "Conflict of Interest",
+          "description": "Whether being a witness creates a conflict with being a lawyer",
+          "analysis": "A lawyer cannot be both advocate and witness in the same case - it creates a conflict of roles.",
+          "breach": "Creates conflict of roles",
+          "rule_text": "The roles of advocate and witness are incompatible."
+        },
+        {
+          "issue": "Professional Conduct",
+          "description": "Whether continuing to act would be improper",
+          "analysis": "Continuing to act while being a material witness would be improper and undermine the administration of justice.",
+          "breach": "Improper conduct",
+          "rule_text": "Rule 11(2): A legal practitioner must not appear before the Court if there is a conflict of interest."
+        }
+      ],
+      "model_answer": "David cannot continue to act for Emma. Rule 11(3)(a) prohibits a legal practitioner from acting for a client if the legal practitioner is required to give evidence material to the case. David has personal knowledge of facts that are material to the dispute, making him a necessary witness. A lawyer cannot be both advocate and witness in the same case - these roles are incompatible and create a conflict of interest. David must withdraw from representing Emma and arrange for another lawyer to take over the case. David can then testify as a witness if called."
+    },
+    {
+      "scenario_id": 6,
+      "title": "The Family Law Conflict",
+      "difficulty": "Beginner",
+      "marks": 10,
+      "scenario": "Lawyer Fiona represents both Husband and Wife in their joint property purchase. The transaction is completed successfully. Six months later, Husband approaches Fiona and wants to hire her to represent him in divorce proceedings against Wife. Husband says he doesn't mind if Fiona also represents Wife, but Wife has not been consulted.",
+      "question": "Can Fiona act for Husband in the divorce?",
+      "issues_to_identify": [
+        {
+          "issue": "Rule 15B - Family Law Conflicts",
+          "description": "Whether Fiona can act for one party in family law matters after representing both parties",
+          "analysis": "Rule 15B prohibits acting for one party in family law matters if the lawyer previously acted for both parties.",
+          "breach": "Breach - cannot act in family law after joint representation",
+          "rule_text": "Rule 15B: A legal practitioner must not act for one party in family law matters if the legal practitioner previously acted for both parties."
+        },
+        {
+          "issue": "Rule 21 - Former Client Conflict",
+          "description": "Whether Fiona has confidential information about Wife that could be used against her",
+          "analysis": "Fiona has confidential information about both parties from the property transaction that could be relevant to the divorce.",
+          "breach": "Has confidential information about both parties",
+          "rule_text": "Rule 21(1): A legal practitioner must not act for a client against a former client if the legal practitioner has confidential information relating to the former client."
+        },
+        {
+          "issue": "Conflict of Interest",
+          "description": "Whether representing Husband against Wife creates a conflict",
+          "analysis": "Representing one spouse against the other in divorce proceedings creates an obvious conflict of interest.",
+          "breach": "Obvious conflict of interest",
+          "rule_text": "Rule 20: A legal practitioner must not act for 2 or more clients if there is a conflict of interest between the clients."
+        }
+      ],
+      "model_answer": "Fiona cannot act for Husband in the divorce proceedings. Rule 15B specifically prohibits acting for one party in family law matters if the lawyer previously acted for both parties. Additionally, Rule 21 prohibits acting for a client against a former client if the lawyer has confidential information that could be used against the former client. Fiona has confidential information about both Husband and Wife from the property transaction that could be relevant to the divorce. The fact that Husband doesn't mind is irrelevant - the conflict is with Wife, who has not been consulted. Fiona should decline to act for Husband and refer him to another lawyer."
+    },
+    {
+      "scenario_id": 7,
+      "title": "The Grateful Client",
+      "difficulty": "Beginner",
+      "marks": 10,
+      "scenario": "Lawyer George successfully represents Client Helen in a complex commercial dispute, winning her a substantial settlement. Helen is very grateful and wants to give George an expensive watch worth $5,000 as a thank you gift. Helen says it's just a token of appreciation and not related to any ongoing legal work.",
+      "question": "Can George accept the watch from Helen?",
+      "issues_to_identify": [
+        {
+          "issue": "Rule 25 - Gifts from Client",
+          "description": "Whether George can accept a significant gift from his client Helen",
+          "analysis": "Rule 25 prohibits accepting significant gifts from clients, except in limited circumstances.",
+          "breach": "Breach - cannot accept significant gift",
+          "rule_text": "Rule 25(1): A legal practitioner must not accept a significant gift from a client."
+        },
+        {
+          "issue": "Significant Gift",
+          "description": "Whether a $5,000 watch constitutes a significant gift",
+          "analysis": "A $5,000 watch would likely be considered a significant gift that creates ethical concerns.",
+          "breach": "Gift is significant",
+          "rule_text": "The value and nature of the gift determine if it is significant."
+        },
+        {
+          "issue": "Conflict of Interest",
+          "description": "Whether accepting the gift creates a conflict of interest",
+          "analysis": "Accepting expensive gifts from clients can create conflicts and undermine the lawyer-client relationship.",
+          "breach": "Creates potential conflict",
+          "rule_text": "Rule 22: A legal practitioner must not act for a client if there is a conflict between the legal practitioner's interests and the client's interests."
+        }
+      ],
+      "model_answer": "George cannot accept the $5,000 watch from Helen. Rule 25(1) prohibits legal practitioners from accepting significant gifts from clients. A $5,000 watch would likely be considered a significant gift that creates ethical concerns. Accepting such a gift could create a conflict of interest and undermine the professional nature of the lawyer-client relationship. George should politely decline the gift and explain the ethical restrictions. If Helen wants to show appreciation, she could write a thank you letter or provide a positive testimonial, which would be more appropriate."
+    },
+    {
+      "scenario_id": 8,
+      "title": "The Suppressed Evidence",
+      "difficulty": "Advanced",
+      "marks": 20,
+      "scenario": "Lawyer Ian is prosecuting a criminal case against Defendant Jack. During the investigation, Ian discovers evidence that could help Jack's defense - a witness statement that contradicts the main prosecution witness. Ian's supervisor tells him not to disclose this evidence to the defense, saying it's not relevant. Ian is concerned about his ethical obligations.",
+      "question": "What should Ian do about the evidence?",
+      "issues_to_identify": [
+        {
+          "issue": "Rule 15(3) - Prosecution Duty to Disclose",
+          "description": "Whether Ian must disclose evidence favorable to the accused",
+          "analysis": "Rule 15(3) requires prosecutors to disclose evidence that is favorable to the accused.",
+          "breach": "Must disclose favorable evidence",
+          "rule_text": "Rule 15(3): A legal practitioner acting as prosecutor must not suppress evidence that is favorable to the accused."
+        },
+        {
+          "issue": "Rule 9(3)(b) - Duty to Disclose",
+          "description": "Whether Ian must disclose every fact and evidence required",
+          "analysis": "Rule 9(3)(b) requires disclosure of every fact and evidence that the lawyer is required to disclose.",
+          "breach": "Must disclose required evidence",
+          "rule_text": "Rule 9(3)(b): A legal practitioner must disclose to the Court every fact and evidence which the legal practitioner is required to disclose."
+        },
+        {
+          "issue": "Rule 4 - Paramount Duty to Court",
+          "description": "Whether Ian's duty to court requires disclosure",
+          "analysis": "Rule 4 establishes that the paramount duty to court takes precedence over other duties.",
+          "breach": "Court duty requires disclosure",
+          "rule_text": "Rule 4: A legal practitioner has a paramount duty to the court, which takes precedence over the legal practitioner's duty to the legal practitioner's client."
+        },
+        {
+          "issue": "Professional Independence",
+          "description": "Whether Ian must follow supervisor's instructions",
+          "analysis": "Ian must exercise professional judgment and cannot follow instructions that would breach ethical rules.",
+          "breach": "Must exercise independent judgment",
+          "rule_text": "A legal practitioner must exercise independent professional judgment."
+        }
+      ],
+      "model_answer": "Ian must disclose the evidence to the defense. Rule 15(3) specifically requires prosecutors not to suppress evidence that is favorable to the accused. Rule 9(3)(b) requires disclosure of every fact and evidence that the lawyer is required to disclose. Rule 4 establishes that the paramount duty to court takes precedence over other duties, including following supervisor's instructions. Ian cannot follow his supervisor's instruction to suppress evidence, as this would breach his ethical obligations and undermine the administration of justice. Ian should disclose the evidence to the defense and, if necessary, seek guidance from the Law Society or consider withdrawing from the case if his supervisor insists on unethical conduct."
+    },
+    {
+      "scenario_id": 9,
+      "title": "The Competence Issue",
+      "difficulty": "Intermediate",
+      "marks": 15,
+      "scenario": "Lawyer Kate is a corporate lawyer who primarily handles commercial transactions. Client Liam approaches Kate to represent him in a complex criminal fraud case. Liam is facing serious charges that could result in significant jail time. Kate has never handled criminal cases before and has no experience with criminal procedure or evidence law. Liam is desperate and says he trusts Kate to do her best.",
+      "question": "Can Kate represent Liam in the criminal case?",
+      "issues_to_identify": [
+        {
+          "issue": "Rule 5(2)(d) - Relevant Knowledge and Skills",
+          "description": "Whether Kate has the relevant knowledge and skills required for Liam's matter",
+          "analysis": "Rule 5(2)(d) requires the legal practitioner to have relevant knowledge and skills required for the client's matter.",
+          "breach": "Breach - lacks required knowledge and skills",
+          "rule_text": "Rule 5(2)(d): A legal practitioner must ensure that the legal practitioner has relevant knowledge and skills required for the client's matter."
+        },
+        {
+          "issue": "Rule 5(2)(c) - Competence",
+          "description": "Whether Kate can act with competence in the provision of services",
+          "analysis": "Rule 5(2)(c) requires acting with competence, which Kate cannot do without relevant experience.",
+          "breach": "Cannot act competently",
+          "rule_text": "Rule 5(2)(c): A legal practitioner must act with diligence and competence in the provision of services to the client."
+        },
+        {
+          "issue": "Client's Best Interests",
+          "description": "Whether representing Liam would be in his best interests",
+          "analysis": "Representing Liam without the necessary expertise would not be in his best interests and could harm his case.",
+          "breach": "Not in client's best interests",
+          "rule_text": "Rule 5(2)(j): A legal practitioner must use all legal means to advance the client's interests."
+        }
+      ],
+      "model_answer": "Kate cannot represent Liam in the criminal case. Rule 5(2)(d) requires legal practitioners to have relevant knowledge and skills required for the client's matter. Kate has no experience with criminal law, procedure, or evidence, which are essential for handling a complex criminal fraud case. Rule 5(2)(c) requires acting with competence, which Kate cannot do without the necessary expertise. Representing Liam would not be in his best interests under Rule 5(2)(j), as her lack of experience could seriously harm his defense. Kate should decline to act and refer Liam to an experienced criminal defense lawyer. If Kate wants to handle criminal cases in the future, she should first gain the necessary knowledge and skills through training and possibly working with an experienced criminal lawyer."
+    },
+    {
+      "scenario_id": 10,
+      "title": "The Undertaking",
+      "difficulty": "Beginner",
+      "marks": 10,
+      "scenario": "Lawyer Mark is representing Client Nancy in a property dispute. During court proceedings, the judge asks Mark to give an undertaking that he will ensure certain documents are filed within 7 days. Mark agrees and gives the undertaking. However, due to unforeseen circumstances, Mark is unable to file the documents within the 7-day period. Mark is considering asking the court for an extension.",
+      "question": "What should Mark do about the undertaking?",
+      "issues_to_identify": [
+        {
+          "issue": "Rule 13(4) - Honor Undertakings",
+          "description": "Whether Mark must honor the undertaking given to the court",
+          "analysis": "Rule 13(4) requires legal practitioners to honor all undertakings given to the court.",
+          "breach": "Must honor undertaking",
+          "rule_text": "Rule 13(4): A legal practitioner must honor all undertakings given to the Court."
+        },
+        {
+          "issue": "Rule 13(5) - Proper Undertakings",
+          "description": "Whether Mark should have given the undertaking",
+          "analysis": "Rule 13(5) requires that undertakings should only be given if necessary and the lawyer knows they can honor them.",
+          "breach": "Should not have given undertaking if couldn't honor it",
+          "rule_text": "Rule 13(5): A legal practitioner must not give an undertaking to the Court unless it is necessary and the legal practitioner knows that the legal practitioner can honor it."
+        },
+        {
+          "issue": "Professional Conduct",
+          "description": "Whether Mark's conduct is proper",
+          "analysis": "Failing to honor an undertaking undermines the administration of justice and the lawyer's credibility.",
+          "breach": "Improper conduct",
+          "rule_text": "Undertakings are serious commitments that must be honored."
+        }
+      ],
+      "model_answer": "Mark must honor the undertaking he gave to the court. Rule 13(4) requires legal practitioners to honor all undertakings given to the court. Mark should immediately file the documents, even if late, and explain the circumstances to the court. He should also apologize for the delay and take steps to ensure it doesn't happen again. Rule 13(5) requires that undertakings should only be given if the lawyer knows they can honor them, so Mark should have been more careful about giving the undertaking. In the future, Mark should only give undertakings when he is certain he can fulfill them, or should have asked for more time initially. The court may impose sanctions for the late filing, but Mark must still honor his undertaking."
+    }
+  ],
+  "learning_objectives": [
+    "Master issue identification using ETHICS framework",
+    "Apply PCR rules to complex scenarios",
+    "Develop systematic analysis approach",
+    "Build confidence in ethical decision-making",
+    "Practice time management for exam conditions"
+  ],
+  "practice_methods": [
+    {
+      "method": "5-Minute Issue Spot",
+      "description": "Read scenario once, use ETHICS checklist to identify all potential issues",
+      "time_limit": "5 minutes",
+      "focus": "Rapid issue identification"
+    },
+    {
+      "method": "Rule Application",
+      "description": "For each issue identified, determine which PCR rule applies",
+      "time_limit": "2 minutes per issue",
+      "focus": "Rule identification and application"
+    },
+    {
+      "method": "Quick Analysis",
+      "description": "For each issue, determine breach/no breach and why",
+      "time_limit": "1 minute per issue",
+      "focus": "Rapid analysis and conclusion"
+    },
+    {
+      "method": "Full Analysis",
+      "description": "Complete 4-step analysis for each issue",
+      "time_limit": "5 minutes per issue",
+      "focus": "Comprehensive analysis"
+    }
+  ]
+}
+

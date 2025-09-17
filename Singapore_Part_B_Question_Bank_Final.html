@@ -22,7 +22,8 @@
             flex-direction: column;
         }
         .container {
-            max-width: 1200px;
+            max-width: 95%;
+            width: 95%;
             margin: 20px auto;
             background: rgba(255, 255, 255, 0.8);
             backdrop-filter: blur(8px);
@@ -43,7 +44,8 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            max-width: 1200px;
+            max-width: 95%;
+            width: 95%;
             margin: 0 auto;
             padding: 0 30px;
         }
@@ -91,7 +93,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
         }
         .main-content {
-            padding: 40px;
+            padding: 30px 50px;
             flex-grow: 1;
             position: relative;
         }
@@ -328,6 +330,210 @@
         .hidden {
             display: none !important;
         }
+
+        /* Ethics Framework Styles */
+        .ethics-framework-section {
+            background: rgba(255, 255, 255, 0.3);
+            border-radius: 16px;
+            padding: 25px;
+            margin: 20px 0;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(139, 115, 85, 0.2);
+        }
+
+        .ethics-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .ethics-item {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .ethics-item:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .ethics-item h4 {
+            font-size: 1.5rem;
+            margin-bottom: 8px;
+            font-family: 'Kalam', cursive;
+        }
+
+        .ethics-item p {
+            font-size: 1rem;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+
+        .ethics-item small {
+            font-size: 0.8rem;
+            opacity: 0.8;
+        }
+
+        /* Week Structure Styles */
+        .week-structure {
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 16px;
+            padding: 25px;
+            margin: 20px 0;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(139, 115, 85, 0.2);
+        }
+
+        .weeks-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .week-card {
+            background: rgba(255, 255, 255, 0.4);
+            border-radius: 12px;
+            padding: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(139, 115, 85, 0.2);
+            text-align: center;
+        }
+
+        .week-card:hover {
+            transform: translateY(-3px);
+            background: rgba(255, 255, 255, 0.6);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .week-card h4 {
+            color: #667eea;
+            font-size: 1.3rem;
+            margin-bottom: 5px;
+            font-family: 'Kalam', cursive;
+        }
+
+        .week-card h5 {
+            color: #5D4E37;
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+        }
+
+        .week-card p {
+            color: #8B7355;
+            font-size: 0.9rem;
+            margin-bottom: 10px;
+        }
+
+        .week-card small {
+            color: #A0926B;
+            font-size: 0.8rem;
+        }
+
+        /* Practice Section Styles */
+        .practice-section {
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 16px;
+            padding: 25px;
+            margin: 20px 0;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(139, 115, 85, 0.2);
+        }
+
+        .practice-options {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .practice-option {
+            background: rgba(255, 255, 255, 0.4);
+            border-radius: 12px;
+            padding: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(139, 115, 85, 0.2);
+            text-align: center;
+        }
+
+        .practice-option:hover {
+            transform: translateY(-3px);
+            background: rgba(255, 255, 255, 0.6);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .practice-option h4 {
+            color: #5D4E37;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+            font-family: 'Kalam', cursive;
+        }
+
+        .practice-option p {
+            color: #8B7355;
+            font-size: 0.9rem;
+        }
+
+        /* Modal Styles */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(5px);
+        }
+
+        .modal-content {
+            background: white;
+            margin: 2% auto;
+            padding: 30px;
+            border-radius: 20px;
+            width: 95%;
+            max-width: 1200px;
+            max-height: 90vh;
+            overflow-y: auto;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .close:hover {
+            color: #000;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .ethics-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            .weeks-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .practice-options {
+                grid-template-columns: 1fr;
+            }
+        }
         .icon {
             width: 50px;
             height: 50px;
@@ -556,19 +762,91 @@
         <!-- Ethics & Professional Responsibility Subjects Menu -->
         <div id="ethics-subjects" class="main-content hidden">
             <button class="back-button hidden" id="ethics-back-button" onclick="goBackToSubjects()">&#8592; Back</button>
-            <h2 class="menu-title">Ethics & Professional Responsibility Topics</h2>
-            <div class="subjects-grid">
-                <div class="subject-card" onclick="alert('Questions for Relationship with Client are coming soon!')">
-                    <h4>A1. Relationship with Client</h4>
-                    <p>Coming Soon</p>
+            <h2 class="menu-title">Ethics & Professional Responsibility</h2>
+            
+            <!-- Test Button -->
+            <div style="text-align: center; margin: 20px 0;">
+                <button onclick="showPracticeScenarios()" style="background: #667eea; color: white; padding: 10px 20px; border: none; border-radius: 8px; cursor: pointer;">TEST: Click to Test Practice Scenarios</button>
+            </div>
+
+            <!-- ETHICS Framework -->
+            <div class="ethics-framework-section">
+                <h3 style="text-align: center; color: #5D4E37; margin: 30px 0 20px 0; font-family: 'Kalam', cursive;">ETHICS Framework - Use for Every Scenario</h3>
+                <div class="ethics-grid">
+                        <div class="ethics-item" data-ethics="E">
+                            <h4>E</h4>
+                            <p>Engagement Issues</p>
+                            <small>Rules 5-6, B1</small>
+                        </div>
+                        <div class="ethics-item" data-ethics="T">
+                            <h4>T</h4>
+                            <p>Two or More Clients</p>
+                            <small>Rules 20-22, 15B</small>
+                        </div>
+                        <div class="ethics-item" data-ethics="H">
+                            <h4>H</h4>
+                            <p>Honesty to Court</p>
+                            <small>Rules 9-10</small>
+                        </div>
+                        <div class="ethics-item" data-ethics="I">
+                            <h4>I</h4>
+                            <p>Improper Financial</p>
+                            <small>Rules 23-25, 16</small>
+                        </div>
+                        <div class="ethics-item" data-ethics="C">
+                            <h4>C</h4>
+                            <p>Court Duties</p>
+                            <small>Rules 11-13, 7-8</small>
+                        </div>
+                        <div class="ethics-item" data-ethics="S">
+                            <h4>S</h4>
+                            <p>Special Situations</p>
+                            <small>Rules 14-15, 32, 17-19</small>
+                        </div>
                 </div>
-                <div class="subject-card" onclick="alert('Questions for Practitioner Role in Administration of Justice are coming soon!')">
-                    <h4>A2. Practitioner's Role in Administration of Justice</h4>
-                    <p>Coming Soon</p>
+            </div>
+
+            <!-- Week Structure -->
+            <div class="week-structure">
+                <h3 style="text-align: center; color: #5D4E37; margin: 40px 0 30px 0; font-family: 'Kalam', cursive;">3-Week Learning Structure</h3>
+                <div class="weeks-grid">
+                    <div class="week-card" data-week="week1">
+                        <h4>Week 1</h4>
+                        <h5>Relationship with Client</h5>
+                        <p>Foundation, Retainer, Conflicts, Financial Rules</p>
+                        <small>Notes 1 - 8 Modules</small>
+                    </div>
+                    <div class="week-card" data-week="week2">
+                        <h4>Week 2</h4>
+                        <h5>Administration of Justice</h5>
+                        <p>Court Duties, Client Conduct, Criminal Law</p>
+                        <small>Notes 2 - 9 Modules</small>
+                    </div>
+                    <div class="week-card" data-week="week3">
+                        <h4>Week 3</h4>
+                        <h5>Staff, Titles, Fees</h5>
+                        <p>Supervision, Publicity, Accounts, AML</p>
+                        <small>Notes 3 - 8 Modules</small>
+                    </div>
                 </div>
-                <div class="subject-card" onclick="alert('Questions for Staff, Titles, Fees are coming soon!')">
-                    <h4>A3. Staff, Titles, Fees</h4>
-                    <p>Coming Soon</p>
+            </div>
+
+            <!-- Practice Section -->
+            <div class="practice-section">
+                <h3 style="text-align: center; color: #5D4E37; margin: 40px 0 30px 0; font-family: 'Kalam', cursive;">Practice & Application</h3>
+                <div class="practice-options">
+                    <div class="practice-option" data-action="practice-scenarios">
+                        <h4>📝 Practice Scenarios</h4>
+                        <p>25 comprehensive scenarios with model answers</p>
+                    </div>
+                    <div class="practice-option" data-action="issue-spotting">
+                        <h4>🎯 Issue Spotting</h4>
+                        <p>5-minute rapid practice with ETHICS checklist</p>
+                    </div>
+                    <div class="practice-option" data-action="quick-reference">
+                        <h4>📚 Quick Reference</h4>
+                        <p>Complete PCR rules and analysis framework</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -10151,10 +10429,1549 @@ const mediationQuestions = [
             jumpInput.value = '';
         }
         
+        // Ethics System Functions
+        let ethicsData = null;
+
+        // Load comprehensive ethics teaching data
+        function loadEthicsData() {
+            // Comprehensive teaching system - learning from scratch
+            ethicsData = {
+                // WEEK 1: RELATIONSHIP WITH CLIENT - COMPREHENSIVE TEACHING
+                "week_1_content": {
+                    "title": "Week 1: Relationship with Client",
+                    "source": "Notes 1 - Relationship with Client", 
+                    "overview": "Learn the foundation of lawyer-client relationships. This is where everything starts - understanding when you become a lawyer for someone, what duties you owe them, and how to handle conflicts.",
+                    "modules": [
+                        {
+                            "module_id": "W1M1", 
+                            "title": "Foundation & Retainer Formation", 
+                            "rules": ["Rule 4", "B1"],
+                            "summary": "When does a lawyer-client relationship start? What are the basic principles?",
+                            "content": {
+                                "rule_4": {
+                                    "title": "Rule 4 PCR - General Principles (THE FOUNDATION)",
+                                    "verbatim_text": "Rule 4 PCR: The following principles guide the interpretation of these Rules.",
+                                    "all_requirements": [
+                                        {
+                                            "requirement": "Lawyer's paramount duty to Court takes precedence over duty to client",
+                                            "verbatim": "A legal practitioner has a paramount duty to the court, which takes precedence over the legal practitioner's duty to the legal practitioner's client.",
+                                            "explanation": "This is the foundational principle - court duty ALWAYS wins over client duty"
+                                        },
+                                        {
+                                            "requirement": "Lawyer's duty to client is subject only to his duty to the Court",
+                                            "verbatim": "A legal practitioner's duty to the legal practitioner's client is subject only to the legal practitioner's duty to the court, and must at all times be fulfilled in a manner that upholds the standing and integrity of the Singapore legal system and the legal profession in Singapore.",
+                                            "explanation": "Client duty must uphold standing and integrity of Singapore legal system"
+                                        },
+                                        {
+                                            "requirement": "Lawyer duty to discharge responsibilities to tribunal honorably and with integrity",
+                                            "verbatim": "A legal practitioner has a duty to discharge honourably and with integrity all of the legal practitioner's responsibilities to any tribunal before which the legal practitioner appears, the legal practitioner's clients, the public and other members of the legal profession.",
+                                            "explanation": "Must act with honor and integrity to tribunal, clients, public, and other lawyers"
+                                        },
+                                        {
+                                            "requirement": "Lawyer must uphold Singapore laws in legal practice",
+                                            "verbatim": "A legal practitioner must uphold the laws of Singapore in the legal practitioner's practice.",
+                                            "explanation": "Must follow Singapore law in all practice matters"
+                                        },
+                                        {
+                                            "requirement": "Lawyer must facilitate public's access to justice",
+                                            "verbatim": "A legal practitioner must facilitate the access of members of the public to justice.",
+                                            "explanation": "Must help public get access to justice system"
+                                        },
+                                        {
+                                            "requirement": "Lawyer must be fair and courteous to everyone in respect of his professional conduct",
+                                            "verbatim": "A legal practitioner must be fair and courteous towards every person in respect of the legal practitioner's professional conduct.",
+                                            "explanation": "Must treat everyone fairly and courteously in professional matters"
+                                        },
+                                        {
+                                            "requirement": "Lawyer must ensure that professional conduct is consistent with values of legal profession wherever he practices or gives advice",
+                                            "verbatim": "A legal practitioner must ensure that the legal practitioner's professional conduct is always consistent with the values of the legal profession in each jurisdiction in which the legal practitioner is qualified to practise law and, when giving advice in any other jurisdiction, the values of the legal profession in that other jurisdiction.",
+                                            "explanation": "Must follow professional values in all jurisdictions where qualified or giving advice"
+                                        },
+                                        {
+                                            "requirement": "Lawyer must be up to date with all legal developments in lawyer's area of practice",
+                                            "verbatim": "A legal practitioner must keep up to date with all pertinent developments in the law in the legal practitioner's area of practice.",
+                                            "explanation": "Must stay current with legal developments in practice areas"
+                                        }
+                                    ],
+                                    "exam_analysis_framework": [
+                                        "1. Identify: Which Rule 4 requirement is at issue?",
+                                        "2. Apply: Does lawyer's conduct meet the specific requirement?",
+                                        "3. Reason: How does the conduct uphold/undermine the principle?",
+                                        "4. Conclude: Is there a breach of Rule 4?"
+                                    ]
+                                },
+                                "retainer_formation": {
+                                    "title": "B1. Formation and Termination of Retainer",
+                                    "brief_summary": "Understanding when a lawyer-client relationship starts and ends, including definitions, implied retainers, agent instructions, and warrant to act requirements.",
+                                    "client_definition": {
+                                        "contentious_business": "S2(1)(a) of LPA: In relation to contentious business, client includes: Any person who, as a principal or on behalf of another person, retains or employs, or is about to retain or employ, a solicitor, and Any person who is or may be liable to pay the costs of a solicitor, law corporation or limited liability law partnership",
+                                        "non_contentious_business": "S2(1)(b) of LPA: In relation to non-contentious business, client includes: Any person who, as a principal or on behalf of another person, retains or employs, or is about to retain or employ, a solicitor, and Any person who is or may be liable to pay the costs of a solicitor, law corporation or limited liability law partnership"
+                                    },
+                                    "implied_retainers": {
+                                        "objective_test": "Based on objective consideration of all circumstances, whether an intention to enter into a solicitor-client relationship ought fairly and properly to be imputed to all parties",
+                                        "case_law": "LSS v Ahmad Khalis bin Abdul Ghani: Implied retainer is formed when on an objective consideration of all circumstances, an intention to enter into a such a contractual relationship ought fairly and properly to be imputed to all the parties",
+                                        "factors_considered": [
+                                            "Who is paying lawyer's fees",
+                                            "Who is providing instructions",
+                                            "Whether parties should be taken to have understood and believed that they were in a solicitor-client relationship"
+                                        ]
+                                    },
+                                    "agent_instructions": {
+                                        "rule_5_5": "Rule 5(5) of PCR: Where lawyer is given instructions purportedly on behalf of his client, lawyer must: Ensure that the person giving those instructions has authority to give those instructions on behalf of client; OR If there is no evidence of such authority, obtain the client's confirmation of those instructions within a reasonable time after receiving those instructions",
+                                        "pd_7_4_3": "PD 7.4.3: If lawyer accepts instructions from agent => Lawyer must ask for evidence of agent's authority to act for client. If no evidence of authority => Lawyer can take instructions first then confirm with client within reasonable time",
+                                        "case_law": "Fong Maun Yee v Yoong Weng Ho Robert: Person purporting to act as an agent is deemed by his conduct to represent that he is in fact duly authorized so to act unless the nature and extent of his authority is fully known or if the person expressly disclaims any present authority"
+                                    },
+                                    "warrant_to_act": {
+                                        "requirement": "Lawyer must obtain Warrant to Act (WTA) from client before representing client",
+                                        "old_law": "O 64 r 7 of old ROC: Every lawyer representing any party in any matter shall obtain from such party or his duly authorized agent a warrant to act for such party either generally or in the said matter",
+                                        "current_law": "Even though the current ROC 2021 no longer has a similar provision, LSS PD 7.4.3 still maintains the position that a lawyer must obtain proper authority to act for a client. This is also the position at common law in Tung Hui Mannequin which affirms the principle that a solicitor has a duty to obtain a written authority from his client before acting for the client",
+                                        "consequences": "Consequences of representing client without WTA: Prima facie evidence that lawyer is unauthorized"
+                                    },
+                                    "limitation_of_liability": {
+                                        "pd_7_1_2": "PD 7.1.2: Limitation of Civil Liability / Waiver and release: Not acceptable to exclude by contract all liability to clients => Can only limit liability if limitation not below minimum level of cover required by LPR",
+                                        "minimum_cover": "1m for each claim for lawyers in sole props and partnerships (law firms); 2m for each claim for lawyers in LLCs; Liability for fraud and dishonesty is not covered"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "module_id": "W1M2", 
+                            "title": "Client Duties - Honesty, Competence, Diligence", 
+                            "rules": ["Rule 5"],
+                            "summary": "What does it mean to be a good lawyer? What standards must you meet?",
+                            "content": {
+                                "rule_5_overview": {
+                                    "title": "Rule 5 PCR - Honesty, Competence and Diligence",
+                                    "verbatim_text": "Rule 5(1) PCR:\n\n(a) The relationship between a legal practitioner and his client imports a duty to be honest in all dealings with the client\n\n(b) A legal practitioner must have the requisite knowledge, skill and experience to provide competent advice and representation to his client\n\n(c) A legal practitioner has a duty to be diligent in the advice and information given to his client, and in the manner the legal practitioner represents the client",
+                                    "brief_summary": "The three core duties of lawyers: be honest with clients, have the right skills for the job, and work hard and diligently."
+                                },
+                                "rule_5_2a": {
+                                    "title": "Rule 5(2)(a) PCR - Duty to be Honest",
+                                    "verbatim_text": "Rule 5(2)(a) PCR: A legal practitioner must be honest in all the legal practitioner's dealings with his client",
+                                    "brief_summary": "Lawyers must never lie to clients or make false statements. This is the foundation of trust in the lawyer-client relationship.",
+                                    "definition": "Definition of dishonesty: Asserting fact knowing it was untrue",
+                                    "case_law": {
+                                        "case": "LSS v Chia Choon Yang",
+                                        "quote": "Lawyer is dishonest when he asserts a fact or state of affairs that he knew was untrue and did so knowing that 3rd parties would or might rely on his acts as genuine and validly executed"
+                                    },
+                                    "consequences": {
+                                        "striking_off_presumptive": [
+                                            "Dishonesty is integral to the commission of a criminal offense of which the lawyer has been convicted",
+                                            "Dishonesty violates the relationship of trust and confidence inherent in a solicitor-client relationship", 
+                                            "Dishonesty leads to a breach of solicitor's duty to the Court or impedes the administration of justice"
+                                        ],
+                                        "striking_off_not_presumptive": [
+                                            "Dishonesty is due to grave error of judgement by the lawyer instead of a character defect"
+                                        ],
+                                        "factors_to_determine": [
+                                            "Real nature of the wrong and the interest that has been implicated",
+                                            "Extent and nature of deception",
+                                            "Motivations and reasons behind dishonesty and whether it indicates a fundamental lack of integrity or a case of misjudgement",
+                                            "Whether errant solicitor benefited from the dishonesty",
+                                            "Whether the dishonesty caused actual harm or had potential to cause harm that the errant solicitor ought to have or in fact recognized"
+                                        ]
+                                    },
+                                    "detailed_case_examples": [
+                                        {
+                                            "case": "LSS v Ng Bock Hoh Dixon",
+                                            "facts": "Forgery of client's account bill and provision of false documentation to Law Society",
+                                            "details": "Lawyer was dishonest because he failed to return the USD100K to his client and forged a bill relating to client's account and provided false documentation to the Law Society – there was an intent to confuse parties",
+                                            "outcome": "Charged under s83(2)(b) and s83(2)(h) of LPA and was struck off the rolls"
+                                        },
+                                        {
+                                            "case": "LSS v Ng Chee Sing", 
+                                            "facts": "Worked for purchaser and mortgagor and earned commission by extending mortgage loans to others",
+                                            "details": "Lawyer worked for both the purchaser and mortgagor of a property transaction and extended part of the mortgage loans to others and earned commissions on those transactions. Grossly improper conduct is not confined to misconduct in the solicitor's professional capacity, but also extends to misconduct in his personal capacity.",
+                                            "outcome": "Charged under s83(2)(b) and s83(2)(h) of LPA and was struck off the rolls"
+                                        },
+                                        {
+                                            "case": "LSS v Jaya Anil Kumar",
+                                            "facts": "Forgery of school grades to improve chances of job hunt",
+                                            "details": "Lawyer forged law school grades to improve chances of obtaining jobs",
+                                            "outcome": "Charged under s83 and struck off"
+                                        },
+                                        {
+                                            "case": "LSS v Yong Wei Kuen Paul",
+                                            "facts": "Orchestrated illegal moneylending scheme and misled former client to lend to 3rd party",
+                                            "details": "Lawyer orchestrated illegal moneylending transaction and misled former client to get her to unlawfully advance a substantial sum of money to a 3rd party on the pretext that it was a purported investment opportunity",
+                                            "outcome": "Charged under s83(2)(h) and struck off the rolls: Lawyer premeditated plan to swindle former client; Lawyer abused the trust in his former solicitor-client relationship"
+                                        },
+                                        {
+                                            "case": "LSS v Chia Choong Yang",
+                                            "facts": "Lawyer prepared notarial certificate falsely stating that he witnessed Loy signing POA",
+                                            "details": "Lawyer asked by Li to notarize a POA that granted Li powers to act on behalf of New Eastern Pte Ltd. POA bore the signatures of one of New Eastern's directors, Loy. Li told lawyer that two other persons had witnessed Loy signing the POA. Lawyer then prepared a notarial certificate stating that he had witnessed Loy singing the POA even though he did not. Notarial certificate was presented to SAL and Chinese embassy for authentication",
+                                            "outcome": "Charged under s83(2)(b) and s83(2)(h) and suspended for 15 months: Striking off is too excessive as there was no deception of the Court and there was no violation of trust and confidence within client-solicitor relationship; Lawyer was not acting out of self-interest and only received a sum of $75 in notarial fees; Lawyer's conduct was not a defect in character but a serious lapse of judgement"
+                                        }
+                                    ]
+                                },
+                                "rule_5_2b": {
+                                    "title": "Rule 5(2)(b) PCR - Duty to Inform Clients of Important Information",
+                                    "verbatim_text": "Rule 5(2)(b) PCR: A legal practitioner must when advising client, inform client of all information known to the legal practitioner that may reasonably affect the interests of the client in the matter",
+                                    "brief_summary": "Lawyers must tell clients all important information that could affect their interests, unless confidentiality prevents it or client agrees in writing not to be told.",
+                                    "exceptions": [
+                                        "The legal practitioner is precluded from disclosing the information due to an overriding duty of confidentiality",
+                                        "The client has agreed in writing with the legal practitioner that the legal practitioner need not disclose the information to the client"
+                                    ],
+                                    "principles": [
+                                        {
+                                            "principle": "Advise client about kind of transaction and result of transaction",
+                                            "case": "Su Ah Tee v Allister Lim and Thrumurgam",
+                                            "explanation": "Advise client about the kind of transaction client was entering into and what the result of the transaction would be",
+                                            "facts": "Nature of remaining lease on HDB shophouse (17 years remaining but buyer thought there was 62 years left) was not explained properly by the lawyer (who was clearly aware) to the buyers for them to make an informed decision. Plaintiff buyer was commercially experienced in buying shophouses, but this consideration cannot be taken too far",
+                                            "court_quote": "There is a basic duty on the lawyer to advise the nature of the transaction and what is the result of the transaction – need to ask whether the lawyer owed the clients a duty to take reasonable care in handling the conveyancing process"
+                                        },
+                                        {
+                                            "principle": "No need to advise client about matters that are of a commercial or economic nature",
+                                            "case": "Su Ah Tee v Allister Lim and Thrumurgam",
+                                            "explanation": "No need to advise client about matters of a commercial or economic nature"
+                                        },
+                                        {
+                                            "principle": "Experience of client is a relevant factor to determine the extent of a solicitor's duty to advise that client",
+                                            "case": "Su Ah Tee v Allister Lim and Thrumurgam", 
+                                            "explanation": "However, the law is clear that even an experienced client would still require some information and advice => Solicitors should not be entitled to assume that the client knows what to do",
+                                            "court_quote": "Legal advice which would be required by a first-time buyer of a property with no legal experience whatsoever may differ from that required by an experienced businessman-client who is buying property for the second or third time"
+                                        },
+                                        {
+                                            "principle": "Lawyer cannot assume clients know certain matters merely because they have done similar transactions before",
+                                            "case": "Su Ah Tee v Allister Lim and Thrumurgam",
+                                            "explanation": "Even experienced clients need some advice and information"
+                                        }
+                                    ]
+                                },
+                                "rule_5_2c": {
+                                    "title": "Rule 5(2)(c) PCR - Duty to Act with Diligence and Competence",
+                                    "verbatim_text": "Rule 5(2)(c) PCR: A legal practitioner must act with reasonable diligence and competence in the provision of services to the client",
+                                    "brief_summary": "Lawyers must work hard and competently for clients. The standard depends on what a reasonable lawyer would do, and varies based on the client's sophistication.",
+                                    "general_test": "What a reasonably competent solicitor would do having regard to normal standards adopted in practice",
+                                    "case_law": {
+                                        "case": "LSS v K Jayakumar Naidu",
+                                        "quote": "General Test: What a reasonably competent solicitor would do having regard to the normal standards adopted in practice",
+                                        "facts": "brother of a temporarily handicapped person hired lawyer to execute a POA to enable him to act in the sale of a flat owned by the handicapped. POA was granted and flat was sold. Loan was granted to the brother on the security of the sale proceeds. Family found out and hired a lawyer, who warned the original lawyer that the handicapped man did not know about the sale of the flat or the loan and that the brother was known to have a gambling problem. Original lawyer was asked to retain the funds in the interim while steps were taken to protect the handicapped. They did not comply and the monies were eventually misappropriated by the brother."
+                                    },
+                                    "standard_of_duty": "Depends on precise identity, sophistication and circumstances of the client",
+                                    "client_sophistication_factors": [
+                                        "Vulnerable client who is mentally disadvantaged, physically disadvantaged, uneducated or impecunious may require comprehensive advice for simple matter",
+                                        "Seasoned businessmen or corporate entities with in-house risk management teams might be reasonably presumed to require less",
+                                        "Depends on client's familiarity with proposed transaction"
+                                    ],
+                                    "note": "Duty to reject untenable client's instructions (Promethus Marine Pte Ltd v King, Ann Ria)",
+                                    "detailed_case_example": {
+                                        "case": "LSS v K Jayakumar Naidu",
+                                        "title": "Failure to protect vulnerable client after receiving comprehensible and credible warnings of potential threat to client",
+                                        "facts": "Respondent lawyer approached by HBS to prepare a POA authorizing him to act in a sale of a flat belonging to HCS. HBS sold flat and used the sale proceeds as security to get a loan from Tan. Lawyer was appointed to act in sale of flat and to repay the loan from the sale proceeds. Lawyer was warned by HCS' family members and their lawyer Wong that HCS did not know the implications of the POA and about the sale of the flat and the loan. Lawyer was warned that HBS had a gambling problem and the loan was likely for related debts. HCS and Wong then tried to get Respondent lawyer to pass over the sale proceeds for safekeeping and to revoke the POA. The respondent lawyer refused and deposited sale proceeds as per HBS instructions. HBS misappropriated money.",
+                                        "outcome": "Charged under s83(2)(b) and s83(2)(h) and suspended for 3 months: There was no dishonesty on the lawyer and there was no self-interest involved; Lawyer failed to act appropriately after receiving comprehensible and apparently credible warnings and refused to cooperate with Wong to safeguard HCS's interests; HCS is a vulnerable client of the lawyer and lawyer has a grave responsibility to HCS; Lawyer failed to maintain direct and clear channels of communication with HCS"
+                                    }
+                                },
+                                "rule_5_2d": {
+                                    "title": "Rule 5(2)(d) PCR - Duty to Ensure Relevant Knowledge and Skills",
+                                    "verbatim_text": "Rule 5(2)(d) PCR: A legal practitioner must:\n\n• Ensure that the legal practitioner has the relevant knowledge, skills and attributes required for each matter undertaken on behalf of the client, and\n\n• Apply the knowledge, skills and attributes in a manner appropriate to that matter",
+                                    "brief_summary": "Lawyers must have the right knowledge and skills for each case they take on, and apply them properly. Don't take cases you're not qualified for."
+                                },
+                                "rule_5_2e": {
+                                    "title": "Rule 5(2)(e) PCR - Duty to Keep Client Reasonably Informed of Progress",
+                                    "verbatim_text": "Rule 5(2)(e) PCR: A legal practitioner must keep the client reasonably informed of the progress of the client's matter",
+                                    "brief_summary": "Lawyers must keep clients updated on progress, but don't need to inform them personally at every stage. However, they cannot completely abdicate responsibility.",
+                                    "principle": "Unnecessary for lawyer to keep client informed personally at all stages of the matter but lawyer cannot completely abdicate responsibility",
+                                    "case_law": "LSS v Udeh Kumar s/o Sethuraju",
+                                    "detailed_case_examples": [
+                                        {
+                                            "case": "LSS v Chiong Chin May Selena",
+                                            "title": "Failure to inform client that opposing party had made a proposal to mediate to try and settle matter",
+                                            "facts": "Lawyer engaged to handle divorce proceedings. From time of engagement to termination, lawyer was incompetent, disorganized and displayed a complete lack of care towards the client. She gave sweeping statements which cannot be backed up by law or common sense, gave inappropriate advice and failed to explain processes and potential obstacles. There was also delay in filing of divorce papers, and was consistently late in appearing before the court. She also failed to inform client that the husband had made a proposal to mediate and settle the matter, instead demanded that the husband file his defence."
+                                        },
+                                        {
+                                            "case": "LSS v Udeh Kumar s/o Sethuraju",
+                                            "title": "Failure to inform client of Court hearing and to surrender to warrant to arrest",
+                                            "facts": "Lawyer failed to keep client informed of Court hearing where client was due to plead guilty. Lawyer also failed to advise client to surrender to warrant of arrest that was issued due to his unattendance. Note: It is unnecessary for lawyer to keep client informed personally at all stages of the matter but lawyer cannot completely abdicate responsibility"
+                                        },
+                                        {
+                                            "case": "LSS v Zulkifli bin Mohd Amin",
+                                            "title": "Failure to inform client of important documents sent by opposing solicitors",
+                                            "facts": "Lawyer failed to inform client of crucial documents sent by opposing solicitors such as: Letter of requests for payments from property developers; Notices to take vacant possession of property; Annulment of agreement. Client could not take any remedial steps to salvage the situation"
+                                        }
+                                    ]
+                                },
+                                "rule_5_2f": {
+                                    "title": "Rule 5(2)(f) PCR - Duty to Promptly Respond to Client Communications",
+                                    "verbatim_text": "Rule 5(2)(f) PCR: A legal practitioner must where practicable, promptly respond to the client's communications",
+                                    "brief_summary": "Lawyers must respond to client communications promptly when practicable. Don't leave clients waiting unnecessarily."
+                                },
+                                "rule_5_2g": {
+                                    "title": "Rule 5(2)(g) PCR - Duty to Keep Appointments with Client",
+                                    "verbatim_text": "Rule 5(2)(g) PCR: A legal practitioner must keep appointments with the client",
+                                    "brief_summary": "Lawyers must keep their appointments with clients. Don't cancel or be late without good reason."
+                                },
+                                "rule_5_2h": {
+                                    "title": "Rule 5(2)(h) PCR - Duty to Provide Timely Advice to Client",
+                                    "verbatim_text": "Rule 5(2)(h) PCR: A legal practitioner must provide timely advice to the client",
+                                    "brief_summary": "Lawyers must give advice when clients need it, not when it's convenient. Timely advice can be crucial for client decisions.",
+                                    "detailed_case_examples": [
+                                        {
+                                            "case": "LSS v Chiong Chin May Selena",
+                                            "title": "Failure to inform client-wife that husband had made a proposal to mediate and settle",
+                                            "facts": "Lawyer found to have: Made sweeping statements not backed up by law or common sense; Failed to explain the processes and potential obstacles in the conduct of divorce; Lengthy and completely unreasonable delay in filing of divorce papers; Misled client to go with her to another firm; Been consistently late in appearing at Court; Failed to inform client that husband had made a proposal to mediate and try to settle the matter but instead made things worse by demanding that husband file defense",
+                                            "outcome": "Lawyer found to have 'a pattern of chronic irresponsibility and very poor handling of client's matter'. Charged under s83(2)(b) and s83(2)(h) and suspended for 6 months"
+                                        },
+                                        {
+                                            "case": "LSS v Udeh Kumar s/o Sethuraju",
+                                            "title": "Failure to inform client of Court hearing to plead guilty, Failure to advise client to surrender to warrant to arrest issued due to non-attendance",
+                                            "facts": "Lawyer failed to keep client informed of Court hearing where client was due to plead guilty. Lawyer also failed to advise client to surrender to warrant of arrest that was issued due to his unattendance. Note: It is unnecessary for lawyer to keep client informed personally at all stages of the matter but lawyer cannot completely abdicate responsibility"
+                                        }
+                                    ]
+                                },
+                                "rule_5_2i": {
+                                    "title": "Rule 5(2)(i) PCR - Duty to Follow Client Instructions",
+                                    "verbatim_text": "Rule 5(2)(i) PCR: A legal practitioner must follow all lawful, proper and reasonable instructions that the client is competent to give",
+                                    "brief_summary": "Lawyers must follow client instructions if they are lawful, proper and reasonable. But lawyers can refuse illegal or unethical instructions.",
+                                    "important_note": "Lawyer is allowed to decline to carry out illegal or unethical acts for client (Loh Der Ming Andrew v LSS)",
+                                    "multiple_clients_rule": "If lawyer has multiple clients – Should confirm instructions with each client separately. PD 7.1.1: Where lawyer has more than one client involved, it would be advisable to send all correspondences to each of the clients separately to confirm instructions",
+                                    "detailed_case_example": {
+                                        "case": "Loh Der Ming Andrew v LSS",
+                                        "title": "Lawyer concealed several arguments in Consent Order contrary to client's instructions",
+                                        "facts": "Lawyer acted for client in a divorce case. Client wanted to allege that that his wife had an affair with neighbor and wanted to establish that the wife was the initiator of the affair. Wife contested allegation of adultery and applied to strike out the part on adultery in the statement of particulars. Lawyer consented to the parts being struck out knowing that the client did not consent to the striking out. Lawyer then hid the fact that he consented to the striking out from the client.",
+                                        "outcome": "Charged under s83(2)(h) and suspended for 3 years"
+                                    }
+                                },
+                                "rule_5_2j": {
+                                    "title": "Rule 5(2)(j) PCR - Duty to Use All Legal Means to Advance Client Interests",
+                                    "verbatim_text": "Rule 5(2)(j) PCR: A legal practitioner must use all legal means to advance the client's interests, to the extent that the legal practitioner may reasonably be expected to do so",
+                                    "brief_summary": "Lawyers must use all legal methods to help their clients, but only to the extent that is reasonable to expect."
+                                },
+                                "rule_5_2k": {
+                                    "title": "Rule 5(2)(k) PCR - Duty to Keep Contemporaneous Records",
+                                    "verbatim_text": "Rule 5(2)(k) PCR: A legal practitioner must keep proper contemporaneous records of all instructions received from, and all advice rendered to the client",
+                                    "brief_summary": "Lawyers must keep proper records of all client instructions and advice given, written at the time they happen.",
+                                    "scope_of_duty": "Duty to maintain contemporaneous notes of dealings extends to routine matters. PD 7.1.1: Legal practitioners are required to maintain contemporaneous notes of their dealings with clients even for routine matters",
+                                    "evidential_importance": "If dispute over solicitor-client dealings => If solicitor has no contemporaneous notes => Court may draw adverse inference against lawyer's testimony. PD 7.1.1: Contemporaneous notes help to clarify matters and corroborate a lawyer's testimony if there is a dispute over what happened. Without these notes, the court may draw an adverse inference against the legal practitioner's testimony of events.",
+                                    "case_law": {
+                                        "case": "Lie Hendri Rusli v Wong Tan and Molly Lim (a firm)",
+                                        "quote": "Evidential weight of contemporaneous note is stronger than evidential weight of lawyer's description of matters post-event",
+                                        "explanation": "In a dispute with a client, lawyer will likely have to recall what sort of advice he gave to the client. Without a contemporaneous note, lawyers can only describe their usual advice in the particular circumstance and speculate that the advice was what he 'must' have said => This carries lesser weight than a contemporaneous attendance note written at that point in time. Lack of contemporaneous note does not mean that the lawyer is not credible and contemporaneous notes might not automatically be accepted => But It is always better to have. Law Society recommends that lawyers should confirm in writing the advice given and the instructions received"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "module_id": "W1M3", 
+                            "title": "Confidentiality (Rule 6 PCR)", 
+                            "rules": ["Rule 6"],
+                            "summary": "Lawyers must keep client information confidential with 5 specific exceptions",
+                            "content": {
+                                "rule_6_overview": {
+                                    "title": "Rule 6 PCR - Confidentiality",
+                                    "verbatim_text": "Rule 6(1) PCR: A legal practitioner's duty to act in the best interests of the legal practitioner's client includes a responsibility to maintain the confidentiality of any information which the legal practitioner acquires in the course of the legal practitioner's professional work",
+                                    "brief_summary": "Lawyers must keep all client information confidential. This is fundamental to the lawyer-client relationship and the administration of justice."
+                                },
+                                "rule_6_2": {
+                                    "title": "Rule 6(2) PCR - Duty Not to Disclose Confidential Information",
+                                    "verbatim_text": "Rule 6(2) PCR: Subject to paragraph (3) and any rules under ss136, 160 or 166, a legal practitioner must not knowingly disclose any information which: (a) Is confidential to his client; AND (b) Is acquired by the legal practitioner (whether from the client or from any other person) in the course of the legal practitioner's engagement",
+                                    "brief_summary": "Lawyers cannot disclose confidential information unless an exception applies. The information must be confidential AND acquired during the engagement."
+                                },
+                                "confidentiality_principles": [
+                                    {
+                                        "principle": "Information must be confidential in nature to begin with",
+                                        "case": "LSS v Ravi s/o Madasamy",
+                                        "explanation": "Mere act of disclosure is not sufficient by itself to constitute a breach of confidentiality. There can only be a breach of confidentiality if, to begin with, the information was confidential in nature => Meaning it must not be publicly available. E.g. a letter from Courts to the client/lawyer concerning hearing dates may be publicly available and accessed from public hearing lists and are thus not confidential in nature"
+                                    },
+                                    {
+                                        "principle": "Importance of 'privileged and confidential' express disclaimer",
+                                        "case": "HT. S. R. L v Wee Shuo Woon",
+                                        "explanation": "Regardless of the contents of the email, an obligation of confidentiality will be imposed if there is an express 'privileged and confidential' provision. Facts: Pf commenced suit against Df. Pf's computer was hacked and emails between Pf and Pf lawyer were released on the internet. Df sought to rely on the emails to strike out a bulk of the Pf's claim. Held: The emails contained express provisos that they were 'Privileged and Confidential' and thus the emails were still protected by confidentiality and the Df could not rely on them"
+                                    }
+                                ],
+                                "five_exceptions": {
+                                    "title": "Rule 6(3) PCR - 5 Exceptions to Confidentiality",
+                                    "verbatim_text": "Rule 6(3) PCR: A legal practitioner may disclose confidential information if:",
+                                    "exceptions": [
+                                        {
+                                            "exception": "Client authorizes disclosure",
+                                            "text": "Client authorizes the disclosure"
+                                        },
+                                        {
+                                            "exception": "Lawyer required by law/order of Court to disclose",
+                                            "text": "Legal practitioner is permitted or is required by law, by an order of court, or by a tribunal to make the disclosure"
+                                        },
+                                        {
+                                            "exception": "Lawyer disclose information for sole purpose of obtaining advice on its legal or ethical obligation",
+                                            "text": "Legal practitioner discloses information in confidence for the sole purpose of obtaining advice in connection with the legal practitioner's legal or ethical obligations"
+                                        },
+                                        {
+                                            "exception": "Lawyer disclose information to lawyer's professional indemnity insurance when there is actual/potential complaint against lawyer",
+                                            "text": "Legal practitioner discloses information in confidence to a provider or broker of the legal practitioner's professional indemnity insurance in connection with any actual/potential claim or complaint by any person against the legal practitioner"
+                                        },
+                                        {
+                                            "exception": "Lawyer disclose information for sole purpose of defending complaints against his professional conduct",
+                                            "text": "Legal practitioner discloses information for the sole purpose of responding or defending any charge or complaint relating to the legal practitioner's professional conduct brought against the legal practitioner in court, before a Review Committee, an Inquiry Committee or a Disciplinary Tribunal or any relevant professional disciplinary of a foreign state which the legal practitioner is authorized to practice law"
+                                        }
+                                    ]
+                                },
+                                "authorities_requesting_info": {
+                                    "title": "When Authorities Request Confidential Information",
+                                    "pd_9_1_1": "PD 9.1.1: When various authorities such as Comptroller of Income Tax, Commercial Affairs Department and Official Assignee request for client's confidential information from lawyers and claims to do so pursuant to their powers under relevant legislation => Lawyers have an ethical duty to satisfy himself that the authorities' power invoked exists and have to make the necessary submissions for the client if there is an argument that the power does not exist or if the confidential information is provided by legal professional privilege"
+                                },
+                                "professional_privilege": {
+                                    "title": "Professional Privilege",
+                                    "pd_9_1_3": "PD 9.1.3: Professional privilege is the client's and not the lawyers => This means that the client can restrain the legal practitioner from making disclosure or can waive the privilege"
+                                }
+                            }
+                        },
+                        {
+                            "module_id": "W1M4", 
+                            "title": "Conflicts Between Multiple Clients (Rule 20 PCR)", 
+                            "rules": ["Rule 20"],
+                            "summary": "Lawyers must avoid conflicts when acting for multiple clients in the same matter",
+                            "content": {
+                                "rule_20_overview": {
+                                    "title": "Rule 20(1) PCR - Principles Underlying Multiple Client Conflicts",
+                                    "verbatim_text": "Rule 20(1) PCR: (a) A legal practitioner owes duties of loyalty and confidentiality to each client of the legal practitioner and must act prudently to avoid any compromise of lawyer-client relationship between legal practitioner and client by reason of a conflict, or potential conflict between the interests of 2 or more clients of the legal practitioner. (b) A law practice owes duties of loyalty and confidentiality to each client of the law practice, and must act prudently to avoid any compromise of the lawyer-client relationship between the law practice and the client by reason of a conflict, or potential conflict between the interests of 2 or more clients of the law practice",
+                                    "brief_summary": "Lawyers owe duties to each client and must avoid conflicts between multiple clients. This applies to both individual lawyers and law practices."
+                                },
+                                "case_law_principles": [
+                                    {
+                                        "case": "Lie Hendri Rusli v Wong Tan and Molly Lim",
+                                        "principle": "While representing multiple parties to a transaction is not in and of itself improper, the lawyer cannot prefer the interests of one client over another"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "module_id": "W1M5", 
+                            "title": "Current vs Former Client Conflicts (Rule 21 PCR)", 
+                            "rules": ["Rule 21"],
+                            "summary": "Lawyers cannot act for current client if it conflicts with former client's confidential information",
+                            "content": {
+                                "rule_21_overview": {
+                                    "title": "Rule 21(1) PCR - Principles Underlying Current vs Former Client Conflicts",
+                                    "verbatim_text": "Rule 21(1) PCR: (a) The duties of loyalty and confidentiality owed by a legal practitioner to his client continues after the termination of the retainer. (b) The duties of loyalty and confidentiality owed by a law practice to its client continue after the termination of the retainer",
+                                    "brief_summary": "Your duties to clients continue even after the retainer ends. You can't use former client's confidential information against them."
+                                },
+                                "general_rule": {
+                                    "title": "Rule 21(2) PCR - General Rule: Must Decline if 3 Conditions Met",
+                                    "verbatim_text": "Rule 21(2) PCR: Subject to Rules 21(3), 21(4) and 21(5), a legal practitioner or law practice must decline to represent or must withdraw from representing a client (called in this rule the current client) in a matter if: (a) The legal practitioner or the law practice holds confidential information relating to a former client (called in this rule the former client) that is protected by Rule 6; (b) The current client has an interest that is, or may reasonably be expected to be, adverse to an interest of the former client; and (c) That information may reasonably be expected to be material to the representation of the current client in that matter",
+                                    "brief_summary": "You must decline to act for current client if: (1) You have former client's confidential info, (2) Current and former clients have adverse interests, (3) The info is material to current representation."
+                                },
+                                "three_exceptions": [
+                                    {
+                                        "exception": "Exception 1: Rule 21(3) PCR - Former Client Gives Informed Consent",
+                                        "verbatim_text": "Rule 21(3) PCR: Rule 21(2) does not prevent a legal practitioner or law practice from acting or continuing to act for the current client, subject to any conditions agreed between the legal practitioner or law practice and the former client if: (a) The legal practitioner or law practice has adequately advised the former client to obtain independent legal advice; and (b) The former client gives the former client's informed consent in writing to the legal practitioner or law practice acting, or continuing to act, for the current client",
+                                        "brief_summary": "You can act if former client gets independent advice and gives written consent."
+                                    },
+                                    {
+                                        "exception": "Exception 2: Rule 21(4) PCR - Safeguards + Notice to Former Client",
+                                        "verbatim_text": "Rule 21(4) PCR: Even if Rule 21(3) is not met, Rule 21(2) does not prevent the legal practitioner or law practice from acting, or continuing to act for the current client if: (a) There are adequate safeguards in place to protect the former client's confidential information; and (b) The legal practitioner or law practice has made reasonable efforts to notify the former client: (i) Of those safeguards; and (ii) That the legal practitioner or law practice will act, continue to act, for the current client",
+                                        "brief_summary": "You can act if you have safeguards and try to notify former client."
+                                    },
+                                    {
+                                        "exception": "Exception 3: Rule 21(5) PCR - When Notice is Illegal",
+                                        "verbatim_text": "Rule 21(5) PCR: Even if it would be illegal for legal practitioner or law practice to meet Rule 21(3)(a) and Rule 21(4)(b), Rule 21(2) does not prevent legal practitioner or law practice from acting for current claim if: (a) There are adequate safeguards in place to protect the former client's confidential information; and (b) The legal practitioner or law practice ensures that the former client's confidential information is not accessed, used or disclosed without the former client's consent in writing",
+                                        "brief_summary": "If telling former client would breach current client's confidentiality, you can act with safeguards."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "module_id": "W1M6", 
+                            "title": "Client vs Lawyer/Law Practice Conflicts (Rule 22 PCR)", 
+                            "rules": ["Rule 22"],
+                            "summary": "Lawyers cannot act when their own interests conflict with client's interests",
+                            "content": {
+                                "rule_22_overview": {
+                                    "title": "Rule 22(1) PCR - Principles Underlying Client vs Lawyer Conflicts",
+                                    "verbatim_text": "Rule 22(1) PCR: (a) A legal practitioner owes duties of loyalty and confidentiality to a client of the legal practitioner, and must act prudently to avoid any compromise of the lawyer-client relationship between the legal practitioner and the client by reason of a conflict, or potential conflict, between the interests of the client and the interests of the legal practitioner. (b) A law practice owes duties of loyalty and confidentiality to a client of the law practice and must act prudently to avoid any compromise of the lawyer-client relationship between the law practice and the client by reason of a conflict, or potential conflict, between the interests of the client and the interests of the law practice",
+                                    "brief_summary": "You can't act for a client when your own interests conflict with theirs. This protects clients from lawyers putting themselves first."
+                                },
+                                "general_rule": {
+                                    "title": "Rule 22(2) PCR - General Rule: Must Not Act if Conflict",
+                                    "verbatim_text": "Rule 22(2) PCR: Except as otherwise permitted by this rule, a legal practitioner/law practice must not act for a client if there is or may reasonably be expected to be a conflict between: (a) Duty to serve the best interests of the client; and (b) Interests of the legal practitioner or law practice (*NOTE: not limited to the lawyer/LP alone but also the immediate family member of the legal practitioner)",
+                                    "brief_summary": "You must not act if there's a conflict between your duty to the client and your own interests (including family members' interests)."
+                                },
+                                "case_a_for_lawyer": {
+                                    "title": "Case A: FOR LAWYER - Rule 22(3) PCR",
+                                    "adverse_interest": {
+                                        "title": "Rule 22(3)(a) PCR - Adverse Interest",
+                                        "verbatim_text": "Rule 22(3)(a) PCR: If Lawyer, Lawyer's immediate family member, Lawyer's law practice has an interest in client's matter and if the interest is adverse to the client's interests => Lawyer must not represent the client. Exception: Lawyer can represent current client if he: (i) Makes full and frank disclosure of adverse interest to client; AND (ii) Advises client to obtain independent legal advice; AND (iii) And if client does not obtain independent legal advice, lawyer must ensure that client is not under an impression that the lawyer is protecting the client's interests (i.e. Client must know that LP is not protecting the client's interests over LP's); AND (iv) Client has given informed consent in writing for the lawyer to continue acting for client",
+                                        "brief_summary": "If your interest is adverse to client's, you can't act unless you disclose, advise independent advice, and get written consent."
+                                    },
+                                    "non_adverse_interest": {
+                                        "title": "Rule 22(3)(b) PCR - Non-Adverse Interest",
+                                        "verbatim_text": "Rule 22(3)(b) PCR: If Lawyer, Lawyer's immediate family member, Lawyer's law practice has an interest in client's matter and if the interest is NOT adverse to the client's interests => Lawyer must not represent the client. Exception: Lawyer can represent current client if he: (i) Makes full and frank disclosure of adverse interest to client; AND (ii) Client has given informed consent in writing for the Lawyer to continue acting for client",
+                                        "brief_summary": "Even if your interest isn't adverse, you still need to disclose and get written consent."
+                                    }
+                                },
+                                "case_b_for_law_practice": {
+                                    "title": "Case B: FOR LAW PRACTICE - Rule 22(4) PCR",
+                                    "adverse_interest": {
+                                        "title": "Rule 22(4)(a) PCR - Adverse Interest",
+                                        "verbatim_text": "Rule 22(4)(a) PCR: If LP has an interest in client's matter => If the interest is adverse to the client's interests => LP must not represent the client. Exception: LP can represent current client if he: (i) Makes full and frank disclosure of adverse interest to client; AND (ii) Advises client to obtain independent legal advice; AND (iii) And if client does not obtain independent legal advice, LP must ensure that client is not under an impression that the LP is protecting the client's interests; AND (iv) Client has given informed consent in writing for the LP to continue acting for client",
+                                        "brief_summary": "Same as for individual lawyers - disclose, advise independent advice, get written consent."
+                                    },
+                                    "non_adverse_interest": {
+                                        "title": "Rule 22(4)(b) PCR - Non-Adverse Interest",
+                                        "verbatim_text": "Rule 22(4)(b) PCR: If LP has an interest in client's matter => If the interest is adverse to the client's interests => LP must not represent the client. Exception: LP can represent current client if he: (i) Makes full and frank disclosure of adverse interest to client; AND (ii) Client has given informed consent in writing for the LP to continue acting for client",
+                                        "brief_summary": "Same as for individual lawyers - disclose and get written consent."
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "module_id": "W1M7", 
+                            "title": "Prohibited Borrowing Transactions (Rule 23 PCR)", 
+                            "rules": ["Rule 23"],
+                            "summary": "Lawyers cannot borrow money from clients except in limited circumstances",
+                            "content": {
+                                "rule_23_overview": {
+                                    "title": "Rule 23(1) PCR - Prohibition on Borrowing from Clients",
+                                    "verbatim_text": "Rule 23(1) PCR: Subject to Rule 23(2), a legal practitioner or law practice must NOT do any of the following: (a) Enter into a prohibited borrowing transaction; OR (b) Instruct, procure, provide security for or arrange for an associated party to enter into a prohibited borrowing transaction; OR (c) Knowingly allow an associated party to enter into a prohibited borrowing transaction which the legal practitioner or law practice has the power to prevent",
+                                    "brief_summary": "You cannot borrow money from clients, help others borrow from clients, or allow others to borrow from clients."
+                                },
+                                "definition": {
+                                    "title": "Rule 23(4) PCR - Definition of Prohibited Borrowing Transaction",
+                                    "verbatim_text": "Rule 23(4) PCR: 'prohibited borrowing transaction' means any transaction under or by virtue of which money or valuable security is borrowed (whether directly or indirectly, and whether with or without security) from a client of a legal practitioner or law practice: (a) By the legal practitioner or law practice; OR (b) By an associated party of the legal practitioner or law practice",
+                                    "brief_summary": "Any borrowing from a client is prohibited, whether direct or indirect, with or without security. Does not apply to licensed banks, finance companies, etc."
+                                },
+                                "client_definition": {
+                                    "title": "Rule 23(4) PCR - Definition of Client",
+                                    "verbatim_text": "Rule 23(4) PCR: 'client', in relation to a legal practitioner or law practice, includes: (a) Any person who has an existing lawyer-client relationship with the legal practitioner or law practice; (b) Any person seeking to invest money through the legal practitioner or law practice; (c) Any person approached by or on behalf of the legal practitioner or law practice to invest money through the legal practitioner or law practice",
+                                    "brief_summary": "Client includes anyone with existing relationship, anyone seeking to invest through you, or anyone you approach to invest."
+                                },
+                                "associated_party": {
+                                    "title": "Rule 23(4) PCR - Definition of Associated Party",
+                                    "verbatim_text": "Rule 23(4) PCR: 'associated party' means: (a) In relation to a legal practitioner: (i) Any individual who is an immediate family member of: (A) The legal practitioner; OR (B) The sole proprietor, or any partner, director, consultant or employee, of a law practice in which the legal practitioner practices law; OR (ii) Any body corporate, partnership, syndicate, joint venture or trust in which any of the following individuals has any beneficial interest, whether vested or contingent: (A) The legal practitioner; OR (B) Any individual who is an immediately family member of: (BA) The legal practitioner; OR (BB) The sole proprietor or any partner, director, consultant or employee, of a law practice in which the legal practitioner practices law",
+                                    "brief_summary": "Associated party includes your family members, law practice members' family, and any entities in which you or your family have beneficial interests."
+                                },
+                                "exceptions": [
+                                    {
+                                        "exception": "Exception 1: Rule 23(2)(a) PCR - Independent Advice + Full Disclosure",
+                                        "verbatim_text": "Rule 23(2)(a) PCR: Rule 23(1)(a) does not apply to a prohibited borrowing transaction if both of the following apply: (i) Every party to transaction (other than lawyer/LP) has received independent advice before transaction was entered into; (ii) Legal practitioner or law practice has made full disclosure of each interest of the legal practitioner or law practice in the transaction",
+                                        "brief_summary": "You can borrow if client gets independent advice and you make full disclosure."
+                                    },
+                                    {
+                                        "exception": "Exception 2: Rule 23(2)(b) PCR - Different Lawyer Represents Client",
+                                        "verbatim_text": "Rule 23(2)(b) PCR: Rule 23(1)(a) does not apply to a prohibited borrowing transaction if both of the following apply: (i) The legal practitioner or law practice does not act for any client of the legal practitioner or law practice in the transaction; (ii) Any client of the legal practitioner or law practice that is a party to the transaction is represented in the transaction by a legal practitioner from a different law practice or by a different law practice",
+                                        "brief_summary": "You can borrow if you don't act for the client in the transaction and they have different lawyers."
+                                    },
+                                    {
+                                        "exception": "Exception 3: Rule 23(2)(c) PCR - Council Discretion",
+                                        "verbatim_text": "Rule 23(2)(c) PCR: Rule 23(1)(a) does not apply to a prohibited borrowing transaction if the Council determines that Rule 23(1)(a) does not apply to that particular transaction (whether before or after the transaction was entered into)",
+                                        "brief_summary": "Council can exempt specific transactions in exceptional circumstances."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "module_id": "W1M8", 
+                            "title": "Purchases from Client (Rule 24 PCR)", 
+                            "rules": ["Rule 24"],
+                            "summary": "Lawyers can only purchase from clients at market price with independent valuation",
+                            "content": {
+                                "rule_24_1": {
+                                    "title": "Rule 24(1) PCR - Market Price Requirement",
+                                    "verbatim_text": "Rule 24(1) PCR: Subject to the law on fiduciary relationships, a legal practitioner or law practice may purchase goods and assets from a client only if the purchase is at the prevailing market price or at such price as is reasonable",
+                                    "brief_summary": "You can only buy from clients at market price or reasonable price. This prevents you from taking advantage of clients."
+                                },
+                                "rule_24_2": {
+                                    "title": "Rule 24(2) PCR - Independent Valuation Requirement",
+                                    "verbatim_text": "Rule 24(2) PCR: Where practicable, the legal practitioner or law practice must obtain an independent valuation of the goods and assets being purchased from the client",
+                                    "brief_summary": "Get an independent valuation to show you're not taking advantage of the client."
+                                }
+                            }
+                        },
+                        {
+                            "module_id": "W1M9", 
+                            "title": "Gifts from Client (Rule 25 PCR)", 
+                            "rules": ["Rule 25"],
+                            "summary": "Lawyers must not act for clients making significant gifts and must advise independent legal advice",
+                            "content": {
+                                "rule_25_1": {
+                                    "title": "Rule 25(1) PCR - When Rule 25(2) Applies",
+                                    "verbatim_text": "Rule 25(1) PCR: Rule 25(2) applies where lawyer's client intends to make a significant gift, whether by will or while the client is alive, or in any other manner, to: (i) The legal practitioner; (ii) The sole proprietor, or any partner, director, consultant or employee, of the law practice in which the legal practitioner practices; (iii) Any immediate family member of: (A) The legal practitioner; OR (B) The sole proprietor, or any partner, director, consultant or employee, of the law practice in which the legal practitioner practices; OR (iv) The law practice in which the legal practitioner practices",
+                                    "brief_summary": "This rule applies when client wants to give a significant gift to you, your family, your law practice, or anyone in your law practice."
+                                },
+                                "rule_25_2": {
+                                    "title": "Rule 25(2) PCR - Duties When Client Makes Significant Gift",
+                                    "verbatim_text": "Rule 25(2) PCR: The legal practitioner or law practice: (a) Must not act for the client in relation to the gift; and (b) Must advise the client to obtain independent legal advice in relation to the gift",
+                                    "brief_summary": "You cannot act for the client regarding the gift and must tell them to get independent legal advice."
+                                },
+                                "significant_gift": {
+                                    "title": "What is a Significant Gift?",
+                                    "case_law": "LSS v Wan Hui Hong James: 'Significant gift' is: A gift significant in absolute terms; A gift significant having regard to the client's means and reasonable expectations of other people who the gift could have gone to",
+                                    "brief_summary": "Significant means either large in absolute terms or large relative to client's wealth and what others might expect to receive."
+                                }
+                            }
+                        },
+                        {
+                            "module_id": "W1M10", 
+                            "title": "Completion of Retainer (Rule 26 PCR)", 
+                            "rules": ["Rule 26"],
+                            "summary": "How lawyer-client relationships end and duties upon termination",
+                            "content": {
+                                "rule_26_1": {
+                                    "title": "Rule 26(1) PCR - Duties Continue Until Termination",
+                                    "verbatim_text": "Rule 26(1) PCR: The duties of honesty, competence and diligence owed by a legal practitioner to his or her client continue until the termination of the retainer",
+                                    "brief_summary": "Your duties to the client continue until the retainer ends."
+                                },
+                                "rule_26_2": {
+                                    "title": "Rule 26(2) PCR - Duty to Complete Work",
+                                    "verbatim_text": "Rule 26(2) PCR: Except as otherwise provided in Rule 26, a legal practitioner must complete the work which he agreed to undertake pursuant to his client's instructions",
+                                    "brief_summary": "You must finish the work you agreed to do unless you withdraw properly."
+                                },
+                                "rule_26_4": {
+                                    "title": "Rule 26(4) PCR - When You Must Withdraw",
+                                    "verbatim_text": "Rule 26(4) PCR: A legal practitioner must withdraw from representing a client if: (a) Legal practitioner is discharged from engagement by the client; OR (b) Having come into possession of a document belonging to another party by any means other than the normal and proper channels, and having read the document, the legal practitioner would be embarrassed in the discharge of the legal practitioner's duties by the knowledge of the contents of the document",
+                                    "brief_summary": "You must withdraw if client fires you or if you get confidential documents improperly and it would embarrass you."
+                                },
+                                "rule_26_5": {
+                                    "title": "Rule 26(5) PCR - When You May Withdraw",
+                                    "verbatim_text": "Rule 26(5) PCR: A legal practitioner may withdraw from representing a client in a case or matter if: (a) Legal practitioner gives reasonable notice of the withdrawal to the client; OR (b) Withdrawal will not cause any significant harm to the client's interests, the client is fully informed of the consequences of the withdrawal and client voluntarily assents to the withdrawal; OR (c) The legal practitioner reasonably believes that continued engagement in the case or matter is likely to have a serious adverse effect on the legal practitioner's health; OR (d) Client: (i) Fails to pay legal practitioner's invoice within the stipulated period; OR (ii) Otherwise breaches an agreement with the legal practitioner regarding: (A) Fees or expenses to be paid by the client; OR (B) Client's conduct; OR (e) Client makes material misrepresentations about facts of the case or matter to the legal practitioner; OR (f) Withdrawal is necessary to avoid a contravention by the legal practitioner of the Act, these Rules or any other subsidiary legislation made under the Act, any practice directions, guidance notes and rulings issued under section 71(6) of the Act, any practice directions, guidance notes and rulings (relating to professional practice, etiquette, conduct and discipline) issued by the Council or the Society; OR (g) There is a serious loss of confidence between legal practitioner and the client; OR (h) Any other good cause exists",
+                                    "brief_summary": "You can withdraw in 8 situations: reasonable notice, no harm + client consents, health issues, client doesn't pay/breaches agreement, client lies, withdrawal needed to comply with law, loss of confidence, or other good cause."
+                                },
+                                "rule_26_6": {
+                                    "title": "Rule 26(6) PCR - Duties When Withdrawing",
+                                    "verbatim_text": "Rule 26(6) PCR: When a legal practitioner withdraws from representing a client in a case or matter, the legal practitioner must: (a) Take reasonable care to avoid foreseeable harm to the client, including, where circumstances permit: (i) By giving reasonable notice of the withdrawal to the client; (ii) By giving the client a reasonable amount of time to engage another legal practitioner to take over the case or matter; and (iii) By cooperating with the client's new legal practitioner; and (b) Abide by client's decision on whether to appoint another legal practitioner and who to appoint to take over the case or matter, if not completed",
+                                    "brief_summary": "When withdrawing, minimize harm to client by giving notice, time to find new lawyer, and cooperating with new lawyer."
+                                }
+                            }
+                        }
+                    ]
+                },
+                "week_2_content": {
+                    "title": "Week 2: Administration of Justice",
+                    "source": "Notes 2 - Practitioner's Role in Administration of Justice",
+                    "modules": [
+                        {"module_id": "W2M1", "title": "Court Duties - Honesty & Conduct", "rules": ["Rule 9"], "content": {"rule_9": {"title": "Rule 9 - Conduct of Proceedings before Court or Tribunal", "general_rule": "Duty to assist in administration of justice and never mislead the court"}}},
+                        {"module_id": "W2M2", "title": "Client Conduct Supervision", "rules": ["Rule 10"], "content": {"rule_10": {"title": "Rule 10 - Responsibility for Client's Conduct", "general_rule": "Supervise client conduct and prevent false evidence"}}},
+                        {"module_id": "W2M3", "title": "Conflict in Proceedings", "rules": ["Rule 11"], "content": {"rule_11": {"title": "Rule 11 - Conflict of Interest in Proceedings", "general_rule": "Cannot act if you have a conflict in court proceedings"}}},
+                        {"module_id": "W2M4", "title": "Witness Handling", "rules": ["Rule 12"], "content": {"rule_12": {"title": "Rule 12 - Communications and Dealings with Witnesses", "general_rule": "Proper witness handling and cross-examination rules"}}},
+                        {"module_id": "W2M5", "title": "Court Respect & Undertakings", "rules": ["Rule 13"], "content": {"rule_13": {"title": "Rule 13 - Respect for Court and Related Responsibilities", "general_rule": "Show respect to court and honor all undertakings"}}},
+                        {"module_id": "W2M6", "title": "Criminal Defense Duties", "rules": ["Rule 14"], "content": {"rule_14": {"title": "Rule 14 - Conducting Defence in Criminal Proceedings", "general_rule": "Special duties when defending criminal cases"}}},
+                        {"module_id": "W2M7", "title": "Prosecution Duties", "rules": ["Rule 15"], "content": {"rule_15": {"title": "Rule 15 - Conducting the Prosecution in Criminal Proceedings", "general_rule": "Special duties when prosecuting criminal cases"}}},
+                        {"module_id": "W2M8", "title": "Relations with Other Practitioners", "rules": ["Rule 7", "Rule 28", "Rule 29", "Rule 30", "Rule 31"], "content": {"rule_7": {"title": "Rule 7 - Responsibilities to Each Other", "general_rule": "Courtesy and fairness to other legal practitioners"}}},
+                        {"module_id": "W2M9", "title": "Conduct with Other Persons", "rules": ["Rule 8"], "content": {"rule_8": {"title": "Rule 8 - Conduct in Relation to Other Persons", "general_rule": "Fair and proper conduct with non-lawyers"}}}
+                    ]
+                },
+                "week_3_content": {
+                    "title": "Week 3: Staff, Titles, Fees",
+                    "source": "Notes 3 - Staff, Titles, Fees",
+                    "modules": [
+                        {"module_id": "W3M1", "title": "Staff Supervision", "rules": ["Rule 32", "S33 LPA", "S77 LPA"], "content": {"rule_32": {"title": "Rule 32 - Responsibility for Staff", "general_rule": "Exercise proper supervision over staff working under lawyer in law practice"}}},
+                        {"module_id": "W3M2", "title": "Titles & Executive Appointments", "rules": ["Rule 33", "Rule 34"], "content": {"rule_33": {"title": "Rule 33 - Descriptions and Titles", "general_rule": "Proper use of professional titles and descriptions"}}},
+                        {"module_id": "W3M3", "title": "Publicity & Touting", "rules": ["Publicity Rules", "Touting Rules"], "content": {"publicity": {"title": "Publicity Rules", "general_rule": "Lawyers may publicize practice if comply with PCR"}}},
+                        {"module_id": "W3M4", "title": "Referrals", "rules": ["Rule 39", "Rule 40"], "content": {"rule_39": {"title": "Rule 39 - Referral Arrangements", "general_rule": "Proper handling of referral arrangements"}}},
+                        {"module_id": "W3M5", "title": "Prohibited Business", "rules": ["Rule 38"], "content": {"rule_38": {"title": "Rule 38 - Prohibited Business, Trade or Calling", "general_rule": "Lawyers absolutely prohibited from engaging in certain businesses"}}},
+                        {"module_id": "W3M6", "title": "Client Money & Accounts", "rules": ["Rule 16", "LPSAR"], "content": {"rule_16": {"title": "Rule 16 - Client Money Duties", "general_rule": "Duties owed to client in relation to client's money"}}},
+                        {"module_id": "W3M7", "title": "Anti-Money Laundering", "rules": ["AML/CFT Rules"], "content": {"aml_cft": {"title": "Anti-Money Laundering (AML) and Combating the Financing of Terrorism (CFT)", "general_rule": "Lawyer/LP duty to perform 3-part customer due diligence (CDD)"}}},
+                        {"module_id": "W3M8", "title": "Professional Fees & Costs", "rules": ["Rule 17", "Rule 18", "Rule 19"], "content": {"rule_17": {"title": "Rule 17 - Professional Fees and Costs", "general_rule": "Proper charging and advising on legal fees"}}}
+                    ]
+                }
+            };
+        }
+
+        // Show ethics detail
+        function showEthicsDetail(letter) {
+            if (!ethicsData) {
+                alert('Ethics data is still loading. Please try again in a moment.');
+                return;
+            }
+
+            const ethicsDetails = {
+                'E': {
+                    title: 'Engagement Issues',
+                    rules: ['Rule 5', 'Rule 6', 'B1'],
+                    questions: [
+                        'Are there retainer formation/termination problems?',
+                        'Are there competence/diligence issues?',
+                        'Are there confidentiality breaches?'
+                    ],
+                    content: 'Covers client relationship duties, confidentiality, and retainer formation/termination issues.'
+                },
+                'T': {
+                    title: 'Two or More Clients',
+                    rules: ['Rule 20', 'Rule 21', 'Rule 22', 'Rule 15B'],
+                    questions: [
+                        'Are there current client conflicts?',
+                        'Are there former client conflicts?',
+                        'Are there personal interest conflicts?',
+                        'Are there family law conflicts?'
+                    ],
+                    content: 'Covers all types of conflicts of interest between clients, former clients, and personal interests.'
+                },
+                'H': {
+                    title: 'Honesty to Court',
+                    rules: ['Rule 9', 'Rule 10'],
+                    questions: [
+                        'Is the lawyer misleading the court?',
+                        'Is the client giving false evidence?',
+                        'Is the lawyer supervising client conduct properly?'
+                    ],
+                    content: 'Covers duties to court, client conduct supervision, and preventing false evidence.'
+                },
+                'I': {
+                    title: 'Improper Financial Arrangements',
+                    rules: ['Rule 23', 'Rule 24', 'Rule 25', 'Rule 16', 'LPSAR'],
+                    questions: [
+                        'Is the lawyer borrowing from clients?',
+                        'Is the lawyer buying from clients?',
+                        'Is the lawyer accepting gifts from clients?',
+                        'Are client accounts properly maintained?'
+                    ],
+                    content: 'Covers prohibited financial transactions and proper handling of client money.'
+                },
+                'C': {
+                    title: 'Court Duties',
+                    rules: ['Rule 11', 'Rule 12', 'Rule 13', 'Rule 7', 'Rule 8'],
+                    questions: [
+                        'Is there a conflict in proceedings?',
+                        'Is the lawyer handling witnesses properly?',
+                        'Is the lawyer showing proper court respect?',
+                        'Are relations with other practitioners proper?'
+                    ],
+                    content: 'Covers court conduct, witness handling, undertakings, and relations with other lawyers.'
+                },
+                'S': {
+                    title: 'Special Situations',
+                    rules: ['Rule 14', 'Rule 15', 'Rule 32', 'Rule 17', 'Rule 18', 'Rule 19'],
+                    questions: [
+                        'Are there criminal defense issues?',
+                        'Are there prosecution issues?',
+                        'Are there staff supervision issues?',
+                        'Are there fee arrangement issues?'
+                    ],
+                    content: 'Covers criminal law duties, staff supervision, and fee arrangements.'
+                }
+            };
+
+            const detail = ethicsDetails[letter];
+            const content = `
+                <h2>${detail.title}</h2>
+                <p><strong>Rules Covered:</strong> ${detail.rules.join(', ')}</p>
+                
+                <h3>Key Questions to Ask:</h3>
+                <ul>
+                    ${detail.questions.map(question => `<li>${question}</li>`).join('')}
+                </ul>
+                
+                <h3>Content Overview:</h3>
+                <p>${detail.content}</p>
+            `;
+            
+            showModal('ethicsModal', content);
+        }
+
+        // Show week content
+        function showWeekContent(week) {
+            console.log('showWeekContent called with:', week);
+            console.log('ethicsData:', ethicsData);
+            
+            if (!ethicsData) {
+                alert('Ethics data is still loading. Please try again in a moment.');
+                return;
+            }
+
+            const weekData = ethicsData[week.replace('week', 'week_') + '_content'];
+            console.log('weekData:', weekData);
+            
+            if (!weekData) {
+                alert('Week data not found for: ' + week + '. Available keys: ' + Object.keys(ethicsData));
+                return;
+            }
+
+            let content = `
+                <h2>${weekData.title}</h2>
+                <p><strong>Source:</strong> ${weekData.source}</p>
+                
+                ${weekData.overview ? `
+                    <div style="background: #e6f3ff; padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #3182ce;">
+                        <h3 style="color: #1a365d; margin-top: 0;">🎓 Learning Overview</h3>
+                        <p style="margin: 0; font-size: 16px; line-height: 1.6;">${weekData.overview}</p>
+                    </div>
+                ` : ''}
+                
+                <h3>📚 Modules to Study:</h3>
+            `;
+
+            if (weekData.modules && Array.isArray(weekData.modules)) {
+                weekData.modules.forEach((module, index) => {
+                    content += `
+                        <div class="module-card" data-module-id="${module.module_id}" style="background: #f7fafc; border-radius: 10px; padding: 20px; margin: 15px 0; border-left: 4px solid #667eea; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" onmouseover="this.style.background='#e6f3ff'; this.style.transform='translateY(-2px)'" onmouseout="this.style.background='#f7fafc'; this.style.transform='translateY(0)'">
+                            <h4 style="color: #2d3748; margin-top: 0; font-size: 18px;">${module.title}</h4>
+                            <p style="margin: 8px 0;"><strong>📋 Rules:</strong> ${module.rules ? module.rules.join(', ') : 'N/A'}</p>
+                            ${module.summary ? `
+                                <div style="background: #f0fff4; padding: 12px; border-radius: 6px; margin: 10px 0;">
+                                    <p style="margin: 0; color: #22543d; font-style: italic;">${module.summary}</p>
+                                </div>
+                            ` : ''}
+                            <p style="color: #667eea; font-weight: bold; margin-top: 15px; text-align: center; background: #e6f3ff; padding: 8px; border-radius: 6px;">🎓 Click to learn this topic in detail →</p>
+                        </div>
+                    `;
+                });
+            }
+
+            showModal('ethicsModal', content);
+            
+            // Add event listeners to module cards after modal is shown
+            setTimeout(function() {
+                document.querySelectorAll('.module-card').forEach(card => {
+                    card.addEventListener('click', function() {
+                        const moduleId = this.getAttribute('data-module-id');
+                        console.log('Module clicked:', moduleId);
+                        showModuleDetail(moduleId);
+                    });
+                });
+            }, 100);
+        }
+
+        // Show detailed module content
+        function showModuleDetail(moduleId) {
+            console.log('showModuleDetail called with:', moduleId);
+            
+            // Find the module in the data
+            let moduleData = null;
+            let weekTitle = '';
+            
+            // Search through all weeks to find the module
+            Object.keys(ethicsData).forEach(weekKey => {
+                if (weekKey.includes('_content') && ethicsData[weekKey].modules) {
+                    const module = ethicsData[weekKey].modules.find(m => m.module_id === moduleId);
+                    if (module) {
+                        moduleData = module;
+                        weekTitle = ethicsData[weekKey].title;
+                    }
+                }
+            });
+            
+            if (!moduleData) {
+                alert('Module not found: ' + moduleId);
+                return;
+            }
+            
+            let content = `
+                <h2>${moduleData.title}</h2>
+                <p><strong>Week:</strong> ${weekTitle}</p>
+                <p><strong>Rules:</strong> ${moduleData.rules ? moduleData.rules.join(', ') : 'N/A'}</p>
+                
+                <h3>Detailed Content:</h3>
+            `;
+            
+            if (moduleData.content) {
+                Object.keys(moduleData.content).forEach(key => {
+                    const item = moduleData.content[key];
+                    content += `
+                        <div style="background: #f8f9fa; border-radius: 8px; padding: 20px; margin: 15px 0; border-left: 4px solid #667eea; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                            <h3 style="color: #2d3748; margin-top: 0;">${item.title || key}</h3>
+                            
+                            ${item.verbatim_text ? `
+                                <div style="background: #1a365d; color: white; padding: 20px; border-radius: 8px; margin: 15px 0; font-family: 'Courier New', monospace;">
+                                    <h4 style="color: #90cdf4; margin: 0 0 15px 0; font-size: 16px;">📜 ${item.title || 'RULE TEXT'}</h4>
+                                    <div style="white-space: pre-line; line-height: 1.6; font-size: 14px;">${item.verbatim_text}</div>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.brief_summary ? `
+                                <div style="background: #e6f3ff; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #3182ce;">
+                                    <h4 style="color: #1a365d; margin: 0 0 8px 0;">💡 Brief Summary</h4>
+                                    <p style="margin: 0; font-weight: 500;">${item.brief_summary}</p>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.key_concept ? `
+                                <div style="background: #e6f3ff; padding: 15px; border-radius: 6px; margin: 10px 0;">
+                                    <h4 style="color: #1a365d; margin: 0 0 8px 0;">🎯 Key Concept</h4>
+                                    <p style="margin: 0; font-weight: 500;">${item.key_concept}</p>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.rationale ? `
+                                <div style="background: #f0fff4; padding: 15px; border-radius: 6px; margin: 10px 0;">
+                                    <h4 style="color: #22543d; margin: 0 0 8px 0;">💡 Why This Rule Exists</h4>
+                                    <p style="margin: 0;">${item.rationale}</p>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.what_it_means ? `
+                                <div style="background: #fffaf0; padding: 15px; border-radius: 6px; margin: 10px 0;">
+                                    <h4 style="color: #c05621; margin: 0 0 8px 0;">📖 What This Means in Practice</h4>
+                                    <p style="margin: 0;">${item.what_it_means}</p>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.all_requirements ? `
+                                <div style="background: #f7fafc; padding: 20px; border-radius: 8px; margin: 15px 0; border: 2px solid #e2e8f0;">
+                                    <h4 style="color: #2d3748; margin: 0 0 15px 0; font-size: 18px;">📋 ALL REQUIREMENTS</h4>
+                                    ${item.all_requirements.map((req, index) => `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #3182ce;">
+                                            <h5 style="color: #1a365d; margin: 0 0 8px 0; font-size: 16px;">${index + 1}. ${req.requirement}</h5>
+                                            <div style="background: #f7fafc; padding: 10px; border-radius: 4px; margin: 8px 0; font-family: 'Courier New', monospace; font-size: 13px;">
+                                                <strong>Verbatim:</strong> ${req.verbatim}
+                                            </div>
+                                            <p style="margin: 5px 0; color: #4a5568;">${req.explanation}</p>
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.legal_obligations ? `
+                                <div style="background: #f7fafc; padding: 20px; border-radius: 8px; margin: 15px 0; border: 2px solid #e2e8f0;">
+                                    <h4 style="color: #2d3748; margin: 0 0 15px 0; font-size: 18px;">⚖️ LEGAL OBLIGATIONS</h4>
+                                    ${item.legal_obligations.map(obligation => `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #3182ce;">
+                                            <h5 style="color: #1a365d; margin: 0 0 8px 0; font-size: 16px;">${obligation.obligation}</h5>
+                                            <p style="margin: 5px 0; font-weight: 500; color: #2d3748;">Requirement: ${obligation.requirement}</p>
+                                            <p style="margin: 5px 0; color: #4a5568; font-style: italic;">Case Law: ${obligation.case_law}</p>
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.requirements ? `
+                                <div style="background: #f7fafc; padding: 15px; border-radius: 6px; margin: 10px 0;">
+                                    <h4 style="color: #2d3748; margin: 0 0 10px 0;">📋 Requirements</h4>
+                                    <ul style="margin: 0; padding-left: 20px;">
+                                        ${item.requirements.map(req => `<li style="margin: 5px 0;">${req}</li>`).join('')}
+                                    </ul>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.court_analysis ? `
+                                <div style="background: #f0e6ff; padding: 20px; border-radius: 8px; margin: 15px 0; border: 2px solid #9f7aea;">
+                                    <h4 style="color: #553c9a; margin: 0 0 15px 0; font-size: 18px;">⚖️ COURT ANALYSIS</h4>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0;">
+                                        <h5 style="color: #553c9a; margin: 0 0 8px 0;">Case: ${item.court_analysis.case}</h5>
+                                        <div style="background: #f7fafc; padding: 12px; border-radius: 4px; margin: 8px 0; border-left: 3px solid #9f7aea;">
+                                            <strong>Court Quote:</strong> "${item.court_analysis.court_quote}"
+                                        </div>
+                                        <div style="background: #e6fffa; padding: 12px; border-radius: 4px; margin: 8px 0; border-left: 3px solid #38b2ac;">
+                                            <strong>Court Reasoning:</strong> ${item.court_analysis.court_reasoning}
+                                        </div>
+                                    </div>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.exam_analysis_framework ? `
+                                <div style="background: #e6f3ff; padding: 20px; border-radius: 8px; margin: 15px 0; border: 2px solid #3182ce;">
+                                    <h4 style="color: #1a365d; margin: 0 0 15px 0; font-size: 18px;">🎯 EXAM ANALYSIS FRAMEWORK</h4>
+                                    <ol style="margin: 0; padding-left: 20px;">
+                                        ${item.exam_analysis_framework.map(step => `<li style="margin: 8px 0; line-height: 1.5;">${step}</li>`).join('')}
+                                    </ol>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.exam_traps ? `
+                                <div style="background: #fed7d7; padding: 15px; border-radius: 6px; margin: 10px 0;">
+                                    <h4 style="color: #c53030; margin: 0 0 10px 0;">⚠️ Common Exam Traps</h4>
+                                    <ul style="margin: 0; padding-left: 20px;">
+                                        ${item.exam_traps.map(trap => `<li style="margin: 5px 0;">${trap}</li>`).join('')}
+                                    </ul>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.exam_scenarios ? `
+                                <div style="background: #e6fffa; padding: 15px; border-radius: 6px; margin: 10px 0;">
+                                    <h4 style="color: #234e52; margin: 0 0 10px 0;">🎭 Exam Scenarios to Think About</h4>
+                                    <ul style="margin: 0; padding-left: 20px;">
+                                        ${item.exam_scenarios.map(scenario => `<li style="margin: 5px 0;">${scenario}</li>`).join('')}
+                                    </ul>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.definition ? `
+                                <div style="background: #e6f3ff; padding: 15px; border-radius: 6px; margin: 10px 0;">
+                                    <h4 style="color: #1a365d; margin: 0 0 8px 0;">📖 Definition</h4>
+                                    <p style="margin: 0; font-weight: 500;">${item.definition}</p>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.exceptions ? `
+                                <div style="background: #fed7d7; padding: 15px; border-radius: 6px; margin: 10px 0;">
+                                    <h4 style="color: #c53030; margin: 0 0 10px 0;">⚠️ Exceptions</h4>
+                                    <ul style="margin: 0; padding-left: 20px;">
+                                        ${item.exceptions.map(exception => `<li style="margin: 5px 0;">${exception}</li>`).join('')}
+                                    </ul>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.principles ? `
+                                <div style="background: #f0fff4; padding: 15px; border-radius: 6px; margin: 10px 0;">
+                                    <h4 style="color: #22543d; margin: 0 0 10px 0;">📚 Legal Principles</h4>
+                                    ${item.principles.map(principle => `
+                                        <div style="background: white; padding: 12px; border-radius: 4px; margin: 8px 0; border-left: 3px solid #38a169;">
+                                            <h5 style="color: #22543d; margin: 0 0 5px 0; font-size: 14px;">${principle.principle}</h5>
+                                            <p style="margin: 3px 0; color: #4a5568; font-size: 13px;"><strong>Case:</strong> ${principle.case}</p>
+                                            <p style="margin: 3px 0; color: #2d3748; font-size: 13px;">${principle.explanation}</p>
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.consequences ? `
+                                <div style="background: #fef5e7; padding: 15px; border-radius: 6px; margin: 10px 0;">
+                                    <h4 style="color: #c05621; margin: 0 0 10px 0;">⚖️ Consequences of Breach</h4>
+                                    ${item.consequences.striking_off_presumptive ? `
+                                        <div style="background: #fed7d7; padding: 12px; border-radius: 4px; margin: 8px 0;">
+                                            <h5 style="color: #c53030; margin: 0 0 5px 0; font-size: 14px;">Striking Off is Presumptive Sanction When:</h5>
+                                            <ul style="margin: 0; padding-left: 20px;">
+                                                ${item.consequences.striking_off_presumptive.map(item => `<li style="margin: 3px 0; font-size: 13px;">${item}</li>`).join('')}
+                                            </ul>
+                                        </div>
+                                    ` : ''}
+                                    ${item.consequences.striking_off_not_presumptive ? `
+                                        <div style="background: #e6f3ff; padding: 12px; border-radius: 4px; margin: 8px 0;">
+                                            <h5 style="color: #1a365d; margin: 0 0 5px 0; font-size: 14px;">Striking Off is NOT Presumptive Sanction When:</h5>
+                                            <ul style="margin: 0; padding-left: 20px;">
+                                                ${item.consequences.striking_off_not_presumptive.map(item => `<li style="margin: 3px 0; font-size: 13px;">${item}</li>`).join('')}
+                                            </ul>
+                                        </div>
+                                    ` : ''}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.detailed_case_examples ? `
+                                <div style="background: #f0e6ff; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #553c9a; margin: 0 0 15px 0; font-size: 18px;">⚖️ Detailed Case Examples</h4>
+                                    ${item.detailed_case_examples.map(caseExample => `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #9f7aea;">
+                                            <h5 style="color: #553c9a; margin: 0 0 8px 0; font-size: 16px;">${caseExample.case}</h5>
+                                            ${caseExample.title ? `<h6 style="color: #6b46c1; margin: 0 0 8px 0; font-size: 14px; font-style: italic;">${caseExample.title}</h6>` : ''}
+                                            <p style="margin: 8px 0; color: #2d3748; line-height: 1.5;"><strong>Facts:</strong> ${caseExample.facts}</p>
+                                            ${caseExample.details ? `<p style="margin: 8px 0; color: #4a5568; line-height: 1.5;"><strong>Details:</strong> ${caseExample.details}</p>` : ''}
+                                            ${caseExample.outcome ? `<p style="margin: 8px 0; color: #c53030; line-height: 1.5;"><strong>Outcome:</strong> ${caseExample.outcome}</p>` : ''}
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.important_note ? `
+                                <div style="background: #fef5e7; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #f6ad55;">
+                                    <h4 style="color: #c05621; margin: 0 0 8px 0;">⚠️ Important Note</h4>
+                                    <p style="margin: 0; font-weight: 500;">${item.important_note}</p>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.multiple_clients_rule ? `
+                                <div style="background: #e6fffa; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38b2ac;">
+                                    <h4 style="color: #234e52; margin: 0 0 8px 0;">👥 Multiple Clients Rule</h4>
+                                    <p style="margin: 0;">${item.multiple_clients_rule}</p>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.scope_of_duty ? `
+                                <div style="background: #f0fff4; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38a169;">
+                                    <h4 style="color: #22543d; margin: 0 0 8px 0;">📋 Scope of Duty</h4>
+                                    <p style="margin: 0;">${item.scope_of_duty}</p>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.evidential_importance ? `
+                                <div style="background: #e6f3ff; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #3182ce;">
+                                    <h4 style="color: #1a365d; margin: 0 0 8px 0;">⚖️ Evidential Importance</h4>
+                                    <p style="margin: 0;">${item.evidential_importance}</p>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.client_definition ? `
+                                <div style="background: #e6f3ff; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #1a365d; margin: 0 0 15px 0; font-size: 18px;">👤 Client Definition</h4>
+                                    ${item.client_definition.contentious_business ? `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #3182ce;">
+                                            <h5 style="color: #1a365d; margin: 0 0 8px 0;">Contentious Business</h5>
+                                            <p style="margin: 0; color: #2d3748;">${item.client_definition.contentious_business}</p>
+                                        </div>
+                                    ` : ''}
+                                    ${item.client_definition.non_contentious_business ? `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #3182ce;">
+                                            <h5 style="color: #1a365d; margin: 0 0 8px 0;">Non-Contentious Business</h5>
+                                            <p style="margin: 0; color: #2d3748;">${item.client_definition.non_contentious_business}</p>
+                                        </div>
+                                    ` : ''}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.implied_retainers ? `
+                                <div style="background: #f0fff4; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #22543d; margin: 0 0 15px 0; font-size: 18px;">🤝 Implied Retainers</h4>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38a169;">
+                                        <h5 style="color: #22543d; margin: 0 0 8px 0;">Objective Test</h5>
+                                        <p style="margin: 0; color: #2d3748;">${item.implied_retainers.objective_test}</p>
+                                    </div>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38a169;">
+                                        <h5 style="color: #22543d; margin: 0 0 8px 0;">Case Law</h5>
+                                        <p style="margin: 0; color: #2d3748;">${item.implied_retainers.case_law}</p>
+                                    </div>
+                                    ${item.implied_retainers.factors_considered ? `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38a169;">
+                                            <h5 style="color: #22543d; margin: 0 0 8px 0;">Factors Considered</h5>
+                                            <ul style="margin: 0; padding-left: 20px;">
+                                                ${item.implied_retainers.factors_considered.map(factor => `<li style="margin: 5px 0; color: #2d3748;">${factor}</li>`).join('')}
+                                            </ul>
+                                        </div>
+                                    ` : ''}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.agent_instructions ? `
+                                <div style="background: #e6fffa; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #234e52; margin: 0 0 15px 0; font-size: 18px;">👥 Agent Instructions</h4>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38b2ac;">
+                                        <h5 style="color: #234e52; margin: 0 0 8px 0;">Rule 5(5) PCR</h5>
+                                        <p style="margin: 0; color: #2d3748;">${item.agent_instructions.rule_5_5}</p>
+                                    </div>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38b2ac;">
+                                        <h5 style="color: #234e52; margin: 0 0 8px 0;">PD 7.4.3</h5>
+                                        <p style="margin: 0; color: #2d3748;">${item.agent_instructions.pd_7_4_3}</p>
+                                    </div>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38b2ac;">
+                                        <h5 style="color: #234e52; margin: 0 0 8px 0;">Case Law</h5>
+                                        <p style="margin: 0; color: #2d3748;">${item.agent_instructions.case_law}</p>
+                                    </div>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.warrant_to_act ? `
+                                <div style="background: #fef5e7; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #c05621; margin: 0 0 15px 0; font-size: 18px;">📋 Warrant to Act</h4>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #f6ad55;">
+                                        <h5 style="color: #c05621; margin: 0 0 8px 0;">Requirement</h5>
+                                        <p style="margin: 0; color: #2d3748;">${item.warrant_to_act.requirement}</p>
+                                    </div>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #f6ad55;">
+                                        <h5 style="color: #c05621; margin: 0 0 8px 0;">Current Law</h5>
+                                        <p style="margin: 0; color: #2d3748;">${item.warrant_to_act.current_law}</p>
+                                    </div>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #f6ad55;">
+                                        <h5 style="color: #c05621; margin: 0 0 8px 0;">Consequences</h5>
+                                        <p style="margin: 0; color: #2d3748;">${item.warrant_to_act.consequences}</p>
+                                    </div>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.limitation_of_liability ? `
+                                <div style="background: #fed7d7; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #c53030; margin: 0 0 15px 0; font-size: 18px;">⚠️ Limitation of Liability</h4>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #fc8181;">
+                                        <h5 style="color: #c53030; margin: 0 0 8px 0;">PD 7.1.2</h5>
+                                        <p style="margin: 0; color: #2d3748;">${item.limitation_of_liability.pd_7_1_2}</p>
+                                    </div>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #fc8181;">
+                                        <h5 style="color: #c53030; margin: 0 0 8px 0;">Minimum Cover</h5>
+                                        <p style="margin: 0; color: #2d3748;">${item.limitation_of_liability.minimum_cover}</p>
+                                    </div>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.confidentiality_principles ? `
+                                <div style="background: #f0fff4; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #22543d; margin: 0 0 15px 0; font-size: 18px;">🔒 Confidentiality Principles</h4>
+                                    ${item.confidentiality_principles.map(principle => `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38a169;">
+                                            <h5 style="color: #22543d; margin: 0 0 8px 0;">${principle.principle}</h5>
+                                            <p style="margin: 3px 0; color: #4a5568; font-size: 13px;"><strong>Case:</strong> ${principle.case}</p>
+                                            <p style="margin: 3px 0; color: #2d3748; font-size: 13px;">${principle.explanation}</p>
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.five_exceptions ? `
+                                <div style="background: #e6f3ff; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #1a365d; margin: 0 0 15px 0; font-size: 18px;">🔓 5 Exceptions to Confidentiality</h4>
+                                    <div style="background: #1a365d; color: white; padding: 15px; border-radius: 6px; margin: 10px 0; font-family: 'Courier New', monospace;">
+                                        <p style="margin: 0; font-size: 14px;">${item.five_exceptions.verbatim_text}</p>
+                                    </div>
+                                    ${item.five_exceptions.exceptions.map((exception, index) => `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #3182ce;">
+                                            <h5 style="color: #1a365d; margin: 0 0 8px 0;">${index + 1}. ${exception.exception}</h5>
+                                            <p style="margin: 0; color: #2d3748;">${exception.text}</p>
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.authorities_requesting_info ? `
+                                <div style="background: #fef5e7; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #c05621; margin: 0 0 15px 0; font-size: 18px;">🏛️ When Authorities Request Information</h4>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #f6ad55;">
+                                        <h5 style="color: #c05621; margin: 0 0 8px 0;">PD 9.1.1</h5>
+                                        <p style="margin: 0; color: #2d3748;">${item.authorities_requesting_info.pd_9_1_1}</p>
+                                    </div>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.professional_privilege ? `
+                                <div style="background: #e6fffa; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #234e52; margin: 0 0 15px 0; font-size: 18px;">⚖️ Professional Privilege</h4>
+                                    <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38b2ac;">
+                                        <h5 style="color: #234e52; margin: 0 0 8px 0;">PD 9.1.3</h5>
+                                        <p style="margin: 0; color: #2d3748;">${item.professional_privilege.pd_9_1_3}</p>
+                                    </div>
+                                </div>
+                            ` : ''}
+                            
+                            ${item.case_law_principles ? `
+                                <div style="background: #f0fff4; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #22543d; margin: 0 0 15px 0; font-size: 18px;">📚 Case Law Principles</h4>
+                                    ${item.case_law_principles.map(principle => `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38a169;">
+                                            <h5 style="color: #22543d; margin: 0 0 8px 0;">${principle.case}</h5>
+                                            <p style="margin: 0; color: #2d3748;">${principle.principle}</p>
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.three_exceptions ? `
+                                <div style="background: #e6f3ff; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #1a365d; margin: 0 0 15px 0; font-size: 18px;">🔓 3 Exceptions</h4>
+                                    ${item.three_exceptions.map((exception, index) => `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #3182ce;">
+                                            <h5 style="color: #1a365d; margin: 0 0 8px 0;">${exception.exception}</h5>
+                                            <div style="background: #f7fafc; padding: 10px; border-radius: 4px; margin: 8px 0; font-family: 'Courier New', monospace; font-size: 13px;">
+                                                <strong>Verbatim:</strong> ${exception.verbatim_text}
+                                            </div>
+                                            <p style="margin: 5px 0; color: #4a5568;">${exception.brief_summary}</p>
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.case_a_for_lawyer ? `
+                                <div style="background: #fef5e7; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #c05621; margin: 0 0 15px 0; font-size: 18px;">👤 Case A: FOR LAWYER</h4>
+                                    ${item.case_a_for_lawyer.adverse_interest ? `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #f6ad55;">
+                                            <h5 style="color: #c05621; margin: 0 0 8px 0;">${item.case_a_for_lawyer.adverse_interest.title}</h5>
+                                            <div style="background: #f7fafc; padding: 10px; border-radius: 4px; margin: 8px 0; font-family: 'Courier New', monospace; font-size: 13px;">
+                                                <strong>Verbatim:</strong> ${item.case_a_for_lawyer.adverse_interest.verbatim_text}
+                                            </div>
+                                            <p style="margin: 5px 0; color: #4a5568;">${item.case_a_for_lawyer.adverse_interest.brief_summary}</p>
+                                        </div>
+                                    ` : ''}
+                                    ${item.case_a_for_lawyer.non_adverse_interest ? `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #f6ad55;">
+                                            <h5 style="color: #c05621; margin: 0 0 8px 0;">${item.case_a_for_lawyer.non_adverse_interest.title}</h5>
+                                            <div style="background: #f7fafc; padding: 10px; border-radius: 4px; margin: 8px 0; font-family: 'Courier New', monospace; font-size: 13px;">
+                                                <strong>Verbatim:</strong> ${item.case_a_for_lawyer.non_adverse_interest.verbatim_text}
+                                            </div>
+                                            <p style="margin: 5px 0; color: #4a5568;">${item.case_a_for_lawyer.non_adverse_interest.brief_summary}</p>
+                                        </div>
+                                    ` : ''}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.case_b_for_law_practice ? `
+                                <div style="background: #e6fffa; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #234e52; margin: 0 0 15px 0; font-size: 18px;">🏢 Case B: FOR LAW PRACTICE</h4>
+                                    ${item.case_b_for_law_practice.adverse_interest ? `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38b2ac;">
+                                            <h5 style="color: #234e52; margin: 0 0 8px 0;">${item.case_b_for_law_practice.adverse_interest.title}</h5>
+                                            <div style="background: #f7fafc; padding: 10px; border-radius: 4px; margin: 8px 0; font-family: 'Courier New', monospace; font-size: 13px;">
+                                                <strong>Verbatim:</strong> ${item.case_b_for_law_practice.adverse_interest.verbatim_text}
+                                            </div>
+                                            <p style="margin: 5px 0; color: #4a5568;">${item.case_b_for_law_practice.adverse_interest.brief_summary}</p>
+                                        </div>
+                                    ` : ''}
+                                    ${item.case_b_for_law_practice.non_adverse_interest ? `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #38b2ac;">
+                                            <h5 style="color: #234e52; margin: 0 0 8px 0;">${item.case_b_for_law_practice.non_adverse_interest.title}</h5>
+                                            <div style="background: #f7fafc; padding: 10px; border-radius: 4px; margin: 8px 0; font-family: 'Courier New', monospace; font-size: 13px;">
+                                                <strong>Verbatim:</strong> ${item.case_b_for_law_practice.non_adverse_interest.verbatim_text}
+                                            </div>
+                                            <p style="margin: 5px 0; color: #4a5568;">${item.case_b_for_law_practice.non_adverse_interest.brief_summary}</p>
+                                        </div>
+                                    ` : ''}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.exceptions ? `
+                                <div style="background: #e6f3ff; padding: 20px; border-radius: 8px; margin: 15px 0;">
+                                    <h4 style="color: #1a365d; margin: 0 0 15px 0; font-size: 18px;">🔓 Exceptions</h4>
+                                    ${item.exceptions.map((exception, index) => `
+                                        <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border-left: 4px solid #3182ce;">
+                                            <h5 style="color: #1a365d; margin: 0 0 8px 0;">${exception.exception}</h5>
+                                            <div style="background: #f7fafc; padding: 10px; border-radius: 4px; margin: 8px 0; font-family: 'Courier New', monospace; font-size: 13px;">
+                                                <strong>Verbatim:</strong> ${exception.verbatim_text}
+                                            </div>
+                                            <p style="margin: 5px 0; color: #4a5568;">${exception.brief_summary}</p>
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            ` : ''}
+                            
+                            ${item.case_examples ? `
+                                <div style="background: #f0e6ff; padding: 15px; border-radius: 6px; margin: 10px 0;">
+                                    <h4 style="color: #553c9a; margin: 0 0 10px 0;">⚖️ Real Case Examples</h4>
+                                    <ul style="margin: 0; padding-left: 20px;">
+                                        ${item.case_examples.map(caseItem => `<li style="margin: 5px 0;">${caseItem}</li>`).join('')}
+                                    </ul>
+                                </div>
+                            ` : ''}
+                        </div>
+                    `;
+                });
+            }
+            
+            showModal('ethicsModal', content);
+        }
+
+        // Show practice scenarios
+        function showPracticeScenarios() {
+            console.log('showPracticeScenarios called');
+            
+            // Test if modal exists
+            const modal = document.getElementById('ethicsModal');
+            console.log('Modal element found:', modal);
+            
+            const content = `
+                <h2>Practice Scenarios</h2>
+                <p>25 comprehensive scenarios covering all aspects of professional conduct:</p>
+                
+                <div style="background: #f7fafc; border-radius: 10px; padding: 15px; margin: 10px 0;">
+                    <h4>📝 The Otto/Stelle/Jade Scenario</h4>
+                    <p><strong>Difficulty:</strong> Advanced | <strong>Marks:</strong> 20</p>
+                    <p>Co-defendant representation, conflict of interest, confidentiality issues</p>
+                </div>
+                
+                <div style="background: #f7fafc; border-radius: 10px; padding: 15px; margin: 10px 0;">
+                    <h4>⚖️ The Confessing Client</h4>
+                    <p><strong>Difficulty:</strong> Intermediate | <strong>Marks:</strong> 15</p>
+                    <p>Client admits guilt, false evidence, court duty vs client duty</p>
+                </div>
+                
+                <div style="background: #f7fafc; border-radius: 10px; padding: 15px; margin: 10px 0;">
+                    <h4>💰 The Borrowing Transaction</h4>
+                    <p><strong>Difficulty:</strong> Beginner | <strong>Marks:</strong> 10</p>
+                    <p>Prohibited borrowing from clients, conflict of interest</p>
+                </div>
+                
+                <p><strong>Practice Method:</strong></p>
+                <ol>
+                    <li><strong>5-Minute Issue Spot:</strong> Use ETHICS checklist to identify all issues</li>
+                    <li><strong>Rule Identification:</strong> 2 minutes per issue to identify applicable rules</li>
+                    <li><strong>Quick Analysis:</strong> 1 minute per issue to determine breach/no breach</li>
+                    <li><strong>Full Analysis:</strong> 5 minutes per issue for complete 4-step analysis</li>
+                </ol>
+            `;
+            
+            showModal('ethicsModal', content);
+        }
+
+        // Show issue spotting
+        function showIssueSpotting() {
+            console.log('showIssueSpotting called');
+            const content = `
+                <h2>5-Minute Issue Spotting Practice</h2>
+                <p>Use the ETHICS checklist to rapidly identify all potential ethical issues:</p>
+                
+                <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 15px; padding: 20px; margin: 20px 0;">
+                    <h3>ETHICS Checklist:</h3>
+                    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 15px;">
+                        <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 8px; text-align: center;">
+                            <strong>E</strong><br>Engagement Issues
+                        </div>
+                        <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 8px; text-align: center;">
+                            <strong>T</strong><br>Two or More Clients
+                        </div>
+                        <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 8px; text-align: center;">
+                            <strong>H</strong><br>Honesty to Court
+                        </div>
+                        <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 8px; text-align: center;">
+                            <strong>I</strong><br>Improper Financial
+                        </div>
+                        <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 8px; text-align: center;">
+                            <strong>C</strong><br>Court Duties
+                        </div>
+                        <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 8px; text-align: center;">
+                            <strong>S</strong><br>Special Situations
+                        </div>
+                    </div>
+                </div>
+                
+                <h3>Practice Steps:</h3>
+                <ol>
+                    <li><strong>Read scenario once</strong> - Don't analyze yet, just read</li>
+                    <li><strong>Go through ETHICS checklist</strong> - Ask each question systematically</li>
+                    <li><strong>List all issues found</strong> - Don't worry about analysis yet</li>
+                    <li><strong>Time yourself</strong> - Aim for 5 minutes total</li>
+                </ol>
+                
+                <p><strong>Goal:</strong> Develop rapid issue identification skills for exam conditions.</p>
+            `;
+            
+            showModal('ethicsModal', content);
+        }
+
+        // Show quick reference
+        function showQuickReference() {
+            console.log('showQuickReference called');
+            const content = `
+                <h2>Quick Reference Guide</h2>
+                <p>Complete PCR rules and analysis framework for rapid lookup:</p>
+                
+                <div style="background: #f7fafc; border-radius: 10px; padding: 15px; margin: 10px 0;">
+                    <h4>4-Step Analysis Method:</h4>
+                    <ol>
+                        <li><strong>Issue Statement:</strong> "Whether [lawyer] breached [Rule X] by [specific conduct]"</li>
+                        <li><strong>Rule Application:</strong> Quote rule requirement and identify exceptions</li>
+                        <li><strong>Analysis:</strong> Apply facts to rule, consider exceptions, conclude: breach/no breach</li>
+                        <li><strong>Reasoning:</strong> Explain why this conclusion and what proper conduct would be</li>
+                    </ol>
+                </div>
+                
+                <div style="background: #f7fafc; border-radius: 10px; padding: 15px; margin: 10px 0;">
+                    <h4>Common Patterns:</h4>
+                    <ul>
+                        <li><strong>Conflicts:</strong> Two clients same matter → Rule 20, Former client → Rule 21, Personal interest → Rule 22</li>
+                        <li><strong>Court Duties:</strong> Client admits guilt → Rule 10(4), False evidence → Rule 10(3), Misleading court → Rule 9(2)</li>
+                        <li><strong>Financial:</strong> Borrowing from client → Rule 23, Gifts from client → Rule 25, Buying from client → Rule 24</li>
+                    </ul>
+                </div>
+                
+                <div style="background: #f7fafc; border-radius: 10px; padding: 15px; margin: 10px 0;">
+                    <h4>Key Rules Summary:</h4>
+                    <ul>
+                        <li><strong>Rule 4:</strong> Paramount duty to court takes precedence over duty to client</li>
+                        <li><strong>Rule 5:</strong> Honesty, competence and diligence in client representation</li>
+                        <li><strong>Rule 6:</strong> Confidentiality with 5 specific exceptions</li>
+                        <li><strong>Rule 9:</strong> Never mislead the court</li>
+                        <li><strong>Rule 10:</strong> Supervise client conduct and prevent false evidence</li>
+                        <li><strong>Rules 20-22:</strong> Conflict of interest rules</li>
+                        <li><strong>Rules 23-25:</strong> Prohibited financial arrangements</li>
+                    </ul>
+                </div>
+            `;
+            
+            showModal('ethicsModal', content);
+        }
+
+        // Show modal
+        function showModal(modalId, content) {
+            console.log('showModal called with:', modalId);
+            const modal = document.getElementById(modalId);
+            if (!modal) {
+                console.error('Modal not found:', modalId);
+                return;
+            }
+            
+            const contentDiv = document.getElementById('ethicsContent');
+            if (contentDiv) {
+                // Add back button to content
+                const backButton = `
+                    <div style="margin-bottom: 20px;">
+                        <button onclick="closeModal('${modalId}')" style="background: #667eea; color: white; border: none; padding: 10px 20px; border-radius: 6px; cursor: pointer; font-size: 14px; font-weight: 500;">
+                            ← Back
+                        </button>
+                    </div>
+                `;
+                contentDiv.innerHTML = backButton + content;
+                console.log('Content set successfully');
+            } else {
+                console.error('Content div not found');
+            }
+            
+            modal.style.display = 'block';
+            console.log('Modal should be visible now');
+        }
+
+        // Close modal
+        function closeModal(modalId) {
+            document.getElementById(modalId).style.display = 'none';
+        }
+
+        // Close modal when clicking outside
+        window.onclick = function(event) {
+            const modals = document.querySelectorAll('.modal');
+            modals.forEach(modal => {
+                if (event.target === modal) {
+                    modal.style.display = 'none';
+                }
+            });
+        }
+
+        // Test modal function
+        function testModal() {
+            console.log('Testing modal...');
+            const modal = document.getElementById('ethicsModal');
+            const contentDiv = document.getElementById('ethicsContent');
+            console.log('Modal:', modal);
+            console.log('Content div:', contentDiv);
+            
+            if (modal && contentDiv) {
+                contentDiv.innerHTML = '<h2>Test Modal</h2><p>If you can see this, the modal is working!</p>';
+                modal.style.display = 'block';
+                console.log('Modal should be visible now');
+            } else {
+                console.error('Modal or content div not found');
+            }
+        }
+
+        // Make functions globally accessible
+        window.showWeekContent = showWeekContent;
+        window.showPracticeScenarios = showPracticeScenarios;
+        window.showIssueSpotting = showIssueSpotting;
+        window.showQuickReference = showQuickReference;
+        window.showEthicsDetail = showEthicsDetail;
+        window.showModuleDetail = showModuleDetail;
+        window.showCorporateSubjects = showCorporateSubjects;
+        window.showEthicsSubjects = showEthicsSubjects;
+        window.showDisputeResolutionSubjects = showDisputeResolutionSubjects;
+
         // Initialize the platform
         document.addEventListener('DOMContentLoaded', function() {
             showMainMenu();
+            loadEthicsData();
+            console.log('Ethics data loaded:', ethicsData);
+            
+            // Test if functions are accessible
+            console.log('showWeekContent function:', typeof showWeekContent);
+            console.log('showPracticeScenarios function:', typeof showPracticeScenarios);
+            
+            // Add event listeners for all clickable elements
+            setTimeout(function() {
+                // Week cards
+                document.querySelectorAll('.week-card').forEach(card => {
+                    card.addEventListener('click', function() {
+                        const week = this.getAttribute('data-week');
+                        console.log('Week card clicked:', week);
+                        showWeekContent(week);
+                    });
+                });
+                
+                // Practice options
+                document.querySelectorAll('.practice-option').forEach(option => {
+                    option.addEventListener('click', function() {
+                        const action = this.getAttribute('data-action');
+                        console.log('Practice option clicked:', action);
+                        if (action === 'practice-scenarios') {
+                            showPracticeScenarios();
+                        } else if (action === 'issue-spotting') {
+                            showIssueSpotting();
+                        } else if (action === 'quick-reference') {
+                            showQuickReference();
+                        }
+                    });
+                });
+                
+                // Ethics items
+                document.querySelectorAll('.ethics-item').forEach(item => {
+                    item.addEventListener('click', function() {
+                        const ethics = this.getAttribute('data-ethics');
+                        console.log('Ethics item clicked:', ethics);
+                        showEthicsDetail(ethics);
+                    });
+                });
+                
+                console.log('Event listeners added successfully');
+            }, 500);
+            
+            // Test modal after a short delay
+            setTimeout(testModal, 1000);
         });
     </script>
+
+    <!-- Ethics Modal -->
+    <div id="ethicsModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('ethicsModal')">&times;</span>
+            <div id="ethicsContent"></div>
+        </div>
+    </div>
 </body>
 </html>
