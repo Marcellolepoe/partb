@@ -860,14 +860,26 @@
             // Show feedback
             const feedbackContainer = document.getElementById('feedback-container');
             
+            // Handle both string and object explanation formats
+            let explanationText = '';
+            let referenceText = '';
+            
+            if (typeof question.explanation === 'string') {
+                explanationText = question.explanation;
+                referenceText = question.reference || '';
+            } else if (typeof question.explanation === 'object') {
+                explanationText = question.explanation.correct || '';
+                referenceText = question.explanation.reference || '';
+            }
+            
             feedbackContainer.innerHTML = `
                 <h3>${isCorrect ? '✅ Correct!' : '❌ Incorrect'}</h3>
                 <div class="explanation-content">
                     <p><strong>Your Answer:</strong> ${selectedOption}</p>
                     <p><strong>Correct Answer:</strong> ${correctOption}</p>
-                    <p><strong>Explanation:</strong> ${question.explanation}</p>
+                    <p><strong>Explanation:</strong> ${explanationText}</p>
                     ${question.detailed_explanation ? `<p><strong>Detailed Explanation:</strong></p><p>${question.detailed_explanation.replace(/\n/g, '<br>')}</p>` : ''}
-                    ${question.reference ? `<p><strong>Reference:</strong> ${question.reference}</p>` : ''}
+                    ${referenceText ? `<p><strong>Reference:</strong> ${referenceText}</p>` : ''}
                 </div>
             `;
             
