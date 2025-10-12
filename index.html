@@ -793,7 +793,19 @@
 
             // Display options
             const optionsContainer = document.getElementById('options-container');
-            optionsContainer.innerHTML = question.options.map((option, index) => 
+            let optionsArray;
+            
+            // Handle both array and object formats for options
+            if (Array.isArray(question.options)) {
+                optionsArray = question.options;
+            } else if (typeof question.options === 'object') {
+                // Convert object to array (A, B, C, D)
+                optionsArray = Object.keys(question.options)
+                    .sort() // Ensure A, B, C, D order
+                    .map(key => `${key}. ${question.options[key]}`);
+            }
+            
+            optionsContainer.innerHTML = optionsArray.map((option, index) => 
                 `<div class="option" onclick="selectOption(${index})" data-option="${index}">${option}</div>`
             ).join('');
 
@@ -827,12 +839,26 @@
 
             const question = currentQuestions[currentQuestionIndex];
             const correctAnswer = question.correct_answer;
-            const selectedOption = question.options[selectedAnswer];
-            const correctOption = question.options.find(option => option.startsWith(correctAnswer + '.'));
+            
+            // Handle both array and object formats for options
+            let optionsArray, selectedOption, correctOption, isCorrect;
+            
+            if (Array.isArray(question.options)) {
+                optionsArray = question.options;
+                selectedOption = optionsArray[selectedAnswer];
+                correctOption = optionsArray.find(option => option.startsWith(correctAnswer + '.'));
+                isCorrect = selectedAnswer === optionsArray.findIndex(option => option.startsWith(correctAnswer + '.'));
+            } else if (typeof question.options === 'object') {
+                // Convert object to array for processing
+                const sortedKeys = Object.keys(question.options).sort();
+                optionsArray = sortedKeys.map(key => `${key}. ${question.options[key]}`);
+                selectedOption = optionsArray[selectedAnswer];
+                correctOption = optionsArray.find(option => option.startsWith(correctAnswer + '.'));
+                isCorrect = selectedAnswer === optionsArray.findIndex(option => option.startsWith(correctAnswer + '.'));
+            }
 
             // Show feedback
             const feedbackContainer = document.getElementById('feedback-container');
-            const isCorrect = selectedAnswer === question.options.findIndex(option => option.startsWith(correctAnswer + '.'));
             
             feedbackContainer.innerHTML = `
                 <h3>${isCorrect ? '✅ Correct!' : '❌ Incorrect'}</h3>
