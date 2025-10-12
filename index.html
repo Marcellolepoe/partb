@@ -761,8 +761,15 @@
                 document.getElementById('global-home-button').classList.remove('hidden');
                 
                 // Show loading state
-                document.getElementById('quiz-title').textContent = subject.name;
-                document.getElementById('question-text').textContent = 'Loading questions...';
+                const quizTitle = document.getElementById('quiz-title');
+                const questionText = document.getElementById('question-text');
+                
+                if (!quizTitle || !questionText) {
+                    throw new Error('Required DOM elements not found. Page may not be fully loaded.');
+                }
+                
+                quizTitle.textContent = subject.name;
+                questionText.textContent = 'Loading questions...';
                 
                 // Load questions
                 console.log(`🌐 Fetching: ${subject.file}`);
@@ -812,7 +819,10 @@
                 selectedAnswer = null;
                 
                 // Update UI
-                document.getElementById('total-questions').textContent = currentQuestions.length;
+                const totalQuestions = document.getElementById('total-questions');
+                if (totalQuestions) {
+                    totalQuestions.textContent = currentQuestions.length;
+                }
                 updateProgress();
                 displayQuestion();
                 
@@ -820,8 +830,13 @@
                 
             } catch (error) {
                 console.error('❌ Quiz loading failed:', error);
-                document.getElementById('question-text').textContent = `Error: ${error.message}`;
-                document.getElementById('question-text').innerHTML += '<br><br>Check console for detailed diagnostics.';
+                const errorElement = document.getElementById('question-text');
+                if (errorElement) {
+                    errorElement.textContent = `Error: ${error.message}`;
+                    errorElement.innerHTML += '<br><br>Check console for detailed diagnostics.';
+                } else {
+                    console.error('❌ Cannot display error - question-text element not found');
+                }
             }
         }
 
@@ -835,12 +850,20 @@
             selectedAnswer = null;
 
             // Update question number and progress
-            document.getElementById('current-question').textContent = currentQuestionIndex + 1;
-            document.getElementById('question-number').textContent = `Question ${currentQuestionIndex + 1} of ${currentQuestions.length}`;
+            const currentQuestionEl = document.getElementById('current-question');
+            const questionNumberEl = document.getElementById('question-number');
+            const questionTextEl = document.getElementById('question-text');
+            
+            if (currentQuestionEl) currentQuestionEl.textContent = currentQuestionIndex + 1;
+            if (questionNumberEl) questionNumberEl.textContent = `Question ${currentQuestionIndex + 1} of ${currentQuestions.length}`;
             updateProgress();
 
             // Display question text
-            document.getElementById('question-text').textContent = question.question;
+            if (questionTextEl) {
+                questionTextEl.textContent = question.question;
+            } else {
+                console.error('❌ question-text element not found in displayQuestion');
+            }
 
             // Display statements
             const statementsContainer = document.getElementById('statements-container');
