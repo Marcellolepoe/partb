@@ -749,7 +749,19 @@
                     throw new Error(`Failed to load ${subject.file}`);
                 }
                 
-                currentQuestions = await response.json();
+                const data = await response.json();
+                
+                // Handle different JSON structures
+                if (Array.isArray(data)) {
+                    // Direct array format (banking, etc.)
+                    currentQuestions = data;
+                } else if (data.questions && Array.isArray(data.questions)) {
+                    // Wrapped format with questions array (muslim family law)
+                    currentQuestions = data.questions;
+                } else {
+                    throw new Error('Invalid question format');
+                }
+                
                 currentQuestionIndex = 0;
                 selectedAnswer = null;
                 
