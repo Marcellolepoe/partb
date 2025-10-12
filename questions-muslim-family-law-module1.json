@@ -1,0 +1,41 @@
+[
+    {
+      "question": "Which of the following statements is correct regarding the jurisdiction of the Syariah Court?",
+    "options": [
+      "A. The Syariah Court has inherent jurisdiction to grant whatever relief is pleaded for by the parties.",
+      "B. The Syariah Court derives its jurisdiction solely from the Administration of Muslim Law Act and rules thereunder.",
+      "C. The Syariah Court can make orders for Personal Protection Orders during marriage.",
+      "D. The Syariah Court has concurrent jurisdiction with civil courts over all family matters involving Muslims."
+    ],
+      "correct_answer": "B",
+    "explanation": "The Syariah Court has no inherent jurisdiction - it is a creature of statute. It derives its jurisdiction and powers solely from the Administration of Muslim Law Act (AMLA) and any rules thereunder.",
+    "detailed_explanation": "**BASIC CONCEPT: Syariah Court Jurisdiction**\n\nThe Syariah Court (SYC) has **no inherent jurisdiction** - it is a creature of statute deriving its jurisdiction and powers solely from the Administration of Muslim Law Act (AMLA) and rules thereunder.\n\n**What this question tests:** Your understanding of the fundamental principle that SYC is not a court of inherent jurisdiction.\n\n**Why each option is wrong:**\n\n**A. Inherent jurisdiction - INCORRECT**\n- SYC has NO inherent jurisdiction\n- It can only exercise powers specifically granted by statute\n- Unlike High Court, SYC cannot make orders based on inherent jurisdiction\n\n**C. Personal Protection Orders - INCORRECT**\n- SYC cannot make PPO orders during marriage\n- PPOs must be applied for in Family Justice Courts\n- SYC jurisdiction is limited to specific matters under s 35(2) AMLA\n\n**D. Concurrent jurisdiction over all matters - INCORRECT**\n- SYC does not have concurrent jurisdiction over all family matters\n- It has specific jurisdiction under s 35(2) AMLA\n- Concurrent jurisdiction exists only for certain matters under s 17A SCJA\n\n**Key Takeaway:** SYC is a statutory creature with limited, specific jurisdiction - never assume it has broad inherent powers.",
+        "reference": "Section 1.1 - Jurisdiction of Syariah Court - Fundamental Principles"
+    },
+    {
+      "question": "Under section 35(2) AMLA, the Syariah Court has jurisdiction in matters where:",
+    "options": [
+      "A. All parties are Muslims at the time of the divorce proceedings.",
+      "B. All parties are Muslims OR where parties were married under Muslim law at the time of marriage.",
+      "C. At least one party is a Muslim at the time of the proceedings.",
+      "D. The marriage was conducted in Singapore under Muslim law."
+    ],
+      "correct_answer": "B",
+    "explanation": "Section 35(2) AMLA provides jurisdiction where all parties are Muslims OR where parties were married under Muslim law at the time of marriage (not at time of divorce).",
+    "detailed_explanation": "**BASIC CONCEPT: Subject Matter Jurisdiction**\n\nSection 35(2) AMLA establishes SYC's subject matter jurisdiction based on the religious status of parties **at the time of marriage**, not divorce.\n\n**What this question tests:** Your understanding of the timing requirement for SYC jurisdiction.\n\n**Why each option is wrong:**\n\n**A. Time of divorce proceedings - INCORRECT**\n- The test is at time of marriage, not divorce\n- If one party converts after marriage, SYC still retains jurisdiction\n- Critical phrase: 'at the time of the marriage and not at the time of divorce'\n\n**C. At least one party Muslim - INCORRECT**\n- Requirement is ALL parties must be Muslims\n- OR parties must have been married under Muslim law\n- Not sufficient for just one party to be Muslim\n\n**D. Marriage conducted in Singapore - INCORRECT**\n- Location of marriage ceremony is not the determining factor\n- It's about religious status of parties at time of marriage\n- Foreign Muslim marriages can also give SYC jurisdiction\n\n**Key Takeaway:** The critical test is religious status at marriage, not divorce, and it's about ALL parties being Muslim or married under Muslim law.",
+        "reference": "Section 1.1 - Section 35(2) AMLA - Subject Matter Jurisdiction"
+    },
+    {
+      "question": "Ahmad and Fatimah were married under Muslim law in Singapore in 2015. In 2020, Fatimah converted to Christianity. In 2023, Ahmad files for divorce. Which court has jurisdiction?",
+    "options": [
+      "A. Family Justice Courts only, as Fatimah is no longer Muslim.",
+      "B. Syariah Court only, as the marriage was under Muslim law at the time of marriage.",
+      "C. Either court, as the parties have concurrent jurisdiction.",
+      "D. The High Court, as this involves a complex jurisdictional issue."
+    ],
+      "correct_answer": "B",
+    "explanation": "The Syariah Court retains jurisdiction because the parties were married under Muslim law at the time of marriage. The fact that Fatimah converted to Christianity after marriage does not affect SYC jurisdiction.",
+    "detailed_explanation": "**BASIC CONCEPT: Jurisdiction Despite Religious Conversion**\n\nSYC retains jurisdiction even if one party converts after marriage, because the test is religious status **at the time of marriage**.\n\n**What this question tests:** Your understanding of the 'time of marriage' principle in s 35(2) AMLA.\n\n**Scenario Analysis:**\n- 2015: Marriage under Muslim law → SYC jurisdiction established\n- 2020: Fatimah converts to Christianity → Does NOT affect SYC jurisdiction\n- 2023: Divorce proceedings → SYC retains jurisdiction\n\n**Why each option is wrong:**\n\n**A. FJC only - INCORRECT**\n- SYC jurisdiction is not lost due to post-marriage conversion\n- The test is at time of marriage, not divorce\n- SYC retains jurisdiction despite Fatimah's conversion\n\n**C. Either court - INCORRECT**\n- This is not a case of concurrent jurisdiction\n- SYC has exclusive jurisdiction under s 35(2) AMLA\n- No choice between courts here\n\n**D. High Court - INCORRECT**\n- This is not a complex jurisdictional issue\n- SYC has clear jurisdiction under statute\n- High Court would not have jurisdiction over this matter\n\n**Key Takeaway:** Once SYC jurisdiction is established at marriage, it cannot be lost through post-marriage religious conversion.",
+        "reference": "Section 1.1 - Section 35(2) AMLA - Subject Matter Jurisdiction"
+  }
+]
