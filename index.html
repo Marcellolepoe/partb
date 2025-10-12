@@ -709,22 +709,43 @@
                 try {
                     const response = await fetch(subject.file);
                     if (response.ok) {
-                        const questions = await response.json();
-                        questionCounts[key] = questions.length;
+                        const data = await response.json();
+                        
+                        // Handle different JSON structures
+                        let questionCount = 0;
+                        if (Array.isArray(data)) {
+                            questionCount = data.length;
+                        } else if (data.questions && Array.isArray(data.questions)) {
+                            questionCount = data.questions.length;
+                        }
+                        
+                        questionCounts[key] = questionCount;
+                        console.log(`✅ Loaded ${questionCount} questions for ${subject.name}`);
                     } else {
                         questionCounts[key] = 0;
+                        console.log(`⚠️ File not found: ${subject.file} (404 - expected for some files)`);
                     }
                 } catch (error) {
-                    console.error(`Error loading ${subject.file}:`, error);
+                    console.error(`❌ Error loading ${subject.file}:`, error);
                     questionCounts[key] = 0;
                 }
             }
+            console.log('📊 Question counts loaded:', questionCounts);
         }
 
         // Start quiz for selected subject
         async function startQuiz(topic) {
+            console.log(`🚀 Starting quiz for topic: ${topic}`);
             currentSubject = topic;
             const subject = subjects[topic];
+            
+            if (!subject) {
+                console.error(`❌ Subject not found: ${topic}`);
+                alert(`Subject "${topic}" not found. Please check the configuration.`);
+                return;
+            }
+            
+            console.log(`📂 Loading questions from: ${subject.file}`);
             
             try {
                 // Hide all menus
@@ -744,22 +765,47 @@
                 document.getElementById('question-text').textContent = 'Loading questions...';
                 
                 // Load questions
+                console.log(`🌐 Fetching: ${subject.file}`);
                 const response = await fetch(subject.file);
+                console.log(`📡 Response status: ${response.status} ${response.statusText}`);
+                
                 if (!response.ok) {
-                    throw new Error(`Failed to load ${subject.file}`);
+                    throw new Error(`HTTP ${response.status}: Failed to load ${subject.file}`);
                 }
                 
                 const data = await response.json();
+                console.log(`📄 Raw data received:`, data);
                 
                 // Handle different JSON structures
                 if (Array.isArray(data)) {
                     // Direct array format (banking, etc.)
                     currentQuestions = data;
+                    console.log(`✅ Direct array format detected: ${data.length} questions`);
                 } else if (data.questions && Array.isArray(data.questions)) {
                     // Wrapped format with questions array (muslim family law)
                     currentQuestions = data.questions;
+                    console.log(`✅ Wrapped object format detected: ${data.questions.length} questions in module "${data.module || 'Unknown'}"`);
                 } else {
-                    throw new Error('Invalid question format');
+                    console.error(`❌ Invalid data structure:`, data);
+                    throw new Error(`Invalid question format. Expected array or object with 'questions' property. Got: ${typeof data}`);
+                }
+                
+                if (currentQuestions.length === 0) {
+                    throw new Error('No questions found in the file');
+                }
+                
+                // Validate first question structure
+                const firstQuestion = currentQuestions[0];
+                console.log(`🔍 First question structure:`, firstQuestion);
+                
+                if (!firstQuestion.question) {
+                    throw new Error('First question missing "question" property');
+                }
+                if (!firstQuestion.options) {
+                    throw new Error('First question missing "options" property');
+                }
+                if (!firstQuestion.correct_answer) {
+                    throw new Error('First question missing "correct_answer" property');
                 }
                 
                 currentQuestionIndex = 0;
@@ -770,9 +816,12 @@
                 updateProgress();
                 displayQuestion();
                 
+                console.log(`🎉 Quiz loaded successfully! ${currentQuestions.length} questions ready.`);
+                
             } catch (error) {
-                console.error('Error loading questions:', error);
-                document.getElementById('question-text').textContent = 'Error loading questions. Please try again.';
+                console.error('❌ Quiz loading failed:', error);
+                document.getElementById('question-text').textContent = `Error: ${error.message}`;
+                document.getElementById('question-text').innerHTML += '<br><br>Check console for detailed diagnostics.';
             }
         }
 
