@@ -727,10 +727,19 @@
             const subject = subjects[topic];
             
             try {
+                // Hide all menus
+                document.getElementById('main-menu').classList.add('hidden');
+                document.getElementById('corporate-subjects').classList.add('hidden');
+                document.getElementById('ethics-subjects').classList.add('hidden');
+                document.getElementById('dispute-subjects').classList.add('hidden');
+                document.getElementById('private-client-subjects').classList.add('hidden');
+                document.getElementById('contemporary-subjects').classList.add('hidden');
+                
+                // Show quiz interface
+                document.getElementById('quiz-interface').classList.remove('hidden');
+                document.getElementById('global-home-button').classList.remove('hidden');
+                
                 // Show loading state
-                document.getElementById('home-screen').style.display = 'none';
-                document.getElementById('quiz-screen').style.display = 'block';
-                document.getElementById('home-btn').style.display = 'inline-block';
                 document.getElementById('quiz-title').textContent = subject.name;
                 document.getElementById('question-text').textContent = 'Loading questions...';
                 
@@ -875,8 +884,11 @@
 
         // Update progress bar
         function updateProgress() {
-            const progress = ((currentQuestionIndex + 1) / currentQuestions.length) * 100;
-            document.getElementById('progress-fill').style.width = `${progress}%`;
+            const progressBar = document.getElementById('progress-fill');
+            if (progressBar) {
+                const progress = ((currentQuestionIndex + 1) / currentQuestions.length) * 100;
+                progressBar.style.width = `${progress}%`;
+            }
         }
 
         // Navigation functions for showing different subject menus
@@ -911,12 +923,13 @@
         }
 
         function goHome() {
-            // Hide all subject menus
+            // Hide all subject menus and quiz interface
             document.getElementById('corporate-subjects').classList.add('hidden');
             document.getElementById('ethics-subjects').classList.add('hidden');
             document.getElementById('dispute-subjects').classList.add('hidden');
             document.getElementById('private-client-subjects').classList.add('hidden');
             document.getElementById('contemporary-subjects').classList.add('hidden');
+            document.getElementById('quiz-interface').classList.add('hidden');
             
             // Show main menu
             document.getElementById('main-menu').classList.remove('hidden');
@@ -928,13 +941,6 @@
             goHome();
         }
 
-        // Show home screen
-        function showHome() {
-            document.getElementById('home-screen').style.display = 'block';
-            document.getElementById('quiz-screen').style.display = 'none';
-            document.getElementById('home-btn').style.display = 'none';
-            document.getElementById('feedback-container').classList.add('hidden');
-        }
 
         // Initialize on page load
         document.addEventListener('DOMContentLoaded', loadQuestionCounts);
