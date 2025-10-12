@@ -1,41 +1,1005 @@
-[
+{
+  "module": "Module 1: Jurisdiction & Court Powers",
+  "questions": [
     {
+      "id": "MFL-M1-Q001",
       "question": "Which of the following statements is correct regarding the jurisdiction of the Syariah Court?",
-    "options": [
-      "A. The Syariah Court has inherent jurisdiction to grant whatever relief is pleaded for by the parties.",
-      "B. The Syariah Court derives its jurisdiction solely from the Administration of Muslim Law Act and rules thereunder.",
-      "C. The Syariah Court can make orders for Personal Protection Orders during marriage.",
-      "D. The Syariah Court has concurrent jurisdiction with civil courts over all family matters involving Muslims."
-    ],
+      "options": {
+        "A": "The Syariah Court has inherent jurisdiction to grant whatever relief is pleaded for by the parties.",
+        "B": "The Syariah Court derives its jurisdiction solely from the Administration of Muslim Law Act and rules thereunder.",
+        "C": "The Syariah Court can make orders for Personal Protection Orders during marriage.",
+        "D": "The Syariah Court has concurrent jurisdiction with civil courts over all family matters involving Muslims."
+      },
       "correct_answer": "B",
-    "explanation": "The Syariah Court has no inherent jurisdiction - it is a creature of statute. It derives its jurisdiction and powers solely from the Administration of Muslim Law Act (AMLA) and any rules thereunder.",
-    "detailed_explanation": "**BASIC CONCEPT: Syariah Court Jurisdiction**\n\nThe Syariah Court (SYC) has **no inherent jurisdiction** - it is a creature of statute deriving its jurisdiction and powers solely from the Administration of Muslim Law Act (AMLA) and rules thereunder.\n\n**What this question tests:** Your understanding of the fundamental principle that SYC is not a court of inherent jurisdiction.\n\n**Why each option is wrong:**\n\n**A. Inherent jurisdiction - INCORRECT**\n- SYC has NO inherent jurisdiction\n- It can only exercise powers specifically granted by statute\n- Unlike High Court, SYC cannot make orders based on inherent jurisdiction\n\n**C. Personal Protection Orders - INCORRECT**\n- SYC cannot make PPO orders during marriage\n- PPOs must be applied for in Family Justice Courts\n- SYC jurisdiction is limited to specific matters under s 35(2) AMLA\n\n**D. Concurrent jurisdiction over all matters - INCORRECT**\n- SYC does not have concurrent jurisdiction over all family matters\n- It has specific jurisdiction under s 35(2) AMLA\n- Concurrent jurisdiction exists only for certain matters under s 17A SCJA\n\n**Key Takeaway:** SYC is a statutory creature with limited, specific jurisdiction - never assume it has broad inherent powers.",
+      "explanation": {
+        "correct": "The Syariah Court has no inherent jurisdiction and is a creature of statute. It derives its jurisdiction and powers solely from the Administration of Muslim Law Act (AMLA) and any rules thereunder.",
+        "incorrect": {
+          "A": "The Syariah Court has NO inherent jurisdiction - it is a creature of statute.",
+          "C": "The Syariah Court cannot make PPO orders - these must go to Family Justice Courts.",
+          "D": "The Syariah Court does not have concurrent jurisdiction over all family matters - it has specific jurisdiction under s 35(2) AMLA."
+        },
         "reference": "Section 1.1 - Jurisdiction of Syariah Court - Fundamental Principles"
+      }
     },
     {
+      "id": "MFL-M1-Q002",
       "question": "Under section 35(2) AMLA, the Syariah Court has jurisdiction in matters where:",
-    "options": [
-      "A. All parties are Muslims at the time of the divorce proceedings.",
-      "B. All parties are Muslims OR where parties were married under Muslim law at the time of marriage.",
-      "C. At least one party is a Muslim at the time of the proceedings.",
-      "D. The marriage was conducted in Singapore under Muslim law."
-    ],
+      "options": {
+        "A": "All parties are Muslims at the time of the divorce proceedings.",
+        "B": "All parties are Muslims OR where parties were married under Muslim law at the time of marriage.",
+        "C": "At least one party is a Muslim at the time of the proceedings.",
+        "D": "The marriage was conducted in Singapore under Muslim law."
+      },
       "correct_answer": "B",
-    "explanation": "Section 35(2) AMLA provides jurisdiction where all parties are Muslims OR where parties were married under Muslim law at the time of marriage (not at time of divorce).",
-    "detailed_explanation": "**BASIC CONCEPT: Subject Matter Jurisdiction**\n\nSection 35(2) AMLA establishes SYC's subject matter jurisdiction based on the religious status of parties **at the time of marriage**, not divorce.\n\n**What this question tests:** Your understanding of the timing requirement for SYC jurisdiction.\n\n**Why each option is wrong:**\n\n**A. Time of divorce proceedings - INCORRECT**\n- The test is at time of marriage, not divorce\n- If one party converts after marriage, SYC still retains jurisdiction\n- Critical phrase: 'at the time of the marriage and not at the time of divorce'\n\n**C. At least one party Muslim - INCORRECT**\n- Requirement is ALL parties must be Muslims\n- OR parties must have been married under Muslim law\n- Not sufficient for just one party to be Muslim\n\n**D. Marriage conducted in Singapore - INCORRECT**\n- Location of marriage ceremony is not the determining factor\n- It's about religious status of parties at time of marriage\n- Foreign Muslim marriages can also give SYC jurisdiction\n\n**Key Takeaway:** The critical test is religious status at marriage, not divorce, and it's about ALL parties being Muslim or married under Muslim law.",
+      "explanation": {
+        "correct": "Section 35(2) AMLA provides jurisdiction where all parties are Muslims OR where parties were married under Muslim law at the time of marriage (not at time of divorce).",
+        "incorrect": {
+          "A": "The test is at time of marriage, not divorce. If one party converts out of Islam after marriage, SYC still retains jurisdiction.",
+          "C": "The requirement is ALL parties must be Muslims, not just one party.",
+          "D": "The location of marriage ceremony is not the determining factor - it's the religious status of parties at time of marriage."
+        },
         "reference": "Section 1.1 - Section 35(2) AMLA - Subject Matter Jurisdiction"
+      }
     },
     {
+      "id": "MFL-M1-Q003",
       "question": "Ahmad and Fatimah were married under Muslim law in Singapore in 2015. In 2020, Fatimah converted to Christianity. In 2023, Ahmad files for divorce. Which court has jurisdiction?",
-    "options": [
-      "A. Family Justice Courts only, as Fatimah is no longer Muslim.",
-      "B. Syariah Court only, as the marriage was under Muslim law at the time of marriage.",
-      "C. Either court, as the parties have concurrent jurisdiction.",
-      "D. The High Court, as this involves a complex jurisdictional issue."
-    ],
+      "options": {
+        "A": "Family Justice Courts only, as Fatimah is no longer Muslim.",
+        "B": "Syariah Court only, as the marriage was under Muslim law at the time of marriage.",
+        "C": "Either court, as the parties have concurrent jurisdiction.",
+        "D": "The High Court, as this involves a complex jurisdictional issue."
+      },
       "correct_answer": "B",
-    "explanation": "The Syariah Court retains jurisdiction because the parties were married under Muslim law at the time of marriage. The fact that Fatimah converted to Christianity after marriage does not affect SYC jurisdiction.",
-    "detailed_explanation": "**BASIC CONCEPT: Jurisdiction Despite Religious Conversion**\n\nSYC retains jurisdiction even if one party converts after marriage, because the test is religious status **at the time of marriage**.\n\n**What this question tests:** Your understanding of the 'time of marriage' principle in s 35(2) AMLA.\n\n**Scenario Analysis:**\n- 2015: Marriage under Muslim law → SYC jurisdiction established\n- 2020: Fatimah converts to Christianity → Does NOT affect SYC jurisdiction\n- 2023: Divorce proceedings → SYC retains jurisdiction\n\n**Why each option is wrong:**\n\n**A. FJC only - INCORRECT**\n- SYC jurisdiction is not lost due to post-marriage conversion\n- The test is at time of marriage, not divorce\n- SYC retains jurisdiction despite Fatimah's conversion\n\n**C. Either court - INCORRECT**\n- This is not a case of concurrent jurisdiction\n- SYC has exclusive jurisdiction under s 35(2) AMLA\n- No choice between courts here\n\n**D. High Court - INCORRECT**\n- This is not a complex jurisdictional issue\n- SYC has clear jurisdiction under statute\n- High Court would not have jurisdiction over this matter\n\n**Key Takeaway:** Once SYC jurisdiction is established at marriage, it cannot be lost through post-marriage religious conversion.",
+      "explanation": {
+        "correct": "The Syariah Court retains jurisdiction because the parties were married under Muslim law at the time of marriage. The fact that Fatimah converted to Christianity after marriage does not affect SYC jurisdiction.",
+        "incorrect": {
+          "A": "SYC retains jurisdiction even if one party converts after marriage - the test is at time of marriage, not divorce.",
+          "C": "There is no concurrent jurisdiction here - SYC has exclusive jurisdiction under s 35(2) AMLA.",
+          "D": "This is not a complex jurisdictional issue - SYC has clear jurisdiction under the statute."
+        },
         "reference": "Section 1.1 - Section 35(2) AMLA - Subject Matter Jurisdiction"
-  }
-]
+      }
+    },
+    {
+      "id": "MFL-M1-Q004",
+      "question": "Under section 35(3) AMLA, the Syariah Court has territorial jurisdiction if either party is:",
+      "options": {
+        "A": "A Singapore citizen or permanent resident.",
+        "B": "Domiciled in Singapore OR habitually resident in Singapore for at least 3 years prior.",
+        "C": "Physically present in Singapore at the time of filing.",
+        "D": "Born in Singapore or has lived there for more than 5 years."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 35(3) AMLA requires either party to be domiciled in Singapore OR habitually resident in Singapore for at least 3 years prior to the proceedings.",
+        "incorrect": {
+          "A": "Citizenship or PR status is not the test - it's domicile or habitual residence.",
+          "C": "Physical presence at time of filing is not sufficient - need domicile or 3 years habitual residence.",
+          "D": "Birth in Singapore or 5 years residence is not the statutory test."
+        },
+        "reference": "Section 1.1 - Section 35(3) AMLA - Territorial Jurisdiction"
+      }
+    },
+    {
+      "id": "MFL-M1-Q005",
+      "question": "Which of the following matters CANNOT be heard by the Syariah Court?",
+      "options": {
+        "A": "Division of matrimonial assets upon divorce.",
+        "B": "Personal Protection Order during marriage.",
+        "C": "Custody and access of children upon divorce.",
+        "D": "Payment of mutaah upon divorce."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The Syariah Court cannot make Personal Protection Orders during marriage. PPOs must be applied for in the Family Justice Courts.",
+        "incorrect": {
+          "A": "Division of matrimonial assets upon divorce is within SYC jurisdiction under s 35(2)(d) AMLA.",
+          "C": "Custody and access of children upon divorce is within SYC jurisdiction under s 35(2)(ca) AMLA.",
+          "D": "Payment of mutaah upon divorce is within SYC jurisdiction under s 35(2)(e) AMLA."
+        },
+        "reference": "Section 1.1 - Key Limitation"
+      }
+    },
+    {
+      "id": "MFL-M1-Q006",
+      "question": "In Yeo Pei Chern v Seow Zheng Xin, Isa (2007), why did the court find that the Syariah Court had no jurisdiction?",
+      "options": {
+        "A": "The marriage ceremony took place in London, not Singapore.",
+        "B": "The wife never signed a conversion certificate to become a Muslim.",
+        "C": "The marriage was not registered at the ROMM.",
+        "D": "The parties were not domiciled in Singapore."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The court held that the wife never signed a conversion certificate to become a Muslim, so she was not a Muslim and the case had to be heard in FJC.",
+        "incorrect": {
+          "A": "Location of marriage ceremony does not determine validity of Muslim marriage - essential elements must be proven.",
+          "C": "ROMM registration is not required for SYC jurisdiction - it's about the parties being Muslims or married under Muslim law.",
+          "D": "Domicile was not the issue in this case - it was the religious status of the wife."
+        },
+        "reference": "Section 1.2 - Yeo Pei Chern v Seow Zheng Xin, Isa (2007)"
+      }
+    },
+    {
+      "id": "MFL-M1-Q007",
+      "question": "Which of the following is NOT an essential element for a valid Muslim marriage?",
+      "options": {
+        "A": "A male party and a female party.",
+        "B": "A wali (guardian of the bride).",
+        "C": "Two witnesses.",
+        "D": "Registration at the ROMM."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "Registration at ROMM is not an essential element for a valid Muslim marriage. The essential elements are: male party, female party, wali, two witnesses, and pronouncement of offer and acceptance.",
+        "incorrect": {
+          "A": "Male and female parties are essential elements.",
+          "B": "A wali (guardian of the bride) is an essential element.",
+          "C": "Two witnesses are an essential element."
+        },
+        "reference": "Section 1.2 - Essential Elements for Valid Muslim Marriage"
+      }
+    },
+    {
+      "id": "MFL-M1-Q008",
+      "question": "If a Muslim marriage is registered at the ROMM, what is the position regarding proof of validity in divorce proceedings?",
+      "options": {
+        "A": "Parties must still prove the essential elements of the marriage.",
+        "B": "The marriage validity is accepted at face value by the Syariah Court.",
+        "C": "An Affidavit of Foreign Marriage is still required.",
+        "D": "The validity must be proven through witness testimony."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "If the marriage is registered at ROMM, there is no need to prove validity of marriage as the ROMM registration is accepted at face value by the SYC.",
+        "incorrect": {
+          "A": "ROMM registration obviates the need to prove essential elements.",
+          "C": "Affidavit of Foreign Marriage is only required for foreign marriages or unregistered Singapore marriages.",
+          "D": "Witness testimony is not required for ROMM-registered marriages."
+        },
+        "reference": "Section 1.2 - Registration Requirements"
+      }
+    },
+    {
+      "id": "MFL-M1-Q009",
+      "question": "In TMO v TMP [2017] SGCA 14, what principle did the Court of Appeal establish regarding jurisdiction?",
+      "options": {
+        "A": "The Syariah Court has exclusive jurisdiction over all Muslim family matters.",
+        "B": "Civil courts have residual jurisdiction over Muslims where SYC has no jurisdiction.",
+        "C": "Foreign divorces must always be recognized by Singapore courts.",
+        "D": "The High Court has inherent jurisdiction over all family matters."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The CA held that civil courts have residual jurisdiction over Muslims where there is no specific exclusion and no separate Muslim law applies. This prevents a situation where Singaporeans have no court jurisdiction.",
+        "incorrect": {
+          "A": "SYC does not have exclusive jurisdiction - civil courts have residual jurisdiction where SYC cannot act.",
+          "C": "Foreign divorce recognition was not the main issue - it was about jurisdiction for ancillary matters.",
+          "D": "The principle is about residual jurisdiction, not inherent jurisdiction."
+        },
+        "reference": "Section 1.3 - TMO v TMP [2017] SGCA 14"
+      }
+    },
+    {
+      "id": "MFL-M1-Q010",
+      "question": "Under section 17A(2) SCJA, the General Division has concurrent jurisdiction with the Syariah Court over which matters?",
+      "options": {
+        "A": "All matters relating to Muslim marriages.",
+        "B": "Maintenance for wife or child, custody of child, and disposition or division of property on divorce.",
+        "C": "Personal Protection Orders and maintenance during marriage.",
+        "D": "Only matters involving non-Muslims."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 17A(2) SCJA gives the General Division concurrent jurisdiction over: (a) maintenance for any wife or child; (b) custody of any child; and (c) disposition or division of property on divorce.",
+        "incorrect": {
+          "A": "The jurisdiction is specific to certain matters, not all Muslim marriage matters.",
+          "C": "PPOs and maintenance during marriage are not covered by this concurrent jurisdiction.",
+          "D": "The concurrent jurisdiction applies to Muslims, not non-Muslims."
+        },
+        "reference": "Section 1.3 - Section 17A(2) SCJA - Concurrent Jurisdiction"
+      }
+    },
+    {
+      "id": "MFL-M1-Q011",
+      "question": "When is leave required from the Syariah Court to commence civil proceedings under section 35A(1) AMLA?",
+      "options": {
+        "A": "When civil proceedings relate to maintenance of wife or child.",
+        "B": "When civil proceedings relate to custody of child or disposition/division of property on divorce.",
+        "C": "When civil proceedings relate to Personal Protection Orders.",
+        "D": "When civil proceedings relate to enforcement of SYC orders."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 35A(1) AMLA requires leave from SYC to commence civil proceedings relating to custody of any child or disposition/division of property on divorce.",
+        "incorrect": {
+          "A": "Maintenance is not covered - no SYC permission needed to commence civil proceedings for maintenance.",
+          "C": "PPOs are not covered by the leave requirement.",
+          "D": "Enforcement of SYC orders does not require leave to commence civil proceedings."
+        },
+        "reference": "Section 1.3 - Section 35A(1) AMLA - Leave Requirements"
+      }
+    },
+    {
+      "id": "MFL-M1-Q012",
+      "question": "Under section 35A(2) AMLA, leave is required to continue civil proceedings relating to:",
+      "options": {
+        "A": "Custody of any child only.",
+        "B": "Disposition or division of property on divorce only.",
+        "C": "Both custody and disposition/division of property.",
+        "D": "Maintenance of wife or child."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "Section 35A(2) AMLA requires leave to continue civil proceedings relating to custody of any child only (where civil proceedings commenced before SYC proceedings).",
+        "incorrect": {
+          "B": "Disposition/division of property is covered under section 35A(1), not 35A(2).",
+          "C": "Only custody is covered under section 35A(2).",
+          "D": "Maintenance is not covered by either section 35A(1) or 35A(2)."
+        },
+        "reference": "Section 1.3 - Section 35A(2) AMLA - Continuation of Proceedings"
+      }
+    },
+    {
+      "id": "MFL-M1-Q013",
+      "question": "In Pereira Dennis John Sunny v Faridah Bt Abdul Latiff, when was it held that SYC proceedings begin for stay purposes?",
+      "options": {
+        "A": "When the wife registers for counselling at SYC.",
+        "B": "When the wife issues the divorce Originating Summons.",
+        "C": "When the SYC makes a declaration of divorce.",
+        "D": "When both parties attend counselling at SYC."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The court held that civil proceedings should be stayed only if divorce proceedings (not merely counselling) commenced at SYC after civil proceedings commenced. The timing is the issuance of the Originating Summons.",
+        "incorrect": {
+          "A": "Registration for counselling is not sufficient - divorce proceedings must commence.",
+          "C": "Declaration of divorce is too late - it's when proceedings commence, not when concluded.",
+          "D": "Attendance at counselling is not the test - it's when divorce proceedings formally commence."
+        },
+        "reference": "Section 1.3 - Pereira Dennis John Sunny v Faridah Bt Abdul Latiff"
+      }
+    },
+    {
+      "id": "MFL-M1-Q014",
+      "question": "Under section 17A SCJA, when must the High Court stay civil proceedings?",
+      "options": {
+        "A": "When civil proceedings involve maintenance matters.",
+        "B": "When civil proceedings involve custody and are commenced after SYC proceedings, unless SYC issues certificate of commencement.",
+        "C": "When civil proceedings involve any Muslim family matter.",
+        "D": "When civil proceedings involve enforcement of SYC orders."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 17A SCJA requires the High Court to stay civil proceedings involving custody (and disposition of property) if civil proceedings commenced after SYC proceedings, unless SYC issues certificate of commencement.",
+        "incorrect": {
+          "A": "Maintenance is not covered by the mandatory stay provisions.",
+          "C": "Only specific matters (custody and disposition of property) trigger mandatory stay.",
+          "D": "Enforcement of SYC orders does not trigger mandatory stay provisions."
+        },
+        "reference": "Section 1.3 - Section 17A SCJA - Mandatory Stay"
+      }
+    },
+    {
+      "id": "MFL-M1-Q015",
+      "question": "Under section 35A(5), (6), (7) AMLA, when can parties proceed with civil proceedings without SYC leave?",
+      "options": {
+        "A": "When the matter involves enforcement of SYC orders.",
+        "B": "When both parties consent and obtain certificate of attendance after counselling.",
+        "C": "When the SYC has no jurisdiction over the matter.",
+        "D": "When the civil proceedings involve maintenance only."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 35A(5), (6), (7) AMLA allows parties to proceed without SYC leave if both parties consent and both parties attend counselling and obtain certificate of attendance.",
+        "incorrect": {
+          "A": "Enforcement of SYC orders is not covered by the consent provisions.",
+          "C": "SYC jurisdiction is not the relevant factor for the consent exception.",
+          "D": "Maintenance matters are not covered by the leave requirements in the first place."
+        },
+        "reference": "Section 1.3 - Section 35A(5), (6), (7) AMLA - Consent to Continue"
+      }
+    },
+    {
+      "id": "MFL-M1-Q016",
+      "question": "What is the 'balancing of interests' test established in AK v AL?",
+      "options": {
+        "A": "A test to determine which court should hear a matter based on expediency.",
+        "B": "A test for granting leave from SYC to go to civil courts considering expediency, duplication, prejudice and children's welfare.",
+        "C": "A test to determine the best interests of children in custody matters.",
+        "D": "A test to balance the financial interests of parties in property division."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The balancing of interests test considers: expedient resolution, prevention of duplication, prejudice to other party's position, and effect on children's welfare.",
+        "incorrect": {
+          "A": "The test is specifically for granting leave from SYC, not for determining which court should hear a matter.",
+          "C": "While children's welfare is a factor, the test is broader than just custody matters.",
+          "D": "The test is not about financial interests but about procedural and jurisdictional considerations."
+        },
+        "reference": "Section 1.5 - AK v AL - Balancing Test Framework"
+      }
+    },
+    {
+      "id": "MFL-M1-Q017",
+      "question": "In BU v BV [2018], why was leave granted to continue civil proceedings?",
+      "options": {
+        "A": "Because the wife was no longer a Muslim.",
+        "B": "Because there was substantial development in the progress of the civil proceedings.",
+        "C": "Because the SYC had no jurisdiction over the matter.",
+        "D": "Because the civil proceedings involved maintenance only."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Leave was granted because divorce proceedings at SYC commenced after civil proceedings on child custody, and there was substantial development in the progress of the civil proceedings.",
+        "incorrect": {
+          "A": "The mere fact that a litigant is no longer Muslim is insufficient to justify granting leave.",
+          "C": "SYC jurisdiction was not the issue - it was about existing progress in civil proceedings.",
+          "D": "The proceedings involved custody, not maintenance."
+        },
+        "reference": "Section 1.5 - BU v BV [2018] 7 SSAR 64"
+      }
+    },
+    {
+      "id": "MFL-M1-Q018",
+      "question": "In Thameemul Ansari v Farzana Begum, why was leave NOT granted?",
+      "options": {
+        "A": "Because the wife had committed adultery.",
+        "B": "Because access is an integral part of the issue of custody and SYC was ultimately going to determine custody.",
+        "C": "Because the civil proceedings had not progressed sufficiently.",
+        "D": "Because the parties were not domiciled in Singapore."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Leave was not granted because access is an integral part of the custody issue, and since SYC was ultimately going to determine custody, the issue of access should also be determined by SYC.",
+        "incorrect": {
+          "A": "Adultery was not the issue in this case.",
+          "C": "The progress of civil proceedings was not the determining factor.",
+          "D": "Domicile was not the issue in this case."
+        },
+        "reference": "Section 1.5 - Thameemul Ansari v Farzana Begum"
+      }
+    },
+    {
+      "id": "MFL-M1-Q019",
+      "question": "Under section 53(1) AMLA, which SYC orders are enforced by the Family Justice Courts?",
+      "options": {
+        "A": "All SYC orders.",
+        "B": "Orders on nafkah iddah and mutaah only.",
+        "C": "Orders on custody and access only.",
+        "D": "Orders on division of matrimonial assets only."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 53(1) AMLA provides that FJC enforces SYC orders on nafkah iddah and mutaah akin to maintenance orders of the FJC.",
+        "incorrect": {
+          "A": "Only specific orders (nafkah iddah and mutaah) are enforced by FJC under this section.",
+          "C": "Custody and access orders are not enforced by FJC under section 53(1).",
+          "D": "Division of matrimonial assets orders are not enforced by FJC under section 53(1)."
+        },
+        "reference": "Section 1.4 - Section 53(1) AMLA - Monetary Orders"
+      }
+    },
+    {
+      "id": "MFL-M1-Q020",
+      "question": "Under section 56A AMLA, what is the status of SYC and Appeal Board decisions?",
+      "options": {
+        "A": "They can be appealed to the High Court.",
+        "B": "They can be challenged through judicial review.",
+        "C": "They are final and cannot be challenged, appealed against, reviewed, quashed or called into question in any court.",
+        "D": "They can be varied by the Family Justice Courts."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "Section 56A AMLA provides that any decision of SYC or Appeal Board is final and cannot be challenged, appealed against, reviewed, quashed or called into question in any court.",
+        "incorrect": {
+          "A": "SYC decisions cannot be appealed to the High Court - they are final.",
+          "B": "SYC decisions cannot be challenged through judicial review - they are final.",
+          "D": "SYC decisions cannot be varied by FJC - they are final."
+        },
+        "reference": "Section 1.4 - Section 56A AMLA - Finality of Decisions"
+      }
+    },
+    {
+      "id": "MFL-M1-Q021",
+      "question": "For parties who have been divorced overseas, what jurisdiction does the Syariah Court retain?",
+      "options": {
+        "A": "Full jurisdiction over all ancillary matters including custody and property division.",
+        "B": "Jurisdiction over nafkah iddah and mutaah only.",
+        "C": "No jurisdiction whatsoever.",
+        "D": "Jurisdiction over custody and access only."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "For parties divorced overseas, SYC retains jurisdiction only over nafkah iddah and mutaah, provided the foreign court had not already dealt with these issues.",
+        "incorrect": {
+          "A": "SYC does not have full jurisdiction for overseas divorces - only limited to nafkah iddah and mutaah.",
+          "C": "SYC retains some jurisdiction over nafkah iddah and mutaah even for overseas divorces.",
+          "D": "Custody and access must go to FJC for overseas divorces."
+        },
+        "reference": "Section 1.6 - Foreign Divorce Jurisdiction"
+      }
+    },
+    {
+      "id": "MFL-M1-Q022",
+      "question": "In ED v EE [2021], what limitation was placed on SYC jurisdiction for foreign divorces?",
+      "options": {
+        "A": "SYC has no jurisdiction whatsoever for foreign divorces.",
+        "B": "SYC jurisdiction is limited to nafkah iddah and mutaah, provided the foreign court had not dealt with these issues.",
+        "C": "SYC has full jurisdiction over all ancillary matters for foreign divorces.",
+        "D": "SYC can only hear matters if both parties consent."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The court held that when divorce obtained in foreign Syariah Court, SYC jurisdiction is limited to nafkah iddah and mutaah only, provided the foreign court had not already dealt with these issues.",
+        "incorrect": {
+          "A": "SYC retains some jurisdiction over nafkah iddah and mutaah for foreign divorces.",
+          "C": "SYC does not have full jurisdiction for foreign divorces.",
+          "D": "Consent is not the determining factor for jurisdiction over foreign divorces."
+        },
+        "reference": "Section 1.6 - ED v EE [2021] 8 SSAR 292"
+      }
+    },
+    {
+      "id": "MFL-M1-Q023",
+      "question": "What is the standard procedure for enforcing SYC orders on nafkah iddah and mutaah?",
+      "options": {
+        "A": "Apply to SYC for enforcement.",
+        "B": "Apply to Family Justice Courts using mechanisms under Part IX of Women's Charter.",
+        "C": "Apply to the High Court for judicial review.",
+        "D": "Apply to the State Courts for criminal proceedings."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "SYC orders on nafkah iddah and mutaah are enforced by FJC using enforcement mechanisms available under Part IX of Women's Charter (attachment of earnings, garnishee orders, etc.).",
+        "incorrect": {
+          "A": "SYC does not enforce its own orders - FJC does the enforcement.",
+          "C": "Judicial review is not the enforcement mechanism - it's through Part IX WC mechanisms.",
+          "D": "Criminal proceedings are not the standard enforcement mechanism for monetary orders."
+        },
+        "reference": "Section 1.4 - Enforcement Mechanisms Available"
+      }
+    },
+    {
+      "id": "MFL-M1-Q024",
+      "question": "Under section 53A AMLA, what proxy powers does the Syariah Court have?",
+      "options": {
+        "A": "Power to make new orders without party consent.",
+        "B": "Power to sign documents/instruments for transfer or sale of matrimonial property when one party defaults.",
+        "C": "Power to vary its own orders.",
+        "D": "Power to hear appeals from its own decisions."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 53A AMLA gives SYC proxy powers to sign documents/instruments for transfer or sale of matrimonial property when one party defaults, after issuing letter of demand and filing affidavit of default.",
+        "incorrect": {
+          "A": "SYC does not have power to make new orders without party consent.",
+          "C": "SYC does not have power to vary its own orders.",
+          "D": "SYC does not hear appeals from its own decisions - that's for the Appeal Board."
+        },
+        "reference": "Section 1.4 - Section 53A AMLA - SYC Proxy Powers"
+      }
+    },
+    {
+      "id": "MFL-M1-Q025",
+      "question": "What are the two categories of Registrar Empowerment Clause?",
+      "options": {
+        "A": "Category A: Monetary orders, Category B: Non-monetary orders.",
+        "B": "Category A: Registrar can sign without notice, Category B: Registrar can sign only upon default despite notice.",
+        "C": "Category A: Orders for Muslims, Category B: Orders for non-Muslims.",
+        "D": "Category A: Final orders, Category B: Interim orders."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Category A: Registrar can sign relevant documents without any notice to the party. Category B: Registrar can sign documents only in event of default by party despite written notice.",
+        "incorrect": {
+          "A": "The categories are not based on monetary vs non-monetary orders.",
+          "C": "The categories are not based on religious status of parties.",
+          "D": "The categories are not based on final vs interim orders."
+        },
+        "reference": "Section 1.4 - Registrar Empowerment Clause Categories"
+      }
+    },
+    {
+      "id": "MFL-M1-Q026",
+      "question": "What are the typical orders made by the Syariah Court in a divorce case?",
+      "options": {
+        "A": "Only dissolution of marriage.",
+        "B": "Dissolution of marriage, payment of nafkah iddah, payment of mutaah, custody/access of children, and division of matrimonial assets.",
+        "C": "Only monetary orders (nafkah iddah and mutaah).",
+        "D": "Only custody and access orders for children."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Typical SYC orders in divorce: (1) Dissolution of marriage, (2) Payment of Nafkah Iddah, (3) Payment of Mutaah, (4) Custody/access of children, (5) Division of Matrimonial Assets.",
+        "incorrect": {
+          "A": "SYC makes multiple orders, not just dissolution.",
+          "C": "SYC makes both monetary and non-monetary orders.",
+          "D": "SYC makes orders beyond just custody and access."
+        },
+        "reference": "Section 1.7 - Standard SYC Orders in Divorce"
+      }
+    },
+    {
+      "id": "MFL-M1-Q027",
+      "question": "Under section 52(3) AMLA, what powers does the Syariah Court have upon divorce?",
+      "options": {
+        "A": "Power to make PPO orders.",
+        "B": "Power to order payment of emas kahwin, mutaah, custody/access of children, and division of property.",
+        "C": "Power to make maintenance orders during marriage.",
+        "D": "Power to hear appeals from its own decisions."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 52(3) AMLA gives SYC powers upon divorce to order: payment of emas kahwin and marriage expenses, payment of mutaah, custody/access/maintenance of children, and disposition/division of property.",
+        "incorrect": {
+          "A": "PPOs are not within SYC powers - they go to FJC.",
+          "C": "Maintenance during marriage is not within SYC powers.",
+          "D": "SYC does not hear appeals - that's for the Appeal Board."
+        },
+        "reference": "Section 1.7 - Section 52(3) AMLA - SYC Powers Upon Divorce"
+      }
+    },
+    {
+      "id": "MFL-M1-Q028",
+      "question": "What is the critical limitation on SYC powers regarding ancillary orders?",
+      "options": {
+        "A": "SYC can make ancillary orders at any time during marriage.",
+        "B": "SYC has no power to make ancillary orders where there is NO divorce application.",
+        "C": "SYC can make ancillary orders only with party consent.",
+        "D": "SYC can make ancillary orders only for Muslims."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "SYC has no power to make ancillary orders where there is NO divorce application. There is also no inherent jurisdiction (e.g., injunction) because it is not in the AMLA.",
+        "incorrect": {
+          "A": "SYC cannot make ancillary orders during marriage - only upon divorce.",
+          "C": "Consent is not the limiting factor - it's the absence of divorce application.",
+          "D": "Religious status is not the limiting factor - it's the divorce application requirement."
+        },
+        "reference": "Section 1.7 - Critical Limitation"
+      }
+    },
+    {
+      "id": "MFL-M1-Q029",
+      "question": "How is mutaah typically calculated in the Syariah Court?",
+      "options": {
+        "A": "Fixed amount regardless of marriage length.",
+        "B": "Based on husband's income at time of divorce only.",
+        "C": "Practice in SYC: $x multiplied by number of days of marriage, with time-scaling proportion depending on husband's financial capacity.",
+        "D": "Based on wife's financial needs only."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "The practice in SYC is $x multiplied by number of days of marriage, with time-scaling proportion depending on the financial capacity of the husband.",
+        "incorrect": {
+          "A": "Mutaah is not a fixed amount - it varies based on marriage length and husband's capacity.",
+          "B": "While husband's financial status is important, the calculation also considers marriage length.",
+          "D": "Wife's needs are not the primary factor - it's husband's capacity and marriage length."
+        },
+        "reference": "Section 1.7 - Mutaah Calculation"
+      }
+    },
+    {
+      "id": "MFL-M1-Q030",
+      "question": "What is the relationship between ROMM registration and proof of marriage validity in SYC proceedings?",
+      "options": {
+        "A": "ROMM registration is always required for SYC jurisdiction.",
+        "B": "If marriage registered at ROMM, no need to prove validity - accepted at face value by SYC.",
+        "C": "ROMM registration is irrelevant to SYC proceedings.",
+        "D": "ROMM registration must be proven through witness testimony."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "If the marriage is registered at ROMM, there is no need to prove validity of marriage as the ROMM registration is accepted at face value by the SYC.",
+        "incorrect": {
+          "A": "ROMM registration is not required for SYC jurisdiction - it's about parties being Muslims or married under Muslim law.",
+          "C": "ROMM registration is relevant - it affects the need to prove validity.",
+          "D": "No witness testimony needed for ROMM-registered marriages."
+        },
+        "reference": "Section 1.2 - Registration Requirements"
+      }
+    },
+    {
+      "id": "MFL-M1-Q031",
+      "question": "For foreign marriages not registered in Singapore, what proof is required?",
+      "options": {
+        "A": "No proof required - foreign marriage certificates are automatically accepted.",
+        "B": "Affidavit of Foreign Marriage highlighting the 5 essential elements and stating whether marriage is registered in foreign country.",
+        "C": "Witness testimony only.",
+        "D": "Translation of foreign marriage certificate."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "For foreign marriages, SYC requires Affidavit of Foreign Marriage highlighting the 5 essential elements (male party, female party, wali, two witnesses, pronouncement of offer and acceptance) and stating whether marriage is registered in foreign country.",
+        "incorrect": {
+          "A": "Foreign marriage certificates are not automatically accepted - proof of essential elements required.",
+          "C": "Witness testimony alone is insufficient - affidavit with essential elements required.",
+          "D": "Translation alone is insufficient - proof of essential elements required."
+        },
+        "reference": "Section 1.2 - Registration Requirements"
+      }
+    },
+    {
+      "id": "MFL-M1-Q032",
+      "question": "What is the significance of Noor Azizan bte Colony v Tan Lip Chin [2006]?",
+      "options": {
+        "A": "It established that SYC has exclusive jurisdiction over all Muslim marriages.",
+        "B": "It held that for parties with both ROM and ROMM marriages, a decree of divorce from SYC will dissolve the civil marriage as well.",
+        "C": "It established the essential elements for Muslim marriage.",
+        "D": "It held that foreign marriages are not recognized in Singapore."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The case held that for parties who have undergone both ROM and ROMM marriages, a decree of divorce from the SYC will dissolve the civil marriage as well.",
+        "incorrect": {
+          "A": "The case is not about exclusive jurisdiction - it's about dissolution of dual marriages.",
+          "C": "The case is not about essential elements for Muslim marriage.",
+          "D": "The case is not about foreign marriage recognition."
+        },
+        "reference": "Section 1.2 - Noor Azizan bte Colony v Tan Lip Chin [2006]"
+      }
+    },
+    {
+      "id": "MFL-M1-Q033",
+      "question": "Under section 109 AMLA, what is the implication for marriages conducted in Singapore but not registered at ROMM?",
+      "options": {
+        "A": "Such marriages are automatically invalid.",
+        "B": "Parties need to additionally prove that it is a valid Muslim marriage.",
+        "C": "Such marriages cannot be recognized by SYC.",
+        "D": "Such marriages must be re-registered at ROMM."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 109 AMLA has the implication that parties need to additionally prove that it is a valid Muslim marriage if the marriage is conducted in Singapore but not registered at ROMM.",
+        "incorrect": {
+          "A": "The marriage is not automatically invalid - proof of validity is required.",
+          "C": "SYC can recognize such marriages if validity is proven.",
+          "D": "Re-registration is not required - proof of validity is sufficient."
+        },
+        "reference": "Section 1.2 - Registration Requirements"
+      }
+    },
+    {
+      "id": "MFL-M1-Q034",
+      "question": "What is the current practice regarding dual ROM and ROMM marriages?",
+      "options": {
+        "A": "Parties can have both marriages simultaneously.",
+        "B": "Due to computerization, need to dissolve one marriage before remarrying under the other regime.",
+        "C": "Both marriages are automatically dissolved upon divorce in either court.",
+        "D": "Parties must choose one regime before marriage."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Due to the age of computerization, this scenario will not happen today - need to dissolve one marriage first before remarrying under the other regime.",
+        "incorrect": {
+          "A": "Parties cannot have both marriages simultaneously due to computerization.",
+          "C": "Both marriages are not automatically dissolved - need to dissolve one before remarrying.",
+          "D": "Parties do not need to choose one regime before marriage."
+        },
+        "reference": "Section 1.2 - Noor Azizan bte Colony v Tan Lip Chin [2006]"
+      }
+    },
+    {
+      "id": "MFL-M1-Q035",
+      "question": "In Mohamed Yusoff bin Mohd Haniff v Umi Kalsom bte Abas [2010], what did the High Court hold regarding SYC decisions?",
+      "options": {
+        "A": "SYC decisions can be appealed to the High Court.",
+        "B": "High Court dismissed application for judicial review of a Syariah Court order.",
+        "C": "SYC decisions can be varied by the High Court.",
+        "D": "High Court has supervisory jurisdiction over SYC decisions."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The High Court dismissed application for judicial review of a Syariah Court order, confirming that SYC decisions are final and not subject to judicial review.",
+        "incorrect": {
+          "A": "SYC decisions cannot be appealed to the High Court - they are final.",
+          "C": "SYC decisions cannot be varied by the High Court - they are final.",
+          "D": "High Court does not have supervisory jurisdiction over SYC decisions."
+        },
+        "reference": "Section 1.4 - Mohamed Yusoff bin Mohd Haniff v Umi Kalsom bte Abas [2010]"
+      }
+    },
+    {
+      "id": "MFL-M1-Q036",
+      "question": "What enforcement mechanisms are available for SYC orders under Part IX of Women's Charter?",
+      "options": {
+        "A": "Only attachment of earnings order.",
+        "B": "Only garnishee order and imprisonment.",
+        "C": "Attachment of earnings, garnishee order, imprisonment, recover outstanding sum as debt, banker's guarantee, financial counselling, community service, report to credit bureau, statutory declaration when getting married.",
+        "D": "Only monetary penalties."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "Available enforcement mechanisms include: attachment of earnings order, garnishee order, imprisonment, recover outstanding sum as debt, banker's guarantee, financial counselling, community service, report to credit bureau, statutory declaration when getting married.",
+        "incorrect": {
+          "A": "More than just attachment of earnings is available.",
+          "B": "More than just garnishee and imprisonment is available.",
+          "D": "Non-monetary mechanisms are also available."
+        },
+        "reference": "Section 1.4 - Enforcement Mechanisms Available"
+      }
+    },
+    {
+      "id": "MFL-M1-Q037",
+      "question": "For non-monetary SYC orders (children, emas kahwin, marriage expenses, division of assets), what enforcement options are available?",
+      "options": {
+        "A": "Only BOSCO (Breach of SYC Orders) in FJC.",
+        "B": "Only private summons in Crime Registry.",
+        "C": "BOSCO in FJC, private summons in Crime Registry, and contempt proceedings.",
+        "D": "Only contempt proceedings."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "For non-monetary orders, several options available: BOSCO (file complaint in FJC, parties go through mediation), private summons (Magistrate's Complaint) in Crime Registry under s 52(13) AMLA, and contempt proceedings.",
+        "incorrect": {
+          "A": "More than just BOSCO is available.",
+          "B": "More than just private summons is available.",
+          "D": "More than just contempt proceedings is available."
+        },
+        "reference": "Section 1.4 - Section 52(13) AMLA - Non-Monetary Orders"
+      }
+    },
+    {
+      "id": "MFL-M1-Q038",
+      "question": "In VFU v VFV, what did the court hold regarding continuation certificates for committal proceedings?",
+      "options": {
+        "A": "Continuation certificate is always required for committal proceedings.",
+        "B": "Continuation certificate not required for committal proceedings heard in FJC.",
+        "C": "Continuation certificate is required only for monetary orders.",
+        "D": "Continuation certificate is required only for custody matters."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The court held that continuation certificate not required for committal proceedings heard in FJC - there are no more civil proceedings to be stayed.",
+        "incorrect": {
+          "A": "Continuation certificate is not always required for committal proceedings.",
+          "C": "The requirement is not based on whether orders are monetary.",
+          "D": "The requirement is not based on whether matters involve custody."
+        },
+        "reference": "Section 1.4 - VFU v VFV - Contempt Proceedings"
+      }
+    },
+    {
+      "id": "MFL-M1-Q039",
+      "question": "What is the enforcement strategy for SYC orders?",
+      "options": {
+        "A": "All orders must be enforced in SYC.",
+        "B": "All orders must be enforced in FJC.",
+        "C": "Monetary orders go to FJC; proxy powers needed remain in SYC.",
+        "D": "Orders are automatically enforced without court intervention."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "For enforcement: monetary orders go to FJC; if proxy powers needed (e.g., signature of SYC judge in transfer of property or sale of assets) then remain in SYC.",
+        "incorrect": {
+          "A": "Not all orders are enforced in SYC.",
+          "B": "Not all orders are enforced in FJC.",
+          "D": "Court intervention is required for enforcement."
+        },
+        "reference": "Section 1.4 - Enforcement Strategy"
+      }
+    },
+    {
+      "id": "MFL-M1-Q040",
+      "question": "What is the relationship between section 35(2) and section 35(3) AMLA?",
+      "options": {
+        "A": "Section 35(2) deals with territorial jurisdiction and section 35(3) deals with subject matter jurisdiction.",
+        "B": "Section 35(2) deals with subject matter jurisdiction and section 35(3) deals with territorial jurisdiction.",
+        "C": "Both sections deal with the same type of jurisdiction.",
+        "D": "Section 35(3) overrides section 35(2) in all cases."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 35(2) AMLA deals with subject matter jurisdiction (what matters SYC can hear), while section 35(3) AMLA deals with territorial jurisdiction (when SYC has jurisdiction based on domicile/residence).",
+        "incorrect": {
+          "A": "The relationship is the opposite - 35(2) is subject matter, 35(3) is territorial.",
+          "C": "The sections deal with different types of jurisdiction.",
+          "D": "Section 35(3) does not override 35(2) - they work together."
+        },
+        "reference": "Section 1.1 - Jurisdiction Requirements"
+      }
+    },
+    {
+      "id": "MFL-M1-Q041",
+      "question": "What is the significance of the phrase 'at the time of the marriage and not at the time of divorce' in section 35(2) AMLA?",
+      "options": {
+        "A": "It means SYC jurisdiction is determined at time of divorce proceedings.",
+        "B": "It means SYC jurisdiction is determined at time of marriage, so if one party converts after marriage, SYC still retains jurisdiction.",
+        "C": "It means only the religious status at time of divorce matters.",
+        "D": "It means both parties must remain Muslim throughout the marriage."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The phrase means SYC jurisdiction is determined at time of marriage, not divorce. If one party converts out of Islam after marriage, SYC still retains jurisdiction over the marriage.",
+        "incorrect": {
+          "A": "The test is at time of marriage, not divorce.",
+          "C": "The religious status at time of marriage, not divorce, is determinative.",
+          "D": "Parties do not need to remain Muslim throughout marriage - test is at time of marriage."
+        },
+        "reference": "Section 1.1 - Section 35(2) AMLA - Subject Matter Jurisdiction"
+      }
+    },
+    {
+      "id": "MFL-M1-Q042",
+      "question": "What does 'automatic jurisdiction if one of the parties are Singaporean' mean in the context of section 35(3) AMLA?",
+      "options": {
+        "A": "Singaporeans always have jurisdiction regardless of domicile or residence.",
+        "B": "If one party is Singaporean, they are automatically domiciled in Singapore for SYC jurisdiction purposes.",
+        "C": "If one party is Singaporean, the domicile or 3-year residence requirement is automatically satisfied.",
+        "D": "Singaporeans can choose which court has jurisdiction."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "If one party is Singaporean, the territorial jurisdiction requirement (domicile or 3-year habitual residence) is automatically satisfied, so SYC has jurisdiction.",
+        "incorrect": {
+          "A": "Singaporeans do not always have jurisdiction regardless of other factors.",
+          "B": "Singaporeans are not automatically domiciled - the domicile requirement is satisfied.",
+          "D": "Singaporeans cannot choose jurisdiction - it's determined by statute."
+        },
+        "reference": "Section 1.1 - Section 35(3) AMLA - Territorial Jurisdiction"
+      }
+    },
+    {
+      "id": "MFL-M1-Q043",
+      "question": "What is the difference between 'commencement' and 'continuation' of civil proceedings under sections 35A(1) and 35A(2) AMLA?",
+      "options": {
+        "A": "There is no difference - both sections apply to the same matters.",
+        "B": "Commencement (35A(1)) covers custody and property; continuation (35A(2)) covers custody only.",
+        "C": "Commencement (35A(1)) covers maintenance only; continuation (35A(2)) covers custody and property.",
+        "D": "Both sections cover all ancillary matters equally."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Commencement (35A(1)) requires leave for custody and disposition/division of property. Continuation (35A(2)) requires leave for custody only (where civil proceedings commenced before SYC proceedings).",
+        "incorrect": {
+          "A": "There is a difference - different matters are covered.",
+          "C": "Maintenance is not covered by either section.",
+          "D": "The sections cover different matters - not all equally."
+        },
+        "reference": "Section 1.3 - Critical Distinction"
+      }
+    },
+    {
+      "id": "MFL-M1-Q044",
+      "question": "What is the practical significance of the residual jurisdiction principle from TMO v TMP?",
+      "options": {
+        "A": "It allows SYC to hear all Muslim family matters.",
+        "B": "It ensures Singaporeans always have a court with jurisdiction over them, preventing legal lacunas.",
+        "C": "It allows civil courts to override SYC decisions.",
+        "D": "It requires all Muslim matters to go to civil courts first."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The residual jurisdiction principle ensures that Singaporeans always have a court with jurisdiction over them, preventing situations where no court can hear their case.",
+        "incorrect": {
+          "A": "It does not give SYC jurisdiction over all matters - it's about civil court residual jurisdiction.",
+          "C": "It does not allow civil courts to override SYC decisions.",
+          "D": "It does not require all matters to go to civil courts first."
+        },
+        "reference": "Section 1.3 - TMO v TMP [2017] SGCA 14"
+      }
+    },
+    {
+      "id": "MFL-M1-Q045",
+      "question": "What is the significance of the 1999 AMLA Amendments regarding choice of court?",
+      "options": {
+        "A": "It removed all choice - all matters must go to SYC.",
+        "B": "It gave Muslim parties choice between FJC and SYC on issues of children and disposition/division of matrimonial assets.",
+        "C": "It required all matters to go to FJC first.",
+        "D": "It gave parties choice over all Muslim family matters."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The 1999 AMLA Amendments gave Muslim parties choice to go to civil court or SYC on issues of children or disposition and/or division of matrimonial assets.",
+        "incorrect": {
+          "A": "It did not remove choice - it gave choice between courts.",
+          "C": "It did not require FJC first - it gave choice.",
+          "D": "The choice is limited to specific matters, not all Muslim family matters."
+        },
+        "reference": "Section 1.3 - Concurrent Jurisdiction"
+      }
+    },
+    {
+      "id": "MFL-M1-Q046",
+      "question": "What is the relationship between section 17A SCJA and sections 35(2) and 52(3) AMLA?",
+      "options": {
+        "A": "Section 17A SCJA overrides all SYC jurisdiction.",
+        "B": "Section 17A SCJA gives concurrent jurisdiction with SYC over specific matters (maintenance, custody, property division).",
+        "C": "Section 17A SCJA only applies to non-Muslims.",
+        "D": "Section 17A SCJA has no relationship to AMLA provisions."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 17A(2) SCJA gives the General Division concurrent jurisdiction with SYC over matters of maintenance for wife/child, custody of child, and disposition/division of property on divorce, even though these come within SYC jurisdiction under sections 35(2) and 52(3) AMLA.",
+        "incorrect": {
+          "A": "Section 17A SCJA does not override SYC jurisdiction - it provides concurrent jurisdiction.",
+          "C": "Section 17A SCJA applies to Muslims, not just non-Muslims.",
+          "D": "There is a clear relationship - concurrent jurisdiction over specific matters."
+        },
+        "reference": "Section 1.3 - Section 17A(2) SCJA - Concurrent Jurisdiction"
+      }
+    },
+    {
+      "id": "MFL-M1-Q047",
+      "question": "What is the effect of the phrase 'even though such matters come within the jurisdiction of the Syariah Court' in section 17A(2) SCJA?",
+      "options": {
+        "A": "It means SYC has no jurisdiction over these matters.",
+        "B": "It means both SYC and civil courts can hear these matters - true concurrent jurisdiction.",
+        "C": "It means civil courts can override SYC decisions.",
+        "D": "It means these matters must go to civil courts first."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The phrase confirms that both SYC and civil courts have jurisdiction over these matters - it's true concurrent jurisdiction where parties can choose which court to use.",
+        "incorrect": {
+          "A": "SYC still has jurisdiction - it's concurrent, not exclusive to civil courts.",
+          "C": "Civil courts cannot override SYC decisions - they have concurrent jurisdiction.",
+          "D": "There is no requirement to go to civil courts first - parties have choice."
+        },
+        "reference": "Section 1.3 - Section 17A(2) SCJA - Concurrent Jurisdiction"
+      }
+    },
+    {
+      "id": "MFL-M1-Q048",
+      "question": "What is the practical difference between sections 35A(1) and 35A(2) AMLA in terms of timing?",
+      "options": {
+        "A": "Both sections apply regardless of timing of proceedings.",
+        "B": "Section 35A(1) applies when civil proceedings commence after SYC proceedings; section 35A(2) applies when civil proceedings commence before SYC proceedings.",
+        "C": "Section 35A(1) applies only to property matters; section 35A(2) applies only to custody matters.",
+        "D": "Both sections apply only when SYC proceedings commence first."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 35A(1) applies when civil proceedings commence after SYC proceedings have commenced. Section 35A(2) applies when civil proceedings commenced before SYC proceedings commenced.",
+        "incorrect": {
+          "A": "Timing is crucial - the sections apply based on when proceedings commence.",
+          "C": "The sections are not divided by subject matter - they're divided by timing.",
+          "D": "Section 35A(2) applies when civil proceedings commence first, not when SYC commences first."
+        },
+        "reference": "Section 1.3 - Leave Requirements and Timing"
+      }
+    },
+    {
+      "id": "MFL-M1-Q049",
+      "question": "What is the significance of the phrase 'no need to require leave from it to put in a s 121B Women's Charter application' in the context of TMO v TMP?",
+      "options": {
+        "A": "It means SYC permission is never required for civil proceedings.",
+        "B": "It means if SYC does not have jurisdiction over a claim, no leave required to commence civil proceedings under s 121B WC for financial relief after overseas divorce.",
+        "C": "It means all civil proceedings require SYC permission.",
+        "D": "It means s 121B WC applications must always go to SYC first."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "If SYC does not have jurisdiction over such a claim, no need to require leave from it to put in a s 121B Women's Charter application for financial relief after overseas divorce.",
+        "incorrect": {
+          "A": "SYC permission may be required in other situations - this is specific to residual jurisdiction cases.",
+          "C": "Not all civil proceedings require SYC permission.",
+          "D": "s 121B WC applications do not always need to go to SYC first."
+        },
+        "reference": "Section 1.3 - Residual Jurisdiction Application"
+      }
+    },
+    {
+      "id": "MFL-M1-Q050",
+      "question": "What is the relationship between section 52(2) AMLA and overseas divorces?",
+      "options": {
+        "A": "Section 52(2) AMLA has no application to overseas divorces.",
+        "B": "Section 52(2) AMLA allows SYC to make orders for nafkah iddah and mutaah even for overseas divorces, despite no jurisdiction over other ancillary issues.",
+        "C": "Section 52(2) AMLA requires all overseas divorce matters to go to civil courts.",
+        "D": "Section 52(2) AMLA gives SYC full jurisdiction over overseas divorces."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 52(2) AMLA provides that SYC can make orders for Husband to pay Wife nafkah iddah and mutaah under this section, even though SYC has no jurisdiction and power on other ancillary issues of children and matrimonial assets for overseas divorces.",
+        "incorrect": {
+          "A": "Section 52(2) AMLA does apply to overseas divorces for limited matters.",
+          "C": "Section 52(2) AMLA does not require all matters to go to civil courts.",
+          "D": "SYC does not have full jurisdiction over overseas divorces - only limited to nafkah iddah and mutaah."
+        },
+        "reference": "Section 1.6 - Section 52(2) AMLA - Overseas Divorce Orders"
+      }
+    }
+  ]
+}
