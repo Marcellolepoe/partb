@@ -154,6 +154,43 @@
             padding-bottom: 15px;
             border-bottom: 1px solid rgba(212, 165, 116, 0.3);
         }
+        
+        /* Module Tabs Styles */
+        .module-tabs {
+            margin-bottom: 20px;
+        }
+        .tab-buttons {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        .tab-button {
+            background: rgba(255, 255, 255, 0.9);
+            border: 2px solid #D4A574;
+            color: #5D4E37;
+            font-size: 0.8rem;
+            cursor: pointer;
+            padding: 8px 12px;
+            border-radius: 6px;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            white-space: nowrap;
+            flex: 1;
+            min-width: 180px;
+        }
+        .tab-button:hover {
+            background: #D4A574;
+            color: white;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+        }
+        .tab-button.active {
+            background: #D4A574;
+            color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
         .quiz-title {
             font-family: 'Kalam', cursive;
             font-size: 1.8rem;
@@ -603,9 +640,9 @@
                     <h4>A2. Family Law</h4>
                     <p>Coming Soon</p>
                 </div>
-                <div class="subject-card" onclick="startQuiz('muslim-family-law')">
+                <div class="subject-card" onclick="showMuslimFamilyLawModules()">
                     <h4>B1. Muslim Family & Succession Law</h4>
-                    <p>50 Questions</p>
+                    <p>100 Questions (5 Modules)</p>
                 </div>
                 <div class="subject-card" onclick="alert('Questions for Probate and Succession Planning are coming soon!')">
                     <h4>B2. Probate and Succession Planning</h4>
@@ -656,6 +693,27 @@
                 <h2 id="quiz-title" class="quiz-title"></h2>
                 <div class="progress-info">
                     Question <span id="current-question">1</span> / <span id="total-questions">100</span>
+                </div>
+            </div>
+            
+            <!-- Module Tabs (for Muslim Family Law) -->
+            <div id="module-tabs" class="module-tabs hidden">
+                <div class="tab-buttons">
+                    <button class="tab-button active" data-module="module1" onclick="switchModule('module1')">
+                        Module 1: Jurisdiction & Court Powers
+                    </button>
+                    <button class="tab-button" data-module="module2" onclick="switchModule('module2')">
+                        Module 2: Divorce Types & Procedures
+                    </button>
+                    <button class="tab-button" data-module="module3" onclick="switchModule('module3')">
+                        Module 3: Ancillary Orders
+                    </button>
+                    <button class="tab-button" data-module="module4" onclick="switchModule('module4')">
+                        Module 4: Division of Matrimonial Assets
+                    </button>
+                    <button class="tab-button" data-module="module5" onclick="switchModule('module5')">
+                        Module 5: Muslim Inheritance & Wills
+                    </button>
                 </div>
             </div>
             <div class="question-area">
@@ -733,6 +791,99 @@
             console.log('📊 Question counts loaded:', questionCounts);
         }
 
+        // Show Muslim Family Law modules with tabs
+        async function showMuslimFamilyLawModules() {
+            console.log('🚀 Loading Muslim Family Law modules with tabs');
+            
+            // Hide all menus
+            document.getElementById('main-menu').classList.add('hidden');
+            document.getElementById('corporate-subjects').classList.add('hidden');
+            document.getElementById('ethics-subjects').classList.add('hidden');
+            document.getElementById('dispute-resolution-subjects').classList.add('hidden');
+            document.getElementById('private-client-subjects').classList.add('hidden');
+            document.getElementById('contemporary-subjects').classList.add('hidden');
+            
+            // Show quiz interface with module tabs
+            document.getElementById('quiz-interface').classList.remove('hidden');
+            document.getElementById('module-tabs').classList.remove('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            
+            // Set title
+            document.getElementById('quiz-title').textContent = 'Muslim Family & Succession Law';
+            
+            // Load Module 1 by default
+            currentSubject = 'muslim-family-module1';
+            await switchModule('module1');
+        }
+
+        // Switch between modules
+        async function switchModule(moduleNumber) {
+            console.log(`🔄 Switching to ${moduleNumber}`);
+            
+            // Update tab buttons
+            document.querySelectorAll('.tab-button').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            document.querySelector(`[data-module="${moduleNumber}"]`).classList.add('active');
+            
+            // Map module numbers to subject keys
+            const moduleMap = {
+                'module1': 'muslim-family-module1',
+                'module2': 'muslim-family-module2', 
+                'module3': 'muslim-family-module3',
+                'module4': 'muslim-family-module4',
+                'module5': 'muslim-family-module5'
+            };
+            
+            currentSubject = moduleMap[moduleNumber];
+            const subject = subjects[currentSubject];
+            
+            if (!subject) {
+                console.error(`❌ Subject not found: ${currentSubject}`);
+                return;
+            }
+            
+            try {
+                // Show loading
+                document.getElementById('question-text').textContent = 'Loading questions...';
+                
+                // Load questions
+                const response = await fetch(subject.file);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: Failed to load ${subject.file}`);
+                }
+                
+                const data = await response.json();
+                console.log(`📄 Module data received:`, data);
+                
+                // Handle wrapped format
+                if (data.questions && Array.isArray(data.questions)) {
+                    currentQuestions = data.questions;
+                    console.log(`✅ Loaded ${data.questions.length} questions from ${data.module || 'Unknown'}`);
+                } else {
+                    throw new Error(`Invalid question format for ${moduleNumber}`);
+                }
+                
+                if (currentQuestions.length === 0) {
+                    throw new Error('No questions found in the file');
+                }
+                
+                currentQuestionIndex = 0;
+                selectedAnswer = null;
+                
+                // Update UI
+                document.getElementById('total-questions').textContent = currentQuestions.length;
+                updateProgress();
+                displayQuestion();
+                
+                console.log(`🎉 Module ${moduleNumber} loaded successfully!`);
+                
+            } catch (error) {
+                console.error(`❌ Module ${moduleNumber} loading failed:`, error);
+                document.getElementById('question-text').textContent = `Error: ${error.message}`;
+            }
+        }
+
         // Start quiz for selected subject
         async function startQuiz(topic) {
             console.log(`🚀 Starting quiz for topic: ${topic}`);
@@ -758,6 +909,7 @@
                 
                 // Show quiz interface
                 document.getElementById('quiz-interface').classList.remove('hidden');
+                document.getElementById('module-tabs').classList.add('hidden'); // Hide tabs for regular subjects
                 document.getElementById('global-home-button').classList.remove('hidden');
                 
                 // Show loading state
