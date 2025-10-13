@@ -740,6 +740,8 @@
     </div>
 
     <script>
+        console.log("🚀 HEARTBEAT: JavaScript is running! Question Bank Platform initializing...");
+        
         // Global variables
         let currentQuestions = [];
         let currentQuestionIndex = 0;
@@ -763,6 +765,7 @@
 
         // Load question counts on page load
         async function loadQuestionCounts() {
+            console.log("🔄 HEARTBEAT: loadQuestionCounts() function called!");
             for (const [key, subject] of Object.entries(subjects)) {
                 try {
                     const response = await fetch(subject.file);
