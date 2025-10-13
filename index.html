@@ -818,13 +818,19 @@
 
         // Switch between modules
         async function switchModule(moduleNumber) {
-            console.log(`🔄 Switching to ${moduleNumber}`);
+            console.log(`🔄 switchModule: Switching to ${moduleNumber}`);
             
             // Update tab buttons
             document.querySelectorAll('.tab-button').forEach(btn => {
                 btn.classList.remove('active');
             });
-            document.querySelector(`[data-module="${moduleNumber}"]`).classList.add('active');
+            const activeTab = document.querySelector(`[data-module="${moduleNumber}"]`);
+            if (activeTab) {
+                activeTab.classList.add('active');
+                console.log(`✅ switchModule: Tab ${moduleNumber} activated`);
+            } else {
+                console.error(`❌ switchModule: Tab button not found for module ${moduleNumber}`);
+            }
             
             // Map module numbers to subject keys
             const moduleMap = {
@@ -836,31 +842,44 @@
             };
             
             currentSubject = moduleMap[moduleNumber];
+            console.log(`🔍 switchModule: Mapped ${moduleNumber} to subject key: ${currentSubject}`);
+            
             const subject = subjects[currentSubject];
+            console.log(`🔍 switchModule: Subject info for ${currentSubject}:`, subject);
             
             if (!subject) {
-                console.error(`❌ Subject not found: ${currentSubject}`);
+                console.error(`❌ switchModule: Subject not found in subjects object: ${currentSubject}`);
+                console.log(`🔍 switchModule: Available subjects:`, Object.keys(subjects));
                 return;
             }
             
             try {
                 // Show loading
                 document.getElementById('question-text').textContent = 'Loading questions...';
+                console.log(`🌐 switchModule: Fetching questions from file: ${subject.file}`);
                 
                 // Load questions
                 const response = await fetch(subject.file);
+                console.log(`📡 switchModule: Response status: ${response.status} ${response.statusText}`);
+                
                 if (!response.ok) {
                     throw new Error(`HTTP ${response.status}: Failed to load ${subject.file}`);
                 }
                 
                 const data = await response.json();
-                console.log(`📄 Module data received:`, data);
+                console.log(`📄 switchModule: Raw data received:`, data);
                 
                 // Handle wrapped format
                 if (data.questions && Array.isArray(data.questions)) {
                     currentQuestions = data.questions;
-                    console.log(`✅ Loaded ${data.questions.length} questions from ${data.module || 'Unknown'}`);
+                    console.log(`✅ switchModule: Loaded ${data.questions.length} questions from ${data.module || 'Unknown'}`);
+                    console.log(`🔍 switchModule: First question preview:`, {
+                        id: currentQuestions[0]?.id,
+                        question: currentQuestions[0]?.question?.substring(0, 100) + '...',
+                        optionsCount: Object.keys(currentQuestions[0]?.options || {}).length
+                    });
                 } else {
+                    console.error(`❌ switchModule: Invalid data structure. Expected {questions: []}, got:`, data);
                     throw new Error(`Invalid question format for ${moduleNumber}`);
                 }
                 
@@ -873,14 +892,16 @@
                 
                 // Update UI
                 document.getElementById('total-questions').textContent = currentQuestions.length;
+                console.log(`🔍 switchModule: Updated total questions display to: ${currentQuestions.length}`);
+                
                 updateProgress();
                 displayQuestion();
                 
-                console.log(`🎉 Module ${moduleNumber} loaded successfully!`);
+                console.log(`🎉 switchModule: Module ${moduleNumber} loaded successfully! Questions array length: ${currentQuestions.length}`);
                 
             } catch (error) {
-                console.error(`❌ Module ${moduleNumber} loading failed:`, error);
-                document.getElementById('question-text').textContent = `Error: ${error.message}`;
+                console.error(`❌ switchModule: Module ${moduleNumber} loading failed:`, error);
+                document.getElementById('question-text').textContent = `Error loading ${moduleNumber}: ${error.message}`;
             }
         }
 
@@ -909,7 +930,15 @@
                 
                 // Show quiz interface
                 document.getElementById('quiz-interface').classList.remove('hidden');
-                document.getElementById('module-tabs').classList.add('hidden'); // Hide tabs for regular subjects
+                
+                // Only hide tabs for non-Muslim Family Law subjects
+                if (!topic.startsWith('muslim-family-module')) {
+                    document.getElementById('module-tabs').classList.add('hidden');
+                    console.log(`🔍 startQuiz: Hiding tabs for non-Muslim subject: ${topic}`);
+                } else {
+                    console.log(`🔍 startQuiz: Keeping tabs visible for Muslim Family Law module: ${topic}`);
+                }
+                
                 document.getElementById('global-home-button').classList.remove('hidden');
                 
                 // Show loading state
@@ -994,11 +1023,27 @@
 
         // Display current question
         function displayQuestion() {
+            console.log(`🖥️ displayQuestion: Called with currentQuestionIndex=${currentQuestionIndex}, currentQuestions.length=${currentQuestions.length}`);
+            
+            if (currentQuestions.length === 0) {
+                console.error(`❌ displayQuestion: No questions available (currentQuestions.length=0)`);
+                document.getElementById('question-text').textContent = 'No questions available for this module.';
+                return;
+            }
+            
             if (currentQuestionIndex >= currentQuestions.length) {
+                console.error(`❌ displayQuestion: currentQuestionIndex (${currentQuestionIndex}) >= currentQuestions.length (${currentQuestions.length})`);
                 return;
             }
 
             const question = currentQuestions[currentQuestionIndex];
+            console.log(`🔍 displayQuestion: Current question object:`, question);
+            
+            if (!question) {
+                console.error(`❌ displayQuestion: Question object is null/undefined at index ${currentQuestionIndex}`);
+                return;
+            }
+            
             selectedAnswer = null;
 
             // Update question number and progress
@@ -1013,8 +1058,9 @@
             // Display question text
             if (questionTextEl) {
                 questionTextEl.textContent = question.question;
+                console.log(`✅ displayQuestion: Question text set: "${question.question.substring(0, 100)}..."`);
             } else {
-                console.error('❌ question-text element not found in displayQuestion');
+                console.error('❌ displayQuestion: question-text element not found');
             }
 
             // Display statements
@@ -1029,21 +1075,46 @@
 
             // Display options
             const optionsContainer = document.getElementById('options-container');
+            console.log(`🔍 displayQuestion: Options container element:`, optionsContainer);
+            
+            if (!optionsContainer) {
+                console.error('❌ displayQuestion: options-container element not found');
+                return;
+            }
+            
             let optionsArray;
+            
+            console.log(`🔍 displayQuestion: Question options:`, question.options);
+            console.log(`🔍 displayQuestion: Options type:`, typeof question.options);
+            console.log(`🔍 displayQuestion: Is options array:`, Array.isArray(question.options));
             
             // Handle both array and object formats for options
             if (Array.isArray(question.options)) {
                 optionsArray = question.options;
+                console.log(`✅ displayQuestion: Using array format for options (${optionsArray.length} options)`);
             } else if (typeof question.options === 'object') {
                 // Convert object to array (A, B, C, D)
-                optionsArray = Object.keys(question.options)
-                    .sort() // Ensure A, B, C, D order
-                    .map(key => `${key}. ${question.options[key]}`);
+                const optionKeys = Object.keys(question.options).sort();
+                optionsArray = optionKeys.map(key => `${key}. ${question.options[key]}`);
+                console.log(`✅ displayQuestion: Converted object to array format (${optionsArray.length} options):`, optionKeys);
+            } else {
+                console.error(`❌ displayQuestion: Invalid options format:`, question.options);
+                optionsContainer.innerHTML = '<div class="error">Error: Invalid options format</div>';
+                return;
             }
             
-            optionsContainer.innerHTML = optionsArray.map((option, index) => 
+            if (!optionsArray || optionsArray.length === 0) {
+                console.error(`❌ displayQuestion: No options available`);
+                optionsContainer.innerHTML = '<div class="error">No options available</div>';
+                return;
+            }
+            
+            const optionsHTML = optionsArray.map((option, index) => 
                 `<div class="option" onclick="selectOption(${index})" data-option="${index}">${option}</div>`
             ).join('');
+            
+            optionsContainer.innerHTML = optionsHTML;
+            console.log(`✅ displayQuestion: Options HTML generated and inserted (${optionsArray.length} options)`);
 
             // Update navigation buttons
             document.getElementById('prev-btn').classList.toggle('hidden', currentQuestionIndex === 0);
