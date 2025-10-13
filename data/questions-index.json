@@ -1,0 +1,121 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2024-01-15",
+  "subjects": {
+    "banking": {
+      "name": "Banking & Finance",
+      "file": "banking.json",
+      "questionCount": 100,
+      "description": "Banking, Fundraising, and Financial Law"
+    },
+    "governance": {
+      "name": "Corporate Governance", 
+      "file": "governance.json",
+      "questionCount": 100,
+      "description": "Corporate governance and compliance"
+    },
+    "insolvency": {
+      "name": "Insolvency & Corporate Restructuring",
+      "file": "insolvency.json", 
+      "questionCount": 100,
+      "description": "Insolvency law and corporate restructuring"
+    },
+    "admiralty": {
+      "name": "Admiralty",
+      "file": "admiralty.json",
+      "questionCount": 100, 
+      "description": "Maritime and admiralty law"
+    },
+    "ip": {
+      "name": "Intellectual Property",
+      "file": "ip.json",
+      "questionCount": 100,
+      "description": "Trademarks, patents, and copyright"
+    },
+    "tax": {
+      "name": "Taxation",
+      "file": "tax.json",
+      "questionCount": 100,
+      "description": "Tax law and compliance"
+    },
+    "competition": {
+      "name": "Competition Law",
+      "file": "competition.json",
+      "questionCount": 100,
+      "description": "Competition and antitrust law"
+    },
+    "ma": {
+      "name": "Mergers & Acquisitions",
+      "file": "ma.json",
+      "questionCount": 100,
+      "description": "M&A transactions and due diligence"
+    },
+    "arbitration": {
+      "name": "Arbitration",
+      "file": "arbitration.json",
+      "questionCount": 100,
+      "description": "Arbitration procedures and law"
+    },
+    "mediation": {
+      "name": "Mediation Advocacy",
+      "file": "mediation.json",
+      "questionCount": 100,
+      "description": "Mediation and alternative dispute resolution"
+    },
+    "muslim-family-module1": {
+      "name": "Muslim Family Law - Module 1: Jurisdiction & Court Powers",
+      "file": "muslim-family-law-module1.json",
+      "questionCount": 20,
+      "description": "Jurisdiction, court powers, enforcement, leave requirements, and procedural distinctions"
+    },
+    "muslim-family-module2": {
+      "name": "Muslim Family Law - Module 2: Divorce Types & Procedures",
+      "file": "muslim-family-law-module2.json",
+      "questionCount": 20,
+      "description": "Talak, taklik, fasakh, khuluk, hakam sessions, and divorce procedures"
+    },
+    "muslim-family-module3": {
+      "name": "Muslim Family Law - Module 3: Ancillary Orders",
+      "file": "muslim-family-law-module3.json",
+      "questionCount": 20,
+      "description": "Nafkah iddah, mutaah, custody, care and control, access, and judicial interviews"
+    },
+    "muslim-family-module4": {
+      "name": "Muslim Family Law - Module 4: Division of Matrimonial Assets",
+      "file": "muslim-family-law-module4.json",
+      "questionCount": 20,
+      "description": "Matrimonial asset classification, ANJ v ANK approach, and just and equitable division"
+    },
+    "muslim-family-module5": {
+      "name": "Muslim Family Law - Module 5: Muslim Inheritance & Wills",
+      "file": "muslim-family-law-module5.json",
+      "questionCount": 20,
+      "description": "Faraid, 1/3 rule, CPF nominations, joint tenancy, hibah, and inheritance certificates"
+    }
+  },
+  "categories": {
+    "corporate": {
+      "name": "Corporate & Commercial",
+      "subjects": ["banking", "governance", "insolvency", "admiralty", "ip", "ma", "competition", "tax"]
+    },
+    "ethics": {
+      "name": "Ethics & Professional Responsibility", 
+      "subjects": []
+    },
+    "dispute": {
+      "name": "Dispute Resolution Practice",
+      "subjects": ["arbitration", "mediation"]
+    },
+    "private": {
+      "name": "Private Client Practice",
+      "subjects": ["muslim-family-module1", "muslim-family-module2", "muslim-family-module3", "muslim-family-module4", "muslim-family-module5"]
+    },
+    "contemporary": {
+      "name": "Contemporary Legal Knowledge & Practice",
+      "subjects": []
+    }
+  }
+}
+
+
+

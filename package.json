@@ -1,0 +1,22 @@
+{
+  "name": "singapore-part-b-question-bank",
+  "version": "1.0.0",
+  "description": "Singapore Part B Bar Exam Question Bank Platform",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "node build.js",
+    "serve": "python -m http.server 8000",
+    "clean": "node clean.js"
+  },
+  "keywords": ["legal", "education", "singapore", "bar-exam"],
+  "author": "Aaron",
+  "license": "MIT",
+  "devDependencies": {
+    "terser": "^5.24.0",
+    "clean-css-cli": "^5.6.2"
+  }
+}
+
+
+
