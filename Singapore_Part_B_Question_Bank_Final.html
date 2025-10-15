@@ -4038,9 +4038,9 @@
                     <h4>B1. Muslim Family & Succession Law</h4>
                     <p>Coming Soon</p>
                 </div>
-                <div class="subject-card" onclick="alert('Questions for Probate and Succession Planning are coming soon!')">
+                <div class="subject-card" onclick="showProbateModules()">
                     <h4>B2. Probate and Succession Planning</h4>
-                    <p>Coming Soon</p>
+                    <p>6 Modules • 288 Questions</p>
                 </div>
                 <div class="subject-card" onclick="alert('Questions for Real Estate Practice are coming soon!')">
                     <h4>B3. Real Estate Practice</h4>
@@ -4053,6 +4053,45 @@
                 <div class="subject-card" onclick="alert('Questions for Personal Injury and Property Damage are coming soon!')">
                     <h4>B5. Personal Injury and Property Damage</h4>
                     <p>Coming Soon</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Probate Modules Menu -->
+        <div id="probate-modules" class="main-content hidden">
+            <button class="back-button" onclick="goBackToPrivateClientSubjects()">&#8592; Back to Private Client Practice</button>
+            <h2 class="menu-title">B2. Probate and Succession Planning</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 30px;">Select a module to begin practicing</p>
+            <div class="subjects-grid">
+                <div class="subject-card" onclick="loadProbateQuiz('module1')">
+                    <h4>Module 1</h4>
+                    <p>Wills & Testamentary Capacity</p>
+                    <small style="color: #666;">52 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadProbateQuiz('module2')">
+                    <h4>Module 2</h4>
+                    <p>Will Construction & Estate Assets</p>
+                    <small style="color: #666;">50 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadProbateQuiz('module3')">
+                    <h4>Module 3</h4>
+                    <p>Intestacy & Estate Claims</p>
+                    <small style="color: #666;">52 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadProbateQuiz('module4')">
+                    <h4>Module 4</h4>
+                    <p>Probate & Grant Applications</p>
+                    <small style="color: #666;">32 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadProbateQuiz('module5')">
+                    <h4>Module 5</h4>
+                    <p>Mental Capacity Act & LPA</p>
+                    <small style="color: #666;">52 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadProbateQuiz('module6')">
+                    <h4>Module 6</h4>
+                    <p>Deputyship</p>
+                    <small style="color: #666;">50 Questions</small>
                 </div>
             </div>
         </div>
@@ -13137,6 +13176,66 @@ const mediationQuestions = [
     }
 ];
 
+// Probate & Succession Planning Data
+const probateData = {
+    module1: null,  // Will be loaded from JSON
+    module2: null,
+    module3: null,
+    module4: null,
+    module5: null,
+    module6: null
+};
+
+// Function to load Probate module data
+async function loadProbateModuleData(moduleNum) {
+    const moduleName = `module${moduleNum}`;
+    if (probateData[moduleName]) {
+        return probateData[moduleName];
+    }
+    
+    try {
+        const response = await fetch(`probate-${moduleName}-questions.json`);
+        const data = await response.json();
+        probateData[moduleName] = data.questions;
+        return data.questions;
+    } catch (error) {
+        console.error(`Error loading probate module ${moduleNum}:`, error);
+        alert(`Error loading module data. Please try again.`);
+        return null;
+    }
+}
+
+// Function to load Probate quiz
+async function loadProbateQuiz(module) {
+    console.log('loadProbateQuiz called with module:', module);
+    
+    const moduleNum = module.replace('module', '');
+    const questions = await loadProbateModuleData(moduleNum);
+    
+    if (!questions || questions.length === 0) {
+        alert('No questions available for this module.');
+        return;
+    }
+    
+    currentQuestions = questions;
+    currentQuestionIndex = 0;
+    selectedAnswer = null;
+    correctCount = 0;
+    incorrectCount = 0;
+    quizActive = true;
+    currentTopic = 'probate-' + module;
+    
+    // Hide probate modules menu and show quiz interface
+    document.getElementById('probate-modules').classList.add('hidden');
+    document.getElementById('quiz-interface').classList.remove('hidden');
+    document.getElementById('quiz-back-button').classList.remove('hidden');
+    document.getElementById('global-home-button').classList.remove('hidden');
+    currentPage = 'quiz-interface';
+    
+    // Show the first question
+    displayQuestion();
+}
+
         
         // Global variables
         let currentQuestions = [];
@@ -13313,6 +13412,24 @@ const mediationQuestions = [
             currentPage = 'contemporary-subjects';
         }
 
+        // Probate Navigation Functions
+        function showProbateModules() {
+            console.log('showProbateModules called');
+            document.getElementById('private-client-subjects').classList.add('hidden');
+            document.getElementById('probate-modules').classList.remove('hidden');
+            document.getElementById('quiz-interface').classList.add('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'probate-modules';
+        }
+
+        function goBackToPrivateClientSubjects() {
+            console.log('goBackToPrivateClientSubjects called');
+            document.getElementById('probate-modules').classList.add('hidden');
+            document.getElementById('quiz-interface').classList.add('hidden');
+            document.getElementById('private-client-subjects').classList.remove('hidden');
+            currentPage = 'private-client-subjects';
+        }
+
         function goHome() {
             showMainMenu();
         }
@@ -13322,6 +13439,8 @@ const mediationQuestions = [
                 currentPage === 'dispute-resolution-subjects' || currentPage === 'private-client-subjects' || 
                 currentPage === 'contemporary-subjects') {
                 showMainMenu();
+            } else if (currentPage === 'probate-modules') {
+                showPrivateClientSubjects();
             } else if (currentPage.startsWith('a2-ethics-')) {
                 // If we're in any A2 ethics section, go back to A2 ethics subjects
                 goBackToA2Ethics();
@@ -13333,6 +13452,9 @@ const mediationQuestions = [
                     showCorporateSubjects();
                 } else if (currentTopic === 'arbitration' || currentTopic === 'mediation') {
                     showDisputeResolutionSubjects();
+                } else if (currentTopic && currentTopic.startsWith('probate-')) {
+                    document.getElementById('quiz-interface').classList.add('hidden');
+                    showProbateModules();
                 } else {
                     showMainMenu();
                 }
@@ -15539,6 +15661,9 @@ const mediationQuestions = [
         window.showCorporateSubjects = showCorporateSubjects;
         window.showEthicsSubjects = showEthicsSubjects;
         window.showDisputeResolutionSubjects = showDisputeResolutionSubjects;
+        window.showProbateModules = showProbateModules;
+        window.loadProbateQuiz = loadProbateQuiz;
+        window.goBackToPrivateClientSubjects = goBackToPrivateClientSubjects;
         
         // Initialize the platform
         document.addEventListener('DOMContentLoaded', function() {

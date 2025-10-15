@@ -1,0 +1,1006 @@
+{
+  "module": "Module 6: Deputyship",
+  "questions": [
+    {
+      "id": "PROB-M6-Q001",
+      "question": "Person P lacks capacity and has no LPA. P's family wants someone to make decisions for P. Under section 20-21 MCA, what should the family do?",
+      "options": {
+        "A": "The family can collectively make decisions without court involvement.",
+        "B": "Apply to court for appointment of a deputy under sections 20-21 MCA.",
+        "C": "Create an LPA on P's behalf.",
+        "D": "Wait for P to regain capacity."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Court must appoint a deputy. When P lacks capacity and has no LPA, the solution is deputyship. Section 20 MCA gives courts power to appoint deputies. Section 21 specifies who can be deputies and appointment procedures. The family applies to court showing: (1) P lacks capacity (per s 4-5 MCA, with medical evidence), (2) decisions need to be made for P (personal welfare, property/affairs), (3) proposed deputy is suitable (per s 21 criteria). The court assesses and, if satisfied, appoints a deputy with specified powers. Deputyship is REACTIVE (after P loses capacity, no LPA exists) vs LPA which is PROACTIVE (P creates while has capacity, for future incapacity). Deputyship involves court application, hearings, court orders, ongoing supervision - more formal and costly than LPA. But it's necessary when P didn't create LPA and now lacks capacity.",
+        "incorrect": {
+          "A": "This is incorrect because family cannot make decisions for incapacitated persons without legal authority. The MCA framework provides three mechanisms for decision-making: (1) LPA (if P created one while capable), (2) Deputyship (court appoints deputy), (3) Section 7 (limited to care/treatment by healthcare providers/carers). Family members have no inherent legal authority to make decisions for incapacitated adult relatives. They must either: be appointed as donees (in LPA), be appointed as deputies (by court), or act under s 7 for care/treatment (if they're providing care). Without one of these, collective family decision-making has no legal basis. Third parties (banks, doctors, service providers) wouldn't recognize family authority. The answer incorrectly assumes family authority.",
+          "C": "This is incorrect because an LPA must be created by the donor (P) while P has capacity. Section 11(2)(c) MCA requires: 'P is above 21 years old and has capacity to execute.' Once P lacks capacity, P cannot create an LPA. The family cannot create an LPA 'on P's behalf' - that's not how LPAs work. LPAs are the donor's choice of who should act for them. If P lacks capacity and has no LPA, it's too late for LPAs - the solution is deputyship (court appoints someone to act for P). The answer confuses LPA (created by P while capable) with deputyship (appointed by court after incapacity).",
+          "D": "This is problematic because waiting might not be viable. Section 6(3) requires considering future capacity - if P will likely regain capacity soon, decisions should wait if possible. But if: (1) P is unlikely to regain capacity (permanent dementia, brain injury), (2) decisions are urgent (P needs medical treatment, care placement, financial management), or (3) waiting would harm P, then waiting is not appropriate. Deputyship allows immediate decision-making for P's welfare. The answer might work if P has temporary incapacity and decisions can wait, but as a general answer, it's insufficient."
+        },
+        "reference": "Sections 20-21 MCA - Court Appoints Deputy for Person Lacking Capacity; Deputyship is Reactive (After Incapacity) vs LPA Proactive (Before Incapacity); Court Application Required; Section 11(2)(c) - LPA Requires Donor Capacity; Too Late for LPA if P Lacks Capacity; Family No Inherent Authority Without Deputyship/LPA"
+      }
+    },
+    {
+      "id": "PROB-M5-Q002",
+      "question": "Under section 21(1) MCA, who can be appointed as a deputy?",
+      "options": {
+        "A": "Only family members of P.",
+        "B": "A trust corporation or other suitable person.",
+        "C": "Only lawyers or doctors.",
+        "D": "Anyone over 21."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Trust corporation or suitable person can be deputy. Section 21(1) MCA allows the court to appoint 'trust corporation or... suitable person.' This is broad - 'suitable person' gives the court discretion. Potential deputies: (1) Family members (spouse, child, sibling) - if suitable (capable, trustworthy, no conflicts), (2) Friends or trusted advisors, (3) Professional deputies (lawyers, accountants, social workers offering deputy services), (4) Trust corporations (institutional deputies for complex estates). The court assesses suitability considering: (1) proposed deputy's relationship with P, (2) ability to perform duties (financial literacy for property deputy, caring nature for welfare deputy), (3) conflicts of interest, (4) P's wishes (if ascertainable), (5) family views. The court prioritizes P's best interests in choosing deputy. Unlike LPA (where donor chooses), in deputyship the court chooses - so 'suitability' is key.",
+        "incorrect": {
+          "A": "This is too narrow. While family members often are appointed (they know P, care about P's welfare, might not charge fees), s 21(1) doesn't limit deputies to family. 'Suitable person' can be non-family. If P has no suitable family (all estranged, incapable, or conflicted), the court might appoint a friend, professional deputy, or trust corporation. The court's primary concern is suitability for the role, not family relationship. The answer incorrectly limits deputies to family.",
+          "C": "This is incorrect because lawyers and doctors have no monopoly on deputyship. While they can be appointed (professionals often serve as deputies, especially for complex estates or contentious situations), s 21(1) allows 'suitable person' - anyone suitable, not just professionals. A capable family member (financially literate child, caring spouse) might be more suitable than a professional (cheaper, knows P better, more invested in P's welfare). The court assesses case-by-case. The answer incorrectly limits deputies to specific professions.",
+          "D": "This is too broad. While deputies must be 21+ per s 21(2), not everyone over 21 is suitable. Section 21(1) requires a 'suitable person' - suitability is assessed. A 22-year-old with no financial knowledge, estranged from P, with a criminal record, would not be suitable as property deputy. The court must determine suitability considering the factors mentioned. Age 21+ is necessary but not sufficient. The answer treats age as the only criterion."
+        },
+        "reference": "Section 21(1) MCA - Deputy: Trust Corporation or Suitable Person; Court Discretion to Appoint; Suitability Criteria: Ability, Relationship, No Conflicts, P's Wishes; Family, Friends, Professionals, Institutions Can Be Appointed; Section 21(2) - Must Be 21+; Court Chooses vs LPA Where Donor Chooses"
+      }
+    },
+    {
+      "id": "PROB-M6-Q003",
+      "question": "Under section 21(3) MCA, can a person be appointed as deputy without their consent?",
+      "options": {
+        "A": "Yes, the court can compel suitable persons to serve as deputy.",
+        "B": "No, a person may not be appointed as a deputy without the person's consent.",
+        "C": "Yes, but only for family members.",
+        "D": "Yes, if no one else is available."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Consent is required for deputy appointment. Section 24(3) MCA states: 'A person may not be appointed as a deputy without the person's consent --> i.e. deputy cannot be forced by the court to be a deputy.' Being a deputy is a significant responsibility with legal duties and potential liability. The deputy manages P's affairs, makes decisions for P, owes fiduciary duties, must act in P's best interests, and can be held accountable for breaches. The law doesn't force this burden on unwilling persons. The court cannot order 'You are now P's deputy whether you like it or not.' The proposed deputy must affirmatively consent. If the proposed deputy declines, the court must find another suitable person. This might mean: (1) appointing a different family member who consents, (2) appointing a professional deputy (who consents for remuneration), (3) appointing the Public Guardian or official receiver in difficult cases. Consent ensures deputies undertake the role willingly and seriously.",
+        "incorrect": {
+          "A": "This is incorrect because s 21(3) prohibits appointment without consent. The court cannot 'compel' anyone to serve. Being a deputy is voluntary. Even if someone is highly suitable (financially literate, caring, knows P well), if they don't consent, they cannot be appointed. Why? Unwilling deputies might: (1) neglect duties (causing harm to P), (2) resign shortly after (disrupting P's care), (3) resent the burden (affecting quality of care), (4) face mental health impact from forced responsibility. Better to have a willing, engaged deputy (even if less 'ideal' on paper) than a compelled, resentful one. The answer incorrectly suggests court compulsion power.",
+          "C": "This is incorrect because the consent requirement applies to ALL potential deputies, not just non-family. Section 21(3) states 'a person may not be appointed' without consent - 'a person' means anyone (family, friend, professional, corporation). Family members are not subject to compulsory deputyship. A daughter cannot be forced to be her father's deputy if she declines (even if she's the most suitable candidate). The consent requirement is universal. The answer incorrectly creates a family exception.",
+          "D": "This is incorrect because unavailability of alternatives doesn't override the consent requirement. If no one consents to be deputy, the court cannot force anyone. The court's options: (1) persuade someone to consent (explain the role, offer professional deputy remuneration per s 24(9), provide support), (2) appoint Public Guardian or official receiver (government-appointed deputies for difficult cases), (3) make specific court orders per s 20(2)(a) instead of appointing deputy (court decides case-by-case rather than delegating to deputy). The answer incorrectly suggests emergency compulsion when no one consents."
+        },
+        "reference": "Section 24(3) MCA - Deputy Cannot Be Appointed Without Consent; Significant Responsibility; Legal Duties and Liability; Voluntary Role; Unwilling Deputies Problematic; Court Cannot Compel; Applies to All Potential Deputies; If No Consent, Court Finds Alternative or Makes Specific Orders"
+      }
+    },
+    {
+      "id": "PROB-M6-Q004",
+      "question": "Section 20(4) MCA sets principles for when the court should appoint a deputy. What does the court prefer?",
+      "options": {
+        "A": "Appointing a deputy is always preferred to give P ongoing support.",
+        "B": "A decision by the court is to be preferred to the appointment of a deputy to make a decision.",
+        "C": "Appointing multiple deputies provides better oversight.",
+        "D": "Professional deputies are preferred over family members."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Court decision preferred over deputy appointment. Section 20(4) MCA states: 'When deciding whether it is in P's best interests to appoint a deputy, the court must have regard to the principles that: a. A decision by the court is to be preferred to the appointment of a deputy to make a decision. b. The powers conferred on a deputy should be as limited in scope and duration as is reasonable practicable.' Principle (a) means: if the court can make a specific decision for P (under s 20(2)(a) - 'make orders on decisions on P's behalf'), this is preferable to appointing a deputy. Why? Court decisions are more protective - direct judicial oversight for each decision vs delegating to deputy. Court decisions are appropriate when: (1) one-off decisions needed (sell a property, consent to surgery), (2) contentious decisions (family disputes require judicial determination), (3) P might regain capacity soon (no need for ongoing deputy). Deputies are appropriate when: ongoing decisions needed, P's incapacity likely permanent, routine management required (pay bills monthly, arrange care). The principle is: least intervention - only appoint deputy if necessary for ongoing management.",
+        "incorrect": {
+          "A": "This reverses the preference. Section 20(4)(a) states: 'A decision by the court is to be preferred to the appointment of a deputy.' The court prefers making decisions itself rather than delegating to deputies. Deputies are appointed only when necessary for ongoing management that would be impractical for the court to handle decision-by-decision. The preference hierarchy is: (1) Best - P makes own decision (if has capacity). (2) Second best - Court makes specific decision (if P lacks capacity but only specific decisions needed). (3) Third - Appoint deputy (if ongoing decision-making needed). The answer incorrectly treats deputy appointment as always preferred.",
+          "C": "This is not a principle in s 20(4). While the court CAN appoint multiple deputies (s 24(4) - jointly, jointly and severally, or mixed), s 20(4) doesn't express a preference for multiple over single deputies. The principles in s 20(4) are: (a) court decision over deputy, (b) limited deputy powers. Multiple deputies might provide oversight but also create complications (disagreement, coordination difficulties). The court assesses case-by-case. The answer invents a principle not in s 20(4).",
+          "D": "This is not a principle in s 20(4). Section 21(1) allows both family and professionals as deputies. The court assesses suitability without automatic preference for professionals or family. Family deputies might be preferred for: (1) knowing P's wishes/values, (2) caring relationship, (3) no fees (s 24(8) - non-professional deputies reimbursed for expenses but no remuneration). Professional deputies might be preferred for: (1) expertise (financial management, conflict resolution), (2) no emotional entanglement, (3) contentious family situations. The choice depends on P's specific needs. The answer invents a professional preference."
+        },
+        "reference": "Section 20(4) MCA - Principles: (a) Court Decision Preferred to Deputy Appointment, (b) Deputy Powers Limited in Scope and Duration; Least Intervention Principle; Deputies Only When Ongoing Management Needed; One-Off Decisions by Court; Section 20(2) - Court Can Make Specific Decisions or Appoint Deputy"
+      }
+    },
+    {
+      "id": "PROB-M6-Q005",
+      "question": "Section 24(4) MCA allows appointing more than one deputy. How can they be appointed to act?",
+      "options": {
+        "A": "Only jointly (together).",
+        "B": "Only jointly and severally (together or separately).",
+        "C": "Jointly, jointly and severally, or jointly for some matters and severally for others.",
+        "D": "The deputies decide among themselves how to act."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "Three options for multiple deputies. Section 24(4) MCA states: '2 or more deputies may be appointed to act: (a) jointly; (b) jointly and severally; or (c) jointly in respect of some matters and jointly and severally in respect of others.' This mirrors s 12(4) for donees. The court has flexibility in structuring multi-deputy arrangements: (1) JOINTLY - deputies must agree on all decisions, provides oversight, prevents unilateral action, but risks deadlock. (2) JOINTLY AND SEVERALLY - deputies can act together or alone, provides flexibility, speeds decisions, but less oversight. (3) MIXED - jointly for major decisions (selling property, major medical treatment), severally for routine matters (paying bills, care arrangements). The court chooses based on: (1) complexity of P's affairs, (2) whether deputies trust each other, (3) need for oversight vs efficiency, (4) geographical separation of deputies. The appointment order specifies how deputies must act. If jointly appointed, one deputy acting alone is invalid (unlike executors who act severally by default).",
+        "incorrect": {
+          "A": "This is too restrictive. While jointly is one option (s 24(4)(a)), it's not the only option. The court can also appoint jointly and severally (s 24(4)(b)) or mixed (s 24(4)(c)). The choice depends on the case. Jointly is more protective but less flexible. The answer incorrectly limits multi-deputy appointments to joint only.",
+          "B": "This is also too restrictive. Jointly and severally is one option (s 24(4)(b)), but not the only one. The court might appoint jointly (if oversight needed) or mixed (if some decisions need agreement, others can be individual). The answer incorrectly limits to jointly and severally only.",
+          "D": "This is incorrect because the court decides how deputies act, not the deputies themselves. Section 24(4) states 'may be appointed to act' - the appointment (by court) specifies the mode. The court's order states: 'Deputies A and B are appointed to act jointly' or 'jointly and severally' or 'jointly for X, severally for Y.' The deputies must follow the court's specification. They cannot informally agree among themselves to act differently than the court ordered. If appointed jointly, they cannot decide 'let's act severally for convenience' - that would violate the court order. The answer incorrectly gives deputies discretion."
+        },
+        "reference": "Section 24(4) MCA - Multiple Deputies: (a) Jointly, (b) Jointly and Severally, (c) Mixed; Court Chooses Based on Case Needs; Jointly Provides Oversight But Risks Deadlock; Severally Provides Flexibility But Less Oversight; Mixed Balances Both; Court Order Specifies Mode; Mirrors Section 12(4) for Donees"
+      }
+    },
+    {
+      "id": "PROB-M6-Q006",
+      "question": "Non-professional deputy serves P without remuneration. Under section 24(8) MCA, what is the deputy entitled to?",
+      "options": {
+        "A": "Nothing - the deputy serves voluntarily.",
+        "B": "Reimbursement for reasonable expenses but not remuneration.",
+        "C": "Remuneration determined by the court.",
+        "D": "A fixed fee of 5% of P's estate."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Expenses reimbursed, no remuneration. Section 24(8) MCA states: 'A deputy under subsection (1)(a)(i) or (b)(i) is entitled to be reimbursed out of P's property for the deputy's reasonable expenses in discharging the deputy's functions, but is not entitled to remuneration. --> where deputy is above 21 years' old and provide service without remuneration.' Subsections (1)(a)(i) and (b)(i) refer to individuals serving without remuneration (typically family members or friends). Such deputies are reimbursed for out-of-pocket expenses (travel, postage, phone calls, document fees) but receive no payment for their time. Example: daughter appointed as mother's deputy spends $200 on accountant fees for mother's tax return - reimbursed. Daughter spends 20 hours managing mother's affairs - no payment for time. This contrasts with professional deputies (s 24(9)) who receive both expense reimbursement AND remuneration for their services (determined by court). The distinction incentivizes family/friend deputies (no cost to P beyond expenses) while allowing professional deputies when needed (for complex cases, contentious families, no suitable non-professional).",
+        "incorrect": {
+          "A": "This is too harsh. While non-professional deputies don't receive remuneration (payment for time), they ARE entitled to reimbursement for reasonable expenses per s 24(8). If the deputy pays for things from their own pocket (accountant fees, legal fees, document fees, travel to manage P's affairs), P's estate reimburses these costs. Otherwise, deputies would be out-of-pocket, discouraging people from serving. Expense reimbursement is fair - the deputy shouldn't bear financial costs of managing P's affairs. The answer incorrectly denies even expense reimbursement.",
+          "C": "This is incorrect for non-professional deputies. Section 24(8) explicitly states: 'is not entitled to remuneration.' Only professional deputies get remuneration per s 24(9): 'A deputy under subsection (1)(a)(ii) or (iii) or (b)(ii) is entitled... to such remuneration, as the court determines, out of P's property.' The distinction is: non-professionals (family/friends) - expenses only, no remuneration; professionals - expenses + remuneration. If a family member wants remuneration, they must qualify as a 'professional deputy' under s 24(1)(a)(ii) or (b)(ii), which requires not being related to P and offering deputy services professionally. The answer incorrectly gives non-professionals remuneration.",
+          "D": "This is incorrect because there's no 'fixed fee of 5% of P's estate' for deputies. Even professional deputies (who get remuneration) don't have a fixed 5% - the court determines remuneration per s 24(9)(b) considering factors like complexity, time, deputy's skill, P's estate size. Non-professional deputies get no remuneration at all per s 24(8). The 5% figure might confuse this with executor commission (s 66 PAA - up to 5% for executors/administrators), but that's a different context (estate administration vs. ongoing deputyship). The answer invents a 5% fee."
+        },
+        "reference": "Section 24(8) MCA - Non-Professional Deputies: Reimbursement for Reasonable Expenses But No Remuneration; Section 24(1)(a)(i)/(b)(i) - Individuals Providing Service Without Remuneration; Family/Friends Typically Serve Without Pay; Section 24(9) - Professional Deputies Get Expenses + Court-Determined Remuneration; Incentivizes Non-Professional Deputies"
+      }
+    },
+    {
+      "id": "PROB-M6-Q007",
+      "question": "Section 24(5) MCA allows the court to appoint successor deputies. Can the court appoint a successor to a successor deputy?",
+      "options": {
+        "A": "Yes, unlimited layers of succession are allowed.",
+        "B": "The section allows appointing one or more successor deputies, but does not expressly address successors to successors.",
+        "C": "No, only one layer of succession is permitted.",
+        "D": "Yes, but maximum two layers."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 24(5) doesn't expressly prohibit successors to successors. Section 24(5) MCA states: 'When appointing a deputy, the court may at the same time appoint one or more other persons to succeed the deputy (each called... a successor deputy) – (a) in such circumstances, or on the happening of such events, as may be specified by the court; and (b) for such period as may be specified by the court.' This allows the court to appoint successors when appointing the primary deputy. But unlike s 12(9) for LPA donees (which explicitly prohibits replacement for replacements), s 24(5) doesn't address whether successors can have successors. The silence suggests the court has discretion - it could appoint: Deputy A, Successor B (if A ceases), Successor C (if B ceases), etc., if the court deems it appropriate. Or the court might limit to one successor layer for simplicity. Given the court's broad discretion under s 24(5) ('may appoint... on such terms'), multiple succession layers might be permissible, unlike the strict LPA limitation.",
+        "incorrect": {
+          "A": "This is overstating - while s 24(5) doesn't prohibit multiple succession layers, saying 'unlimited' layers are 'allowed' goes too far. The court has discretion, but practical limits exist. Appointing 10 layers of successors would be administratively complex and suggest over-planning. The court would likely limit to reasonable contingency planning (1-2 successor layers). The answer treats discretion as unlimited permission.",
+          "C": "This is incorrect because s 24(5) doesn't impose a 'one layer only' limit like s 12(9) does for donees. Section 12(9) explicitly states LPAs 'cannot... appoint a person to replace any replacement donee.' Section 24(5) has no such language. This might be deliberate - deputyship is court-supervised (more protective than LPA), so the court can manage more complex succession arrangements. Or it might be an oversight. Given the silence, the safest interpretation is the court has discretion - not necessarily limited to one layer but not unlimited either. The answer incorrectly imposes a limit not in the statute.",
+          "D": "This is incorrect because s 24(5) doesn't specify 'maximum two layers.' The section doesn't set any numerical limit. The court's discretion under s 24(5) ('may appoint... on such terms') suggests flexibility. The court might appoint two layers (primary, successor, successor to successor) if warranted, or one layer, or potentially more (though practical limits apply). The answer invents a two-layer maximum."
+        },
+        "reference": "Section 24(5) MCA - Court May Appoint Successor Deputies; On Specified Circumstances/Events; For Specified Period; No Express Prohibition on Successors to Successors; Court Discretion; Contrast Section 12(9) - Donees Limited to One Replacement Layer; Court-Supervised Deputyship Allows More Complexity Than LPA"
+      }
+    },
+    {
+      "id": "PROB-M6-Q008",
+      "question": "Section 24(7) MCA describes the nature of a deputy's authority. How is the deputy treated in relation to their acts for P?",
+      "options": {
+        "A": "As P's guardian with parental-like authority.",
+        "B": "As P's agent in relation to anything done within the scope of appointment.",
+        "C": "As P's trustee holding property for P's benefit.",
+        "D": "As P's representative with unlimited authority."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Deputy is P's agent. Section 24(7) MCA states: 'A deputy is to be treated as P's agent in relation to anything done or decided by the deputy within the scope of the deputy's appointment and in accordance with this Part.' Agency means the deputy acts on P's behalf - the deputy's authorized acts bind P as if P did them. The deputy's acts are attributed to P. Agency principles apply: (1) Deputy must act within scope of appointment (court order specifies powers - can't exceed them). (2) Deputy owes fiduciary duties to P (loyalty, care, must act in P's best interests). (3) Deputy's authorized acts bind P to third parties (contracts made by deputy bind P). (4) Deputy's unauthorized acts don't bind P. The agency characterization clarifies legal relationships - in transactions, the deputy represents P, contracts are in P's name, property remains P's (not deputy's). Deputies are not owners or independent decision-makers but agents executing P's affairs per court authorization and MCA duties.",
+        "incorrect": {
+          "A": "This is incorrect because 'guardian with parental-like authority' mischaracterizes the relationship. Guardianship (for minors under Guardianship of Infants Act) involves parental-type authority and responsibility. Deputyship is different - P is an adult who lacks capacity, not a child. The deputy is P's agent, not guardian. The relationship is principal-agent, not parent-child. The deputy acts for P within defined powers (per court order), not with broad parental discretion. The answer applies the wrong legal characterization.",
+          "C": "This is partially related but not quite right. While deputies might hold or manage P's property, they're characterized as AGENTS (s 24(7)), not trustees. Trustees hold property for beneficiaries under trust law. Deputies manage P's property as P's agents under MCA. The difference matters for legal duties and principles. That said, deputies owe fiduciary duties similar to trustees (loyalty, care, account for property), and trust law principles sometimes apply by analogy. But the statutory characterization is agent, not trustee. The answer uses the wrong legal label.",
+          "D": "This is incorrect because deputies do NOT have unlimited authority. Section 24(7) specifies: 'within the scope of the deputy's appointment' - authority is LIMITED by the court order. Section 20(4)(b) mandates: 'powers conferred on a deputy should be as limited in scope and duration as is reasonable practicable.' The court grants only necessary powers. A deputy might be authorized for property management but not personal welfare, or vice versa. Or authorized for specific transactions only. Authority is defined and bounded, not unlimited. The answer incorrectly suggests unlimited authority."
+        },
+        "reference": "Section 24(7) MCA - Deputy Treated as P's Agent; Acts Within Scope of Appointment and in Accordance with MCA; Agency Principles Apply; Deputy Acts on P's Behalf; Authorized Acts Bind P; Fiduciary Duties to P; Not Guardian or Trustee but Agent; Section 20(4)(b) - Powers Limited in Scope and Duration"
+      }
+    },
+    {
+      "id": "PROB-M6-Q009",
+      "question": "Section 25(3)(a) MCA restricts deputy powers. Can a deputy be given power to dispose of and gift P's property?",
+      "options": {
+        "A": "Yes, this is a standard deputy power.",
+        "B": "No, deputies have NO power to dispose and gift P's property.",
+        "C": "Yes, but only with court approval for each gift.",
+        "D": "Yes, for gifts under $1,000."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Deputies cannot be given gift-making power. Section 25(3)(a) MCA states: 'Deputy has NO power to dispose and gift P's property (cf a LPA where it is allowed if explicitly stated).' And s 25(3) lists restrictions: '(a) the disposition of P's property by making gifts; (b) making insurance nominations; (c) revoking insurance nominations; (d) executing a will for P; (e) making CPF nominations; (f) changing CPF nominations.' These powers are prohibited for deputies - the court cannot confer them, even if the applicant requests. Why are deputies more restricted than donees? Donees are chosen by the donor (who trusts them with gift-making if expressly authorized). Deputies are court-appointed (not chosen by P), so restrictions are stricter. The notes compare: 'Deputy has NO power to dispose and gift... (cf a LPA where it is allowed if explicitly stated).' For donees: gifts allowed if LPA expressly authorizes (s 13(7)) within s 13(8) limits. For deputies: gifts prohibited entirely per s 25(3)(a). However, s 23(1)(b) lists 'gift' as a court power - the COURT can authorize specific gifts, but the deputy cannot make them independently.",
+        "incorrect": {
+          "A": "This is incorrect because s 25(3)(a) specifically prohibits gift-making power for deputies. While managing P's property is a standard power (s 23(1)(a) - 'control and management of P's property'), making GIFTS is restricted. Gifts benefit others at P's expense, potentially depleting P's resources needed for maintenance (s 6(7)). Deputies cannot be trusted with gift-making discretion (they weren't chosen by P like donees were). The answer incorrectly treats gifts as standard deputy power.",
+          "C": "This is partially correct but imprecise. Section 25(3)(a) prohibits the deputy from having gift-making power. However, the COURT can authorize specific gifts per s 23(1)(b) (court power for 'gift or other disposition of P's property'). The process is: deputy applies to court for order authorizing a specific gift, court assesses best interests and whether gift is appropriate (e.g., customary wedding gift to grandchild), court makes order. The order authorizes that specific gift. The deputy executes per court order. This is different from the deputy having ongoing gift-making power - each gift requires separate court order. The answer conflates deputy power with court power.",
+          "D": "This is incorrect because s 25(3)(a) prohibits gifts without any dollar threshold. There's no '$1,000 or under' exception. Even small gifts require court authorization per s 23(1)(b). If the deputy wants to give P's grandchild a $50 birthday present, the deputy must apply to court (or act without authority, risking breach of duty). This seems burdensome for small gifts, but s 25(3)(a) is absolute. The notes contrast this with donees, who CAN make gifts (if LPA authorizes) for customary occasions within reasonable value. Deputies are more restricted. The answer invents a dollar threshold."
+        },
+        "reference": "Section 25(3)(a) MCA - Deputies Have NO Power to Make Gifts; Contrast Donees Who Can if LPA Authorizes Per Section 13(7)-(8); Section 23(1)(b) - Court Can Authorize Specific Gifts; Deputy Applies to Court for Gift Authorization; Each Gift Needs Court Order; Deputies Not Chosen by P So More Restricted; Section 6(7) - Property Preserved for Maintenance"
+      }
+    },
+    {
+      "id": "PROB-M6-Q010",
+      "question": "Section 25(3)(d) MCA restricts deputies. Can a deputy be given power to execute a will for P?",
+      "options": {
+        "A": "Yes, executing wills is a property and affairs power.",
+        "B": "No, deputies have NO power to execute a will for P.",
+        "C": "Yes, but only if the will's contents are approved by the court.",
+        "D": "Yes, for property deputies but not personal welfare deputies."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Deputies cannot execute wills for P. Section 25(3)(d) MCA states: 'NO power to execute a will for P.' This restriction protects P's testamentary freedom. A will is P's direction for post-death estate distribution - profoundly personal. Even if P lacks capacity, a deputy cannot make a will for P. Why? (1) Wills require testamentary capacity - if P lacks capacity, they cannot make a will (no one can make it for them). (2) Deputies might have conflicts of interest (they might be beneficiaries under intestacy, so a will could affect their interests). (3) P's estate should pass per P's existing will (if made when capable) or intestacy - not per deputy's preferences. However, s 23(1)(k) lists 'execution for P of a will' as a COURT power. So the court itself might execute a will for P in extraordinary circumstances (statutory wills in English law, not common in Singapore). But deputies cannot. The restriction is in s 25(3)(d) - deputies absolutely cannot execute wills.",
+        "incorrect": {
+          "A": "This is incorrect because while executing wills relates to property disposition (property matter), it's specifically prohibited for deputies. Section 23(1) lists court powers re property/affairs including (k) 'the execution for P of a will,' indicating this is theoretically a property power. But s 25(3)(d) prohibits giving this power to deputies. The court might exercise it itself (statutory wills), but cannot delegate to deputy. The distinction is: courts (independent, no conflict of interest) might execute wills in extreme cases; deputies (potential beneficiaries, chosen for other reasons) cannot. The answer ignores the specific prohibition.",
+          "C": "This is incorrect because s 25(3)(d) absolutely prohibits deputy will-execution power - no exception for court-approved contents. The section states: 'NO power to execute a will for P' - full stop. Even if the court pre-approves the will's terms, the deputy cannot execute. If a will is needed, the COURT must execute it per s 23(1)(k), not the deputy. The prohibition protects against deputy conflicts (they might inherit) and preserves testamentary sanctity (wills are so personal that only P or the court can make them, not delegates). The answer invents a court-approval workaround.",
+          "D": "This is incorrect because the prohibition applies to ALL deputies (property and personal welfare). Section 25(3) states 'A deputy may not be given powers with respect to... (d) the execution for P of a will' - 'a deputy' means any deputy. While will execution is a property-related matter (disposition of estate), even property deputies cannot be given this power. The prohibition is based on the nature of wills (requiring testamentary capacity, deeply personal) and conflict risks (deputy might benefit), not on the type of deputy appointment. The answer incorrectly creates a property/personal welfare distinction for this prohibition."
+        },
+        "reference": "Section 25(3)(d) MCA - Deputies NO Power to Execute Will for P; Protects Testamentary Freedom; Wills Profoundly Personal; P's Estate Passes Per Existing Will or Intestacy; Section 23(1)(k) - Court Can Execute Will in Extraordinary Cases; Deputies Might Have Conflicts; Absolute Prohibition for Deputies"
+      }
+    },
+    {
+      "id": "PROB-M6-Q011",
+      "question": "Section 25(3)(b)-(c) and (e)-(f) MCA restrict deputy powers regarding CPF and insurance nominations. Can a deputy make, revoke, or change CPF nominations for P?",
+      "options": {
+        "A": "Yes, CPF nominations are property management powers.",
+        "B": "No, deputies have NO power to make, revoke, or change CPF nominations.",
+        "C": "Yes, with Central Provident Fund Board approval.",
+        "D": "Yes, for CPF but not insurance nominations."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Deputies cannot handle CPF/insurance nominations. The notes state: '(3)(b) NO power to make insurance nominations. (3)(e) NO power to make CPF nominations, or change a nomination.' Section 25(3) lists these prohibitions: '(b) making insurance nominations [s 132/133 Insurance Act]; (c) revoking insurance nominations; (e) making CPF memorandum/nomination; (f) revoking CPF memorandum/nomination.' Why prohibit these? CPF and insurance nominations are quasi-testamentary - they direct who receives CPF monies or insurance proceeds upon P's death. Like wills, they're personal decisions about post-death distribution. The law doesn't let deputies make these on P's behalf. If P made nominations when capable, they stand (unless P revokes, which P can't do if lacking capacity). If P never made nominations, CPF goes to Public Trustee for intestacy distribution (CPF Act s 25A); insurance pays estate. However, s 23(1)(i)-(j) and (l)-(m) list these as COURT powers - the court might make/revoke nominations in exceptional cases, but deputies cannot.",
+        "incorrect": {
+          "A": "This is incorrect because even though CPF is P's property/asset, nominations are restricted from deputy power. Section 23(1) lists court powers re property including (l) 'executing... CPF memorandum' and (m) 'revoking... CPF memorandum or nomination,' indicating these are property-related. But s 25(3)(e)-(f) prohibit giving these powers to deputies. The reason is CPF nominations' quasi-testamentary nature (directing post-death distribution). Deputies manage P's lifetime property, not make testamentary decisions. The answer incorrectly assumes all property-related powers are available to deputies.",
+          "C": "This is incorrect because CPF Board approval doesn't cure the s 25(3)(e)-(f) prohibition. The restriction is statutory (MCA s 25) - deputies simply cannot be given this power. Getting CPF Board's approval wouldn't change this. If CPF nomination is needed, the court (not deputy) must make it per s 23(1)(l)-(m). The court application would involve explaining to the court why a nomination is in P's best interests, and the court orders the nomination. CPF Board then processes per the court order. But the deputy cannot act even with CPF Board approval. The answer invents an approval workaround.",
+          "D": "This is incorrect because deputies are prohibited from BOTH CPF and insurance nominations. Section 25(3) lists separate prohibitions: '(b) making insurance nominations, (c) revoking insurance nominations' (s 132/133 Insurance Act), '(e) making CPF nominations, (f) revoking CPF nominations' (CPF Act). Both types are restricted. The rationale is the same - both are quasi-testamentary (directing death benefits). The answer incorrectly distinguishes CPF and insurance when both are prohibited."
+        },
+        "reference": "Section 25(3)(b)(c)(e)(f) MCA - Deputies NO Power re CPF or Insurance Nominations; Quasi-Testamentary Nature; Direct Post-Death Benefits; Section 23(1)(i)(j)(l)(m) - Court Can Make/Revoke Nominations; Deputies Cannot; If P Never Nominated: CPF to Public Trustee, Insurance to Estate; Existing Nominations Stand Unless Court Revokes"
+      }
+    },
+    {
+      "id": "PROB-M6-Q012",
+      "question": "Section 25(1) MCA imposes a restriction on when deputies can act. When must a deputy NOT make a decision for P?",
+      "options": {
+        "A": "When P's family disagrees with the decision.",
+        "B": "When the deputy knows or has reasonable grounds to believe that P has capacity in relation to the matter.",
+        "C": "When the decision involves spending more than $10,000.",
+        "D": "When the decision is about medical treatment."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Deputy cannot act if P has capacity for the matter. Section 25(1) MCA states: 'Deputy has NO power to make a decision for P in relation to a matter if the deputy knows or has reasonable grounds to believe that P has capacity in relation to the matter.' This is crucial - deputyship respects P's autonomy. Capacity is decision-specific (Re BKR) - P might lack capacity for complex financial decisions but have capacity for simple ones (choosing meals, clothing). The deputy must assess each decision: does P have capacity for THIS? If yes (or if deputy reasonably believes yes), the deputy CANNOT act - P must decide. This requires ongoing assessment. Example: P has dementia (deputy appointed for property). Deputy must decide whether to sell house. Before acting, deputy assesses: does P understand, retain, use/weigh, communicate about this sale? If P does (perhaps P is having a good day, or it's a simple decision P can handle), the deputy cannot make the decision. Only if P lacks capacity for this specific matter can the deputy act. Section 25(1) prevents deputies from overriding P's capable decisions.",
+        "incorrect": {
+          "A": "This is incorrect because family disagreement doesn't prevent deputy action. The deputy is appointed by court and authorized to make decisions per court order. Family members (unless they're co-deputies, donees, or relevant persons under s 6(9)) don't have veto power. If the deputy determines a decision is in P's best interests (after following s 6 duties, including consulting family per s 6(9)), the deputy can act despite family disagreement. Family views are ONE factor under s 6(9), not determinative. Section 25(1)'s restriction is about P's CAPACITY, not family consent. The answer incorrectly makes family agreement a precondition.",
+          "C": "This is incorrect because s 25(1) doesn't impose dollar thresholds. The restriction is based on P's capacity for the matter, not the amount involved. The deputy might handle a $100,000 transaction if P lacks capacity for it, or be prohibited from a $10 transaction if P has capacity for it. Decision-specific capacity determines deputy authority, not dollar amounts. That said, court orders might impose specific limits ('deputy authorized for transactions under $50k; above that, court approval required'), but this is case-specific court order terms, not a statutory s 25(1) rule. The answer invents a $10,000 threshold.",
+          "D": "This is incorrect because medical treatment decisions are among the matters deputies might handle (if appointed for personal welfare and authorized by court). Section 22(1)(d) lists court powers for personal welfare including 'give or refuse consent to treatment.' A deputy might be given this power (subject to s 25 restrictions - cannot refuse life-sustaining treatment per s 25(3)(g), cannot consent to MHCTA-regulated treatment). Section 25(1) applies to medical decisions too - if P has capacity to consent to/refuse a specific treatment, the deputy cannot override. But s 25(1) doesn't categorically prohibit deputy medical decisions. The answer incorrectly excludes all medical decisions."
+        },
+        "reference": "Section 25(1) MCA - Deputy NO Power to Decide if P Has Capacity for the Matter; Decision-Specific Capacity; Ongoing Assessment Required; Deputy Must Not Override P's Capable Decisions; Respects P's Autonomy; Re BKR - Capacity is Decision-Specific; P Might Have Capacity for Some Decisions Not Others; Good Days and Bad Days"
+      }
+    },
+    {
+      "id": "PROB-M6-Q013",
+      "question": "Section 25(6)-(10) MCA addresses deputy use of restraint on P. How many conditions must be satisfied for lawful restraint?",
+      "options": {
+        "A": "Two conditions (same as section 8 for carers).",
+        "B": "Four conditions: express court authority, P lacks capacity, necessary to prevent harm, proportionate response.",
+        "C": "Three conditions: court approval, family consent, medical necessity.",
+        "D": "No conditions - deputies can restrain as needed."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Four conditions for deputy restraint. Section 25(6)-(10) MCA state: '(6) A deputy may not do an act that is intended to restrain P unless 4 conditions are satisfied. (7) The first condition is that, in doing the act, the deputy is acting within the scope of an authority expressly conferred on the deputy by the court. (8) The second condition is that P lacks, or the deputy reasonably believes that P lacks, capacity in relation to the matter in question. (9) The third condition is that the deputy reasonably believes that it is necessary to do the act in order to prevent harm to P. (10) The fourth condition is that the act is a proportionate response to (a) the likelihood of P's suffering harm; or (b) the seriousness of that harm.' These are STRICTER than s 8 for carers (which has two conditions: necessary to prevent harm + proportionate). For deputies, two additional conditions: (1) EXPRESS COURT AUTHORITY - the court order must specifically authorize restraint (general deputy powers insufficient). (2) P lacks capacity or deputy reasonably believes so. These extra safeguards reflect that deputies wield significant authority and restraint is a serious interference with liberty.",
+        "incorrect": {
+          "A": "This is incorrect because deputies face FOUR conditions, not two. Section 8 (for carers) has two conditions: (1) reasonably believe necessary to prevent harm to P, (2) proportionate response. Section 25(6)-(10) (for deputies) adds two more: (1) express court authority, (2) P lacks capacity. Why stricter for deputies? Carers use restraint in immediate protection situations (P about to fall, P aggressive). Deputies might contemplate more systematic restraint (keeping P in care facility, preventing P from certain activities). The additional safeguards (court authorization, capacity assessment) prevent overuse. The answer incorrectly equates deputy restraint with carer restraint.",
+          "C": "This is incorrect because the four conditions are: express court authority, P lacks capacity, necessary to prevent harm, proportionate - NOT court approval, family consent, medical necessity. Sections 25(7)-(10) specify the actual conditions. 'Express court authority' (s 25(7)) means the court order appointing the deputy must include restraint power - it's about the initial authorization, not approval for each restraint incident. 'Family consent' is not a condition (though consulting family is part of best interests per s 6(9)). 'Medical necessity' is not the test - the test is 'necessary to prevent harm to P' (s 25(9)), which might or might not be medical. The answer invents different conditions.",
+          "D": "This is incorrect because s 25(6) explicitly states: 'A deputy may not do an act that is intended to restrain P unless 4 conditions are satisfied.' Restraint is NOT at the deputy's unlimited discretion. The four conditions (express court authority, P lacks capacity, necessary to prevent harm, proportionate) must ALL be satisfied. Restraint without satisfying these conditions is unlawful - the deputy might face liability, and the restraint might be assault/battery. The answer incorrectly suggests unrestricted restraint power."
+        },
+        "reference": "Section 25(6)-(10) MCA - Four Conditions for Deputy Restraint: (1) Express Court Authority, (2) P Lacks Capacity, (3) Necessary to Prevent Harm to P, (4) Proportionate Response; Stricter Than Section 8 for Carers (Two Conditions); Additional Safeguards for Deputy Restraint; Court Authorization Required; Section 8(4) - Restraint Definition"
+      }
+    },
+    {
+      "id": "PROB-M6-Q014",
+      "question": "Section 22(1) MCA lists court powers relating to personal welfare that may be conferred on deputies. Which of the following is included?",
+      "options": {
+        "A": "Deciding where P lives.",
+        "B": "Making financial investments for P.",
+        "C": "Executing a will for P.",
+        "D": "Consenting to P's marriage."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "Deciding where P lives is a personal welfare power. The notes state: 'Powers relating to personal welfare include (s 22(1) MCA): (a) where P lives; (b) P contact with any specified person; (c) prohibiting named person from contacting P; (d) give or refuse consent to treatment...; (e) give, refuse or revoke appropriate consent under Human Biomedical Research Act; (f) direct that person responsible for health care allow a different person to take over that responsibility.' These are the personal welfare powers courts can confer on personal welfare deputies. Residence (where P lives) is a core personal welfare matter. The deputy decides: P lives at home with support, with family, in assisted living, in nursing home. However, s 25(2)(a) restricts: 'Deputy has NO power to prohibit a named person from having contact with P' - so deputies can decide where P lives and whom P has contact with, but cannot PROHIBIT contact (that requires court order). And s 25(2)(b): deputies cannot direct changing healthcare provider (that also needs court order). These s 25(2) restrictions mean some s 22(1) powers are court-only, not delegable to deputies.",
+        "incorrect": {
+          "B": "This is incorrect because financial investments are PROPERTY AND AFFAIRS powers, not personal welfare. Section 23(1) (not s 22(1)) lists property/affairs powers including '(a) control and management of P's property' (investments fall here). Section 22(1) is for personal welfare (where P lives, P's care, contact, medical treatment). The answer confuses property and personal welfare powers.",
+          "C": "This is incorrect because executing wills is prohibited for deputies under s 25(3)(d), and even if it weren't, it would be a PROPERTY power (s 23(1)(k) lists it as court power re property), not a personal WELFARE power under s 22(1). Personal welfare powers (s 22(1)) are about P's care, residence, treatment during life. Executing a will is about post-death estate distribution (property matter). The answer categorizes will execution wrong and ignores the prohibition.",
+          "D": "This is incorrect because consenting to marriage is an EXCLUDED decision under s 26(a) MCA that cannot be authorized for anyone (donee, deputy, or court). Section 26(a): 'Nothing in this Act permits a decision on... consenting to marriage.' Marriage consent is not a personal welfare power; it's excluded from the entire MCA framework. The answer incorrectly treats marriage consent as a personal welfare power."
+        },
+        "reference": "Section 22(1) MCA - Personal Welfare Powers Courts Can Confer on Deputies: Where P Lives, Contact with Specified Persons, Prohibiting Contact, Consent to Treatment, Human Biomedical Research Consent, Direct Healthcare Provider Change; Section 25(2) - Restrictions: Deputies Cannot Prohibit Contact or Direct Provider Change; Section 26(a) - Marriage Excluded; Section 23(1) - Property Powers Separate"
+      }
+    },
+    {
+      "id": "PROB-M6-Q015",
+      "question": "Section 23(1) MCA lists court powers relating to property and affairs. Which of the following is included?",
+      "options": {
+        "A": "Deciding where P lives.",
+        "B": "The control and management of P's property.",
+        "C": "Consenting to P's medical treatment.",
+        "D": "Adopting a religion on P's behalf."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Control and management of P's property is a property power. The notes state: 'Powers relating to property and affairs include (s 23(1) MCA): (a) the control and management of P's property; (b) the sale, exchange, charging, gift or other disposition of P's property; (c) the acquisition of property in P's name or on P's behalf; (d) the carrying on, on P's behalf, of any profession, trade or business; (e)-(p) [various other property powers].' Section 23(1) lists extensive property powers the court can exercise (and might confer on deputies, subject to s 25 restrictions). Control and management (s 23(1)(a)) is the foundational property power - managing bank accounts, investments, real estate, personal property. Other powers include selling/buying property (s 23(1)(b)-(c)), running businesses (s 23(1)(d)), making contracts (s 23(1)(f)), paying debts (s 23(1)(g)), settling trusts (s 23(1)(h) - court can, deputies cannot per s 25(3)), CPF/insurance nominations (s 23(1)(i)-(j)(l)-(m) - court can, deputies cannot per s 25(3)), executing wills (s 23(1)(k) - court can, deputies cannot per s 25(3)(d)), legal proceedings (s 23(1)(p)).",
+        "incorrect": {
+          "A": "This is incorrect because deciding where P lives is a PERSONAL WELFARE power under s 22(1)(a), not a property power. Section 22(1) (personal welfare) and s 23(1) (property and affairs) are distinct. Residence, care, medical treatment are personal welfare. Finances, property, business are property and affairs. The answer misclassifies residence as property power.",
+          "C": "This is incorrect because medical treatment consent is a PERSONAL WELFARE power under s 22(1)(d), not a property power under s 23(1). Section 22(1)(d): 'give or refuse consent to treatment including conduct of clinical trial.' This is clearly personal welfare (about P's health and bodily integrity), not property. The answer misclassifies medical decisions as property power.",
+          "D": "This is incorrect because adopting religion is an EXCLUDED decision under s 26(e) MCA that cannot be authorized. Section 26(e): 'Nothing in this Act permits a decision on... adopting or renouncing a religion.' Religion is so personal that even if P lacks capacity, no one (donee, deputy, court) can choose P's religion. If P cannot decide, the decision simply cannot be made. This protects religious freedom. The answer incorrectly treats religion as a property power when it's actually excluded from all MCA powers."
+        },
+        "reference": "Section 23(1) MCA - Property/Affairs Powers Include: Control/Management, Sale/Purchase, Business, Contracts, Debts, Trusts, Nominations, Wills, Legal Proceedings; Section 23(1)(a) - Control and Management Foundational Power; Section 22(1) - Personal Welfare Separate; Section 26 - Excluded Decisions; Section 25(3) - Some Section 23 Powers Restricted for Deputies"
+      }
+    },
+    {
+      "id": "PROB-M6-Q016",
+      "question": "Applicant for deputyship is NOT related by blood or marriage to P. Under rule 176(3)(a) FJR, must the applicant apply for court permission to commence the deputyship application?",
+      "options": {
+        "A": "No, anyone can apply for deputyship without permission.",
+        "B": "Yes, applicants not related to P must apply for court permission to commence.",
+        "C": "Yes, all deputyship applications require preliminary permission.",
+        "D": "No, court permission is only required for property deputies."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Unrelated applicants need court permission. The notes state: 'The applicant for deputyship MUST apply to court for permission to commence application for deputyship, UNLESS the applicant is related by blood or marriage to P (r 176(3)(a) FJR) --> i.e. if applicant is related to P, can skip this preliminary step. --> documents evidencing this relationship must be provided together with the application to be appointed deputy.' So: (1) If applicant is related to P (blood or marriage) - NO preliminary permission needed, apply directly for deputyship (must provide documents proving relationship). (2) If applicant is NOT related to P - MUST first apply for court permission to commence. Why require permission for unrelated applicants? The court screens to ensure: (a) applicant has legitimate connection to P per s 38(3)(a), (b) reasons for application are proper per s 38(3)(b), (c) benefit to P per s 38(3)(c), (d) no alternative way to achieve benefit per s 38(3)(d). This prevents strangers with improper motives (access P's money, control P) from applying. Family are presumed to have legitimate interest; non-family must justify their application.",
+        "incorrect": {
+          "A": "This is incorrect because r 176(3)(a) FJR requires court permission for applicants not related to P. Not 'anyone can apply without permission' - only related persons can skip the permission step. Unrelated persons must first get court permission (preliminary application), and if granted, then file the main deputyship application. This two-step process for unrelated applicants ensures court oversight. The answer incorrectly allows unrestricted access.",
+          "C": "This is too broad. The notes state permission is required 'UNLESS the applicant is related by blood or marriage to P.' So related applicants do NOT need preliminary permission - they skip straight to the main application. Only unrelated applicants need the permission step. If ALL applications required permission, the 'unless related' exception would be meaningless. The answer incorrectly applies the permission requirement universally.",
+          "D": "This is incorrect because the permission requirement is based on the applicant's RELATIONSHIP to P, not the type of deputyship sought (property vs personal welfare). Rule 176(3)(a) and s 38(3) focus on applicant's connection to P, reasons, and benefit - these apply whether seeking property, personal welfare, or both types of deputyship. An unrelated applicant seeking personal welfare deputyship needs permission just as much as one seeking property deputyship. The answer incorrectly ties permission to deputyship type rather than applicant relationship."
+        },
+        "reference": "Rule 176(3)(a) FJR - Applicant Must Apply for Court Permission to Commence UNLESS Related to P by Blood or Marriage; Section 38(3) - Court Considers Applicant's Connection, Reasons, Benefit, Alternatives; Screens Unrelated Applicants; Prevents Improper Motives; Related Applicants Skip Permission Step; Two-Step Process for Unrelated; Provide Relationship Documents"
+      }
+    },
+    {
+      "id": "PROB-M6-Q017",
+      "question": "Section 38(1)-(2) MCA lists persons who do NOT require permission to apply to court for MCA powers. Which of the following is included?",
+      "options": {
+        "A": "Only family members related to P.",
+        "B": "P himself, donees of LPA, deputies, persons named in existing court orders, and the Public Guardian.",
+        "C": "Any person concerned about P's welfare.",
+        "D": "Only lawyers and doctors."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Listed persons don't need permission. The notes state: 'No permission is required for an application to the court for the exercise of any of its powers under this Act by: (a) P (i.e. P himself applies); (b) donee of LPA; (c) deputy; (d) person named in existing order of court; (e) Public Guardian (s 38(1) and 38(2) MCA).' These persons have inherent standing: (1) P - it's their own capacity/welfare, they can always apply (if capable of applying, they have capacity for that). (2) Donee - already authorized to act for P, can seek court guidance. (3) Deputy - already appointed, can seek variation/additional powers. (4) Person named in order - court has already involved them. (5) Public Guardian - statutory oversight role. Everyone else needs permission per s 38(3) (unless related to P per r 176(3)(a), which is a specific exception for deputyship applications). So for general MCA applications, the five categories don't need permission. For deputyship applications specifically, related persons also skip permission per r 176(3)(a).",
+        "incorrect": {
+          "A": "This is too narrow. While family members might not need permission for deputyship applications per r 176(3)(a) FJR (separate rule), s 38(1)-(2) lists FIVE categories who don't need permission for ANY MCA application: P, donees, deputies, persons named in orders, Public Guardian. These aren't limited to family. And family members NOT in these five categories (and not related for deputyship) still need permission. The answer incorrectly limits the exemption to family.",
+          "C": "This is too broad. Not 'any person concerned' - only the five specific categories in s 38(1)-(2). If any concerned person could apply without permission, courts would be flooded with applications from busybodies, estranged relatives, or persons with improper motives. Section 38(3) requires others to seek permission, proving connection, reasons, benefit, and lack of alternatives. This screens applications. The answer incorrectly allows universal standing.",
+          "D": "This is incorrect because lawyers and doctors (as professions) are not automatically exempt from needing permission. If a lawyer is P's donee or deputy, they fall under category (b) or (c) and don't need permission. If a doctor is treating P and needs a court order, they might apply under s 7 (care/treatment) but still need permission unless they're a donee/deputy/named person. Professional status doesn't create automatic standing. The five categories in s 38(1)-(2) are based on relationship to P or existing authority, not profession. The answer incorrectly exempts based on profession."
+        },
+        "reference": "Section 38(1)-(2) MCA - No Permission Required for: P, Donees, Deputies, Persons Named in Court Orders, Public Guardian; Inherent Standing for MCA Applications; Others Need Permission Per Section 38(3); Rule 176(3)(a) - Related Persons Also Skip Permission for Deputyship Applications; Screens Busybodies and Improper Motives"
+      }
+    },
+    {
+      "id": "PROB-M6-Q018",
+      "question": "Section 38(3) MCA sets out considerations for granting permission to apply. What must the court have regard to?",
+      "options": {
+        "A": "Only the applicant's financial resources.",
+        "B": "The applicant's connection with P, reasons for application, benefit to P, and whether benefit can be achieved in any other way.",
+        "C": "Only whether the applicant is a family member.",
+        "D": "The Public Guardian's recommendation."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Four factors under section 38(3). The notes state: 'Considerations of the court (s 38(3) MCA): In deciding whether to grant permission the court is to, in particular, have regard to – (a) the applicant's connection with the person to whom the application relates; (b) the reasons for the application; (c) the benefit to the person to whom the application relates of the proposed order or directions; and (d) whether the benefit can be achieved in any other way.' These factors screen applicants: (1) Connection - does applicant know P? Close friend? Professional carer? Distant acquaintance? Stranger? Closer connection suggests legitimate interest. (2) Reasons - why is applicant applying? Genuinely concerned for P's welfare? Wants access to P's money? Personal gain? Proper reasons required. (3) Benefit to P - will the proposed order help P? Necessary for P's care, property protection? Or unnecessary interference? (4) Alternatives - can benefit be achieved without court order? Is there a donee/deputy already? Can family handle it? Court intervention is last resort. The court weighs all four, ensuring only appropriate applications proceed.",
+        "incorrect": {
+          "A": "This is too narrow. While applicant's financial resources might be relevant to suitability if seeking appointment as deputy (can they manage P's property? might they steal?), s 38(3) doesn't list this as a permission criterion. The four factors are: connection, reasons, benefit, alternatives. Financial resources might relate to 'reasons' (ulterior motive?) but isn't a standalone factor. The answer incorrectly identifies a single non-statutory factor.",
+          "C": "This is too narrow. While family relationship is relevant to 'applicant's connection with P' (s 38(3)(a)), it's not the only consideration. Non-family might have strong connections (lifelong friend, long-term carer, trusted advisor). And family connection doesn't automatically grant permission - the court still considers reasons, benefit, and alternatives. An estranged son with bad reasons (wants P's money) won't get permission despite family connection. The answer reduces four factors to one partial factor.",
+          "D": "This is incorrect because Public Guardian's recommendation is not listed in s 38(3). The four factors are: connection, reasons, benefit, alternatives. The Public Guardian has a role in the MCA framework (supervising deputies, registering LPAs, issuing codes of practice), but doesn't make recommendations on permission applications under s 38(3). The court assesses the four factors independently. The answer invents a Public Guardian recommendation requirement."
+        },
+        "reference": "Section 38(3) MCA - Permission Factors: (a) Applicant's Connection with P, (b) Reasons for Application, (c) Benefit to P, (d) Whether Benefit Achievable Otherwise; Screens Applications; Ensures Legitimate Interest and Proper Purpose; Prevents Abuse; Court Intervention Last Resort; Four Factors Weighed Holistically"
+      }
+    },
+    {
+      "id": "PROB-M6-Q019",
+      "question": "Under section 24(11) MCA, the court may require a deputy to provide security and submit reports. To whom are reports submitted?",
+      "options": {
+        "A": "To the court directly.",
+        "B": "To the Public Guardian.",
+        "C": "To P's family members.",
+        "D": "To P's lawyer."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Reports submitted to Public Guardian. Section 24(11) MCA states: 'The court may require a deputy: (a) to give to the Public Guardian such security as the court thinks fit for the due discharge of the deputy's functions; and (b) to submit to the Public Guardian such reports at such times or at such intervals as the court may direct.' The Public Guardian is the MCA's oversight body. Deputies report to the Public Guardian (not directly to court), and the Public Guardian monitors compliance. Security (bond) ensures the deputy will properly discharge duties - if the deputy breaches, the security covers losses. Reports keep the Public Guardian informed of P's situation, deputy's actions, and use of P's funds. The Public Guardian can investigate concerns, require additional information, and bring issues to court if needed. This creates a supervisory structure: court appoints deputy and sets requirements (security, reporting) → deputy acts → Public Guardian monitors → Public Guardian alerts court to problems → court intervenes if needed.",
+        "incorrect": {
+          "A": "This is incorrect because s 24(11) specifies reports go to the Public Guardian, not the court. The court sets the reporting requirement ('at such times or at such intervals as the court may direct'), but the Public Guardian receives the reports. This makes sense - the Public Guardian is the administrative oversight body. The court handles judicial functions (appointments, disputes, orders). The Public Guardian handles administrative functions (monitoring, compliance, routine oversight). If every deputy report went to court, courts would be overwhelmed. The Public Guardian filters - routine reports go to Public Guardian; problems go to court. The answer incorrectly directs reports to court.",
+          "C": "This is incorrect because reports go to the Public Guardian (statutory oversight body), not P's family. While family might receive information about P's situation (and the deputy should communicate with family as part of s 6(9) consultation), the formal s 24(11) reports are to the Public Guardian. Family are not regulators - they can't enforce deputy duties or take official action on breaches. The Public Guardian can. The answer confuses family involvement (consultation, communication) with formal reporting and oversight.",
+          "D": "This is incorrect because reports go to the Public Guardian, not P's lawyer. P might not even have a lawyer. And if P does, the lawyer represents P's interests but isn't the oversight body. The Public Guardian is the statutory supervisor per s 24(11). The answer invents a lawyer reporting requirement."
+        },
+        "reference": "Section 24(11) MCA - Court May Require Deputy to Give Security and Submit Reports to Public Guardian; Public Guardian Monitors Deputies; Security for Due Discharge of Functions; Reports at Court-Directed Times/Intervals; Public Guardian Administrative Oversight; Court Judicial Oversight; Public Guardian Filters Issues for Court"
+      }
+    },
+    {
+      "id": "PROB-M6-Q020",
+      "question": "What documents must be filed with the court for a deputyship application?",
+      "options": {
+        "A": "Only an Originating Summons.",
+        "B": "Originating Summons (Form 217), Supporting Affidavit (Form 218), Doctor's Affidavit with Medical Report (Form 224), and Consent of Relevant Persons (Form 221).",
+        "C": "Only a medical report.",
+        "D": "An LPA and medical report."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Four key documents required. The notes state: 'Summary of documents to be filed in court: 1. OS (Form 217), 2. Supporting Affidavit (Form 218), 3. Doctor's affidavit exhibiting medical report (Form 224), 4. Consent of relevant persons (Form 221).' These documents serve different purposes: (1) Originating Summons (Form 217) - initiates the application, states what orders sought (declaration of incapacity, deputy appointment, specific powers), identifies P and proposed deputy. (2) Supporting Affidavit (Form 218) - provides facts: P's background, why P lacks capacity, why deputyship needed, searches (OPG for existing LPA/orders, Wills Registry), relevant persons' details. If multiple applicants, single joint affidavit (unless contentious). (3) Doctor's Affidavit with Medical Report (Form 224) - medical evidence of P's incapacity per s 4-5 MCA, distinguishing doctor's observations from information-based conclusions, opinion on capacity. (4) Consent of Relevant Persons (Form 221) - relevant persons' consent to application and dispensation of service. These collectively provide the court with legal, factual, and medical grounds for deputyship.",
+        "incorrect": {
+          "A": "This is too minimal. While the Originating Summons is required, it's insufficient alone. The court needs: (1) factual evidence (Supporting Affidavit), (2) medical evidence of incapacity (Doctor's Affidavit + Report), (3) relevant persons' positions (Consent Form). Without these, the court cannot assess whether P lacks capacity, whether deputyship is needed, or whether interested parties are notified. The answer underestimates documentation requirements.",
+          "C": "This is too minimal. While medical report is crucial (proves P's incapacity per s 4-5 MCA), it's insufficient alone. The court also needs: (1) OS (what orders sought), (2) Supporting Affidavit (factual background, why deputyship needed), (3) Consent forms (relevant persons' views). The medical report addresses WHETHER P lacks capacity; the other documents address WHETHER deputyship should be granted. The answer focuses on one of four documents.",
+          "D": "This is confused. If P has an LPA, deputyship generally isn't needed (the donee makes decisions). Deputyship applications occur when there's NO LPA or LPA is insufficient/invalid. The documents required are OS, Supporting Affidavit, Doctor's Affidavit, and Consents - not an LPA. The answer conflates LPA (alternative to deputyship) with deputyship requirements."
+        },
+        "reference": "Deputyship Application Documents: (1) Originating Summons Form 217 - Orders Sought, (2) Supporting Affidavit Form 218 - Facts and Searches, (3) Doctor's Affidavit with Medical Report Form 224 - Capacity Evidence, (4) Consent of Relevant Persons Form 221 - Interested Parties; Para 54 FJCPD; Four Documents Provide Legal, Factual, Medical Grounds"
+      }
+    },
+    {
+      "id": "PROB-M6-Q021",
+      "question": "The Supporting Affidavit (Form 218) for deputyship must exhibit search results. Which searches are required?",
+      "options": {
+        "A": "Only a medical report search.",
+        "B": "OPG search for registered LPA, OPG search for past MCA/MDTA orders, and Wills Registry search.",
+        "C": "Only an OPG search for LPA.",
+        "D": "Land Registry and bankruptcy searches."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Three searches required. The notes state: 'The following search results must be exhibited in the supporting affidavit: 1. Office of the Public Guardian search result showing if P has registered an LPA; 2. Office of the Public Guardian search result showing if there is a past Mental Capacity Act or Mental Disorders And Treatment Act Order in respect of P; and 3. Wills Registry search result showing if P has registered a Will.' These searches serve important purposes: (1) OPG LPA search - if P has a registered LPA, there might be a donee already authorized to act (making deputyship unnecessary or requiring explanation why donee cannot act). (2) OPG MCA/MDTA order search - if there's an existing order (prior deputy appointment, court order), the new application must address how it relates (variation? discharge? additional powers?). (3) Wills Registry search - if P has a will, it might indicate P's wishes about who should manage affairs (e.g., appointing executor, expressing preferences about property). These searches ensure the court has complete information about existing legal arrangements for P.",
+        "incorrect": {
+          "A": "This is incorrect because medical report search is not one of the required searches. The three searches are: OPG for LPA, OPG for orders, Wills Registry for will. Medical REPORT (evidencing P's incapacity) is required in the Doctor's Affidavit (Form 224), but there's no 'medical report search' to be conducted. The answer confuses the medical report (evidence of incapacity) with the searches (checking for existing legal arrangements).",
+          "C": "This is too narrow. While OPG search for LPA is required, it's only ONE of THREE searches. The Supporting Affidavit must also exhibit: (2) OPG search for past orders, (3) Wills Registry search. These additional searches are important - past orders might show existing deputyship or court involvement; registered will might indicate P's wishes about management. The answer omits two required searches.",
+          "D": "This is incorrect because Land Registry and bankruptcy searches are NOT listed as required searches for the Supporting Affidavit. The three required searches are: OPG for LPA, OPG for orders, Wills Registry for will. Land Registry and bankruptcy searches might be relevant in some cases (e.g., to identify P's property for management, or to assess proposed deputy's suitability if they're bankrupt), but they're not standard required searches listed in Para 54 FJCPD. The answer lists wrong searches."
+        },
+        "reference": "Para 54(7)-(8B) FJCPD - Supporting Affidavit Must Exhibit: (1) OPG Search for Registered LPA, (2) OPG Search for Past MCA/MDTA Orders, (3) Wills Registry Search; Ensures Court Knows Existing Legal Arrangements; LPA Might Make Deputyship Unnecessary; Past Orders Affect New Application; Will Indicates P's Wishes"
+      }
+    },
+    {
+      "id": "PROB-M6-Q022",
+      "question": "Section 25(2)(a) MCA restricts deputy powers. Can a deputy be given power to prohibit a named person from having contact with P?",
+      "options": {
+        "A": "Yes, this is a standard personal welfare power under section 22(1)(c).",
+        "B": "No, deputies have NO power to prohibit a named person from having contact with P.",
+        "C": "Yes, but only with court approval for each prohibition.",
+        "D": "Yes, if the named person is abusive."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Deputies cannot prohibit contact. Section 25(2)(a) MCA states: 'Deputy has NO power to prohibit a named person from having contact with P.' While s 22(1)(c) lists 'prohibiting named person from contacting P' as a court power, s 25(2)(a) prohibits delegating this power to deputies. The court can make orders prohibiting contact (e.g., restraining order against abusive relative), but deputies cannot. Why restrict this? Prohibiting contact is a serious interference with relationships - both P's relationship with the person and that person's rights. It requires judicial oversight. Deputies might misuse this power (preventing family from visiting P, isolating P, cutting P off from people who disagree with deputy). The court must assess: is prohibition necessary to protect P? Is the person genuinely harmful? Or is the deputy trying to control P's relationships? Only the court makes such determinations. If the deputy believes contact should be prohibited (person is abusive, exploitative, harmful), the deputy must apply to court for an order. The deputy cannot unilaterally prohibit.",
+        "incorrect": {
+          "A": "This is incorrect because while s 22(1)(c) lists prohibiting contact as a COURT power, s 25(2)(a) prohibits giving this power to DEPUTIES. Section 22(1)(c) shows the court CAN prohibit contact. But s 25(2)(a) says deputies CANNOT be given this power. The restriction recognizes prohibiting contact is serious (requires judicial decision), not delegable to deputies. The answer incorrectly treats court powers as automatically delegable to deputies, ignoring s 25(2) restrictions.",
+          "C": "This is partially correct in that court involvement is needed, but imprecise. Section 25(2)(a) prohibits the deputy from having the power to prohibit contact. If contact prohibition is needed, the deputy doesn't seek 'approval for each prohibition' (implying the deputy has power subject to approval). Rather, the deputy applies to court for the court to exercise its s 22(1)(c) power - the COURT prohibits contact (via court order), not the deputy with court approval. The distinction: deputy doesn't have delegated power subject to approval; court retains the power and exercises it directly. The answer suggests deputy power with approval, when actually it's court power not delegable.",
+          "D": "This is incorrect because s 25(2)(a) is absolute - 'NO power to prohibit' - no exceptions for abusive persons. Even if the person is clearly abusive and prohibition is obviously in P's best interests, the deputy cannot prohibit contact. The proper procedure: deputy applies to court, explains the person is abusive, seeks court order prohibiting contact per s 22(1)(c). The court assesses and makes the order if satisfied. The deputy then enforces the court order (but it's the court's order, not the deputy's prohibition). The answer invents an abuse exception."
+        },
+        "reference": "Section 25(2)(a) MCA - Deputies NO Power to Prohibit Named Person from Contacting P; Section 22(1)(c) - Court Can Prohibit Contact; Serious Interference Requires Judicial Oversight; Prevents Deputy Isolation of P; Deputy Must Apply to Court for Prohibition Order; Court Assesses Necessity; No Exceptions"
+      }
+    },
+    {
+      "id": "PROB-M6-Q023",
+      "question": "Section 25(2)(b) MCA restricts deputy powers. Can a deputy be given power to direct that the person responsible for P's health care be changed?",
+      "options": {
+        "A": "Yes, this is a personal welfare power.",
+        "B": "No, deputies have NO power to direct person responsible for health care to change.",
+        "C": "Yes, but only if the current healthcare provider is incompetent.",
+        "D": "Yes, with the healthcare provider's consent."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Deputies cannot direct healthcare provider change. Section 25(2)(b) MCA states: 'Deputy has NO power to direct person responsible for health care to change person responsible.' While s 22(1)(f) lists 'direct that person responsible for health care allow a different person to take over that responsibility' as a court power, s 25(2)(b) prohibits giving this power to deputies. The court can order healthcare provider changes, but deputies cannot. Why? Changing healthcare providers is significant - it affects P's treatment, care continuity, and professional relationships. It might involve complex medical judgments (is current provider incompetent? would change benefit P?). Deputies might misuse this power (fire good providers who question deputy's decisions, hire compliant providers who rubber-stamp). Judicial oversight is needed. If the deputy believes the healthcare provider should be changed (incompetence, conflict with P's needs, better alternatives available), the deputy must apply to court for an order directing the change.",
+        "incorrect": {
+          "A": "This is incorrect because while changing healthcare providers relates to personal welfare, s 25(2)(b) specifically prohibits deputies from having this power. Section 22(1)(f) shows it's a COURT power for personal welfare, but s 25(2)(b) says deputies cannot be given it. Personal welfare powers are not uniform - some can be delegated to deputies (deciding where P lives, consenting to treatment), others are court-only (prohibiting contact, directing provider change). The answer incorrectly assumes all personal welfare powers are delegable.",
+          "C": "This is incorrect because s 25(2)(b) is absolute - 'NO power' - no exceptions for incompetent providers. Even if the current provider is clearly incompetent and change is obviously in P's best interests, the deputy cannot unilaterally direct the change. The proper procedure: deputy applies to court (or complains to medical authorities/hospital administration), court assesses, court makes order directing change per s 22(1)(f). The deputy then facilitates the change per court order. The answer invents an incompetence exception.",
+          "D": "This is incorrect because provider consent doesn't cure the s 25(2)(b) prohibition. Deputies cannot direct provider changes even with consent. If the current provider agrees to step aside and a new provider agrees to take over, this might happen through normal medical channels (patient transfer, provider withdrawal) without needing deputy direction. But the deputy doesn't have power to 'direct' this under s 25(2)(b). If there's any dispute or the change requires legal authority, the court must make the order. The answer invents a consent exception."
+        },
+        "reference": "Section 25(2)(b) MCA - Deputies NO Power to Direct Healthcare Provider Change; Section 22(1)(f) - Court Can Direct Provider Change; Complex Medical Judgments Require Judicial Oversight; Prevents Deputy Misuse; Deputy Must Apply to Court; No Exceptions; Court Assesses Provider Competence and Change Benefit"
+      }
+    },
+    {
+      "id": "PROB-M6-Q024",
+      "question": "Section 25(4) MCA addresses conflicts between donees and deputies. If P has both an LPA donee and a court-appointed deputy, whose decisions prevail?",
+      "options": {
+        "A": "The deputy's decisions prevail as court-appointed.",
+        "B": "The donee's decisions prevail - the deputy may not make decisions inconsistent with the donee's decisions within the donee's authority.",
+        "C": "The decisions with the most recent date prevail.",
+        "D": "The court must resolve each conflict."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Donee's decisions prevail over deputy's. Section 25(4) MCA states: 'A deputy may not be given power to make a decision on behalf of P which is inconsistent with a decision made by the donee of a lasting power of attorney granted by P (or, if there is more than one donee, by any of them) that is within the scope of the donee's authority and in accordance with this Act.' This establishes hierarchy: donee > deputy. Why? The donee was CHOSEN BY P (while P had capacity) - P's autonomy and choice are respected. The deputy was APPOINTED BY COURT (after P lost capacity) - not P's choice but court's judgment. When P's choice (donee) conflicts with court's choice (deputy), P's choice prevails. Example: LPA donee decides P should not sell house. Court later appoints deputy for property who wants to sell house. Deputy cannot sell - the donee's decision stands. If the deputy believes the donee's decision is wrong, the deputy must apply to court for declaration (s 19) or to have the LPA revoked (s 17) - but cannot unilaterally override. This protects P's choices made while capable.",
+        "incorrect": {
+          "A": "This reverses the hierarchy. While the deputy is court-appointed (might suggest greater authority), s 25(4) subordinates deputies to donees. The LPA reflects P's choice when capable - this is privileged over the court's later choice of deputy. Court appointment doesn't trump P's autonomy. If P appointed a donee while capable, that choice is respected. The deputy must work within the donee's decisions. The answer incorrectly prioritizes court appointment over P's choice.",
+          "C": "This is incorrect because s 25(4) doesn't use a 'most recent' test. It's not about timing but about authority source. The donee's authority comes from P's choice (LPA granted by P per s 25(4)). The deputy's authority comes from court (appointed per s 20-21). P's choice prevails even if it's older. Example: P created LPA in 2020 (donee appointed). P lost capacity in 2023. Court appointed deputy in 2024. The 2024 deputy cannot override 2020 donee's decisions - the donee's decisions (though from earlier LPA) prevail. The answer incorrectly applies a chronological test.",
+          "D": "This is partially correct but incomplete. If there's a conflict and uncertainty, court resolution might be sought. But s 25(4) provides a default rule: donee's decisions prevail. The deputy cannot make inconsistent decisions. If the deputy disagrees with the donee, the deputy can apply to court (s 19 declaration on lawfulness, s 17 application to revoke LPA if donee is acting improperly). The court then resolves. But absent court intervention, the donee's decision stands per s 25(4). The answer treats every conflict as requiring court resolution, when s 25(4) provides a default (donee prevails)."
+        },
+        "reference": "Section 25(4) MCA - Deputy May Not Make Decision Inconsistent with Donee's Decision Within Donee's Authority; Donee Prevails Over Deputy; P's Choice (Donee) Trumps Court's Choice (Deputy); Respects P's Autonomy When Capable; Deputy Must Apply to Court if Disagrees; Cannot Unilaterally Override; Hierarchy: Donee > Deputy"
+      }
+    },
+    {
+      "id": "PROB-M6-Q025",
+      "question": "Section 25(3)(g) MCA restricts deputy powers regarding life-sustaining treatment. Can a deputy be given power to refuse consent to life-sustaining treatment?",
+      "options": {
+        "A": "Yes, if it's in P's best interests.",
+        "B": "No, deputies may not be given power to refuse consent to life-sustaining treatment or treatment preventing serious deterioration.",
+        "C": "Yes, but only with family consent.",
+        "D": "Yes, for personal welfare deputies but not property deputies."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Deputies cannot refuse life-sustaining treatment. Section 25(3)(g) MCA states: 'A deputy may not be given powers with respect to... (g) the carrying out or continuation of – (i) life-sustaining treatment on P... or (ii) any other treatment on P which a person providing health care reasonably believes is necessary to prevent a serious deterioration in P's condition.' This prohibits deputies from refusing: (1) life-sustaining treatment (ventilation, resuscitation, dialysis, feeding tubes), (2) treatment preventing serious deterioration (antibiotics for severe infection, surgery for acute condition). These decisions can mean life or death. The law doesn't trust deputies (court-appointed, not P's choice) with such grave decisions. Even if refusal seems in P's best interests (P is terminally ill, suffering, treatment futile), deputies cannot refuse. However, the COURT can make these decisions per s 22(1)(d) (court power to 'give or refuse consent to treatment'). If life-sustaining treatment refusal is appropriate, application must be made to court. Compare donees: they also cannot refuse life-sustaining treatment unless LPA expressly authorizes (s 13(10)). Deputies have no equivalent authorization mechanism - they simply cannot have this power at all per s 25(3)(g).",
+        "incorrect": {
+          "A": "This is incorrect because s 25(3)(g) absolutely prohibits this power for deputies, even if in P's best interests. The section states: 'A deputy may not be given powers with respect to...' - categorical prohibition. Best interests doesn't override this. If refusing life-sustaining treatment IS in P's best interests (P is dying, treatment prolongs suffering, P previously expressed wish to refuse), the proper procedure is court application. The court assesses best interests per s 6 and makes the decision per s 22(1)(d). Deputies cannot make this decision even with impeccable best interests reasoning. The answer incorrectly treats best interests as sufficient.",
+          "C": "This is incorrect because family consent doesn't authorize deputies to have this power. Section 25(3)(g) prohibits giving this power to deputies - full stop. No exceptions for family consent. Even if all family members agree 'the deputy should be able to refuse life-sustaining treatment,' the court cannot confer this power on the deputy. It violates s 25(3)(g). If the family and deputy agree treatment should be refused, they must apply to court for the court to make this decision per s 22(1)(d). The answer invents a family consent exception.",
+          "D": "This is incorrect because the prohibition applies to ALL deputies. Section 25(3)(g) doesn't distinguish between personal welfare and property deputies. While life-sustaining treatment is a personal welfare matter, even personal welfare deputies cannot refuse it. This contrasts with most personal welfare powers (deciding where P lives, consenting to routine treatment) which can be delegated to personal welfare deputies. Life-sustaining treatment refusal is so serious that it's court-only, not delegable to any deputy. The answer incorrectly creates a deputy-type distinction."
+        },
+        "reference": "Section 25(3)(g) MCA - Deputies May Not Be Given Power re Life-Sustaining Treatment or Treatment Preventing Serious Deterioration; Absolute Prohibition; Life/Death Decisions Too Grave for Deputies; Section 22(1)(d) - Court Can Give/Refuse Consent to Treatment; Deputy Must Apply to Court; Contrast Section 13(10) - Donees Can Refuse if LPA Expressly Authorizes; Deputies Have No Authorization Mechanism"
+      }
+    },
+    {
+      "id": "PROB-M6-Q026",
+      "question": "Under section 20(7) MCA, can a court order appointing a deputy be varied or discharged?",
+      "options": {
+        "A": "No, deputy appointments are permanent.",
+        "B": "Yes, an order of the court may be varied or discharged by a subsequent order.",
+        "C": "Yes, but only if P regains capacity.",
+        "D": "No, unless the deputy consents."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Orders can be varied or discharged. Section 20(7) MCA states: 'An order of the court may be varied or discharged by a subsequent order.' This provides flexibility. Circumstances change - P's needs evolve, the deputy's situation changes, issues arise. The court can: (1) VARY the order - modify the deputy's powers (expand, restrict, change scope/duration), change how multiple deputies act (jointly to severally), add/remove successor deputies. (2) DISCHARGE the order - revoke the deputyship entirely (if P regains capacity, if deputyship no longer needed, if deputy is unsuitable and no replacement available). Applications for variation/discharge can be made by: P (if has capacity), the deputy, family, Public Guardian, or other interested persons (with court permission per s 38). The court assesses whether variation/discharge is in P's best interests. This ongoing jurisdiction ensures deputyship remains appropriate and responsive to changing circumstances.",
+        "incorrect": {
+          "A": "This is incorrect because s 20(7) explicitly allows variation and discharge. Deputy appointments are not permanent - they're subject to ongoing court supervision and modification. This contrasts with LPAs (which are revocable by donor if capable per s 15(2), or by court per s 17(4), but not 'varied' - LPAs are either valid as created or revoked). Deputyship is more flexible - the court can adjust powers as needed. The answer incorrectly treats deputyship as immutable.",
+          "C": "This is too restrictive. While P regaining capacity is one ground for discharging deputyship (if P has capacity, no deputy needed per s 25(1)), it's not the ONLY ground for variation/discharge. Section 20(7) is unconditional: orders 'may be varied or discharged' - period. Other grounds: deputy becomes unsuitable, deputy dies, P's needs change (needs more/fewer powers), family situation changes, deputy wants to resign. The court can vary/discharge for any sufficient reason, not only P's capacity restoration. The answer incorrectly limits variation/discharge to one scenario.",
+          "D": "This is incorrect because court orders can be varied/discharged without deputy consent. The court has inherent jurisdiction over its own orders. If P, family, or Public Guardian applies for variation/discharge showing good grounds (deputy is mismanaging, deputy unfit, P's needs changed), the court can vary/discharge despite deputy's objection. Deputy consent might be relevant (if deputy agrees variation is needed, smoother process), but it's not required. The court acts in P's best interests, not based on deputy's preferences. The answer incorrectly makes deputy consent a prerequisite."
+        },
+        "reference": "Section 20(7) MCA - Court Order May Be Varied or Discharged by Subsequent Order; Flexibility for Changing Circumstances; Vary: Modify Powers, Scope, Duration; Discharge: Revoke Deputyship Entirely; Applications by P, Deputy, Family, Public Guardian; Court Assesses Best Interests; Ongoing Court Supervision; Not Permanent or Immutable"
+      }
+    },
+    {
+      "id": "PROB-M6-Q027",
+      "question": "Section 25A MCA addresses professional deputies. What must a person do to offer deputy services for remuneration?",
+      "options": {
+        "A": "Nothing special - anyone can charge fees for deputy services.",
+        "B": "Register with the Public Guardian as a professional deputy.",
+        "C": "Obtain court approval for each deputy appointment.",
+        "D": "Be a lawyer or accountant."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Must register with Public Guardian. Section 25A(1) MCA states: 'Any person who intends to offer and provide the services of a deputy for remuneration must register with the Public Guardian as a professional deputy.' And s 25A(2): 'The Public Guardian may register a person as a professional deputy upon being satisfied that the person meets all the prescribed criteria.' Professional deputyship is regulated: (1) Person must apply to Public Guardian for registration. (2) Public Guardian assesses whether person meets prescribed criteria (qualifications, experience, character, financial soundness). (3) If satisfied, Public Guardian registers the person. (4) Registration may be subject to terms and conditions. (5) Public Guardian can cancel registration upon request or prescribed events (misconduct, insolvency, complaints). (6) Aggrieved persons can appeal to Minister. This regulatory framework ensures professional deputies are qualified and accountable. Unregistered persons cannot offer deputy services for remuneration - if they do, they might face penalties. Once registered, the person can be appointed as a professional deputy, receiving remuneration per s 24(9).",
+        "incorrect": {
+          "A": "This is incorrect because s 25A(1) requires registration with Public Guardian. Not 'anyone can charge fees' - only registered professional deputies can charge. Offering deputy services for remuneration without registration violates s 25A. This protects vulnerable persons (P and family) from unqualified or unscrupulous persons offering deputy services. The registration requirement ensures: qualifications, vetting, ongoing supervision, accountability. The answer incorrectly allows unregulated fee-charging.",
+          "C": "This is incorrect because while court approval is needed to APPOINT a deputy (whether professional or non-professional), it's not needed for the person to OFFER deputy services. Section 25A regulates offering services (must register with Public Guardian). Once registered as professional deputy, the person can offer services. When someone (family, P before incapacity) wants to use their services, they apply to court for deputy appointment, and the court decides whether to appoint this professional deputy. So: (1) Registration with Public Guardian - prerequisite to offer services. (2) Court appointment - case-by-case for each P. The answer conflates offering services (Public Guardian registration) with appointment (court approval).",
+          "D": "This is incorrect because s 25A doesn't limit professional deputies to specific professions. While lawyers and accountants often serve as professional deputies (relevant expertise), other persons can also register (social workers, professional trustees, experienced individuals). The Public Guardian assesses prescribed criteria (s 25A(2)) - these likely include qualifications, experience, character, but don't necessarily require being a lawyer/accountant. Diverse professional backgrounds might be suitable for different types of deputyship (financial expert for property deputy, healthcare professional for welfare deputy, etc.). The answer incorrectly limits professional deputies to two professions."
+        },
+        "reference": "Section 25A MCA - Professional Deputies Must Register with Public Guardian; Public Guardian Assesses Prescribed Criteria; Registration May Have Terms/Conditions; Can Be Cancelled; Regulates Deputy Services Marketplace; Ensures Qualifications and Accountability; Section 24(9) - Professional Deputies Entitled to Remuneration; Protects Vulnerable Persons from Unqualified Services"
+      }
+    },
+    {
+      "id": "PROB-M6-Q028",
+      "question": "Under Para 50 FJCPD, who are 'relevant persons' that should typically be served with the deputyship application?",
+      "options": {
+        "A": "Only P's spouse and children.",
+        "B": "P's spouse, children (21+), parents/guardians, siblings (21+), close relatives/friends, persons with duty to support P, persons who will benefit from P's estate, and persons responsible for P's care.",
+        "C": "Only immediate family members.",
+        "D": "Anyone who knows P."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Broad category of relevant persons. The notes state: 'Who are \"relevant persons\" (Para 50(1)-(3), (6), FJCPD): Persons who have an involvement in P's life and/or who are likely to have an interest in the application. Often, P's immediate family members... includes – P's spouse, P's children (aged 21 and above), P's parents / guardians, P's brothers & sisters (aged 21 and above)... Persons who are likely to have an interest in the application: any other relatives or friends who have a close relationship with P; any person who has a legal duty to support P; any person who will benefit from P's estate; and any person who is responsible for P's care.' And: 'Para 50(9), FJCPD: An organisation providing residential accommodation to P is considered a relevant person.' This is broad - immediate family + close relatives/friends + persons with legal/financial/care connection to P. Why broad? These persons: (1) might have information about P's capacity/wishes, (2) might be affected by the application (deputyship affects family dynamics, estate distribution), (3) should have opportunity to support or object. Service ensures they're informed.",
+        "incorrect": {
+          "A": "This is too narrow. While spouse and children are core relevant persons (immediate family), Para 50 includes many others: parents, siblings, close relatives/friends, persons with duty to support P, beneficiaries under P's will/intestacy, carers, care facilities. The broad definition ensures all interested parties are notified. The answer incorrectly limits to spouse and children.",
+          "C": "This is too narrow. While immediate family (spouse, children, parents, siblings - all 21+) are presumed relevant persons, Para 50 extends beyond them to: close relatives/friends, persons with support duty, estate beneficiaries, carers, care facilities. The notes state immediate family are 'often' relevant persons, but there are others. The answer incorrectly limits to immediate family.",
+          "D": "This is too broad. Not 'anyone who knows P' - the standard is 'persons who have an involvement in P's life and/or who are likely to have an interest in the application.' A casual acquaintance who knows P but has no relationship, care responsibility, or interest in the application is not a relevant person. The court would be serving hundreds of people if 'anyone who knows P' were included. The categories are defined: family, close relationships, legal/financial connections, carers. The answer incorrectly includes all acquaintances."
+        },
+        "reference": "Para 50 FJCPD - Relevant Persons: Spouse, Children 21+, Parents, Siblings 21+, Close Relatives/Friends, Persons with Duty to Support P, Estate Beneficiaries, Persons Responsible for Care, Residential Care Organizations; Involvement in P's Life or Interest in Application; Presumption for Immediate Family But Rebuttable; Broad to Ensure Interested Parties Notified"
+      }
+    },
+    {
+      "id": "PROB-M6-Q029",
+      "question": "Para 50 FJCPD creates a presumption that immediate family members are relevant persons who should be served. Can this presumption be rebutted?",
+      "options": {
+        "A": "No, immediate family must always be served.",
+        "B": "Yes, the presumption may be rebutted if circumstances indicate the immediate family member had little to no involvement in P's life and shown no inclination to be involved.",
+        "C": "Yes, but only with court approval.",
+        "D": "No, the presumption is absolute."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Presumption is rebuttable. The notes state: 'there is a presumption that immediate family members are likely to have an interest in the application, but this may be REBUTTED if the applicant is aware of circumstances which reasonably indicate that P's immediate family should NOT be served (e.g. little to no involvement in P's life and shown no inclination).' Example: P's adult child emigrated 30 years ago, had no contact with P since, never visited, never called, never provided support. This child might not be a relevant person despite being immediate family - they've shown no interest in P's life. The applicant can explain in the Supporting Affidavit: 'P's child X had no involvement, no inclination to be involved, so not served as relevant person.' The court assesses whether the rebuttal is justified. If unjustified (the child did maintain contact), the court might require service. But if justified, service on estranged family is unnecessary. The presumption protects against excluding family capriciously while allowing exclusion when genuinely uninvolved.",
+        "incorrect": {
+          "A": "This is incorrect because the notes state the presumption 'may be REBUTTED' in certain circumstances. If a family member has had no involvement in P's life and shown no inclination, serving them might be pointless (they won't respond) or even harmful (creates delay, might upset P if mentioned). The presumption is strong (immediate family usually do care about P), but it yields to evidence of non-involvement. The answer incorrectly makes the presumption absolute.",
+          "C": "This is incorrect because the applicant can rebut the presumption in the Supporting Affidavit without separate court approval. The process: applicant explains in Supporting Affidavit why certain immediate family are not served (no involvement, no inclination), court reviews explanation when considering the application, court might question or require service if explanation insufficient. There's no separate 'approval to rebut presumption' application. The court evaluates the rebuttal as part of reviewing the main application. The answer invents a court approval requirement.",
+          "D": "This is incorrect for the same reason as A. The notes explicitly state the presumption 'may be REBUTTED.' Absolute presumptions cannot be rebutted. Rebuttable presumptions (like this one) can be displaced by contrary evidence. The answer incorrectly characterizes the presumption as absolute."
+        },
+        "reference": "Para 50 FJCPD - Presumption Immediate Family Are Relevant Persons; Rebuttable if Little/No Involvement and No Inclination; Rebuttal in Supporting Affidavit; Court Assesses Justification; Examples: Estranged, Emigrated, No Contact; Balances Inclusion with Practicality; Prevents Capricious Exclusion; Allows Exclusion When Genuinely Uninvolved"
+      }
+    },
+    {
+      "id": "PROB-M6-Q030",
+      "question": "Relevant person is served with the deputyship application and wants to object. Under rule 180(1) FJR, what must they do?",
+      "options": {
+        "A": "File a separate lawsuit.",
+        "B": "Apply to court within 21 days after service to be joined as a party to the proceedings.",
+        "C": "Send a letter to the Public Guardian.",
+        "D": "Attend the hearing and state their objection orally."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Apply to be joined within 21 days. The notes state: 'Objection by relevant person (Para 53, FJCPD): A relevant person served with an application may object to the whole or part of the application – must apply to Court within 21 days after the date he was served with the application, to be joined as a party. \"Where a relevant person served with an application under rule 179(1) wishes to object to the application or any part of it, he must apply to the Court, within 21 days after the date on which he was served with the application, to be joined as a party to the proceedings.\" (r 180(1) FJR).' This procedure allows relevant persons to participate. If a family member disagrees with the deputyship (believes P has capacity, proposed deputy unsuitable, powers too broad), they apply to be joined as party within 21 days of service. Once joined, they can file affidavits, attend hearings, cross-examine, make submissions. The court considers their objections when deciding whether to grant deputyship. The 21-day deadline ensures timely objections - applications can't be held up indefinitely by late objections.",
+        "incorrect": {
+          "A": "This is incorrect because objections are made within the existing deputyship proceedings, not via separate lawsuit. Rule 180(1) FJR provides the mechanism: apply to be joined as party in the deputyship application. This is efficient - all issues (P's capacity, deputy suitability, powers scope, objections) are resolved in one proceeding. Filing a separate lawsuit would create parallel proceedings, potential conflicting decisions, and inefficiency. The answer incorrectly suggests separate litigation.",
+          "C": "This is incorrect because objections go to the court (applying to be joined per r 180(1)), not to the Public Guardian. The Public Guardian has an administrative/supervisory role (registering LPAs, monitoring deputies), but doesn't adjudicate deputyship applications - the court does. If a relevant person objects, they must engage with the court process (apply to be joined), not write to the Public Guardian. The Public Guardian isn't the decision-maker for deputyship appointments. The answer misdirects objections to the wrong body.",
+          "D": "This is insufficient. While the relevant person could attend the hearing and state objections orally, r 180(1) requires a more formal process: apply to be joined as party. This gives the objector official status in the proceedings, with rights to file affidavits, see all documents, cross-examine, make full submissions. Simply attending and making oral statements (as a non-party observer) is less effective - the court might not consider such statements as formal evidence or submissions. The answer understates the procedural requirements."
+        },
+        "reference": "Rule 180(1) FJR and Para 53 FJCPD - Relevant Person Objecting Must Apply to Be Joined as Party Within 21 Days of Service; File Affidavits and Participate Fully; Court Considers Objections; Timely Objections; Single Proceeding Resolves All Issues; Not Separate Lawsuit or Informal Letter"
+      }
+    },
+    {
+      "id": "PROB-M6-Q031",
+      "question": "Under Para 54(9)-(9A) FJCPD, the Doctor's Affidavit and Medical Report must contain a clear opinion on what matters?",
+      "options": {
+        "A": "Only P's medical diagnosis.",
+        "B": "Whether P lacks capacity in relation to the matters specified in the application, and P's prognosis (whether P is likely to regain capacity).",
+        "C": "Only P's prognosis.",
+        "D": "The proposed deputy's suitability."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Opinion on capacity and prognosis required. The notes state: 'Must contain a clear opinion as to: a. Whether P lacks capacity in relation to the matters specified in the application; b. P's prognosis – i.e. whether he is likely to regain capacity.' These are the two critical questions: (1) CURRENT CAPACITY - Does P lack capacity for the decisions in question? The doctor applies s 4-5 MCA: functional assessment (can P understand, retain, use/weigh, communicate?), clinical assessment (mental impairment?), causal connection (inability because of impairment?). The opinion must be decision-specific - 'P lacks capacity to manage finances' or 'P lacks capacity to consent to medical treatment' (matching the application scope). (2) PROGNOSIS - Will P regain capacity? When? This informs: (a) whether deputyship should be granted (if P will regain capacity soon, maybe court should make specific decisions per s 20(2)(a) instead of appointing deputy), (b) duration of deputy powers (temporary vs indefinite per s 20(4)(b)), (c) best interests per s 6(3) (consider future capacity). The doctor also must 'distinguish doctor's own observations and conclusions on examination of P, from conclusions based on information given to him' - clarity on evidence basis.",
+        "incorrect": {
+          "A": "This is too narrow. While medical diagnosis is relevant (what is P's impairment?), the required opinion is broader: (1) Does P lack capacity for the specified matters? (2) Will P regain capacity? Diagnosis alone is insufficient. A person with dementia diagnosis might retain capacity for some decisions. The doctor must apply the functional test (s 5(1)) and opine on capacity specifically. The answer focuses on diagnosis when capacity opinion is required.",
+          "C": "This is too narrow. Prognosis (will P regain capacity?) is ONE of TWO required opinions. The other is: does P CURRENTLY lack capacity for the specified matters? Both are needed. Current capacity justifies the application. Prognosis informs the deputyship structure (temporary/indefinite, specific decisions vs deputy appointment). The answer omits current capacity opinion.",
+          "D": "This is incorrect because the doctor's opinion is about P's CAPACITY, not the proposed deputy's suitability. Deputy suitability is assessed by the court based on the Supporting Affidavit (applicant's connection, reasons, proposed deputy's background) and other evidence. The doctor is not asked to opine on deputy suitability - that's not a medical question. The doctor opines on medical/capacity questions only. The answer misidentifies the doctor's role."
+        },
+        "reference": "Para 54(9)-(9A) FJCPD - Doctor's Opinion Required on: (1) Whether P Lacks Capacity for Specified Matters, (2) P's Prognosis (Likely to Regain Capacity?); Apply Sections 4-5 MCA; Decision-Specific Capacity Opinion; Prognosis Informs Deputyship Duration and Structure; Distinguish Observations from Information-Based Conclusions; Must Be Current (Not Over 6 Months Old)"
+      }
+    },
+    {
+      "id": "PROB-M6-Q032",
+      "question": "Para 54 FJCPD requires the medical report to be current. What is the time limit?",
+      "options": {
+        "A": "Not more than 3 months before application.",
+        "B": "Not more than 6 months before the date of application.",
+        "C": "Not more than 1 year before application.",
+        "D": "No time limit."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Medical report must be within 6 months. The notes state: 'Must be current – not more than 6 months before the date of application. Should be based on a recent examination of P by the doctor making the report and it should contain sufficient information to justify the doctor's opinions and conclusions.' The 6-month limit ensures the capacity assessment is recent and relevant. Capacity can fluctuate - a person assessed 2 years ago might have different capacity now (deteriorated further, or improved). The court needs current information. The doctor should examine P recently (shortly before the report), not rely on old examinations or outdated medical records. The report must contain: (1) when P was examined, (2) what the doctor observed (P's responses, behavior, cognitive function), (3) what information the doctor relied on (medical records, family reports - distinguished from direct observations), (4) opinion on current capacity, (5) prognosis. If the report is over 6 months old when the application is filed, it won't satisfy Para 54 - the applicant must obtain an updated report.",
+        "incorrect": {
+          "A": "This is too strict. While 3 months might be ideal for very up-to-date assessment, Para 54 allows up to 6 months. The rule balances currency (capacity assessments should be recent) with practicality (getting appointments with specialists, drafting reports, preparing applications takes time). Six months is recent enough for most cases while allowing reasonable preparation time. The answer imposes a stricter limit than the rule.",
+          "C": "This is too lenient. One year is too long - capacity can change significantly in a year. A person with early dementia one year ago might have advanced dementia now. Or a person with depression might have recovered. The court needs current information to assess whether P lacks capacity NOW and whether deputyship is needed NOW. Para 54's 6-month limit ensures reasonable currency. The answer allows stale reports.",
+          "D": "This is incorrect because Para 54 explicitly states: 'not more than 6 months before the date of application.' There IS a time limit. Without a limit, applicants could use years-old reports, providing outdated capacity information. The court's decision would be based on P's past capacity, not current capacity. The 6-month limit is mandatory. The answer incorrectly suggests no limit."
+        },
+        "reference": "Para 54(9)-(9A) FJCPD - Medical Report Must Be Current: Not More Than 6 Months Before Application Date; Based on Recent Examination of P; Ensures Up-to-Date Capacity Assessment; Capacity Can Fluctuate; Report Must Contain Sufficient Information to Justify Opinions; Distinguishes Doctor's Observations from Information-Based Conclusions"
+      }
+    },
+    {
+      "id": "PROB-M6-Q033",
+      "question": "Under rule 181 FJR, must P be notified of the deputyship application?",
+      "options": {
+        "A": "No, P lacks capacity so notification is unnecessary.",
+        "B": "Yes, subject to court dispensation - P must generally be notified of applications, orders, and hearings in a manner appropriate to P's circumstances.",
+        "C": "Yes, but only if P specifically requests notification.",
+        "D": "No, notifying P might upset them."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "P must be notified subject to dispensation. The notes state: 'Notification of person who lacks or is alleged to lack mental capacity (\"P\") (Rules 181 and 182 FJR, Paragraph 52 FJCPD) --> i.e. normally need to serve documents of the deputyship application on P, but can apply for dispensation (reasons for dispensation should go into supporting affidavit) as he likely has lost mental capacity and the documents may upset him.' Rule 181(1) requires notification to P of: (a) application filing/withdrawal/hearing date, (b) appeal, (c) orders affecting P, (d) matters court directs. Rule 181(2) requires notification 'in a manner appropriate to P's circumstances' (simple language, visual aids, person P trusts delivering notification). However, rule 181(6) allows applying for dispensation. Grounds: P lacks capacity to understand, notification would distress P, no benefit from notification. The court balances: (1) P's right to know about proceedings affecting them (dignity, participation per s 6(4)), (2) practical reality (P might not understand, might be distressed). If dispensation granted, P is not notified. If denied, notification must be in appropriate manner.",
+        "incorrect": {
+          "A": "This is incorrect because r 181 creates a GENERAL requirement to notify P, not an exception for incapacity. The rule's heading is 'Notification of person who lacks or is alleged to lack mental capacity' - it specifically addresses notifying persons who lack capacity. The MCA respects P's dignity and participation rights even when incapacitated. P should know proceedings concern them, even if they can't fully understand. Rule 181(2) requires notification 'in a manner appropriate to P's circumstances' - accommodating P's incapacity. Only if notification would be harmful or futile can dispensation be sought (r 181(6)). The answer incorrectly treats incapacity as automatic grounds for non-notification.",
+          "C": "This is incorrect because r 181(1) creates a GENERAL requirement, not request-based. P 'must be notified' - mandatory, not conditional on P asking. How would P request notification if they lack capacity and don't know about the application? The rule ensures P is informed by default, with dispensation available only for good reasons (would distress P, P cannot understand at all, etc.). The answer incorrectly makes notification request-based.",
+          "D": "This is partially true but incomplete. The notes mention 'documents may upset him' as a reason for seeking dispensation. But 'might upset P' alone doesn't excuse notification - it's a ground for APPLYING for dispensation per r 181(6). The court then decides: is the risk of upset outweighed by P's right to know? Can notification be done in a gentle manner (person P trusts, simple explanation)? If notification can be done appropriately without severe distress, it should be. Only if notification would cause significant harm or is futile (P completely unable to comprehend) should dispensation be granted. The answer treats upset as automatic bar when it's actually a factor in the dispensation assessment."
+        },
+        "reference": "Rule 181 FJR - P Must Be Notified of Application, Hearing, Orders; In Manner Appropriate to P's Circumstances; Rule 181(6) - May Apply for Dispensation; Grounds: Would Distress P, P Cannot Understand, No Benefit; Balances P's Right to Know with Practical Reality; Rule 181(2) - Accommodate P's Incapacity in Notification Method; P's Dignity and Participation Rights"
+      }
+    },
+    {
+      "id": "PROB-M6-Q034",
+      "question": "If P resides at a residential care facility, when must the facility be served with the deputyship application under Para 49 FJCPD?",
+      "options": {
+        "A": "Within 14 days of filing.",
+        "B": "As soon as possible and not more than 2 working days after the application is filed.",
+        "C": "Within 7 days of filing.",
+        "D": "No specific time limit."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Must serve within 2 working days. The notes state: 'If P resides at an organisation providing residential accommodation, these documents are to be served as soon as possible and not more than 2 working days after the application is filed.' This urgent service requirement recognizes care facilities as key relevant persons (Para 50(9)). The facility: (1) cares for P daily (knows P's condition, needs, behavior), (2) implements care decisions (would work with deputy), (3) might have concerns (about proposed deputy, care plans, payment for care). The 2-working-day deadline ensures the facility is promptly informed. Compare: general relevant persons must be served per Para 49(1) but no specific deadline (just 'should serve'). Care facilities get priority - they need to know quickly because they're actively caring for P and might need to coordinate with the deputy or prepare for hearings. If the applicant misses the 2-working-day deadline, the court might question why and might delay the application.",
+        "incorrect": {
+          "A": "This is incorrect because the deadline is stricter than 14 days. The notes specify: 'not more than 2 working days after the application is filed.' Fourteen days would be too slow - the care facility needs prompt notification. They're caring for P and should know about the application quickly. The answer understates the urgency.",
+          "C": "This is incorrect because the deadline is 2 working days, not 7 days. Seven days would exceed the required 2 working days. The notes are specific: 'not more than 2 working days.' This tight deadline reflects care facilities' importance as relevant persons. The answer provides a longer timeframe than allowed.",
+          "D": "This is incorrect because there IS a specific time limit: 2 working days. The notes explicitly state: 'not more than 2 working days after the application is filed.' This mandatory deadline ensures care facilities are promptly served. The answer incorrectly suggests no limit."
+        },
+        "reference": "Para 49 FJCPD - Care Facility Must Be Served As Soon As Possible, Not More Than 2 Working Days After Filing; Para 50(9) - Organization Providing Residential Accommodation is Relevant Person; Urgent Service; Facility Cares for P and Needs Prompt Notification; Would Work with Deputy; Might Have Concerns; Tighter Deadline Than General Relevant Persons"
+      }
+    },
+    {
+      "id": "PROB-M6-Q035",
+      "question": "Under Para 54 FJCPD, the Originating Summons, Supporting Affidavit, and Doctor's Affidavit must be consistent on what matter?",
+      "options": {
+        "A": "The proposed deputy's identity.",
+        "B": "Whether P lacks capacity in relation to personal welfare, property and affairs, or both.",
+        "C": "The value of P's estate.",
+        "D": "The duration of the proposed deputyship."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Must be consistent on capacity scope. The notes state: 'NOTE: The originating summons, the supporting affidavit and the doctor's affidavit exhibiting the medical report must be consistent as to whether P lacks capacity in relation to his personal welfare or his property and affairs or both.' This ensures internal consistency. The Originating Summons requests: 'declaration that P lacks capacity for [personal welfare / property and affairs / both]' and 'appoint deputy for [personal welfare / property and affairs / both].' The Supporting Affidavit explains: 'P lacks capacity for [same scope].' The Doctor's Report opines: 'P lacks capacity for [same scope].' If they're inconsistent (OS says 'both,' but Doctor says 'only property and affairs'), the court cannot proceed - which is it? The applicant must align all three documents. This prevents contradictory evidence and ensures the requested powers match the proven incapacity. If P lacks capacity only for property, the deputy should be appointed only for property (not personal welfare).",
+        "incorrect": {
+          "A": "This is incorrect because while the proposed deputy's identity should be stated in the OS and Supporting Affidavit, Para 54's consistency requirement is about CAPACITY SCOPE (personal welfare, property, or both). The deputy's identity is important but isn't the consistency point Para 54 addresses. The OS and Supporting Affidavit should of course agree on who the proposed deputy is, but the specific Para 54 note is about capacity scope consistency. The answer identifies a different (though related) consistency need.",
+          "C": "This is incorrect because estate value is not the focus of Para 54's consistency requirement. While the Supporting Affidavit might mention P's assets (to show why property deputy needed, what deputy would manage), and the OS might request property management powers, Para 54's specific consistency requirement is about CAPACITY SCOPE (personal welfare, property, or both). Estate value is relevant background but not the consistency point. The answer misidentifies the consistency requirement.",
+          "D": "This is incorrect because duration of deputyship is not the Para 54 consistency point. While the OS might request deputyship for a specific duration ('for 2 years' or 'indefinitely'), and the Doctor's prognosis might inform duration (if P will regain capacity in 6 months, temporary deputyship appropriate), Para 54's specific consistency requirement is about CAPACITY SCOPE. The three documents must agree on whether P lacks capacity for personal welfare, property, or both. The answer misidentifies the consistency requirement."
+        },
+        "reference": "Para 54 FJCPD - OS, Supporting Affidavit, Doctor's Affidavit Must Be Consistent: Whether P Lacks Capacity for Personal Welfare, Property and Affairs, or Both; Internal Consistency Required; Requested Powers Must Match Proven Incapacity; Prevents Contradictory Evidence; If Inconsistent Court Cannot Proceed; Align All Documents"
+      }
+    },
+    {
+      "id": "PROB-M6-Q036",
+      "question": "Relevant person consents to the deputyship application and to dispensation of service. What form should they sign under Para 50(5) and 51 FJCPD?",
+      "options": {
+        "A": "Form 217 (Originating Summons).",
+        "B": "Form 221 (Consent of Relevant Person).",
+        "C": "Form 224 (Doctor's Affidavit).",
+        "D": "No form - oral consent is sufficient."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Form 221 for consent. The notes state: 'If any relevant person to be served has consented to the application and to dispensation of service, to sign and file Form 221 in Appendix A, FJCPD.' And in the document list: '4. Consent of relevant persons (Form 221).' Form 221 allows relevant persons to: (1) consent to the deputyship application (agree it should be granted), (2) consent to dispensation of service (waive their right to be formally served, saving time and cost). By signing Form 221, the relevant person indicates: 'I know about the application, I support it (or at least don't object), I don't need formal service.' This streamlines the application - instead of serving all relevant persons and waiting for objections/responses, the applicant obtains Form 221 consents from supportive family/relevant persons. Those consents are filed with the application. The court sees the relevant persons support the application. If ALL relevant persons consent (Form 221), no service is needed. If some don't consent, they must be served and can object per r 180.",
+        "incorrect": {
+          "A": "This is incorrect because Form 217 is the Originating Summons (filed by the applicant to initiate the application), not the consent form for relevant persons. Relevant persons don't sign the OS - they sign Form 221. The answer confuses the applicant's initiating document with the relevant person's consent document.",
+          "C": "This is incorrect because Form 224 is the Doctor's Affidavit exhibiting the medical report (medical evidence of P's incapacity). The doctor signs Form 224, not relevant persons. Relevant persons sign Form 221. The answer confuses different forms in the application package.",
+          "D": "This is incorrect because Para 50(5) and 51 specifically require Form 221 to be signed and filed. Oral consent is insufficient - it must be in writing on the prescribed form. The form is filed with the court as part of the application, providing documentary evidence of consent. Oral consent would be hard to prove and could be disputed. Written Form 221 is clear and on record. The answer incorrectly allows informal oral consent."
+        },
+        "reference": "Form 221 FJCPD - Consent of Relevant Person; Sign and File if Consenting to Application and Dispensation of Service; Streamlines Application; Supportive Relevant Persons Waive Service; Saves Time and Cost; If All Consent No Service Needed; If Some Don't Consent Must Serve Them; Documentary Evidence of Support"
+      }
+    },
+    {
+      "id": "PROB-M6-Q037",
+      "question": "Under section 20(4)(b) MCA, what principle applies to the powers conferred on a deputy?",
+      "options": {
+        "A": "Powers should be as broad as possible to allow the deputy flexibility.",
+        "B": "The powers conferred on a deputy should be as limited in scope and duration as is reasonably practicable.",
+        "C": "Powers should always be unlimited to avoid repeated court applications.",
+        "D": "Powers must be identical to what an LPA would grant."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Powers should be limited in scope and duration. Section 20(4) MCA states: 'When deciding whether it is in P's best interests to appoint a deputy, the court must have regard to the principles that:... b. The powers conferred on a deputy should be as limited in scope and duration as is reasonably practicable.' This is the 'least restrictive alternative' principle applied to deputyship. The court should grant only powers actually needed, for only as long as needed. SCOPE limitation: if P needs property management but retains capacity for personal welfare, appoint deputy for property only (not both). Or if P needs help with investments but can handle day-to-day expenses, limit powers to investments. DURATION limitation: if P might regain capacity in 6 months, appoint deputy for 6 months (reviewable), not indefinitely. Or if P needs one-off decision (sell house), court makes that decision (s 20(2)(a)) rather than appointing deputy. This respects P's autonomy - minimize how much authority is transferred from P to deputy, minimize how long deputy acts. The court can always extend powers later (vary per s 20(7)) if needed.",
+        "incorrect": {
+          "A": "This reverses the principle. Section 20(4)(b) requires powers be 'as LIMITED... as is reasonably practicable,' not 'as broad as possible.' While flexibility might be convenient for the deputy, the MCA prioritizes P's autonomy and least restrictive intervention. Broad powers mean more of P's autonomy is displaced. The answer incorrectly prioritizes deputy convenience over P's rights.",
+          "C": "This is incorrect because s 20(4)(b) mandates limitation, and unlimited powers violate this. The principle is: grant minimum necessary powers. Yes, this might mean the deputy needs to return to court for additional powers if circumstances change. But that's preferred over giving unlimited powers upfront (which might never be needed and unnecessarily restrict P's autonomy). Section 20(7) allows variation - if more powers are genuinely needed later, the deputy can apply. The answer incorrectly prioritizes avoiding future applications over P's autonomy.",
+          "D": "This is incorrect because deputy powers aren't required to match hypothetical LPA powers. Deputyship is tailored to P's specific needs as assessed by the court. An LPA might grant very broad powers because the donor trusts the donee widely. But a deputy (not P's choice) might be given narrower powers based on necessity. Also, LPAs can include powers deputies cannot have (gifts per s 13(7), life-sustaining treatment refusal per s 13(10)) while deputies have some powers LPAs might not address (settling trusts per s 23(1)(h) if court authorizes, though s 25(3) restricts). The answer incorrectly requires matching LPA powers."
+        },
+        "reference": "Section 20(4)(b) MCA - Deputy Powers Limited in Scope and Duration as Reasonably Practicable; Least Restrictive Alternative; Grant Only Necessary Powers for Only Necessary Duration; Respects P's Autonomy; Minimize Authority Transfer; Section 20(7) - Can Vary/Extend Later if Needed; Prefer Court Decisions for One-Off Matters Per Section 20(4)(a)"
+      }
+    },
+    {
+      "id": "PROB-M6-Q038",
+      "question": "Under section 20(3) MCA, what provisions govern the court's powers to make orders and appoint deputies?",
+      "options": {
+        "A": "The court has unlimited discretion.",
+        "B": "The powers are subject to the provisions of the MCA and, in particular, sections 3 (principles) and 6 (best interests).",
+        "C": "The powers are governed only by common law.",
+        "D": "The powers require Public Guardian approval."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Court powers subject to MCA principles and best interests. Section 20(3) MCA states: 'The powers of the court under this section are subject to the provisions of this Act and, in particular, to sections 3 (principles) and 6 (best interests).' This means when the court makes orders for P or appoints deputies, it must comply with: (1) Section 3 principles - presume capacity (s 3(2)), all practicable steps to help (s 3(3)), don't treat as incapable just because unwise decision (s 3(4)), act in best interests (s 3(5)), least restrictive (s 3(6)). (2) Section 6 best interests duties - don't decide based on age/appearance (s 6(1)), consider all relevant circumstances (s 6(2)), future capacity (s 6(3)), P's participation (s 6(4)), life-sustaining treatment motivation (s 6(5)), property preservation (s 6(7)), P's wishes/values (s 6(8)), others' views (s 6(9)). (3) All other MCA provisions - capacity definition (s 4-5), excluded decisions (s 26), etc. So the court's broad powers under s 20 are constrained by the MCA framework - ensuring P-centered, rights-respecting decisions.",
+        "incorrect": {
+          "A": "This is incorrect because s 20(3) explicitly subjects court powers to MCA provisions, particularly ss 3 and 6. The court doesn't have 'unlimited discretion' - it must follow the statutory framework. While the court has broad powers (make decisions, appoint deputies, set terms per s 20(6)), these are exercised within MCA constraints. The court must presume capacity, act in best interests, use least restrictive alternatives, etc. The answer incorrectly suggests unconstrained discretion.",
+          "C": "This is incorrect because s 20(3) subjects powers to 'the provisions of this Act' (the MCA) - statutory law, not just common law. While common law principles (equity, fiduciary duties, agency) might inform interpretation, the court's powers are primarily governed by the MCA's statutory framework. Sections 3, 6, 20-26, etc. are statutory provisions that bind the court. The answer incorrectly limits governance to common law.",
+          "D": "This is incorrect because court powers don't require Public Guardian approval. The Public Guardian is an administrative oversight body (monitors deputies, registers LPAs), not a supervisor of courts. Courts are independent judicial bodies. Section 20(3) subjects court powers to the MCA (statutory law), not to the Public Guardian. The Public Guardian might be involved as: (1) applicant per s 38(1)(e), (2) recipient of deputy reports per s 24(11), (3) supervisor of deputies, but doesn't 'approve' court orders. The answer incorrectly makes courts subordinate to Public Guardian."
+        },
+        "reference": "Section 20(3) MCA - Court Powers Subject to MCA Provisions, Particularly Sections 3 (Principles) and 6 (Best Interests); Statutory Framework Constrains Court; Must Presume Capacity, Act in Best Interests, Least Restrictive; All MCA Provisions Apply; Not Unlimited Discretion; P-Centered Rights-Respecting Framework"
+      }
+    },
+    {
+      "id": "PROB-M6-Q039",
+      "question": "Under section 20(6) MCA, can the court make an order on different terms than those applied for?",
+      "options": {
+        "A": "No, the court is bound by the terms of the application.",
+        "B": "Yes, the court may make the order on such terms as it considers are in P's best interests, even though no application is before the court for an order on those terms.",
+        "C": "Yes, but only with the applicant's consent.",
+        "D": "No, unless all relevant persons agree."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Court can order different terms if in P's best interests. Section 20(6) MCA states: 'court may make the order, give the directions or make the appointment on such terms as it considers are in P's best interests, even though no application is before the court for an order, directions or an appointment on those terms.' This gives courts flexibility to craft appropriate orders. Example: Applicant seeks deputy for property and affairs with unlimited duration. Court determines: (1) P needs property deputy (application granted in principle), but (2) P might regain capacity in 1 year (per doctor's prognosis), (3) powers should be time-limited per s 20(4)(b), (4) certain requested powers too broad. Court orders: deputy appointed for property for 1 year (renewable), with specific powers listed (not unlimited). These terms differ from what was applied for, but the court can impose them per s 20(6) because they're in P's best interests. The court isn't bound by the applicant's proposed terms - it exercises independent judgment on what best protects P.",
+        "incorrect": {
+          "A": "This is incorrect because s 20(6) explicitly allows the court to order different terms. The court is not bound by the application's terms. While the application sets the scope of relief sought (property deputy vs personal welfare deputy), the court can modify terms within that scope (duration, specific powers, conditions, reporting requirements). This flexibility ensures orders are tailored to P's needs, not to the applicant's preferences. The answer incorrectly treats the application as binding the court.",
+          "C": "This is incorrect because s 20(6) doesn't require applicant consent for different terms. The court acts in P's BEST INTERESTS (s 20(6)), not based on applicant's consent. If the applicant proposes terms not in P's best interests, the court can and should modify them. The applicant's role is to initiate the application and provide information; the court decides what orders to make. If the applicant disagrees with the court's terms, they can appeal, but they cannot veto the court's terms. The answer incorrectly makes applicant consent a requirement.",
+          "D": "This is incorrect because s 20(6) doesn't require relevant persons' agreement for different terms. While relevant persons can be joined and make submissions (r 180), the court decides based on P's best interests, not consensus. If relevant persons disagree about terms (family wants broad powers for deputy, court thinks limited powers appropriate), the court can order the limited powers despite disagreement. Requiring unanimous agreement would paralyze the process (family disputes are common). The answer invents a consensus requirement."
+        },
+        "reference": "Section 20(6) MCA - Court May Order on Terms it Considers in P's Best Interests, Even Though Not Applied For; Court Not Bound by Application Terms; Flexibility to Tailor Orders; Independent Judicial Judgment; Modifies Duration, Scope, Conditions; Ensures Orders Protect P; Applicant Consent Not Required; Based on Best Interests Not Applicant Preferences"
+      }
+    },
+    {
+      "id": "PROB-M6-Q040",
+      "question": "Under section 20(1)-(2) MCA, if P lacks capacity, the court has two options. What are they?",
+      "options": {
+        "A": "Appoint a deputy or do nothing.",
+        "B": "Make orders on decisions on P's behalf, or appoint a deputy.",
+        "C": "Appoint a deputy or refer to the Public Guardian.",
+        "D": "Make orders or dismiss the application."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Court can make orders or appoint deputy. The notes state: 'If P lacks capacity in matters concerning (a) P's personal welfare or (b) property and affairs (s 20(1) MCA), the court may: (a) make orders on decisions on P's behalf; or (b) appoint a deputy (s 20(2) MCA).' These are the two mechanisms: (1) COURT MAKES DECISIONS - the court itself decides specific matters for P (sell this house, consent to this surgery, admit to this care facility). Appropriate for one-off decisions, contentious matters requiring judicial determination, situations where P might regain capacity soon. (2) APPOINT DEPUTY - the court delegates ongoing decision-making to a deputy. Appropriate for routine ongoing management (pay bills monthly, arrange care, manage investments), permanent incapacity, need for responsive day-to-day decisions. Section 20(4)(a) creates a preference: court decisions preferred over deputy appointment. The court should choose option (1) if viable. Option (2) (deputy) only when option (1) is impractical (too many ongoing decisions for court to make individually).",
+        "incorrect": {
+          "A": "This is partially correct (appoint deputy is one option) but incomplete. Section 20(2) provides TWO options: (a) make orders on decisions, (b) appoint deputy. 'Do nothing' is not an option listed. If P lacks capacity and needs decisions made, the court must intervene - either by making decisions itself or appointing deputy to make them. 'Doing nothing' would leave P without needed care, treatment, or property management. The answer omits the first option (court makes decisions).",
+          "C": "This is incorrect because 'refer to Public Guardian' is not one of the s 20(2) options. The Public Guardian has specific roles (register LPAs, supervise deputies, issue codes of practice), but doesn't make decisions for P or act as deputy (except in extraordinary cases where Public Guardian is appointed as deputy). Section 20(2)'s options are: court makes decisions OR court appoints deputy. The Public Guardian might be the appointed deputy in rare cases, but 'refer to Public Guardian' isn't a general option. The answer invents a referral mechanism.",
+          "D": "This is incorrect because 'dismiss the application' is not one of the s 20(2) options. If the court finds P LACKS capacity (s 20(1) condition satisfied), the court should intervene per s 20(2) - make decisions or appoint deputy. Dismissal would be appropriate if: P has capacity (no intervention needed), application lacks merit, alternatives exist (existing donee/deputy). But if P lacks capacity and intervention is needed, dismissal leaves P unprotected. Section 20(2)'s options are both interventions (court decides or deputy decides), not dismissal. The answer treats dismissal as an option when the question asks what the court does upon finding incapacity."
+        },
+        "reference": "Section 20(1)-(2) MCA - If P Lacks Capacity for Personal Welfare or Property/Affairs, Court May: (a) Make Orders on Decisions for P, or (b) Appoint Deputy; Two Intervention Mechanisms; Section 20(4)(a) - Court Decision Preferred Over Deputy; Court Decides Specific Matters vs Deputy Handles Ongoing; Choose Based on Whether One-Off or Ongoing Needs"
+      }
+    },
+    {
+      "id": "PROB-M6-Q041",
+      "question": "Section 23(1)(h) MCA lists 'the settlement of any of P's property by way of trust' as a court power. Can a deputy be given this power under section 25(3)?",
+      "options": {
+        "A": "Yes, settling trusts is a standard property power.",
+        "B": "The statute is unclear - section 23(1)(h) lists it as a court power, but deputies face restrictions on gifts which might include settlements.",
+        "C": "Yes, but only with court approval for each settlement.",
+        "D": "No, section 25(3)(a) prohibits gifts, and settlements are considered gifts."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "Settlements are prohibited as gifts. The notes state regarding donees: 'Donee has no power to settle assets into a trust (this is considered a gift). Usually, an application will be made to Court for approval before going ahead.' And: 'NB: settling a trust constitutes a gift --> so air on the side of caution and do NOT settle a trust unless there is an order of court.' While s 23(1)(h) lists settlements as a COURT power (court can settle trusts for P), deputies cannot be given this power. Section 25(3)(a) prohibits 'the disposition of P's property by making gifts' - settlements are treated as gifts (they transfer P's property to trust, reducing P's direct ownership, potentially benefiting others). The absolute prohibition on deputy gifts per s 25(3)(a) includes settlements. If a settlement is in P's best interests (tax planning, asset protection, providing for family), the deputy must apply to court for an order. The court exercises its s 23(1)(h) power, making the settlement itself (or authorizing the deputy to implement court-ordered settlement terms). Deputies cannot unilaterally settle trusts.",
+        "incorrect": {
+          "A": "This is incorrect because while s 23(1)(h) lists settlements as a court power, s 25(3)(a) prohibits deputies from making gifts (which include settlements). The notes state: 'settling a trust constitutes a gift.' Section 25(3)(a): 'A deputy may not be given powers with respect to... the disposition of P's property by making gifts.' Settlements dispose of property in a gift-like manner. This is a restricted power - court can exercise it, but cannot delegate to deputy. The answer incorrectly treats all s 23(1) powers as delegable, ignoring s 25(3) restrictions.",
+          "C": "This is imprecise. Section 25(3)(a) prohibits deputies from having settlement power. The process is not 'deputy has power subject to approval for each settlement' but 'deputy has NO power; court must make the settlement.' The deputy applies to court, court assesses whether settlement is in P's best interests, court makes an order settling the trust per s 23(1)(h). The settlement is the court's act, not the deputy's act with approval. The distinction matters - the court exercises its own power, not approves the deputy's power. The answer suggests delegated power with oversight when actually it's non-delegable court power.",
+          "B": "This is too uncertain. While the statute doesn't explicitly state 'settlements are prohibited for deputies,' the notes clarify: 'settling a trust constitutes a gift' and 'do NOT settle a trust unless there is an order of court.' Given s 25(3)(a) prohibits gift-making powers for deputies, and settlements are gifts, settlements are prohibited. There's no genuine statutory ambiguity - the prohibition follows from: settlement = gift (per notes), gifts prohibited for deputies (s 25(3)(a)), therefore settlements prohibited. Answer D is more definitive and correct."
+        },
+        "reference": "Section 25(3)(a) MCA - Deputies May Not Be Given Gift Powers; Settlements Considered Gifts; Prohibited for Deputies; Section 23(1)(h) - Court Can Settle Trusts; Court Power Not Delegable; Deputy Must Apply for Court Order; Court Settles or Authorizes Settlement; Notes - Do Not Settle Trust Without Court Order; Err on Side of Caution"
+      }
+    },
+    {
+      "id": "PROB-M6-Q042",
+      "question": "Under section 23(1)(p) MCA, the court has power over 'the conduct of legal proceedings in P's name or on P's behalf.' Can a deputy be given this power?",
+      "options": {
+        "A": "No, only courts can conduct legal proceedings.",
+        "B": "Yes, this is a property and affairs power that can be delegated to deputies.",
+        "C": "Yes, but only for property-related litigation.",
+        "D": "No, deputies cannot represent P in court."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Legal proceedings power can be delegated. Section 23(1)(p) lists 'the conduct of legal proceedings in P's name or on P's behalf' as a court power relating to property and affairs. Unlike gifts (s 25(3)(a)), wills (s 25(3)(d)), nominations (s 25(3)(b)(c)(e)(f)), and life-sustaining treatment (s 25(3)(g)) which are restricted from deputies, legal proceedings are not listed in s 25 restrictions. Therefore, the court CAN give deputies power to conduct legal proceedings for P. This makes practical sense - if P is involved in litigation (suing for debt, defending claim, contractual dispute), the deputy (as P's agent per s 24(7)) needs authority to conduct the proceedings. The deputy would instruct lawyers, make procedural decisions, authorize settlements, etc., on P's behalf. The deputy acts as litigation representative for P. Without this power, every litigation decision would require separate court orders, paralyzing P's legal rights. Section 23(1)(p) combined with absence of s 25 restriction means this power is delegable.",
+        "incorrect": {
+          "A": "This is incorrect because while courts have the power, they can delegate it to deputies. Section 23(1)(p) is a court power, but unlike restricted powers in s 25(3), it's not prohibited for deputies. The court can confer this power on a deputy. Then the deputy (not the court) conducts the proceedings - the deputy instructs solicitors, makes litigation decisions, attends conferences, authorizes settlements (all in P's name as P's agent per s 24(7)). The answer incorrectly treats s 23(1)(p) as non-delegable when it's not listed in s 25 restrictions.",
+          "C": "This is too narrow. While s 23(1)(p) is listed under property and affairs powers, litigation can involve both property and personal welfare matters. Property litigation: debt claims, contract disputes, property sales, business disputes. Personal welfare litigation: medical negligence claims, personal injury, maybe even guardianship disputes. A deputy appointed for property and affairs with s 23(1)(p) power can conduct property-related litigation. A deputy appointed for both property and personal welfare could potentially conduct both types (though personal welfare litigation is less common for deputies to handle). The answer's limitation to 'property-related' is too strict - it depends on the deputy's appointment scope.",
+          "D": "This is confused. Deputies can represent P (as P's agent per s 24(7)), and if given s 23(1)(p) power, can conduct legal proceedings in P's name. The deputy wouldn't personally appear in court as advocate (only lawyers can do that), but the deputy acts as P's representative instructing lawyers. If the question means 'can deputy be the lawyer in court,' that's wrong (only qualified advocates). But if it means 'can deputy conduct proceedings as P's representative,' yes, with s 23(1)(p) power. The answer is ambiguous but likely wrong."
+        },
+        "reference": "Section 23(1)(p) MCA - Court Power: Conduct Legal Proceedings in P's Name or on P's Behalf; Not Listed in Section 25(3) Restrictions; Can Be Delegated to Deputies; Deputy as Litigation Representative; Instructs Lawyers, Makes Procedural Decisions, Authorizes Settlements; Section 24(7) - Deputy as P's Agent; Practical Necessity for P's Legal Rights"
+      }
+    },
+    {
+      "id": "PROB-M6-Q043",
+      "question": "Form 217 (Originating Summons) for deputyship must state certain information under Para 54 FJCPD. What must it include?",
+      "options": {
+        "A": "Only the proposed deputy's name.",
+        "B": "Whether declaration sought concerns P's personal welfare, property and affairs, or both; if multiple deputies, whether acting jointly or jointly and severally; powers sought; and any specific orders required.",
+        "C": "Only P's medical diagnosis.",
+        "D": "Only the doctor's opinion."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Form 217 must state scope, deputy mode, powers, and specific orders. The notes state: 'Form 217 to Appendix A, Family Justice Court Practice Directions (\"FJCPD\") (Rule 176(1), FJR; Para 54(1)-(6), FJCPD) – Originating Summons must state: 1. Whether the declaration sought in respect of P's lack of capacity concerns P's personal welfare or property & affairs or both; 2. If more than 1 deputy sought, whether they are acting jointly or jointly & severally; 3. Powers sought for the deputies, which are drafted appropriately to suit the purpose of the application at hand; and 4. Any other specific orders or reliefs required on the particular facts of each case.' These elements tell the court: (1) What type of incapacity is alleged (welfare/property/both). (2) If multiple deputies, how they'll function (joint/several). (3) What powers the deputy needs (specify, not just 'all powers'). (4) Any case-specific relief (e.g., 'empower deputy to withdraw CPF subsidies,' 'appoint deputy as litigation representative for P's minor child'). This clarity allows the court to assess the application and relevant persons to understand what's sought.",
+        "incorrect": {
+          "A": "This is too narrow. While the proposed deputy's name is required in the OS, Para 54(1)-(6) requires much more: capacity scope (welfare/property/both), deputy mode if multiple (joint/several), specific powers, and case-specific orders. The OS is a comprehensive document requesting the court's orders. Naming the deputy is just one element. The answer radically understates the content requirements.",
+          "C": "This is incorrect because P's medical diagnosis goes in the Doctor's Affidavit (Form 224) and Medical Report, not the Originating Summons (Form 217). The OS is the applicant's legal request for orders. The Doctor's Affidavit is medical evidence supporting the application. Different documents serve different purposes. The answer confuses which form contains what information.",
+          "D": "This is incorrect for the same reason as C. The doctor's opinion (on capacity and prognosis) is in the Doctor's Affidavit (Form 224), not the Originating Summons (Form 217). The OS states what orders are sought; the Doctor's Affidavit provides medical evidence. The answer confuses the forms."
+        },
+        "reference": "Form 217 and Para 54(1)-(6) FJCPD - Originating Summons Must State: (1) Capacity Scope (Welfare/Property/Both), (2) Multiple Deputies Mode (Joint/Severally), (3) Powers Sought (Specific Not General), (4) Case-Specific Orders; Comprehensive Legal Request; Different from Doctor's Affidavit (Medical Evidence) and Supporting Affidavit (Facts); Clarity for Court and Relevant Persons"
+      }
+    },
+    {
+      "id": "PROB-M6-Q044",
+      "question": "If multiple applicants seek to be appointed as joint deputies, how should the Supporting Affidavit be filed under Para 54(7) FJCPD?",
+      "options": {
+        "A": "Each applicant files a separate Supporting Affidavit.",
+        "B": "All applicants should file a single joint Supporting Affidavit, unless their positions are contentious.",
+        "C": "No Supporting Affidavit is required for multiple applicants.",
+        "D": "Only the primary applicant files a Supporting Affidavit."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Joint affidavit unless contentious. The notes state: 'Form 218 to Appendix A, FJCPD (Para 54(7)-(8B), FJCPD): Supporting Affidavit (For multiple applicants seeking to be jointly appointed as deputies, all applicants should file a single joint supporting affidavit, unless the applicants' positions are contentious).' This rule promotes efficiency - if all applicants agree (family members jointly applying, unified position), one affidavit suffices. It contains: (1) facts about P (background, condition, why lacks capacity), (2) searches (OPG, Wills Registry), (3) relevant persons, (4) why deputies needed, (5) why these applicants suitable. All applicants swear/affirm it jointly. However, if positions are CONTENTIOUS (applicants disagree about P's capacity, powers needed, how to act if appointed), separate affidavits are appropriate. Each states their position, court sees the disagreement, court decides. Example: siblings applying - if they agree on everything, joint affidavit. If they disagree (one wants broad powers, one wants narrow), separate affidavits.",
+        "incorrect": {
+          "A": "This is correct only if positions are contentious. Para 54(7) creates a general rule: joint affidavit for multiple applicants. Separate affidavits are the exception, when positions are contentious. Requiring separate affidavits always would be inefficient - duplicative facts, contradictory sworn statements where there's no actual disagreement. The answer incorrectly makes separate affidavits the default.",
+          "C": "This is incorrect because Supporting Affidavit is always required (Para 54(7)), whether one or multiple applicants. The issue is whether multiple applicants file one joint affidavit or separate ones. But the affidavit itself is mandatory - it provides factual evidence for the application. Without it, the court has no facts about P, no searches, no explanation why deputyship needed. The answer incorrectly exempts multiple applicants from the Supporting Affidavit requirement.",
+          "D": "This is incorrect because all applicants should be involved in the Supporting Affidavit. If positions are aligned, they file a joint affidavit (all swear/affirm together). If positions are contentious, each files their own. There's no 'primary applicant only' option - all applicants seeking appointment must support the application with evidence. The answer incorrectly limits affidavit obligation to one applicant."
+        },
+        "reference": "Para 54(7) FJCPD and Form 218 - Multiple Applicants Should File Single Joint Supporting Affidavit Unless Positions Contentious; Promotes Efficiency; Contains Facts, Searches, Relevant Persons; All Swear/Affirm Jointly; Exception: Contentious Positions Warrant Separate Affidavits; Court Sees Disagreement and Decides"
+      }
+    },
+    {
+      "id": "PROB-M6-Q045",
+      "question": "Section 18(3)(d) MCA gives the court power to relieve a deputy from liability for breach of duty. When might the court exercise this power?",
+      "options": {
+        "A": "Never - deputies are strictly liable.",
+        "B": "If the deputy acted honestly and reasonably, and ought fairly to be excused.",
+        "C": "Only if the breach caused no loss.",
+        "D": "Automatically for any breach."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Relief if acted honestly, reasonably, and ought be excused. The notes state: 'Give directions as to accounts and reports (s 18(3)(a) MCA); Relieve a deputy from liability for breach of duty (s 18(3)(d) MCA).' Section 18(3)(d) allows the court to relieve deputies from liability. While the notes don't detail the test, this power likely mirrors similar provisions in trust and company law (e.g., s 391 Companies Act). The court would consider: (1) Did the deputy act HONESTLY? (no fraud, no self-dealing, genuine attempt to fulfill duty). (2) Did the deputy act REASONABLY? (prudent person standard, appropriate in circumstances, sought advice if needed). (3) OUGHT the deputy FAIRLY be excused? (breach was minor, inadvertent mistake, P suffered no loss, deputy has otherwise performed well). Example: Deputy reasonably believed selling P's shares was in best interests (market declining), later turns out it wasn't. Deputy acted honestly and reasonably. Court might relieve liability. But if deputy sold shares to benefit himself (dishonestly), no relief. Section 18(3)(d) provides courts flexibility to protect well-intentioned deputies from harsh liability while holding bad actors accountable.",
+        "incorrect": {
+          "A": "This is incorrect because s 18(3)(d) explicitly gives courts power to relieve liability. Deputies are not strictly liable for all breaches. Strict liability would deter capable people from serving as deputies (fear one mistake means liability). Section 18(3)(d) allows relief when appropriate, balancing accountability with fairness. The answer incorrectly imposes strict liability.",
+          "C": "This is too narrow. While no loss is relevant (if P suffered no loss, relief more likely), it's not the ONLY ground for relief. The test likely includes honesty, reasonableness, and fairness. A deputy who acted dishonestly but caused no loss (lucky coincidence) shouldn't be relieved. A deputy who acted honestly and reasonably but inadvertently caused minor loss might be relieved. The answer focuses on one factor when multiple factors matter.",
+          "D": "This is incorrect because relief is discretionary, not automatic. Section 18(3)(d) allows the court to relieve 'a deputy' - implying case-by-case assessment. Not all breaches warrant relief. Serious breaches (fraud, gross negligence, intentional harm to P) should result in liability. Minor breaches (honest mistake, inadvertent error, reasonable but wrong judgment) might warrant relief. The answer incorrectly makes relief automatic."
+        },
+        "reference": "Section 18(3)(d) MCA - Court May Relieve Deputy from Liability for Breach of Duty; Discretionary; Likely Test: Acted Honestly, Reasonably, Ought Fairly Be Excused; Balances Accountability with Fairness; Protects Well-Intentioned Deputies; Holds Bad Actors Accountable; Not Strict Liability; Not Automatic; Case-by-Case Assessment"
+      }
+    },
+    {
+      "id": "PROB-M6-Q046",
+      "question": "Section 25(3)(b) and (c) MCA restrict deputies from making or revoking nominations under the Insurance Act. What nominations are these?",
+      "options": {
+        "A": "Employment insurance nominations.",
+        "B": "Trust nominations (section 132) and revocable nominations (section 133) under the Insurance Act.",
+        "C": "Health insurance nominations.",
+        "D": "Property insurance nominations."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Insurance Act trust and revocable nominations. Section 25(3) MCA states: 'A deputy may not be given powers with respect to... (b) a nomination made under section 132 of the Insurance Act (Cap. 142) (trust nominations)... (c) a revocable nomination made under section 133 of the Insurance Act (revocable nominations).' These sections allow policyholders to nominate beneficiaries for insurance proceeds. Section 132 creates trust nominations (irrevocable, insured's estate interest terminates, nominees get beneficial interest). Section 133 creates revocable nominations (can be revoked, nominee gets proceeds upon death but not vested interest during life). Deputies cannot make or revoke these nominations for P - s 25(3)(b)(c) prohibit this power. Why? Insurance nominations are significant estate planning decisions, affecting who gets potentially substantial sums. Like wills and CPF nominations, they're personal decisions P should make while capable. If P lacks capacity and nomination changes are needed, the deputy cannot act - the deputy must apply to court. The court (not deputy) can make or revoke insurance nominations per s 23(1)(k)(l) if in P's best interests.",
+        "incorrect": {
+          "A": "This is incorrect because s 25(3)(b)(c) refer to the Insurance Act (Cap. 142), which governs life/general insurance, not employment insurance. Employment insurance (if it exists) would be under different legislation (Employment Act, Work Injury Compensation Act). The Insurance Act nominations are for life insurance policies (s 132 trust nominations, s 133 revocable nominations). The answer references the wrong type of insurance.",
+          "C": "This is incorrect because while health insurance might be governed by parts of the Insurance Act, s 25(3)(b)(c) specifically reference s 132 (trust nominations) and s 133 (revocable nominations), which primarily apply to life insurance policies. Health insurance typically doesn't involve nominations of beneficiaries in the same way (health insurance pays for treatment, doesn't pay death benefits to nominees). The answer misidentifies the nomination type.",
+          "D": "This is incorrect because property insurance (home, car, contents) typically doesn't involve nominations. Property insurance reimburses the insured/owner for loss or damage to property. It doesn't pay death benefits to nominated beneficiaries. Sections 132-133 Insurance Act nominations apply to life insurance (pays proceeds to nominees upon insured's death). The answer confuses different types of insurance."
+        },
+        "reference": "Section 25(3)(b)(c) MCA - Deputies May Not Make/Revoke Insurance Nominations: Section 132 (Trust Nominations) and Section 133 (Revocable Nominations) Insurance Act; Life Insurance Beneficiary Nominations; Personal Estate Planning Decisions; Like Wills and CPF Nominations; Deputy Must Apply to Court; Section 23(1)(k)(l) - Court Can Make/Revoke Insurance Nominations if in P's Best Interests"
+      }
+    },
+    {
+      "id": "PROB-M6-Q047",
+      "question": "Section 25(3)(e) and (f) MCA restrict deputies from making or revoking nominations under the CPF Act. What is the significance of this restriction?",
+      "options": {
+        "A": "CPF balances are typically small so nominations don't matter.",
+        "B": "CPF nominations determine who receives P's CPF savings upon death, often substantial sums, and are personal estate planning decisions that deputies cannot make.",
+        "C": "CPF nominations are only for retirement, not death benefits.",
+        "D": "Deputies can make CPF nominations with family consent."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "CPF nominations are personal estate planning decisions for substantial sums. Section 25(3) MCA states: 'A deputy may not be given powers with respect to... (e) a nomination made under section 25(1) of the Central Provident Fund Act (Cap. 36)... (f) a revocation of a nomination referred to in paragraph (e).' Section 25(1) CPF Act allows members to nominate beneficiaries for CPF savings upon death (outside of estate, paid directly to nominees). CPF balances can be substantial (hundreds of thousands for older members). Who gets these savings is a significant estate planning decision. Section 25(3)(e)(f) prohibits deputies from making or revoking CPF nominations for P - these are personal decisions P should make while capable. Like wills, insurance nominations, they reflect P's wishes about beneficiaries. If P lacks capacity and CPF nominations need changing, the deputy cannot act. Deputy must apply to court. The court can make or revoke CPF nominations per s 23(1)(m)(n) if in P's best interests (considering P's wishes per s 6(8), family circumstances, fairness).",
+        "incorrect": {
+          "A": "This is incorrect because CPF balances are often substantial, not small. Many Singaporeans have significant CPF savings (Ordinary, Special, Medisave, Retirement accounts). For older members, balances can be hundreds of thousands of dollars. Nominations determining who gets these sums matter greatly - family disputes over CPF proceeds are common. The restriction in s 25(3)(e)(f) reflects the significance of CPF nominations, not their insignificance. The answer incorrectly minimizes CPF importance.",
+          "C": "This is incorrect because CPF nominations under s 25(1) CPF Act are specifically for DEATH benefits (who gets CPF savings when member dies), not retirement withdrawals. During life, the member withdraws from CPF per statutory rules (retirement, housing, medical, education). Upon death, the nomination determines distribution. If no nomination, CPF pays per intestacy. The answer confuses lifetime withdrawals with death benefits.",
+          "D": "This is incorrect because s 25(3)(e)(f) absolutely prohibits deputies from making/revoking CPF nominations - no exceptions for family consent. Family consent doesn't cure the prohibition. The statute protects P's personal decision-making about beneficiaries, not delegable to deputies even with family agreement. If nomination changes are needed and family agrees they're in P's best interests, the deputy (with family support) applies to court. The court decides, not the deputy with family consent. The answer invents a family consent exception."
+        },
+        "reference": "Section 25(3)(e)(f) MCA - Deputies May Not Make/Revoke CPF Nominations Under Section 25(1) CPF Act; CPF Balances Often Substantial; Death Benefit Nominations; Personal Estate Planning Decisions; Reflect P's Wishes About Beneficiaries; Like Wills and Insurance Nominations; Deputy Must Apply to Court; Section 23(1)(m)(n) - Court Can Make/Revoke CPF Nominations if in P's Best Interests"
+      }
+    },
+    {
+      "id": "PROB-M6-Q048",
+      "question": "Section 25(6)-(10) MCA sets conditions for deputy restraint of P. How many conditions must ALL be satisfied?",
+      "options": {
+        "A": "Two conditions.",
+        "B": "Three conditions.",
+        "C": "Four conditions: express court authority, P lacks capacity for the decision, necessary to prevent harm, proportionate response.",
+        "D": "No conditions - deputies can restrain P as needed."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "Four conditions all required. Section 25(6)-(10) MCA sets restraint conditions for deputies. The notes state: 'Restraint (s 25(6)-(10))... 4 conditions: express court authority, P lacks capacity, necessary to prevent harm, proportionate.' Specifically: (1) EXPRESS COURT AUTHORITY (s 25(6)(a)) - the court order appointing deputy must expressly authorize restraint. General deputy powers don't include restraint. (2) P LACKS CAPACITY for the decision in question (s 25(7)) - at the time restraint is used, P lacks capacity for the specific decision restraint relates to. (3) NECESSARY TO PREVENT HARM (s 25(8)) - restraint is necessary to prevent harm to P (not just convenient). (4) PROPORTIONATE RESPONSE (s 25(9)) - restraint is proportionate to likelihood and seriousness of harm. All four must be satisfied. If any is missing, restraint is unauthorized (assault, false imprisonment). Example: Court authorizes deputy to restrain (condition 1). P is trying to leave care facility to walk on highway (lacks capacity for safety decision - condition 2). Restraint prevents injury (necessary - condition 3). Gentle physical guidance, not handcuffs (proportionate - condition 4). All conditions met, restraint authorized.",
+        "incorrect": {
+          "A": "This is incorrect because s 25(6)-(10) sets FOUR conditions, not two. The answer undercounts. All four must be satisfied for restraint to be lawful. Two conditions (say, court authority + necessary to prevent harm) are insufficient if P has capacity for the decision or restraint is disproportionate. The answer incorrectly states only two conditions.",
+          "B": "This is incorrect because there are FOUR conditions, not three. The answer undercounts. Section 25(6)-(10) clearly sets out four requirements: express court authority (s 25(6)(a)), P lacks capacity (s 25(7)), necessary to prevent harm (s 25(8)), proportionate (s 25(9)). Three conditions are insufficient - all four must be met. The answer incorrectly states only three conditions.",
+          "D": "This is incorrect because s 25(6)-(10) imposes strict conditions on restraint. Deputies cannot restrain 'as needed' without meeting all four conditions. Restraint without authorization is unlawful (assault, false imprisonment, tort, potentially criminal). The MCA tightly regulates restraint to protect P's liberty and autonomy. Only when all four conditions are satisfied is restraint lawful. The answer incorrectly suggests unconstrained restraint power."
+        },
+        "reference": "Section 25(6)-(10) MCA - Four Conditions for Deputy Restraint, ALL Required: (1) Express Court Authority s25(6)(a), (2) P Lacks Capacity for Decision s25(7), (3) Necessary to Prevent Harm s25(8), (4) Proportionate Response s25(9); Section 25(10) - Restraint Defined (Force/Restrict Liberty); Strict Conditions Protect P's Liberty; All Four Must Be Met; Otherwise Unlawful"
+      }
+    },
+    {
+      "id": "PROB-M6-Q049",
+      "question": "Section 18(3)(a) MCA gives the court power to 'give directions as to reports and accounts.' How does this relate to the deputy's duties?",
+      "options": {
+        "A": "It has no relation to deputy duties.",
+        "B": "The court can direct the nature, timing, and content of reports and accounts deputies must provide, ensuring accountability and oversight.",
+        "C": "Deputies choose what reports to file.",
+        "D": "Only the Public Guardian can require reports."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Court directs reports and accounts for oversight. Section 18(3)(a) MCA states the court may 'give directions as to... the accounts and reports to be produced by a person entrusted under section 7 with the care of P or the management of P's property or affairs, or by a deputy.' Combined with s 24(11)(b) (court may require deputy to submit reports to Public Guardian), the court has comprehensive oversight powers. The court can direct: (1) WHAT to report - financial accounts (receipts, expenditures, investments), personal welfare reports (P's living arrangements, healthcare, wellbeing), specific issues (why did you sell the house?). (2) WHEN to report - annually, quarterly, upon events (before major transactions), on application. (3) TO WHOM - to court, to Public Guardian (who monitors), to relevant persons. (4) FORMAT - detailed accounts with supporting documents, narrative reports, statutory forms. This ensures deputy accountability. Without reporting, deputies could mismanage P's affairs unchecked. Reports allow court/Public Guardian to: detect problems, question decisions, intervene if needed (vary/discharge deputyship per s 20(7)).",
+        "incorrect": {
+          "A": "This is incorrect because s 18(3)(a) directly relates to deputy duties. Deputies are 'person[s] entrusted... with the management of P's property or affairs' - the section explicitly mentions deputies. The court's power to direct reports/accounts is an oversight mechanism ensuring deputies fulfill their duties properly. The answer incorrectly severs the connection between s 18(3)(a) and deputy duties.",
+          "C": "This is incorrect because s 18(3)(a) gives the COURT power to direct reports/accounts. Deputies don't choose - the court directs, deputies comply. While deputies might proactively provide reports (good practice), the court can require specific reports at specific times. If deputies chose, they could avoid reporting problems. The mandatory court-directed reporting ensures transparency regardless of deputy preferences. The answer incorrectly makes reporting discretionary for deputies.",
+          "D": "This is incorrect because s 18(3)(a) gives the COURT power to direct reports, and s 24(11)(b) allows the court to require reports to the Public Guardian. Both the court and (via court requirement) the Public Guardian can require reports. The answer incorrectly limits reporting power to the Public Guardian. The court has direct power per s 18(3)(a); the Public Guardian receives reports per s 24(11)(b) when the court so requires."
+        },
+        "reference": "Section 18(3)(a) MCA - Court May Give Directions re Accounts and Reports from Deputies; Oversight and Accountability; Court Directs What, When, To Whom, Format; Section 24(11)(b) - Court May Require Reports to Public Guardian; Ensures Deputy Performance Monitored; Detects Problems; Allows Intervention; Deputies Must Comply with Court Directions"
+      }
+    },
+    {
+      "id": "PROB-M6-Q050",
+      "question": "Section 20(4)(a) MCA states 'a decision by the court is to be preferred to the appointment of a deputy to make a decision.' What does this principle mean in practice?",
+      "options": {
+        "A": "Deputies should never be appointed.",
+        "B": "If a specific decision can be made by the court, that is preferred over appointing a deputy to make ongoing decisions; deputies are for situations requiring routine ongoing decision-making.",
+        "C": "Court decisions are always superior to deputy decisions.",
+        "D": "The principle has no practical effect."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Court decision preferred for specific matters; deputy for ongoing management. Section 20(4)(a) MCA states: 'When deciding whether it is in P's best interests to appoint a deputy, the court must have regard to the principles that... a. A decision by the court is to be preferred to the appointment of a deputy to make a decision.' This means: if the issue is a SPECIFIC ONE-OFF DECISION (sell this house, consent to this surgery, resolve this dispute), the court should decide it itself (per s 20(2)(a)) rather than appoint a deputy. But if the issue requires ONGOING ROUTINE DECISIONS (pay bills monthly, manage investments, arrange day-to-day care), appointing a deputy (per s 20(2)(b)) is appropriate - the court can't make dozens of small decisions continuously. Example: P needs to sell house to fund care (one-off decision) and needs ongoing care management (routine decisions). Court should: (1) decide the house sale itself (specific decision preferred per s 20(4)(a)), (2) appoint deputy for care management (ongoing decisions impractical for court). The principle promotes least restrictive intervention - use deputy only when court decisions are impractical.",
+        "incorrect": {
+          "A": "This is incorrect because s 20(4)(a) creates a preference, not an absolute rule. Deputies should be appointed when ongoing routine decision-making is needed (court decisions impractical). The principle is: prefer court decisions where viable, use deputy when necessary. If P needs continuous management (pay bills, investments, care coordination), deputy appointment is appropriate despite the s 20(4)(a) preference. The answer incorrectly treats the preference as an absolute prohibition.",
+          "C": "This is incorrect because the principle is about WHEN to appoint deputies (prefer court decision for specific matters), not about the quality of court vs deputy decisions. Once a deputy is properly appointed with appropriate powers, the deputy's decisions (made per MCA principles and in P's best interests) are legally valid. They're not 'inferior' to court decisions. The principle is procedural (which mechanism to use) not qualitative (whose decisions are better). The answer misunderstands the principle.",
+          "D": "This is incorrect because s 20(4)(a) has significant practical effect. It guides courts: when applications seek both specific decisions and deputy appointment, make the specific decisions yourself (s 20(2)(a)) and only appoint deputy for ongoing matters (s 20(2)(b)). It promotes minimalist intervention - don't appoint deputy if court can resolve the issue. Courts regularly apply this principle, making specific orders and appointing deputies only for residual ongoing needs. The answer incorrectly dismisses the principle as meaningless."
+        },
+        "reference": "Section 20(4)(a) MCA - Court Decision Preferred Over Deputy Appointment; For Specific One-Off Decisions: Court Decides Per s20(2)(a); For Ongoing Routine Decisions: Appoint Deputy Per s20(2)(b); Least Restrictive Intervention; Court Can't Make Continuous Small Decisions; Deputy for Practical Ongoing Management; Preference Not Absolute Rule; Minimalist Approach"
+      }
+    }
+  ]
+}
+
