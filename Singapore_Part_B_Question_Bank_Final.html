@@ -1634,32 +1634,6 @@
             </div>
         </div>
 
-    <script>
-        // Main JavaScript functions for the platform
-        let currentPage = 'home';
-
-        function showPage(pageId) {
-            // Hide all pages
-            const pages = document.querySelectorAll('.main-content');
-            pages.forEach(page => page.classList.add('hidden'));
-            
-            // Show selected page
-            const targetPage = document.getElementById(pageId);
-            if (targetPage) {
-                targetPage.classList.remove('hidden');
-                currentPage = pageId;
-            }
-        }
-
-        function goBackToA2Ethics() {
-            showPage('a2-ethics-subjects');
-        }
-    </script>
-
-    <!-- Content Loader for Modular Architecture -->
-    <script src="js/content-loader.js"></script>
-</body>
-</html>
                     <table style="width: 100%; border-collapse: collapse; margin: 20px 0; border: 1px solid #ddd;">
                         <tr style="background-color: #a51c30; color: white;">
                             <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">Principle</th>
@@ -15661,9 +15635,19 @@ async function loadProbateQuiz(module) {
         window.showCorporateSubjects = showCorporateSubjects;
         window.showEthicsSubjects = showEthicsSubjects;
         window.showDisputeResolutionSubjects = showDisputeResolutionSubjects;
+        window.showPrivateClientSubjects = showPrivateClientSubjects;
+        window.showContemporarySubjects = showContemporarySubjects;
         window.showProbateModules = showProbateModules;
         window.loadProbateQuiz = loadProbateQuiz;
         window.goBackToPrivateClientSubjects = goBackToPrivateClientSubjects;
+        window.goBackToA2Ethics = goBackToA2Ethics;
+        window.goBackToSubjects = goBackToSubjects;
+        window.goHome = goHome;
+        window.startQuiz = startQuiz;
+        window.submitAnswer = submitAnswer;
+        window.nextQuestion = nextQuestion;
+        window.prevQuestion = prevQuestion;
+        window.showMainMenu = showMainMenu;
         
         // Initialize the platform
         document.addEventListener('DOMContentLoaded', function() {
@@ -15726,7 +15710,5 @@ async function loadProbateQuiz(module) {
         </div>
     </div>
 
-    <!-- Content Loader for Modular Architecture -->
-    <script src="js/content-loader.js"></script>
 </body>
 </html>image.png
