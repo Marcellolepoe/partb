@@ -13537,17 +13537,31 @@ const mediationQuestions = [
                 });
             }
 
-            // Render options
+            // Render options - handle both array and object formats
             const optionsContainer = document.getElementById('options-container');
             optionsContainer.innerHTML = '';
-            question.options.forEach((optionText, index) => {
-                const optionDiv = document.createElement('div');
-                optionDiv.className = 'option';
-                optionDiv.dataset.option = String.fromCharCode(65 + index);
-                optionDiv.innerHTML = optionText;
-                optionDiv.onclick = () => selectOption(optionDiv.dataset.option);
-                optionsContainer.appendChild(optionDiv);
-            });
+            
+            if (Array.isArray(question.options)) {
+                // Array format: ["A. text", "B. text", ...]
+                question.options.forEach((optionText, index) => {
+                    const optionDiv = document.createElement('div');
+                    optionDiv.className = 'option';
+                    optionDiv.dataset.option = String.fromCharCode(65 + index);
+                    optionDiv.innerHTML = optionText;
+                    optionDiv.onclick = () => selectOption(optionDiv.dataset.option);
+                    optionsContainer.appendChild(optionDiv);
+                });
+            } else {
+                // Object format: { "A": "text", "B": "text", ... }
+                Object.keys(question.options).forEach(key => {
+                    const optionDiv = document.createElement('div');
+                    optionDiv.className = 'option';
+                    optionDiv.dataset.option = key;
+                    optionDiv.innerHTML = `<strong>${key}.</strong> ${question.options[key]}`;
+                    optionDiv.onclick = () => selectOption(key);
+                    optionsContainer.appendChild(optionDiv);
+                });
+            }
 
             selectedAnswer = null;
             debugLog('Question rendered successfully');
@@ -13597,19 +13611,66 @@ const mediationQuestions = [
 
             // Display correct answer if incorrect
             if (!isCorrect) {
-                const correctAnswerText = question.options.find(opt => opt.startsWith(question.correct_answer + '.'));
+                let correctAnswerText;
+                if (Array.isArray(question.options)) {
+                    // Array format
+                    correctAnswerText = question.options.find(opt => opt.startsWith(question.correct_answer + '.'));
+                } else {
+                    // Object format
+                    correctAnswerText = `${question.correct_answer}. ${question.options[question.correct_answer]}`;
+                }
                 feedbackHtml += `<p><strong>Correct Answer:</strong> ${correctAnswerText}</p>`;
             }
 
-            // Brief explanation
-            feedbackHtml += `<p>${question.explanation}</p>`;
-
-            // Detailed explanation
-            feedbackHtml += `<h5>Detailed Analysis:</h5>`;
-            feedbackHtml += `<div>${formatDetailedExplanation(question.detailed_explanation)}</div>`;
-
-            if (question.reference) {
-                feedbackHtml += `<p><strong>Reference:</strong> ${question.reference}</p>`;
+            // Handle explanation - check if it's object or string format
+            if (typeof question.explanation === 'object' && question.explanation !== null) {
+                // New format: { correct: "...", incorrect: { A: "...", B: "..." }, reference: "..." }
+                
+                // Show why the correct answer is correct
+                if (question.explanation.correct) {
+                    feedbackHtml += `<div style="margin: 20px 0; padding: 15px; background: ${isCorrect ? '#d4edda' : '#f8f9fa'}; border-left: 4px solid ${isCorrect ? '#28a745' : '#6c757d'}; border-radius: 4px;">`;
+                    feedbackHtml += `<h5 style="margin-top: 0; color: ${isCorrect ? '#155724' : '#495057'};">Why ${question.correct_answer} is correct:</h5>`;
+                    feedbackHtml += `<p style="margin-bottom: 0;">${question.explanation.correct}</p>`;
+                    feedbackHtml += `</div>`;
+                }
+                
+                // Show why incorrect answers are wrong
+                if (question.explanation.incorrect) {
+                    feedbackHtml += `<div style="margin: 20px 0;">`;
+                    feedbackHtml += `<h5 style="color: #495057;">Why other options are incorrect:</h5>`;
+                    
+                    Object.keys(question.explanation.incorrect).forEach(key => {
+                        if (key !== question.correct_answer) {
+                            const isSelectedWrong = (key === selectedAnswer && !isCorrect);
+                            feedbackHtml += `<div style="margin: 10px 0; padding: 12px; background: ${isSelectedWrong ? '#f8d7da' : '#f8f9fa'}; border-left: 3px solid ${isSelectedWrong ? '#dc3545' : '#dee2e6'}; border-radius: 4px;">`;
+                            feedbackHtml += `<strong style="color: ${isSelectedWrong ? '#721c24' : '#495057'};">Option ${key}:</strong> `;
+                            feedbackHtml += `${question.explanation.incorrect[key]}`;
+                            feedbackHtml += `</div>`;
+                        }
+                    });
+                    feedbackHtml += `</div>`;
+                }
+                
+                // Show reference
+                if (question.explanation.reference) {
+                    feedbackHtml += `<div style="margin: 20px 0; padding: 12px; background: #e7f3ff; border-left: 4px solid #2196F3; border-radius: 4px;">`;
+                    feedbackHtml += `<p style="margin: 0;"><strong style="color: #0d47a1;">📚 Reference:</strong> ${question.explanation.reference}</p>`;
+                    feedbackHtml += `</div>`;
+                }
+                
+            } else {
+                // Old format: string explanation
+                feedbackHtml += `<p>${question.explanation}</p>`;
+                
+                // Detailed explanation if available
+                if (question.detailed_explanation) {
+                    feedbackHtml += `<h5>Detailed Analysis:</h5>`;
+                    feedbackHtml += `<div>${formatDetailedExplanation(question.detailed_explanation)}</div>`;
+                }
+                
+                if (question.reference) {
+                    feedbackHtml += `<p><strong>Reference:</strong> ${question.reference}</p>`;
+                }
             }
 
             feedbackDiv.innerHTML = feedbackHtml;
