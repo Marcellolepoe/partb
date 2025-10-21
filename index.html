@@ -13616,9 +13616,9 @@ const mediationQuestions = [
             document.getElementById('feedback-container').classList.add('hidden');
             document.getElementById('feedback-container').innerHTML = '';
 
-            // Hide submit and next buttons initially
+            // Show submit and next buttons
             document.getElementById('submit-btn').classList.remove('hidden');
-            document.getElementById('next-btn').classList.add('hidden');
+            document.getElementById('next-btn').classList.remove('hidden');
             document.getElementById('prev-btn').classList.add('hidden');
 
             // Show prev button if not first question
@@ -13815,9 +13815,9 @@ const mediationQuestions = [
                 // Hide feedback when navigating back
                 document.getElementById('feedback-container').classList.add('hidden');
                 document.getElementById('feedback-container').innerHTML = '';
-                // Ensure submit button is visible and next is hidden
+                // Ensure both submit and next buttons are visible
                 document.getElementById('submit-btn').classList.remove('hidden');
-                document.getElementById('next-btn').classList.add('hidden');
+                document.getElementById('next-btn').classList.remove('hidden');
             }
         }
 
@@ -13831,9 +13831,9 @@ const mediationQuestions = [
                 // Hide feedback when jumping
                 document.getElementById('feedback-container').classList.add('hidden');
                 document.getElementById('feedback-container').innerHTML = '';
-                // Ensure submit button is visible and next is hidden
+                // Ensure both submit and next buttons are visible
                 document.getElementById('submit-btn').classList.remove('hidden');
-                document.getElementById('next-btn').classList.add('hidden');
+                document.getElementById('next-btn').classList.remove('hidden');
             } else {
                 alert(`Please enter a number between 1 and ${currentQuestions.length}.`);
             }
