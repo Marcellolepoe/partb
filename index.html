@@ -3981,9 +3981,9 @@
                     <h4>B2. Probate and Succession Planning</h4>
                     <p>6 Modules • 288 Questions</p>
                 </div>
-                <div class="subject-card" onclick="alert('Questions for Real Estate Practice are coming soon!')">
+                <div class="subject-card" onclick="showRealEstateModules()">
                     <h4>B3. Real Estate Practice</h4>
-                    <p>Coming Soon</p>
+                    <p>3 Modules • 150 Questions</p>
                 </div>
                 <div class="subject-card" onclick="alert('Questions for Employment Law are coming soon!')">
                     <h4>B4. Employment Law</h4>
@@ -4030,6 +4030,30 @@
                 <div class="subject-card" onclick="loadProbateQuiz('module6')">
                     <h4>Module 6</h4>
                     <p>Deputyship</p>
+                    <small style="color: #666;">50 Questions</small>
+                </div>
+            </div>
+        </div>
+
+        <!-- Real Estate Practice Modules Menu -->
+        <div id="real-estate-modules" class="main-content hidden">
+            <button class="back-button" onclick="goBackToPrivateClientSubjects()">&#8592; Back to Private Client Practice</button>
+            <h2 class="menu-title">B3. Real Estate Practice</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 30px;">Select a module to begin practicing</p>
+            <div class="subjects-grid">
+                <div class="subject-card" onclick="loadRealEstateQuiz('module1')">
+                    <h4>Module 1</h4>
+                    <p>Property Types, Capacity, Searches & Stamp Duty</p>
+                    <small style="color: #666;">50 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadRealEstateQuiz('module2')">
+                    <h4>Module 2</h4>
+                    <p>Contracts & Conveyancing Process</p>
+                    <small style="color: #666;">50 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadRealEstateQuiz('module3')">
+                    <h4>Module 3</h4>
+                    <p>Mortgages, CPF, Completion & Licensed Housing</p>
                     <small style="color: #666;">50 Questions</small>
                 </div>
             </div>
@@ -13280,14 +13304,26 @@ const mediationQuestions = [
             console.log('showProbateModules called');
             document.getElementById('private-client-subjects').classList.add('hidden');
             document.getElementById('probate-modules').classList.remove('hidden');
+            document.getElementById('real-estate-modules').classList.add('hidden');
             document.getElementById('quiz-interface').classList.add('hidden');
             document.getElementById('global-home-button').classList.remove('hidden');
             currentPage = 'probate-modules';
         }
 
+        function showRealEstateModules() {
+            console.log('showRealEstateModules called');
+            document.getElementById('private-client-subjects').classList.add('hidden');
+            document.getElementById('probate-modules').classList.add('hidden');
+            document.getElementById('real-estate-modules').classList.remove('hidden');
+            document.getElementById('quiz-interface').classList.add('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'real-estate-modules';
+        }
+
         function goBackToPrivateClientSubjects() {
             console.log('goBackToPrivateClientSubjects called');
             document.getElementById('probate-modules').classList.add('hidden');
+            document.getElementById('real-estate-modules').classList.add('hidden');
             document.getElementById('quiz-interface').classList.add('hidden');
             document.getElementById('private-client-subjects').classList.remove('hidden');
             currentPage = 'private-client-subjects';
@@ -13319,7 +13355,7 @@ const mediationQuestions = [
                 currentPage === 'dispute-resolution-subjects' || currentPage === 'private-client-subjects' || 
                 currentPage === 'contemporary-subjects') {
                 showMainMenu();
-            } else if (currentPage === 'probate-modules') {
+            } else if (currentPage === 'probate-modules' || currentPage === 'real-estate-modules') {
                 showPrivateClientSubjects();
             } else if (currentPage.startsWith('a2-ethics-')) {
                 // If we're in any A2 ethics section, go back to A2 ethics subjects
@@ -13335,6 +13371,9 @@ const mediationQuestions = [
                 } else if (currentTopic && currentTopic.startsWith('probate-')) {
                     document.getElementById('quiz-interface').classList.add('hidden');
                     showProbateModules();
+                } else if (currentTopic && currentTopic.startsWith('real-estate-')) {
+                    document.getElementById('quiz-interface').classList.add('hidden');
+                    showRealEstateModules();
                 } else {
                     showMainMenu();
                 }
@@ -13458,6 +13497,32 @@ const mediationQuestions = [
             }
         }
 
+        // Real Estate Practice Data
+        const realEstateData = {
+            module1: null,  // Will be loaded from JSON
+            module2: null,
+            module3: null
+        };
+
+        // Function to load Real Estate module data
+        async function loadRealEstateModuleData(moduleNum) {
+            const moduleName = `module${moduleNum}`;
+            if (realEstateData[moduleName]) {
+                return realEstateData[moduleName];
+            }
+            
+            try {
+                const response = await fetch(`questions-real-estate-${moduleName}.json`);
+                const data = await response.json();
+                realEstateData[moduleName] = data.questions;
+                return data.questions;
+            } catch (error) {
+                console.error(`Error loading real estate module ${moduleNum}:`, error);
+                alert(`Error loading module data. Please try again.`);
+                return null;
+            }
+        }
+
         // Function to load Probate quiz
         async function loadProbateQuiz(module) {
             console.log('loadProbateQuiz called with module:', module);
@@ -13493,6 +13558,45 @@ const mediationQuestions = [
                 'module4': 'Module 4: Probate & Grant Applications',
                 'module5': 'Module 5: Mental Capacity Act & LPA',
                 'module6': 'Module 6: Deputyship'
+            };
+            document.getElementById('quiz-title').textContent = moduleNames[module];
+
+            // Render first question
+            renderQuestion();
+        }
+
+        // Function to load Real Estate quiz
+        async function loadRealEstateQuiz(module) {
+            console.log('loadRealEstateQuiz called with module:', module);
+            
+            const moduleNum = module.replace('module', '');
+            const questions = await loadRealEstateModuleData(moduleNum);
+            
+            if (!questions || questions.length === 0) {
+                alert('No questions available for this module.');
+                return;
+            }
+            
+            currentQuestions = questions;
+            currentQuestionIndex = 0;
+            selectedAnswer = null;
+            correctCount = 0;
+            incorrectCount = 0;
+            quizActive = true;
+            currentTopic = 'real-estate-' + module;
+            
+            // Hide real estate modules menu and show quiz interface
+            document.getElementById('real-estate-modules').classList.add('hidden');
+            document.getElementById('quiz-interface').classList.remove('hidden');
+            document.getElementById('quiz-back-button').classList.remove('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'quiz-interface';
+            
+            // Set quiz title
+            const moduleNames = {
+                'module1': 'Module 1: Property Types, Capacity, Searches & Stamp Duty',
+                'module2': 'Module 2: Contracts & Conveyancing Process',
+                'module3': 'Module 3: Mortgages, CPF, Completion & Licensed Housing'
             };
             document.getElementById('quiz-title').textContent = moduleNames[module];
 
@@ -15677,6 +15781,8 @@ const mediationQuestions = [
         window.showContemporarySubjects = showContemporarySubjects;
         window.showProbateModules = showProbateModules;
         window.loadProbateQuiz = loadProbateQuiz;
+        window.showRealEstateModules = showRealEstateModules;
+        window.loadRealEstateQuiz = loadRealEstateQuiz;
         window.goBackToPrivateClientSubjects = goBackToPrivateClientSubjects;
         window.goBackToA2Ethics = goBackToA2Ethics;
         window.goBackToSubjects = goBackToSubjects;
