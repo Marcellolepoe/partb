@@ -3985,13 +3985,13 @@
                     <h4>B3. Real Estate Practice</h4>
                     <p>3 Modules • 150 Questions</p>
                 </div>
-                <div class="subject-card" onclick="alert('Questions for Employment Law are coming soon!')">
+                <div class="subject-card" onclick="showEmploymentLawModules()">
                     <h4>B4. Employment Law</h4>
-                    <p>Coming Soon</p>
+                    <p>6 Modules • 266 Questions</p>
                 </div>
-                <div class="subject-card" onclick="alert('Questions for Personal Injury and Property Damage are coming soon!')">
+                <div class="subject-card" onclick="showPersonalInjuryModules()">
                     <h4>B5. Personal Injury and Property Damage</h4>
-                    <p>Coming Soon</p>
+                    <p>5 Modules • 86 Questions</p>
                 </div>
             </div>
         </div>
@@ -4055,6 +4055,79 @@
                     <h4>Module 3</h4>
                     <p>Mortgages, CPF, Completion & Licensed Housing</p>
                     <small style="color: #666;">50 Questions</small>
+                </div>
+            </div>
+        </div>
+
+        <!-- Employment Law Modules Menu -->
+        <div id="employment-law-modules" class="main-content hidden">
+            <button class="back-button" onclick="goBackToPrivateClientSubjects()">&#8592; Back to Private Client Practice</button>
+            <h2 class="menu-title">B4. Employment Law</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 30px;">Select a module to begin practicing</p>
+            <div class="subjects-grid">
+                <div class="subject-card" onclick="loadEmploymentLawQuiz('module1')">
+                    <h4>Module 1</h4>
+                    <p>Definition & Categories of Employees</p>
+                    <small style="color: #666;">50 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadEmploymentLawQuiz('module2')">
+                    <h4>Module 2</h4>
+                    <p>Statutory Obligations & Benefits</p>
+                    <small style="color: #666;">51 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadEmploymentLawQuiz('module3')">
+                    <h4>Module 3</h4>
+                    <p>Employment Contracts</p>
+                    <small style="color: #666;">52 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadEmploymentLawQuiz('module4')">
+                    <h4>Module 4</h4>
+                    <p>Industrial Relations & Workplace Regulations</p>
+                    <small style="color: #666;">40 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadEmploymentLawQuiz('module5')">
+                    <h4>Module 5</h4>
+                    <p>Performance Management, Misconduct & Due Inquiry</p>
+                    <small style="color: #666;">52 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadEmploymentLawQuiz('module6')">
+                    <h4>Module 6</h4>
+                    <p>Termination & Wrongful Dismissal</p>
+                    <small style="color: #666;">21 Questions</small>
+                </div>
+            </div>
+        </div>
+
+        <!-- Personal Injury Modules Menu -->
+        <div id="personal-injury-modules" class="main-content hidden">
+            <button class="back-button" onclick="goBackToPrivateClientSubjects()">&#8592; Back to Private Client Practice</button>
+            <h2 class="menu-title">B5. Personal Injury & Property Damage</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 30px;">Select a module to begin practicing</p>
+            <div class="subjects-grid">
+                <div class="subject-card" onclick="loadPersonalInjuryQuiz('module1')">
+                    <h4>Module 1</h4>
+                    <p>At the Scene & Immediate Actions</p>
+                    <small style="color: #666;">36 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadPersonalInjuryQuiz('module2')">
+                    <h4>Module 2</h4>
+                    <p>Pre-Action Protocol & FIDReC</p>
+                    <small style="color: #666;">11 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadPersonalInjuryQuiz('module3')">
+                    <h4>Module 3</h4>
+                    <p>Court Proceedings & Jurisdiction</p>
+                    <small style="color: #666;">8 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadPersonalInjuryQuiz('module4')">
+                    <h4>Module 4</h4>
+                    <p>Single Joint Expert</p>
+                    <small style="color: #666;">6 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadPersonalInjuryQuiz('module5')">
+                    <h4>Module 5</h4>
+                    <p>Causation & Liability Issues</p>
+                    <small style="color: #666;">25 Questions</small>
                 </div>
             </div>
         </div>
@@ -13315,15 +13388,43 @@ const mediationQuestions = [
             document.getElementById('private-client-subjects').classList.add('hidden');
             document.getElementById('probate-modules').classList.add('hidden');
             document.getElementById('real-estate-modules').classList.remove('hidden');
+            document.getElementById('employment-law-modules').classList.add('hidden');
+            document.getElementById('personal-injury-modules').classList.add('hidden');
             document.getElementById('quiz-interface').classList.add('hidden');
             document.getElementById('global-home-button').classList.remove('hidden');
             currentPage = 'real-estate-modules';
+        }
+
+        function showEmploymentLawModules() {
+            console.log('showEmploymentLawModules called');
+            document.getElementById('private-client-subjects').classList.add('hidden');
+            document.getElementById('probate-modules').classList.add('hidden');
+            document.getElementById('real-estate-modules').classList.add('hidden');
+            document.getElementById('employment-law-modules').classList.remove('hidden');
+            document.getElementById('personal-injury-modules').classList.add('hidden');
+            document.getElementById('quiz-interface').classList.add('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'employment-law-modules';
+        }
+
+        function showPersonalInjuryModules() {
+            console.log('showPersonalInjuryModules called');
+            document.getElementById('private-client-subjects').classList.add('hidden');
+            document.getElementById('probate-modules').classList.add('hidden');
+            document.getElementById('real-estate-modules').classList.add('hidden');
+            document.getElementById('employment-law-modules').classList.add('hidden');
+            document.getElementById('personal-injury-modules').classList.remove('hidden');
+            document.getElementById('quiz-interface').classList.add('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'personal-injury-modules';
         }
 
         function goBackToPrivateClientSubjects() {
             console.log('goBackToPrivateClientSubjects called');
             document.getElementById('probate-modules').classList.add('hidden');
             document.getElementById('real-estate-modules').classList.add('hidden');
+            document.getElementById('employment-law-modules').classList.add('hidden');
+            document.getElementById('personal-injury-modules').classList.add('hidden');
             document.getElementById('quiz-interface').classList.add('hidden');
             document.getElementById('private-client-subjects').classList.remove('hidden');
             currentPage = 'private-client-subjects';
@@ -13355,7 +13456,8 @@ const mediationQuestions = [
                 currentPage === 'dispute-resolution-subjects' || currentPage === 'private-client-subjects' || 
                 currentPage === 'contemporary-subjects') {
                 showMainMenu();
-            } else if (currentPage === 'probate-modules' || currentPage === 'real-estate-modules') {
+            } else if (currentPage === 'probate-modules' || currentPage === 'real-estate-modules' || 
+                       currentPage === 'employment-law-modules' || currentPage === 'personal-injury-modules') {
                 showPrivateClientSubjects();
             } else if (currentPage.startsWith('a2-ethics-')) {
                 // If we're in any A2 ethics section, go back to A2 ethics subjects
@@ -13374,6 +13476,12 @@ const mediationQuestions = [
                 } else if (currentTopic && currentTopic.startsWith('real-estate-')) {
                     document.getElementById('quiz-interface').classList.add('hidden');
                     showRealEstateModules();
+                } else if (currentTopic && currentTopic.startsWith('employment-law-')) {
+                    document.getElementById('quiz-interface').classList.add('hidden');
+                    showEmploymentLawModules();
+                } else if (currentTopic && currentTopic.startsWith('personal-injury-')) {
+                    document.getElementById('quiz-interface').classList.add('hidden');
+                    showPersonalInjuryModules();
                 } else {
                     showMainMenu();
                 }
@@ -13504,6 +13612,23 @@ const mediationQuestions = [
             module3: null
         };
 
+        const employmentLawData = {
+            module1: null,
+            module2: null,
+            module3: null,
+            module4: null,
+            module5: null,
+            module6: null
+        };
+
+        const personalInjuryData = {
+            module1: null,
+            module2: null,
+            module3: null,
+            module4: null,
+            module5: null
+        };
+
         // Function to load Real Estate module data
         async function loadRealEstateModuleData(moduleNum) {
             const moduleName = `module${moduleNum}`;
@@ -13518,6 +13643,44 @@ const mediationQuestions = [
                 return data.questions;
             } catch (error) {
                 console.error(`Error loading real estate module ${moduleNum}:`, error);
+                alert(`Error loading module data. Please try again.`);
+                return null;
+            }
+        }
+
+        // Function to load Employment Law module data
+        async function loadEmploymentLawModuleData(moduleNum) {
+            const moduleName = `module${moduleNum}`;
+            if (employmentLawData[moduleName]) {
+                return employmentLawData[moduleName];
+            }
+            
+            try {
+                const response = await fetch(`employment-${moduleName}-questions.json`);
+                const data = await response.json();
+                employmentLawData[moduleName] = data.questions;
+                return data.questions;
+            } catch (error) {
+                console.error(`Error loading employment law module ${moduleNum}:`, error);
+                alert(`Error loading module data. Please try again.`);
+                return null;
+            }
+        }
+
+        // Function to load Personal Injury module data
+        async function loadPersonalInjuryModuleData(moduleNum) {
+            const moduleName = `module${moduleNum}`;
+            if (personalInjuryData[moduleName]) {
+                return personalInjuryData[moduleName];
+            }
+            
+            try {
+                const response = await fetch(`pipd-${moduleName}-questions.json`);
+                const data = await response.json();
+                personalInjuryData[moduleName] = data.questions;
+                return data.questions;
+            } catch (error) {
+                console.error(`Error loading personal injury module ${moduleNum}:`, error);
                 alert(`Error loading module data. Please try again.`);
                 return null;
             }
@@ -13597,6 +13760,89 @@ const mediationQuestions = [
                 'module1': 'Module 1: Property Types, Capacity, Searches & Stamp Duty',
                 'module2': 'Module 2: Contracts & Conveyancing Process',
                 'module3': 'Module 3: Mortgages, CPF, Completion & Licensed Housing'
+            };
+            document.getElementById('quiz-title').textContent = moduleNames[module];
+
+            // Render first question
+            renderQuestion();
+        }
+
+        // Function to load Employment Law quiz
+        async function loadEmploymentLawQuiz(module) {
+            console.log('loadEmploymentLawQuiz called with module:', module);
+            
+            const moduleNum = module.replace('module', '');
+            const questions = await loadEmploymentLawModuleData(moduleNum);
+            
+            if (!questions || questions.length === 0) {
+                alert('No questions available for this module.');
+                return;
+            }
+            
+            currentQuestions = questions;
+            currentQuestionIndex = 0;
+            selectedAnswer = null;
+            correctCount = 0;
+            incorrectCount = 0;
+            quizActive = true;
+            currentTopic = 'employment-law-' + module;
+            
+            // Hide employment law modules menu and show quiz interface
+            document.getElementById('employment-law-modules').classList.add('hidden');
+            document.getElementById('quiz-interface').classList.remove('hidden');
+            document.getElementById('quiz-back-button').classList.remove('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'quiz-interface';
+            
+            // Set quiz title
+            const moduleNames = {
+                'module1': 'Module 1: Definition & Categories of Employees',
+                'module2': 'Module 2: Statutory Obligations & Benefits',
+                'module3': 'Module 3: Employment Contracts',
+                'module4': 'Module 4: Industrial Relations & Workplace Regulations',
+                'module5': 'Module 5: Performance Management, Misconduct & Due Inquiry',
+                'module6': 'Module 6: Termination & Wrongful Dismissal'
+            };
+            document.getElementById('quiz-title').textContent = moduleNames[module];
+
+            // Render first question
+            renderQuestion();
+        }
+
+        // Function to load Personal Injury quiz
+        async function loadPersonalInjuryQuiz(module) {
+            console.log('loadPersonalInjuryQuiz called with module:', module);
+            
+            const moduleNum = module.replace('module', '');
+            const questions = await loadPersonalInjuryModuleData(moduleNum);
+            
+            if (!questions || questions.length === 0) {
+                alert('No questions available for this module.');
+                return;
+            }
+            
+            currentQuestions = questions;
+            currentQuestionIndex = 0;
+            selectedAnswer = null;
+            correctCount = 0;
+            incorrectCount = 0;
+            quizActive = true;
+            currentTopic = 'personal-injury-' + module;
+            
+            // Hide personal injury modules menu and show quiz interface
+            document.getElementById('personal-injury-modules').classList.add('hidden');
+            document.getElementById('quiz-interface').classList.remove('hidden');
+            document.getElementById('quiz-back-button').classList.remove('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'quiz-interface';
+            
+            // Set quiz title
+            const moduleNames = {
+                'module1': 'Module 1: At the Scene & Immediate Actions',
+                'module2': 'Module 2: Pre-Action Protocol & FIDReC',
+                'module3': 'Module 3: Court Proceedings & Jurisdiction',
+                'module4': 'Module 4: Single Joint Expert',
+                'module5': 'Module 5: Causation & Liability Issues'
             };
             document.getElementById('quiz-title').textContent = moduleNames[module];
 
@@ -15783,6 +16029,10 @@ const mediationQuestions = [
         window.loadProbateQuiz = loadProbateQuiz;
         window.showRealEstateModules = showRealEstateModules;
         window.loadRealEstateQuiz = loadRealEstateQuiz;
+        window.showEmploymentLawModules = showEmploymentLawModules;
+        window.loadEmploymentLawQuiz = loadEmploymentLawQuiz;
+        window.showPersonalInjuryModules = showPersonalInjuryModules;
+        window.loadPersonalInjuryQuiz = loadPersonalInjuryQuiz;
         window.goBackToPrivateClientSubjects = goBackToPrivateClientSubjects;
         window.goBackToA2Ethics = goBackToA2Ethics;
         window.goBackToSubjects = goBackToSubjects;
