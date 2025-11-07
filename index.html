@@ -4137,17 +4137,17 @@
             <button class="back-button hidden" id="contemporary-back-button" onclick="goBackToSubjects()">&#8592; Back</button>
             <h2 class="menu-title">Contemporary Legal Knowledge & Practice Topics</h2>
             <div class="subjects-grid">
-                <div class="subject-card" onclick="alert('Questions for Data Protection and Cyber Regulations are coming soon!')">
-                    <h4>A1. Data Protection and Cyber Regulations</h4>
-                    <p>Coming Soon</p>
+                <div class="subject-card" onclick="showClkDpcrModules()">
+                    <h4>A1. Data Protection & Cyber Regulations</h4>
+                    <p>PDPA, cybersecurity governance, breach response</p>
                 </div>
-                <div class="subject-card" onclick="alert('Questions for Laws and Technology are coming soon!')">
+                <div class="subject-card" onclick="showClkLtModules()">
                     <h4>A2. Laws and Technology</h4>
-                    <p>Coming Soon</p>
+                    <p>Technology regulation, platforms, AI frameworks</p>
                 </div>
-                <div class="subject-card" onclick="alert('Questions for Comparative Laws are coming soon!')">
+                <div class="subject-card" onclick="showClkClModules()">
                     <h4>A3. Comparative Laws</h4>
-                    <p>Coming Soon</p>
+                    <p>Civil law traditions, remedies, hybrid systems</p>
                 </div>
                 <div class="subject-card" onclick="alert('Questions for Conflict of Laws are coming soon!')">
                     <h4>A4. Conflict of Laws</h4>
@@ -4155,6 +4155,70 @@
                 </div>
             </div>
         </div>
+
+        <!-- CLK Module Menus -->
+        <div id="clk-dpcr-modules" class="main-content hidden">
+            <button class="back-button" onclick="goBackToContemporarySubjects()">&#8592; Back to Contemporary Topics</button>
+            <h2 class="menu-title">A1. Data Protection & Cyber Regulations</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 30px;">Select a module to begin practicing</p>
+            <div class="subjects-grid">
+                <div class="subject-card" onclick="loadClkDpcrQuiz('module1')">
+                    <h4>Module 1</h4>
+                    <p>PDPA Fundamentals</p>
+                    <small style="color: #666;">40 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadClkDpcrQuiz('module2')">
+                    <h4>Module 2</h4>
+                    <p>PDPA Data Lifecycle Obligations</p>
+                    <small style="color: #666;">2 Questions</small>
+                </div>
+            </div>
+        </div>
+
+        <div id="clk-lt-modules" class="main-content hidden">
+            <button class="back-button" onclick="goBackToContemporarySubjects()">&#8592; Back to Contemporary Topics</button>
+            <h2 class="menu-title">A2. Laws and Technology</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 30px;">Select a module to begin practicing</p>
+            <div class="subjects-grid">
+                <div class="subject-card" onclick="loadClkLtQuiz('module1')">
+                    <h4>Module 1</h4>
+                    <p>Intro to Law & Technology</p>
+                    <small style="color: #666;">50 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadClkLtQuiz('module2')">
+                    <h4>Module 2</h4>
+                    <p>Case Studies: Automobiles & Early Internet</p>
+                    <small style="color: #666;">50 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadClkLtQuiz('module3')">
+                    <h4>Module 3</h4>
+                    <p>Electronic Transactions & Platforms</p>
+                    <small style="color: #666;">50 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadClkLtQuiz('module4')">
+                    <h4>Module 4</h4>
+                    <p>Blockchain & Artificial Intelligence</p>
+                    <small style="color: #666;">50 Questions</small>
+                </div>
+            </div>
+        </div>
+
+        <div id="clk-cl-modules" class="main-content hidden">
+            <button class="back-button" onclick="goBackToContemporarySubjects()">&#8592; Back to Contemporary Topics</button>
+            <h2 class="menu-title">A3. Comparative Laws</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 30px;">Select a module to begin practicing</p>
+            <div class="subjects-grid">
+                <div class="subject-card" onclick="loadClkClQuiz('module1')">
+                    <h4>Module 1</h4>
+                    <p>Civil Law Foundations</p>
+                    <small style="color: #666;">50 Questions</small>
+                </div>
+                <div class="subject-card" onclick="loadClkClQuiz('module2')">
+                    <h4>Module 2</h4>
+                    <p>Contract Interpretation & Remedies</p>
+                    <small style="color: #666;">20 Questions</small>
+                </div>
+            </div>
         </div>
 
         <!-- Quiz Interface -->
@@ -13293,6 +13357,9 @@ const mediationQuestions = [
             document.getElementById('dispute-resolution-subjects').classList.add('hidden');
             document.getElementById('private-client-subjects').classList.add('hidden');
             document.getElementById('contemporary-subjects').classList.add('hidden');
+            document.getElementById('clk-dpcr-modules').classList.add('hidden');
+            document.getElementById('clk-lt-modules').classList.add('hidden');
+            document.getElementById('clk-cl-modules').classList.add('hidden');
             document.getElementById('quiz-interface').classList.add('hidden');
             
             // Hide all A2 ethics sections
@@ -13419,6 +13486,49 @@ const mediationQuestions = [
             currentPage = 'personal-injury-modules';
         }
 
+        function showClkDpcrModules() {
+            console.log('showClkDpcrModules called');
+            document.getElementById('contemporary-subjects').classList.add('hidden');
+            document.getElementById('clk-dpcr-modules').classList.remove('hidden');
+            document.getElementById('clk-lt-modules').classList.add('hidden');
+            document.getElementById('clk-cl-modules').classList.add('hidden');
+            document.getElementById('quiz-interface').classList.add('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'clk-dpcr-modules';
+        }
+
+        function showClkLtModules() {
+            console.log('showClkLtModules called');
+            document.getElementById('contemporary-subjects').classList.add('hidden');
+            document.getElementById('clk-dpcr-modules').classList.add('hidden');
+            document.getElementById('clk-lt-modules').classList.remove('hidden');
+            document.getElementById('clk-cl-modules').classList.add('hidden');
+            document.getElementById('quiz-interface').classList.add('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'clk-lt-modules';
+        }
+
+        function showClkClModules() {
+            console.log('showClkClModules called');
+            document.getElementById('contemporary-subjects').classList.add('hidden');
+            document.getElementById('clk-dpcr-modules').classList.add('hidden');
+            document.getElementById('clk-lt-modules').classList.add('hidden');
+            document.getElementById('clk-cl-modules').classList.remove('hidden');
+            document.getElementById('quiz-interface').classList.add('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'clk-cl-modules';
+        }
+
+        function goBackToContemporarySubjects() {
+            console.log('goBackToContemporarySubjects called');
+            document.getElementById('clk-dpcr-modules').classList.add('hidden');
+            document.getElementById('clk-lt-modules').classList.add('hidden');
+            document.getElementById('clk-cl-modules').classList.add('hidden');
+            document.getElementById('quiz-interface').classList.add('hidden');
+            document.getElementById('contemporary-subjects').classList.remove('hidden');
+            currentPage = 'contemporary-subjects';
+        }
+
         function goBackToPrivateClientSubjects() {
             console.log('goBackToPrivateClientSubjects called');
             document.getElementById('probate-modules').classList.add('hidden');
@@ -13438,6 +13548,9 @@ const mediationQuestions = [
             document.getElementById('private-client-subjects').classList.add('hidden');
             document.getElementById('contemporary-subjects').classList.remove('hidden');
             document.getElementById('quiz-interface').classList.add('hidden');
+            document.getElementById('clk-dpcr-modules').classList.add('hidden');
+            document.getElementById('clk-lt-modules').classList.add('hidden');
+            document.getElementById('clk-cl-modules').classList.add('hidden');
             
             // Hide all A2 ethics sections
             hideAllA2EthicsSections();
@@ -13456,6 +13569,9 @@ const mediationQuestions = [
                 currentPage === 'dispute-resolution-subjects' || currentPage === 'private-client-subjects' || 
                 currentPage === 'contemporary-subjects') {
                 showMainMenu();
+            } else if (currentPage === 'clk-dpcr-modules' || currentPage === 'clk-lt-modules' || 
+                       currentPage === 'clk-cl-modules') {
+                goBackToContemporarySubjects();
             } else if (currentPage === 'probate-modules' || currentPage === 'real-estate-modules' || 
                        currentPage === 'employment-law-modules' || currentPage === 'personal-injury-modules') {
                 showPrivateClientSubjects();
@@ -13482,6 +13598,15 @@ const mediationQuestions = [
                 } else if (currentTopic && currentTopic.startsWith('personal-injury-')) {
                     document.getElementById('quiz-interface').classList.add('hidden');
                     showPersonalInjuryModules();
+                } else if (currentTopic && currentTopic.startsWith('clk-dpcr-')) {
+                    document.getElementById('quiz-interface').classList.add('hidden');
+                    showClkDpcrModules();
+                } else if (currentTopic && currentTopic.startsWith('clk-lt-')) {
+                    document.getElementById('quiz-interface').classList.add('hidden');
+                    showClkLtModules();
+                } else if (currentTopic && currentTopic.startsWith('clk-cl-')) {
+                    document.getElementById('quiz-interface').classList.add('hidden');
+                    showClkClModules();
                 } else {
                     showMainMenu();
                 }
@@ -13629,6 +13754,23 @@ const mediationQuestions = [
             module5: null
         };
 
+        const clkDpcrData = {
+            module1: null,
+            module2: null
+        };
+
+        const clkLtData = {
+            module1: null,
+            module2: null,
+            module3: null,
+            module4: null
+        };
+
+        const clkClData = {
+            module1: null,
+            module2: null
+        };
+
         // Function to load Real Estate module data
         async function loadRealEstateModuleData(moduleNum) {
             const moduleName = `module${moduleNum}`;
@@ -13684,6 +13826,164 @@ const mediationQuestions = [
                 alert(`Error loading module data. Please try again.`);
                 return null;
             }
+        }
+
+        async function loadClkDpcrModuleData(moduleNum) {
+            const moduleName = `module${moduleNum}`;
+            if (clkDpcrData[moduleName]) {
+                return clkDpcrData[moduleName];
+            }
+
+            try {
+                const response = await fetch(`clk-dpcr-${moduleName}-questions.json`);
+                const data = await response.json();
+                clkDpcrData[moduleName] = data.questions;
+                return data.questions;
+            } catch (error) {
+                console.error(`Error loading CLK DPCR module ${moduleNum}:`, error);
+                alert(`Error loading module data. Please try again.`);
+                return null;
+            }
+        }
+
+        async function loadClkLtModuleData(moduleNum) {
+            const moduleName = `module${moduleNum}`;
+            if (clkLtData[moduleName]) {
+                return clkLtData[moduleName];
+            }
+
+            try {
+                const response = await fetch(`clk-lt-${moduleName}-questions.json`);
+                const data = await response.json();
+                clkLtData[moduleName] = data.questions;
+                return data.questions;
+            } catch (error) {
+                console.error(`Error loading CLK Laws & Technology module ${moduleNum}:`, error);
+                alert(`Error loading module data. Please try again.`);
+                return null;
+            }
+        }
+
+        async function loadClkClModuleData(moduleNum) {
+            const moduleName = `module${moduleNum}`;
+            if (clkClData[moduleName]) {
+                return clkClData[moduleName];
+            }
+
+            try {
+                const response = await fetch(`clk-cl-${moduleName}-questions.json`);
+                const data = await response.json();
+                clkClData[moduleName] = data.questions;
+                return data.questions;
+            } catch (error) {
+                console.error(`Error loading CLK Comparative Laws module ${moduleNum}:`, error);
+                alert(`Error loading module data. Please try again.`);
+                return null;
+            }
+        }
+
+        async function loadClkDpcrQuiz(module) {
+            console.log('loadClkDpcrQuiz called with module:', module);
+
+            const moduleNum = module.replace('module', '');
+            const questions = await loadClkDpcrModuleData(moduleNum);
+
+            if (!questions || questions.length === 0) {
+                alert('No questions available for this module.');
+                return;
+            }
+
+            currentQuestions = questions;
+            currentQuestionIndex = 0;
+            selectedAnswer = null;
+            correctCount = 0;
+            incorrectCount = 0;
+            quizActive = true;
+            currentTopic = 'clk-dpcr-' + module;
+
+            document.getElementById('clk-dpcr-modules').classList.add('hidden');
+            document.getElementById('quiz-interface').classList.remove('hidden');
+            document.getElementById('quiz-back-button').classList.remove('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'quiz-interface';
+
+            const moduleNames = {
+                'module1': 'Module 1: PDPA Fundamentals',
+                'module2': 'Module 2: PDPA Data Lifecycle Obligations'
+            };
+            document.getElementById('quiz-title').textContent = moduleNames[module] || 'Contemporary Legal Knowledge';
+
+            renderQuestion();
+        }
+
+        async function loadClkLtQuiz(module) {
+            console.log('loadClkLtQuiz called with module:', module);
+
+            const moduleNum = module.replace('module', '');
+            const questions = await loadClkLtModuleData(moduleNum);
+
+            if (!questions || questions.length === 0) {
+                alert('No questions available for this module.');
+                return;
+            }
+
+            currentQuestions = questions;
+            currentQuestionIndex = 0;
+            selectedAnswer = null;
+            correctCount = 0;
+            incorrectCount = 0;
+            quizActive = true;
+            currentTopic = 'clk-lt-' + module;
+
+            document.getElementById('clk-lt-modules').classList.add('hidden');
+            document.getElementById('quiz-interface').classList.remove('hidden');
+            document.getElementById('quiz-back-button').classList.remove('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'quiz-interface';
+
+            const moduleNames = {
+                'module1': 'Module 1: Introduction to Law & Technology',
+                'module2': 'Module 2: Case Studies - Automobiles & Early Internet Regulation',
+                'module3': 'Module 3: Electronic Transactions & Digital Platforms',
+                'module4': 'Module 4: Blockchain & Artificial Intelligence'
+            };
+            document.getElementById('quiz-title').textContent = moduleNames[module] || 'Contemporary Legal Knowledge';
+
+            renderQuestion();
+        }
+
+        async function loadClkClQuiz(module) {
+            console.log('loadClkClQuiz called with module:', module);
+
+            const moduleNum = module.replace('module', '');
+            const questions = await loadClkClModuleData(moduleNum);
+
+            if (!questions || questions.length === 0) {
+                alert('No questions available for this module.');
+                return;
+            }
+
+            currentQuestions = questions;
+            currentQuestionIndex = 0;
+            selectedAnswer = null;
+            correctCount = 0;
+            incorrectCount = 0;
+            quizActive = true;
+            currentTopic = 'clk-cl-' + module;
+
+            document.getElementById('clk-cl-modules').classList.add('hidden');
+            document.getElementById('quiz-interface').classList.remove('hidden');
+            document.getElementById('quiz-back-button').classList.remove('hidden');
+            document.getElementById('global-home-button').classList.remove('hidden');
+            currentPage = 'quiz-interface';
+
+            const moduleNames = {
+                'module1': 'Module 1: Civil Law Foundations',
+                'module2': 'Module 2: Contract Interpretation & Remedies'
+            };
+            document.getElementById('quiz-title').textContent = moduleNames[module] || 'Contemporary Legal Knowledge';
+
+            renderQuestion();
         }
 
         // Function to load Probate quiz
@@ -16025,6 +16325,10 @@ const mediationQuestions = [
         window.showDisputeResolutionSubjects = showDisputeResolutionSubjects;
         window.showPrivateClientSubjects = showPrivateClientSubjects;
         window.showContemporarySubjects = showContemporarySubjects;
+        window.showClkDpcrModules = showClkDpcrModules;
+        window.showClkLtModules = showClkLtModules;
+        window.showClkClModules = showClkClModules;
+        window.goBackToContemporarySubjects = goBackToContemporarySubjects;
         window.showProbateModules = showProbateModules;
         window.loadProbateQuiz = loadProbateQuiz;
         window.showRealEstateModules = showRealEstateModules;
@@ -16033,6 +16337,9 @@ const mediationQuestions = [
         window.loadEmploymentLawQuiz = loadEmploymentLawQuiz;
         window.showPersonalInjuryModules = showPersonalInjuryModules;
         window.loadPersonalInjuryQuiz = loadPersonalInjuryQuiz;
+        window.loadClkDpcrQuiz = loadClkDpcrQuiz;
+        window.loadClkLtQuiz = loadClkLtQuiz;
+        window.loadClkClQuiz = loadClkClQuiz;
         window.goBackToPrivateClientSubjects = goBackToPrivateClientSubjects;
         window.goBackToA2Ethics = goBackToA2Ethics;
         window.goBackToSubjects = goBackToSubjects;

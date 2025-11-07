@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2024-01-15",
+  "lastUpdated": "2025-11-07",
   "subjects": {
     "banking": {
       "name": "Banking & Finance",
@@ -91,6 +91,54 @@
       "file": "muslim-family-law-module5.json",
       "questionCount": 20,
       "description": "Faraid, 1/3 rule, CPF nominations, joint tenancy, hibah, and inheritance certificates"
+    },
+    "clk-dpcr-module1": {
+      "name": "CLK A1 Module 1: PDPA Fundamentals",
+      "file": "clk-dpcr-module1-questions.json",
+      "questionCount": 40,
+      "description": "Core PDPA definitions, consent models, and notification duties"
+    },
+    "clk-dpcr-module2": {
+      "name": "CLK A1 Module 2: PDPA Data Lifecycle Obligations",
+      "file": "clk-dpcr-module2-questions.json",
+      "questionCount": 2,
+      "description": "Accuracy, transfer, and retention obligations across the data lifecycle"
+    },
+    "clk-lt-module1": {
+      "name": "CLK A2 Module 1: Introduction to Law & Technology",
+      "file": "clk-lt-module1-questions.json",
+      "questionCount": 50,
+      "description": "Foundational tech law theories, regulatory analogies, and governance models"
+    },
+    "clk-lt-module2": {
+      "name": "CLK A2 Module 2: Case Studies – Automobiles & Early Internet",
+      "file": "clk-lt-module2-questions.json",
+      "questionCount": 50,
+      "description": "Historical tech regulation case studies and lessons for modern frameworks"
+    },
+    "clk-lt-module3": {
+      "name": "CLK A2 Module 3: Electronic Transactions & Platforms",
+      "file": "clk-lt-module3-questions.json",
+      "questionCount": 50,
+      "description": "Digital contracts, platform liability, and intermediary governance"
+    },
+    "clk-lt-module4": {
+      "name": "CLK A2 Module 4: Blockchain & Artificial Intelligence",
+      "file": "clk-lt-module4-questions.json",
+      "questionCount": 50,
+      "description": "Distributed ledger regulation, smart contracts, and AI accountability"
+    },
+    "clk-cl-module1": {
+      "name": "CLK A3 Module 1: Civil Law Foundations",
+      "file": "clk-cl-module1-questions.json",
+      "questionCount": 50,
+      "description": "Comparative civil law traditions, sources, and institutional structures"
+    },
+    "clk-cl-module2": {
+      "name": "CLK A3 Module 2: Contract Interpretation & Remedies",
+      "file": "clk-cl-module2-questions.json",
+      "questionCount": 20,
+      "description": "Cross-jurisdictional approaches to contractual interpretation and relief"
     }
   },
   "categories": {
@@ -112,7 +160,16 @@
     },
     "contemporary": {
       "name": "Contemporary Legal Knowledge & Practice",
-      "subjects": []
+      "subjects": [
+        "clk-dpcr-module1",
+        "clk-dpcr-module2",
+        "clk-lt-module1",
+        "clk-lt-module2",
+        "clk-lt-module3",
+        "clk-lt-module4",
+        "clk-cl-module1",
+        "clk-cl-module2"
+      ]
     }
   }
 }

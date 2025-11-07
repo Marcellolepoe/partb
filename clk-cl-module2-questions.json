@@ -1,0 +1,705 @@
+{
+  "module": "CLK Module 3: Comparative Laws - Module 2: Contract Interpretation & Remedies",
+  "questions": [
+    {
+      "id": "CLK-CL-M2-Q001",
+      "question": "What interpretive safeguard does Article 1344 of the Indonesian Civil Code provide when contract wording is unclear?",
+      "options": {
+        "A": "It instructs courts to adopt any interpretation that frustrates enforcement.",
+        "B": "It requires that, where clauses admit several meanings, the interpretation that preserves enforceability of the contract must be preferred.",
+        "C": "It compels judges to disregard party intention entirely.",
+        "D": "It directs courts to follow foreign precedents instead of the code." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 1344 is designed to sustain, not derail, contractual effectiveness when text is unclear.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-interpretation-article-1344\">Art 1344 – Preserving Enforceability</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "When multiple meanings are possible, courts choose the reading that keeps the agreement enforceable, aligning with the civil law priority of upholding the parties’ bargain.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-interpretation-article-1344\">Art 1344 – Preserving Enforceability</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Articles 1343–1351 emphasise discerning true party intention rather than discarding it.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-interpretation-articles-1343-1351\">Articles 1343–1351 – Common Intention</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Indonesian interpretation starts with the Civil Code and context, not foreign precedent.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-interpretation-method\">Interpretive Method – Domestic Primacy</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q002",
+      "question": "According to Jesa Triori’s commentary, what is the primary task when applying Articles 1343–1351 of the Indonesian Civil Code?",
+      "options": {
+        "A": "Identifying the party with the stronger bargaining position.",
+        "B": "Discovering the parties’ common intention at the time the contract was concluded, using context and custom where necessary.",
+        "C": "Prioritising literal word meanings irrespective of context.",
+        "D": "Transposing English contract doctrines wholesale." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The Indonesian approach does not hinge on bargaining power; it centres on shared contractual intention.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-common-intention\">Articles 1343–1351 – Common Intention</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Triori explains that courts reconstruct the parties’ mutual intention at formation using context, custom, and surrounding circumstances when wording is unclear.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-common-intention\">Articles 1343–1351 – Common Intention</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Literal meaning yields once ambiguity exists; the Civil Code directs judges to consider broader context.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-interpretation-method\">Interpretive Method – Beyond Literalism</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Indonesian courts rely on their own code-based doctrinal tools rather than importing English doctrines wholesale.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-interpretation-method\">Interpretive Method – Domestic Primacy</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q003",
+      "question": "What did Thai Supreme Court Judgment 1375/2505 demonstrate about customary practice in contract interpretation?",
+      "options": {
+        "A": "Customs can never supplement written contracts.",
+        "B": "Even absent express terms, industry custom (tight packing of jute in freight forwarding) became part of the contract, and failure to comply constituted breach.",
+        "C": "Courts disregard customs unless codified in statutes.",
+        "D": "Customary practice only matters in criminal law." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Section 368 CCC expressly allows usage and custom to supplement contractual obligations.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-custom-good-faith\">Thai CCC s368 – Custom and Good Faith</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Judgment 1375/2505 treated the industry custom of tightly packing jute as implied, and non-compliance was a breach under Section 368 CCC.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-custom-good-faith\">Thai CCC s368 – Custom and Good Faith</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Thai courts can incorporate customary practices even when not codified elsewhere.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-custom-good-faith\">Thai CCC s368 – Custom and Good Faith</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Customary usage informs civil contract disputes, particularly on performance standards.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-custom-good-faith\">Thai CCC s368 – Custom and Good Faith</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q004",
+      "question": "What principle did Thai Supreme Court Judgment 2210/2526 affirm regarding clear contractual wording?",
+      "options": {
+        "A": "That courts must always look beyond the written contract.",
+        "B": "That when provisions are clear, parties may not adduce external evidence to contradict them, and courts need not interpret beyond the written terms.",
+        "C": "That titles override substantive provisions.",
+        "D": "That oral testimony automatically prevails over written clauses." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Thai courts resort to contextual evidence only where ambiguity exists; clear text stands on its own.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-plain-meaning\">Thai CCC – Plain Meaning Rule</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Judgment 2210/2526 confirms that unambiguous clauses bar contradictory extrinsic evidence, so courts need not reinterpret beyond the written words.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-plain-meaning\">Thai CCC – Plain Meaning Rule</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Headings do not override operative clauses; substance controls under Thai interpretation rules.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-interpretive-hierarchy\">Thai Interpretation – Hierarchy of Text</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "When wording is clear, the written provisions prevail; oral testimony cannot contradict them.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-plain-meaning\">Thai CCC – Plain Meaning Rule</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q005",
+      "question": "How does Section 11 of the Thai CCC protect obligors when interpreting ambiguous clauses?",
+      "options": {
+        "A": "It favours creditors in all cases.",
+        "B": "It mandates that, in cases of doubt, interpretation should be in favour of the party who bears the obligation, narrowing scope against the debtor absent clear words (e.g., mortgage guarantee case).",
+        "C": "It allows courts to disregard the written contract entirely.",
+        "D": "It requires debts to be expanded beyond the written text." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Section 11 protects debtors by resolving doubt in their favour, so it does not privilege creditors.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-contra-proferentem\">Thai CCC s11 – Ambiguity Favouring Obligors</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Thai courts construe uncertain obligations against the creditor, illustrated by the mortgage guarantee decision limiting liability to the debtor’s own debts.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-contra-proferentem\">Thai CCC s11 – Ambiguity Favouring Obligors</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Interpretation respects the document but narrows ambiguous burdens rather than disregarding the text.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-contra-proferentem\">Thai CCC s11 – Ambiguity Favouring Obligors</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Section 11 curtails rather than expands unclear obligations, ensuring debtors are not saddled with unexpected liabilities.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-contra-proferentem\">Thai CCC s11 – Ambiguity Favouring Obligors</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q006",
+      "question": "What did Thai Supreme Court Judgment 478/2544 illustrate about the power of good faith to override literal terms?",
+      "options": {
+        "A": "Good faith is irrelevant once a clause is written.",
+        "B": "Even where usage was unspecified, good faith and ordinary custom required allowing vehicular use of a right-of-way, so narrowing it to pedestrian access breached the contract.",
+        "C": "Good faith only applies to tort claims.",
+        "D": "Good faith excuses non-performance by default." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Thai law allows good faith and custom to supplement written terms when necessary to achieve their purpose.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-good-faith-performance\">Thai CCC – Good Faith Performance</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Judgment 478/2544 required vehicular access because ordinary use and good faith demanded it, even though the clause was silent about vehicles.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-good-faith-performance\">Thai CCC – Good Faith Performance</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Good faith duties operate across contractual performance, not solely in tort contexts.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-good-faith-performance\">Thai CCC – Good Faith Performance</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Good faith shapes how obligations are fulfilled; it does not grant automatic excuses for non-performance.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-good-faith-performance\">Thai CCC – Good Faith Performance</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q007",
+      "question": "How do Articles 10–14 of the Thai CCC assist in filling contractual gaps when intentions cannot be ascertained?",
+      "options": {
+        "A": "They compel courts to void the contract.",
+        "B": "They provide default interpretive rules (e.g., prefer effective meanings, favour obligors, written words over figures, lowest amount when conflicting, Thai text prevails), ensuring predictable outcomes when intent is unclear.",
+        "C": "They direct courts to apply foreign law.",
+        "D": "They require parties to renegotiate before litigation." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Sections 10–14 exist to uphold contracts by clarifying doubtful terms, not to void agreements.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-interpretive-defaults\">Thai CCC ss10–14 – Default Rules</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The code supplies default tie-breakers—choose meanings that render terms effective, favour obligors, prioritise words, select lowest amounts, and default to Thai text—when intent cannot be resolved.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-interpretive-defaults\">Thai CCC ss10–14 – Default Rules</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "These are domestic statutory defaults; they do not authorise applying foreign law.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-interpretive-defaults\">Thai CCC ss10–14 – Default Rules</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Parties need not renegotiate before courts apply the code’s default interpretation rules.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-interpretive-defaults\">Thai CCC ss10–14 – Default Rules</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q008",
+      "question": "Why did the Istanbul tribunal require claimants to elect remedies promptly under Article 125 of the Turkish Code of Obligations (TCO)?",
+      "options": {
+        "A": "Because Turkish law forbids damages claims altogether.",
+        "B": "Because once a party insists on performance (by not electing rescission/positive or negative damages), it is deemed to have chosen performance and may later recover only delay damages; failure to elect barred their positive/negative damages claim.",
+        "C": "Because Turkish law automatically awards punitive damages.",
+        "D": "Because Article 125 applies only to tort claims." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Turkish law still allows damages, but the election must be made promptly under Article 125.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-remedy-election\">TCO Art 125 – Remedy Elections</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Failing to elect rescission or damages signals an insistence on performance, leaving only delay damages later, which barred the claimant’s positive/negative damages claim.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-remedy-election\">TCO Art 125 – Remedy Elections</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Article 125 does not create punitive damages; it governs selection among performance, positive, or negative damages.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-remedy-election\">TCO Art 125 – Remedy Elections</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Article 125 addresses contractual remedies rather than tort liabilities.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-remedy-election\">TCO Art 125 – Remedy Elections</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q009",
+      "question": "How do Turkish positive and negative damages differ under Articles 126 and 125(3) TCO?",
+      "options": {
+        "A": "Positive damages refer to emotional distress; negative damages to punitive awards.",
+        "B": "Positive damages measure expectation interest (difference between contract price and fair market value at termination), while negative damages approximate reliance interest (position had the contract never been made).",
+        "C": "Positive damages are unavailable; only negative damages exist.",
+        "D": "Negative damages equal double the contract price." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Positive and negative damages address economic loss categories, not emotional distress or punitive awards.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-positive-negative-damages\">TCO Arts 125(3) & 126 – Damages Categories</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Positive damages capture expectation loss (contract price vs market value), while negative damages restore the pre-contract position after rescission.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-positive-negative-damages\">TCO Arts 125(3) & 126 – Damages Categories</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Both expectation and reliance measures are available in Turkish contract law.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-positive-negative-damages\">TCO Arts 125(3) & 126 – Damages Categories</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Negative damages do not double amounts; they reimburse the loss incurred by entering the contract.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-positive-negative-damages\">TCO Arts 125(3) & 126 – Damages Categories</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q010",
+      "question": "Why did the tribunal reject the sellers’ damages calculation in the Turkish case study?",
+      "options": {
+        "A": "Because Turkish law disallows comparing contract price to subsequent sale price years later; damages must reflect value at termination or the position absent the contract, not later market movements.",
+        "B": "Because damages are never available for wrongful termination.",
+        "C": "Because Turkish law ignores expectation interest entirely.",
+        "D": "Because the tribunal lacked jurisdiction over damages claims." 
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Article 126 measures positive damages at termination; using a later resale price years afterward misstates loss, so the tribunal rejected that methodology.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-damages-valuation\">TCO Damages – Valuation at Termination</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Turkish law does allow damages for wrongful termination when calculated under Articles 125–126.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-damages-valuation\">TCO Damages – Valuation at Termination</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Expectation losses are recognised as positive damages; the problem was the valuation date, not the head of loss.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-damages-valuation\">TCO Damages – Valuation at Termination</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Jurisdiction was accepted; only the damages calculation was criticised.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-damages-valuation\">TCO Damages – Valuation at Termination</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q011",
+      "question": "How does the Indonesian Civil Code treat contracts concluded in a foreign language without an Indonesian version, in light of the 2023 Supreme Court circular?",
+      "options": {
+        "A": "All foreign-language contracts remain automatically void.",
+        "B": "Contracts lacking an Indonesian version can only be annulled if the absence resulted from bad faith; genuine mistakes may be cured, reflecting later clarification of Law No. 24/2009.",
+        "C": "The circular declared the language law unconstitutional.",
+        "D": "Foreign-language contracts are now unenforceable under any circumstance." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The circular removed automatic nullity; only bad-faith omissions risk annulment.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-language-law\">Indonesian Language Law – 2023 Circular</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Contracts without an Indonesian version are voidable only if the omission stems from bad faith, consistent with Regulation No. 63/2019 and the 2023 Supreme Court circular.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-language-law\">Indonesian Language Law – 2023 Circular</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The circular interprets but does not invalidate Law No. 24/2009.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-language-law\">Indonesian Language Law – 2023 Circular</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Foreign-language contracts remain enforceable when parties comply or cure good-faith omissions.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-language-law\">Indonesian Language Law – 2023 Circular</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q012",
+      "question": "How does Section 12 of the Thai CCC resolve discrepancies between amounts written in words and numerals?",
+      "options": {
+        "A": "Numerals always prevail over words.",
+        "B": "Words control over numerals when intent cannot be ascertained, ensuring the written-out amount governs.",
+        "C": "Courts must average the two amounts.",
+        "D": "The larger figure automatically applies." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Section 12 expressly favours spelled-out words over numerals when figures conflict.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-section12\">Thai CCC s12 – Words Prevail</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Thai Supreme Court precedent confirms that words control over digits when intent is unclear, providing certainty for ambiguous amounts.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-section12\">Thai CCC s12 – Words Prevail</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The CCC does not instruct courts to average conflicting amounts.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-section12\">Thai CCC s12 – Words Prevail</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Section 12 does not automatically select the larger number; it prioritises the written-out amount.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-section12\">Thai CCC s12 – Words Prevail</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q013",
+      "question": "What interpretive default does Section 13 of the Thai CCC impose when multiple conflicting figures appear?",
+      "options": {
+        "A": "Select the highest figure to maximise compensation.",
+        "B": "Apply the lowest amount if real intent cannot be ascertained, reducing exposure for the obligor.",
+        "C": "Discard the contract entirely.",
+        "D": "Invoke punitive surcharges." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Section 13 resolves inconsistent figures by selecting the lowest amount, not the highest.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-section13\">Thai CCC s13 – Lowest Figure Rule</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The provision protects obligors by defaulting to the lowest conflicting amount when intent cannot otherwise be ascertained.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-section13\">Thai CCC s13 – Lowest Figure Rule</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "These interpretive defaults keep the contract operative rather than voiding it.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-interpretive-defaults\">Thai CCC ss10–14 – Default Rules</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The statute does not impose punitive surcharges; it narrows liability to the minimum figure.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-section13\">Thai CCC s13 – Lowest Figure Rule</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q014",
+      "question": "Why does Section 14 of the Thai CCC give precedence to the Thai language in multi-language contracts?",
+      "options": {
+        "A": "Because foreign languages are prohibited in Thai contracts.",
+        "B": "Because if parties cannot ascertain which language prevails, Thai text governs, providing certainty in domestic transactions.",
+        "C": "Because Thai courts refuse to read foreign-language documents.",
+        "D": "Because Thai text always supersedes even when parties agree otherwise." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Section 14 does not forbid foreign-language contracts; it supplies a default when no language is specified.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-section14\">Thai CCC s14 – Language Priority</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "If parties fail to nominate a governing language, Thai text prevails by default, ensuring certainty in domestic dealings.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-section14\">Thai CCC s14 – Language Priority</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Courts can review foreign versions but fall back on Section 14 when intent cannot be resolved.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-section14\">Thai CCC s14 – Language Priority</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Parties are free to agree on a different prevailing language expressly; Section 14 is only a default.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#thailand-section14\">Thai CCC s14 – Language Priority</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q015",
+      "question": "How does the civil law preference for specific performance interact with the Collingridge dilemma in technology regulation?",
+      "options": {
+        "A": "It makes regulation unnecessary.",
+        "B": "It reflects civil law’s commitment to actual performance, but regulators still face timing challenges (uncertain impacts early, entrenchment later); specific performance remains conditioned on possibility and proportionality.",
+        "C": "It mandates immediate regulation regardless of information gaps.",
+        "D": "It eliminates the need for damages calculations." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Even with strong specific performance, regulators still face the Collingridge timing dilemma.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#civil-law-specific-performance\">Civil Law Remedies – Specific Performance</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Civil law prioritises actual performance, yet courts temper it where enforcement is impossible or disproportionate, leaving regulatory timing problems unresolved.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#civil-law-specific-performance\">Civil Law Remedies – Specific Performance</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Specific performance does not mandate regulators to act prematurely; timing judgments still depend on information availability.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#civil-law-specific-performance\">Civil Law Remedies – Specific Performance</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Damages remain crucial when specific performance is declined, so calculations still matter.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#civil-law-specific-performance\">Civil Law Remedies – Specific Performance</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q016",
+      "question": "What distinguishes the civil law approach to damages from the common law’s reliance on Hadley v Baxendale?",
+      "options": {
+        "A": "Civil law ignores foreseeability entirely.",
+        "B": "Civil law codes often specify recoverable heads (actual loss, lost profits) directly, whereas common law uses precedent like Hadley v Baxendale to limit consequential damages to foreseeable losses contemplated by the parties.",
+        "C": "Common law denies damages altogether.",
+        "D": "Civil law awards punitive damages for breach routinely." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Civil codes often include foreseeability thresholds when spelling out recoverable loss categories.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#damages-comparative-framework\">Comparative Damages – Civil vs Common Law</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Civil law typically lists recoverable heads (actual loss, lost profits) in the code, while common law relies on precedents like Hadley v Baxendale to define foreseeability limits on consequential damages.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#damages-comparative-framework\">Comparative Damages – Civil vs Common Law</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Common law recognises substantial compensatory damages; it does not deny them wholesale.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#damages-comparative-framework\">Comparative Damages – Civil vs Common Law</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Civil law rarely awards punitive damages for breach; expectation measures remain compensatory.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#damages-comparative-framework\">Comparative Damages – Civil vs Common Law</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q017",
+      "question": "How does the Indonesian doctrine of adequate causation in Article 1365 apply to contract damages?",
+      "options": {
+        "A": "It requires exact knowledge of the specific harm form.",
+        "B": "It deems a party liable if the harm was foreseeable as a general result of the act; precise form need not be foreseen, aligning with a foreseeability standard similar to common law.",
+        "C": "It imposes strict liability regardless of foreseeability.",
+        "D": "It excuses liability whenever the precise quantum is debated." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Adequate causation does not demand precision about the exact form of harm; general foreseeability suffices.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-adequate-causation\">Indonesian Civil Code – Adequate Causation</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Article 1365 liability arises when the type of harm was foreseeable as a probable consequence, even if the precise manifestation was unknown.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-adequate-causation\">Indonesian Civil Code – Adequate Causation</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Adequate causation still requires fault; it does not impose strict liability.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-adequate-causation\">Indonesian Civil Code – Adequate Causation</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Disputes about quantum do not automatically excuse liability once causation is adequate.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#indonesia-adequate-causation\">Indonesian Civil Code – Adequate Causation</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q018",
+      "question": "What comparative insight arises from the Istanbul tribunal’s rejection of delayed-market damages and English law’s expectation measure?",
+      "options": {
+        "A": "English law also disallows expectation damages.",
+        "B": "Both systems emphasise valuation at breach (contract price vs contemporaneous market value) rather than post hoc market fluctuations, showing convergent logic despite doctrinal differences.",
+        "C": "Civil law focuses solely on reliance interest.",
+        "D": "Common law mandates using later sale prices." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "English law firmly applies expectation damages; it does not disallow them.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#comparative-damages-breach-date\">Comparative Damages – Breach Date Valuation</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Both the Turkish tribunal and English precedent value loss at breach, rejecting post-breach market swings as the primary benchmark.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#comparative-damages-breach-date\">Comparative Damages – Breach Date Valuation</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Civil law recognises expectation loss statutorily; it does not confine recovery to reliance only.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-positive-negative-damages\">TCO Expectation vs Reliance</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Common law does not mandate using later sale prices; breach-date value governs in both systems.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#comparative-damages-breach-date\">Comparative Damages – Breach Date Valuation</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q019",
+      "question": "How do civil law systems handle mitigation duties compared with English law?",
+      "options": {
+        "A": "Civil law never imposes mitigation duties.",
+        "B": "English law requires mitigation for contract breaches; civil law jurisdictions vary—some (like France) hesitate to impose broad mitigation duties, though reimbursement for mitigation costs is recognised when undertaken.",
+        "C": "Civil law imposes strict mitigation duties with punitive consequences.",
+        "D": "English law rejects mitigation entirely." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Civil law does recognise mitigation in targeted areas; it is not entirely absent.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mitigation-comparative\">Comparative Mitigation Duties</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "English law obliges claimants to mitigate, while civil jurisdictions vary—French courts resist a broad duty yet reimburse reasonable mitigation expenses.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mitigation-comparative\">Comparative Mitigation Duties</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Civil law does not enforce mitigation through punitive measures; duties, where recognised, remain compensatory.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mitigation-comparative\">Comparative Mitigation Duties</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Mitigation is a central feature of English contract damages analysis.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mitigation-comparative\">Comparative Mitigation Duties</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CLK-CL-M2-Q020",
+      "question": "What comparative lesson emerges from the Turkish damages election rule for practitioners drafting contracts in mixed legal environments?",
+      "options": {
+        "A": "Practitioners can delay remedy elections indefinitely without risk.",
+        "B": "Contracts should stipulate remedy election procedures and deadlines explicitly to avoid statutory default rules (like Article 125 TCO) limiting remedies when parties delay decisions.",
+        "C": "Civil law contracts never require remedial elections.",
+        "D": "Common law contracts forbid choice of remedies clauses." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 125 shows that delaying an election can restrict remedies, so practitioners cannot postpone indefinitely without risk.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-remedy-election\">TCO Art 125 – Remedy Elections</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Drafting clear election procedures and deadlines prevents statutory defaults from narrowing available remedies when parties operate across mixed legal systems.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-remedy-election\">TCO Art 125 – Remedy Elections</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Civil codes often mandate remedy elections; contracts must take those defaults into account.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-remedy-election\">TCO Art 125 – Remedy Elections</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Common law agreements can include choice-of-remedy clauses, so there is no prohibition on tailoring elections.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#turkey-remedy-election\">TCO Art 125 – Remedy Elections</a>"
+          }
+        }
+      }
+    }
+  ]
+}

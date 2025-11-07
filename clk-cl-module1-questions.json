@@ -1,0 +1,1055 @@
+{
+  "module": "CLK Module 3: Comparative Laws - Module 1: Civil Law Foundations",
+  "questions": [
+    {
+      "id": "CLK-CL-M1-Q001",
+      "question": "What core feature distinguishes civil law systems from common law systems, according to the notes?",
+      "options": {
+        "A": "Civil law systems rely primarily on judicial precedent, while common law systems rely on codified statutes.",
+        "B": "Civil law systems are built on comprehensive codified statutes drawn from sources like Roman law, with the codes serving as the primary source of law, whereas common law relies more heavily on judge-made precedent alongside statutes.",
+        "C": "Civil law systems prohibit codification, relying solely on customary practices.",
+        "D": "Common law systems do not recognise statutes at all." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil law originated in continental Europe and centres on codified law. Practitioners first consult the relevant code, which categorises legal relationships and aims to be comprehensive. Common law, although statutory, is heavily shaped by precedent and iterative judicial development.",
+        "incorrect": {
+          "A": "This reverses the roles of precedent and codes in the two systems.",
+          "B": "This is the correct answer.",
+          "C": "Civil law emphasises codification rather than forbidding it.",
+          "D": "Common law jurisdictions enact statutes; precedent complements them." 
+        },
+        "reference": "Civil Law Foundations - Codified Systems vs Common Law Reliance on Precedent"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q002",
+      "question": "How does the persuasive force of case law operate in civil law jurisdictions?",
+      "options": {
+        "A": "Single decisions bind future courts through stare decisis, just like in common law.",
+        "B": "Case law has persuasive value that increases with uniformity; when a consistent line of decisions (constant jurisprudence) emerges, later courts give it considerable authoritative weight, but no single judgment is formally binding.",
+        "C": "Case law is entirely irrelevant and never considered.",
+        "D": "Civil law courts must follow foreign precedents before local codes." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Absent stare decisis, civil law judges consult past decisions only when there is sufficient uniformity. A coherent trend (constant jurisprudence) exerts significant persuasive influence, while competing decisions carry little weight.",
+        "incorrect": {
+          "A": "Stare decisis does not apply in civil law systems.",
+          "B": "This is the correct answer.",
+          "C": "Courts do consider consistent case law to guide interpretation.",
+          "D": "Domestic codes remain the primary source; foreign precedents are not prioritised." 
+        },
+        "reference": "Constant Jurisprudence - Uniform Case Law Gains Persuasive Force without Binding Effect"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q003",
+      "question": "What is meant by 'constant jurisprudence' in the French civil law tradition?",
+      "options": {
+        "A": "A single appellate decision that binds all lower courts.",
+        "B": "A threshold of consistent case law such that when positive judgments exceed it, future recognition of similar claims is facilitated; when negative judgments dominate, claims become harder to sustain.",
+        "C": "The practice of ignoring all prior decisions when interpreting the code.",
+        "D": "A constitutional requirement that courts sit in constant session." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Constant jurisprudence reflects the accumulation of consistent decisions on a legal issue. Once positive rulings predominate, future claims gain traction; conversely, a predominance of negative rulings constrains recognition.",
+        "incorrect": {
+          "A": "No single decision has binding force in civil law.",
+          "B": "This is the correct answer.",
+          "C": "Past decisions can guide interpretation when consistent.",
+          "D": "The term relates to jurisprudence, not court sittings." 
+        },
+        "reference": "Constant Jurisprudence - Consistent Case Law Influencing Future Recognition"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q004",
+      "question": "Why is the codified nature of civil law intended to be comprehensive?",
+      "options": {
+        "A": "So that judges never have to interpret ambiguous provisions.",
+        "B": "Because civil codes aim to specify all matters that can come before a court, including procedures, penalties, and remedies, ensuring practitioners can locate governing rules within the code itself.",
+        "C": "Because legislatures in civil law countries cannot pass new statutes once a code exists.",
+        "D": "Because civil codes are meant only for criminal law." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil codes categorise legal relationships and provide exhaustive coverage so that judges and lawyers can resolve disputes by consulting the relevant provisions without relying on unwritten law. Codes are periodically updated to maintain completeness.",
+        "incorrect": {
+          "A": "Codes still require interpretation; ambiguity can arise.",
+          "B": "This is the correct answer.",
+          "C": "Legislatures can enact supplementary statutes to override or update code sections.",
+          "D": "Civil codes span private, commercial, and procedural law, not just criminal matters." 
+        },
+        "reference": "Civil Codes - Comprehensive Coverage to Guide Adjudication"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q005",
+      "question": "How do civil law practitioners typically approach a new legal issue?",
+      "options": {
+        "A": "They first search for analogous common law precedents.",
+        "B": "They begin with the relevant code provision(s), since the code is designed to cover the issue, and only later consider case law or doctrine for interpretation if necessary.",
+        "C": "They ignore written law and focus on customary practice first.",
+        "D": "They always defer to the highest court's most recent judgment." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Because the code is the primary legal source, civil law lawyers consult it before looking to case law, scholarly commentary, or custom. Only when ambiguity persists do they rely on secondary interpretive aids.",
+        "incorrect": {
+          "A": "Common law precedents are not the first reference point.",
+          "B": "This is the correct answer.",
+          "C": "Custom may inform interpretation but does not usually precede the code.",
+          "D": "No single judgment binds future cases; the code remains central." 
+        },
+        "reference": "Practitioner Approach - Code First, Interpretive Aids Second"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q006",
+      "question": "Why does the lack of official Indonesian-language codification create difficulties?",
+      "options": {
+        "A": "Because the Dutch text was destroyed and cannot be consulted.",
+        "B": "Because the authoritative version remains in Dutch, so judges and lawyers lacking Dutch proficiency struggle; amendments must also be made in Dutch, discouraging updates and prompting legislators to pass overriding statutes instead.",
+        "C": "Because Indonesian courts refuse to use any translation under all circumstances.",
+        "D": "Because the code has been fully translated into English instead." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Indonesia's civil code inherits Dutch language. Many provisions remain untranslated, legal scholarship relies on historical Dutch commentators, and amendments in Dutch are impractical, leading to piecemeal statutory overrides.",
+        "incorrect": {
+          "A": "The Dutch text still exists; the issue is language accessibility.",
+          "B": "This is the correct answer.",
+          "C": "Courts may use translations, but the official authority lies with the Dutch version.",
+          "D": "The code is not fully translated into English." 
+        },
+        "reference": "Indonesian Code Language - Dutch Original Complicates Access and Amendment"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q007",
+      "question": "Why do civil law jurisdictions often rely on legal scholars for interpretation?",
+      "options": {
+        "A": "Because scholars, not judges, draft binding regulations.",
+        "B": "Because the breadth of codified provisions and historical commentaries (e.g., Dutch scholars for Indonesia) provide authoritative insights that courts consult when applying the code.",
+        "C": "Because scholars issue binding precedents.",
+        "D": "Because legal education replaces judicial reasoning." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil law scholarship (doctrine) offers structured analysis of code provisions and aids courts in interpreting text, especially where language or historical context makes direct application challenging, as seen in Indonesia's reliance on Dutch commentaries.",
+        "incorrect": {
+          "A": "Scholars interpret but do not draft binding rules.",
+          "B": "This is the correct answer.",
+          "C": "Precedents remain judicial; scholars provide persuasive doctrine.",
+          "D": "Scholars inform, rather than replace, judicial reasoning." 
+        },
+        "reference": "Role of Doctrine - Scholarly Commentary Guides Code Interpretation"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q008",
+      "question": "What is the significance of implementing regulations in civil law systems like Indonesia?",
+      "options": {
+        "A": "They are optional policy documents with no legal effect.",
+        "B": "They serve as supplementary legislation issued by ministries or agencies to clarify procedures and details under statutes, and delays in issuance can create interim uncertainty that requires ministerial consultation.",
+        "C": "They replace the need for statutory codes entirely.",
+        "D": "They are unique to common law jurisdictions." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Implementing regulations flesh out statutory schemes (e.g., toll road tariffs, language requirements). Until promulgated, stakeholders may face ambiguity and must interact with agencies cautiously to understand intended application.",
+        "incorrect": {
+          "A": "They have binding effect within their scope.",
+          "B": "This is the correct answer.",
+          "C": "They complement, not replace, statutory law.",
+          "D": "Implementing regulations are common in civil law jurisdictions." 
+        },
+        "reference": "Implementing Regulations - Supplement Statutes; Delay Causes Uncertainty"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q009",
+      "question": "How do civil law jurisdictions handle overlapping or supplemental legislation relative to the civil code?",
+      "options": {
+        "A": "They prohibit any statutes outside the civil code.",
+        "B": "They frequently enact specialised statutes (e.g., agrarian law, marriage law, company law) that override or supplement code provisions, recognising that the code does not cover every specific domain.",
+        "C": "They require the civil code to be amended for every new policy.",
+        "D": "They rely solely on customary law without statutory updates." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Indonesia and Thailand illustrate how legislatures adopt specialised acts for specific areas (real property, marriage, company law). These acts coexist with the code, updating or replacing sections without rewriting the entire code.",
+        "incorrect": {
+          "A": "Supplementary statutes are common.",
+          "B": "This is the correct answer.",
+          "C": "Amending the code is difficult; statutes often override instead.",
+          "D": "Statutory updates are critical alongside custom." 
+        },
+        "reference": "Supplementary Legislation - Specialised Statutes Override or Complement Codes"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q010",
+      "question": "What challenge arises when implementing regulations are delayed after a statute is enacted?",
+      "options": {
+        "A": "Courts automatically suspend the statute until regulations appear.",
+        "B": "Stakeholders face uncertainty about procedural details and may need to consult ministries, recognising that guidance is unofficial until regulations issue.",
+        "C": "The statute is invalidated by the constitutional court.",
+        "D": "Parties may freely disregard the statute." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Until implementing regulations clarify the statute's scope and procedures, businesses and practitioners must rely on interim guidance and cautious engagement with agencies, as exemplified by the toll road and language laws in Indonesia.",
+        "incorrect": {
+          "A": "Statutes remain in force; courts may still apply them.",
+          "B": "This is the correct answer.",
+          "C": "Delay does not automatically invalidate the statute.",
+          "D": "Statutes cannot be ignored simply because regulations are pending." 
+        },
+        "reference": "Regulation Delay - Interim Uncertainty Until Procedures Clarified"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q011",
+      "question": "How is the Indonesian Civil Code organised, and which book governs contract law?",
+      "options": {
+        "A": "Three books with contracts in Book 1.",
+        "B": "Four books, with Book 3 covering contracts (Articles 1233–1456).",
+        "C": "Five books with contracts in Book 5.",
+        "D": "Six books with contracts in Book 4."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Indonesia's code comprises four books: Book 1 (Individuals), Book 2 (Assets), Book 3 (Contracts), and Book 4 (Evidence & Prescription). Book 3 regulates specific contracts and default (breach).",
+        "incorrect": {
+          "A": "The code contains four books, not three.",
+          "B": "This is the correct answer.",
+          "C": "There are four books; Book 5 does not exist.",
+          "D": "Contracts reside in Book 3, not Book 4."
+        },
+        "reference": "Indonesian Civil Code Structure - Book 3 Governs Contracts"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q012",
+      "question": "Why do Indonesian legislators often enact new statutes instead of amending the Civil Code directly?",
+      "options": {
+        "A": "Because the code forbids any amendment whatsoever.",
+        "B": "Because amendments must be drafted in Dutch—the authoritative language—making updates cumbersome, so legislators override provisions (e.g., agrarian or marriage law) with new statutes in Indonesian.",
+        "C": "Because courts refuse to apply statutory amendments.",
+        "D": "Because statutes hold no legal force in Indonesia."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The Dutch language original complicates amendment. Legislators have instead issued Indonesian-language statutes that supersede portions of the code, leaving the core structure intact.",
+        "incorrect": {
+          "A": "Amendment is possible but impractical.",
+          "B": "This is the correct answer.",
+          "C": "Courts apply valid statutes overriding the code.",
+          "D": "Statutes carry legal force; they supplement the code."
+        },
+        "reference": "Code Amendment Challenges - Dutch Text Leads to Override Statutes"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q013",
+      "question": "What role do implementing regulations play in the Indonesian toll road example?",
+      "options": {
+        "A": "They are purely advisory documents with no legal effect.",
+        "B": "They detail tariff adjustment procedures envisaged by Road Law No. 2 of 2022, providing clarity once Government Regulation No. 23 of 2024 issued them.",
+        "C": "They eliminate statutory provisions entirely.",
+        "D": "They apply only to criminal penalties."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The Road Law expanded grounds for tariff adjustments but required implementing regulations to specify how to apply them. Government Regulation No. 23/2024 delivered the necessary procedural detail.",
+        "incorrect": {
+          "A": "Implementing regulations are binding within their scope.",
+          "B": "This is the correct answer.",
+          "C": "They supplement, not abolish, statutes.",
+          "D": "They relate to toll tariffs, not criminal penalties."
+        },
+        "reference": "Toll Road Example - Implementing Regulation Clarifies Tariff Adjustments"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q014",
+      "question": "What issue arose from Law No. 24 of 2009 on the Indonesian language in contracts?",
+      "options": {
+        "A": "It immediately provided complete guidance on consequence of non-compliance.",
+        "B": "It mandated Indonesian language versions but was silent on consequences, leading to Supreme Court decisions annulling foreign-language contracts until implementing regulation (2019) and a 2023 circular clarified annulment depends on bad faith.",
+        "C": "It eliminated the need for Indonesian versions altogether.",
+        "D": "It applied only to criminal contracts."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The initial statute caused uncertainty and annulments. The later regulation plus Supreme Court circular limited annulment to cases where absence of Indonesian text stemmed from bad faith.",
+        "incorrect": {
+          "A": "Consequences were not specified initially.",
+          "B": "This is the correct answer.",
+          "C": "The requirement remained; clarification focused on remedies.",
+          "D": "The law governs civil contracts generally."
+        },
+        "reference": "Indonesian Language Law - Consequence Clarified by Later Regulation and Circular"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q015",
+      "question": "How is the Thai Civil and Commercial Code (CCC) structured with respect to private law?",
+      "options": {
+        "A": "It covers only criminal law and excludes private law topics.",
+        "B": "It is the main private law statute with six books covering general principles, obligations, specific contracts, property, family, and succession, supplemented by specialised statutes." ,
+        "C": "It consists solely of two books on criminal procedure and evidence.",
+        "D": "It is limited to company law only." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The CCC is Thailand's primary civil/commercial statute with six books. Parliament has also enacted additional laws (e.g., company, IP, product liability) to address specifics beyond the code.",
+        "incorrect": {
+          "A": "The CCC focuses on private law.",
+          "B": "This is the correct answer.",
+          "C": "Criminal procedure resides elsewhere.",
+          "D": "Company law is only one portion, supplemented by separate statutes."
+        },
+        "reference": "Thai CCC Structure - Six Books plus Supplementary Statutes"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q016",
+      "question": "What does Book 2 of the Thai CCC address?",
+      "options": {
+        "A": "Only criminal offences.",
+        "B": "Obligations, including prevention, compensation, and enforcement when rights are violated, with titles covering general provisions and specific areas like contracts, management without mandate, unjust enrichment, and torts.",
+        "C": "Procedural rules for criminal courts.",
+        "D": "Land registration exclusively." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Book 2 deals with obligations, laying out how claims arise and are discharged, and contains separate titles for contracts, unjust enrichment, and tort (unlawful acts).",
+        "incorrect": {
+          "A": "Criminal offences are outside the CCC.",
+          "B": "This is the correct answer.",
+          "C": "Procedure is governed by separate codes.",
+          "D": "Property is covered in Book 4." 
+        },
+        "reference": "Thai CCC Book 2 - Obligations and Remedies"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q017",
+      "question": "How does Book 3 of the Thai CCC differ from Book 2?",
+      "options": {
+        "A": "Book 3 repeats the same general obligations as Book 2.",
+        "B": "Book 3 addresses specific contracts (e.g., sale, hire, loan, insurance, partnerships), whereas Book 2 sets general rules on obligations.",
+        "C": "Book 3 covers constitutional law.",
+        "D": "Book 3 focuses on criminal procedure." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Book 2 provides general principles of obligations; Book 3 enumerates individual contract types (sale, hire, agency, insurance, partnerships).",
+        "incorrect": {
+          "A": "Book 3 goes into specific contracts, not general obligations.",
+          "B": "This is the correct answer.",
+          "C": "Constitutional law lies outside the CCC.",
+          "D": "Criminal procedure is governed elsewhere." 
+        },
+        "reference": "Thai CCC Book 3 - Specific Contracts"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q018",
+      "question": "What topics are addressed in Book 4, 5, and 6 of the Thai CCC?",
+      "options": {
+        "A": "Book 4: property; Book 5: family; Book 6: succession.",
+        "B": "Book 4: criminal law; Book 5: criminal procedure; Book 6: evidence.",
+        "C": "Book 4: constitutional law; Book 5: bankruptcy; Book 6: tax law.",
+        "D": "Book 4: maritime law; Book 5: aviation; Book 6: insurance." 
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "Book 4 distinguishes movable/immovable property; Book 5 covers family law; Book 6 addresses succession. Other areas (tax, IP) appear in separate legislation.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "Criminal law is outside the CCC.",
+          "C": "Those subjects belong to other statutes.",
+          "D": "Specialised maritime/aviation laws are separate." 
+        },
+        "reference": "Thai CCC Later Books - Property, Family, Succession"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q019",
+      "question": "How does the Thai CCC integrate with other specialised statutes?",
+      "options": {
+        "A": "It prohibits any additional legislation on commercial matters.",
+        "B": "It operates alongside statutes covering specific domains (e.g., Public Limited Companies Act, Securities and Exchange Act, Unsafe Products Act, IP laws), reflecting that the CCC is the foundational but not exhaustive source of private law.",
+        "C": "It replaces all other laws in Thailand.",
+        "D": "It applies only to criminal offences."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Thai private law uses the CCC for general principles but supplements it with topic-specific acts for company, securities, product liability, and IP matters.",
+        "incorrect": {
+          "A": "Supplementary statutes are common.",
+          "B": "This is the correct answer.",
+          "C": "The CCC does not abolish other laws.",
+          "D": "The CCC addresses civil/commercial issues, not criminal law."
+        },
+        "reference": "Thai CCC Integration - Supplemented by Specialised Statutes"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q020",
+      "question": "Why do Thai civil courts consider both statutes and customary practice when interpreting contracts?",
+      "options": {
+        "A": "Because statutes are optional guidelines with no binding force.",
+        "B": "Because Section 368 CCC requires contracts to be interpreted according to good faith and customary practice, ensuring commercial customs inform the application of statutory provisions.",
+        "C": "Because courts ignore the CCC entirely.",
+        "D": "Because customary practice overrides statutes in all cases."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 368 CCC mandates interpretation in line with good faith and custom. Courts therefore examine industry practices (e.g., freight forwarding) to determine parties' intentions alongside statutory text.",
+        "incorrect": {
+          "A": "Statutes are binding; custom assists interpretation.",
+          "B": "This is the correct answer.",
+          "C": "Courts apply the CCC as primary authority.",
+          "D": "Custom complements, not overrides, statutory law."
+        },
+        "reference": "Thai Contract Interpretation - Good Faith and Custom under s 368 CCC"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q021",
+      "question": "What does Article 1342 of the Indonesian Civil Code prescribe for contract interpretation?",
+      "options": {
+        "A": "That courts must ignore the literal text entirely.",
+        "B": "That if contract wording is clear, interpretation must not deviate from its plain meaning—akin to the common law plain meaning rule.",
+        "C": "That contracts may be freely reinterpreted regardless of clarity.",
+        "D": "That courts should rely solely on oral testimony."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Article 1342 requires adherence to clear wording. Only when ambiguity exists do subsequent provisions (Articles 1343-1351) guide interpretation toward parties' common intention.",
+        "incorrect": {
+          "A": "The article favours the literal text when clear.",
+          "B": "This is the correct answer.",
+          "C": "Reinterpretation occurs only if ambiguity arises.",
+          "D": "Interpretation begins with the written contract, not oral evidence."
+        },
+        "reference": "Indonesian Contract Interpretation - Article 1342 Plain Meaning Rule"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q022",
+      "question": "When contract language is ambiguous under Indonesian law, what do Articles 1343–1351 emphasise?",
+      "options": {
+        "A": "Interpreting clauses to make the contract unenforceable.",
+        "B": "Identifying the parties' common intention at formation, adopting enforceable interpretations consistent with the contract's nature and local custom.",
+        "C": "Relying solely on foreign precedent.",
+        "D": "Ignoring the contract's context entirely."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "These articles direct courts to ascertain mutual intent, ensure enforceability, align meaning with contract type, and consider custom—moving beyond literal words when ambiguity exists.",
+        "incorrect": {
+          "A": "Courts seek enforceable interpretations, not invalidation.",
+          "B": "This is the correct answer.",
+          "C": "Foreign precedent is not primary.",
+          "D": "Context is crucial to discerning intent."
+        },
+        "reference": "Indonesian Interpretation Articles 1343-1351 - Common Intention and Custom"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q023",
+      "question": "How does Section 171 of the Thai CCC influence contract interpretation?",
+      "options": {
+        "A": "It prioritises literal meaning over all else.",
+        "B": "It requires courts to seek the real intent of the parties rather than sticking strictly to literal wording, as illustrated by the investment-to-loan recharacterisation in Supreme Court Judgment 11107/2555.",
+        "C": "It mandates reliance solely on contract titles.",
+        "D": "It prohibits courts from considering factual context."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 171 emphasises substance over form. The cited case reclassified an 'investment contract' as a loan after examining repayment structures, demonstrating the focus on real intention.",
+        "incorrect": {
+          "A": "Literal meaning yields to true intent when inconsistent.",
+          "B": "This is the correct answer.",
+          "C": "Titles are not determinative; actual terms matter.",
+          "D": "Factual context is central under s 171."
+        },
+        "reference": "Thai CCC Section 171 - Real Intent Over Labels"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q024",
+      "question": "What does Section 437 of the Thai CCC establish regarding vehicle owners or controllers?",
+      "options": {
+        "A": "No liability unless criminal intent is proven.",
+        "B": "Strict responsibility for injuries arising from the vehicle unless force majeure or the victim's fault is proven, illustrating indirect liability rules in the CCC.",
+        "C": "Liability only when the vehicle is used for commercial purposes.",
+        "D": "Liability only if a written contract exists." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 437 imposes liability on owners/controllers for harm caused by vehicles, barring defences of force majeure or victim fault, demonstrating codified indirect liability for torts.",
+        "incorrect": {
+          "A": "Criminal intent is not required.",
+          "B": "This is the correct answer.",
+          "C": "The provision applies broadly, not only commercially.",
+          "D": "Liability is statutory, not contractual."
+        },
+        "reference": "Thai CCC Section 437 - Owner/Controller Liability for Vehicles"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q025",
+      "question": "What are the four requirements for tort liability under Article 1365 of the Indonesian Civil Code?",
+      "options": {
+        "A": "Strict liability, contract, damages, and bad faith.",
+        "B": "An unlawful act, fault (intent or negligence), harm, and causation (foreseeable connection between act and harm).",
+        "C": "Only intent and damage are necessary.",
+        "D": "Only contractual breach suffices." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Article 1365 requires an unlawful act, fault, harm, and causation (using adequate causation—foreseeable result). Compensation can be monetary or specific (repair/replacement).",
+        "incorrect": {
+          "A": "Contract breach is distinct from tort under Indonesian law.",
+          "B": "This is the correct answer.",
+          "C": "Negligence, harm, and causation are also necessary.",
+          "D": "Tort liability is separate from contract." 
+        },
+        "reference": "Indonesian Tort Elements - Article 1365 Requirements"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q026",
+      "question": "How do compensatory remedies under Article 1365 Indonesian Civil Code extend beyond money damages?",
+      "options": {
+        "A": "Only punitive damages are available.",
+        "B": "They may include monetary compensation, repairs, restoration costs, and compensation for reputational or emotional harm, reflecting a broad approach to restitution.",
+        "C": "They are limited strictly to specific performance.",
+        "D": "They exclude any compensation for intangible losses." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Article 1365 recognises multiple forms—financial compensation, repair/replacement, reimbursement of restoration expenses, and compensation for suffering or reputational harm—demonstrating flexible remedies.",
+        "incorrect": {
+          "A": "Punitive damages are not mentioned.",
+          "B": "This is the correct answer.",
+          "C": "Specific performance is one option but not exclusive.",
+          "D": "Intangible losses are compensable."
+        },
+        "reference": "Indonesian Tort Remedies - Multiple Forms Beyond Money"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q027",
+      "question": "What is the limitation period for tort claims under Indonesian law?",
+      "options": {
+        "A": "One year with no further limit.",
+        "B": "Generally one year from knowledge of the tort and injurer, with an absolute maximum of ten years from the act, aligning with Article 448 CCC.",
+        "C": "Ten years regardless of knowledge.",
+        "D": "Six months from the act."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Article 448 CCC sets a dual limitation: one year from knowledge (identity and act) and an overall ten-year cap from the tortious act.",
+        "incorrect": {
+          "A": "An overall ten-year limit also applies.",
+          "B": "This is the correct answer.",
+          "C": "Knowledge extends the limit to one year from discovery.",
+          "D": "Six months is incorrect."
+        },
+        "reference": "Indonesian Limitation - One Year from Knowledge, Ten-Year Maximum"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q028",
+      "question": "What doctrine under Section 421 of the Thai CCC addresses bad-faith exercise of rights?",
+      "options": {
+        "A": "It excuses any conduct authorised by contract, regardless of intent.",
+        "B": "It deems an exercise of right unlawful when its sole purpose is to injure another, allowing tort claims even if the act appears contractually permitted (e.g., hostile bankruptcy filing).",
+        "C": "It applies only to criminal prosecutions brought by the state.",
+        "D": "It automatically voids all contractual rights once a dispute arises."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 421 targets abuse of rights: when a party wields a legal right purely to harm another, the act becomes unlawful. Courts scrutinise purpose, as in the example of a bankruptcy petition filed to damage a counterparty during investigations.",
+        "incorrect": {
+          "A": "Contractual permission does not shield bad-faith conduct from liability.",
+          "B": "This is the correct answer.",
+          "C": "Section 421 governs civil wrongful acts, not criminal prosecutions.",
+          "D": "The doctrine curbs abusive use of rights; it does not nullify all rights wholesale."
+        },
+        "reference": "Thai CCC Section 421 - Abuse of Rights Doctrine"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q029",
+      "question": "How does Section 438 CCC guide Thai courts in assessing compensation for wrongful acts?",
+      "options": {
+        "A": "It mandates nominal damages regardless of harm.",
+        "B": "It directs courts to determine the manner and extent of compensation according to the circumstances and gravity of the wrongful act, including restitution of property and related losses.",
+        "C": "It excludes restitution of property from compensation.",
+        "D": "It requires judges to adopt fixed statutory tariffs."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 438 empowers courts to tailor remedies—restoring property or awarding damages proportional to harm—reflecting flexible judicial discretion in tort compensation.",
+        "incorrect": {
+          "A": "Damages may exceed nominal amounts.",
+          "B": "This is the correct answer.",
+          "C": "Restitution is expressly contemplated.",
+          "D": "No rigid tariff is mandated."
+        },
+        "reference": "Thai CCC Section 438 - Judicial Discretion in Compensation"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q030",
+      "question": "What dual limitation period applies to wrongful acts under Thai law (Section 448 CCC)?",
+      "options": {
+        "A": "Six months from the act or knowledge.",
+        "B": "One year from knowledge of the act and injurer, with a maximum of ten years from the act, extended if criminal law prescribes longer.",
+        "C": "Ten years regardless of when the plaintiff learns of the act.",
+        "D": "Five years from the signing of any related contract." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 448 imposes a subjective one-year limit (from discovery) and an objective ten-year cap, mirroring Indonesian rules, with extensions if criminal law provides longer prescription.",
+        "incorrect": {
+          "A": "Thai law grants one year, not six months.",
+          "B": "This is the correct answer.",
+          "C": "Knowledge triggers a shorter window.",
+          "D": "Tort limitation is independent of contract dates."
+        },
+        "reference": "Thai CCC Section 448 - One-Year Knowledge, Ten-Year Cap"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q031",
+      "question": "What three requirements must be met to form a contract under general civil law principles discussed in the notes?",
+      "options": {
+        "A": "Offer, consideration, intention to create legal relations.",
+        "B": "Consent, capacity, and lawful/certain content.",
+        "C": "Consideration, formality, and corporate approval.",
+        "D": "Registration, notarisation, and court approval." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil law focuses on consent of sane parties, capacity (especially for juristic persons), and lawful/definite content. Consideration is not a core requirement, distinguishing civil from common law.",
+        "incorrect": {
+          "A": "These are common law elements, not the civil law triad.",
+          "B": "This is the correct answer.",
+          "C": "Formality and corporate approval may arise but are not universal requirements.",
+          "D": "Registration/notarisation are specific to some contracts, not general prerequisites."
+        },
+        "reference": "Civil Law Contract Formation - Consent, Capacity, Lawful Content"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q032",
+      "question": "How does civil law define consent differently from common law consideration?",
+      "options": {
+        "A": "Consent requires monetary payment; consideration does not.",
+        "B": "Consent emphasises mutual assent of capable parties; civil law does not require consideration, unlike common law which insists on bargained exchange.",
+        "C": "Consent is irrelevant once consideration exists.",
+        "D": "Consideration and consent are identical concepts."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil law relies on mutual agreement; consideration is foreign to its framework. Common law requires consideration (or deed) to enforce promises, highlighting doctrinal divergence.",
+        "incorrect": {
+          "A": "Consent does not necessitate payment.",
+          "B": "This is the correct answer.",
+          "C": "Consent remains fundamental in civil law.",
+          "D": "They are distinct doctrines."
+        },
+        "reference": "Consent vs Consideration - Civil vs Common Law Contrast"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q033",
+      "question": "How does the civil law objective of comprehensive codification influence contract interpretation compared with the common law?",
+      "options": {
+        "A": "Civil law forbids courts from interpreting codes.",
+        "B": "Civil law presumes the code contains complete rules; interpretation focuses on the codified text supplemented by doctrines (common intention, custom), whereas common law relies more on precedent and objective reasonable-person tests.",
+        "C": "Common law ignores statutes altogether.",
+        "D": "Civil law requires juries to interpret contracts." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil law judges start with codified provisions and doctrinal interpretive tools to maintain coherence, while common law emphasises case law analogies and objective tests. The comprehensive code shapes interpretive methodology.",
+        "incorrect": {
+          "A": "Courts interpret codes but within codified frameworks.",
+          "B": "This is the correct answer.",
+          "C": "Common law combines statutes and precedent.",
+          "D": "Civil law cases are decided by judges, not juries."
+        },
+        "reference": "Interpretive Approaches - Codified Civil Law vs Precedent-Based Common Law"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q034",
+      "question": "What two general rules of interpretation does Thai law recognise, according to the notes?",
+      "options": {
+        "A": "Look only at contract titles; ignore custom.",
+        "B": "Section 171 (real intent prevails) and Section 368 (interpret in good faith considering custom).",
+        "C": "Section 171 (literal meaning) and Section 368 (ignore custom).",
+        "D": "Section 171 (apply foreign law) and Section 368 (favour government contracts)."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Thai interpretation combines s 171's focus on true intent with s 368's good faith/custom requirement, guiding courts to balance literal wording with context and practice.",
+        "incorrect": {
+          "A": "Titles alone are insufficient.",
+          "B": "This is the correct answer.",
+          "C": "Both provisions reject rigid literalism.",
+          "D": "Neither provision references foreign law or government preference."
+        },
+        "reference": "Thai Interpretation Rules - Sections 171 and 368"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q035",
+      "question": "How does the presumption of good faith under Section 6 CCC affect property disputes?",
+      "options": {
+        "A": "It presumes bad faith unless proven otherwise.",
+        "B": "It presumes parties act in good faith (e.g., purchaser of land), shifting the burden to challengers to prove bad faith when contesting ownership.",
+        "C": "It has no impact on property cases.",
+        "D": "It applies only to criminal defendants." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Section 6 presumes good faith, as seen in Supreme Court Judgment 9158/2539 where the buyer's registered title was upheld absent proof of bad faith, underscoring the protective baseline for honest purchasers.",
+        "incorrect": {
+          "A": "The presumption favours good faith, not bad faith.",
+          "B": "This is the correct answer.",
+          "C": "Good faith is central to civil disputes.",
+          "D": "It applies broadly, not only in criminal law."
+        },
+        "reference": "Thai CCC Section 6 - Presumption of Good Faith"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q036",
+      "question": "What tension exists in Thai law when filling contractual gaps, according to the notes?",
+      "options": {
+        "A": "Between statutory interpretation and constitutional review.",
+        "B": "Between subjective intention (discovering true intent) and objective interpretation (unexpressed intentions cannot form part of contract), balanced through implied terms in fact and in law.",
+        "C": "Between criminal and civil jurisdiction.",
+        "D": "Between court and jury fact-finding." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Thai law recognises that while courts seek actual intent, unexpressed intent traditionally cannot form the contract. Gap-filling relies on statutory rules and implied terms to reconcile these perspectives.",
+        "incorrect": {
+          "A": "Constitutional review is not the focus here.",
+          "B": "This is the correct answer.",
+          "C": "Jurisdictional issues are separate.",
+          "D": "Thai trials are judge-led; no jury tension exists."
+        },
+        "reference": "Thai Contract Gaps - Balancing Subjective and Objective Interpretation"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q037",
+      "question": "How do pre-contractual negotiations differ in civil and common law systems?",
+      "options": {
+        "A": "Both systems exclude negotiations entirely.",
+        "B": "Civil law is more expansive, treating negotiations as part of the context to discern common intention, whereas common law generally excludes such evidence except in limited circumstances.",
+        "C": "Common law requires negotiations to be admitted; civil law forbids them.",
+        "D": "Neither system recognises surrounding circumstances."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil law allows negotiation records to illuminate party intent; common law's 'factual matrix' excludes most negotiation evidence to preserve objective interpretation, admitting it only exceptionally.",
+        "incorrect": {
+          "A": "Civil law admits negotiations more readily.",
+          "B": "This is the correct answer.",
+          "C": "Common law typically bars negotiation evidence.",
+          "D": "Both systems consider broader context, though differently."
+        },
+        "reference": "Pre-Contract Negotiations - Civil Law vs Common Law Approaches"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q038",
+      "question": "Why is specific performance the preferred remedy for breach in many civil law jurisdictions?",
+      "options": {
+        "A": "Because damages are unavailable in civil law.",
+        "B": "Because civil codes treat contractual obligations as duties to perform, denying specific performance only when impossible, whereas common law defaults to money damages unless inadequate.",
+        "C": "Because courts lack authority to award damages.",
+        "D": "Because contracts cannot be terminated in civil law."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil law emphasises fulfilment of agreed duties; specific performance is primary. Damages are secondary unless performance fails or is impracticable. Common law inverts this, favouring damages except in exceptional cases.",
+        "incorrect": {
+          "A": "Damages remain available.",
+          "B": "This is the correct answer.",
+          "C": "Courts can award damages but prefer performance.",
+          "D": "Contracts can be terminated under specified breaches."
+        },
+        "reference": "Remedies - Civil Law Preference for Specific Performance"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q039",
+      "question": "How do civil law jurisdictions typically differentiate between fundamental and non-material breaches for termination and damages?",
+      "options": {
+        "A": "Only fundamental breaches allow damages; non-material breaches have no remedy.",
+        "B": "Termination (or damages in lieu of performance) usually requires a fundamental/material breach, whereas simple damages claims may arise from any breach, mirroring the German approach described.",
+        "C": "All breaches automatically permit rescission.",
+        "D": "Non-material breaches have greater remedies than fundamental ones." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil codes often require a material breach to terminate or claim damages in lieu of performance, but any breach may justify compensatory damages. German law exemplifies this distinction.",
+        "incorrect": {
+          "A": "Damages can arise from minor breaches.",
+          "B": "This is the correct answer.",
+          "C": "Termination is not automatic.",
+          "D": "Remedies scale with breach seriousness, not inversely."
+        },
+        "reference": "Breach Categories - Fundamental vs Non-Material in Civil Law"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q040",
+      "question": "Why are punitive damages generally unavailable for contract breaches in civil law jurisdictions?",
+      "options": {
+        "A": "Because civil law does not recognise damages at all.",
+        "B": "Because civil law focuses on full reparation (actual loss and lost profits) rather than punishment, similar to English contract law's compensatory approach.",
+        "C": "Because punitive damages are reserved for contract breaches only.",
+        "D": "Because civil law courts lack discretion to assess damages." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil law damages aim to restore the injured party (actual losses, expected profits). Punishment falls outside contract law, paralleling the English limitation on punitive damages for breach.",
+        "incorrect": {
+          "A": "Damages exist but are compensatory.",
+          "B": "This is the correct answer.",
+          "C": "Punitive damages are rarely available even outside contracts.",
+          "D": "Courts can assess damages but within compensatory bounds."
+        },
+        "reference": "Damages Philosophy - Civil Law Emphasis on Reparation over Punishment"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q041",
+      "question": "What are the two types of jurisdiction a court must satisfy under Indonesian civil procedure?",
+      "options": {
+        "A": "Subject matter jurisdiction only; relative jurisdiction is unnecessary.",
+        "B": "Absolute jurisdiction (subject matter competence) and relative jurisdiction (territorial competence).",
+        "C": "Only relative jurisdiction is required.",
+        "D": "Jurisdiction is determined solely by arbitration clauses." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Indonesian courts must possess absolute jurisdiction (authority over the type of dispute) and relative jurisdiction (proper geographic venue). Absence of either allows objections or dismissal.",
+        "incorrect": {
+          "A": "Both types are required.",
+          "B": "This is the correct answer.",
+          "C": "Relative jurisdiction alone is insufficient.",
+          "D": "Arbitration clauses affect absolute jurisdiction but are not the sole determinant."
+        },
+        "reference": "Indonesian Procedure - Absolute and Relative Jurisdiction"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q042",
+      "question": "Under Article 118(1) HIR, where must a plaintiff usually file a civil lawsuit in Indonesia?",
+      "options": {
+        "A": "In the plaintiff's domicile.",
+        "B": "In the district court of the defendant's domicile, or Central Jakarta if the defendant's address is unknown.",
+        "C": "In any court chosen by the plaintiff.",
+        "D": "Only in provincial courts." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Article 118(1) HIR anchors venue to the defendant's residence. If unknown, the Central Jakarta District Court may hear the case, reflecting relative competence rules.",
+        "incorrect": {
+          "A": "The defendant's domicile governs, not the plaintiff's.",
+          "B": "This is the correct answer.",
+          "C": "Venue is not a free choice.",
+          "D": "District courts, not provincial courts, are specified." 
+        },
+        "reference": "HIR Article 118 - Venue at Defendant's Domicile"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q043",
+      "question": "When can ex aequo et bono be invoked in Indonesian civil proceedings?",
+      "options": {
+        "A": "Automatically whenever equitable outcomes seem fair.",
+        "B": "Only when a party expressly pleads it as a secondary remedy; it cannot override the contract entirely and judges may apply it if strict legal outcomes diverge from fairness.",
+        "C": "Never; Indonesian courts reject ex aequo et bono.",
+        "D": "Always, even without legal pleadings."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Ex aequo et bono (justice and fairness) must be pleaded and supplements, rather than replaces, legal remedies. Parties can exclude it contractually, underscoring its controlled application.",
+        "incorrect": {
+          "A": "It is not automatic.",
+          "B": "This is the correct answer.",
+          "C": "The doctrine is recognised with limitations.",
+          "D": "Judges cannot apply it sua sponte without pleadings."
+        },
+        "reference": "Ex Aequo et Bono - Pleaded Secondary Remedy in Indonesia"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q044",
+      "question": "Why did the Central Jakarta District Court lack competence to annul a Singapore-seated international arbitration award?",
+      "options": {
+        "A": "Because Indonesian courts have no role in arbitration matters.",
+        "B": "Because Indonesian arbitration law limits district courts' authority to registration, setting aside, and enforcement of awards within their jurisdiction; annulling a foreign-seated award exceeds absolute competence.",
+        "C": "Because arbitration awards are automatically void.",
+        "D": "Because only the plaintiff's domicile matters." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Indonesian law confines district court powers over arbitration. A tribunal seated abroad is outside their annulment authority, highlighting absolute jurisdiction limits.",
+        "incorrect": {
+          "A": "Courts do have circumscribed roles.",
+          "B": "This is the correct answer.",
+          "C": "Awards are not automatically void.",
+          "D": "The issue is subject-matter competence, not domicile."
+        },
+        "reference": "Arbitration Competence - Limits of Central Jakarta District Court"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q045",
+      "question": "How does Thai civil procedure allocate jurisdiction for specialised matters?",
+      "options": {
+        "A": "All cases go to general civil courts regardless of subject.",
+        "B": "Specialised courts (Labour, IP & International Trade, Tax, Bankruptcy) have nationwide jurisdiction with appeals to the Supreme Court, ensuring subject-matter expertise.",
+        "C": "Each province creates its own specialised courts for every subject.",
+        "D": "Only the Constitutional Court can hear commercial cases." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Thailand established specialised courts in Bangkok (with regional Labour courts) to handle distinct subject areas, reflecting absolute jurisdiction allocation.",
+        "incorrect": {
+          "A": "Specialisation exists for key topics.",
+          "B": "This is the correct answer.",
+          "C": "Specialised courts are centralised, not replicated in every province.",
+          "D": "The Constitutional Court handles constitutional matters, not commercial disputes." 
+        },
+        "reference": "Thai Specialised Courts - Subject-Matter Jurisdiction"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q046",
+      "question": "How does discovery differ between common law and civil law systems like Indonesia and Thailand?",
+      "options": {
+        "A": "Civil law provides broader discovery than common law.",
+        "B": "Common law employs extensive disclosure obligations; civil law expects parties to gather evidence themselves, with limited, specific document requests and minimal pre-trial exchange.",
+        "C": "Both systems require identical discovery procedures.",
+        "D": "Civil law prohibits parties from presenting evidence."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil systems rely on party-submitted evidence and limited court-ordered production, avoiding broad fishing expeditions. Common law favours expansive pre-trial discovery to ensure mutual knowledge of facts.",
+        "incorrect": {
+          "A": "Discovery is narrower in civil law.",
+          "B": "This is the correct answer.",
+          "C": "Procedural traditions diverge significantly.",
+          "D": "Civil law parties can present evidence they possess."
+        },
+        "reference": "Discovery Contrast - Common vs Civil Law"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q047",
+      "question": "What limits exist on document production in Thai civil trials?",
+      "options": {
+        "A": "Parties must produce all documents in their possession automatically.",
+        "B": "Document requests must be specific and relevant; parties list evidence seven days before the hearing, and fishing expeditions are not permitted.",
+        "C": "Courts refuse to order production under any circumstances.",
+        "D": "All documents must be produced one year before trial." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Thai procedure allows motions targeting precisely identified documents, with tight timelines. The system rejects broad disclosure, reflecting civil law restraint.",
+        "incorrect": {
+          "A": "Automatic disclosure is not required.",
+          "B": "This is the correct answer.",
+          "C": "Courts can compel specific documents.",
+          "D": "Deadlines occur shortly before hearings, not a year prior." 
+        },
+        "reference": "Thai Document Production - Specific Requests and Short Timelines"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q048",
+      "question": "How is legal professional confidentiality treated in Indonesian and Thai civil law systems?",
+      "options": {
+        "A": "Clients hold privilege and can block disclosure by regulators.",
+        "B": "Lawyers owe duties of confidentiality (state secrets, trade secrets, client information) even post-engagement, but privilege is narrower than in common law and may yield to statutory obligations (e.g., AML/terrorism).",
+        "C": "Privilege is identical to common law attorney-client privilege.",
+        "D": "In-house counsel communications automatically enjoy privilege."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil law emphasises lawyer confidentiality rather than client-held privilege. Communications may be disclosed under certain laws, and in-house counsel are typically treated as employees without privilege protection.",
+        "incorrect": {
+          "A": "Clients cannot usually assert privilege to resist production.",
+          "B": "This is the correct answer.",
+          "C": "Scope is narrower than common law privilege.",
+          "D": "In-house counsel lack the same protection."
+        },
+        "reference": "Legal Confidentiality - Civil Law vs Common Law Privilege"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q049",
+      "question": "Why must parties exercise caution when relying on ministry consultations during regulatory gaps in Indonesia?",
+      "options": {
+        "A": "Because ministries provide binding interpretations enforceable in court.",
+        "B": "Because such consultations offer practical guidance before implementing regulations issue, but remain unofficial and may change once formal regulations are promulgated.",
+        "C": "Because ministries refuse to comment on regulations.",
+        "D": "Because ministry advice overrides statutory text." 
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "During gaps (e.g., before implementing regulations), stakeholders consult ministries but must treat responses cautiously; only promulgated regulations carry formal authority.",
+        "incorrect": {
+          "A": "Guidance is not binding until codified.",
+          "B": "This is the correct answer.",
+          "C": "Ministries often engage during transitional periods.",
+          "D": "Statutes and regulations prevail over informal advice." 
+        },
+        "reference": "Regulatory Gaps - Cautious Use of Ministry Consultations"
+      }
+    },
+    {
+      "id": "CLK-CL-M1-Q050",
+      "question": "How does the absence of broad privilege affect clients in civil law jurisdictions when regulators demand documents?",
+      "options": {
+        "A": "Clients can invoke privilege to block production just like in common law.",
+        "B": "Clients generally cannot refuse production on privilege grounds; only lawyers may rely on confidentiality duties, so clients must plan communications accordingly (e.g., avoid copying lawyers to claim privilege).",
+        "C": "Regulators cannot request documents from clients.",
+        "D": "Privilege protections are stronger than in common law."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Civil law recognises lawyer duties but not client-held privilege. Clients cannot ordinarily resist regulator demands by asserting privilege, necessitating careful document handling strategies.",
+        "incorrect": {
+          "A": "Privilege protections are weaker, not identical.",
+          "B": "This is the correct answer.",
+          "C": "Regulators may compel production.",
+          "D": "Civil law privilege is narrower, not stronger."
+        },
+        "reference": "Client Exposure - Limited Privilege in Civil Law"
+      }
+    }
+  ]
+}

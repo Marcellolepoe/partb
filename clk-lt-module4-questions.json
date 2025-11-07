@@ -1,0 +1,1055 @@
+{
+  "module": "CLK Module 2: Laws and Technology - Module 4: Blockchain & Artificial Intelligence",
+  "questions": [
+    {
+      "id": "CLK-LT-M4-Q001",
+      "question": "What problem was blockchain originally designed to solve, according to the notes?",
+      "options": {
+        "A": "The need to speed up database queries in traditional banks.",
+        "B": "The double-spend problem: preventing a digital token from being spent twice before a central ledger updates.",
+        "C": "The challenge of encrypting handwritten signatures.",
+        "D": "The requirement that all payments must involve a physical intermediary."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Blockchain architecture emerged to address the double-spend problem—ensuring that a digital balance cannot be spent twice without detection. Traditional solutions rely on trusted intermediaries (banks, escrow platforms) to maintain authoritative ledgers. Blockchain proposes a distributed ledger that uses cryptography and consensus to achieve the same assurance without a single trusted third party.",
+        "incorrect": {
+          "A": "Performance optimisation was not the primary motivation; the focus was on trust and integrity without central intermediaries.",
+          "B": "This is the correct answer.",
+          "C": "Digital signatures are part of the solution, but the problem to solve was double spending, not handwriting encryption.",
+          "D": "Physical intermediaries were already avoidable (e.g., banks); the issue was trust in digital settings."
+        },
+        "reference": "Blockchain Notes - Designed to Solve Double-Spend Problem; Avoid Reliance on Trusted Intermediary"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q002",
+      "question": "Why do we traditionally trust banks to prevent double spending, and how does blockchain offer a different trust model?",
+      "options": {
+        "A": "Banks rely on identical technology to blockchains, so there is no difference.",
+        "B": "Banks are trusted because of legal regulation and reputational incentives; blockchain instead proposes trusting the code and distributed consensus rather than an institutional intermediary.",
+        "C": "Banks are unregulated, so users simply hope for the best; blockchain relies on government guarantees.",
+        "D": "Banks and blockchains both operate without any regulatory oversight."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Lessig's modalities explain trust in banks: legal regulation, reputational stakes, and market incentives keep banks reliable. Blockchain shifts reliance from institutional oversight to code—cryptographic hashing, consensus mechanisms, and transparent ledgers eliminate the need to trust a single intermediary. Users trust the protocol rather than the institution.",
+        "incorrect": {
+          "A": "Banks use centralised databases, not decentralised consensus.",
+          "B": "This is the correct answer.",
+          "C": "Banks are heavily regulated; blockchains typically operate without government guarantees.",
+          "D": "Banks are subject to regulation; blockchains operate in varying legal environments."
+        },
+        "reference": "Trust Models - Banks Rely on Law/Reputation; Blockchain Relies on Code and Consensus"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q003",
+      "question": "What role do cryptographic hashes play in blockchain security?",
+      "options": {
+        "A": "They encrypt transactions so that no one can ever read them, even authorised users.",
+        "B": "They create a fixed-size digital fingerprint of block contents, making any alteration detectable because even a minor change produces a vastly different hash.",
+        "C": "They randomly delete data from the ledger to preserve storage space.",
+        "D": "They are optional cosmetic features with no security function."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Cryptographic hashes generate deterministic, fixed-length outputs that change dramatically with any alteration in input data. Blockchains store the previous block's hash in each block. If a malicious actor modifies a transaction, the hash chain breaks, revealing tampering. Hashes therefore act as tamper-evident seals rather than encryption mechanisms.",
+        "incorrect": {
+          "A": "Blockchain transactions are typically public; hashes provide integrity, not confidentiality.",
+          "B": "This is the correct answer.",
+          "C": "Hashing does not delete data; it verifies consistency.",
+          "D": "Hashes are fundamental to blockchain immutability."
+        },
+        "reference": "Hashing in Blockchain - Fixed-Length Fingerprint; Tamper-Evident Seal Linking Blocks"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q004",
+      "question": "Why is including the previous block's hash in each block critical for blockchain immutability?",
+      "options": {
+        "A": "It allows miners to reorder blocks arbitrarily without consequences.",
+        "B": "It chains blocks together so that altering one block requires recomputing all subsequent hashes, making tampering computationally prohibitive unless an attacker controls the consensus process.",
+        "C": "It reduces the size of the ledger by compressing data.",
+        "D": "It enables the blockchain to run without consensus mechanisms."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Linking blocks via hashes means that any change to an earlier block cascades forward—all later hashes become invalid. An attacker must redo the proof-of-work (or equivalent consensus requirements) for that block and every block after it, and then overtake the honest chain. This design underpins the practical immutability of well-secured blockchains.",
+        "incorrect": {
+          "A": "The chaining constrains reordering—it does not facilitate it.",
+          "B": "This is the correct answer.",
+          "C": "Hash links do not compress data; they ensure integrity.",
+          "D": "Consensus remains necessary; hash chaining complements it."
+        },
+        "reference": "Chaining Blocks - Previous Hash Ensures Tamper Resistance; Requires Recomputing Subsequent Blocks"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q005",
+      "question": "How do Proof of Work (PoW) and Proof of Stake (PoS) differ as consensus mechanisms?",
+      "options": {
+        "A": "PoW relies on miners solving computational puzzles, whereas PoS relies on validators' ownership stakes to secure the network.",
+        "B": "PoW requires no computation, while PoS requires solving hash puzzles.",
+        "C": "PoW and PoS are identical mechanisms with different names.",
+        "D": "PoS eliminates the need for any consensus at all."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "In PoW systems (e.g., Bitcoin), miners expend computational resources to solve hash puzzles, winning the right to append blocks. PoS systems (e.g., some modern chains) select validators based on the amount of cryptocurrency they stake, aligning incentives through economic exposure rather than hash power. Both aim to deter malicious actors, but through different resource commitments.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "PoW is computationally intensive; PoS is comparatively energy-efficient.",
+          "C": "They differ fundamentally in resource requirements and incentives.",
+          "D": "PoS still involves consensus protocols to agree on the ledger state."
+        },
+        "reference": "Consensus Mechanisms - PoW Uses Computational Work; PoS Uses Economic Stake"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q006",
+      "question": "What limitations to blockchain tamper-resistance do the notes highlight?",
+      "options": {
+        "A": "Blockchains are mathematically impossible to attack under any circumstance.",
+        "B": "Tamper-resistance is probabilistic—attacks remain possible if, for example, an attacker controls >50% of hash power, puzzles are too easy, few blocks exist, or sheer luck favours the attacker.",
+        "C": "Tamper-resistance fails whenever honest nodes are in the majority.",
+        "D": "Tamper-resistance requires physical possession of all private keys."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The notes caution that blockchain security is not absolute. If attackers control majority hash power (a 51% attack), if the network is small, puzzles are trivial, or randomness favours the attacker, they might outpace honest nodes. Thus, immutability is practical rather than guaranteed.",
+        "incorrect": {
+          "A": "Absolute security is not claimed; the notes emphasise probabilistic resistance.",
+          "B": "This is the correct answer.",
+          "C": "Honest majority strengthens security; tampering becomes difficult, not easier.",
+          "D": "Private keys govern transaction signing, not consensus tamper-resistance."
+        },
+        "reference": "Limitations - Blockchain Security Is Probabilistic; Vulnerable to 51% Attacks, Weak Networks, Lucky Adversaries"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q007",
+      "question": "Beyond recording cryptocurrency transactions, what other uses does the notes identify for blockchain ledgers?",
+      "options": {
+        "A": "Only cryptocurrency transactions can be recorded on blockchain.",
+        "B": "Storing legal or economic rights (tokens/ICOs), linking to real-world assets (tokenisation), property records, and digital art (NFTs), illustrating blockchain's potential for trusted data registries beyond currency.",
+        "C": "Only storing random numbers for entertainment purposes.",
+        "D": "Running traditional relational databases with faster SQL queries."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The notes emphasise that blockchain can underpin various registries—tokenised securities, off-chain asset references, land registries, and NFTs. The technology offers tamper-evident storage for diverse data, extending beyond purely monetary applications.",
+        "incorrect": {
+          "A": "The notes specifically list multiple non-currency uses.",
+          "B": "This is the correct answer.",
+          "C": "Random numbers are not the focus of blockchain utility.",
+          "D": "Blockchains are not optimised for SQL-style relational queries."
+        },
+        "reference": "Broader Blockchain Uses - Tokens, Tokenised Assets, Property Records, NFTs"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q008",
+      "question": "How did Bybit v Ho Kai Xin characterise cryptoassets under Singapore law?",
+      "options": {
+        "A": "As physical choses in possession identical to cash.",
+        "B": "As an incorporeal right of property recognisable by common law as a thing in action, enforceable in court.",
+        "C": "As mere contractual expectations with no proprietary status.",
+        "D": "As illegal instruments incapable of legal recognition."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The High Court concluded that holders of cryptoassets possess an incorporeal property right—a thing in action—capable of enforcement. Although intangible and mutable, cryptoassets can be defined and identified, satisfying the Ainsworth criteria for property. This recognition aligns legal treatment with societal acceptance of crypto value.",
+        "incorrect": {
+          "A": "Cryptoassets are not physical choses in possession.",
+          "B": "This is the correct answer.",
+          "C": "The Court recognised proprietary status, not merely contractual claims.",
+          "D": "The decision affirmed, rather than denied, legal recognition."
+        },
+        "reference": "Bybit v Ho Kai Xin (2023) - Cryptoassets Recognised as Property (Thing in Action)"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q009",
+      "question": "What analogy did the Court use in Bybit v Ho Kai Xin to explain the nature of cryptoassets?",
+      "options": {
+        "A": "Cryptoassets are identical to physical gold bars stored in a vault.",
+        "B": "Like naming a river even though its water constantly changes, cryptoassets can still be defined and identified despite their intangible, evolving nature, supporting proprietary recognition.",
+        "C": "Cryptoassets are best viewed as mere data entries with no analogies available.",
+        "D": "Cryptoassets should be treated as government-issued legal tender."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The Court acknowledged that while cryptoassets are not physical, they can still be identified and valued. The river analogy conveys that changeability does not preclude legal recognition. This reasoning aligns crypto with other socially constructed assets like money, whose value stems from collective acceptance.",
+        "incorrect": {
+          "A": "The Court did not equate crypto with physical bullion.",
+          "B": "This is the correct answer.",
+          "C": "The Court deliberately used analogies to explain legal comprehension.",
+          "D": "Crypto remains distinct from state-issued currency."
+        },
+        "reference": "River Analogy - Explains Identifiability of Changing Cryptoassets; Supports Property Status"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q010",
+      "question": "What broader question does the Court's reasoning in Bybit v Ho Kai Xin raise about law and technology?",
+      "options": {
+        "A": "Whether courts should ignore societal adoption when classifying new assets.",
+        "B": "Whether the Court is recognising a pre-existing societal act of mutual faith in cryptoassets or effectively creating one—highlighting the interplay between legal recognition and social acceptance.",
+        "C": "Whether blockchain should be outlawed entirely.",
+        "D": "Whether cryptoassets can replace all forms of property law."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The notes observe that the Court's reasoning prompts reflection: is the judiciary merely acknowledging societal belief in crypto (akin to money's value through mutual faith) or is it helping to create legitimacy by conferring property status? This underscores the feedback loop between technological adoption and legal classification.",
+        "incorrect": {
+          "A": "The Court did not suggest ignoring social adoption; it factored it in.",
+          "B": "This is the correct answer.",
+          "C": "Outlawing blockchain was not under consideration.",
+          "D": "Recognising crypto as property does not replace the entirety of property law."
+        },
+        "reference": "Bybit Reasoning - Raises Question Whether Law Recognises or Creates Mutual Faith in Cryptoassets"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q011",
+      "question": "What does it mean that blockchain operates on a peer-to-peer distributed network?",
+      "options": {
+        "A": "A single central server stores the ledger and all nodes query it.",
+        "B": "Each participant holds a copy of the ledger, eliminating a single point of control or failure and enhancing resilience against tampering or outages.",
+        "C": "Only trusted financial institutions may participate in the network.",
+        "D": "Nodes cannot communicate directly and must route through an intermediary."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "In a decentralised peer-to-peer network, every node maintains the ledger. This redundancy means no single node can corrupt the history without consensus, and the system can continue operating even if some nodes go offline, supporting blockchain's trustless design.",
+        "incorrect": {
+          "A": "Centralised storage would reintroduce single-point failure risk.",
+          "B": "This is the correct answer.",
+          "C": "Public blockchains allow broad participation; private versions still replicate ledgers across authorised nodes.",
+          "D": "Peer-to-peer means direct communication without intermediaries."
+        },
+        "reference": "Blockchain Architecture - Peer-to-Peer Distributed Ledger Prevents Single Point of Control"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q012",
+      "question": "What is a nonce in the Proof of Work process?",
+      "options": {
+        "A": "A permanent encryption key shared among miners.",
+        "B": "A value miners vary to produce a hash meeting difficulty criteria (e.g., a specified number of leading zeros).",
+        "C": "A list of pending transactions awaiting confirmation.",
+        "D": "A regulatory licence required to join the network."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "In PoW, miners repeatedly modify a nonce—an arbitrary number—to generate a block hash that satisfies the network's difficulty target. Finding such a nonce proves computational effort, securing consensus.",
+        "incorrect": {
+          "A": "Nonces are ephemeral and vary per attempt; they are not shared encryption keys.",
+          "B": "This is the correct answer.",
+          "C": "Pending transactions form the mempool; they are distinct from the nonce.",
+          "D": "Participation typically requires no licence; nonce is a technical parameter."
+        },
+        "reference": "PoW Mechanics - Nonce Adjusted to Produce Hash Meeting Difficulty Requirement"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q013",
+      "question": "Why must an attacker present the longest blockchain to succeed in a PoW attack?",
+      "options": {
+        "A": "Because honest nodes automatically discard shorter chains and adopt the chain with the most cumulative work, so an attacker must outpace honest mining to make its tampered chain authoritative.",
+        "B": "Because blockchain nodes prefer the chain with the fewest transactions.",
+        "C": "Because consensus is determined by government regulators.",
+        "D": "Because transaction fees are higher on shorter chains."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "PoW consensus follows the chain with the greatest accumulated work (often expressed as the longest valid chain). For an attacker to rewrite history, they must mine blocks faster than honest participants to produce a chain that the network will accept, making such attacks resource-intensive.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "Chain selection depends on work, not transaction count.",
+          "C": "Consensus emerges algorithmically, not by regulatory decree.",
+          "D": "Transaction fees do not determine chain validity."
+        },
+        "reference": "Consensus Rule - Longest/Most-Work Chain Prevails; Attacker Must Outpace Honest Nodes"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q014",
+      "question": "What does the notes' observation that 'blocks are nothing special, just packets of data' convey?",
+      "options": {
+        "A": "That blockchain is technologically identical to standard databases without any structural differences.",
+        "B": "That the novelty lies not in the data itself but in how blocks are hashed, chained, and validated via consensus—ordinary data structures made tamper-evident and distributed.",
+        "C": "That block contents are meaningless placeholders with no real information.",
+        "D": "That blockchain is primarily a compression algorithm."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The data stored in blocks may resemble conventional records. What differentiates blockchain is the surrounding architecture—hashing, chaining, peer distribution, and consensus—which collectively provide new trust properties. The remark demystifies blockchain by highlighting that familiar data structures, combined with novel governance mechanisms, deliver its promise.",
+        "incorrect": {
+          "A": "Blockchain employs distinctive integrity and consensus mechanisms absent in standard databases.",
+          "B": "This is the correct answer.",
+          "C": "Blocks hold meaningful transaction or state data.",
+          "D": "Compression is not the primary function."
+        },
+        "reference": "Blocks as Data Packets - Architecture (Hashing, Chaining, Consensus) Provides Innovation"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q015",
+      "question": "Why is blockchain security described as 'wasteful, but better alternatives are elusive'?",
+      "options": {
+        "A": "Because blockchain intentionally discards most transactions to maintain scarcity.",
+        "B": "Because mechanisms like PoW consume significant energy/computation to secure consensus, yet no widely adopted alternative provides the same trustless assurance at scale.",
+        "C": "Because blockchains generate waste data that must be deleted daily.",
+        "D": "Because users must pay fees even when no transactions occur."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "PoW requires substantial computational effort, often criticised as wasteful energy expenditure. However, this expenditure underpins security by making attacks costly. Despite research into more efficient models, a universally accepted substitute that maintains decentralised trust at scale has not emerged, hence the pragmatic acceptance of PoW's inefficiency in key systems like Bitcoin.",
+        "incorrect": {
+          "A": "Transactions are not discarded to create scarcity; mining secures the ledger.",
+          "B": "This is the correct answer.",
+          "C": "Blockchain data is typically preserved, not discarded daily.",
+          "D": "Fees relate to resource usage; the critique focuses on energy consumption, not fee structure."
+        },
+        "reference": "PoW Trade-offs - Energy Intensive Yet Trusted; Better Alternatives Still Emerging"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q016",
+      "question": "What are the two major categories of AI identified in the notes?",
+      "options": {
+        "A": "Quantum AI and analogue AI.",
+        "B": "Rules-based ('symbolic') AI and machine learning ('statistical') AI.",
+        "C": "Commercial AI and military AI.",
+        "D": "Hardware AI and software AI."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The notes contrast rules-based/symbolic AI—expert systems relying on explicit logic—with machine-learning/statistical AI, which derives patterns from data. Modern advances largely stem from the latter, addressing limitations of hand-coded rules.",
+        "incorrect": {
+          "A": "Quantum/analogue categories were not identified in the notes.",
+          "B": "This is the correct answer.",
+          "C": "Use cases (commercial vs military) differ from technical paradigms.",
+          "D": "Hardware vs software is not the categorisation used."
+        },
+        "reference": "AI Types - Symbolic (Rules-Based) vs Statistical (Machine Learning)"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q017",
+      "question": "What limitation of rules-based (symbolic) AI do the notes highlight?",
+      "options": {
+        "A": "They can easily adapt to complex, evolving tasks without human input.",
+        "B": "They struggle with complex domains (like Go or law) because specifying every rule is costly and inflexible, prompting a shift toward data-driven machine learning.",
+        "C": "They cannot be used for any deterministic tasks.",
+        "D": "They require neural networks to operate."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Symbolic systems excel when rules are stable and enumerated, but real-world domains often involve nuanced, evolving patterns. Capturing this exhaustively in hand-crafted rules is impractical, motivating machine-learning approaches that learn from examples rather than explicit instructions.",
+        "incorrect": {
+          "A": "Symbolic systems require manual maintenance; adaptability is limited.",
+          "B": "This is the correct answer.",
+          "C": "They perform well in deterministic domains; the issue is complexity, not determinism.",
+          "D": "Neural networks belong to machine learning, not symbolic AI."
+        },
+        "reference": "Limitations of Symbolic AI - Difficulty Handling Complex, Evolving Domains; Drives Move to ML"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q018",
+      "question": "Outline the basic pipeline for supervised machine learning described in the notes.",
+      "options": {
+        "A": "Structured dataset → raw data → learning algorithm → hypothesis.",
+        "B": "Raw data → structured dataset with features/labels → learning algorithm → trained model/classifier used for predictions.",
+        "C": "Raw data → manual rules → rulebook → predictions without data.",
+        "D": "Raw data → encryption → storage with no modelling."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The pipeline comprises collecting raw data, structuring it into features with labels, applying a learning algorithm to derive a model (hypothesis), and deploying the model for classification or prediction. This workflow underpins the spam detection example and general ML practice.",
+        "incorrect": {
+          "A": "The sequence begins with raw data, not pre-structured data.",
+          "B": "This is the correct answer.",
+          "C": "Machine learning relies on data-driven models, not manual rulebooks.",
+          "D": "Encryption/storage alone does not produce predictive models."
+        },
+        "reference": "Supervised ML Workflow - Raw Data → Structured Dataset → Learning Algorithm → Trained Model"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q019",
+      "question": "What is gradient descent and why is it central to machine learning, according to the notes?",
+      "options": {
+        "A": "A process of manually coding new rules into an expert system.",
+        "B": "An optimisation technique that iteratively adjusts model parameters to minimise a chosen loss function, enabling models to fit data even in high-dimensional spaces.",
+        "C": "A data cleaning procedure for removing outliers.",
+        "D": "A method for encrypting model weights."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Gradient descent evaluates how changes in parameters affect the model's performance (loss) and updates them to reduce error. This calculus-powered iteration lets ML models learn from data efficiently, underpinning everything from linear regression to deep neural networks.",
+        "incorrect": {
+          "A": "Hand-coding rules belongs to symbolic AI, not gradient descent.",
+          "B": "This is the correct answer.",
+          "C": "Outlier removal is distinct from optimisation.",
+          "D": "Gradient descent optimises parameters; it does not encrypt them."
+        },
+        "reference": "Gradient Descent - Iterative Optimisation Minimising Loss Function; Core of ML Training"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q020",
+      "question": "How do large language models (LLMs) relate to the notion that generative AI is a subset of predictive AI?",
+      "options": {
+        "A": "LLMs randomly generate text without reference to prediction.",
+        "B": "LLMs predict the next word (or token) based on prior context; by chaining predictions, they generate coherent sentences, making generative output an extension of predictive modelling.",
+        "C": "LLMs only classify documents and cannot generate text.",
+        "D": "LLMs operate solely on rule-based logic without statistical learning."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The notes explain that a language model is trained to fill in missing words—essentially a predictive task. Generative capabilities arise by repeatedly applying these predictions: given sentence 1, predict sentence 2, and so on. Thus, generative AI leverages predictive modelling at scale.",
+        "incorrect": {
+          "A": "LLMs base their outputs on probabilistic prediction, not randomness.",
+          "B": "This is the correct answer.",
+          "C": "LLMs both classify and generate; generation is a core function.",
+          "D": "LLMs rely on statistical learning, not hand-crafted rules."
+        },
+        "reference": "Generative AI as Predictive - LLMs Predict Next Tokens to Generate Text"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q021",
+      "question": "What does the notes' statement that 'all machine learners/neural networks/LLMs are matrix multiplications' emphasise?",
+      "options": {
+        "A": "That AI systems are mystical entities beyond mathematics.",
+        "B": "That despite anthropomorphic metaphors, these systems are ultimately numerical operations—parameters are numbers computed from data, and neurons are equations combining those numbers.",
+        "C": "That AI operates without any data inputs.",
+        "D": "That AI systems rely exclusively on symbolic logic."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The remark demystifies AI: however impressive the outputs, the machinery consists of matrix operations adjusting numeric parameters. Recognising this counters anthropomorphic narratives and grounds legal analysis in the system's statistical nature.",
+        "incorrect": {
+          "A": "The notes reject mystical characterisations.",
+          "B": "This is the correct answer.",
+          "C": "Data drives parameter updates; AI is not data-free.",
+          "D": "Neural networks are statistical, not purely symbolic."
+        },
+        "reference": "AI Mechanics - Matrix Multiplication View Highlights Statistical Nature of Models"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q022",
+      "question": "What is 'dispositionism' and how does it influence legal thinking about AI?",
+      "options": {
+        "A": "Dispositionism treats technology as purely situational phenomena with no agency.",
+        "B": "Dispositionism assumes actors possess stable internal motives; applied to AI, it leads us to personify systems (seeing wants, intentions) rather than examining situational factors like training data, designers, and operators.",
+        "C": "Dispositionism focuses exclusively on hardware specifications.",
+        "D": "Dispositionism is the view that AI can never cause harm."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Jerrold notes that law often attributes agency to actors based on presumed dispositions. When extended to AI, this bias encourages us to treat models as autonomous beings instead of scrutinising the human and organisational context shaping their outputs, potentially leading to misplaced liability debates (e.g., AI personality arguments).",
+        "incorrect": {
+          "A": "Dispositionism emphasises internal motives, not situational analysis.",
+          "B": "This is the correct answer.",
+          "C": "Hardware details are secondary; the focus is on inferred agency.",
+          "D": "Dispositionism does not claim AI is harmless."
+        },
+        "reference": "Dispositionism - Bias Toward Attributing AI Intentions; Risks Personifying Statistical Systems"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q023",
+      "question": "What is the 'missing person problem' in AI law?",
+      "options": {
+        "A": "A shortage of AI engineers in the workforce.",
+        "B": "The concern that when AI performs tasks traditionally done by humans, legal frameworks struggle to identify responsible persons, prompting calls (sometimes misguided) for AI personality.",
+        "C": "The problem of AI failing to recognise faces.",
+        "D": "A data privacy issue relating to identity theft."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "As AI systems assume roles once filled by human agents, some commentators argue that legal responsibility 'disappears.' Jerrold critiques this framing, urging us to look at the surrounding human stakeholders rather than inventing AI legal personalities.",
+        "incorrect": {
+          "A": "The problem is conceptual, not workforce related.",
+          "B": "This is the correct answer.",
+          "C": "Facial recognition is separate from the legal accountability debate.",
+          "D": "The issue concerns liability attribution, not identity theft."
+        },
+        "reference": "Missing Person Problem - AI Replaces Human Actor, Prompting Debates on Responsibility Allocation"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q024",
+      "question": "What was the DABUS litigation used to illustrate in the notes?",
+      "options": {
+        "A": "That courts unanimously accept AI as inventors.",
+        "B": "That dispositionist narratives can lead to claims that AI systems perceive, think, and feel like persons, pressing for legal recognition despite questionable factual autonomy; most courts ultimately rejected these claims.",
+        "C": "That AI cannot generate any creative output.",
+        "D": "That patent law has already fully embraced AI inventorship."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Jerrold uses DABUS to show how anthropomorphic descriptions ('AI perceives like a person') push legal arguments for AI personhood. Senior courts largely resisted this, underscoring the importance of scrutinising the factual basis for autonomy claims.",
+        "incorrect": {
+          "A": "Courts in most jurisdictions rejected AI inventorship.",
+          "B": "This is the correct answer.",
+          "C": "The debate was not about AI's ability to produce outputs but about legal attribution.",
+          "D": "Patent law has not embraced AI inventorship broadly."
+        },
+        "reference": "DABUS Case - Illustrates Dispositionist Pressures; Courts Mostly Rejected AI Inventorship"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q025",
+      "question": "What does Jerrold recommend regarding anthropomorphic AI narratives?",
+      "options": {
+        "A": "Embrace them because they simplify legal decision-making.",
+        "B": "Question and scrutinise anthropomorphisms embedded in descriptions (e.g., 'the car drove itself'), recognising that such metaphors can mislead liability analysis by obscuring human contributors.",
+        "C": "Ignore all narratives and regulate AI randomly.",
+        "D": "Adopt AI personality statutes immediately."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Jerrold warns that metaphors personifying AI can enslave legal thought (echoing Cardozo). Lawyers should interrogate language that implies AI dispositions, ensuring accountability focuses on situational stakeholders and technical realities.",
+        "incorrect": {
+          "A": "Jerrold cautions against uncritical adoption.",
+          "B": "This is the correct answer.",
+          "C": "Random regulation is not advocated; careful analysis is.",
+          "D": "He opposes premature AI personhood absent factual autonomy."
+        },
+        "reference": "Jerrold's Guidance - Scrutinise Anthropomorphic Narratives to Avoid Misplaced Liability"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q026",
+      "question": "Why does Jerrold urge highlighting situational AI risks?",
+      "options": {
+        "A": "To shift blame entirely onto the AI system.",
+        "B": "To refocus attention on the network of stakeholders (developers, operators, regulators) that shape AI behaviour, countering the tendency to treat the AI as an autonomous actor and aiding in apportioning safety and compensatory obligations.",
+        "C": "Because AI systems never create any risk themselves.",
+        "D": "Because highlighting risks will eliminate the need for regulation."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Situationism emphasises context. By mapping the socio-technical ecosystem behind AI outputs, lawmakers can assign responsibility to the appropriate human actors, rather than attributing outcomes to a mythical AI disposition.",
+        "incorrect": {
+          "A": "The goal is the opposite—avoid blaming the AI alone.",
+          "B": "This is the correct answer.",
+          "C": "AI systems can manifest risks, but analysis should locate the human causes.",
+          "D": "Risk analysis informs regulation; it does not obviate it."
+        },
+        "reference": "Highlight Situational Risks - Map Stakeholders to Allocate Responsibility Accurately"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q027",
+      "question": "How should stakeholders be assessed under Jerrold's situationist approach?",
+      "options": {
+        "A": "Identify a single scapegoat and ignore all other contributors.",
+        "B": "Assess each stakeholder situationally, recognising overlapping contributions and avoiding the trap of simply replacing one dispositionist analysis with another.",
+        "C": "Assume manufacturers bear all liability regardless of context.",
+        "D": "Allocate responsibility randomly to avoid bias."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Jerrold cautions against using situationism merely to pinpoint a new target for traditional blame. Instead, responsibility should reflect the interactions among developers, deployers, regulators, and users, encouraging nuanced risk allocation and governance structures.",
+        "incorrect": {
+          "A": "The aim is comprehensive, not scapegoating.",
+          "B": "This is the correct answer.",
+          "C": "No single stakeholder is automatically liable; analysis must be contextual.",
+          "D": "Random allocation undermines accountability."
+        },
+        "reference": "Assess Stakeholders Situationally - Distribute Responsibility Reflecting Socio-Technical Contributions"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q028",
+      "question": "What market incentives contribute to misunderstanding AI, according to the notes?",
+      "options": {
+        "A": "No incentives exist; misunderstandings are purely accidental.",
+        "B": "Investors reward claims of 'thinking machines' more than frank descriptions of statistical software, and actors may deflect liability by blaming 'the AI,' encouraging exaggerated narratives.",
+        "C": "Developers make more money when they explain AI accurately.",
+        "D": "Regulators provide subsidies for understated AI marketing."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The notes point out that hype attracts investment, while anthropomorphic narratives can shift blame ('the AI did it'). These incentives perpetuate misunderstanding and demand critical scrutiny from lawyers and policymakers.",
+        "incorrect": {
+          "A": "The notes explicitly identify incentives.",
+          "B": "This is the correct answer.",
+          "C": "Honesty may not be rewarded; hype often is.",
+          "D": "No such subsidy is mentioned."
+        },
+        "reference": "Market Incentives - Hype and Liability Deflection Encourage AI Misunderstandings"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q029",
+      "question": "Why does the notes caution that metaphors in law ‘must be narrowly watched’?",
+      "options": {
+        "A": "Because metaphors are banned in legal writing.",
+        "B": "Because metaphors that personify AI can shift legal outcomes, as Cardozo warned—initially useful analogies may later constrain thinking if taken too literally.",
+        "C": "Because metaphors provide precise mathematical definitions.",
+        "D": "Because metaphors guarantee objective decisions."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Quoting Cardozo, the notes remind lawyers that metaphors can ossify into misleading doctrines. Anthropomorphic language about AI risks steering courts toward treating statistical systems as autonomous entities, distorting liability frameworks.",
+        "incorrect": {
+          "A": "Metaphors are common but must be used carefully.",
+          "B": "This is the correct answer.",
+          "C": "Metaphors are illustrative, not precise definitions.",
+          "D": "Metaphors can, rather than guarantee objectivity, mislead analysis."
+        },
+        "reference": "Metaphors in AI Law - Cardozo’s Warning; Avoid Enslaving Legal Thought with Anthropomorphic Analogies"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q030",
+      "question": "Why does the notes say 'not regulating the AI itself (i.e. the math), but how it is used by people'?",
+      "options": {
+        "A": "Because mathematics cannot be described or understood.",
+        "B": "Because AI models are mathematical tools; risk arises from human deployment contexts (training data, oversight, use cases), so regulation should target usage, accountability, and governance rather than forbidding mathematical techniques per se.",
+        "C": "Because regulators refuse to understand statistics.",
+        "D": "Because AI operates without any human involvement."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The notes emphasise that AI frameworks are statistical engines. The law should focus on how humans build, train, and apply these tools—setting standards for responsibility, transparency, and oversight—rather than attempting to ban or anthropomorphise the underlying mathematics.",
+        "incorrect": {
+          "A": "Mathematics is understandable; the point is about regulatory focus.",
+          "B": "This is the correct answer.",
+          "C": "The challenge is not regulator incompetence but appropriate targeting of rules.",
+          "D": "Humans play central roles in designing and using AI."
+        },
+        "reference": "Regulatory Focus - Govern Human Use of AI Tools Rather Than the Mathematical Mechanism Itself"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q031",
+      "question": "How did Alan Turing propose evaluating AI in 1950, and why is the question 'can machines think?' considered unhelpful in the notes?",
+      "options": {
+        "A": "He proposed a hardware benchmark, and the question is unhelpful because hardware has not advanced.",
+        "B": "He proposed the imitation game (Turing Test), focusing on whether a human can distinguish machine responses; debating 'machines thinking' is unhelpful because 'machine' and 'think' are ill-defined.",
+        "C": "He proposed measuring power consumption, and the question is unhelpful because machines already think like humans.",
+        "D": "He proposed granting machines legal personhood, making the question obsolete."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Turing reframed the discussion by suggesting a behavioural test (the imitation game) rather than philosophical debates about machine consciousness. The notes adopt this pragmatic stance, noting that definitional debates over 'thinking' hinder progress.",
+        "incorrect": {
+          "A": "Turing's test was conversational, not hardware-based.",
+          "B": "This is the correct answer.",
+          "C": "Power consumption was not his metric.",
+          "D": "Legal personhood was not part of Turing's proposal."
+        },
+        "reference": "Turing Test - Behavioural Evaluation; 'Can Machines Think?' Deemed Unhelpful"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q032",
+      "question": "Which categories from Russell and Norvig's textbook does the notes reference to define AI?",
+      "options": {
+        "A": "Thinking humanly, thinking rationally, acting humanly, acting rationally.",
+        "B": "Thinking legally, acting legally, thinking economically, acting economically.",
+        "C": "Thinking emotionally, acting emotionally, thinking instinctively, acting instinctively.",
+        "D": "Thinking symbolically, acting symbolically, thinking numerically, acting numerically."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "The notes reproduce Russell and Norvig's four-fold taxonomy: thinking humanly/rationally and acting humanly/rationally. These categories capture different research goals and evaluation metrics in AI.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "These categories are not in the notes.",
+          "C": "Emotional/instinctive distinctions were not discussed.",
+          "D": "Symbolic/numerical acting categories were not highlighted."
+        },
+        "reference": "Russell & Norvig Taxonomy - Thinking vs Acting; Human vs Rational"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q033",
+      "question": "Why did the notes observe that the spam-classification example can be more explainable than a human decision?",
+      "options": {
+        "A": "Because machine learning models never make mistakes.",
+        "B": "Because the learned weights in a simple model (e.g., coefficient on 'lottery') provide explicit, inspectable contributions to the decision, whereas human reasoning may be opaque or inconsistent.",
+        "C": "Because humans cannot classify emails at all.",
+        "D": "Because machine learning relies solely on randomness."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "In linear models, feature weights make reasoning transparent: we can see how strongly 'lottery' or 'typos' influence the spam score. Human judgments often lack such clear articulation, underscoring ML's potential for consistent, auditable decisions in narrow tasks.",
+        "incorrect": {
+          "A": "Models can err; the point is about transparency, not infallibility.",
+          "B": "This is the correct answer.",
+          "C": "Humans can classify emails, but explanations may be vague.",
+          "D": "Machine learning leverages learned patterns, not pure randomness."
+        },
+        "reference": "Spam Example - Feature Weights Provide Explainability Compared to Human Heuristics"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q034",
+      "question": "What is the fundamental attribution error discussed in the notes, and how does it relate to AI?",
+      "options": {
+        "A": "It is a computational bug in neural networks that prevents training.",
+        "B": "It is the human bias of over-attributing behaviour to internal dispositions rather than situational factors; in AI, it leads us to blame or credit the system instead of the surrounding socio-technical context.",
+        "C": "It is the legal rule that AI must always be liable for its outputs.",
+        "D": "It is a requirement that AI training data exclude human behaviour."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Psychology shows humans often overlook situational influences. Applied to AI, this bias encourages misplaced agency attribution to the system itself, obscuring responsible human actors. Recognising the error supports Jerrold's call for situationist analysis.",
+        "incorrect": {
+          "A": "The error is cognitive, not computational.",
+          "B": "This is the correct answer.",
+          "C": "No such legal rule exists.",
+          "D": "Training data commonly includes human behaviour."
+        },
+        "reference": "Fundamental Attribution Error - Over-Attributing to AI Disposition; Need Situational Analysis"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q035",
+      "question": "Why does the notes claim that 'AI is by definition a human imitation game' and what consequence follows?",
+      "options": {
+        "A": "Because AI literally becomes human once deployed, so law should grant it rights.",
+        "B": "Because AI systems are designed to emulate human outputs, making it easy for observers to be fooled; therefore, narratives about autonomous AI must be scrutinised for hype and misplaced liability.",
+        "C": "Because AI cannot imitate human behaviour at all.",
+        "D": "Because AI always replaces humans without any oversight."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "AI's goal of mimicking human performance makes anthropomorphic interpretations tempting. The notes warn that being impressed or deceived by this imitation should not lead to attributing agency the system lacks, reinforcing cautious legal analysis.",
+        "incorrect": {
+          "A": "The notes caution against equating AI with humans.",
+          "B": "This is the correct answer.",
+          "C": "AI can imitate human-like outputs.",
+          "D": "Human oversight remains pivotal; AI does not automatically replace humans."
+        },
+        "reference": "AI as Imitation Game - Susceptibility to Hype; Need for Critical Liability Assessment"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q036",
+      "question": "What does the remark that 'few have the technical training to properly understand, and even fewer actually want to know' imply for AI governance?",
+      "options": {
+        "A": "That only engineers should regulate AI.",
+        "B": "That knowledge gaps exacerbate susceptibility to hype and anthropomorphism, necessitating deliberate efforts by lawyers and policymakers to build technical literacy and question simplistic narratives.",
+        "C": "That AI systems require no regulation because nobody understands them.",
+        "D": "That legal education should exclude technology topics."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Jerrold observes that limited technical literacy allows exaggerated claims to flourish. Effective governance demands intentional learning and scepticism from legal professionals to avoid being misled by marketing or sci-fi imagery.",
+        "incorrect": {
+          "A": "Multidisciplinary collaboration is preferable to narrow control.",
+          "B": "This is the correct answer.",
+          "C": "Ignorance heightens the need for informed regulation, not neglect.",
+          "D": "The notes advocate the opposite—integrating tech understanding into legal discourse."
+        },
+        "reference": "Technical Literacy Gap - Encourages Hype; Lawyers Must Seek Understanding for Sound Governance"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q037",
+      "question": "Why does the notes mention that generative AI has been used since the 1990s?",
+      "options": {
+        "A": "To show that modern models lack any innovation.",
+        "B": "To contextualise current hype, noting that generative techniques (predictive text, language modelling) have a long history; today's breakthroughs are scale and compute, not the mere existence of generative methods.",
+        "C": "To argue that generative AI is obsolete.",
+        "D": "To claim that only legacy systems can generate text."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The note tempers novelty narratives, reminding readers that the concept of generative modelling predates recent LLMs. Recognising continuity helps avoid inflated claims about unprecedented capabilities warranting radical legal changes.",
+        "incorrect": {
+          "A": "There are significant innovations, particularly in scale.",
+          "B": "This is the correct answer.",
+          "C": "Generative AI remains highly relevant.",
+          "D": "Modern systems extend, not replace, earlier techniques."
+        },
+        "reference": "Historical Context - Generative AI Roots in 1990s; Current Advances Lie in Scale"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q038",
+      "question": "What does the note suggest about the meaning of terms like 'neurons', 'attention', and 'memory' in AI systems?",
+      "options": {
+        "A": "That they literally replicate biological brains.",
+        "B": "That they are metaphors for mathematical operations (weighted sums, focus mechanisms, recurrent connections) and should not be mistaken for human cognitive processes.",
+        "C": "That they refer to legal doctrines about AI liability.",
+        "D": "That they represent emotional states within AI."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "These terms originate from analogies but correspond to specific computational constructs. Recognising their metaphorical nature prevents over-attributing human-like capacities to AI, aligning with Jerrold's caution against anthropomorphism.",
+        "incorrect": {
+          "A": "The notes warn against assuming biological equivalence.",
+          "B": "This is the correct answer.",
+          "C": "They describe model architecture, not legal doctrines.",
+          "D": "They do not denote emotions."
+        },
+        "reference": "Metaphorical Terminology - 'Neurons', 'Attention', 'Memory' Represent Mathematical Operations"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q039",
+      "question": "What legal risk does personifying AI pose, as discussed in the notes?",
+      "options": {
+        "A": "It ensures more accurate liability outcomes.",
+        "B": "It can shift focus away from human stakeholders, leading to misguided calls for AI personality or exemptions that obscure accountability.",
+        "C": "It reduces hype and encourages transparency.",
+        "D": "It automatically increases consumer protection."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "By attributing agency to AI, legal debates may neglect the designers, operators, and regulators responsible for outcomes. Jerrold warns that this can precipitate ill-conceived reforms (e.g., AI legal personhood) that complicate accountability.",
+        "incorrect": {
+          "A": "Misplaced personification risks inaccurate outcomes.",
+          "B": "This is the correct answer.",
+          "C": "Personification tends to fuel hype, not reduce it.",
+          "D": "It can weaken consumer protection by deflecting responsibility."
+        },
+        "reference": "Risk of Personifying AI - Obscures Human Accountability; Leads to Problematic Legal Proposals"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q040",
+      "question": "How does Jerrold's situationist view propose handling safety and compensatory obligations in AI systems?",
+      "options": {
+        "A": "By attributing all responsibility to the AI itself.",
+        "B": "By apportioning obligations across multiple stakeholders (developers, deployers, regulators, users) reflecting their situational contributions to risk.",
+        "C": "By abolishing liability altogether to encourage innovation.",
+        "D": "By holding only data subjects responsible for outcomes."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Jerrold argues that AI risks arise from socio-technical ecosystems. Effective governance distributes safety obligations and compensation duties to the parties who design, train, deploy, or oversee systems, aligning accountability with actual influence.",
+        "incorrect": {
+          "A": "Blaming the AI sidesteps real decision-makers.",
+          "B": "This is the correct answer.",
+          "C": "Liability is necessary to incentivise responsible conduct.",
+          "D": "Data subjects are typically victims, not cause of AI behaviour."
+        },
+        "reference": "Situationist Allocation - Distribute Responsibilities Among Stakeholders According to Their Role"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q041",
+      "question": "How do public and private keys function in blockchain transactions, according to the notes?",
+      "options": {
+        "A": "The private key encrypts messages and the public key decrypts them, making communication public.",
+        "B": "The public key is shared so others can encrypt messages or verify signatures, while the private key remains secret and is used to decrypt or sign transactions, proving ownership.",
+        "C": "Both keys are publicly shared to maximise transparency.",
+        "D": "Keys are irrelevant because blockchain transactions are anonymous by default."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Public-key cryptography enables confidentiality and authentication: senders encrypt using the recipient's public key (only the private key can decrypt) and holders sign transactions with their private key so anyone with the public key can verify authenticity.",
+        "incorrect": {
+          "A": "The direction is reversed; private keys are kept secret.",
+          "B": "This is the correct answer.",
+          "C": "Exposing private keys would compromise security.",
+          "D": "Key pairs underpin blockchain ownership and signature schemes."
+        },
+        "reference": "Public/Private Keys - Public Key Shared for Encryption/Verification; Private Key Used for Decryption/Signing"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q042",
+      "question": "What are smart contracts as described in the notes?",
+      "options": {
+        "A": "Traditional paper contracts stored on blockchain for safekeeping.",
+        "B": "Self-executing code with programmed conditions (e.g., in Solidity) that automatically perform actions when predefined criteria are met.",
+        "C": "Legal agreements enforced exclusively by courts.",
+        "D": "Contracts that require human approval before any step executes."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Smart contracts embed obligations as code. When conditions (often data-driven) are satisfied, the contract executes automatically on-chain, reducing reliance on manual enforcement.",
+        "incorrect": {
+          "A": "They are executable code, not mere storage of PDFs.",
+          "B": "This is the correct answer.",
+          "C": "Smart contracts seek to automate enforcement beyond court intervention.",
+          "D": "Their point is to reduce the need for human approval at execution time."
+        },
+        "reference": "Smart Contracts - Self-Executing Code with Programmable Conditions"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q043",
+      "question": "What other consensus mechanisms besides PoW and PoS does the notes mention, and what does this signify?",
+      "options": {
+        "A": "Delegated Proof of Stake (DPoS) and Practical Byzantine Fault Tolerance (PBFT), indicating diverse approaches to achieving agreement beyond the two dominant models.",
+        "B": "Only manual voting by regulators, showing blockchain cannot reach consensus autonomously.",
+        "C": "There are no other mechanisms; PoW is the only option.",
+        "D": "Quantum consensus, which relies on instant teleportation of transactions."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "The notes highlight DPoS and PBFT as alternative consensus designs, demonstrating ongoing innovation to balance security, efficiency, and decentralisation across different blockchain projects.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "Consensus mechanisms are algorithmic, not purely regulatory votes.",
+          "C": "Multiple mechanisms exist beyond PoW.",
+          "D": "Quantum consensus was not mentioned."
+        },
+        "reference": "Consensus Diversity - DPoS, PBFT Highlight Alternative Approaches"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q044",
+      "question": "What caution about data-driven models does the notes convey when stating that parameters reflect what the data says (and does not say)?",
+      "options": {
+        "A": "That parameters can be set arbitrarily without data.",
+        "B": "That model behaviour mirrors the training data's patterns and omissions, so biases or gaps in data propagate into AI decisions, underscoring the need for careful dataset curation and evaluation.",
+        "C": "That parameters are meaningless numbers unrelated to outputs.",
+        "D": "That models always override data with human intuition."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The note warns that ML models learn precisely what is contained—and missing—in the data. Biased or incomplete datasets yield biased outputs, highlighting the importance of governance over data sourcing and evaluation.",
+        "incorrect": {
+          "A": "Parameters are learned from data, not set arbitrarily.",
+          "B": "This is the correct answer.",
+          "C": "Parameters directly influence predictions.",
+          "D": "Models follow data-driven signals rather than intuition."
+        },
+        "reference": "Data Reflection - Model Parameters Encode Data Biases and Gaps"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q045",
+      "question": "What does the notes mean by saying 'learning is a metaphor for updating parameters'?",
+      "options": {
+        "A": "That AI systems literally gain consciousness when trained.",
+        "B": "That training consists of mathematical optimisation adjusting parameters to better fit data; 'learning' anthropomorphises this process.",
+        "C": "That AI training involves human teachers grading homework.",
+        "D": "That learning requires no data or optimisation."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The term 'learning' evokes human cognition, but in ML it refers to algorithmic parameter updates via optimisation methods (e.g., gradient descent). Recognising the metaphor prevents over-ascribing human traits to statistical processes.",
+        "incorrect": {
+          "A": "Training does not grant consciousness.",
+          "B": "This is the correct answer.",
+          "C": "Human grading is not part of typical ML training.",
+          "D": "Data and optimisation are essential."
+        },
+        "reference": "Learning Metaphor - Parameter Optimisation, Not Human Cognition"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q046",
+      "question": "Why does the notes describe modern LLMs (e.g., GPT-3.5) as computationally expensive?",
+      "options": {
+        "A": "Because they use outdated hardware from the 1990s.",
+        "B": "Because they contain hundreds of billions of parameters requiring immense compute and energy to train and run, highlighting resource and sustainability considerations.",
+        "C": "Because they are hand-coded by lawyers.",
+        "D": "Because they only run on consumer laptops."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Scale is a distinguishing feature of contemporary LLMs; training models with 175B parameters demands massive computational resources, raising questions about cost, access, and environmental impact.",
+        "incorrect": {
+          "A": "State-of-the-art hardware is used, not outdated equipment.",
+          "B": "This is the correct answer.",
+          "C": "Development is handled by engineers and researchers.",
+          "D": "Such models typically require specialised infrastructure, not just laptops."
+        },
+        "reference": "LLM Scale - Hundreds of Billions of Parameters Demand Significant Compute"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q047",
+      "question": "What is the 'android fallacy' referenced in the notes?",
+      "options": {
+        "A": "The belief that androids cannot legally exist.",
+        "B": "The tendency to personify AI systems as if they possessed human characteristics, leading to analytical errors in legal reasoning.",
+        "C": "A programming mistake in robotics firmware.",
+        "D": "A doctrine requiring robots to obtain licences."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "The android fallacy describes the mistaken assumption that AI/robots have human-like agency or understanding. Recognising this fallacy helps lawyers avoid attributing moral or legal qualities to statistical models.",
+        "incorrect": {
+          "A": "The fallacy concerns perception, not legal existence.",
+          "B": "This is the correct answer.",
+          "C": "It is conceptual, not a software bug.",
+          "D": "No such licensing doctrine exists."
+        },
+        "reference": "Android Fallacy - Personifying AI Leads to Analytical Errors"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q048",
+      "question": "How does Calo's observation about judges' metaphor choices relate to AI regulation?",
+      "options": {
+        "A": "Metaphors have no impact on legal outcomes.",
+        "B": "Judges' selection of metaphors or analogies for new technology can determine legal outcomes, so care must be taken to avoid metaphors that mischaracterise AI's nature.",
+        "C": "Judges avoid metaphors entirely when discussing technology.",
+        "D": "Calo argues that metaphors should be replaced with technical jargon."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Calo highlights that metaphors frame the issues judges consider salient. Misleading analogies (e.g., calling AI a 'person') can steer doctrine in problematic directions, reinforcing Jerrold's warning about anthropomorphic narratives.",
+        "incorrect": {
+          "A": "Metaphors can significantly shape reasoning.",
+          "B": "This is the correct answer.",
+          "C": "Judges frequently employ metaphors; the issue is choosing them wisely.",
+          "D": "Calo does not call for jargon but for thoughtful metaphor use."
+        },
+        "reference": "Calo on Metaphors - Judicial Analogies Influence AI Legal Outcomes"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q049",
+      "question": "Why are calls for AI personality symptomatic of dispositionism, according to the notes?",
+      "options": {
+        "A": "Because AI already possesses legal rights that must be acknowledged.",
+        "B": "Because attributing internal agency to AI (rather than examining situational factors) motivates proposals to grant AI legal personhood, despite lack of factual autonomy.",
+        "C": "Because dispositionism denies that humans contribute to AI behaviour.",
+        "D": "Because courts universally accept AI personhood."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Dispositionism leads to viewing AI as an actor with intentions, prompting arguments for recognising AI as inventors or legal persons. Jerrold views these proposals as misplaced, urging focus on human stakeholders instead.",
+        "incorrect": {
+          "A": "AI does not currently hold broad legal rights.",
+          "B": "This is the correct answer.",
+          "C": "Dispositionism overemphasises internal agency, not deny human roles.",
+          "D": "Courts largely reject AI personhood thus far."
+        },
+        "reference": "Calls for AI Personhood - Symptom of Dispositionism; Misplaces Responsibility"
+      }
+    },
+    {
+      "id": "CLK-LT-M4-Q050",
+      "question": "What overarching takeaway does Jerrold offer for thinking about AI systems in law?",
+      "options": {
+        "A": "Embrace anthropomorphic metaphors to simplify liability.",
+        "B": "Scrutinise narratives, recognise AI as statistical tools situated within socio-technical ecosystems, and allocate responsibility among human stakeholders rather than the machine.",
+        "C": "Treat AI as autonomous persons deserving legal rights.",
+        "D": "Ignore AI regulation until courts grant it personhood."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Jerrold's upshot is to move beyond dispositionist biases, interrogate metaphors, and adopt a situationist lens that keeps human actors at the centre of accountability for AI outcomes.",
+        "incorrect": {
+          "A": "He warns against uncritical reliance on metaphors.",
+          "B": "This is the correct answer.",
+          "C": "He critiques proposals for AI personhood absent real autonomy.",
+          "D": "Proactive governance is urged, not delay."
+        },
+        "reference": "Jerrold's Takeaway - Treat AI as Statistical Tools; Focus on Human Accountability"
+      }
+    }
+  ]
+}
