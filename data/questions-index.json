@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "lastUpdated": "2025-11-07",
+  "version": "1.1",
+  "lastUpdated": "2025-11-09",
   "subjects": {
     "banking": {
       "name": "Banking & Finance",
@@ -93,16 +93,28 @@
       "description": "Faraid, 1/3 rule, CPF nominations, joint tenancy, hibah, and inheritance certificates"
     },
     "clk-dpcr-module1": {
-      "name": "CLK A1 Module 1: PDPA Fundamentals",
+      "name": "CLK A1 Module 1: PDPA Fundamentals & Scope",
       "file": "clk-dpcr-module1-questions.json",
-      "questionCount": 40,
-      "description": "Core PDPA definitions, consent models, and notification duties"
+      "questionCount": 50,
+      "description": "Core PDPA definitions, organizations, exclusions, consent models, and notification duties"
     },
     "clk-dpcr-module2": {
-      "name": "CLK A1 Module 2: PDPA Data Lifecycle Obligations",
+      "name": "CLK A1 Module 2: Consent & Legal Bases",
       "file": "clk-dpcr-module2-questions.json",
-      "questionCount": 2,
-      "description": "Accuracy, transfer, and retention obligations across the data lifecycle"
+      "questionCount": 50,
+      "description": "Consent obligations, deemed consent, exceptions, and legal bases for processing"
+    },
+    "clk-dpcr-module3": {
+      "name": "CLK A1 Module 3: Data Lifecycle Obligations",
+      "file": "clk-dpcr-module3-questions.json",
+      "questionCount": 50,
+      "description": "Purpose limitation, accuracy, protection, retention, and transfer obligations"
+    },
+    "clk-dpcr-module4": {
+      "name": "CLK A1 Module 4: Breach Notification & Accountability",
+      "file": "clk-dpcr-module4-questions.json",
+      "questionCount": 50,
+      "description": "Data breach notification, assessment requirements, and accountability obligations"
     },
     "clk-lt-module1": {
       "name": "CLK A2 Module 1: Introduction to Law & Technology",
@@ -163,6 +175,8 @@
       "subjects": [
         "clk-dpcr-module1",
         "clk-dpcr-module2",
+        "clk-dpcr-module3",
+        "clk-dpcr-module4",
         "clk-lt-module1",
         "clk-lt-module2",
         "clk-lt-module3",
