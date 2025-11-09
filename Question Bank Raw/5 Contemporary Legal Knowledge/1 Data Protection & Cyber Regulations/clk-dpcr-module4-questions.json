@@ -210,6 +210,846 @@
         },
         "reference": "PDPA Public Agency Intermediary Breach Notification (s 26E); Notify Public Agency Without Undue Delay; Public Agency Assesses and Notifies; Intermediary Does Not Notify PDPC or Individuals Directly"
       }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q011",
+      "question": "Under DBN Regulations Reg 3, what personal data is prescribed as likely to result in significant harm if breached?",
+      "options": {
+        "A": "Only financial information is prescribed as likely to result in significant harm.",
+        "B": "Prescribed personal data includes NRIC numbers, passport numbers, credit/debit card numbers, financial account information, health data, and other prescribed classes of personal data.",
+        "C": "No personal data is prescribed - organizations must assess harm on a case-by-case basis.",
+        "D": "Only health data is prescribed as likely to result in significant harm."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under DBN Regulations Reg 3 and Schedule, personal data prescribed as likely to result in significant harm includes: (a) NRIC numbers, (b) passport numbers, (c) credit/debit card numbers, (d) financial account information (e.g., bank account numbers), (e) health data (including medical records, diagnoses, treatments), and (f) other prescribed classes. This list recognizes that certain types of personal data are inherently sensitive and their breach is likely to cause significant harm (e.g., identity theft, financial fraud, discrimination). If a breach affects prescribed personal data, it is deemed to result in significant harm under s 26B(2), making it a notifiable data breach (subject to other requirements).",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because DBN Regulations Reg 3 prescribes MORE than just financial information. The prescribed personal data includes NRIC numbers, passport numbers, credit/debit card numbers, financial account information, health data, and other prescribed classes. Financial information is included but not the only type. The 'only financial information' interpretation is too narrow.",
+          "C": "This is incorrect because DBN Regulations Reg 3 and Schedule explicitly prescribe certain classes of personal data as likely to result in significant harm. Organizations do not need to assess harm for prescribed personal data - if a breach affects prescribed data, it is deemed to result in significant harm. However, organizations must still assess whether breaches of non-prescribed data result in significant harm.",
+          "D": "This is incorrect because DBN Regulations Reg 3 prescribes MORE than just health data. The prescribed personal data includes NRIC numbers, passport numbers, credit/debit card numbers, financial account information, health data, and other prescribed classes. Health data is included but not the only type. The 'only health data' interpretation is too narrow."
+        },
+        "reference": "DBN Regulations Reg 3 and Schedule; Prescribed Personal Data; NRIC, Passport, Financial, Health Data; Deemed Significant Harm; Not Case-by-Case Assessment"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q012",
+      "question": "Under DBN Regulations Reg 4, what constitutes 'significant scale' for a data breach?",
+      "options": {
+        "A": "A data breach affects significant scale if it affects 100 or more individuals.",
+        "B": "A data breach affects significant scale if it affects 500 or more individuals.",
+        "C": "A data breach affects significant scale if it affects 1000 or more individuals.",
+        "D": "Significant scale is determined on a case-by-case basis without a fixed threshold."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under DBN Regulations Reg 4, a data breach is of significant scale if it affects not fewer than 500 individuals. This means breaches affecting 500 or more individuals are deemed to be of significant scale, making them notifiable data breaches under s 26B(3) (subject to other requirements). The 500-individual threshold recognizes that breaches affecting large numbers of people pose greater risks and require notification regardless of whether they result in significant harm to individuals. Breaches affecting fewer than 500 individuals may still be notifiable if they result in significant harm, but they are not automatically notifiable based on scale alone.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because DBN Regulations Reg 4 sets the threshold at 500 individuals, not 100. A breach affects significant scale if it affects 'not fewer than 500 individuals' - meaning 500 or more. The '100 individuals' threshold is incorrect.",
+          "C": "This is incorrect because DBN Regulations Reg 4 sets the threshold at 500 individuals, not 1000. A breach affects significant scale if it affects 'not fewer than 500 individuals' - meaning 500 or more. The '1000 individuals' threshold is incorrect.",
+          "D": "This is incorrect because DBN Regulations Reg 4 explicitly sets a fixed threshold: 500 individuals. The provision states 'not fewer than 500 individuals' - creating a clear, objective threshold, not a case-by-case assessment. The 'case-by-case' interpretation ignores the explicit threshold."
+        },
+        "reference": "DBN Regulations Reg 4; Significant Scale Threshold; 500 or More Individuals; Fixed Threshold; Not Case-by-Case"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q013",
+      "question": "Under s 26C(2) PDPA, when must a data controller conduct an assessment of whether a data breach is notifiable?",
+      "options": {
+        "A": "The controller must conduct an assessment only if PDPC requests it.",
+        "B": "The controller must conduct an assessment in a reasonable and expeditious manner when it has reason to believe that a data breach has occurred affecting personal data in its possession or under its control.",
+        "C": "The controller must conduct an assessment within 30 days of discovering the breach.",
+        "D": "The controller is not required to conduct an assessment - it can notify PDPC directly."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26C(2) PDPA, where an organization (data controller) has reason to believe that a data breach has occurred affecting personal data in its possession or under its control, it must conduct, in a reasonable and expeditious manner, an assessment of whether the data breach is a notifiable data breach. The assessment must be conducted promptly - 'reasonable and expeditious' means without undue delay, recognizing that timely assessment is important for determining whether notification is required. The assessment determines whether the breach meets the thresholds for notifiability (significant harm, significant scale, or prescribed circumstances). Only after assessment can the organization determine whether notification to PDPC is required under s 26D.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26C(2) requires controllers to conduct assessments proactively when they have reason to believe a breach has occurred - not only if PDPC requests it. The obligation is triggered by the organization's knowledge of a breach, not by PDPC's request. The 'only if requested' interpretation ignores the proactive assessment requirement.",
+          "C": "This is incorrect because s 26C(2) requires assessments to be conducted 'in a reasonable and expeditious manner' - not within 30 days. The standard is promptness, not a fixed 30-day deadline. Assessments should be done quickly to enable timely notification if required. The '30 days' timeframe is incorrect.",
+          "D": "This is incorrect because s 26C(2) explicitly requires controllers to conduct assessments before notifying PDPC. The assessment determines whether the breach is notifiable - organizations cannot notify PDPC without first assessing whether notification is required. The 'no assessment required' interpretation contradicts s 26C(2)."
+        },
+        "reference": "PDPA Breach Assessment (s 26C(2)); Reasonable and Expeditious Manner; When Has Reason to Believe Breach Occurred; Proactive Assessment; Before Notification"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q014",
+      "question": "Under s 26D(3) PDPA and DBN Regulations Reg 5, what information must be included in the notification to PDPC?",
+      "options": {
+        "A": "The notification must only state that a breach occurred - no detailed information is required.",
+        "B": "The notification must include: date and circumstances of first awareness, chronological account of steps taken, how the breach occurred, number of affected individuals, affected personal data, potential harm, remedial actions taken/planned, and plan to inform affected individuals.",
+        "C": "The notification must include only the number of affected individuals and the type of data breached.",
+        "D": "The notification must include only a description of the breach - no other information is required."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26D(3) PDPA and DBN Regulations Reg 5, the notification to PDPC must contain prescribed information, to the best of the organization's knowledge and belief when the notification is made. Required information includes: (a) the date and circumstances of first awareness of the breach, (b) a chronological account of steps taken after awareness, including the assessment that the breach is notifiable, (c) information on how the breach occurred, (d) the number of affected individuals, (e) the personal data or classes of personal data affected, (f) the potential harm to affected individuals, (g) information on remedial actions taken/planned to eliminate or mitigate harm and address failures, and (h) information on plans to inform affected individuals. The notification must be comprehensive to enable PDPC to understand the breach and assess the organization's response.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26D(3) and DBN Regulations Reg 5 require comprehensive information, not just a statement that a breach occurred. The notification must include: date/circumstances of awareness, steps taken, how breach occurred, number affected, data affected, potential harm, remedial actions, and plans to inform individuals. The 'only statement' interpretation ignores the detailed information requirements.",
+          "C": "This is incorrect because s 26D(3) and DBN Regulations Reg 5 require MORE than just the number of affected individuals and type of data. The notification must include: date/circumstances of awareness, steps taken, how breach occurred, potential harm, remedial actions, and plans to inform individuals. The 'only number and type' interpretation ignores other required information.",
+          "D": "This is incorrect because s 26D(3) and DBN Regulations Reg 5 require comprehensive information, not just a description of the breach. The notification must include: date/circumstances of awareness, steps taken, how breach occurred, number affected, data affected, potential harm, remedial actions, and plans to inform individuals. The 'only description' interpretation ignores the detailed information requirements."
+        },
+        "reference": "PDPA Notification to PDPC (s 26D(3)); DBN Regulations Reg 5; Comprehensive Information Required; Date/Circumstances, Steps Taken, How Occurred, Number Affected, Data Affected, Harm, Remedial Actions, Plans to Inform"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q015",
+      "question": "Under s 26D(3) PDPA and DBN Regulations Reg 6, what information must be included in the notification to affected individuals?",
+      "options": {
+        "A": "The notification must only state that a breach occurred - no detailed information is required.",
+        "B": "The notification must include: circumstances of first awareness, affected personal data, potential harm, remedial actions taken/planned, and steps individuals can take to eliminate or mitigate harm.",
+        "C": "The notification must include only the type of data breached.",
+        "D": "The notification must include only a general statement that personal data was breached."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26D(3) PDPA and DBN Regulations Reg 6, the notification to affected individuals must contain prescribed information, to the best of the organization's knowledge and belief when the notification is made. Required information includes: (a) the circumstances in which the organization first became aware of the breach, (b) the personal data or classes of personal data relating to the affected individual that were affected, (c) the potential harm to the affected individual, (d) information on remedial actions taken/planned to eliminate or mitigate harm and address failures, and (e) the steps that the affected individual may take to eliminate or mitigate harm, including preventing misuse of their personal data. The notification must be informative to help individuals understand what happened and what they can do.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26D(3) and DBN Regulations Reg 6 require comprehensive information, not just a statement that a breach occurred. The notification must include: circumstances of awareness, affected data, potential harm, remedial actions, and steps individuals can take. The 'only statement' interpretation ignores the detailed information requirements.",
+          "C": "This is incorrect because s 26D(3) and DBN Regulations Reg 6 require MORE than just the type of data breached. The notification must include: circumstances of awareness, affected data, potential harm, remedial actions, and steps individuals can take. The 'only type of data' interpretation ignores other required information.",
+          "D": "This is incorrect because s 26D(3) and DBN Regulations Reg 6 require comprehensive information, not just a general statement. The notification must include: circumstances of awareness, affected data, potential harm, remedial actions, and steps individuals can take. The 'only general statement' interpretation ignores the detailed information requirements."
+        },
+        "reference": "PDPA Notification to Affected Individuals (s 26D(3)); DBN Regulations Reg 6; Comprehensive Information Required; Circumstances, Affected Data, Potential Harm, Remedial Actions, Steps Individuals Can Take"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q016",
+      "question": "An organization discovers a data breach and assesses that it is notifiable. The organization implements encryption that renders it unlikely the breach will result in significant harm. Under s 26D(5)(b) PDPA, is the organization exempted from notifying affected individuals?",
+      "options": {
+        "A": "Yes, because s 26D(5)(b) exempts organizations from individual notification if they had implemented technological measures before the breach that render significant harm unlikely.",
+        "B": "No, because the encryption must have been implemented before the breach occurred, and the organization must demonstrate that harm is unlikely.",
+        "C": "No, because s 26D(5)(b) only applies if the organization takes action after the breach, not before.",
+        "D": "Yes, but only if PDPC approves the exemption."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26D(5)(b) PDPA, an organization is exempted from notifying affected individuals if it had implemented, PRIOR TO THE OCCURRENCE OF THE NOTIFIABLE DATA BREACH, any technological measure that renders it unlikely that the notifiable data breach will result in significant harm to the affected individual. The key requirement is that the technological measure must have been implemented BEFORE the breach occurred - implementing encryption after the breach does not qualify for this exemption. If the organization implements encryption after the breach, it may qualify for exemption under s 26D(5)(a) (prescribed action after breach), but not under s 26D(5)(b). The organization must demonstrate that the pre-existing technological measure renders harm unlikely.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26D(5)(b) requires that the technological measure be implemented BEFORE the breach occurred. If encryption is implemented after the breach, it does not qualify for the s 26D(5)(b) exemption. The organization may qualify for exemption under s 26D(5)(a) if it takes prescribed action after the breach, but s 26D(5)(b) specifically requires pre-existing measures. The 'implemented encryption' interpretation ignores the timing requirement.",
+          "C": "This is incorrect because s 26D(5)(b) specifically applies to measures implemented BEFORE the breach, not after. S 26D(5)(a) applies to action taken after the breach. The 'only after breach' interpretation confuses s 26D(5)(a) and s 26D(5)(b).",
+          "D": "This is incorrect because s 26D(5)(b) does NOT require PDPC approval. The exemption applies automatically if the organization had implemented technological measures before the breach that render harm unlikely. However, PDPC may review the exemption if it investigates the breach. The 'PDPC approval required' interpretation is incorrect."
+        },
+        "reference": "PDPA Exemption from Individual Notification - Pre-Existing Technological Measures (s 26D(5)(b)); Implemented BEFORE Breach; Renders Harm Unlikely; No PDPC Approval Required"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q017",
+      "question": "An organization discovers a data breach affecting 600 individuals' personal data. The breach does not involve prescribed personal data and does not result in significant harm. Under s 26B PDPA and DBN Regulations Reg 4, is this a notifiable data breach?",
+      "options": {
+        "A": "No, because the breach does not result in significant harm and is not of significant scale.",
+        "B": "Yes, because the breach affects 600 individuals, which exceeds the 500-individual threshold for significant scale under DBN Regulations Reg 4, making it a notifiable data breach.",
+        "C": "No, because breaches are only notifiable if they result in significant harm, regardless of scale.",
+        "D": "Yes, but only if the breach involves prescribed personal data."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(3) PDPA and DBN Regulations Reg 4, a data breach is of significant scale if it affects not fewer than 500 individuals. A breach affecting 600 individuals exceeds this threshold, making it a notifiable data breach under s 26B(3) even if it does not result in significant harm. S 26B provides that a breach is notifiable if it: (a) results in significant harm, OR (b) is of significant scale, OR (c) is deemed notifiable in prescribed circumstances. The thresholds are alternative - a breach can be notifiable based on scale alone, without requiring significant harm. The organization must notify PDPC under s 26D(1).",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(3) provides that breaches of significant scale (500+ individuals) are notifiable even without significant harm. The provision creates alternative thresholds - significant harm OR significant scale. A breach affecting 600 individuals exceeds the 500-individual threshold, making it notifiable. The 'only if significant harm' interpretation ignores the significant scale threshold.",
+          "C": "This is incorrect because s 26B provides alternative thresholds - breaches can be notifiable based on significant scale (500+ individuals) even without significant harm. S 26B(3) explicitly provides that breaches of significant scale are notifiable. The 'only significant harm' interpretation ignores s 26B(3).",
+          "D": "This is incorrect because s 26B(3) provides that breaches of significant scale (500+ individuals) are notifiable regardless of whether they involve prescribed personal data. Prescribed personal data is relevant for determining significant harm under s 26B(2), but significant scale under s 26B(3) does not require prescribed data. The 'only if prescribed data' interpretation is incorrect."
+        },
+        "reference": "PDPA Notifiable Data Breach - Significant Scale (s 26B(3)); DBN Regulations Reg 4; 500+ Individuals; Alternative to Significant Harm; Not Requiring Prescribed Data"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q018",
+      "question": "An organization discovers a data breach affecting NRIC numbers of 50 individuals. Under s 26B PDPA and DBN Regulations Reg 3, is this a notifiable data breach?",
+      "options": {
+        "A": "No, because the breach affects fewer than 500 individuals, so it is not of significant scale.",
+        "B": "Yes, because NRIC numbers are prescribed personal data under DBN Regulations Reg 3, and breaches affecting prescribed personal data are deemed to result in significant harm under s 26B(2), making the breach notifiable.",
+        "C": "No, because breaches are only notifiable if they affect 500 or more individuals.",
+        "D": "Yes, but only if the breach also results in actual financial loss."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(2) PDPA and DBN Regulations Reg 3, a data breach is deemed to result in significant harm if it affects prescribed personal data, including NRIC numbers. NRIC numbers are explicitly listed in the Schedule to DBN Regulations as prescribed personal data. If a breach affects prescribed personal data, it is deemed to result in significant harm, making it a notifiable data breach under s 26B(2) regardless of the number of individuals affected. The significant scale threshold (500+ individuals) is an alternative threshold - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(2) provides that breaches affecting prescribed personal data (like NRIC numbers) are deemed to result in significant harm, making them notifiable regardless of scale. The 500-individual threshold applies to significant scale under s 26B(3), but breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 'only if 500+' interpretation ignores the significant harm threshold.",
+          "C": "This is incorrect because s 26B provides alternative thresholds - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 500-individual threshold applies to significant scale, but breaches affecting prescribed personal data are notifiable based on significant harm. The 'only 500+' interpretation ignores s 26B(2).",
+          "D": "This is incorrect because s 26B(2) does NOT require actual financial loss for breaches affecting prescribed personal data. If a breach affects prescribed personal data (like NRIC numbers), it is deemed to result in significant harm, making it notifiable regardless of whether actual financial loss occurs. The 'only if financial loss' interpretation is incorrect."
+        },
+        "reference": "PDPA Notifiable Data Breach - Prescribed Personal Data (s 26B(2)); DBN Regulations Reg 3; NRIC Numbers Prescribed; Deemed Significant Harm; Notifiable Regardless of Scale"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q019",
+      "question": "Under s 11 PDPA, must an organization make its data protection policies and practices available to the public?",
+      "options": {
+        "A": "Yes, organizations must publish their data protection policies publicly on their websites.",
+        "B": "No, organizations must make information about their policies and practices available on request, but are not required to publish them publicly.",
+        "C": "Yes, organizations must obtain PDPC approval before making policies available.",
+        "D": "No, organizations are not required to make any information about their policies available."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 11 PDPA, an organization must implement policies and practices necessary to meet its obligations under the PDPA, and make information about these policies and practices available ON REQUEST. The provision does not require organizations to publish policies publicly - it requires making information available when requested. However, many organizations choose to publish privacy policies publicly as a best practice and to demonstrate transparency. The 'on request' requirement means organizations must be able to provide information about their policies and practices when individuals or PDPC request it, but they are not required to proactively publish them.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 11 requires making information available 'on request,' not publicly. The provision states organizations must 'make information about these policies and practices available on request' - creating a reactive obligation, not a proactive publication requirement. While many organizations publish policies publicly as a best practice, s 11 does not require it. The 'must publish publicly' interpretation goes beyond s 11's requirements.",
+          "C": "This is incorrect because s 11 does NOT require PDPC approval before making policies available. Organizations implement policies and make information available on request - there is no pre-approval requirement. PDPC oversight occurs through investigations and enforcement, not pre-approval. The 'PDPC approval required' interpretation is incorrect.",
+          "D": "This is incorrect because s 11 explicitly requires organizations to make information about their policies and practices available on request. The provision states organizations must 'make information about these policies and practices available on request' - creating a clear obligation. The 'no information required' interpretation contradicts s 11."
+        },
+        "reference": "PDPA Accountability Obligation (s 11); Make Information Available on Request; Not Required to Publish Publicly; Reactive Obligation; Best Practice to Publish"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q020",
+      "question": "Under s 12 PDPA, what business contact information must an organization make publicly available?",
+      "options": {
+        "A": "Organizations must make all employee contact information publicly available.",
+        "B": "Organizations must make the business contact information of at least one designated individual responsible for PDPA compliance publicly available.",
+        "C": "Organizations must make the business contact information of all designated individuals publicly available.",
+        "D": "Organizations are not required to make any contact information publicly available."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 12 PDPA, an organization must designate one or more individuals to be responsible for ensuring compliance with the PDPA, and make the business contact information of AT LEAST ONE such individual available to the public. The provision requires making contact information of at least one designated individual publicly available (e.g., on website, in privacy notices), but does not require making information of all designated individuals available. The requirement ensures there is a publicly accessible point of contact for individuals and PDPC regarding PDPA matters. Organizations may choose to make contact information of multiple designated individuals available, but s 12 only requires at least one.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 12 requires making business contact information of designated individuals (responsible for PDPA compliance) publicly available, not all employees. The provision applies specifically to individuals designated under s 12, not to all employees. The 'all employees' interpretation is too broad.",
+          "C": "This is incorrect because s 12 requires making business contact information of 'at least one' designated individual publicly available, not all designated individuals. Organizations may designate multiple individuals, but only need to make contact information of at least one publicly available. The 'all designated individuals' interpretation goes beyond s 12's requirement.",
+          "D": "This is incorrect because s 12 explicitly requires making business contact information of at least one designated individual publicly available. The provision states organizations must 'make the business contact information of at least one such individual available to the public' - creating a clear obligation. The 'no contact information required' interpretation contradicts s 12."
+        },
+        "reference": "PDPA Designation of Responsible Individuals (s 12); Business Contact Information of At Least One Individual; Publicly Available; Not All Employees or All Designated Individuals"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q021",
+      "question": "An organization discovers a data breach affecting credit card numbers of 300 individuals. Under s 26B PDPA and DBN Regulations Reg 3, is this a notifiable data breach?",
+      "options": {
+        "A": "No, because the breach affects fewer than 500 individuals, so it is not of significant scale.",
+        "B": "Yes, because credit card numbers are prescribed personal data under DBN Regulations Reg 3, and breaches affecting prescribed personal data are deemed to result in significant harm under s 26B(2), making the breach notifiable regardless of scale.",
+        "C": "No, because breaches are only notifiable if they affect 500 or more individuals.",
+        "D": "Yes, but only if the breach also results in actual financial loss."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(2) PDPA and DBN Regulations Reg 3, a data breach is deemed to result in significant harm if it affects prescribed personal data, including credit/debit card numbers. Credit card numbers are explicitly listed in the Schedule to DBN Regulations as prescribed personal data. If a breach affects prescribed personal data, it is deemed to result in significant harm, making it a notifiable data breach under s 26B(2) regardless of the number of individuals affected. The significant scale threshold (500+ individuals) is an alternative threshold - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The organization must notify PDPC under s 26D(1).",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(2) provides that breaches affecting prescribed personal data (like credit card numbers) are deemed to result in significant harm, making them notifiable regardless of scale. The 500-individual threshold applies to significant scale under s 26B(3), but breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 'only if 500+' interpretation ignores the significant harm threshold.",
+          "C": "This is incorrect because s 26B provides alternative thresholds - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 500-individual threshold applies to significant scale, but breaches affecting prescribed personal data are notifiable based on significant harm. The 'only 500+' interpretation ignores s 26B(2).",
+          "D": "This is incorrect because s 26B(2) does NOT require actual financial loss for breaches affecting prescribed personal data. If a breach affects prescribed personal data (like credit card numbers), it is deemed to result in significant harm, making it notifiable regardless of whether actual financial loss occurs. The 'only if financial loss' interpretation is incorrect."
+        },
+        "reference": "PDPA Notifiable Data Breach - Prescribed Personal Data (s 26B(2)); DBN Regulations Reg 3; Credit Card Numbers Prescribed; Deemed Significant Harm; Notifiable Regardless of Scale"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q022",
+      "question": "An organization discovers a data breach affecting health data of 200 individuals. The breach does not result in significant harm beyond the prescribed data. Under s 26B PDPA and DBN Regulations Reg 3, is this a notifiable data breach?",
+      "options": {
+        "A": "No, because the breach affects fewer than 500 individuals and does not result in significant harm.",
+        "B": "Yes, because health data is prescribed personal data under DBN Regulations Reg 3, and breaches affecting prescribed personal data are deemed to result in significant harm under s 26B(2), making the breach notifiable.",
+        "C": "No, because breaches are only notifiable if they affect 500 or more individuals.",
+        "D": "Yes, but only if the breach also results in actual harm to individuals."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(2) PDPA and DBN Regulations Reg 3, a data breach is deemed to result in significant harm if it affects prescribed personal data, including health data. Health data is explicitly listed in the Schedule to DBN Regulations as prescribed personal data. If a breach affects prescribed personal data, it is deemed to result in significant harm, making it a notifiable data breach under s 26B(2) regardless of the number of individuals affected or whether actual harm occurs. The 'deemed' language means the breach is treated as resulting in significant harm even if no actual harm occurs - the potential for harm from prescribed data is sufficient. The organization must notify PDPC under s 26D(1).",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(2) provides that breaches affecting prescribed personal data (like health data) are deemed to result in significant harm, making them notifiable regardless of scale or actual harm. The 500-individual threshold applies to significant scale, but breaches affecting prescribed data are notifiable based on significant harm. The 'only if 500+ or actual harm' interpretation ignores the deemed significant harm provision.",
+          "C": "This is incorrect because s 26B provides alternative thresholds - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 500-individual threshold applies to significant scale, but breaches affecting prescribed personal data are notifiable based on significant harm. The 'only 500+' interpretation ignores s 26B(2).",
+          "D": "This is incorrect because s 26B(2) does NOT require actual harm for breaches affecting prescribed personal data. If a breach affects prescribed personal data (like health data), it is deemed to result in significant harm, making it notifiable regardless of whether actual harm occurs. The 'deemed' language means potential harm is sufficient. The 'only if actual harm' interpretation is incorrect."
+        },
+        "reference": "PDPA Notifiable Data Breach - Prescribed Personal Data (s 26B(2)); DBN Regulations Reg 3; Health Data Prescribed; Deemed Significant Harm; Not Requiring Actual Harm"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q023",
+      "question": "An organization discovers a data breach affecting basic contact information (names and email addresses) of 800 individuals. The breach does not involve prescribed personal data and does not result in significant harm. Under s 26B PDPA and DBN Regulations Reg 4, is this a notifiable data breach?",
+      "options": {
+        "A": "No, because the breach does not result in significant harm and basic contact information is not prescribed personal data.",
+        "B": "Yes, because the breach affects 800 individuals, which exceeds the 500-individual threshold for significant scale under DBN Regulations Reg 4, making it a notifiable data breach even without significant harm or prescribed data.",
+        "C": "No, because breaches are only notifiable if they involve prescribed personal data or result in significant harm.",
+        "D": "Yes, but only if the breach also involves financial information."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(3) PDPA and DBN Regulations Reg 4, a data breach is of significant scale if it affects not fewer than 500 individuals. A breach affecting 800 individuals exceeds this threshold, making it a notifiable data breach under s 26B(3) even if it does not result in significant harm or involve prescribed personal data. S 26B provides alternative thresholds - a breach can be notifiable based on significant scale alone, without requiring significant harm or prescribed data. The significant scale threshold recognizes that breaches affecting large numbers of people pose greater risks and require notification regardless of data sensitivity. The organization must notify PDPC under s 26D(1).",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(3) provides that breaches of significant scale (500+ individuals) are notifiable even without significant harm or prescribed data. The provision creates alternative thresholds - significant harm OR significant scale. A breach affecting 800 individuals exceeds the 500-individual threshold, making it notifiable. The 'only if significant harm or prescribed data' interpretation ignores the significant scale threshold.",
+          "C": "This is incorrect because s 26B provides alternative thresholds - breaches can be notifiable based on significant scale (500+ individuals) even without significant harm or prescribed data. S 26B(3) explicitly provides that breaches of significant scale are notifiable. The 'only if prescribed data or significant harm' interpretation ignores s 26B(3).",
+          "D": "This is incorrect because s 26B(3) provides that breaches of significant scale (500+ individuals) are notifiable regardless of whether they involve financial information. Financial information is relevant for determining significant harm under s 26B(2) if it is prescribed data, but significant scale under s 26B(3) does not require any specific type of data. The 'only if financial information' interpretation is incorrect."
+        },
+        "reference": "PDPA Notifiable Data Breach - Significant Scale (s 26B(3)); DBN Regulations Reg 4; 500+ Individuals; Alternative to Significant Harm; Not Requiring Prescribed Data or Specific Data Types"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q024",
+      "question": "An organization discovers a data breach affecting passport numbers of 10 individuals. Under s 26B PDPA and DBN Regulations Reg 3, is this a notifiable data breach?",
+      "options": {
+        "A": "No, because the breach affects fewer than 500 individuals, so it is not of significant scale.",
+        "B": "Yes, because passport numbers are prescribed personal data under DBN Regulations Reg 3, and breaches affecting prescribed personal data are deemed to result in significant harm under s 26B(2), making the breach notifiable regardless of scale.",
+        "C": "No, because breaches are only notifiable if they affect 500 or more individuals.",
+        "D": "Yes, but only if the breach also results in actual identity theft."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(2) PDPA and DBN Regulations Reg 3, a data breach is deemed to result in significant harm if it affects prescribed personal data, including passport numbers. Passport numbers are explicitly listed in the Schedule to DBN Regulations as prescribed personal data. If a breach affects prescribed personal data, it is deemed to result in significant harm, making it a notifiable data breach under s 26B(2) regardless of the number of individuals affected. The significant scale threshold (500+ individuals) is an alternative threshold - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The organization must notify PDPC under s 26D(1).",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(2) provides that breaches affecting prescribed personal data (like passport numbers) are deemed to result in significant harm, making them notifiable regardless of scale. The 500-individual threshold applies to significant scale under s 26B(3), but breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 'only if 500+' interpretation ignores the significant harm threshold.",
+          "C": "This is incorrect because s 26B provides alternative thresholds - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 500-individual threshold applies to significant scale, but breaches affecting prescribed personal data are notifiable based on significant harm. The 'only 500+' interpretation ignores s 26B(2).",
+          "D": "This is incorrect because s 26B(2) does NOT require actual identity theft for breaches affecting prescribed personal data. If a breach affects prescribed personal data (like passport numbers), it is deemed to result in significant harm, making it notifiable regardless of whether actual identity theft occurs. The 'deemed' language means potential harm is sufficient. The 'only if actual identity theft' interpretation is incorrect."
+        },
+        "reference": "PDPA Notifiable Data Breach - Prescribed Personal Data (s 26B(2)); DBN Regulations Reg 3; Passport Numbers Prescribed; Deemed Significant Harm; Notifiable Regardless of Scale or Actual Harm"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q025",
+      "question": "An organization discovers a data breach and assesses that it is notifiable. The organization takes prescribed action after the breach that renders it unlikely the breach will result in significant harm. Under s 26D(5)(a) PDPA, is the organization exempted from notifying affected individuals?",
+      "options": {
+        "A": "Yes, because s 26D(5)(a) exempts organizations from individual notification if they take prescribed action on or after assessing the breach is notifiable that renders significant harm unlikely.",
+        "B": "No, because s 26D(5)(a) only applies if action is taken before the breach occurs.",
+        "C": "No, because organizations must always notify affected individuals if a breach is notifiable.",
+        "D": "Yes, but only if PDPC approves the exemption."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "Under s 26D(5)(a) PDPA, an organization is exempted from notifying affected individuals if, on or after assessing that the data breach is a notifiable data breach, it takes any action, in accordance with any prescribed requirements, that renders it unlikely that the notifiable data breach will result in significant harm to the affected individual. This exemption recognizes that if organizations take prompt remedial action that effectively mitigates harm, individual notification may not be necessary. The action must be taken 'on or after' assessing the breach is notifiable - meaning after the breach occurs but after assessment. The action must be in accordance with prescribed requirements and must render harm unlikely.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect because s 26D(5)(a) specifically applies to action taken 'on or after assessing' the breach is notifiable - meaning after the breach occurs. S 26D(5)(b) applies to measures implemented before the breach. The 'only before breach' interpretation confuses s 26D(5)(a) and s 26D(5)(b).",
+          "C": "This is incorrect because s 26D(5)-(7) explicitly provide exemptions from individual notification. If organizations take prescribed action after assessment that renders harm unlikely, they are exempted from notifying individuals. The 'always notify' interpretation ignores the exemptions.",
+          "D": "This is incorrect because s 26D(5)(a) does NOT require PDPC approval. The exemption applies automatically if the organization takes prescribed action after assessment that renders harm unlikely. However, PDPC may review the exemption if it investigates the breach. The 'PDPC approval required' interpretation is incorrect."
+        },
+        "reference": "PDPA Exemption from Individual Notification - Post-Breach Action (s 26D(5)(a)); Action On or After Assessment; Prescribed Requirements; Renders Harm Unlikely; No PDPC Approval Required"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q026",
+      "question": "An organization discovers a data breach affecting financial account information of 400 individuals. Under s 26B PDPA and DBN Regulations Reg 3, is this a notifiable data breach?",
+      "options": {
+        "A": "No, because the breach affects fewer than 500 individuals, so it is not of significant scale.",
+        "B": "Yes, because financial account information is prescribed personal data under DBN Regulations Reg 3, and breaches affecting prescribed personal data are deemed to result in significant harm under s 26B(2), making the breach notifiable regardless of scale.",
+        "C": "No, because breaches are only notifiable if they affect 500 or more individuals.",
+        "D": "Yes, but only if the breach also results in actual financial loss."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(2) PDPA and DBN Regulations Reg 3, a data breach is deemed to result in significant harm if it affects prescribed personal data, including financial account information (e.g., bank account numbers). Financial account information is explicitly listed in the Schedule to DBN Regulations as prescribed personal data. If a breach affects prescribed personal data, it is deemed to result in significant harm, making it a notifiable data breach under s 26B(2) regardless of the number of individuals affected. The significant scale threshold (500+ individuals) is an alternative threshold - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The organization must notify PDPC under s 26D(1).",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(2) provides that breaches affecting prescribed personal data (like financial account information) are deemed to result in significant harm, making them notifiable regardless of scale. The 500-individual threshold applies to significant scale under s 26B(3), but breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 'only if 500+' interpretation ignores the significant harm threshold.",
+          "C": "This is incorrect because s 26B provides alternative thresholds - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 500-individual threshold applies to significant scale, but breaches affecting prescribed personal data are notifiable based on significant harm. The 'only 500+' interpretation ignores s 26B(2).",
+          "D": "This is incorrect because s 26B(2) does NOT require actual financial loss for breaches affecting prescribed personal data. If a breach affects prescribed personal data (like financial account information), it is deemed to result in significant harm, making it notifiable regardless of whether actual financial loss occurs. The 'deemed' language means potential harm is sufficient. The 'only if actual financial loss' interpretation is incorrect."
+        },
+        "reference": "PDPA Notifiable Data Breach - Prescribed Personal Data (s 26B(2)); DBN Regulations Reg 3; Financial Account Information Prescribed; Deemed Significant Harm; Notifiable Regardless of Scale"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q027",
+      "question": "Under s 26D(6) PDPA, when can an organization be exempted from notifying affected individuals?",
+      "options": {
+        "A": "An organization is never exempted from notifying affected individuals if the breach is notifiable and results in significant harm.",
+        "B": "An organization is exempted if a prescribed law enforcement agency instructs exemption or PDPC directs exemption, recognizing that notification may interfere with investigations or other law enforcement purposes.",
+        "C": "An organization is exempted only if it obtains a court order.",
+        "D": "An organization is exempted only if affected individuals consent to non-notification."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26D(6) PDPA, an organization is exempted from notifying affected individuals if a prescribed law enforcement agency instructs exemption or PDPC directs exemption. This exemption recognizes that individual notification may interfere with law enforcement investigations, compromise ongoing operations, or serve other law enforcement purposes. For example, if a breach is under police investigation, notification to individuals might alert suspects or compromise the investigation. The exemption requires instruction or direction from a prescribed law enforcement agency or PDPC - organizations cannot self-exempt. This ensures that exemptions are only granted when there are legitimate law enforcement or regulatory reasons.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26D(6) explicitly provides an exemption when a prescribed law enforcement agency instructs exemption or PDPC directs exemption. The 'never exempted' interpretation ignores this clear exemption. However, the exemption requires instruction or direction from a prescribed agency or PDPC - organizations cannot self-exempt.",
+          "C": "This is incorrect because s 26D(6) does NOT require a court order. The exemption applies when a prescribed law enforcement agency instructs exemption or PDPC directs exemption - no court order is required. The 'only court order' interpretation is incorrect.",
+          "D": "This is incorrect because s 26D(6) does NOT require affected individuals' consent. The exemption applies when a prescribed law enforcement agency instructs exemption or PDPC directs exemption - individual consent is not a factor. The exemption recognizes that notification may interfere with law enforcement purposes, which may require exemption even without individual consent."
+        },
+        "reference": "PDPA Exemption from Individual Notification - Law Enforcement/PDPC Direction (s 26D(6)); Prescribed Law Enforcement Agency Instruction; PDPC Direction; May Interfere with Investigations; No Court Order or Consent Required"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q028",
+      "question": "Under s 26D(7) PDPA, when can an organization be exempted from notifying affected individuals?",
+      "options": {
+        "A": "An organization is never exempted - s 26D(7) does not provide exemptions.",
+        "B": "An organization is exempted if PDPC, on application by the organization, waives the requirement to notify affected individuals.",
+        "C": "An organization is exempted automatically if it notifies PDPC.",
+        "D": "An organization is exempted only if a court orders exemption."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26D(7) PDPA, an organization is exempted from notifying affected individuals if PDPC, on application by the organization, waives the requirement. This exemption recognizes that there may be circumstances where individual notification is not appropriate or necessary, and organizations can apply to PDPC for a waiver. PDPC has discretion to grant or refuse the waiver based on the circumstances. The exemption requires: (1) an application by the organization, and (2) PDPC's decision to waive the requirement. Organizations cannot self-exempt - they must apply to PDPC and obtain a waiver. This ensures that exemptions are only granted when PDPC determines it is appropriate.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26D(7) explicitly provides an exemption if PDPC waives the requirement on application. The 'never exempted' interpretation ignores this clear exemption. However, the exemption requires PDPC's decision to waive - organizations cannot self-exempt.",
+          "C": "This is incorrect because s 26D(7) does NOT provide automatic exemption upon notifying PDPC. The exemption requires: (1) an application by the organization, and (2) PDPC's decision to waive the requirement. Simply notifying PDPC does not create an exemption - PDPC must grant a waiver. The 'automatic exemption' interpretation is incorrect.",
+          "D": "This is incorrect because s 26D(7) does NOT require a court order. The exemption applies when PDPC waives the requirement on application - no court order is required. PDPC has discretion to grant waivers. The 'only court order' interpretation is incorrect."
+        },
+        "reference": "PDPA Exemption from Individual Notification - PDPC Waiver (s 26D(7)); Application by Organization; PDPC Discretion to Waive; No Automatic Exemption; No Court Order Required"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q029",
+      "question": "An organization discovers a data breach affecting basic contact information (names and phone numbers) of 30 individuals. The breach does not involve prescribed personal data and does not result in significant harm. Under s 26B PDPA, is this a notifiable data breach?",
+      "options": {
+        "A": "Yes, because all data breaches are notifiable under s 26B.",
+        "B": "No, because the breach does not result in significant harm, is not of significant scale (affects fewer than 500 individuals), and does not involve prescribed personal data, so it does not meet any of the thresholds for notifiability.",
+        "C": "Yes, because the breach affects personal data, making it automatically notifiable.",
+        "D": "Yes, but only if the organization chooses to notify PDPC voluntarily."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B PDPA, a data breach is notifiable if it: (a) results in or is likely to result in significant harm, OR (b) is of significant scale (500+ individuals per DBN Regulations Reg 4), OR (c) is deemed notifiable in prescribed circumstances. A breach affecting basic contact information of 30 individuals that does not involve prescribed personal data and does not result in significant harm does not meet any of these thresholds. The breach affects fewer than 500 individuals (not significant scale), does not involve prescribed data (not deemed significant harm), and does not result in significant harm. Therefore, it is not a notifiable data breach. However, organizations may choose to notify PDPC voluntarily, but they are not required to do so.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because NOT all data breaches are notifiable. S 26B defines a notifiable data breach as one that results in significant harm, is of significant scale (500+ individuals), or is deemed notifiable in prescribed circumstances. Many breaches may not meet these thresholds. Additionally, s 26B(4) explicitly excludes breaches involving only unauthorized activity within an organization. The 'all breaches notifiable' interpretation contradicts s 26B's threshold requirements.",
+          "C": "This is incorrect because s 26B does NOT make all breaches affecting personal data automatically notifiable. The provision requires breaches to meet specific thresholds: significant harm, significant scale (500+ individuals), or prescribed circumstances. Simply affecting personal data does not make a breach notifiable - it must meet one of the thresholds. The 'all personal data breaches notifiable' interpretation ignores the threshold requirements.",
+          "D": "This is incorrect because s 26B creates a legal obligation to notify if thresholds are met - it is not voluntary. However, if a breach does not meet the thresholds, organizations are not required to notify, though they may choose to do so voluntarily. The 'only if voluntary' interpretation confuses voluntary notification with the legal obligation when thresholds are met."
+        },
+        "reference": "PDPA Notifiable Data Breach (s 26B); Thresholds: Significant Harm, Significant Scale (500+), or Prescribed Circumstances; Not All Breaches Notifiable; Voluntary Notification Permitted"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q030",
+      "question": "An organization discovers a data breach and assesses that it is notifiable. The organization had implemented encryption before the breach occurred, and the encrypted data was breached. Under s 26D(5)(b) PDPA, is the organization exempted from notifying affected individuals?",
+      "options": {
+        "A": "Yes, because s 26D(5)(b) exempts organizations from individual notification if they had implemented technological measures before the breach that render significant harm unlikely, and encryption may render harm unlikely even if data is breached.",
+        "B": "No, because if encrypted data is breached, the encryption did not prevent the breach, so it cannot render harm unlikely.",
+        "C": "No, because s 26D(5)(b) only applies if the breach does not occur.",
+        "D": "Yes, but only if PDPC approves the exemption."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "Under s 26D(5)(b) PDPA, an organization is exempted from notifying affected individuals if it had implemented, prior to the occurrence of the notifiable data breach, any technological measure that renders it unlikely that the notifiable data breach will result in significant harm to the affected individual. Encryption implemented before the breach may qualify for this exemption if it renders harm unlikely - even if encrypted data is breached, if the encryption is strong and the data cannot be decrypted without the key, harm may be unlikely. The test is whether the technological measure renders harm unlikely, not whether it prevents the breach. If encryption effectively protects the data such that unauthorized access does not result in harm (e.g., data cannot be read without decryption key), the exemption may apply.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect because s 26D(5)(b) focuses on whether the technological measure renders harm unlikely, not whether it prevents the breach. Even if encrypted data is breached, if the encryption is strong and renders the data unusable without the decryption key, harm may be unlikely. The test is harm likelihood, not breach prevention. The 'did not prevent breach' interpretation misses the point of the exemption.",
+          "C": "This is incorrect because s 26D(5)(b) applies to breaches that have occurred - it exempts from notification if pre-existing technological measures render harm unlikely. The exemption recognizes that even if a breach occurs, pre-existing measures may mitigate harm. The 'only if breach does not occur' interpretation contradicts the purpose of the exemption.",
+          "D": "This is incorrect because s 26D(5)(b) does NOT require PDPC approval. The exemption applies automatically if the organization had implemented technological measures before the breach that render harm unlikely. However, PDPC may review the exemption if it investigates the breach. The 'PDPC approval required' interpretation is incorrect."
+        },
+        "reference": "PDPA Exemption from Individual Notification - Pre-Existing Technological Measures (s 26D(5)(b)); Implemented BEFORE Breach; Renders Harm Unlikely; Test Is Harm Likelihood Not Breach Prevention; Encryption May Qualify"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q031",
+      "question": "A data controller discovers a data breach and assesses that it is notifiable. The controller notifies PDPC within 3 calendar days. The breach results in significant harm to affected individuals. Under s 26D(2) PDPA, when must the controller notify affected individuals?",
+      "options": {
+        "A": "The controller must notify affected individuals immediately upon discovering the breach.",
+        "B": "The controller must notify affected individuals on or after notifying PDPC, in any manner that is reasonable in the circumstances.",
+        "C": "The controller must notify affected individuals within 3 calendar days of notifying PDPC.",
+        "D": "The controller is not required to notify affected individuals if it has notified PDPC."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26D(2) PDPA, where an organization assesses that a data breach is notifiable AND it results, or is likely to result, in significant harm to affected individuals, it must notify the affected individuals ON OR AFTER notifying PDPC. The notification must be made in any manner that is reasonable in the circumstances (e.g., email, letter, public notice). There is no specific timeframe deadline for notifying individuals - the requirement is 'on or after' notifying PDPC, meaning PDPC notification must come first, then individual notification should follow promptly. The timing requirement ensures PDPC is notified first, allowing for coordination and oversight, but individual notification should be prompt after PDPC notification.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26D(2) requires notification to affected individuals 'on or after notifying PDPC' - not immediately upon discovery. The provision requires PDPC notification first, then individual notification. Additionally, notification is only required if the breach results in significant harm - not all notifiable breaches require individual notification.",
+          "C": "This is incorrect because s 26D(2) does NOT specify a 3-calendar-day deadline for notifying affected individuals. The provision requires notification 'on or after notifying PDPC' in any reasonable manner - there is no specific timeframe, though it should be prompt. The 3-calendar-day deadline applies to PDPC notification under s 26D(1), not individual notification.",
+          "D": "This is incorrect because s 26D(2) explicitly requires notification to affected individuals if the breach is notifiable AND results in significant harm. Notifying PDPC does not eliminate the obligation to notify individuals - both obligations apply. The 'only PDPC notification' interpretation ignores s 26D(2)'s individual notification requirement."
+        },
+        "reference": "PDPA Notification to Affected Individuals (s 26D(2)); On or After Notifying PDPC; Significant Harm Required; Reasonable Manner; No Specific Timeframe Deadline"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q032",
+      "question": "Under s 26C(3)(b) PDPA, if a data intermediary assesses that a data breach is notifiable, what must it do?",
+      "options": {
+        "A": "The intermediary must notify PDPC directly within 3 calendar days.",
+        "B": "The intermediary must notify the data controller without undue delay, and may also notify PDPC directly if the controller fails to respond.",
+        "C": "The intermediary must notify the data controller without undue delay, and the controller is responsible for notifying PDPC if required.",
+        "D": "The intermediary has no obligation to assess whether breaches are notifiable."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "Under s 26C(3)(a) PDPA, a data intermediary must notify the data controller of a data breach without undue delay. Under s 26C(3)(b), if the intermediary assesses that the breach is notifiable, it must notify the controller without undue delay. The intermediary's obligation is limited to notifying the controller - the controller, not the intermediary, is responsible for assessing whether the breach is notifiable and notifying PDPC under s 26D if required. Intermediaries do not notify PDPC directly - they notify controllers, who then assess and notify PDPC. This recognizes that controllers are responsible for compliance and decision-making, while intermediaries must alert controllers to breaches.",
+        "incorrect": {
+          "C": "This is the correct answer.",
+          "A": "This is incorrect because s 26C(3) requires data intermediaries to notify the DATA CONTROLLER, not PDPC directly. The controller is responsible for assessing whether the breach is notifiable and notifying PDPC if required. Intermediaries notify controllers; controllers notify PDPC. The 'notify PDPC directly' interpretation ignores the intermediary's obligation to notify the controller.",
+          "B": "This is incorrect because s 26C(3) does NOT provide that intermediaries may notify PDPC directly if controllers fail to respond. The provision requires intermediaries to notify controllers - there is no fallback mechanism for direct PDPC notification. Intermediaries notify controllers; controllers notify PDPC. The 'may notify PDPC directly' interpretation has no basis in s 26C(3).",
+          "D": "This is incorrect because s 26C(3)(b) explicitly contemplates that intermediaries may assess whether breaches are notifiable. While intermediaries are not required to assess, if they do assess and determine a breach is notifiable, they must notify the controller without undue delay. The 'no obligation to assess' interpretation ignores s 26C(3)(b)."
+        },
+        "reference": "PDPA Data Intermediary Breach Assessment and Notification (s 26C(3)); Notify Controller Without Undue Delay; Controller Assesses and Notifies PDPC; Intermediary Does Not Notify PDPC Directly"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q033",
+      "question": "An organization discovers a data breach affecting personal data. The organization is uncertain whether the breach is notifiable. Under s 26C(2) PDPA, what must the organization do?",
+      "options": {
+        "A": "The organization must notify PDPC immediately without conducting an assessment.",
+        "B": "The organization must conduct an assessment in a reasonable and expeditious manner to determine whether the breach is notifiable, and notify PDPC only if the assessment determines it is notifiable.",
+        "C": "The organization is not required to conduct an assessment - it can choose whether to notify PDPC.",
+        "D": "The organization must notify PDPC within 30 days regardless of whether the breach is notifiable."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26C(2) PDPA, where an organization has reason to believe that a data breach has occurred, it must conduct, in a reasonable and expeditious manner, an assessment of whether the data breach is a notifiable data breach. The assessment determines whether the breach meets the thresholds for notifiability (significant harm, significant scale, or prescribed circumstances). Only after assessment can the organization determine whether notification to PDPC is required under s 26D(1). If the assessment determines the breach is notifiable, the organization must notify PDPC. If the assessment determines the breach is not notifiable, no notification is required. The assessment must be conducted promptly - 'reasonable and expeditious' means without undue delay.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26C(2) requires organizations to conduct an assessment BEFORE notifying PDPC. The assessment determines whether the breach is notifiable - organizations cannot notify PDPC without first assessing whether notification is required. The 'notify immediately without assessment' interpretation contradicts s 26C(2).",
+          "C": "This is incorrect because s 26C(2) explicitly requires organizations to conduct assessments when they have reason to believe a breach has occurred. The obligation is mandatory, not optional. Organizations must assess to determine whether notification is required. The 'can choose' interpretation ignores the mandatory assessment requirement.",
+          "D": "This is incorrect because s 26C(2) requires assessments to be conducted 'in a reasonable and expeditious manner' - not within 30 days. Additionally, notification to PDPC is only required if the assessment determines the breach is notifiable - not all breaches require notification. The '30 days regardless' interpretation ignores both the promptness requirement and the notifiability threshold."
+        },
+        "reference": "PDPA Breach Assessment (s 26C(2)); Reasonable and Expeditious Manner; Must Assess Before Notifying; Determines Whether Notifiable; Notification Only If Notifiable"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q034",
+      "question": "An organization discovers a data breach affecting personal data. The breach involves unauthorized access by an employee within the organization who viewed customer records without authorization. Under s 26B(4) PDPA, is this a notifiable data breach?",
+      "options": {
+        "A": "Yes, because all data breaches are notifiable under s 26B.",
+        "B": "No, because s 26B(4) provides that breaches involving only unauthorized access, collection, use, disclosure, copying, or modification of personal data within an organization are deemed not notifiable.",
+        "C": "Yes, because employee breaches always result in significant harm.",
+        "D": "Yes, but only if the breach affects 500 or more individuals."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(4) PDPA, a data breach that relates to the unauthorized access, collection, use, disclosure, copying, or modification of personal data only within an organization is deemed NOT to be a notifiable data breach. If an employee accesses customer records without authorization but the breach is limited to within the organization (not external disclosure), s 26B(4) excludes it from notifiability. However, if the breach involves disposal or extends beyond the organization (e.g., external disclosure), it may still be notifiable. The exclusion recognizes that internal breaches may not pose the same risks as external breaches, but it is limited to breaches 'only within an organization.'",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(4) explicitly provides an exclusion - breaches involving only unauthorized activity within an organization are deemed not notifiable. The 'all breaches notifiable' interpretation ignores this clear exclusion. However, breaches extending beyond the organization or involving disposal may still be notifiable.",
+          "C": "This is incorrect because s 26B(4) excludes internal breaches from notifiability regardless of whether they result in significant harm. The exclusion applies to breaches 'only within an organization' - it does not require assessment of harm. The 'always significant harm' interpretation ignores the exclusion.",
+          "D": "This is incorrect because s 26B(4) excludes internal breaches from notifiability regardless of the number of individuals affected. The exclusion applies to breaches involving only unauthorized activity within an organization, regardless of scale. The 'only if 500+' interpretation ignores the exclusion."
+        },
+        "reference": "PDPA Internal Breach Exclusion (s 26B(4)); Only Within Organization; Unauthorized Access/Use/Modification; Employee Breaches May Be Excluded; External Breaches Not Excluded"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q035",
+      "question": "Under s 11 PDPA, what policies and practices must an organization implement?",
+      "options": {
+        "A": "Organizations must implement policies and practices that PDPC prescribes - there is no flexibility.",
+        "B": "Organizations must implement policies and practices necessary to meet their obligations under the PDPA, allowing flexibility to tailor policies to their circumstances.",
+        "C": "Organizations are not required to implement any policies or practices under s 11.",
+        "D": "Organizations must implement only technical security policies - administrative policies are not required."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 11 PDPA, an organization must implement policies and practices NECESSARY to meet its obligations under the PDPA. The provision requires policies and practices that enable compliance with PDPA obligations, but allows organizations flexibility to tailor policies to their circumstances, size, resources, and the nature of their data processing activities. Organizations must determine what policies and practices are necessary for their specific situation - there is no one-size-fits-all requirement. Policies may include: data protection policies, privacy notices, data retention policies, breach response procedures, access controls, employee training, etc. The key is that policies and practices must be sufficient to meet PDPA obligations.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 11 does NOT require organizations to implement policies that PDPC prescribes. The provision requires policies and practices 'necessary to meet its obligations under the PDPA' - allowing organizations flexibility to determine what is necessary for their circumstances. PDPC may issue guidance, but organizations have flexibility to tailor policies. The 'PDPC prescribes' interpretation is incorrect.",
+          "C": "This is incorrect because s 11 explicitly requires organizations to implement policies and practices necessary to meet PDPA obligations. The provision states organizations 'must implement policies and practices' - creating a clear obligation. The 'no policies required' interpretation contradicts s 11.",
+          "D": "This is incorrect because s 11 requires policies and practices necessary to meet PDPA obligations - this includes both technical and administrative policies. Administrative policies (e.g., data protection policies, breach response procedures, employee training) are important components of accountability. The 'only technical policies' interpretation ignores administrative requirements."
+        },
+        "reference": "PDPA Accountability Obligation (s 11); Policies and Practices Necessary to Meet Obligations; Flexibility to Tailor; Technical and Administrative; No One-Size-Fits-All"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q036",
+      "question": "An organization discovers a data breach affecting personal data of 450 individuals. The breach does not involve prescribed personal data and does not result in significant harm. Under s 26B PDPA and DBN Regulations Reg 4, is this a notifiable data breach?",
+      "options": {
+        "A": "Yes, because the breach affects 450 individuals, which is close to the 500-individual threshold.",
+        "B": "No, because the breach affects fewer than 500 individuals (not significant scale), does not involve prescribed personal data (not deemed significant harm), and does not result in significant harm, so it does not meet any threshold for notifiability.",
+        "C": "Yes, because breaches affecting 400 or more individuals are notifiable.",
+        "D": "Yes, but only if the organization chooses to notify PDPC voluntarily."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B PDPA and DBN Regulations Reg 4, a data breach is of significant scale if it affects not fewer than 500 individuals. A breach affecting 450 individuals does not meet this threshold. Additionally, the breach does not involve prescribed personal data (not deemed significant harm under s 26B(2)) and does not result in significant harm. Therefore, the breach does not meet any of the thresholds for notifiability: (a) significant harm, (b) significant scale (500+ individuals), or (c) prescribed circumstances. The breach is not a notifiable data breach. However, organizations may choose to notify PDPC voluntarily, but they are not required to do so.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(3) and DBN Regulations Reg 4 set the threshold at 500 individuals, not 'close to 500.' A breach affects significant scale if it affects 'not fewer than 500 individuals' - meaning 500 or more. A breach affecting 450 individuals does not meet this threshold. The 'close to 500' interpretation ignores the clear 500-individual threshold.",
+          "C": "This is incorrect because s 26B(3) and DBN Regulations Reg 4 set the threshold at 500 individuals, not 400. A breach affects significant scale if it affects 'not fewer than 500 individuals' - meaning 500 or more. A breach affecting 450 individuals does not meet this threshold. The '400 or more' threshold is incorrect.",
+          "D": "This is incorrect because s 26B creates a legal obligation to notify if thresholds are met - it is not voluntary. However, if a breach does not meet the thresholds, organizations are not required to notify, though they may choose to do so voluntarily. The 'only if voluntary' interpretation confuses voluntary notification with the legal obligation when thresholds are met."
+        },
+        "reference": "PDPA Notifiable Data Breach (s 26B); Significant Scale Threshold Is 500 Individuals; 450 Does Not Meet Threshold; Not Notifiable; Voluntary Notification Permitted"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q037",
+      "question": "An organization discovers a data breach affecting personal data. The organization assesses that the breach is notifiable and results in significant harm. The organization had implemented tokenization before the breach occurred, which renders the breached data unusable without the tokenization key. Under s 26D(5)(b) PDPA, is the organization exempted from notifying affected individuals?",
+      "options": {
+        "A": "Yes, because s 26D(5)(b) exempts organizations from individual notification if they had implemented technological measures before the breach that render significant harm unlikely, and tokenization may render harm unlikely even if data is breached.",
+        "B": "No, because if tokenized data is breached, the tokenization did not prevent the breach, so it cannot render harm unlikely.",
+        "C": "No, because s 26D(5)(b) only applies if the breach does not result in significant harm.",
+        "D": "Yes, but only if PDPC approves the exemption."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "Under s 26D(5)(b) PDPA, an organization is exempted from notifying affected individuals if it had implemented, prior to the occurrence of the notifiable data breach, any technological measure that renders it unlikely that the notifiable data breach will result in significant harm to the affected individual. Tokenization implemented before the breach may qualify for this exemption if it renders harm unlikely - even if tokenized data is breached, if the tokenization is effective and the data cannot be used without the tokenization key, harm may be unlikely. The test is whether the technological measure renders harm unlikely, not whether it prevents the breach. If tokenization effectively protects the data such that unauthorized access does not result in harm (e.g., tokens cannot be used to access real data), the exemption may apply even if the breach is deemed to result in significant harm under s 26B(2).",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect because s 26D(5)(b) focuses on whether the technological measure renders harm unlikely, not whether it prevents the breach. Even if tokenized data is breached, if the tokenization is effective and renders the data unusable without the key, harm may be unlikely. The test is harm likelihood, not breach prevention. The 'did not prevent breach' interpretation misses the point of the exemption.",
+          "C": "This is incorrect because s 26D(5)(b) can apply even if a breach is deemed to result in significant harm under s 26B(2). The exemption focuses on whether pre-existing technological measures render harm unlikely, which may be the case even if the breach involves prescribed data that is deemed to result in significant harm. The 'only if no significant harm' interpretation is incorrect.",
+          "D": "This is incorrect because s 26D(5)(b) does NOT require PDPC approval. The exemption applies automatically if the organization had implemented technological measures before the breach that render harm unlikely. However, PDPC may review the exemption if it investigates the breach. The 'PDPC approval required' interpretation is incorrect."
+        },
+        "reference": "PDPA Exemption from Individual Notification - Pre-Existing Technological Measures (s 26D(5)(b)); Implemented BEFORE Breach; Renders Harm Unlikely; Tokenization May Qualify; Test Is Harm Likelihood"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q038",
+      "question": "Under s 12 PDPA, can an organization designate multiple individuals to be responsible for PDPA compliance?",
+      "options": {
+        "A": "No, organizations must designate only one individual under s 12.",
+        "B": "Yes, organizations must designate one or more individuals, and must make the business contact information of at least one such individual publicly available.",
+        "C": "No, organizations are not required to designate any individuals under s 12.",
+        "D": "Yes, but organizations must make the business contact information of all designated individuals publicly available."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 12 PDPA, an organization must designate ONE OR MORE individuals to be responsible for ensuring compliance with the PDPA. The provision allows organizations to designate multiple individuals, recognizing that larger organizations may need multiple people responsible for compliance (e.g., different individuals for different departments, regions, or functions). However, organizations must make the business contact information of AT LEAST ONE such individual publicly available - they are not required to make contact information of all designated individuals available. This ensures there is a publicly accessible point of contact while allowing flexibility for organizations to have multiple responsible individuals.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 12 requires designating 'one or more individuals' - allowing multiple designations. The provision states organizations 'must designate one or more individuals' - explicitly permitting multiple designations. The 'only one individual' interpretation ignores the 'or more' language.",
+          "C": "This is incorrect because s 12 explicitly requires organizations to designate individuals - it is not optional. The provision states organizations 'must designate one or more individuals' - creating a mandatory obligation. The 'not required' interpretation contradicts s 12.",
+          "D": "This is incorrect because s 12 requires making business contact information of 'at least one' designated individual publicly available, not all designated individuals. Organizations may designate multiple individuals, but only need to make contact information of at least one publicly available. The 'all designated individuals' interpretation goes beyond s 12's requirement."
+        },
+        "reference": "PDPA Designation of Responsible Individuals (s 12); One or More Individuals; At Least One Contact Information Publicly Available; Flexibility for Multiple Designations"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q039",
+      "question": "An organization discovers a data breach affecting personal data. The breach involves unauthorized disposal of personal data by an external contractor. Under s 26B(4) PDPA, is this a notifiable data breach?",
+      "options": {
+        "A": "No, because s 26B(4) excludes all breaches involving unauthorized activity.",
+        "B": "Yes, because s 26B(4) excludes only breaches involving unauthorized access, collection, use, disclosure, copying, or modification within an organization - disposal is not listed, and external breaches are not excluded.",
+        "C": "No, because breaches involving external contractors are excluded under s 26B(4).",
+        "D": "Yes, but only if the breach affects 500 or more individuals."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(4) PDPA, a data breach that relates to the unauthorized access, collection, use, disclosure, copying, or modification of personal data only within an organization is deemed NOT to be a notifiable data breach. The exclusion applies only to: (a) unauthorized access, collection, use, disclosure, copying, or modification (disposal is NOT listed), and (b) breaches 'only within an organization' (external breaches are NOT excluded). A breach involving unauthorized disposal by an external contractor is not excluded because: (1) disposal is not listed in s 26B(4), and (2) the breach involves an external party, not 'only within an organization.' Therefore, the breach may be notifiable if it meets other thresholds (significant harm, significant scale, or prescribed circumstances).",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(4) does NOT exclude all breaches involving unauthorized activity. The exclusion applies only to: (a) specific types of unauthorized activity (access, collection, use, disclosure, copying, modification - disposal is NOT listed), and (b) breaches 'only within an organization' (external breaches are NOT excluded). The 'all breaches excluded' interpretation is too broad.",
+          "C": "This is incorrect because s 26B(4) excludes breaches involving only unauthorized activity WITHIN an organization, not external breaches. A breach involving an external contractor is not excluded because it is not 'only within an organization.' The exclusion is limited to internal breaches. The 'external contractors excluded' interpretation is incorrect.",
+          "D": "This is incorrect because s 26B provides alternative thresholds - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 500-individual threshold applies to significant scale, but breaches can be notifiable based on significant harm. The 'only if 500+' interpretation ignores the significant harm threshold."
+        },
+        "reference": "PDPA Internal Breach Exclusion (s 26B(4)); Disposal Not Listed; External Breaches Not Excluded; Only Within Organization; May Still Be Notifiable"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q040",
+      "question": "An organization discovers a data breach affecting personal data of 550 individuals. The breach does not involve prescribed personal data and does not result in significant harm. Under s 26B PDPA and DBN Regulations Reg 4, is this a notifiable data breach?",
+      "options": {
+        "A": "No, because the breach does not result in significant harm and does not involve prescribed personal data.",
+        "B": "Yes, because the breach affects 550 individuals, which exceeds the 500-individual threshold for significant scale under DBN Regulations Reg 4, making it a notifiable data breach even without significant harm or prescribed data.",
+        "C": "No, because breaches are only notifiable if they result in significant harm or involve prescribed personal data.",
+        "D": "Yes, but only if the breach also involves financial information."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(3) PDPA and DBN Regulations Reg 4, a data breach is of significant scale if it affects not fewer than 500 individuals. A breach affecting 550 individuals exceeds this threshold, making it a notifiable data breach under s 26B(3) even if it does not result in significant harm or involve prescribed personal data. S 26B provides alternative thresholds - a breach can be notifiable based on significant scale alone, without requiring significant harm or prescribed data. The significant scale threshold recognizes that breaches affecting large numbers of people pose greater risks and require notification regardless of data sensitivity. The organization must notify PDPC under s 26D(1).",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(3) provides that breaches of significant scale (500+ individuals) are notifiable even without significant harm or prescribed data. The provision creates alternative thresholds - significant harm OR significant scale. A breach affecting 550 individuals exceeds the 500-individual threshold, making it notifiable. The 'only if significant harm or prescribed data' interpretation ignores the significant scale threshold.",
+          "C": "This is incorrect because s 26B provides alternative thresholds - breaches can be notifiable based on significant scale (500+ individuals) even without significant harm or prescribed data. S 26B(3) explicitly provides that breaches of significant scale are notifiable. The 'only if significant harm or prescribed data' interpretation ignores s 26B(3).",
+          "D": "This is incorrect because s 26B(3) provides that breaches of significant scale (500+ individuals) are notifiable regardless of whether they involve financial information. Financial information is relevant for determining significant harm under s 26B(2) if it is prescribed data, but significant scale under s 26B(3) does not require any specific type of data. The 'only if financial information' interpretation is incorrect."
+        },
+        "reference": "PDPA Notifiable Data Breach - Significant Scale (s 26B(3)); DBN Regulations Reg 4; 500+ Individuals; 550 Exceeds Threshold; Alternative to Significant Harm"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q041",
+      "question": "An organization discovers a data breach affecting personal data. The breach involves unauthorized disclosure of personal data to an external third party by an employee. Under s 26B(4) PDPA, is this a notifiable data breach?",
+      "options": {
+        "A": "No, because s 26B(4) excludes all breaches involving employees.",
+        "B": "Yes, because s 26B(4) excludes only breaches involving unauthorized activity 'only within an organization,' and external disclosure extends beyond the organization, so the exclusion does not apply.",
+        "C": "No, because breaches involving employees are always excluded under s 26B(4).",
+        "D": "Yes, but only if the breach affects 500 or more individuals."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(4) PDPA, a data breach that relates to the unauthorized access, collection, use, disclosure, copying, or modification of personal data ONLY WITHIN AN ORGANIZATION is deemed NOT to be a notifiable data breach. The key phrase is 'only within an organization' - if the breach extends beyond the organization (e.g., external disclosure to a third party), the exclusion does not apply. A breach involving unauthorized disclosure to an external third party extends beyond the organization, so s 26B(4) does not exclude it. The breach may be notifiable if it meets other thresholds (significant harm, significant scale, or prescribed circumstances). The exclusion is limited to breaches that are completely internal.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(4) does NOT exclude all breaches involving employees. The exclusion applies only to breaches involving unauthorized activity 'only within an organization' - if the breach extends beyond the organization (e.g., external disclosure), the exclusion does not apply. The 'all employee breaches excluded' interpretation is too broad.",
+          "C": "This is incorrect because s 26B(4) does NOT exclude all breaches involving employees. The exclusion applies only to breaches 'only within an organization' - if the breach extends beyond the organization (e.g., external disclosure), the exclusion does not apply. The 'always excluded' interpretation ignores the 'only within an organization' limitation.",
+          "D": "This is incorrect because s 26B provides alternative thresholds - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 500-individual threshold applies to significant scale, but breaches can be notifiable based on significant harm. The 'only if 500+' interpretation ignores the significant harm threshold."
+        },
+        "reference": "PDPA Internal Breach Exclusion (s 26B(4)); Only Within Organization; External Disclosure Not Excluded; Breach Extends Beyond Organization; May Still Be Notifiable"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q042",
+      "question": "An organization discovers a data breach affecting personal data. The organization assesses that the breach is notifiable and results in significant harm. The organization takes remedial action after the breach that effectively prevents harm. Under s 26D(5)(a) PDPA, is the organization exempted from notifying affected individuals?",
+      "options": {
+        "A": "Yes, because s 26D(5)(a) exempts organizations from individual notification if they take prescribed action on or after assessing the breach is notifiable that renders significant harm unlikely.",
+        "B": "No, because s 26D(5)(a) only applies if action is taken before the breach occurs.",
+        "C": "No, because organizations must always notify affected individuals if a breach is notifiable and results in significant harm.",
+        "D": "Yes, but only if PDPC approves the exemption."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "Under s 26D(5)(a) PDPA, an organization is exempted from notifying affected individuals if, on or after assessing that the data breach is a notifiable data breach, it takes any action, in accordance with any prescribed requirements, that renders it unlikely that the notifiable data breach will result in significant harm to the affected individual. If the organization takes remedial action after assessment that effectively prevents harm (renders harm unlikely), it may be exempted from individual notification. The action must be taken 'on or after' assessing the breach is notifiable and must render harm unlikely. This exemption recognizes that prompt remedial action may eliminate the need for individual notification.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect because s 26D(5)(a) specifically applies to action taken 'on or after assessing' the breach is notifiable - meaning after the breach occurs. S 26D(5)(b) applies to measures implemented before the breach. The 'only before breach' interpretation confuses s 26D(5)(a) and s 26D(5)(b).",
+          "C": "This is incorrect because s 26D(5)-(7) explicitly provide exemptions from individual notification. If organizations take prescribed action after assessment that renders harm unlikely, they are exempted from notifying individuals. The 'always notify' interpretation ignores the exemptions.",
+          "D": "This is incorrect because s 26D(5)(a) does NOT require PDPC approval. The exemption applies automatically if the organization takes prescribed action after assessment that renders harm unlikely. However, PDPC may review the exemption if it investigates the breach. The 'PDPC approval required' interpretation is incorrect."
+        },
+        "reference": "PDPA Exemption from Individual Notification - Post-Breach Action (s 26D(5)(a)); Action On or After Assessment; Prescribed Requirements; Renders Harm Unlikely; Remedial Action May Exempt"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q043",
+      "question": "An organization discovers a data breach affecting personal data of 1000 individuals. The breach does not involve prescribed personal data and does not result in significant harm. Under s 26B PDPA and DBN Regulations Reg 4, is this a notifiable data breach?",
+      "options": {
+        "A": "No, because the breach does not result in significant harm and does not involve prescribed personal data.",
+        "B": "Yes, because the breach affects 1000 individuals, which exceeds the 500-individual threshold for significant scale under DBN Regulations Reg 4, making it a notifiable data breach even without significant harm or prescribed data.",
+        "C": "No, because breaches are only notifiable if they result in significant harm or involve prescribed personal data.",
+        "D": "Yes, but only if the breach also involves financial information."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(3) PDPA and DBN Regulations Reg 4, a data breach is of significant scale if it affects not fewer than 500 individuals. A breach affecting 1000 individuals significantly exceeds this threshold, making it a notifiable data breach under s 26B(3) even if it does not result in significant harm or involve prescribed personal data. S 26B provides alternative thresholds - a breach can be notifiable based on significant scale alone, without requiring significant harm or prescribed data. The significant scale threshold recognizes that breaches affecting large numbers of people pose greater risks and require notification regardless of data sensitivity. The organization must notify PDPC under s 26D(1).",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(3) provides that breaches of significant scale (500+ individuals) are notifiable even without significant harm or prescribed data. The provision creates alternative thresholds - significant harm OR significant scale. A breach affecting 1000 individuals exceeds the 500-individual threshold, making it notifiable. The 'only if significant harm or prescribed data' interpretation ignores the significant scale threshold.",
+          "C": "This is incorrect because s 26B provides alternative thresholds - breaches can be notifiable based on significant scale (500+ individuals) even without significant harm or prescribed data. S 26B(3) explicitly provides that breaches of significant scale are notifiable. The 'only if significant harm or prescribed data' interpretation ignores s 26B(3).",
+          "D": "This is incorrect because s 26B(3) provides that breaches of significant scale (500+ individuals) are notifiable regardless of whether they involve financial information. Financial information is relevant for determining significant harm under s 26B(2) if it is prescribed data, but significant scale under s 26B(3) does not require any specific type of data. The 'only if financial information' interpretation is incorrect."
+        },
+        "reference": "PDPA Notifiable Data Breach - Significant Scale (s 26B(3)); DBN Regulations Reg 4; 500+ Individuals; 1000 Exceeds Threshold; Alternative to Significant Harm"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q044",
+      "question": "Under s 26D(2) PDPA, in what manner must an organization notify affected individuals of a notifiable data breach?",
+      "options": {
+        "A": "The organization must notify affected individuals only by registered mail.",
+        "B": "The organization must notify affected individuals in any manner that is reasonable in the circumstances (e.g., email, letter, public notice, SMS).",
+        "C": "The organization must notify affected individuals only by email.",
+        "D": "The organization must notify affected individuals only through a public notice in newspapers."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26D(2) PDPA, where an organization assesses that a data breach is notifiable AND it results in significant harm, it must notify the affected individuals in ANY MANNER THAT IS REASONABLE IN THE CIRCUMSTANCES. The provision does not prescribe a specific method - organizations have flexibility to choose the most appropriate method based on the circumstances. Reasonable methods may include: email (if email addresses are available), letter (for formal notifications), SMS (for urgent notifications), public notice (if individual contact information is unavailable or impractical), website notice, etc. The test is reasonableness - the method should be effective in reaching affected individuals given the circumstances.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26D(2) does NOT require registered mail only. The provision requires notification 'in any manner that is reasonable in the circumstances' - allowing flexibility. Registered mail may be reasonable in some circumstances, but other methods (email, SMS, public notice) may also be reasonable depending on the circumstances. The 'only registered mail' interpretation is too restrictive.",
+          "C": "This is incorrect because s 26D(2) does NOT require email only. The provision requires notification 'in any manner that is reasonable in the circumstances' - allowing flexibility. Email may be reasonable if email addresses are available, but other methods (letter, SMS, public notice) may also be reasonable. The 'only email' interpretation is too restrictive.",
+          "D": "This is incorrect because s 26D(2) does NOT require public notice in newspapers only. The provision requires notification 'in any manner that is reasonable in the circumstances' - allowing flexibility. Public notice may be reasonable if individual contact information is unavailable, but other methods (email, letter, SMS) may be more appropriate if contact information is available. The 'only public notice' interpretation is too restrictive."
+        },
+        "reference": "PDPA Notification to Affected Individuals (s 26D(2)); Any Manner That Is Reasonable; Flexibility in Method; Email, Letter, SMS, Public Notice; Reasonableness Test"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q045",
+      "question": "An organization discovers a data breach affecting personal data. The organization assesses that the breach is notifiable and results in significant harm. However, a prescribed law enforcement agency instructs the organization not to notify affected individuals because notification may interfere with an ongoing investigation. Under s 26D(6) PDPA, is the organization exempted from notifying affected individuals?",
+      "options": {
+        "A": "No, because organizations must always notify affected individuals if a breach is notifiable and results in significant harm.",
+        "B": "Yes, because s 26D(6) exempts organizations from individual notification if a prescribed law enforcement agency instructs exemption or PDPC directs exemption, recognizing that notification may interfere with investigations.",
+        "C": "No, because s 26D(6) only applies if PDPC directs exemption, not if law enforcement agencies instruct exemption.",
+        "D": "Yes, but only if the organization obtains a court order."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26D(6) PDPA, an organization is exempted from notifying affected individuals if a prescribed law enforcement agency instructs exemption OR PDPC directs exemption. If a prescribed law enforcement agency instructs the organization not to notify individuals because notification may interfere with an ongoing investigation, the organization is exempted from the individual notification requirement. This exemption recognizes that individual notification may compromise law enforcement investigations, alert suspects, or interfere with ongoing operations. The exemption requires instruction or direction from a prescribed law enforcement agency or PDPC - organizations cannot self-exempt. However, the organization must still notify PDPC under s 26D(1) unless otherwise exempted.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26D(6) explicitly provides an exemption when a prescribed law enforcement agency instructs exemption or PDPC directs exemption. The 'always notify' interpretation ignores this clear exemption. However, the exemption requires instruction or direction from a prescribed agency or PDPC - organizations cannot self-exempt.",
+          "C": "This is incorrect because s 26D(6) provides exemptions for BOTH prescribed law enforcement agency instructions AND PDPC directions. The provision states 'if a prescribed law enforcement agency so instructs or the Commission so directs' - both are valid exemption grounds. The 'only PDPC direction' interpretation ignores the law enforcement agency instruction ground.",
+          "D": "This is incorrect because s 26D(6) does NOT require a court order. The exemption applies when a prescribed law enforcement agency instructs exemption or PDPC directs exemption - no court order is required. The 'only court order' interpretation is incorrect."
+        },
+        "reference": "PDPA Exemption from Individual Notification - Law Enforcement/PDPC Direction (s 26D(6)); Prescribed Law Enforcement Agency Instruction; May Interfere with Investigations; No Court Order Required; Still Must Notify PDPC"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q046",
+      "question": "An organization discovers a data breach affecting personal data. The organization assesses that the breach is notifiable and results in significant harm. The organization applies to PDPC for a waiver of the requirement to notify affected individuals. Under s 26D(7) PDPA, can PDPC grant the waiver?",
+      "options": {
+        "A": "No, because PDPC cannot waive the individual notification requirement under s 26D(7).",
+        "B": "Yes, because s 26D(7) provides that PDPC may, on application by the organization, waive the requirement to notify affected individuals.",
+        "C": "No, because organizations must always notify affected individuals if a breach is notifiable and results in significant harm.",
+        "D": "Yes, but only if a court orders PDPC to grant the waiver."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26D(7) PDPA, an organization is exempted from notifying affected individuals if PDPC, on application by the organization, waives the requirement. PDPC has discretion to grant or refuse the waiver based on the circumstances. The exemption recognizes that there may be circumstances where individual notification is not appropriate or necessary, and organizations can apply to PDPC for a waiver. The exemption requires: (1) an application by the organization, and (2) PDPC's decision to waive the requirement. Organizations cannot self-exempt - they must apply to PDPC and obtain a waiver. PDPC will consider the circumstances and determine whether a waiver is appropriate.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26D(7) explicitly provides that PDPC may waive the requirement on application. The provision states 'if the Commission, on application by the organisation, waives the requirement' - creating a clear waiver mechanism. The 'cannot waive' interpretation contradicts s 26D(7).",
+          "C": "This is incorrect because s 26D(7) explicitly provides an exemption if PDPC waives the requirement on application. The 'always notify' interpretation ignores this clear exemption. However, the exemption requires PDPC's decision to waive - organizations cannot self-exempt.",
+          "D": "This is incorrect because s 26D(7) does NOT require a court order. The exemption applies when PDPC waives the requirement on application - no court order is required. PDPC has discretion to grant waivers. The 'only court order' interpretation is incorrect."
+        },
+        "reference": "PDPA Exemption from Individual Notification - PDPC Waiver (s 26D(7)); Application by Organization; PDPC Discretion to Waive; No Court Order Required; Consideration of Circumstances"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q047",
+      "question": "Under s 11 PDPA, when must an organization make information about its data protection policies and practices available?",
+      "options": {
+        "A": "Organizations must publish their policies publicly on their websites immediately upon implementing them.",
+        "B": "Organizations must make information about their policies and practices available on request, but are not required to publish them proactively.",
+        "C": "Organizations must obtain PDPC approval before making information available.",
+        "D": "Organizations are not required to make any information about their policies available."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 11 PDPA, an organization must implement policies and practices necessary to meet its obligations under the PDPA, and make information about these policies and practices available ON REQUEST. The provision creates a reactive obligation - organizations must be able to provide information when requested, but are not required to publish policies proactively. However, many organizations choose to publish privacy policies publicly as a best practice and to demonstrate transparency. The 'on request' requirement means organizations must be prepared to provide information about their policies and practices when individuals or PDPC request it, but they are not required to proactively publish them.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 11 requires making information available 'on request,' not proactively publishing on websites. The provision states organizations must 'make information about these policies and practices available on request' - creating a reactive obligation, not a proactive publication requirement. While many organizations publish policies publicly as a best practice, s 11 does not require it. The 'must publish immediately' interpretation goes beyond s 11's requirements.",
+          "C": "This is incorrect because s 11 does NOT require PDPC approval before making information available. Organizations implement policies and make information available on request - there is no pre-approval requirement. PDPC oversight occurs through investigations and enforcement, not pre-approval. The 'PDPC approval required' interpretation is incorrect.",
+          "D": "This is incorrect because s 11 explicitly requires organizations to make information about their policies and practices available on request. The provision states organizations must 'make information about these policies and practices available on request' - creating a clear obligation. The 'no information required' interpretation contradicts s 11."
+        },
+        "reference": "PDPA Accountability Obligation (s 11); Make Information Available on Request; Reactive Obligation; Not Required to Publish Proactively; Best Practice to Publish"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q048",
+      "question": "An organization discovers a data breach affecting personal data of 250 individuals. The breach involves NRIC numbers. Under s 26B PDPA and DBN Regulations Reg 3, is this a notifiable data breach?",
+      "options": {
+        "A": "No, because the breach affects fewer than 500 individuals, so it is not of significant scale.",
+        "B": "Yes, because NRIC numbers are prescribed personal data under DBN Regulations Reg 3, and breaches affecting prescribed personal data are deemed to result in significant harm under s 26B(2), making the breach notifiable regardless of scale.",
+        "C": "No, because breaches are only notifiable if they affect 500 or more individuals.",
+        "D": "Yes, but only if the breach also results in actual identity theft."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26B(2) PDPA and DBN Regulations Reg 3, a data breach is deemed to result in significant harm if it affects prescribed personal data, including NRIC numbers. NRIC numbers are explicitly listed in the Schedule to DBN Regulations as prescribed personal data. If a breach affects prescribed personal data, it is deemed to result in significant harm, making it a notifiable data breach under s 26B(2) regardless of the number of individuals affected. The significant scale threshold (500+ individuals) is an alternative threshold - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The organization must notify PDPC under s 26D(1).",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26B(2) provides that breaches affecting prescribed personal data (like NRIC numbers) are deemed to result in significant harm, making them notifiable regardless of scale. The 500-individual threshold applies to significant scale under s 26B(3), but breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 'only if 500+' interpretation ignores the significant harm threshold.",
+          "C": "This is incorrect because s 26B provides alternative thresholds - breaches can be notifiable based on significant harm (including prescribed data) even if they affect fewer than 500 individuals. The 500-individual threshold applies to significant scale, but breaches affecting prescribed personal data are notifiable based on significant harm. The 'only 500+' interpretation ignores s 26B(2).",
+          "D": "This is incorrect because s 26B(2) does NOT require actual identity theft for breaches affecting prescribed personal data. If a breach affects prescribed personal data (like NRIC numbers), it is deemed to result in significant harm, making it notifiable regardless of whether actual identity theft occurs. The 'deemed' language means potential harm is sufficient. The 'only if actual identity theft' interpretation is incorrect."
+        },
+        "reference": "PDPA Notifiable Data Breach - Prescribed Personal Data (s 26B(2)); DBN Regulations Reg 3; NRIC Numbers Prescribed; Deemed Significant Harm; Notifiable Regardless of Scale (250 Individuals)"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q049",
+      "question": "An organization discovers a data breach affecting personal data. The organization assesses that the breach is notifiable and results in significant harm. The organization had implemented data masking before the breach occurred, which renders the breached data unusable without the masking key. Under s 26D(5)(b) PDPA, is the organization exempted from notifying affected individuals?",
+      "options": {
+        "A": "Yes, because s 26D(5)(b) exempts organizations from individual notification if they had implemented technological measures before the breach that render significant harm unlikely, and data masking may render harm unlikely even if data is breached.",
+        "B": "No, because if masked data is breached, the masking did not prevent the breach, so it cannot render harm unlikely.",
+        "C": "No, because s 26D(5)(b) only applies if the breach does not result in significant harm.",
+        "D": "Yes, but only if PDPC approves the exemption."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "Under s 26D(5)(b) PDPA, an organization is exempted from notifying affected individuals if it had implemented, prior to the occurrence of the notifiable data breach, any technological measure that renders it unlikely that the notifiable data breach will result in significant harm to the affected individual. Data masking implemented before the breach may qualify for this exemption if it renders harm unlikely - even if masked data is breached, if the masking is effective and the data cannot be used without the masking key, harm may be unlikely. The test is whether the technological measure renders harm unlikely, not whether it prevents the breach. If data masking effectively protects the data such that unauthorized access does not result in harm (e.g., masked data cannot be used to identify individuals), the exemption may apply even if the breach is deemed to result in significant harm under s 26B(2).",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect because s 26D(5)(b) focuses on whether the technological measure renders harm unlikely, not whether it prevents the breach. Even if masked data is breached, if the masking is effective and renders the data unusable without the key, harm may be unlikely. The test is harm likelihood, not breach prevention. The 'did not prevent breach' interpretation misses the point of the exemption.",
+          "C": "This is incorrect because s 26D(5)(b) can apply even if a breach is deemed to result in significant harm under s 26B(2). The exemption focuses on whether pre-existing technological measures render harm unlikely, which may be the case even if the breach involves prescribed data that is deemed to result in significant harm. The 'only if no significant harm' interpretation is incorrect.",
+          "D": "This is incorrect because s 26D(5)(b) does NOT require PDPC approval. The exemption applies automatically if the organization had implemented technological measures before the breach that render harm unlikely. However, PDPC may review the exemption if it investigates the breach. The 'PDPC approval required' interpretation is incorrect."
+        },
+        "reference": "PDPA Exemption from Individual Notification - Pre-Existing Technological Measures (s 26D(5)(b)); Implemented BEFORE Breach; Renders Harm Unlikely; Data Masking May Qualify; Test Is Harm Likelihood"
+      }
+    },
+    {
+      "id": "CLK-DPCR-M4-Q050",
+      "question": "An organization discovers a data breach affecting personal data. The organization assesses that the breach is notifiable and results in significant harm. The organization notifies PDPC within 3 calendar days. Under s 26D(2) PDPA, must the organization also notify affected individuals?",
+      "options": {
+        "A": "No, because notifying PDPC satisfies all notification requirements under s 26D.",
+        "B": "Yes, because s 26D(2) requires notification to affected individuals if the breach is notifiable AND results in significant harm, and this requirement applies in addition to the PDPC notification requirement under s 26D(1).",
+        "C": "No, because organizations must choose between notifying PDPC or notifying affected individuals.",
+        "D": "Yes, but only if PDPC directs the organization to notify affected individuals."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "Under s 26D(1) PDPA, organizations must notify PDPC if a breach is notifiable. Under s 26D(2) PDPA, organizations must ALSO notify affected individuals if the breach is notifiable AND results in significant harm. These are separate, cumulative obligations - notifying PDPC does not eliminate the obligation to notify affected individuals. Both obligations apply: (1) notify PDPC under s 26D(1) if breach is notifiable, and (2) notify affected individuals under s 26D(2) if breach is notifiable AND results in significant harm. The individual notification must be made 'on or after' notifying PDPC, ensuring PDPC is notified first, but both notifications are required.",
+        "incorrect": {
+          "B": "This is the correct answer.",
+          "A": "This is incorrect because s 26D(1) and s 26D(2) create separate, cumulative obligations. S 26D(1) requires PDPC notification if breach is notifiable. S 26D(2) requires individual notification if breach is notifiable AND results in significant harm. Notifying PDPC does not satisfy the individual notification requirement - both obligations apply. The 'only PDPC notification' interpretation ignores s 26D(2).",
+          "C": "This is incorrect because s 26D(1) and s 26D(2) create separate, cumulative obligations - organizations must notify BOTH PDPC and affected individuals (if significant harm). The provisions do not create a choice - both notifications are required when the conditions are met. The 'choose between' interpretation is incorrect.",
+          "D": "This is incorrect because s 26D(2) creates a mandatory obligation to notify affected individuals if the breach is notifiable AND results in significant harm - it does not require PDPC direction. PDPC direction is relevant for exemption under s 26D(6), not for the obligation itself. The 'only if PDPC directs' interpretation is incorrect."
+        },
+        "reference": "PDPA Notification Obligations (s 26D(1) and s 26D(2)); Separate Cumulative Obligations; Must Notify Both PDPC and Affected Individuals; Individual Notification On or After PDPC Notification"
+      }
     }
   ]
 }
