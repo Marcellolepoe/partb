@@ -1,0 +1,1755 @@
+{
+  "module": "CSK-5 Module 4: Good Faith, Enforcement & Civil Procedure",
+  "questions": [
+    {
+      "id": "CSK5-M4-Q001",
+      "question": "What does Germany’s §242 BGB ask a person who owes a duty to do?",
+      "options": {
+        "A": "Claims that follow only the literal contract wording even if it harms the other side.",
+        "B": "Claims that deliver what they promised in a fair way that respects everyday practice and the other person’s interests.",
+        "C": "Claims that ignore local custom and do the bare minimum.",
+        "D": "Claims that wait for a court order before acting on any promise."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect because §242 BGB exists precisely to stop parties hiding behind harsh literal wording when that would injure the counterparty.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-sec242\">Good Faith – §242 Core Rule</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: §242 BGB, the German good-faith clause, obliges the debtor to perform as promised in a way that respects ordinary business practice and safeguards the creditor’s legitimate interests.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-sec242\">Good Faith – §242 Core Rule</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect: the civil-law test looks at normal practice; deliberately ignoring custom and doing the bare minimum breaches §242.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-sec242\">Good Faith – §242 Core Rule</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect because the good-faith duty applies automatically; parties are expected to comply without waiting for a court order.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-sec242\">Good Faith – §242 Core Rule</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q002",
+      "question": "Why do the notes say good faith has two main jobs in civil-law contracts?",
+      "options": {
+        "A": "Claims that it only punishes fraudulent behaviour.",
+        "B": "Claims that it works purely as a moral reminder with no legal effect.",
+        "C": "Claims that it lets judges ignore the civil code.",
+        "D": "Claims that it checks for unfair behaviour and fills gaps where the code is silent so deals stay balanced."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect: although good faith catches outright fraud, the notes emphasise that it governs everyday performance as well.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-functions\">Good Faith – Fairness and Gap Filling</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect because civil-law judges use the clause to impose legal duties; it is more than a moral nudge.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-functions\">Good Faith – Fairness and Gap Filling</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; the good-faith clause supplements the code rather than allowing judges to ignore it.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-functions\">Good Faith – Fairness and Gap Filling</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: the notes describe two core roles—policing unfair behaviour and filling statutory gaps—so that agreements remain balanced.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-functions\">Good Faith – Fairness and Gap Filling</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q003",
+      "question": "Which civil codes named in the notes include an express good-faith clause similar to Germany’s §242?",
+      "options": {
+        "A": "Claims that only the German BGB uses a good-faith rule.",
+        "B": "Claims that only France keeps a good-faith clause today.",
+        "C": "Claims that germany, the PRC, Taiwan, and Japan all embed good faith in their civil codes.",
+        "D": "Claims that none of the modern Asian codes refer to good faith."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; the module lists several codes (PRC Art.7, Taiwan Art.148, Japan Art.1(2)) that echo Germany’s §242.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-comparative-clauses\">Good Faith – Comparative Clauses</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect because the notes focus on these German and East Asian clauses rather than France alone.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-comparative-clauses\">Good Faith – Comparative Clauses</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Correct option B: Germany’s BGB, the PRC Civil Code, the Taiwanese Civil Code, and the Japanese Civil Code all write the good-faith duty directly into legislation.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-comparative-clauses\">Good Faith – Comparative Clauses</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; modern Asian codes explicitly refer to good faith.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-comparative-clauses\">Good Faith – Comparative Clauses</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q004",
+      "question": "What does §307 BGB do when businesses use standard terms with consumers?",
+      "options": {
+        "A": "Claims that it strikes clauses that unfairly disadvantage the other party or hide their meaning.",
+        "B": "Claims that it only checks spelling mistakes.",
+        "C": "Claims that it replaces every clause with judge-made wording.",
+        "D": "Claims that it automatically approves any written term."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Correct option D: §307 removes standard terms that significantly disadvantage the counterparty or hide their meaning, as the notes highlight.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-standard-terms\">Good Faith – Standard Terms Review</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect because the review targets fairness and transparency, not spelling.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-standard-terms\">Good Faith – Standard Terms Review</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; courts delete abusive clauses but do not rewrite entire contracts.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-standard-terms\">Good Faith – Standard Terms Review</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; §307 BGB is a control mechanism, not a rubber stamp.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-standard-terms\">Good Faith – Standard Terms Review</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q005",
+      "question": "Which example best shows an unfair standard term that §307 BGB would knock out?",
+      "options": {
+        "A": "Claims that a plain-language term that repeats the statutory warranty period.",
+        "B": "Claims that a hidden clause that lets a seller avoid all responsibility for damage their delivery team causes inside the customer’s home.",
+        "C": "Claims that a clause that restates the agreed price.",
+        "D": "Claims that a term that gives the consumer a longer cooling-off period than the law requires."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; repeating a statutory warranty accurately keeps the parties on the legal baseline and is not unfair.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-unreasonable-terms\">Good Faith – Unreasonable Terms</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: the notes give examples of hidden disclaimers being struck down because they eliminate core duties such as safe delivery, violating §307.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-unreasonable-terms\">Good Faith – Unreasonable Terms</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect because restating the agreed price is neutral and fails to trigger §307.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-unreasonable-terms\">Good Faith – Unreasonable Terms</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; expanding the cooling-off period favours the consumer and therefore passes the fairness test.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-unreasonable-terms\">Good Faith – Unreasonable Terms</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q006",
+      "question": "Why does §307 BGB insist on plain, understandable language in standard terms?",
+      "options": {
+        "A": "Claims that a company can hide the real meaning from customers.",
+        "B": "Claims that spelling mistakes automatically cancel a contract.",
+        "C": "Claims that only contracts shorter than one page are valid.",
+        "D": "Claims that customers must understand their rights and duties before they agree."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; the whole point of §307 is to prevent concealment.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-standard-terms\">Good Faith – Standard Terms Review</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect because civil-law judges worry about comprehension, not spelling errors.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-standard-terms\">Good Faith – Standard Terms Review</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; contract validity has nothing to do with the number of pages.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-standard-terms\">Good Faith – Standard Terms Review</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: the provision insists that customers understand their rights and obligations before they commit to the agreement.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-standard-terms\">Good Faith – Standard Terms Review</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q007",
+      "question": "Under §311 BGB, what duty arises once parties start serious contract talks?",
+      "options": {
+        "A": "Claims that no special duty arises until the contract is signed.",
+        "B": "Claims that parties may freely give misleading facts to gain leverage.",
+        "C": "Claims that each side must look after the other’s rights and avoid avoidable harm during negotiations.",
+        "D": "Claims that they must sign a contract immediately."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; §311 BGB imposes duties during serious negotiations, not only after signature.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-precontract\">Good Faith – Precontract Duties</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; supplying false information clashes with the duty of care that §311 establishes.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-precontract\">Good Faith – Precontract Duties</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Correct option B: once talks take shape, each side must protect the other’s rights and avoid avoidable harm, as described in the notes.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-precontract\">Good Faith – Precontract Duties</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect because the duty is to act carefully, not to sign immediately.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-precontract\">Good Faith – Precontract Duties</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q008",
+      "question": "When can a third party owe negotiation duties under §311(3) BGB?",
+      "options": {
+        "A": "Claims that when the third party invites special trust and steers the talks.",
+        "B": "Claims that only when the third party offers financing.",
+        "C": "Claims that only if the third party is a government official.",
+        "D": "Claims that never; duties bind only the people who sign the contract."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Correct option D: when a third party invites special trust and steers the discussions, §311(3) BGB imposes the same good-faith obligations on that party.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-third-parties\">Good Faith – Third-Party Duties</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; simply offering finance is not enough under §311(3).",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-third-parties\">Good Faith – Third-Party Duties</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; public status is irrelevant—the issue is whether the party invites reliance.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-third-parties\">Good Faith – Third-Party Duties</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; the notes explain that third parties can owe duties when they take control of negotiations.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-third-parties\">Good Faith – Third-Party Duties</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q009",
+      "question": "Which customer conversation best reflects good faith when explaining a tricky term?",
+      "options": {
+        "A": "Claims that the employee hands over dense legal citations and leaves.",
+        "B": "Claims that the employee explains the term in everyday language, checks if the customer has questions, and gives a short written summary.",
+        "C": "Claims that the employee says, ‘you signed it, so figure it out’ and walks away.",
+        "D": "Claims that the employee hides the limitation so the sale goes through."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; dumping legal citations without guidance leaves the customer unable to make an informed choice.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-consumer-example\">Good Faith – Consumer Communication</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: the module recommends plain-language explanations, time for questions, and a short written recap to satisfy the civil-law clarity requirement.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-consumer-example\">Good Faith – Consumer Communication</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect because dismissing questions breaches the cooperative spirit of good faith.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-consumer-example\">Good Faith – Consumer Communication</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; concealing important limits is precisely what §307 and §242 guard against.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-consumer-example\">Good Faith – Consumer Communication</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q010",
+      "question": "How should you explain good faith to a new hire according to the notes?",
+      "options": {
+        "A": "Claims that tell them it is an optional extra courtesy.",
+        "B": "Claims that say it means always siding with the customer even if it breaks the deal.",
+        "C": "Claims that describe it as a marketing slogan with no legal effect.",
+        "D": "Claims that explain it means acting honestly, protecting the other side’s interests, and following normal practice even where the contract is silent."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; good faith is a statutory duty, not an optional courtesy.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-simple-explanation\">Good Faith – Simple Explanation</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; good faith balances both parties—civil law does not require self-sacrifice.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-simple-explanation\">Good Faith – Simple Explanation</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; calling good faith a marketing slogan ignores its legal effect.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-simple-explanation\">Good Faith – Simple Explanation</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: the notes recommend an explanation that stresses honesty, protection of the counterparty’s interests, and respect for normal practice even when the contract is silent.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-simple-explanation\">Good Faith – Simple Explanation</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q011",
+      "question": "What everyday check does the good-faith principle add to contract performance?",
+      "options": {
+        "A": "Claims that it removes every time limit from the contract.",
+        "B": "Claims that it lets a party refuse to perform if profit is low.",
+        "C": "Claims that it asks whether the promised behaviour is carried out in a way that keeps the other party safe and respected.",
+        "D": "Claims that it allows ignoring local customs."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; contractual deadlines remain, the principle affects the manner of performance.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-fairness\">Good Faith – Fairness Check</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; poor profits do not justify breaching the duty.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-fairness\">Good Faith – Fairness Check</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Correct option B: good faith asks whether the promised behaviour keeps the other side safe and respected, which is the fairness ‘sense check’ discussed in the notes.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-fairness\">Good Faith – Fairness Check</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect because the assessment expressly considers local custom.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-fairness\">Good Faith – Fairness Check</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q012",
+      "question": "How did courts use good faith before the legislator wrote detailed rules on positive contract breach?",
+      "options": {
+        "A": "Claims that they used good faith to fill the gap and protect the buyer until the code was updated.",
+        "B": "Claims that they insisted only tort law could apply.",
+        "C": "Claims that they said only the contract text mattered.",
+        "D": "Claims that they refused to help injured buyers."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Correct option D: good faith filled the gap until the codified rules on positive contract breach were enacted.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#gap-filling-historical\">Good Faith – Historical Gap Filling</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; judges did not force claimants into tort—they used contract-based good faith to protect them.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#gap-filling-historical\">Good Faith – Historical Gap Filling</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; judges looked beyond the literal text to evaluate delivery methods.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#gap-filling-historical\">Good Faith – Historical Gap Filling</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; courts used good faith to help injured buyers even before the Legislature intervened.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#gap-filling-historical\">Good Faith – Historical Gap Filling</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q013",
+      "question": "Which scenario illustrates the ‘positive contract breach’ idea discussed in the notes?",
+      "options": {
+        "A": "Claims that a seller refuses to deliver anything at all.",
+        "B": "Claims that a seller delivers the right machine but scratches the customer’s floor during delivery.",
+        "C": "Claims that a buyer cancels before the contract exists.",
+        "D": "Claims that a customer pays the price ahead of schedule."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; total non-delivery is dealt with by ordinary non-performance rules.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-positive-breach\">Good Faith – Positive Contract Breach</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: the notes describe this delivery scenario as a classic positive contract breach—performance occurs, but careless execution causes extra harm.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-positive-breach\">Good Faith – Positive Contract Breach</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect because the concept assumes a contract is in force.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-positive-breach\">Good Faith – Positive Contract Breach</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; paying early is not a breach of the type discussed.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-positive-breach\">Good Faith – Positive Contract Breach</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q014",
+      "question": "Why was it useful for Germany to codify those good-faith duties into §§241(2), 280, and 311?",
+      "options": {
+        "A": "Claims that it removed all protective duties from the code.",
+        "B": "Claims that it allowed courts to ignore good faith entirely.",
+        "C": "Claims that it abolished consumer protection.",
+        "D": "Claims that it gave clear text so everyone knows the duties still exist even when a judgment no longer cites good faith."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; codification preserved the protective duties.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-codification\">Good Faith – Codification Benefit</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; judges still apply the same ideas, now backed by statutory wording.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-codification\">Good Faith – Codification Benefit</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; consumer protection became clearer, not weaker.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-codification\">Good Faith – Codification Benefit</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: putting the duties into §§241(2), 280, and 311 means everyone can see they still exist, even when judgments cite the sections instead of the general clause.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-codification\">Good Faith – Codification Benefit</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q015",
+      "question": "Why do the notes say Asian codes like Japan and Korea still rely heavily on good-faith case law?",
+      "options": {
+        "A": "Claims that they reject German legal ideas.",
+        "B": "Claims that they have no consumer disputes.",
+        "C": "Claims that legislatures have not written every judge-made duty into the statute, so courts still cite good faith directly.",
+        "D": "Claims that good faith is banned in those countries."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; far from rejecting German ideas, the notes show Japan and Korea follow them closely.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#asian-gap-filling\">Good Faith – Asian Practice</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; consumer disputes certainly exist, which is why the doctrine matters.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#asian-gap-filling\">Good Faith – Asian Practice</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Correct option B: because not every duty has been codified, courts in Japan and Korea still refer directly to the good-faith clause when dealing with new situations.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#asian-gap-filling\">Good Faith – Asian Practice</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; good faith is expressly recognised in those codes.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#asian-gap-filling\">Good Faith – Asian Practice</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q016",
+      "question": "If you work in Taiwan and see a risk not covered in the contract text, what practical step do the notes hint at?",
+      "options": {
+        "A": "Claims that rely on the good-faith principle and explain how local courts have used it to fill that gap.",
+        "B": "Claims that wait for the German parliament to amend its code first.",
+        "C": "Claims that refuse to negotiate further.",
+        "D": "Claims that assume no duty exists because it is not written down."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Correct option D: the notes suggest pointing to local good-faith case law to show how the courts close gaps.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#asian-gap-filling\">Good Faith – Asian Practice</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; practitioners apply Taiwanese jurisprudence immediately and do not wait on German amendments.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#asian-gap-filling\">Good Faith – Asian Practice</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; stopping negotiations wastes a ready-made tool.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#asian-gap-filling\">Good Faith – Asian Practice</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; good faith fills contractual silence even without explicit wording.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#asian-gap-filling\">Good Faith – Asian Practice</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q017",
+      "question": "What is the key message about trusts that you should share with civil-law counterparts?",
+      "options": {
+        "A": "Claims that civil laws provide more detailed trust rules than common law.",
+        "B": "Claims that most civil systems do not recognise split ownership, so discuss direct ownership instead.",
+        "C": "Claims that trusts are mandatory in every civil-law contract.",
+        "D": "Claims that trust law guarantees punitive damages."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; civil codes do not provide more detailed trust rules than the common law.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-trust-law\">Absence of Trust Law</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: the module reminds common-law lawyers that civil-law systems usually refuse to divide legal and equitable ownership, so discussions must focus on direct title.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-trust-law\">Absence of Trust Law</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; trusts are not mandatory features of civil-law contracts.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-trust-law\">Absence of Trust Law</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; punitive damages are not tied to trust concepts here.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-trust-law\">Absence of Trust Law</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q018",
+      "question": "How can you translate a common-law trust discussion for a civil-law colleague?",
+      "options": {
+        "A": "Claims that insist on using trustee and beneficiary labels only.",
+        "B": "Claims that provide only English case citations.",
+        "C": "Claims that say equity courts will sort it out.",
+        "D": "Claims that describe who holds control and who enjoys the benefit without saying ownership is split."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; foreign labels such as ‘trustee’ may not convey the required meaning.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-trust-ownership\">Absence of Split Ownership</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect because citations alone rarely persuade without a civil-law translation.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-trust-ownership\">Absence of Split Ownership</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; civil-law courts lack equity jurisdiction, so that reassurance would mislead.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-trust-ownership\">Absence of Split Ownership</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: describing who controls the property and who benefits mirrors the civil-law approach without implying split ownership.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-trust-ownership\">Absence of Split Ownership</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q019",
+      "question": "Why can mentioning ‘equity’ confuse a civil-law lawyer according to the notes?",
+      "options": {
+        "A": "Claims that equity is identical to good faith in every system.",
+        "B": "Claims that they dislike fairness arguments.",
+        "C": "Claims that equity is not a separate system in their codes, so the term has little meaning for them.",
+        "D": "Claims that equity is illegal in civil-law countries."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; equity and good faith are distinct traditions.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-equity-communication\">Absence of Equity Law</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; civil lawyers do care about fairness—they just express it through good faith and statutory duties.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-equity-communication\">Absence of Equity Law</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Correct option B: civil-law codes do not have a separate equity system, so the word ‘equity’ offers little guidance to a civil lawyer.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-equity-communication\">Absence of Equity Law</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; equity is not banned, it simply does not exist as a parallel system.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-equity-communication\">Absence of Equity Law</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q020",
+      "question": "How should you explain a fiduciary duty when talking to a civil-law partner?",
+      "options": {
+        "A": "Claims that frame it as a contractual or statutory duty to act loyally for the other person’s interests.",
+        "B": "Claims that claim that beneficiaries own the property.",
+        "C": "Claims that avoid discussing duties altogether.",
+        "D": "Claims that say the court will enforce a trust deed exactly as in common law."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Correct option D: reframing fiduciary obligations as loyalty duties under contract or statute matches civil-law analysis.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-equity-remedies\">Translating Equity Concepts</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect because civil law refuses to split ownership in the way the common law does.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-equity-remedies\">Translating Equity Concepts</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; avoiding the topic would leave the counterparty unprotected.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-equity-remedies\">Translating Equity Concepts</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; trust deeds are not enforced verbatim in civil-law courts.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#absence-equity-remedies\">Translating Equity Concepts</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q021",
+      "question": "What is the starting point for remedies in civil-law enforcement according to the notes?",
+      "options": {
+        "A": "Claims that damages automatically replace the obligation.",
+        "B": "Claims that the promisee can demand the exact performance promised (enforced performance).",
+        "C": "Claims that courts refuse to order performance.",
+        "D": "Claims that only moral apologies are available."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; damages are secondary and come into play only if enforcement fails.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-basics\">Enforced Performance – Starting Point</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: enforced performance is the presumptive remedy, as the notes explain.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-basics\">Enforced Performance – Starting Point</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; civil courts routinely order performance.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-basics\">Enforced Performance – Starting Point</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; apologies are not the focus of civil-law enforcement.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-basics\">Enforced Performance – Starting Point</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q022",
+      "question": "How do the notes contrast enforced performance with the common-law idea of ‘specific performance’?",
+      "options": {
+        "A": "Claims that both treat damages as the default.",
+        "B": "Claims that civil systems rarely enforce promises.",
+        "C": "Claims that civil law forbids damages altogether.",
+        "D": "Claims that enforced performance is the normal rule in civil law, while ‘specific performance’ is exceptional in the common law."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; civil law does not treat damages as the primary response.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-vs-common-law\">Enforced Performance – Civil vs Common Law</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; civil courts enforce promises regularly.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-vs-common-law\">Enforced Performance – Civil vs Common Law</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; damages remain available as part of the secondary rights package.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-vs-common-law\">Enforced Performance – Civil vs Common Law</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: the module stresses that enforced performance is ‘normal’ in civil law, whereas the common-law remedy of specific performance is exceptional.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-vs-common-law\">Enforced Performance – Civil vs Common Law</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q023",
+      "question": "What does the maxim ‘pacta sunt servanda’ explain in this module?",
+      "options": {
+        "A": "Claims that deals can be rewritten at will.",
+        "B": "Claims that only oral promises matter.",
+        "C": "Claims that promises are binding, so the agreed performance must be delivered as written.",
+        "D": "Claims that contracts expire after 30 days."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; the maxim enforces original promises, it does not permit rewriting them.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-pacta\">Enforced Performance – Pacta Sunt Servanda</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; the maxim applies to written and oral contracts alike.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-pacta\">Enforced Performance – Pacta Sunt Servanda</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Correct option B: ‘pacta sunt servanda’—agreements must be kept—explains why enforced performance is the first step.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-pacta\">Enforced Performance – Pacta Sunt Servanda</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; it says nothing about automatic expiry dates.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-pacta\">Enforced Performance – Pacta Sunt Servanda</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q024",
+      "question": "What order of steps do the notes suggest before moving to secondary rights?",
+      "options": {
+        "A": "Claims that request performance, allow the grace period unless an exception applies, then switch to secondary rights if the debtor still fails.",
+        "B": "Claims that terminate first, then ask for performance later.",
+        "C": "Claims that ignore the delay if the loss is small.",
+        "D": "Claims that claim damages immediately without warning."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Correct option D: demand performance, grant a Nachfrist unless an exception applies, then choose secondary rights if the debtor still fails.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-steps\">Enforced Performance – Procedural Steps</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; termination is a later step after enforcement has failed.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-steps\">Enforced Performance – Procedural Steps</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; ignoring delays undermines the enforcement scheme.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-steps\">Enforced Performance – Procedural Steps</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; the notes say you should not jump straight to damages.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforced-performance-steps\">Enforced Performance – Procedural Steps</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q025",
+      "question": "Why must the promisee usually give a grace period (Nachfrist)?",
+      "options": {
+        "A": "Claims that punish the creditor.",
+        "B": "Claims that give the debtor a fair second chance to deliver the promised item before harsher remedies start.",
+        "C": "Claims that courts dislike on-time delivery.",
+        "D": "Claims that the contract automatically cancels."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; the debtor—not the creditor—benefits from the extra time.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-purpose\">Grace Period – Purpose</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: the grace period gives the debtor a final chance to comply before the creditor switches remedies.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-purpose\">Grace Period – Purpose</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; courts still value timely performance.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-purpose\">Grace Period – Purpose</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; the contract does not dissolve automatically just because a grace period exists.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-purpose\">Grace Period – Purpose</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q026",
+      "question": "What should you communicate during a Nachfrist letter?",
+      "options": {
+        "A": "Claims that only complain without setting a date.",
+        "B": "Claims that the model rests on state that you will never accept the goods.",
+        "C": "Claims that promise to forgive every delay.",
+        "D": "Claims that set a reasonable extra deadline and warn that other remedies follow if it passes."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; a Nachfrist letter needs a clear additional deadline.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-purpose\">Grace Period – Purpose</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; refusing the goods contradicts the purpose of enforced performance.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-purpose\">Grace Period – Purpose</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; promising forgiveness removes the pressure to perform.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-purpose\">Grace Period – Purpose</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: the notes recommend setting a reasonable extra period and warning that other remedies will follow if it lapses.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-purpose\">Grace Period – Purpose</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q027",
+      "question": "When may you skip the grace period under the civil-law rules described in the notes?",
+      "options": {
+        "A": "Claims that whenever you are annoyed.",
+        "B": "Claims that whenever damages would be higher.",
+        "C": "Claims that when the debtor refuses, the timing is critical, or performance is impossible from the start.",
+        "D": "Claims that only after a court trial."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; personal annoyance is not a recognised exception.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-exceptions\">Grace Period – Exceptions</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; the size of potential damages is irrelevant to the Nachfrist requirement.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-exceptions\">Grace Period – Exceptions</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Correct option B: the module lists debtor refusal, time-critical obligations, and impossibility as situations where the grace period can be skipped.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-exceptions\">Grace Period – Exceptions</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; you do not need to wait for a trial to rely on the exceptions.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-exceptions\">Grace Period – Exceptions</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q028",
+      "question": "What documentation step should you take if you rely on a grace-period exception?",
+      "options": {
+        "A": "Claims that record why the exception applies so you can justify switching to secondary rights.",
+        "B": "Claims that delete all emails.",
+        "C": "Claims that send a handwritten apology.",
+        "D": "Claims that no documentation is needed."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Correct option D: documenting why an exception applies supports the shift to secondary rights.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-exceptions\">Grace Period – Exceptions</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; deleting emails destroys evidence of compliance.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-exceptions\">Grace Period – Exceptions</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; apologies do not prove legal grounds.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-exceptions\">Grace Period – Exceptions</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; contemporaneous notes help justify your decision later.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-exceptions\">Grace Period – Exceptions</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q029",
+      "question": "What can the promisee claim while the grace period is running?",
+      "options": {
+        "A": "Claims that punitive damages.",
+        "B": "Claims that damages for delay if the late delivery causes loss, even while still demanding performance.",
+        "C": "Claims that criminal fines.",
+        "D": "Claims that nothing until a court judgment."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; punitive damages do not feature in this civil-law framework.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-damages\">Grace Period – Damages</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: the notes explain you can claim damages for delay while still demanding performance during the Nachfrist period.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-damages\">Grace Period – Damages</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; criminal fines are not part of contractual enforcement.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-damages\">Grace Period – Damages</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; the promisee need not wait for judgment to pursue delay losses.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#grace-period-damages\">Grace Period – Damages</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q030",
+      "question": "What happens if the debtor still fails after the grace period ends?",
+      "options": {
+        "A": "Claims that the promisee has no options left.",
+        "B": "Claims that the contract automatically disappears without remedies.",
+        "C": "Claims that only the debtor may choose the remedy.",
+        "D": "Claims that the promisee can switch to secondary rights such as damages or rescission."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; additional remedies open up once Nachfrist ends.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#secondary-rights-overview\">Secondary Rights – Overview</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; the contract does not vanish without action.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#secondary-rights-overview\">Secondary Rights – Overview</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; the creditor, not the debtor, chooses among the secondary rights.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#secondary-rights-overview\">Secondary Rights – Overview</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: after the grace period the creditor may rescind or demand damages, as set out in the notes.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#secondary-rights-overview\">Secondary Rights – Overview</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q031",
+      "question": "How do the notes describe ‘secondary rights’?",
+      "options": {
+        "A": "Claims that additional promises the debtor receives.",
+        "B": "Claims that criminal sanctions for fraud.",
+        "C": "Claims that remedies like damages or withdrawal that replace the original performance when the debtor fails.",
+        "D": "Claims that tax adjustments."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; secondary rights belong to the promisee.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#secondary-rights-overview\">Secondary Rights – Overview</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; criminal sanctions are outside the civil-law remedies discussed.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#secondary-rights-overview\">Secondary Rights – Overview</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Correct option B: the notes define secondary rights as remedies like damages or withdrawal that step in when performance fails.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#secondary-rights-overview\">Secondary Rights – Overview</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; taxes have nothing to do with this concept.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#secondary-rights-overview\">Secondary Rights – Overview</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q032",
+      "question": "Which situation shows a creditor choosing a secondary right sensibly?",
+      "options": {
+        "A": "Claims that after the Nachfrist expires, they cancel the contract and claim compensation for buying a replacement.",
+        "B": "Claims that they demand performance but never follow up.",
+        "C": "Claims that they ignore legal process and hire vigilantes.",
+        "D": "Claims that they keep waiting forever despite repeated failures."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Correct option D: cancelling and claiming cover costs after Nachfrist mirrors the textbook use of secondary rights.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#secondary-rights-overview\">Secondary Rights – Overview</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; failing to follow up undermines your position.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#secondary-rights-overview\">Secondary Rights – Overview</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; vigilante tactics are unlawful.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#secondary-rights-overview\">Secondary Rights – Overview</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; waiting forever defeats the enforcement process.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#secondary-rights-overview\">Secondary Rights – Overview</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q033",
+      "question": "What does §275 BGB do when performance becomes impossible?",
+      "options": {
+        "A": "Claims that it increases the price automatically.",
+        "B": "Claims that it removes the right to demand performance to the extent it cannot be done.",
+        "C": "Claims that it forces the debtor to perform anyway.",
+        "D": "Claims that it jails the debtor."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; the statute says nothing about price adjustments.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-275\">Impossibility – §275</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: §275 removes the obligation to perform where fulfilment is impossible.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-275\">Impossibility – §275</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; impossible acts cannot be forced.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-275\">Impossibility – §275</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect because §275 has no criminal element.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-275\">Impossibility – §275</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q034",
+      "question": "If the debtor is responsible for the impossibility described in §275, what do the notes say happens?",
+      "options": {
+        "A": "Claims that the debtor is free from all consequences.",
+        "B": "Claims that the creditor must pay damages instead.",
+        "C": "Claims that the contract turns into a gift.",
+        "D": "Claims that the debtor still owes damages even though the performance duty is gone."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; a culpable debtor still faces liability.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-damages\">Impossibility – Damages</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; the creditor does not owe damages— they are the party harmed.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-damages\">Impossibility – Damages</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; the contract does not become a gift.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-damages\">Impossibility – Damages</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: even when performance ends, the debtor who caused the impossibility must compensate the creditor for the loss.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-damages\">Impossibility – Damages</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q035",
+      "question": "Which example matches an impossibility under §275?",
+      "options": {
+        "A": "Claims that a seller forgets to ship the goods but still has them in stock.",
+        "B": "Claims that goods are in stock but delivery is expensive.",
+        "C": "Claims that a unique artwork promised in the contract burns in a fire with no replacement available.",
+        "D": "Claims that the buyer changes their mind."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; stock on hand means performance remains possible.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-practical\">Impossibility – Practical Example</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; high cost alone is not impossibility.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-practical\">Impossibility – Practical Example</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Correct option B: destruction of the unique artwork makes performance objectively impossible under §275.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-practical\">Impossibility – Practical Example</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; a buyer’s change of mind is not impossibility.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-practical\">Impossibility – Practical Example</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q036",
+      "question": "What practical step should a project manager take if performance may become impossible?",
+      "options": {
+        "A": "Claims that communicate early, record the facts, and assess whether §275 removes the duty while damages still apply.",
+        "B": "Claims that destroy any evidence of the problem.",
+        "C": "Claims that demand punitive damages immediately.",
+        "D": "Claims that say nothing and hope it resolves itself."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Correct option D: the notes advise early communication, documentation, and analysis of whether §275 applies alongside damages.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-practical\">Impossibility – Practical Example</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; destroying evidence undermines any later defence.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-practical\">Impossibility – Practical Example</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; punitive damages are not the focus here.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-practical\">Impossibility – Practical Example</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; silence can breach the good-faith duty to cooperate.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#impossibility-practical\">Impossibility – Practical Example</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q037",
+      "question": "How should you brief your team about enforced performance expectations?",
+      "options": {
+        "A": "Claims that tell them obligations are optional.",
+        "B": "Claims that explain that delivering exactly what was promised is the default and damages come later.",
+        "C": "Claims that focus only on penalties.",
+        "D": "Claims that say courts rarely care about performance."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; obligations are mandatory.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforcement-practice\">Enforced Performance – Practice</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: briefing teams that exact performance is expected (with damages only later) mirrors the civil-law perspective.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforcement-practice\">Enforced Performance – Practice</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; the message is about reliable delivery, not just punishment.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforcement-practice\">Enforced Performance – Practice</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; courts do care deeply about performance.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforcement-practice\">Enforced Performance – Practice</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q038",
+      "question": "What monitoring step helps you stay within good faith during contract performance?",
+      "options": {
+        "A": "Claims that avoid documenting decisions so there is no paper trail.",
+        "B": "Claims that change contract terms unilaterally.",
+        "C": "Claims that review problems only after a dispute begins.",
+        "D": "Claims that track how each action affects the other party and adjust to keep their interests protected."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; documentation proves you acted in good faith.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#monitoring-compliance\">Monitoring Good Faith</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; unilateral changes breach the duty.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#monitoring-compliance\">Monitoring Good Faith</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; waiting for a dispute ignores early warning signs.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#monitoring-compliance\">Monitoring Good Faith</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: monitoring the impact on the counterparty and adjusting accordingly keeps performance within the good-faith standard.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#monitoring-compliance\">Monitoring Good Faith</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q039",
+      "question": "How can you align with a civil-law counterpart during negotiations?",
+      "options": {
+        "A": "Claims that insist on trust terminology.",
+        "B": "Claims that refuse to mention local law.",
+        "C": "Claims that frame proposals in terms of good faith duties and enforced performance expectations.",
+        "D": "Claims that threaten to sue in an equity court."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; trust terminology rarely translates for civil-law partners.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#negotiation-strategy\">Negotiation Strategy</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; refusing to discuss local law alienates the counterpart.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#negotiation-strategy\">Negotiation Strategy</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Correct option B: presenting proposals in terms of good faith and enforced performance shows you understand their legal framework.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#negotiation-strategy\">Negotiation Strategy</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; threatening equity remedies is meaningless in civil law.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#negotiation-strategy\">Negotiation Strategy</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q040",
+      "question": "What should you do when a dispute involves concepts like trusts that civil-law courts do not use?",
+      "options": {
+        "A": "Claims that translate the issue into direct ownership and contractual duties that the civil code recognises.",
+        "B": "Claims that demand that the court adopt trust language.",
+        "C": "Claims that abandon legal reasoning entirely.",
+        "D": "Claims that argue only English case law."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Correct option D: translating the issue into direct ownership and contractual duties keeps the dispute within the civil code.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#dispute-resolution\">Dispute Resolution – Translation</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; forcing trust language confuses the court.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#dispute-resolution\">Dispute Resolution – Translation</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; you still need to reason legally, but in local terms.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#dispute-resolution\">Dispute Resolution – Translation</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; foreign case law alone rarely persuades a civil-law forum.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#dispute-resolution\">Dispute Resolution – Translation</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q041",
+      "question": "What internal control helps ensure standard terms stay compliant with §307?",
+      "options": {
+        "A": "Claims that delete the terms after signing.",
+        "B": "Claims that keep a checklist that tests each clause for clarity and fairness.",
+        "C": "Claims that hide extra conditions in email footers.",
+        "D": "Claims that tell staff to rely on verbal promises only."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; deleting terms destroys proof of compliance.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#documentation-practice\">Documentation – Standard Terms</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: the module recommends a checklist to ensure each clause remains clear and fair under §307.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#documentation-practice\">Documentation – Standard Terms</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; hiding conditions breaches the transparency requirement.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#documentation-practice\">Documentation – Standard Terms</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; relying only on verbal assurances undermines reviewability.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#documentation-practice\">Documentation – Standard Terms</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q042",
+      "question": "How should you train frontline staff about good faith?",
+      "options": {
+        "A": "Claims that avoid examples because they confuse people.",
+        "B": "Claims that tell them it is a legal issue for lawyers only.",
+        "C": "Claims that warn them never to answer customer questions.",
+        "D": "Claims that use simple stories showing how honest explanations and safe delivery avoid breaches."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; practical examples help staff understand the rule.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-training\">Training – Good Faith</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; frontline behaviour forms part of good faith.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-training\">Training – Good Faith</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; refusing questions violates the clarity obligations civil-law systems emphasise.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-training\">Training – Good Faith</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: the notes suggest simple stories—honest explanations and safe delivery—to anchor the legal duty for newcomers.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-training\">Training – Good Faith</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q043",
+      "question": "What key advice should you give a common-law client entering a civil-law deal?",
+      "options": {
+        "A": "Claims that expect damages to be the first remedy.",
+        "B": "Claims that assume trusts will be enforced the same way.",
+        "C": "Claims that plan to deliver exactly as promised and build timelines for possible grace periods.",
+        "D": "Claims that ignore written codes because practice matters more."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; civil law expects specific performance before damages.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#international-clients\">Guidance – International Clients</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; trusts do not transfer neatly into civil law.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#international-clients\">Guidance – International Clients</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Correct option B: the guidance tells common-law clients to plan for exact delivery and allow timetable room for Nachfrist steps.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#international-clients\">Guidance – International Clients</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; written codes carry significant weight and cannot be ignored.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#international-clients\">Guidance – International Clients</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q044",
+      "question": "How can you use the good-faith principle as a negotiation tool?",
+      "options": {
+        "A": "Claims that by showing how your proposal protects both sides’ interests and aligns with good-faith duties.",
+        "B": "Claims that by hiding risks to close quickly.",
+        "C": "Claims that by insisting only your home law applies.",
+        "D": "Claims that by threatening criminal charges."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Correct option D: showing how a proposal protects both parties’ interests demonstrates compliance with good-faith duties.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#negotiation-strategy\">Negotiation Strategy</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; hiding risks contradicts the transparency pillar of good faith.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#negotiation-strategy\">Negotiation Strategy</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; insisting on home law shuts the conversation down.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#negotiation-strategy\">Negotiation Strategy</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; criminal threats undermine confidence.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#negotiation-strategy\">Negotiation Strategy</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q045",
+      "question": "What risk-management habit flows from the module’s good-faith guidance?",
+      "options": {
+        "A": "Claims that ignore partner feedback.",
+        "B": "Claims that identify where your plan could harm the partner and fix it before execution.",
+        "C": "Claims that delay safety checks.",
+        "D": "Claims that promise impossible results."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; ignoring feedback invites unfair results.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#risk-management\">Risk Management – Good Faith</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: spotting potential harm and fixing it before performance furthers the preventative function of good faith.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#risk-management\">Risk Management – Good Faith</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; delaying safety checks risks breaching protective duties.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#risk-management\">Risk Management – Good Faith</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; promising the impossible conflicts with the enforced-performance mindset.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#risk-management\">Risk Management – Good Faith</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q046",
+      "question": "How do the notes suggest you motivate business teams to follow enforced performance rules?",
+      "options": {
+        "A": "Claims that tell them compliance is optional.",
+        "B": "Claims that punish any question they raise.",
+        "C": "Claims that hide the rules to keep them relaxed.",
+        "D": "Claims that explain that meeting promises avoids costly Nachfrist delays and protects reputation."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; compliance is mandatory.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforcement-motivation\">Enforcement – Business Motivation</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; discouraging questions undermines understanding.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforcement-motivation\">Enforcement – Business Motivation</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; transparency is essential to good faith.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforcement-motivation\">Enforcement – Business Motivation</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: linking compliance to fewer Nachfrist delays and improved reputation gives business teams a concrete incentive.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#enforcement-motivation\">Enforcement – Business Motivation</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q047",
+      "question": "What should a progress report highlight when enforcing performance under civil-law standards?",
+      "options": {
+        "A": "Claims that only financial profits.",
+        "B": "Claims that employee gossip.",
+        "C": "Claims that whether key obligations were delivered on time and if grace periods were needed.",
+        "D": "Claims that irrelevant common-law cases."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; profitability alone does not prove compliance with enforced performance.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#project-management\">Project Management – Reporting</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; gossip is irrelevant to legal performance.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#project-management\">Project Management – Reporting</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Correct option B: reports should show whether obligations were delivered on time and whether Nachfrist was needed, reflecting the steps in the notes.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#project-management\">Project Management – Reporting</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; foreign case citations do not demonstrate adherence to civil-law procedure.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#project-management\">Project Management – Reporting</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q048",
+      "question": "How can you resolve misunderstandings when a common-law partner talks about equitable remedies?",
+      "options": {
+        "A": "Claims that restate the concern using civil-law terms like good faith duties and direct ownership.",
+        "B": "Claims that tell them civil codes ignore fairness.",
+        "C": "Claims that end negotiations.",
+        "D": "Claims that send them equity textbooks."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Correct option D: restating the concern using civil-law terminology (good faith, ownership, statutory duties) resolves the misunderstanding.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#business-communication\">Business Communication – Translation</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; civil codes do care about fairness through good faith.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#business-communication\">Business Communication – Translation</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; walking away wastes the chance to align concepts.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#business-communication\">Business Communication – Translation</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; textbooks alone seldom bridge the conceptual gap.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#business-communication\">Business Communication – Translation</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q049",
+      "question": "Which summary best captures the module’s main takeaway?",
+      "options": {
+        "A": "Claims that damages always come first.",
+        "B": "Claims that civil-law partners expect honest performance, good-faith care, and enforced delivery before damages enter the picture.",
+        "C": "Claims that trusts run civil codes.",
+        "D": "Claims that grace periods are never needed."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; damages are secondary.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#closing-summary\">Module Summary</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Correct option A: the closing summary stresses honest performance, active good faith, and enforced delivery before damages come into play.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#closing-summary\">Module Summary</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option C is incorrect; trust structures are not central to this module.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#closing-summary\">Module Summary</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; grace periods generally form part of the process.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#closing-summary\">Module Summary</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M4-Q050",
+      "question": "What should a simple action checklist for your team include after studying this module?",
+      "options": {
+        "A": "Claims that a reminder to rely on unwritten equity.",
+        "B": "Claims that a plan to avoid documenting negotiations.",
+        "C": "Claims that a note that good faith is optional.",
+        "D": "Claims that steps to explain terms clearly, monitor performance, prepare Nachfrist letters, and translate concepts for civil-law partners."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Option A is incorrect; relying on equity language confuses civil-law teams.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-checklist\">Action Checklist</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Option B is incorrect; documentation is part of good-faith compliance.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-checklist\">Action Checklist</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Option D is incorrect; the notes repeatedly stress that good faith is compulsory.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-checklist\">Action Checklist</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Correct option C: the module recommends practical steps—clear explanations, performance monitoring, Nachfrist templates, and translation of concepts for civil-law partners.",
+            "note_link": "<a href=\"../Notes/csk5-module4.html#good-faith-checklist\">Action Checklist</a>"
+          }
+        }
+      }
+    }
+  ]
+}

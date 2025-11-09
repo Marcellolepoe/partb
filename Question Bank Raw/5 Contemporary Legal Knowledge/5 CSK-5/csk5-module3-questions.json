@@ -1,0 +1,1755 @@
+{
+  "module": "CSK-5 Module 3: Delictual Liability & Comparative Torts",
+  "questions": [
+    {
+      "id": "CSK5-M3-Q001",
+      "question": "Which triad of elements must a French claimant prove to establish delictual liability under Articles 1240 and 1241 of the Code civil, as outlined in the notes?",
+      "options": {
+        "A": "Claims that damage and causation, because French delictual liability is strict.",
+        "B": "Claims that fault and damage only; causation is presumed once damage is shown.",
+        "C": "Claims that fault and a causal link; damage is inferred from the breach itself.",
+        "D": "Claims that fault, damage, and a causal link connecting the two."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "French tort is fault-based, so damage and causation without fault do not suffice.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-elements\">French Delict – Elements</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes emphasise that French claimants must affirmatively prove fault, damage, and causation; no element is presumed from the others.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-elements\">French Delict – Elements</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Damage is an independent requirement; it is not inferred automatically from fault plus causation.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-elements\">French Delict – Elements</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Articles 1240 and 1241 require proof of fault (intentional or negligent), compensable damage, and the causal nexus connecting them.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-elements\">French Delict – Elements</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q002",
+      "question": "How do the notes characterise the notion of \"fault\" within French delictual liability?",
+      "options": {
+        "A": "Claims that fault is confined to intentional wrongdoing.",
+        "B": "Claims that fault encompasses deliberate acts as well as reckless or negligent conduct.",
+        "C": "Claims that fault arises only where a statute expressly defines the wrongful act.",
+        "D": "Claims that fault is limited to omissions where a contractual duty exists."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 1241 extends liability beyond intentional acts to imprudence and negligence.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-fault\">French Delict – Scope of Fault</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes explain that French courts treat deliberate acts, recklessness, and negligence alike as actionable fault.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-fault\">French Delict – Scope of Fault</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Fault can stem from judge-made obligations as well as statutes.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-fault\">French Delict – Scope of Fault</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Fault may arise from acts or omissions and is not confined to contractual duties.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-fault\">French Delict – Scope of Fault</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q003",
+      "question": "According to the notes, who bears the burden of proving the French delictual elements of fault, damage, and causation?",
+      "options": {
+        "A": "Claims that the claimant must prove all three elements.",
+        "B": "Claims that the judge investigates fault while the claimant proves damage and causation.",
+        "C": "Claims that the defendant must disprove each element once sued.",
+        "D": "Claims that burden of proof alternates after each procedural stage."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes highlight that claimants must establish fault, damage, and causation to satisfy Articles 1240 and 1241.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-burden\">French Delict – Burden of Proof</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Judges do not assume an inquisitorial role that relieves the claimant of proving fault.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-burden\">French Delict – Burden of Proof</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "French civil procedure does not reverse the burden merely on filing.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-burden\">French Delict – Burden of Proof</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "There is no alternating burden; it remains on the claimant.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-burden\">French Delict – Burden of Proof</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q004",
+      "question": "When can an omission amount to a delictual \"fault\" in French law, according to the notes?",
+      "options": {
+        "A": "Claims that only when a contract expressly imposes the duty to act.",
+        "B": "Claims that whenever a judge considers the omission morally blameworthy, even without legal basis.",
+        "C": "Claims that where a statutory or jurisprudential obligation to act has been recognised and the defendant fails to satisfy it.",
+        "D": "Claims that never; French delictual liability is limited to positive acts."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "French courts can identify duties to act beyond contractual relationships when recognised by law or jurisprudence.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-omissions\">French Delict – Omissions</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes stress that omissions must breach an identified legal obligation, not merely moral disapproval.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-omissions\">French Delict – Omissions</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Duties such as rescue obligations or workplace safety standards, when recognised, convert omissions into actionable fault.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-omissions\">French Delict – Omissions</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "French law does allow omissions to ground liability when a legal duty to act exists.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-omissions\">French Delict – Omissions</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q005",
+      "question": "What doctrinal point does the Branly decision illustrate in the French law of delictual omissions?",
+      "options": {
+        "A": "Claims that it confirmed that omissions cannot support damages for reputational harm.",
+        "B": "Claims that courts refused to recognise omissions unless a statute imposed the duty.",
+        "C": "Claims that the case abolished delictual liability for publications about history.",
+        "D": "Claims that courts accepted that a wrongful omission could trigger liability even without an explicit statutory command."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Branly supports damages for reputational harm arising from wrongful omissions.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-branly\">French Delict – Branly Illustration</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Branly is cited precisely because the court recognised liability despite the absence of statute.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-branly\">French Delict – Branly Illustration</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Liability for historical publications was confirmed, not abolished.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-branly\">French Delict – Branly Illustration</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The decision shows judges treating the omission to credit an inventor as actionable fault based on jurisprudential duties.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-branly\">French Delict – Branly Illustration</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q006",
+      "question": "What policy role does the French principle of non-concurrence of actions play?",
+      "options": {
+        "A": "Claims that it allows tort and contract remedies to be pursued cumulatively for the same breach.",
+        "B": "Claims that it confines liability within contractual frameworks where a contract exists, preventing the general tort clause from displacing negotiated rules.",
+        "C": "Claims that it abolishes contractual damages in favour of delictual compensation.",
+        "D": "Claims that it limits delictual claims to cases involving consumers."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Non-concurrence prevents cumulative tort and contract actions for the same contractual breach.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes stress that contractual disputes must remain within contract law to stop Articles 1240/1241 from overwhelming specialised regimes.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Contractual damages remain available; the doctrine simply preserves their primacy.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The rule is not limited to consumer disputes; it applies broadly to contracts.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q007",
+      "question": "A French supplier fails to deliver goods under a sales contract. According to the notes, which remedial avenue should the buyer pursue first?",
+      "options": {
+        "A": "Claims that invoke contractual liability, because non-concurrence reserves tort claims for non-contractual situations.",
+        "B": "Claims that file simultaneously in tort and contract to maximise damages.",
+        "C": "Claims that bring an immediate delictual claim under Article 1240.",
+        "D": "Claims that sue in delict only if the seller acted intentionally."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes instruct that the buyer must rely on contract law first; tort is reserved for external relationships.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-contract-interplay\">French Delict – Contractual Interplay</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Simultaneous tort and contract actions contravene the non-concurrence principle.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-contract-interplay\">French Delict – Contractual Interplay</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Channel breaches within a contractual relationship into contract remedies.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-contract-interplay\">French Delict – Contractual Interplay</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Intentional breach does not displace the primacy of contractual remedies within contracts.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-contract-interplay\">French Delict – Contractual Interplay</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q008",
+      "question": "Which systemic concern does the French principle of non-concurrence address, according to the notes?",
+      "options": {
+        "A": "Claims that that causation would become impossible to prove if tort and contract overlapped.",
+        "B": "Claims that that negligence would become the sole basis for liability.",
+        "C": "Claims that that the broad delictual clause would otherwise swallow contract-specific liability rules.",
+        "D": "Claims that that judges would refuse to grant moral damages in contractual suits."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The issue is structural, not evidential; it concerns preserving specialised contract regimes.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The doctrine does not narrow liability bases to negligence alone.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes warn that without non-concurrence the general tort clause could eclipse contract law for contractual breaches.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Moral damages are not the driver of the policy highlighted.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q009",
+      "question": "Which sequence best captures the German requirements for delictual liability set out in the notes?",
+      "options": {
+        "A": "Claims that proof of bad faith plus damage and causation.",
+        "B": "Claims that fault, damage, and causation, irrespective of the nature of the right infringed.",
+        "C": "Claims that strict liability whenever property is damaged, irrespective of fault.",
+        "D": "Claims that an unlawful infringement of an absolute right, culpability, loss, and a causal link."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Bad faith is not the governing test; the focal point is interference with enumerated rights.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "German law ties liability to unlawful interference with absolute rights, not just fault and loss.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "German delict remains fault-based; strict liability is the exception.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The notes list unlawful infringement of an absolute right, fault, loss (including economic loss), and causation as cumulative requirements.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q010",
+      "question": "Which of the following interests qualifies as an \"absolute right\" protected under German delict law, per the notes?",
+      "options": {
+        "A": "Claims that a customer's expectation to receive a loyalty discount under a contract.",
+        "B": "Claims that a person's bodily integrity.",
+        "C": "Claims that a supplier's expectation that a counterparty will negotiate in good faith.",
+        "D": "Claims that a commercial opportunity to attract new investors."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Contractual expectations are relative rights enforceable only inter partes.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Life, body, health, freedom, property, and analogous interests are enumerated absolute rights.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Negotiation expectations are relational duties, not rights enforceable erga omnes.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Commercial opportunities fall outside the closed list of absolute rights.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q011",
+      "question": "Which constellation of circumstances can create a duty to act for omissions liability under German delict law?",
+      "options": {
+        "A": "Claims that a prior creation of risk, a dangerous state of affairs under the defendant’s control, or comparable sources of danger.",
+        "B": "Claims that a contractual relationship, regardless of the subject matter.",
+        "C": "Claims that any moral expectation that a bystander should intervene.",
+        "D": "Claims that a mere friendship with the victim, even without creating any risk."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Duties arise where the defendant created the risk or controls a dangerous situation such as a hazardous premise or object.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Contracts impose duties inter partes but do not automatically generate erga omnes delict duties.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Mere morality is insufficient; the notes require legally recognised duties tied to risk creation or control.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Friendship alone does not create the legal duty to act recognised by German delict law.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q012",
+      "question": "A homeowner keeps poisonous snakes in a terrarium that escapes due to negligence. Under the German framework in the notes, why does a duty to act arise?",
+      "options": {
+        "A": "Claims that german law imposes a universal duty to rescue strangers regardless of circumstances.",
+        "B": "Claims that omissions liability requires proof of contractual privity with the victim.",
+        "C": "Claims that maintaining a dangerous source creates a duty to prevent harm when control is lost.",
+        "D": "Claims that any pet ownership automatically triggers strict liability."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "German law does not recognise a general rescue duty absent specific risk creation or control.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "No contractual relationship is required when the duty stems from managing a dangerous condition.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes list dangerous installations like animal enclosures as sources triggering duties to act when harm threatens.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Strict liability is not the baseline; the duty arises from controlling a hazard.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q013",
+      "question": "How do the notes treat economic loss within the German delictual framework?",
+      "options": {
+        "A": "Claims that economic loss is compensable only if expressly agreed in writing.",
+        "B": "Claims that pure economic loss is never compensable under German delict law.",
+        "C": "Claims that economic loss is compensable only when the parties are in a contract.",
+        "D": "Claims that loss includes economic damage provided it follows from the unlawful interference with an absolute right."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Written agreements are irrelevant to delictual recovery of economic loss.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes specify that loss encompasses economic harm once an absolute right has been infringed.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Contractual context is not a precondition for delict recovery once the absolute right requirement is met.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Economic consequences are recoverable so long as the initial threshold—unlawful interference with an absolute right—is satisfied.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q014",
+      "question": "Why do the notes emphasise the distinction between absolute and relative rights in German delictual liability?",
+      "options": {
+        "A": "Claims that relative rights automatically grant tort claims against everyone.",
+        "B": "Claims that only rights enforceable erga omnes can ground delictual claims, whereas relative rights are confined to specific relationships.",
+        "C": "Claims that german law lacks contractual remedies for relative rights.",
+        "D": "Claims that absolute rights require no proof of damage."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Relative rights bind specific parties and cannot support delict claims against third parties.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The German model protects rights enforceable against the world; contractual rights remain within contract law.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Contract law provides remedies for relative rights; the distinction allocates the proper legal avenue.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Damage must still be proven even when an absolute right is infringed.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q015",
+      "question": "Which example best fits the German category of \"another right\" in the delict framework?",
+      "options": {
+        "A": "Claims that a legally protected personality right worth safeguarding to the same degree as life, body, health, freedom, or property.",
+        "B": "Claims that a tenant’s contractual right to receive repairs from the landlord.",
+        "C": "Claims that a trader’s expectation of future profits from a tentative investor.",
+        "D": "Claims that a customer’s loyalty points under a private rewards scheme."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes refer to a mini-general clause capturing personality rights worthy of protection equivalent to enumerated absolute rights.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Contractual rights are relative and are handled within contract law.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Prospective profits without protected rights fall outside the catch-all category.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Loyalty points derive from contract and are not erga omnes rights.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q016",
+      "question": "In the German test, what makes the infringement of an absolute right \"unlawful\"?",
+      "options": {
+        "A": "Claims that any breach of a contractual term, even if justified.",
+        "B": "Claims that an omission to rescue strangers in all circumstances.",
+        "C": "Claims that an interference lacking legal justification, such as self-defence or consent.",
+        "D": "Claims that any act that causes emotional upset."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Contract breaches are assessed under contract law unless they also unlawfully interfere with absolute rights.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "German delict law does not impose an all-purpose rescue obligation.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes emphasise that interference must be without legal justification to satisfy the delict requirement.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Emotional distress alone does not make interference unlawful absent absolute right infringement.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q017",
+      "question": "How do contractual and delictual duties relate in the German system, according to the notes?",
+      "options": {
+        "A": "Claims that contractual duties are enforced only through delict claims.",
+        "B": "Claims that contractual duties displace delictual duties entirely.",
+        "C": "Claims that delict duties always override contractual risk allocations.",
+        "D": "Claims that they coexist, but each follows its own rules, with delict focusing on absolute rights and contract on agreed obligations."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Contractual obligations are enforceable within contract law without resorting to delict.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes state that contractual and delict duties coexist rather than supplant each other.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Delict does not automatically override contractual allocations of risk.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Contract addresses relative rights while delict protects absolute rights; both regimes operate in parallel.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q018",
+      "question": "Which comparison in the notes best explains why the German delictual approach is narrower than the French model?",
+      "options": {
+        "A": "Claims that german law excludes omissions, whereas French law includes them.",
+        "B": "Claims that german law requires infringement of absolute rights, whereas French law relies on a broad fault clause subject to non-concurrence.",
+        "C": "Claims that german law imposes strict liability, whereas French law requires negligence.",
+        "D": "Claims that german law lacks causation requirements, whereas French law demands causation."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "German law recognises omissions when duties to act exist; the difference lies elsewhere.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes contrast Germany’s absolute-rights threshold with France’s broad fault clause managed through non-concurrence.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Neither system defaults to strict liability; both require fault subject to their frameworks.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Both systems require causation; the distinction lies in the rights threshold.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q019",
+      "question": "What does Japanese Civil Code Article 709, as summarised in the notes, require for delictual liability?",
+      "options": {
+        "A": "Claims that intentional or negligent infringement of another’s rights or legally protected interests causing damage.",
+        "B": "Claims that strict liability for any injury regardless of fault.",
+        "C": "Claims that intentional infringement of enumerated absolute rights only.",
+        "D": "Claims that only negligent acts that interfere with property rights."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The provision explicitly references intentional or negligent infringement of rights or legally protected interests.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-709\">Japanese Delict – Article 709</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Fault remains a prerequisite under Article 709.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-709\">Japanese Delict – Article 709</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Article 709 covers negligent conduct and extends beyond enumerated absolute rights.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-709\">Japanese Delict – Article 709</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The article is not limited to property; it covers any legally protected interest.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-709\">Japanese Delict – Article 709</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q020",
+      "question": "What additional protection does Japanese Civil Code Article 710 provide, according to the notes?",
+      "options": {
+        "A": "Claims that it restricts compensation to property damage only.",
+        "B": "Claims that it limits damages to contractual parties.",
+        "C": "Claims that it entitles victims to recover damages beyond property loss, including non-pecuniary harm to body, liberty, or reputation.",
+        "D": "Claims that it introduces punitive damages for intentional torts."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 710 expressly extends recovery beyond property losses.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-710\">Japanese Delict – Article 710</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The article applies irrespective of contractual privity.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-710\">Japanese Delict – Article 710</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes highlight that non-pecuniary harms such as bodily or reputational injury are compensable under Article 710.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-710\">Japanese Delict – Article 710</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Punitive damages are not introduced by Article 710.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-710\">Japanese Delict – Article 710</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q021",
+      "question": "How do Japanese courts tend to apply Articles 709 and 710 in practice, per the notes?",
+      "options": {
+        "A": "Claims that they impose strict liability without fault.",
+        "B": "Claims that they follow the text literally, adopting a French-style broad fault clause.",
+        "C": "Claims that they disregard both provisions and rely on equity principles.",
+        "D": "Claims that they interpret the provisions in line with the German tradition, effectively requiring similar thresholds to absolute rights."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Fault remains central in Japanese practice.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes caution that despite broad wording, application mirrors the German approach.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Equity principles are not the primary basis cited in the notes.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Japanese courts tend to align outcomes with the German model, requiring demonstrable legally protected interests akin to absolute rights.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q022",
+      "question": "What practical takeaway do the notes draw for advisers dealing with Japanese delict claims?",
+      "options": {
+        "A": "Claims that expect the courts to grant claims even without showing interference with a legally protected interest.",
+        "B": "Claims that prepare to demonstrate that the claimant’s interest is legally protected in a manner similar to the German concept of absolute rights.",
+        "C": "Claims that focus solely on moral arguments because Japanese courts reject legal formalism.",
+        "D": "Claims that assume all economic losses are unrecoverable."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The German-influenced application means protected interests must be identified.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Advisers should frame claims around legally protected interests akin to absolute rights.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The notes emphasise structured legal analysis, not purely moral appeals.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Economic losses can be recoverable once the threshold interest is established.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q023",
+      "question": "What is the key effect of PRC Civil Code Article 1165, as described in the notes?",
+      "options": {
+        "A": "Claims that it establishes fault-based tort liability and presumes fault when legal provisions so provide unless the defendant proves otherwise.",
+        "B": "Claims that it limits tort liability to property damage only.",
+        "C": "Claims that it imposes strict liability for all harm irrespective of fault.",
+        "D": "Claims that it abolishes tort claims for violations of civil rights."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes highlight the fault presumption where law so provides unless the defendant rebuts it.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The article is not limited to property damage.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Fault remains central, though certain statutes may shift burdens.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Article 1165 affirms, rather than abolishes, tort claims.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q024",
+      "question": "What right does PRC Civil Code Article 120 confer on victims?",
+      "options": {
+        "A": "Claims that only contractual parties may seek relief.",
+        "B": "Claims that victims are limited to moral compensation.",
+        "C": "Claims that victims may request that the tortfeasor assume tort liability when civil rights or interests are infringed.",
+        "D": "Claims that victims may request punitive damages without showing harm."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 120 is not confined to contractual relationships.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-120\">Chinese Delict – Article 120</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The article does not limit relief to moral compensation.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-120\">Chinese Delict – Article 120</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The provision affirms the victim’s entitlement to demand tort liability for infringements of civil rights or interests.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-120\">Chinese Delict – Article 120</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Punitive damages are not addressed in the noted provision.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-120\">Chinese Delict – Article 120</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q025",
+      "question": "How do the notes suggest identifying actionable interests under the PRC Civil Code?",
+      "options": {
+        "A": "Claims that only contractual entitlements fall under civil rights.",
+        "B": "Claims that only property rights qualify as civil rights.",
+        "C": "Claims that civil rights are left entirely to judicial discretion without statutory guidance.",
+        "D": "Claims that chapter V enumerates civil rights such as life, health, and property, guiding the analysis of protected interests."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Contractual entitlements are not the sole focus of the civil rights chapter.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-civil-rights\">Chinese Delict – Civil Rights Catalogue</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes cite Chapter V, which includes personal rights like life and health.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-civil-rights\">Chinese Delict – Civil Rights Catalogue</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The code supplies guidance; it is not purely discretionary.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-civil-rights\">Chinese Delict – Civil Rights Catalogue</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Chapter V (Articles 109–132) enumerates civil rights, providing a statutory map for tort analysis.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-civil-rights\">Chinese Delict – Civil Rights Catalogue</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q026",
+      "question": "Why do the notes say that China and Taiwan prefer the German approach to delict?",
+      "options": {
+        "A": "Claims that they abolished fault as a basis for liability.",
+        "B": "Claims that because, despite statutory wording, their practice focuses on infringements of enumerated civil rights akin to German absolute rights.",
+        "C": "Claims that they adopt the French non-concurrence principle verbatim.",
+        "D": "Claims that they rely exclusively on moral obligations."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Fault remains a foundation of liability in both jurisdictions.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-asia-german-influence\">Asian Delict – German Influence</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes indicate that China and Taiwan, like Japan, apply their statutes in a manner reminiscent of the German rights-based threshold.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-asia-german-influence\">Asian Delict – German Influence</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Non-concurrence is a French doctrinal response, not a defining feature of the Chinese or Taiwanese systems.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-asia-german-influence\">Asian Delict – German Influence</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The application is grounded in statutory civil rights, not solely moral duties.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-asia-german-influence\">Asian Delict – German Influence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q027",
+      "question": "When advising on Taiwanese tort claims, what approach do the notes recommend?",
+      "options": {
+        "A": "Claims that map the claimant’s harm to a civil right or interest recognised by the code, mirroring the German-influenced approach.",
+        "B": "Claims that assume that only intentional acts are actionable.",
+        "C": "Claims that treat the system as purely French and rely on broad fault language without identifying protected interests.",
+        "D": "Claims that argue primarily from equitable considerations."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Practitioners should identify the protected civil right or interest to align with Taiwanese practice.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-asia-german-influence\">Asian Delict – German Influence</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Negligence remains actionable.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-asia-german-influence\">Asian Delict – German Influence</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The notes suggest Taiwan follows the German line despite statutory wording.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-asia-german-influence\">Asian Delict – German Influence</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Equity arguments are not the primary analytical tool highlighted in the notes.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-asia-german-influence\">Asian Delict – German Influence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q028",
+      "question": "Which jurisdictions does the notes identify as applying a German-influenced approach despite broad statutory language?",
+      "options": {
+        "A": "Claims that brazil, Argentina, Chile, and Peru.",
+        "B": "Claims that france, Belgium, Spain, and Italy.",
+        "C": "Claims that japan, South Korea, China, and Taiwan.",
+        "D": "Claims that england, Wales, Scotland, and Ireland."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes do not cover South American jurisdictions in this module.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-asia-german-influence\">Asian Delict – German Influence</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "These civil-law jurisdictions have their own approaches but are not highlighted in the notes as German-influenced in this context.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-asia-german-influence\">Asian Delict – German Influence</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes explicitly mention Japan, South Korea, China, and Taiwan as following German practice.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-asia-german-influence\">Asian Delict – German Influence</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "These are common-law jurisdictions, outside the scope of the discussion.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-asia-german-influence\">Asian Delict – German Influence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q029",
+      "question": "Which statement best captures the contrast drawn in the notes between French and German delict law in contractual settings?",
+      "options": {
+        "A": "Claims that france imposes strict liability in contracts, whereas Germany does not.",
+        "B": "Claims that france directs contractual breaches into tort, while Germany confines them strictly to contract.",
+        "C": "Claims that germany abolishes contractual remedies once delict is available, unlike France.",
+        "D": "Claims that france relies on non-concurrence to keep tort and contract separate, whereas Germany requires the threshold of absolute rights so contract and delict can run in parallel without overlap."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The contrast does not turn on strict liability.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "France prevents contract breaches from defaulting into tort via non-concurrence; Germany does not need such a doctrine because of the absolute-rights filter.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "German law preserves contractual remedies even when delict applies.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The notes highlight that France polices overlap through non-concurrence, while Germany’s rights threshold naturally confines delict without barring contractual claims.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q030",
+      "question": "A passer-by in France ignores a drowning stranger despite a statutory duty to rescue. Which outcome aligns with the notes?",
+      "options": {
+        "A": "Claims that no liability because omissions are never actionable in France.",
+        "B": "Claims that potential delictual liability because failure to act breached a recognised duty to rescue.",
+        "C": "Claims that automatic contractual liability.",
+        "D": "Claims that strict criminal liability only, with no civil consequence."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "French courts recognise omissions where legal duties to act exist.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-omissions\">French Delict – Omissions</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes cite statutory rescue duties as examples of actionable omissions.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-omissions\">French Delict – Omissions</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "There is no contract between the passer-by and the victim.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-omissions\">French Delict – Omissions</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Civil liability can arise alongside any criminal sanction.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-omissions\">French Delict – Omissions</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q031",
+      "question": "An employer in France neglects workplace safety leading to injury. Which delictual principle applies per the notes?",
+      "options": {
+        "A": "Claims that the recognised duty to ensure workplace safety converts the omission into actionable fault.",
+        "B": "Claims that liability only arises if the employee proves intentional misconduct.",
+        "C": "Claims that no liability because workplace safety is purely contractual.",
+        "D": "Claims that the case must be brought in delict and cannot involve contractual concepts."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Failure to fulfil recognised safety duties constitutes fault under Articles 1240/1241.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-omissions\">French Delict – Omissions</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Negligence suffices to establish fault.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-fault\">French Delict – Scope of Fault</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The notes cite workplace safety duties as examples of actionable omissions beyond contract.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-omissions\">French Delict – Omissions</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Contractual and tortious analyses may both be relevant; non-concurrence navigates overlap.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q032",
+      "question": "A German bystander who neither created nor controls a danger refuses to help an injured stranger. What do the notes suggest?",
+      "options": {
+        "A": "Claims that they incur delict liability because Germany imposes a universal rescue duty.",
+        "B": "Claims that they incur strict liability regardless of fault.",
+        "C": "Claims that they do not incur delict liability absent a created risk or control over the danger.",
+        "D": "Claims that they are automatically liable under contract principles."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "German omissions liability is limited to situations involving risk creation or control.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Fault-based duties remain the foundation of liability.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Without a recognised duty to act, no delict liability attaches to mere bystanders.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "No contract exists with the injured stranger.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q033",
+      "question": "A German homeowner leaves an unfenced pool that poses a danger to passers-by. Which outcome accords with the notes?",
+      "options": {
+        "A": "Claims that liability occurs only if a contract exists with the injured party.",
+        "B": "Claims that no liability because pools are common household features.",
+        "C": "Claims that liability depends solely on whether the homeowner intended harm.",
+        "D": "Claims that liability can arise because maintaining a dangerous state of affairs creates a duty to act."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The duty is erga omnes and not contingent on contract.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes list pools as potential sources of danger triggering duties.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Negligent control of the hazard suffices.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Control over a dangerous state imposes duties to prevent harm.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q034",
+      "question": "How do the notes distinguish the absolute rights of body and health under German delict law?",
+      "options": {
+        "A": "Claims that body refers to the inner functioning while health refers to external injuries.",
+        "B": "Claims that body covers direct physical interference, while health encompasses externally caused malfunctions of the inner body, including psychiatric injury.",
+        "C": "Claims that body covers emotional distress and health covers economic loss.",
+        "D": "Claims that body and health are synonymous in the German framework."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes reverse this: body relates to external interference, health to functional impacts.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Body protects against direct interference; health captures external causes disrupting internal functioning.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Emotional distress may implicate health, not body; economic loss is separate.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The notes treat them as distinct categories.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q035",
+      "question": "Which statement about the absolute right of freedom in German delict law matches the notes?",
+      "options": {
+        "A": "Claims that freedom is interpreted restrictively to protect liberty and freedom of movement.",
+        "B": "Claims that freedom automatically covers privacy interests in all contexts.",
+        "C": "Claims that freedom covers any personal expectation, including professional advancement.",
+        "D": "Claims that freedom is limited to contractual freedom."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Freedom concerns interference with personal liberty of movement.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Privacy may fall under other rights but is not automatically covered by freedom as described.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The notes limit freedom to liberty of movement, not general expectations.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Contractual freedom is not the focus of this absolute right.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q036",
+      "question": "How does the notes’ analysis of French delict law explain the need for non-concurrence?",
+      "options": {
+        "A": "Claims that the tort clause is so narrow that contract must supplement it.",
+        "B": "Claims that delict law lacks causation requirements.",
+        "C": "Claims that the broad fault clause would otherwise allow most breaches of contract to be recharacterised as torts, undermining contractual specificity.",
+        "D": "Claims that contract law in France has no remedies."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The issue is the breadth, not narrowness, of the tort clause.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Causation is required in French delict law.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-elements\">French Delict – Elements</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Non-concurrence prevents the general fault clause from eclipsing contracts by providing a boundary.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "French contract law remains robust; non-concurrence preserves its field.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q037",
+      "question": "Which statement about reputational harm aligns with the comparative notes?",
+      "options": {
+        "A": "Claims that chinese law prohibits compensation for reputational harm under Article 120.",
+        "B": "Claims that french courts refuse to recognise reputational harm in delict.",
+        "C": "Claims that german law excludes reputational harm from the concept of health.",
+        "D": "Claims that french courts can award damages for reputational harm when wrongful omissions like in Branly occur."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 120 allows victims to demand tort liability for infringed civil rights, which may include reputation.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-120\">Chinese Delict – Article 120</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Branly demonstrates liability for reputational harm.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-branly\">French Delict – Branly Illustration</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Health can encompass psychiatric injuries arising from external causes.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-absolute-rights\">German Delict – Absolute Rights</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The omission to credit Branly led to reputational harm recognised as actionable fault.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-branly\">French Delict – Branly Illustration</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q038",
+      "question": "Which comparative insight do the notes provide about advising a common-law client engaging in civil-law jurisdictions?",
+      "options": {
+        "A": "Claims that emphasise equitable arguments because civil-law courts prioritise them.",
+        "B": "Claims that translate contractual obligations into the host system’s framework—relying on non-concurrence in France or absolute-right analysis in Germany and German-influenced jurisdictions.",
+        "C": "Claims that assume delict law is identical across civil-law jurisdictions.",
+        "D": "Claims that focus solely on criminal liability because civil remedies are rare."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Civil-law systems highlighted rely on codes rather than equity rhetoric.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes recommend tailoring analysis to the specific doctrinal guardrails of each system.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Approaches vary markedly between France and German-influenced jurisdictions.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Civil remedies are central to the discussion; criminal law is ancillary here.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q039",
+      "question": "A claimant in Japan seeks non-pecuniary damages for reputational harm caused by negligent false statements. Which factor is decisive under the notes?",
+      "options": {
+        "A": "Claims that whether Article 710 applies to reputation alongside property interests.",
+        "B": "Claims that whether the claimant can show strict liability.",
+        "C": "Claims that whether the defendant breached an equitable duty.",
+        "D": "Claims that whether the harm occurred within a contract."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Article 710 expressly extends damages to injuries beyond property, including reputation.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-710\">Japanese Delict – Article 710</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Fault, not strict liability, is required under Article 709.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-709\">Japanese Delict – Article 709</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The analysis is statutory rather than equitable.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Delict claims can arise outside contractual relationships.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-709\">Japanese Delict – Article 709</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q040",
+      "question": "Which statement about economic loss recovery in Chinese tort law matches the notes?",
+      "options": {
+        "A": "Claims that economic loss is unrecoverable because only physical harm is compensable.",
+        "B": "Claims that economic loss is recoverable only within contracts.",
+        "C": "Claims that economic loss is recoverable when it stems from fault-based infringement of civil rights or interests.",
+        "D": "Claims that economic loss requires proof of punitive intent."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes do not limit recovery to physical harm.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Tort claims exist apart from contracts.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Fault-based infringement of civil rights can encompass economic loss.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Punitive intent is not a prerequisite under Article 1165.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q041",
+      "question": "In the German approach, what must accompany interference with an absolute right to ground liability, per the notes?",
+      "options": {
+        "A": "Claims that a contractual breach.",
+        "B": "Claims that proof of unlawful interference only; fault is unnecessary.",
+        "C": "Claims that proof of punitive intent.",
+        "D": "Claims that both fault (intent or negligence) and loss causally linked to the interference."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Delict claims do not require a contractual breach.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Fault remains a required element.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Punitive intent is not necessary.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Fault and loss must accompany the unlawful interference to complete the delict.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q042",
+      "question": "What happens if a Chinese defendant cannot rebut the statutory presumption of fault referenced in Article 1165?",
+      "options": {
+        "A": "Claims that the defendant escapes liability because presumptions are unenforceable.",
+        "B": "Claims that the defendant is deemed at fault and must bear tort liability for the harm caused to the civil right or interest.",
+        "C": "Claims that the court must dismiss the claim until criminal liability is established.",
+        "D": "Claims that the burden shifts back to the claimant automatically."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Statutory presumptions are enforceable unless rebutted.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Failure to rebut the presumption results in liability under the fault-based framework.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Criminal proceedings are not a precondition to civil liability.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The presumption remains until rebutted; it does not automatically shift back.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q043",
+      "question": "Which comparative statement about omissions aligns with the notes?",
+      "options": {
+        "A": "Claims that france may impose duties through statute or jurisprudence, Germany ties duties to risk creation or control, and Japan’s courts follow German-influenced analysis despite broad text.",
+        "B": "Claims that germany imposes universal rescue duties, unlike France.",
+        "C": "Claims that france, Germany, and Japan all impose identical duties to rescue strangers.",
+        "D": "Claims that japan ignores omissions altogether."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes detail statutory/jurisprudential duties in France, risk-based duties in Germany, and German-influenced interpretation in Japan.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Germany does not impose universal rescue duties.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-omissions\">German Delict – Omissions</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The systems adopt different triggers for omissions liability.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Japanese courts do consider omissions through the German-influenced lens.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q044",
+      "question": "Which example best illustrates the German requirement of causation between the unlawful interference and loss?",
+      "options": {
+        "A": "Claims that a claimant alleges violation of bodily integrity but cannot link the defendant’s act to the injury.",
+        "B": "Claims that a claimant claims damages without identifying any loss.",
+        "C": "Claims that a claimant proves an unlawful interference and shows the loss flowed from that interference.",
+        "D": "Claims that a claimant sues for loss unrelated to any interference with an absolute right."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Without causation, the claim fails under the German test.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Loss remains a required element.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Causation links the unlawful interference to the loss, completing the delict.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Loss without infringement of an absolute right does not satisfy the threshold.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-german-elements\">German Delict – Core Requirements</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q045",
+      "question": "How should a practitioner interpret the phrase \"legally protected interests\" in Japanese Article 709, according to the notes?",
+      "options": {
+        "A": "Claims that as moral expectations determined by the court.",
+        "B": "Claims that as a carte blanche to litigate any grievance.",
+        "C": "Claims that as purely contractual entitlements.",
+        "D": "Claims that as interests recognised by law in a manner comparable to the German absolute-right framework."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The phrase is not a mere moral benchmark but a legal one.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes caution that courts demand concrete legally protected interests.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Contractual entitlements alone do not exhaust the category.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-709\">Japanese Delict – Article 709</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Practitioners should align claims with legally recognised interests, reflecting German influence.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q046",
+      "question": "A Chinese claimant alleges an infringement of the civil right to health by negligent pollution. What must be shown under the notes?",
+      "options": {
+        "A": "Claims that only that pollution occurred; fault is irrelevant.",
+        "B": "Claims that fault (actual or presumed under Article 1165), infringement of the civil right to health, and resulting harm.",
+        "C": "Claims that that the defendant acted intentionally.",
+        "D": "Claims that that the claimant had a contract with the defendant."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Fault remains part of the analysis; presumptions only ease proof.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The claimant must link fault (actual or unrebutted presumption) to infringement of the health right and resulting harm.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-civil-rights\">Chinese Delict – Civil Rights Catalogue</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Negligence suffices.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Tort claims are independent of contract.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-china-1165\">Chinese Delict – Article 1165</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q047",
+      "question": "In advising a French counterparty, what caution do the notes provide regarding the breadth of the tort clause?",
+      "options": {
+        "A": "Claims that use non-concurrence to clarify when contractual remedies remain primary despite the broad tort wording.",
+        "B": "Claims that assume delict law is irrelevant because contract governs.",
+        "C": "Claims that expect the tort clause to override any contract automatically.",
+        "D": "Claims that recharacterise all breaches as delict for greater damages."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Advisers must structure arguments recognising that contract remains primary within its sphere.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Delict remains relevant for non-contractual relationships.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Non-concurrence prevents automatic override.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Deliberately repackaging contract breaches into tort is precisely what non-concurrence seeks to avoid.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q048",
+      "question": "Under Japanese practice, how should a claimant frame a delict claim involving environmental harm to increase success chances, per the notes?",
+      "options": {
+        "A": "Claims that by asserting moral outrage without citing legal interests.",
+        "B": "Claims that by relying on equity to fill statutory gaps.",
+        "C": "Claims that by identifying the specific legally protected interest (e.g., health) affected, mirroring the German-style requirement.",
+        "D": "Claims that by alleging strict liability irrespective of fault."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Courts look for legally protected interests, not moral rhetoric.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Equity is not the primary analytical tool referenced.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes advise aligning claims with recognised interests to fit the German-influenced analysis.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-application\">Japanese Delict – Practical Application</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Fault remains requisite under Article 709.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-japan-709\">Japanese Delict – Article 709</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q049",
+      "question": "A French contractor delivers goods late but without causing damage. Which statement reflects the notes’ guidance?",
+      "options": {
+        "A": "Claims that the buyer can only sue in criminal court.",
+        "B": "Claims that the buyer should sue in tort because delay automatically satisfies Articles 1240/1241.",
+        "C": "Claims that the buyer has no remedy because damage is absent.",
+        "D": "Claims that contract law remains the proper avenue due to non-concurrence, unless an independent delictual duty is breached."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Intentional breach does not displace the priority of contractual remedies within a contract.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-contract-interplay\">French Delict – Contractual Interplay</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Non-concurrence prevents tort recharacterisation of contractual delays.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Simultaneous tort and contract actions contradict the non-concurrence rule.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-contract-interplay\">French Delict – Contractual Interplay</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Contract remedies govern absent separate delictual duties.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-french-non-concurrence\">French Delict – Non-Concurrence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M3-Q050",
+      "question": "Which strategic insight do the notes provide for coordinating multi-jurisdictional disputes involving French and German (or German-influenced) parties?",
+      "options": {
+        "A": "Claims that treat both systems as identical to simplify pleadings.",
+        "B": "Claims that separate claims along the doctrinal boundaries: rely on non-concurrence in French matters and absolute-right analysis in German or German-influenced matters.",
+        "C": "Claims that avoid citing statutory provisions because courts prefer customs.",
+        "D": "Claims that prioritise punitive damages because civil-law courts award them readily."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes highlight substantive differences that must be respected.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Strategic alignment with each jurisdiction’s structural guardrails is the recommended approach.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The analysis is code-based, not custom-based.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Punitive damages are generally unavailable in the surveyed civil-law systems.",
+            "note_link": "<a href=\"../Notes/csk5-module3.html#delict-comparative-overview\">Delict – Comparative Overview</a>"
+          }
+        }
+      }
+    }
+  ]
+}

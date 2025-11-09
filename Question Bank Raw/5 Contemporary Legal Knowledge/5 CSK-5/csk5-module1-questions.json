@@ -1,0 +1,1755 @@
+{
+  "module": "CSK-5 Module 1: Civil Law Mentality, Sources & System Design",
+  "questions": [
+    {
+      "id": "CSK5-M1-Q001",
+      "question": "Which constellation of institutional traits most accurately characterises the civil law tradition outlined in the notes?",
+      "options": {
+        "A": "Claims that the model rests on large resident judiciaries, judge-controlled investigative procedure, denial of judicial law-making, and historically prestigious academic doctrine.",
+        "B": "Claims that the model rests on small itinerant judiciaries, adversarial procedure, judge-made law, and light academic influence.",
+        "C": "Claims that the model rests on jury-centric adjudication, equity-based remedies, and customary law as the primary legal source.",
+        "D": "Claims that the model rests on purely codified criminal law with courts filling gaps solely through precedent."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes emphasise large resident judiciaries, judge-driven procedure, rejection of judicial law-making, and the prominence of scholarly doctrine as hallmark traits of the civil law mentality.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-tradition-features\">Civil Law Tradition – Core Features</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Civil law systems feature resident professional judges, inquisitorial management of procedure, and doctrinal influence, not the itinerant adversarial model described here.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-tradition-features\">Civil Law Tradition – Core Features</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Jury trials, equity, and custom as primary law are common-law characteristics, not the codified civil law mentality discussed.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-tradition-features\">Civil Law Tradition – Core Features</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Civil law codes regulate private, penal, and procedural spheres broadly; courts interpret codes but do not rely primarily on precedent to fill gaps as in common law.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-tradition-features\">Civil Law Tradition – Core Features</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q002",
+      "question": "Why do civil law jurisdictions emphasise resident professional judiciaries and judge-managed procedure?",
+      "options": {
+        "A": "Claims that juries decide most factual issues and judges simply instruct them on the law.",
+        "B": "Claims that judges can routinely decline to apply the code in favour of equitable outcomes.",
+        "C": "Claims that supports an inquisitorial process in which judges actively gather and test evidence instead of relying on party-led adversarial contests.",
+        "D": "Claims that civil law constitutions mandate that all hearings occur without any written records."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Civil trials are not jury-dominant contests; judges lead the inquiry and evaluate evidence directly.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#judge-controlled-procedure\">Judge-Controlled Procedure – Investigative Orientation</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Judges are tasked with articulating and applying codified law, not routinely overriding it on equitable discretion.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#denial-judicial-law-making\">Denial of Judicial Law-Making</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Resident judges run inquisitorial proceedings, shaping evidence collection and analysis rather than leaving proof entirely to parties as in adversarial systems.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#judge-controlled-procedure\">Judge-Controlled Procedure – Investigative Orientation</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Civil procedure is record-heavy; written dossiers underpin the investigative fact-finding model rather than being prohibited.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#judge-controlled-procedure\">Judge-Controlled Procedure – Investigative Orientation</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q003",
+      "question": "What is the civil law stance on judicial law-making as articulated in the notes?",
+      "options": {
+        "A": "Claims that courts freely develop new rules whenever codes are silent, creating binding precedent.",
+        "B": "Claims that judges must defer to foreign jurisprudence to fill domestic gaps.",
+        "C": "Claims that only constitutional courts may interpret the code; ordinary courts execute factual findings without legal reasoning.",
+        "D": "Claims that judges are constrained to articulate and apply existing law; legislative supremacy and codification deny courts a primary law-making role."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Civil law systems prioritise codes and legislative supremacy, limiting the scope for courts to craft binding new doctrines.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#denial-judicial-law-making\">Denial of Judicial Law-Making</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The methodology stresses domestic codes and doctrine; foreign precedent is not a default gap-filling tool.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-tradition-features\">Civil Law Tradition – Core Features</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Ordinary courts do interpret codes; the notes discuss their analytical role rather than relegating them to fact-finding alone.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-tradition-features\">Civil Law Tradition – Core Features</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Montesquieu’s influence frames judges as mouthpieces of the legislator tasked with applying articulated norms rather than generating new primary rules.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#denial-judicial-law-making\">Denial of Judicial Law-Making</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q004",
+      "question": "Why does the civil law tradition accord particular authority to academic writers (‘la doctrine’)?",
+      "options": {
+        "A": "Claims that professors issue binding administrative decrees that override codes.",
+        "B": "Claims that scholarly treatises historically shaped codification and continue to guide judicial application of the codes as persuasive authority.",
+        "C": "Claims that universities control the appointment of all judges and prosecutors.",
+        "D": "Claims that doctrine provides case digests that substitute for codified provisions."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Academics do not promulgate binding decrees; legislation remains supreme.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#law-professors-prestige\">Historical Prestige of Law Professors</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes highlight how doctrinal scholarship helped craft and systematise civil codes, making academic commentary a respected interpretive aid for courts and practitioners.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#law-professors-prestige\">Historical Prestige of Law Professors</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Judicial appointments are state functions, not university-controlled.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#law-professors-prestige\">Historical Prestige of Law Professors</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Doctrinal writings complement codified provisions rather than replacing them with case digests.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#law-professors-prestige\">Historical Prestige of Law Professors</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q005",
+      "question": "How do civil law systems conceptualise the primacy of the state in generating legal norms?",
+      "options": {
+        "A": "Claims that they treat state-issued codes as the central, rational expression of law, with other normative systems playing secondary roles.",
+        "B": "Claims that they subordinate state law to religious and customary orders by default.",
+        "C": "Claims that they rely primarily on soft community norms unless the executive intervenes.",
+        "D": "Claims that they prohibit statutory law in favour of judicial precedent."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Civil law treats codes as the state’s rational ordering of society, placing statutory frameworks above religious or customary norms in structuring legal relations.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-normativity\">Civil Law Normativity – Primacy of the State</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes emphasise the primacy of the state over other normative sources, not subordination.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-normativity\">Civil Law Normativity – Primacy of the State</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Community norms may inform interpretation but do not displace codified law as the primary source.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-normativity\">Civil Law Normativity – Primacy of the State</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Civil law thrives on codification, not a prohibition against statutes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-tradition-features\">Civil Law Tradition – Core Features</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q006",
+      "question": "What does the civil law’s portrayal of law as a rational expression imply for legal methodology?",
+      "options": {
+        "A": "Claims that law develops case-by-case through pragmatic experimentation rather than logic.",
+        "B": "Claims that judges must prioritise equitable discretion over statutory text.",
+        "C": "Claims that the model rests on codified provisions are structured to follow deductive logic, enabling practitioners to derive solutions by applying ordered principles.",
+        "D": "Claims that legal reasoning depends primarily on jury verdicts."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes contrast civil law logic with the experiential, case-driven common law approach.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-rational-expression\">Civil Law Mentality – Rational Expression</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Equitable discretion is limited; courts focus on applying the rationally structured code.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#denial-judicial-law-making\">Denial of Judicial Law-Making</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Civil law codes pursue rational ordering, allowing legal actors to deduce outcomes from a systematic body of principles rather than relying on precedent-driven analogies.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-rational-expression\">Civil Law Mentality – Rational Expression</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Jury trials are not central to the civil law logic-based methodology described.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-rational-expression\">Civil Law Mentality – Rational Expression</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q007",
+      "question": "How does Merryman & Perdomo’s framing of civil law differ from the common law conception?",
+      "options": {
+        "A": "Claims that civil law is viewed as an ad hoc problem-solving process, whereas common law centres on established institutional rules.",
+        "B": "Claims that common law follows rigid codes, whereas civil law relies exclusively on unwritten customs.",
+        "C": "Claims that both civil and common law reject institutional rules in favour of popular sovereignty.",
+        "D": "Claims that civil law treats law as a set of established rules and institutions, while common law sees law as a process for perceiving and resolving disputes case by case."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes attribute the process-driven view to common law, not civil law.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-established-rules\">Civil Law vs Common Law – Conceptual Paradigms</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Common law is not code-bound, and civil law does not rely exclusively on unwritten custom.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-established-rules\">Civil Law vs Common Law – Conceptual Paradigms</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Neither tradition rejects institutional rules entirely; civil law especially relies on them.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-established-rules\">Civil Law vs Common Law – Conceptual Paradigms</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Civil law emphasises structured rules and institutions, whereas common law is portrayed as an experiential process for resolving problems.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-established-rules\">Civil Law vs Common Law – Conceptual Paradigms</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q008",
+      "question": "What does Article 5 of the French Code Civil signify for judicial interpretation?",
+      "options": {
+        "A": "Claims that courts may issue general regulatory rulings whenever public policy is implicated.",
+        "B": "Claims that judges are forbidden from pronouncing general regulatory provisions through adjudication, underscoring legislative supremacy.",
+        "C": "Claims that the article authorises courts to fill statutory gaps with equitable decrees.",
+        "D": "Claims that it obliges judges to defer to colonial-era customary law before applying the code."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 5 restricts, rather than enables, courts from issuing general regulations through judgments.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#legislative-supremacy-article5\">Legislative Supremacy – Code Civil Article 5</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The provision exemplifies legislative supremacy by prohibiting judges from creating general regulatory rules, confining them to case-specific applications of the code.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#legislative-supremacy-article5\">Legislative Supremacy – Code Civil Article 5</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Article 5 does not authorise equitable decrees; it limits judicial law-making.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#legislative-supremacy-article5\">Legislative Supremacy – Code Civil Article 5</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The article addresses judicial regulation, not priority for colonial customs.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#legislative-supremacy-article5\">Legislative Supremacy – Code Civil Article 5</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q009",
+      "question": "How do ‘general principles’ and ‘la doctrine’ function alongside codified provisions in the civil law hierarchy of sources?",
+      "options": {
+        "A": "Claims that they supplement and guide interpretation of the code, offering persuasive reasoning without displacing legislative supremacy.",
+        "B": "Claims that they replace statutes whenever judges find codified text inconvenient.",
+        "C": "Claims that they are binding only if unanimously endorsed by all law faculties in the jurisdiction.",
+        "D": "Claims that they apply only in criminal law matters, not private law."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes describe these sources as interpretive aids that help courts articulate and apply codified rules while respecting legislative primacy.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-sources\">Civil Law Sources – Codes, Principles, Doctrine</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "General principles and doctrine operate within the framework of the code; they do not override statutory commands.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-sources\">Civil Law Sources – Codes, Principles, Doctrine</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "There is no requirement for unanimous academic endorsement for these sources to be persuasive.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-sources\">Civil Law Sources – Codes, Principles, Doctrine</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "These interpretive sources operate across civil law domains, including private law.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-sources\">Civil Law Sources – Codes, Principles, Doctrine</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q010",
+      "question": "Why does the civil law mentality foreground the ‘subject’ and subjective rights when articulating legal rules?",
+      "options": {
+        "A": "Claims that civil law prohibits any recognition of objective duties or public interests.",
+        "B": "Claims that judges must base all decisions on psychological assessments of litigants’ intentions.",
+        "C": "Claims that the model rests on codified provisions are built around defining the rights and capacities of legal subjects, structuring obligations through the lens of parties’ entitlements and duties.",
+        "D": "Claims that civil law systems treat rights as non-transferable personal attributes."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Civil codes do recognise public interests; the focus on subjects complements, not excludes, duties.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#subjectivity-rights\">Subjectivity and Rights in Civil Law</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "While intention matters, the subject-centred approach is about codified rights and duties, not psychological assessments.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#subjectivity-rights\">Subjectivity and Rights in Civil Law</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes emphasise that civil law statutes structure obligations by specifying the capacities and rights of legal subjects, framing legal analysis around these coded entitlements.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#subjectivity-rights\">Subjectivity and Rights in Civil Law</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Rights can be transferred under civil codes; the focus is on their codified structure, not inherent inalienability.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#subjectivity-rights\">Subjectivity and Rights in Civil Law</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q011",
+      "question": "How does Montesquieu’s imagery of judges as the ‘mouths of the law’ inform civil law adjudication?",
+      "options": {
+        "A": "Claims that judges exercise unfettered discretion to rewrite statutes in light of contemporary values.",
+        "B": "Claims that judges deliver verdicts without citing legal provisions to maintain neutrality.",
+        "C": "Claims that judges must refuse to explain their reasoning, letting administrative agencies interpret the code instead.",
+        "D": "Claims that judges are expected to voice the legislator’s intent by faithfully applying codified rules, underscoring their subordinate law-articulating role."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Montesquieu’s metaphor limits judicial creativity, contrary to the discretion suggested here.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#judges-as-mouthpieces\">Judges as Mouthpieces of the Law</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Civil judgments cite legal provisions to show faithful application of the code.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#judges-as-mouthpieces\">Judges as Mouthpieces of the Law</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Judges do explain their reasoning; the emphasis is on applying the code, not silence or agency deference.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#judges-as-mouthpieces\">Judges as Mouthpieces of the Law</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The metaphor captures the expectation that judges articulate statutory meaning rather than originate new law, reinforcing the civil law’s code-centric adjudication.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#judges-as-mouthpieces\">Judges as Mouthpieces of the Law</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q012",
+      "question": "What is the effect of the absence of stare decisis in civil law, according to the notes?",
+      "options": {
+        "A": "Claims that every judicial decision binds all future courts in the same hierarchy.",
+        "B": "Claims that individual decisions lack binding force, but consistent lines of authority (constant jurisprudence) carry persuasive weight.",
+        "C": "Claims that courts must ignore past decisions entirely, even when consistent.",
+        "D": "Claims that lower courts may overrule higher courts whenever they disagree."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Stare decisis is absent, so single judgments do not bind future courts.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#stare-decisis-civil-law\">Persuasive Authority and Constant Jurisprudence</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes explain that while no single case is binding, uniform lines of decisions accrue significant persuasive authority.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#stare-decisis-civil-law\">Persuasive Authority and Constant Jurisprudence</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Courts may consult prior decisions for guidance when they form a coherent pattern.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#stare-decisis-civil-law\">Persuasive Authority and Constant Jurisprudence</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Hierarchy still matters; lower courts cannot disregard superior interpretations arbitrarily.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#stare-decisis-civil-law\">Persuasive Authority and Constant Jurisprudence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q013",
+      "question": "What function does the Court of Cassation serve within the civil law judicial system?",
+      "options": {
+        "A": "Claims that it reviews lower court decisions for errors of law and can vacate and remand if statutes were misapplied.",
+        "B": "Claims that it re-hears factual disputes and substitutes its own findings for trial courts.",
+        "C": "Claims that it drafts amendments to the civil code when gaps are discovered.",
+        "D": "Claims that it acts as a constitutional court for all human rights matters."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes describe cassation as a legal review body ensuring the proper application of statutory rules, remanding when errors occur.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#cassation-function\">Cassation – Error of Law Review</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Cassation does not retry facts; it polices legal correctness.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#cassation-function\">Cassation – Error of Law Review</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Legislatures, not cassation courts, amend the code.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#cassation-function\">Cassation – Error of Law Review</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Cassation adjudicates legality under codes; constitutional review may reside elsewhere.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#cassation-function\">Cassation – Error of Law Review</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q014",
+      "question": "What does Portalis’s famous observation about codes reveal about statutory completeness?",
+      "options": {
+        "A": "Claims that once enacted, codes perfectly anticipate all future disputes, eliminating interpretive discretion.",
+        "B": "Claims that codes should be replaced annually to capture evolving social norms.",
+        "C": "Claims that even comprehensive codes cannot foresee every question; unforeseen issues will surface, requiring judicial interpretation.",
+        "D": "Claims that judges should refuse to hear cases that present novel issues."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Portalis emphasises the inevitability of unforeseen questions, contradicting claims of perfect completeness.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#portalis-challenge\">Challenge of Incompleteness – Portalis</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The observation calls for interpretation, not constant wholesale replacement of codes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#portalis-challenge\">Challenge of Incompleteness – Portalis</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Portalis’s quote underscores that codes interpret reality imperfectly and require judicial reasoning to address unforeseen circumstances.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#portalis-challenge\">Challenge of Incompleteness – Portalis</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Judges must address novel issues through interpretive tools rather than declining jurisdiction.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#portalis-challenge\">Challenge of Incompleteness – Portalis</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q015",
+      "question": "How does the notes’ discussion of social change relate to code interpretation?",
+      "options": {
+        "A": "Claims that once enacted, codes remain static, so courts must ignore social change.",
+        "B": "Claims that civil law systems rely on referendums whenever social norms shift.",
+        "C": "Claims that social change automatically amends civil codes without legislative action.",
+        "D": "Claims that society evolves, courts must interpret codes dynamically to apply fixed text to moving realities."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes stress that interpretation adapts static codes to changing social contexts.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-interpretation-need\">Need for Interpretation in Dynamic Societies</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Referendums are not the default mechanism described; interpretation remains judicial.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-interpretation-need\">Need for Interpretation in Dynamic Societies</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Codes change through legislative processes, not automatic societal updates.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-interpretation-need\">Need for Interpretation in Dynamic Societies</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Civil law recognises that life evolves while codes are fixed texts; judges interpret to bridge this gap and keep the code relevant.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-interpretation-need\">Need for Interpretation in Dynamic Societies</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q016",
+      "question": "Which contrast between German and French codifications is emphasised in the notes?",
+      "options": {
+        "A": "Claims that the German code is shorter and less technical because it emerged from revolutionary upheaval, while the French code is meticulous and historically rooted.",
+        "B": "Claims that the German code arose from an organic, historically grounded project that produced a longer, technical text, whereas the French code, born of revolution, is shorter and uses simpler language.",
+        "C": "Claims that both codes adopt identical structures and linguistic styles, differing only in numbering conventions.",
+        "D": "Claims that the French code strictly covers corporate law, while the German code excludes property law entirely."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes describe the inverse: Germany’s technical, longer code versus France’s shorter revolutionary text.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#german-vs-french-overview\">Jurisdictional Differences – German vs French Codification</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Germany’s BGB reflects an organic, historically evolved project with technical detail, whereas the French Code Civil is more concise, shaped by revolutionary priorities.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#german-vs-french-overview\">Jurisdictional Differences – German vs French Codification</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The notes highlight structural and linguistic differences between the codes, not identity.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#german-vs-french-overview\">Jurisdictional Differences – German vs French Codification</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Both codes encompass broad private law fields; neither excludes property or focuses solely on corporate law.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#german-vs-french-overview\">Jurisdictional Differences – German vs French Codification</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q017",
+      "question": "Which sequence correctly states the five books of the German BGB?",
+      "options": {
+        "A": "Claims that the model rests on general Provisions; Law of Obligations; Property Law; Family Law; Law of Succession.",
+        "B": "Claims that obligations (general), Obligations (special), Property, Family, Commercial Law.",
+        "C": "Claims that persons; Property; Succession; Labour; Maritime Law.",
+        "D": "Claims that the model rests on general Provisions; Criminal Law; Administrative Law; Commercial Law; Consumer Law."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The BGB progresses from General Provisions to Obligations, Property, Family, and Succession, moving from foundational rules to specific subject matter.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-books-overview\">BGB Structure – Five Books</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "While Book II divides obligations into general and particular parts, the official sequence begins with the General Provisions in Book I.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-books-overview\">BGB Structure – Five Books</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "This sequence conflates French categories and adds labour/maritime topics absent from the BGB’s structure.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-books-overview\">BGB Structure – Five Books</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Criminal, administrative, commercial, and consumer law are not organised within the BGB’s five books.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-books-overview\">BGB Structure – Five Books</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q018",
+      "question": "What is the principal function of Book I (General Provisions) in the BGB?",
+      "options": {
+        "A": "Claims that it provides criminal sanctions for breaches of contract.",
+        "B": "Claims that it governs only property transfers involving land titles.",
+        "C": "Claims that it sets out foundational concepts (persons, things, validity of legal acts) that apply across subsequent books and related statutes.",
+        "D": "Claims that it supplies procedural rules for civil litigation."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Criminal sanctions fall outside the BGB; Book I is conceptual and definitional.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-book-one-general\">BGB Book I – General Provisions</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Property transfers are addressed in Book III; Book I is broader than land-only rules.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-book-one-general\">BGB Book I – General Provisions</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Book I defines persons, things, and rules for legal acts and validity, underpinning later books and other private law statutes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-book-one-general\">BGB Book I – General Provisions</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Civil procedure is governed elsewhere; the BGB focuses on substantive private law.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-book-one-general\">BGB Book I – General Provisions</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q019",
+      "question": "How is the Law of Obligations structured within Book II of the BGB?",
+      "options": {
+        "A": "Claims that it contains a single undifferentiated section covering all obligations without general principles.",
+        "B": "Claims that it applies only to consumer contracts, leaving commercial dealings to Book IV.",
+        "C": "Claims that it separates obligations strictly between civil and criminal liabilities.",
+        "D": "Claims that it is divided into a General Part that states rules applying to all obligations and a Particular Part for specific contractual and tortious relationships."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Book II explicitly distinguishes general principles from specific obligation types.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-obligations-structure\">BGB Book II – Obligations Structure</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Book II governs obligations generally, covering both consumer and commercial scenarios.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-obligations-structure\">BGB Book II – Obligations Structure</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Civil and criminal liabilities are not the organising principle; Book II remains within private law.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-obligations-structure\">BGB Book II – Obligations Structure</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The notes explain that Book II comprises a General Part (Schuldrecht allgemeiner Teil) and a Particular Part (Schuldrecht besonderer Teil) addressing specific obligation categories.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-obligations-structure\">BGB Book II – Obligations Structure</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q020",
+      "question": "What subject matter is addressed in Book III of the BGB?",
+      "options": {
+        "A": "Claims that it codifies administrative procedures for public agencies.",
+        "B": "Claims that it sets out property law (Sachenrecht), including rules on ownership and real rights.",
+        "C": "Claims that it governs the law of succession exclusively.",
+        "D": "Claims that it contains the criminal code for property offences."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The BGB does not address administrative procedure; Book III focuses on private property rights.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-property-book\">BGB Book III – Property Law</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Book III contains the law of property, covering ownership and related real rights in the civil code structure.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-property-book\">BGB Book III – Property Law</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Succession is handled in Book V, not Book III.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-books-overview\">BGB Structure – Five Books</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Criminal offences fall outside the BGB’s remit; Book III retains a civil, not penal, focus.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-property-book\">BGB Book III – Property Law</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q021",
+      "question": "Which areas do Books IV and V of the BGB regulate?",
+      "options": {
+        "A": "Claims that book IV covers family law and Book V governs succession, reflecting civil law’s comprehensive coverage of private status and inheritance.",
+        "B": "Claims that book IV codifies criminal liability, while Book V addresses administrative penalties.",
+        "C": "Claims that book IV focuses on company law and Book V on consumer protection.",
+        "D": "Claims that book IV addresses maritime trade and Book V regulates aviation."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes specify that Book IV governs Family Law and Book V addresses the Law of Succession, rounding out the BGB’s private law scope.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-family-succession\">BGB Books IV & V – Family and Succession</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Criminal and administrative penalties lie outside the BGB; these books remain within private law.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-family-succession\">BGB Books IV & V – Family and Succession</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Company and consumer law are not the focus of Books IV and V.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-family-succession\">BGB Books IV & V – Family and Succession</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Maritime and aviation topics are not codified in these sections of the BGB.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-family-succession\">BGB Books IV & V – Family and Succession</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q022",
+      "question": "What is the focus of grammatical interpretation within civil law methodology?",
+      "options": {
+        "A": "Claims that evaluating the economic consequences of competing interpretations.",
+        "B": "Claims that tracing the historical evolution of case law precedents.",
+        "C": "Claims that analysing the ordinary linguistic meaning of the statutory text under consideration.",
+        "D": "Claims that comparing foreign law approaches to the same problem."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Economic analysis is not the core of grammatical interpretation.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-grammatical\">Interpretive Methods – Grammatical</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Tracing case law relates more to comparative or persuasive analysis, not grammatical reading of text.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-grammatical\">Interpretive Methods – Grammatical</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Grammatical interpretation concentrates on the literal wording and ordinary meaning of statutory terms.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-grammatical\">Interpretive Methods – Grammatical</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Comparing foreign law falls outside the core grammatical approach discussed in the notes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-grammatical\">Interpretive Methods – Grammatical</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q023",
+      "question": "How does systematic interpretation operate in civil law analysis?",
+      "options": {
+        "A": "Claims that by consulting economic experts to assess public policy impacts.",
+        "B": "Claims that by importing analogies from common law jurisdictions to fill gaps.",
+        "C": "Claims that by prioritising judicial precedent over statutory text.",
+        "D": "Claims that by situating a provision within the broader code structure to harmonise it with related rules and the code’s architecture."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Systematic interpretation addresses legal coherence, not economic policy assessments.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-systematic\">Interpretive Methods – Systematic</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Systematic interpretation works within the domestic code, not by defaulting to foreign analogies.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-systematic\">Interpretive Methods – Systematic</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Precedent is persuasive but secondary; the method remains code-centric.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-systematic\">Interpretive Methods – Systematic</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The notes explain that systematic reasoning links the provision to surrounding rules, ensuring internal consistency across the code.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-systematic\">Interpretive Methods – Systematic</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q024",
+      "question": "What is the role of genetic interpretation in the civil law methodology outlined in the notes?",
+      "options": {
+        "A": "Claims that identifying the provision’s function within the genetic code of biological organisms.",
+        "B": "Claims that tracing the legislative drafting history and the text’s developmental context to inform meaning.",
+        "C": "Claims that evaluating how judges in other jurisdictions have applied similar provisions.",
+        "D": "Claims that assessing the psychological motives of the litigants."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "‘Genetic’ here refers to legislative genesis, not biology.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-genetic\">Interpretive Methods – Genetic</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Genetic interpretation examines preparatory works and drafting history to illuminate legislative intent.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-genetic\">Interpretive Methods – Genetic</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Comparative judicial practice is not the focus of the genetic method described.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-genetic\">Interpretive Methods – Genetic</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The method addresses legislative context, not litigant psychology.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-genetic\">Interpretive Methods – Genetic</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q025",
+      "question": "How does historical interpretation contribute to understanding a civil code provision?",
+      "options": {
+        "A": "Claims that by reconstructing the social and legal conditions at the time of enactment to contextualise the provision’s language.",
+        "B": "Claims that by forecasting future societal trends and updating the code accordingly.",
+        "C": "Claims that by applying precedent from medieval customary courts directly.",
+        "D": "Claims that by delegating interpretation to legislative committees."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Historical interpretation situates the text in its original socio-legal context, helping courts grasp its intended function when adopted.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-historical\">Interpretive Methods – Historical</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Forecasting future trends relates to policy-making, not historical interpretation.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-historical\">Interpretive Methods – Historical</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Historical interpretation references context, not direct application of medieval precedent.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-historical\">Interpretive Methods – Historical</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The method remains judicial, not a delegation to committees.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-historical\">Interpretive Methods – Historical</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q026",
+      "question": "What distinguishes teleological interpretation in civil law reasoning?",
+      "options": {
+        "A": "Claims that it requires courts to replicate foreign jurisprudence regardless of domestic context.",
+        "B": "Claims that it limits interpretation to literal dictionary definitions.",
+        "C": "Claims that it prioritises the provision’s purpose, evaluating how best to fulfil the legislative objective behind the text.",
+        "D": "Claims that it relies exclusively on subjective party intentions."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Teleological reasoning remains domestically focused on statutory purpose rather than foreign replication.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-teleological\">Interpretive Methods – Teleological</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Literalism is the domain of grammatical interpretation, not teleological analysis.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-teleological\">Interpretive Methods – Teleological</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Teleological analysis looks to the provision’s purpose, ensuring interpretations align with the legislative goal articulated in the notes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-teleological\">Interpretive Methods – Teleological</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Party intentions matter particularly in contract interpretation, but teleological analysis considers legislative aims, not just subjective intent.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#interpretive-methods-teleological\">Interpretive Methods – Teleological</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q027",
+      "question": "How is the Japanese Civil Code structured according to the notes?",
+      "options": {
+        "A": "Claims that part I Persons; Part II Criminal Law; Part III Civil Procedure; Part IV Taxation; Part V Administrative Law.",
+        "B": "Claims that part I Contracts; Part II Torts; Part III Trusts; Part IV Equity; Part V International Law.",
+        "C": "Claims that part I Commercial; Part II Labour; Part III Consumer; Part IV Insolvency; Part V Maritime.",
+        "D": "Claims that part I General Provisions; Part II Property Law; Part III Law of Obligations; Part IV Family Law; Part V Law of Succession."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "This mix includes criminal, procedural, and administrative headings not found in the Japanese civil code structure described.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#asian-code-influence-japan\">Asian Influence – Japanese Civil Code Structure</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Trusts and equity are generally absent from civil codes; the Japanese structure follows the classic private law divisions.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#asian-code-influence-japan\">Asian Influence – Japanese Civil Code Structure</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "These topics do not reflect the five-part civil code scheme highlighted in the notes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#asian-code-influence-japan\">Asian Influence – Japanese Civil Code Structure</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Japan’s civil code mirrors the BGB sequence with General Provisions followed by Property, Obligations, Family, and Succession.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#asian-code-influence-japan\">Asian Influence – Japanese Civil Code Structure</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q028",
+      "question": "What distinctive feature of the Taiwanese Civil Code’s sales provisions is highlighted?",
+      "options": {
+        "A": "Claims that it omits any discussion of ownership transfer, focusing exclusively on damages.",
+        "B": "Claims that it retains the German wording but adds that the contract is completed once object and price are agreed, integrating completion rules into the sales section itself.",
+        "C": "Claims that it abolishes the requirement for mutual assent, relying solely on objective conduct.",
+        "D": "Claims that it requires post-contractual notarisation for all sales to be valid."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Taiwan’s code still discusses ownership transfer alongside obligations.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#asian-code-influence-taiwan\">Asian Influence – Taiwanese Civil Code</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes explain that Taiwan mirrors the BGB language but embeds completion (mutual agreement on object and price) within the sales chapter, unlike Germany where that rule sits in the general part.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#asian-code-influence-taiwan\">Asian Influence – Taiwanese Civil Code</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Mutual assent remains necessary; the addition clarifies when the contract is concluded, not that assent is irrelevant.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#asian-code-influence-taiwan\">Asian Influence – Taiwanese Civil Code</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The notes do not impose universal notarisation; the focus is on completion language.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#asian-code-influence-taiwan\">Asian Influence – Taiwanese Civil Code</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q029",
+      "question": "How is the French Code Civil organised according to the course notes?",
+      "options": {
+        "A": "Claims that book I Persons; Book II Property; Book III Modes of Acquiring Ownership; Book IV Securities.",
+        "B": "Claims that book I General Provisions; Book II Obligations; Book III Property; Book IV Criminal Law.",
+        "C": "Claims that book I Contracts; Book II Torts; Book III Equity; Book IV Trusts.",
+        "D": "Claims that book I Commerce; Book II Maritime; Book III Aviation; Book IV Insurance."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes list the French Code’s four books covering Persons, Property and ownership modifications, modes of acquiring ownership, and Securities.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#french-code-books\">French Code Civil – Four Books</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "This structure mirrors the German approach rather than the French topic-centric layout.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#french-code-books\">French Code Civil – Four Books</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The Code Civil does not contain books dedicated to torts, equity, or trusts as stand-alone volumes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#french-code-books\">French Code Civil – Four Books</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Commerce, maritime, aviation, and insurance are not the organising themes of the four books detailed in the notes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#french-code-books\">French Code Civil – Four Books</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q030",
+      "question": "What key difference in drafting philosophy distinguishes the German BGB from the French Code Civil?",
+      "options": {
+        "A": "Claims that the BGB collects detailed rules on each specific topic within single books, while the French code moves from general to specific in a hierarchical structure.",
+        "B": "Claims that both codes use identical drafting philosophies; any differences are purely stylistic.",
+        "C": "Claims that the BGB proceeds from general principles to specific rules across books, whereas the French code attempts to pack all information on a topic into each book, making it more topic-focused.",
+        "D": "Claims that the French code legislates only procedure, leaving substance to case law, while the BGB covers substance only."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "This reverses their approaches; the German code is the one that moves from general to specific.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-approach-differences\">Approach Differences – German vs French Codes</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The course emphasises meaningful structural differences, not mere style.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-approach-differences\">Approach Differences – German vs French Codes</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Germany organises the BGB from general provisions downward, while the French code packs topic-specific detail within each book, as highlighted in the notes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-approach-differences\">Approach Differences – German vs French Codes</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Both codes legislate substantive private law; the dichotomy stated is inaccurate.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-approach-differences\">Approach Differences – German vs French Codes</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q031",
+      "question": "What areas of law do civil codes typically cover, as described in the notes?",
+      "options": {
+        "A": "Claims that only criminal offences and penalties.",
+        "B": "Claims that the model rests on exclusive jurisdictional rules for international disputes.",
+        "C": "Claims that solely administrative regulations for public bodies.",
+        "D": "Claims that primarily private, penal, and procedural law, providing a comprehensive statutory framework."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Civil codes are broader than criminal statutes; they cover private law extensively.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-scope-application\">Scope and Application of Civil Codes</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Civil codes handle domestic private law; international jurisdiction rules are handled elsewhere.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-scope-application\">Scope and Application of Civil Codes</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Administrative regulations are not the primary focus of civil codes as described.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-scope-application\">Scope and Application of Civil Codes</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The notes explain that codes cover the bulk of private, penal, and procedural law, underscoring their comprehensive nature.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-scope-application\">Scope and Application of Civil Codes</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q032",
+      "question": "According to the notes, what is the first analytical step when using a civil code to solve a problem?",
+      "options": {
+        "A": "Claims that search for analogous common law precedents.",
+        "B": "Claims that identify the desired objective and locate the relevant code provisions governing that legal relationship.",
+        "C": "Claims that draft new legislation to clarify the gap before advising the client.",
+        "D": "Claims that poll industry stakeholders for customary practices."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Civil law analysis begins with the code, not common law analogies.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#case-analysis-protocol\">How to Use the Codes – Analytical Steps</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes emphasise clarifying what the client seeks and then turning to the relevant code provisions governing that type of relationship.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#case-analysis-protocol\">How to Use the Codes – Analytical Steps</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Practitioners interpret existing codes; drafting new laws is not the immediate response.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#case-analysis-protocol\">How to Use the Codes – Analytical Steps</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Custom may assist later, but the initial step is statutory analysis, not polling stakeholders.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#case-analysis-protocol\">How to Use the Codes – Analytical Steps</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q033",
+      "question": "In the Kelly and George hypothetical, what question does the analyst pose before diving into code provisions?",
+      "options": {
+        "A": "Claims that what remedy does Kelly ultimately want to achieve, guiding the search for a sales contract framework?.",
+        "B": "Claims that which party has better access to discovery mechanisms?.",
+        "C": "Claims that how would a common law court evaluate punitive damages?.",
+        "D": "Claims that which foreign precedents have addressed faulty iPhones?."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The analyst first clarifies Kelly’s desired remedy—rights under a sales contract—which frames the subsequent code analysis.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#kelly-george-objective\">Hypothetical 1 – Identifying Objectives</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The hypothetical focuses on substantive remedies, not procedural discovery comparisons.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#kelly-george-objective\">Hypothetical 1 – Identifying Objectives</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Common law punitive damages are not the focal point; the analysis centres on civil law sales remedies.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#kelly-george-objective\">Hypothetical 1 – Identifying Objectives</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Foreign precedent is not the starting point in the civil law methodology presented.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#kelly-george-objective\">Hypothetical 1 – Identifying Objectives</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q034",
+      "question": "Why does the analyst consult BGB § 433 when assessing Kelly’s claim?",
+      "options": {
+        "A": "Claims that § 433 outlines general criminal liability for fraud.",
+        "B": "Claims that § 433 sets tax obligations on consumer sales.",
+        "C": "Claims that § 433 defines the obligations arising from a sales contract, allowing the analyst to confirm that the parties’ desired outcomes align with a sales contract framework.",
+        "D": "Claims that § 433 determines whether a contract must be notarised."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Section 433 is not a criminal provision; it describes the mutual obligations in a sales contract.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-433-sales-contract\">BGB § 433 – Sales Contract Obligations</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Tax obligations are outside § 433’s scope.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-433-sales-contract\">BGB § 433 – Sales Contract Obligations</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "By matching the parties’ aims to § 433, the analyst confirms the scenario fits the statutory definition of a sales contract, anchoring further analysis.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-433-sales-contract\">BGB § 433 – Sales Contract Obligations</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Notarisation rules are not addressed in this section.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-433-sales-contract\">BGB § 433 – Sales Contract Obligations</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q035",
+      "question": "How does the analyst infer the need for two corresponding declarations of intent when the code does not explicitly say ‘offer and acceptance’?",
+      "options": {
+        "A": "Claims that by assuming parties must follow common law precedent.",
+        "B": "Claims that by dismissing the code as incomplete and writing new contractual clauses.",
+        "C": "Claims that by relying on oral custom rather than statutory text.",
+        "D": "Claims that by conducting a systematic analysis of surrounding provisions (e.g., §§ 145 and 147 BGB) to derive the offer-acceptance structure implicitly required for contract formation."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The method stays within the civil code framework, not common law precedent.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#offer-acceptance-bgb145-147\">Deriving Offer and Acceptance – BGB §§145–147</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Practitioners interpret existing statutes rather than abandoning them as incomplete.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#offer-acceptance-bgb145-147\">Deriving Offer and Acceptance – BGB §§145–147</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Custom plays a supplementary role; the analysis here is statutory.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#offer-acceptance-bgb145-147\">Deriving Offer and Acceptance – BGB §§145–147</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Systematic interpretation of §§ 145 and 147 reveals the implicit requirement of matching declarations, demonstrating how civil lawyers extract unstated basics from the code.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#offer-acceptance-bgb145-147\">Deriving Offer and Acceptance – BGB §§145–147</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q036",
+      "question": "What does BGB § 145 establish regarding offers?",
+      "options": {
+        "A": "Claims that offers are merely invitations to treat with no binding effect until acceptance occurs.",
+        "B": "Claims that an offeror is bound by the offer unless they expressly exclude its binding nature, reinforcing the commitment embedded in declarations of intent.",
+        "C": "Claims that offers automatically lapse after 30 days regardless of circumstances.",
+        "D": "Claims that offers are void unless notarised in the presence of the parties’ lawyers."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Section 145 ties offers down, contrary to the idea that they are mere invitations.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-145-binding-offer\">BGB §145 – Binding Nature of Offers</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes highlight that offers are binding unless the offeror reserves otherwise, underscoring the seriousness of declarations of intent.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-145-binding-offer\">BGB §145 – Binding Nature of Offers</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The statute does not impose an arbitrary 30-day expiry for all offers.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-145-binding-offer\">BGB §145 – Binding Nature of Offers</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Notarisation is not a general requirement for offers under § 145.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-145-binding-offer\">BGB §145 – Binding Nature of Offers</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q037",
+      "question": "What temporal rule does BGB § 147 impose on accepting offers?",
+      "options": {
+        "A": "Claims that offers made to present parties must be accepted immediately, while offers to absent parties remain open only for the time the offeror can expect a reply under ordinary circumstances.",
+        "B": "Claims that offers must be accepted within 24 hours regardless of context.",
+        "C": "Claims that all offers remain open indefinitely unless revoked in writing.",
+        "D": "Claims that acceptance periods are determined solely by industry custom."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes summarise § 147 as requiring immediate acceptance for present offerees and a reasonable expectation window for absent offerees.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-147-acceptance\">BGB §147 – Acceptance Timeframes</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Section 147 differentiates between present and absent offerees rather than imposing a blanket 24-hour rule.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-147-acceptance\">BGB §147 – Acceptance Timeframes</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Section 147 does not leave offers open indefinitely; it sets specific temporal expectations.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-147-acceptance\">BGB §147 – Acceptance Timeframes</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "While custom may inform reasonableness, § 147 itself stipulates the core timing rule.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-147-acceptance\">BGB §147 – Acceptance Timeframes</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q038",
+      "question": "What baseline requirements for a valid declaration of intent are highlighted in the notes?",
+      "options": {
+        "A": "Claims that only that the parties sign before a witness, regardless of capacity or coercion.",
+        "B": "Claims that that the declaration be recorded on audio-visual media and lodged with a registry.",
+        "C": "Claims that that the declaration be made by a person with legal capacity (or authorised agent), not invalid ex lege, and not annulled, rescinded, revoked, or terminated.",
+        "D": "Claims that that the declaration be endorsed by a notary in every case."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Capacity and absence of invalidating factors are crucial; witnessing alone is insufficient.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#general-provisions-validity\">Validity Requirements for Declarations of Intent</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "There is no universal requirement for audio-visual recording or registry lodgement.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#general-provisions-validity\">Validity Requirements for Declarations of Intent</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes list legal capacity, absence of automatic invalidity, and absence of rescission/revocation as baseline validity conditions derived from the general provisions.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#general-provisions-validity\">Validity Requirements for Declarations of Intent</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Notarisation is not universally required for declarations of intent in civil law; specific contexts may demand it, but not all.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#general-provisions-validity\">Validity Requirements for Declarations of Intent</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q039",
+      "question": "Which factors can invalidate a declaration of intent under the general provisions discussed?",
+      "options": {
+        "A": "Claims that declarations remain valid regardless of coercion or mistake.",
+        "B": "Claims that only lack of notarisation invalidates declarations of intent.",
+        "C": "Claims that only a failure to provide consideration invalidates the declaration.",
+        "D": "Claims that mistake, fraud, or duress can undermine validity, subject to the code’s rules on annulment and rescission."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Coercion and mistake can lead to annulment, so declarations are not automatically valid despite them.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#declaration-invalidity-factors\">Invalidity and Vitiating Factors</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Notarisation is not the sole determinant of validity; vitiating factors also matter.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#declaration-invalidity-factors\">Invalidity and Vitiating Factors</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Consideration is a common law concept; civil law validity does not hinge on it.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#declaration-invalidity-factors\">Invalidity and Vitiating Factors</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The notes flag mistake, fraud, and duress as key factors allowing annulment or rescission of declarations of intent.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#declaration-invalidity-factors\">Invalidity and Vitiating Factors</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q040",
+      "question": "Why does the notes’ analysis emphasise termination rights such as rescission or revocation within the general provisions?",
+      "options": {
+        "A": "Claims that civil law treats all contracts as void unless termination rights are waived.",
+        "B": "Claims that understanding ancillary termination rights ensures practitioners evaluate whether otherwise valid declarations can be unwound, affecting remedy selection.",
+        "C": "Claims that termination rights are unique to criminal law procedures.",
+        "D": "Claims that termination rights replace damages as the primary civil remedy."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Contracts are not void unless termination rights are waived; termination is a separate analysis.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#termination-rights-general\">Termination Rights – General Considerations</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes highlight termination rights (rescission, revocation) so practitioners consider whether a contract can be unwound despite initial validity.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#termination-rights-general\">Termination Rights – General Considerations</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Termination rights concern private law relationships, not criminal procedure.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#termination-rights-general\">Termination Rights – General Considerations</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Termination rights coexist with damages; they do not replace compensatory remedies.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#termination-rights-general\">Termination Rights – General Considerations</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q041",
+      "question": "What lesson does the notes’ discussion draw from the fact that the code does not spell out every ‘basic rule’ explicitly?",
+      "options": {
+        "A": "Claims that that systematic analysis and detailed study of the code are required to infer implied rules, reinforcing the need for deep doctrinal competence.",
+        "B": "Claims that that practitioners must abandon the code and rely on unwritten custom.",
+        "C": "Claims that that judicial precedent becomes the primary rule of decision in civil law.",
+        "D": "Claims that that legislative supremacy is undermined by omissions."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes stress that even basics (like offer and acceptance) must be extracted via systematic reading, demonstrating why detailed doctrinal study is essential.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#systematic-analysis-implied\">Implied Rules via Systematic Analysis</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Rather than abandoning the code, practitioners mine it more deeply through systematic interpretation.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#systematic-analysis-implied\">Implied Rules via Systematic Analysis</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Precedent remains persuasive, not primary; the focus is still on statutory interpretation.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#systematic-analysis-implied\">Implied Rules via Systematic Analysis</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Legislative supremacy endures; interpretation compensates for omissions without undermining the legislature.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#systematic-analysis-implied\">Implied Rules via Systematic Analysis</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q042",
+      "question": "Why do the notes stress the importance of studying the civil code ‘in detail’?",
+      "options": {
+        "A": "Claims that civil codes are intentionally vague, requiring guesswork rather than structured study.",
+        "B": "Claims that judges typically refuse to interpret the code unless lawyers recite it verbatim in court.",
+        "C": "Claims that many foundational rules are implied across provisions, so detailed familiarity enables practitioners to draw the connections needed for rigorous analysis.",
+        "D": "Claims that the code changes weekly and must be memorised repeatedly."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Codes aim for rational clarity; detailed study addresses implied linkages, not vagueness for its own sake.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-study-rationale\">Rationale for Detailed Code Study</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Judges interpret the code; the issue is analytic depth rather than rote recital.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-study-rationale\">Rationale for Detailed Code Study</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes emphasise that civil lawyers must master cross-references and implied rules across the code, requiring thorough study.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-study-rationale\">Rationale for Detailed Code Study</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "While codes evolve, they do not change weekly; the challenge is in connecting provisions.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#code-study-rationale\">Rationale for Detailed Code Study</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q043",
+      "question": "What insight about comparative drafting does the Chinese Civil Code Article 595 provide?",
+      "options": {
+        "A": "Claims that it diverges sharply from German influence by denying that a sales contract transfers ownership.",
+        "B": "Claims that it expressly rejects the notion of contractual obligations in sales.",
+        "C": "Claims that it abolishes the concept of purchase price altogether.",
+        "D": "Claims that it mirrors the earlier German wording, underscoring the BGB’s influence while illustrating that jurisdictions may later expand provisions (e.g., defects/title) differently."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 595 tracks the German formulation; it does not deny transfer of ownership.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#chinese-civil-code-595\">Chinese Civil Code Art 595 – German Influence</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The provision recognises contractual obligations; it does not reject them.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#chinese-civil-code-595\">Chinese Civil Code Art 595 – German Influence</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The article retains the purchase price element.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#chinese-civil-code-595\">Chinese Civil Code Art 595 – German Influence</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The notes highlight that Article 595 replicates the German text, showing cross-jurisdictional borrowing and later divergence (Germany added defects/title obligations).",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#chinese-civil-code-595\">Chinese Civil Code Art 595 – German Influence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q044",
+      "question": "What addition in the Taiwanese Civil Code (Art 345) demonstrates its French-style drafting tendency noted in the course?",
+      "options": {
+        "A": "Claims that it states that gifts are presumed revocable at any time without cause.",
+        "B": "Claims that it includes within the sales chapter the rule that the contract is completed once parties agree on object and price, rather than relegating that rule to the general part.",
+        "C": "Claims that it removes any reference to ownership transfer in sales contracts.",
+        "D": "Claims that it allows courts to substitute equitable remedies for statutory ones by default."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes mention revocation in other provisions, but Art 345’s distinctive feature concerns contract completion.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#taiwanese-civil-code-345\">Taiwanese Civil Code Art 345 – Completion Rule</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Taiwan embeds the completion rule within the sales book, reflecting the French tendency to collect topic-specific rules in one place.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#taiwanese-civil-code-345\">Taiwanese Civil Code Art 345 – Completion Rule</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Ownership transfer remains part of the sales definition.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#taiwanese-civil-code-345\">Taiwanese Civil Code Art 345 – Completion Rule</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Article 345 does not authorise courts to disregard statutory remedies wholesale.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#taiwanese-civil-code-345\">Taiwanese Civil Code Art 345 – Completion Rule</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q045",
+      "question": "What overarching purpose does the course assign to studying the civil law tradition?",
+      "options": {
+        "A": "Claims that aid future communication with civil law counterparts by understanding their methodology, mentality, and concepts absent from common law practice.",
+        "B": "Claims that prepare practitioners to abandon statutory analysis entirely and adopt customary practices.",
+        "C": "Claims that train lawyers to draft common law pleadings in French courts without translation.",
+        "D": "Claims that replace domestic legal training with comparative jurisprudence entirely."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes state the course aims to facilitate communication with civil law counterparts by conveying methodology, mentality, and unique concepts.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#course-purpose-context\">Course Context – Purpose and Objectives</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The course emphasises mastering civil law methods, not abandoning statutory analysis.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#course-purpose-context\">Course Context – Purpose and Objectives</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Drafting common law pleadings in foreign courts is not the stated goal.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#course-purpose-context\">Course Context – Purpose and Objectives</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Comparative study complements, not replaces, domestic training.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#course-purpose-context\">Course Context – Purpose and Objectives</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q046",
+      "question": "Which dual inquiry do the notes urge students to keep in mind when comparing civil and common law systems?",
+      "options": {
+        "A": "Claims that whether the systems share identical case citation styles and whether they adopt jury trials in the same way.",
+        "B": "Claims that whether civil law countries permit contingency fees and whether they have codified maritime law.",
+        "C": "Claims that what the major structural/epistemological differences are and how important those differences are both in theory and in day-to-day practice.",
+        "D": "Claims that how many judges sit on supreme courts and what their average tenure is."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Citation styles and jury practices are not the articulated dual inquiry.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-key-questions\">Key Comparative Questions – Structure and Practice</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Fees and maritime law are not the highlighted comparative questions.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-key-questions\">Key Comparative Questions – Structure and Practice</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes urge students to assess the structural/epistemological differences and evaluate their theoretical and practical significance.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-key-questions\">Key Comparative Questions – Structure and Practice</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Judicial tenure is not part of the dual inquiry identified in the notes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-key-questions\">Key Comparative Questions – Structure and Practice</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q047",
+      "question": "How does ‘constant jurisprudence’ influence future claims according to the notes?",
+      "options": {
+        "A": "Claims that once a single appellate decision is issued, all future claims are automatically approved or denied.",
+        "B": "Claims that negative precedent has no persuasive impact in civil law.",
+        "C": "Claims that courts must tally jury verdicts nationally before deciding each case.",
+        "D": "Claims that when positive judgments surpass a threshold, similar claims gain traction; when negative judgments accumulate, future claims face greater resistance despite the absence of formal stare decisis."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "No single decision controls; persuasive momentum comes from consistent lines of authority.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#stare-decisis-civil-law\">Persuasive Authority and Constant Jurisprudence</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Negative trends can make future recognition harder, so adverse decisions do influence outcomes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#stare-decisis-civil-law\">Persuasive Authority and Constant Jurisprudence</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Civil law courts do not poll jury verdicts nationwide to decide cases.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#stare-decisis-civil-law\">Persuasive Authority and Constant Jurisprudence</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The notes describe how a predominance of positive or negative decisions shapes the ease with which future similar claims are recognised, even without binding precedent.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#stare-decisis-civil-law\">Persuasive Authority and Constant Jurisprudence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q048",
+      "question": "Why does the BGB’s General Part extend beyond the code itself to other private law statutes?",
+      "options": {
+        "A": "Claims that germany lacks separate statutes for commercial or company law, so Book I substitutes for them entirely.",
+        "B": "Claims that book I’s definitions and validity rules apply to subsequent books, other private law codes (e.g., Commercial Code), and further statutes, providing a unified conceptual foundation.",
+        "C": "Claims that the General Part only governs criminal matters, requiring cross-application to remain relevant.",
+        "D": "Claims that book I was repealed and re-enacted across different statutes."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Germany has distinct commercial legislation; Book I provides foundational rules, not substitutes for entire regimes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-general-part-scope\">General Part – Applicability Beyond the BGB</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes emphasise that Book I’s general provisions apply across the BGB and related private law statutes, giving coherence to the broader legal system.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-general-part-scope\">General Part – Applicability Beyond the BGB</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Book I deals with private law concepts, not criminal matters.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-general-part-scope\">General Part – Applicability Beyond the BGB</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Book I remains part of the BGB; it was not repealed and re-enacted elsewhere.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#bgb-general-part-scope\">General Part – Applicability Beyond the BGB</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q049",
+      "question": "Why do the notes caution common law lawyers about invoking equity or trusts when speaking to civil law counterparts?",
+      "options": {
+        "A": "Claims that most civil law systems lack the concept of split ownership and equitable doctrines, so references to trusts or equity may not resonate.",
+        "B": "Claims that civil law jurisdictions universally prohibit good faith obligations.",
+        "C": "Claims that civil law judges refuse to consider any argument that mentions fiduciary duties.",
+        "D": "Claims that equity has been constitutionally banned in civil law countries."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes explain that civil law jurisdictions typically lack trust law and split ownership, so equity-based terminology can cause confusion.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-status-comparison\">Absence of Trust and Equity Concepts</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Civil law recognises good faith; the issue is the absence of equity/trust conceptual frameworks.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-status-comparison\">Absence of Trust and Equity Concepts</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Judges may consider fiduciary themes, but the conceptual vocabulary differs without trusts/equity.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-status-comparison\">Absence of Trust and Equity Concepts</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "There is no constitutional ban; the issue is structural absence within civil law tradition.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-status-comparison\">Absence of Trust and Equity Concepts</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M1-Q050",
+      "question": "What historical explanation does the course give for differing attitudes toward status in French versus German civil codes?",
+      "options": {
+        "A": "Claims that the French code emerged after industrialisation diminished class distinctions, while the German code was drafted during the ancien régime.",
+        "B": "Claims that both codes were drafted simultaneously under identical social conditions, so status never differed.",
+        "C": "Claims that the French code reflected earlier patriarchal ideologies from the old regime, whereas the later German code was shaped after class-based status had lost prominence amid industrialisation.",
+        "D": "Claims that the German code was written to entrench rigid status hierarchies, unlike the French code’s egalitarianism."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The chronology is reversed; the French code predated Germany’s and reflected earlier patriarchal attitudes.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-status-comparison\">Status and Historical Context – French vs German Codes</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The codes were drafted a century apart under different social circumstances, leading to divergent status treatments.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-status-comparison\">Status and Historical Context – French vs German Codes</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes explain that the French code embedded patriarchal status assumptions from the old regime, whereas the later German code arose after status distinctions had waned with industrialisation.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-status-comparison\">Status and Historical Context – French vs German Codes</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The notes suggest Germany’s later code was less status-bound, not deliberately more rigid than France’s.",
+            "note_link": "<a href=\"../Notes/csk5-module1.html#civil-law-status-comparison\">Status and Historical Context – French vs German Codes</a>"
+          }
+        }
+      }
+    }
+  ]
+}

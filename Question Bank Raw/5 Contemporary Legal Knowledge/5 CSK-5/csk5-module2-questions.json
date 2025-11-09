@@ -1,0 +1,1755 @@
+{
+  "module": "CSK-5 Module 2: Unilateral Contracts, Mandates & Negotiorum Gestio",
+  "questions": [
+    {
+      "id": "CSK5-M2-Q001",
+      "question": "What core feature distinguishes negotiorum gestio (NG) from a mandate in the notes?",
+      "options": {
+        "A": "Claims that NG arises from a signed agreement, whereas mandates are imposed by law without consent.",
+        "B": "Claims that NG always provides remuneration, but mandates remain gratuitous.",
+        "C": "Claims that NG is created ex lege when a Gestor voluntarily manages another's affairs without instruction, while a mandate arises when the mandatary accepts the principal's request.",
+        "D": "Claims that NG can only operate between corporations, whereas mandates apply only to consumers."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Mandates require consensual acceptance; NG exists precisely where no agreement was obtained.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-vs-mandate\">NG versus Mandate - Source of Obligation</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Both regimes presume gratuity; reimbursement merely neutralises necessary losses.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-remuneration\">NG - Reimbursement Not Remuneration</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "NG obligations arise ex lege from unsolicited management, whereas mandates depend on the mandatary accepting the principal's instruction.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-vs-mandate\">NG versus Mandate - Source of Obligation</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The difference lies in consent versus ex lege creation, not the types of parties involved.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-scope\">NG Scope across Contexts</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q002",
+      "question": "How do the notes describe the legal nature of NG compared with ordinary contracts?",
+      "options": {
+        "A": "Claims that NG is an imperfectly bilateral relationship imposed by law rather than negotiated exchange.",
+        "B": "Claims that NG is a fully synallagmatic bargain with bilateral consideration.",
+        "C": "Claims that NG is equivalent to a testamentary disposition.",
+        "D": "Claims that NG operates only when supported by equitable trusts."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "NG is imposed ex lege and creates limited reciprocal duties without negotiated exchange.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-relationship-nature\">NG - Imperfectly Bilateral Relationship</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Synallagmatic contracts rest on reciprocal promises; NG lacks mutual consideration.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-relationship-nature\">NG - Imperfectly Bilateral Relationship</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "NG concerns management of another's affairs, not testamentary transfers.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-relationship-nature\">NG - Imperfectly Bilateral Relationship</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Civil law resolves NG within its codes and does not rely on equitable trusts.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#absence-trust-law\">Absence of Trust Law in Civil Systems</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q003",
+      "question": "Which element is essential to a justified actual NG under BGB §§ 677 and 683?",
+      "options": {
+        "A": "Claims that the Gestor must secure a written mandate before acting.",
+        "B": "Claims that the Gestor must intentionally manage another's business without instruction and align with the principal's real or presumed will.",
+        "C": "Claims that the Gestor must guarantee a profit for the principal.",
+        "D": "Claims that the Gestor must obtain judicial approval in advance."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "A written mandate would create a consensual contract, displacing NG.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-elements\">Elements of Justified Actual NG</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "NG is justified only where the Gestor intentionally acts without instruction in accordance with the principal's real or presumed will.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-elements\">Elements of Justified Actual NG</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "NG focuses on protecting interests, not guaranteeing profit to the principal.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-elements\">Elements of Justified Actual NG</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Judicial approval is not a prerequisite; NG is assessed after the fact.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-elements\">Elements of Justified Actual NG</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q004",
+      "question": "How do the notes rank the principal's real and presumed will when assessing NG?",
+      "options": {
+        "A": "Claims that the presumed will always overrides the real will.",
+        "B": "Claims that civil law treats the two as identical, so there is no hierarchy.",
+        "C": "Claims that the Gestor's subjective belief decides which will controls.",
+        "D": "Claims that the real will prevails unless the narrow public-interest exception in § 679 BGB applies."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The real will governs where it can be ascertained; presumed will is a fallback.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-real-vs-presumed\">NG - Real versus Presumed Will</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes explicitly distinguish real and presumed will in NG analysis.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-real-vs-presumed\">NG - Real versus Presumed Will</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Gestor discretion is constrained by statutory hierarchy; subjective belief is insufficient.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-real-vs-presumed\">NG - Real versus Presumed Will</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The principal's real will controls unless overridden by the rare § 679 public-interest exception.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-real-vs-presumed\">NG - Real versus Presumed Will</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q005",
+      "question": "When may public interest override the principal's real will in NG?",
+      "options": {
+        "A": "Claims that whenever the Gestor sees a more profitable outcome for the principal.",
+        "B": "Claims that whenever the Gestor is related to the principal.",
+        "C": "Claims that only in the exceptional cases described in § 679 BGB, where intervention protects compelling public interests.",
+        "D": "Claims that whenever contacting the principal would be inconvenient."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Profit motivations alone cannot displace explicit instructions.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-public-interest\">NG - Public Interest Override</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Family ties do not provide statutory authority to override the principal's will.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-public-interest\">NG - Public Interest Override</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Section 679 allows interventions contrary to the principal's will only where compelling public interests demand it.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-public-interest\">NG - Public Interest Override</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Mere inconvenience in contacting the principal is insufficient to override their will.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-public-interest\">NG - Public Interest Override</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q006",
+      "question": "What duty does § 677 BGB impose on the Gestor?",
+      "options": {
+        "A": "Claims that manage the business according to the principal's interests and real or presumed will.",
+        "B": "Claims that maximise personal profit regardless of the principal's interests.",
+        "C": "Claims that substitute common-law equity doctrines for the code.",
+        "D": "Claims that avoid incurring any expenses while intervening."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Section 677 requires alignment with the principal's interests and real or presumed will.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-s677-duty\">NG - Gestor's Duty under § 677</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The Gestor must prioritise the principal's interests, not personal gain.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-s677-duty\">NG - Gestor's Duty under § 677</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "NG duties flow from statute, not imported equitable doctrines.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#absence-trust-law\">Absence of Trust Law in Civil Systems</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Gestors may incur necessary expenses which are later reimbursed if justified.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-677-683\">NG - Duties and Reimbursement (BGB §§ 677 and 683)</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q007",
+      "question": "What entitlement does § 683 BGB confer on the Gestor?",
+      "options": {
+        "A": "Claims that a right to retain any profit earned during the intervention.",
+        "B": "Claims that reimbursement equivalent to a mandatary's expenses when the intervention aligns with the principal's interests and will.",
+        "C": "Claims that only moral recognition without monetary compensation.",
+        "D": "Claims that punitive damages against the principal."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The Gestor must surrender enrichment; profits are not retained.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-677-683\">NG - Duties and Reimbursement (BGB §§ 677 and 683)</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Section 683 entitles the Gestor to reimbursement comparable to a mandatary where the statutory alignment test is met.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-677-683\">NG - Duties and Reimbursement (BGB §§ 677 and 683)</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Civil law grants financial neutralisation, not mere praise.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-677-683\">NG - Duties and Reimbursement (BGB §§ 677 and 683)</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Remedies remain compensatory; punitive damages are not awarded.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-677-683\">NG - Duties and Reimbursement (BGB §§ 677 and 683)</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q008",
+      "question": "Why do courts extend § 670 BGB to cover damage (such as torn trousers) as well as expenses?",
+      "options": {
+        "A": "Claims that discourage Gestors from intervening without professional licences.",
+        "B": "Claims that compensate principals for inconvenience caused by interventions.",
+        "C": "Claims that award punitive windfalls for socially useful conduct.",
+        "D": "Claims that keep altruistic Gestors loss-neutral by reimbursing necessary expenses and damage incurred while acting in the principal's interests."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The interpretation protects and encourages lawful interventions.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-reimbursement-vs-damages\">NG - Reimbursement and Damages</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The reimbursement targets the Gestor’s loss, not the principal’s inconvenience.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-reimbursement-vs-damages\">NG - Reimbursement and Damages</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Compensation is limited to actual loss; there is no punitive bonus.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-reimbursement-vs-damages\">NG - Reimbursement and Damages</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Courts treat damage as reimbursable so the Gestor is neither advantaged nor disadvantaged by altruistic action.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-reimbursement-vs-damages\">NG - Reimbursement and Damages</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q009",
+      "question": "Which statement about recoverable loss in NG is consistent with the notes?",
+      "options": {
+        "A": "Claims that opportunity costs, such as missing a job interview, are reimbursable.",
+        "B": "Claims that gestors may demand anticipated profits to reward their initiative.",
+        "C": "Claims that reimbursement covers necessary expenses and damage suffered, but excludes opportunity or expectation losses.",
+        "D": "Claims that only intangible harms can be recovered."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Opportunity costs lie outside the NG reimbursement framework.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-opportunity-cost\">NG - Opportunity Cost Exclusion</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Anticipated profits are not claimable in NG.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-opportunity-cost\">NG - Opportunity Cost Exclusion</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Civil law neutralises necessary expenses and direct damage but denies expectation or opportunity losses.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-opportunity-cost\">NG - Opportunity Cost Exclusion</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Recoverable losses include necessary expenses and direct damage, not merely intangible harm.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-opportunity-cost\">NG - Opportunity Cost Exclusion</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q010",
+      "question": "How does the ladder-and-trousers rescue illustrate NG's remedial structure?",
+      "options": {
+        "A": "Claims that the ladder cost is reimbursed as an expense, while the torn trousers are treated as damage covered by the same statutory restitution duty.",
+        "B": "Claims that both the ladder and trousers represent expectation loss and are unrecoverable.",
+        "C": "Claims that the ladder cost is punitive damages and the trousers are opportunity cost.",
+        "D": "Claims that neither item is recoverable because the intervention was voluntary."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes classify the ladder cost as reimbursable expenditure and the torn trousers as recoverable damage, keeping the Gestor whole.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-reimbursement-example\">NG Example - Ladder and Trousers</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The example demonstrates that both expense and damage are compensated, not excluded as expectation loss.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-reimbursement-example\">NG Example - Ladder and Trousers</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Neither reimbursement nor damage awards are punitive or opportunity-based.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-reimbursement-example\">NG Example - Ladder and Trousers</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "NG exists precisely to neutralise losses from voluntary interventions.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-reimbursement-example\">NG Example - Ladder and Trousers</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q011",
+      "question": "What does the car-swerving illustration show about reimbursement under NG?",
+      "options": {
+        "A": "Claims that the Gestor must absorb the repair cost because the child's parents owe nothing.",
+        "B": "Claims that the child's parents, as beneficiaries, must reimburse the Gestor for damage caused while avoiding harm to their child.",
+        "C": "Claims that the state automatically reimburses all such interventions.",
+        "D": "Claims that NG never applies when vehicles are involved."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The example reinforces that the beneficiary, not the Gestor, bears the cost of a justified intervention.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-car-example\">NG Example - Swerving Car</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Civil law requires the parents to neutralise the Gestor's loss under §§ 683 and 670 when their child was protected.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-car-example\">NG Example - Swerving Car</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Liability rests with the beneficiary parties, not the state.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-car-example\">NG Example - Swerving Car</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Vehicle-related interventions can satisfy NG elements when justified.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-car-example\">NG Example - Swerving Car</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q012",
+      "question": "Why do the notes urge Gestors to contact the principal before intervening when possible?",
+      "options": {
+        "A": "Claims that NG requires written approval before any action is lawful.",
+        "B": "Claims that the Gestor must obtain notarial consent before proceeding.",
+        "C": "Claims that contacting the principal shifts liability to the courts.",
+        "D": "Claims that confirming the real will prevents acting contrary to instructions and preserves reimbursement rights."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "A written approval would create a mandate instead of NG.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-contact-principal\">NG - Importance of Contacting the Principal</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Notarisation is irrelevant; statutory alignment with the principal's will is what matters.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-contact-principal\">NG - Importance of Contacting the Principal</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Liability remains between principal and Gestor; courts do not assume it upon contact.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-contact-principal\">NG - Importance of Contacting the Principal</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Clarifying the principal's will avoids misaligned interventions that jeopardise reimbursement.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-contact-principal\">NG - Importance of Contacting the Principal</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q013",
+      "question": "What lesson does the vineyard scenario teach about NG?",
+      "options": {
+        "A": "Claims that that any neighbourly intervention automatically entitles the Gestor to reimbursement.",
+        "B": "Claims that that proceeding without instruction never affects reimbursement rights.",
+        "C": "Claims that that if the owner clearly refuses help, NG fails and the Gestor may even owe damages for mismanagement.",
+        "D": "Claims that that NG applies only when the Gestor sells the produce."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The scenario shows the opposite: a clear refusal defeats NG.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-vineyard-example\">NG Application - Vineyard Scenario</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Compliance with the principal's will is central to NG justification.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-vineyard-example\">NG Application - Vineyard Scenario</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Ignoring the owner's known will strips the Gestor of reimbursement and can trigger liability for mismanagement.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-vineyard-example\">NG Application - Vineyard Scenario</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Selling produce simply illustrates enrichment that must be surrendered; it is not a condition for NG.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-vineyard-example\">NG Application - Vineyard Scenario</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q014",
+      "question": "Which provisions ground the principal's claim for damages arising from Gestor mismanagement?",
+      "options": {
+        "A": "Claims that § 280(1) BGB provides the damages action, with § 680 BGB calibrating the fault standard applied to the Gestor.",
+        "B": "Claims that only § 683 BGB, because NG offers no mismanagement remedy.",
+        "C": "Claims that § 667 BGB, which awards punitive damages to the principal.",
+        "D": "Claims that no provision, because the principal assumes mismanagement risk once NG begins."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Section 280(1) supplies the damages claim, while § 680 sets the fault standard for Gestors acting without mandate.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-mismanagement-liability\">NG - Mismanagement Liability</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes cite § 280(1) coupled with § 680 as the route for mismanagement damages.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-mismanagement-liability\">NG - Mismanagement Liability</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Section 667 addresses restitution of gains, not punitive damages.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-restoration\">Mandate and NG - Restitution Duty</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The principal retains statutory remedies and does not assume all risk.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-mismanagement-liability\">NG - Mismanagement Liability</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q015",
+      "question": "What policy rationale do the notes attribute to NG?",
+      "options": {
+        "A": "Claims that deterring altruistic acts by imposing strict liability on helpers.",
+        "B": "Claims that encouraging socially useful intervention by ensuring the Gestor is neither better nor worse off for acting.",
+        "C": "Claims that rewarding Gestors with punitive damages for their initiative.",
+        "D": "Claims that eliminating the need for private insurance altogether."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes emphasise that NG supports, rather than deters, altruistic behaviour.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-social-ethic\">NG - Social Ethic Objective</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Neutralising the Gestor's losses keeps altruistic actors whole and serves the social ethic the doctrine protects.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-social-ethic\">NG - Social Ethic Objective</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "NG compensation remains compensatory, not punitive.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-social-ethic\">NG - Social Ethic Objective</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "NG complements other mechanisms and does not replace private insurance.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-social-ethic\">NG - Social Ethic Objective</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q016",
+      "question": "Which terminology pairing do the notes adopt for NG?",
+      "options": {
+        "A": "Claims that gestor equals principal; principal equals beneficiary.",
+        "B": "Claims that gestor equals insurer; principal equals policyholder.",
+        "C": "Claims that gestor equals regulator; principal equals court.",
+        "D": "Claims that gestor equals voluntary manager; principal equals person whose affairs are managed."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The Gestor manages another's affairs; the principal is the person aided.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-terminology\">NG Terminology</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "NG obligations are statutory, not insurance-based.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-terminology\">NG Terminology</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Regulators and courts are not the actors described in NG.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-terminology\">NG Terminology</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The notes consistently use Gestor for the voluntary manager and principal for the person whose interests are advanced.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-terminology\">NG Terminology</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q017",
+      "question": "Which pairing best summarises the reciprocal claims recognised in NG?",
+      "options": {
+        "A": "Claims that gestor claims punitive damages; principal claims nothing unless a contract exists.",
+        "B": "Claims that gestor claims opportunity cost; principal claims emotional distress.",
+        "C": "Claims that gestor claims reimbursement or damages for necessary loss; principal can claim restoration of enrichment and damages for mismanagement.",
+        "D": "Claims that gestor claims future profits; principal claims the Gestor's salary."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "NG remedies are compensatory and encompass claims for both parties.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-principal-claims\">NG - Reciprocal Claims</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Opportunity cost and emotional distress sit outside the statutory scheme.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-principal-claims\">NG - Reciprocal Claims</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes set out Gestor reimbursement and principal claims for restoration and mismanagement damages as the key reciprocal rights.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-principal-claims\">NG - Reciprocal Claims</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "NG does not promise profits or salaries; it neutralises actual loss and restores enrichment.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-principal-claims\">NG - Reciprocal Claims</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q018",
+      "question": "How do the notes characterise NG in relation to contracts?",
+      "options": {
+        "A": "Claims that NG is a quasi-contractual regime that imposes obligations ex lege to align the parties despite the absence of agreement.",
+        "B": "Claims that NG is a standard synallagmatic contract requiring mutual consideration.",
+        "C": "Claims that NG is purely tortious and unrelated to private law obligations.",
+        "D": "Claims that NG operates only after a court order converts the relationship into a contract."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes portray NG as a statutory device that mimics contractual balance without requiring prior agreement.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-quasi-contract\">NG - Quasi-Contractual Character</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "NG lacks the mutual exchange that marks synallagmatic bargains.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-quasi-contract\">NG - Quasi-Contractual Character</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "NG operates within private law obligations, not solely tort.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-quasi-contract\">NG - Quasi-Contractual Character</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Obligations arise automatically from the intervention; no conversion order is needed.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-quasi-contract\">NG - Quasi-Contractual Character</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q019",
+      "question": "What is the effect of ignoring a principal's known refusal before intervening?",
+      "options": {
+        "A": "Claims that the Gestor still qualifies for reimbursement because statutory defaults override the real will.",
+        "B": "Claims that the Gestor loses reimbursement rights and may become liable for mismanagement toward the principal.",
+        "C": "Claims that the Gestor acquires an automatic lien over the principal's property.",
+        "D": "Claims that the Gestor becomes entitled to expectation damages."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Ignoring a known refusal defeats the alignment requirement central to NG.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-contact-failure\">NG - Consequences of Ignoring the Real Will</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes caution that failing to respect a clear refusal strips the Gestor of reimbursement and can trigger liability.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-contact-failure\">NG - Consequences of Ignoring the Real Will</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "No lien arises automatically; NG simply neutralises loss when justified.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-contact-failure\">NG - Consequences of Ignoring the Real Will</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Expectation damages are not available in NG.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-opportunity-cost\">NG - Opportunity Cost Exclusion</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q020",
+      "question": "Why does the note emphasise altruistic motivation as part of NG?",
+      "options": {
+        "A": "Claims that NG applies only when the Gestor expects a bonus payment.",
+        "B": "Claims that altruism triggers punitive damages for the principal.",
+        "C": "Claims that altruistic motivation converts the intervention into a mandate.",
+        "D": "Claims that NG is designed to protect selfless interventions that lack contractual consideration, justifying reimbursement but not profit."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Expectation of payment would point to a different legal relationship, not NG.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-altruism\">NG - Altruistic Motivation</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Punitive damages are not part of the NG remedial structure.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-altruism\">NG - Altruistic Motivation</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Acceptance of an instruction, not altruism, creates a mandate.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-altruism\">NG - Altruistic Motivation</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The notes frame NG as encouraging altruistic conduct by neutralising loss without conferring profit.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#ng-altruism\">NG - Altruistic Motivation</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q021",
+      "question": "How do the notes define a mandate under BGB § 662?",
+      "options": {
+        "A": "Claims that a mandate is a remunerated contract for services.",
+        "B": "Claims that a mandate is any social favour with no legal effect.",
+        "C": "Claims that a mandate is a gratuitous agreement where the mandatary undertakes to carry out a transaction entrusted by the principal.",
+        "D": "Claims that a mandate is a tort duty to rescue strangers."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Mandates are presumptively gratuitous under § 662.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-definition\">Mandate - Definition</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Social favours generally lack the legal intention needed for a mandate.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-social-distinction\">Mandate versus Social Request</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes quote § 662: the mandatary agrees to carry out an entrusted transaction gratuitously for the principal.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-definition\">Mandate - Definition</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Mandates are voluntary undertakings, not tort duties.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-definition\">Mandate - Definition</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q022",
+      "question": "What is the effect of the mandatary accepting the principal's instruction?",
+      "options": {
+        "A": "Claims that acceptance creates a duty to carry out the transaction and to return anything obtained while doing so.",
+        "B": "Claims that acceptance merely acknowledges receipt without creating obligations.",
+        "C": "Claims that acceptance converts the mandate into NG automatically.",
+        "D": "Claims that acceptance obliges the principal to pay remuneration."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes explain that acceptance triggers duties to perform and to return benefits under §§ 662 and 667.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-acceptance-duty\">Mandate - Effect of Acceptance</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Acceptance creates enforceable duties; it is not a mere acknowledgement.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-acceptance-duty\">Mandate - Effect of Acceptance</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Mandate and NG are distinct regimes; acceptance moves the relationship away from NG.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-acceptance-duty\">Mandate - Effect of Acceptance</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Mandates are presumptively gratuitous; acceptance does not imply remuneration.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-definition\">Mandate - Definition</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q023",
+      "question": "How do the notes distinguish between a mandate and a social favour?",
+      "options": {
+        "A": "Claims that any request between friends automatically becomes a mandate.",
+        "B": "Claims that a mandate arises when the mandatary consents in a professional context (e.g. trainee obeying partner), whereas purely social requests typically lack legal effect.",
+        "C": "Claims that social favours always create enforceable mandates.",
+        "D": "Claims that mandates require notarisation, whereas social favours do not."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes point out that social requests generally do not produce mandates.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-social-distinction\">Mandate versus Social Request</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The trainee example shows a binding mandate, while the friend's request is treated as a social favour without legal obligation.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-social-distinction\">Mandate versus Social Request</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Most social favours lack the intention to create legal obligations.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-social-distinction\">Mandate versus Social Request</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Mandates arise through acceptance, not formal notarisation.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-definition\">Mandate - Definition</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q024",
+      "question": "What does § 670 BGB provide for a mandatary who incurs expenses while performing the mandate?",
+      "options": {
+        "A": "Claims that expenses are borne solely by the mandatary because the contract is gratuitous.",
+        "B": "Claims that expenses are reimbursed only when punitive damages are also awarded.",
+        "C": "Claims that expenses are reimbursed only if the mandate is commercial.",
+        "D": "Claims that the mandatary is entitled to reimbursement of necessary expenses incurred in carrying out the mandate."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Gratuity refers to remuneration; § 670 still reimburses necessary expenses.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-expense-recovery\">Mandate - Expense Reimbursement</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Punitive damages are not part of the reimbursement scheme.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-expense-recovery\">Mandate - Expense Reimbursement</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The provision applies regardless of whether the mandate is commercial or private.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-expense-recovery\">Mandate - Expense Reimbursement</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Section 670 entitles the mandatary to recover necessary expenses despite the absence of remuneration.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-expense-recovery\">Mandate - Expense Reimbursement</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q025",
+      "question": "What do the notes say about remuneration in mandates?",
+      "options": {
+        "A": "Claims that mandataries are entitled to market-rate fees unless waived in writing.",
+        "B": "Claims that mandataries receive double remuneration if the mandate benefits the principal.",
+        "C": "Claims that mandates are gratuitous; the mandatary has no claim to remuneration but may recover necessary expenses.",
+        "D": "Claims that mandates require statutory minimum wages."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Section 662 frames mandates as gratuitous unless otherwise agreed.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-no-remuneration\">Mandate - Absence of Remuneration</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "No statutory double-remuneration rule exists for mandates.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-no-remuneration\">Mandate - Absence of Remuneration</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes underline that the mandatary receives no remuneration, though expenses are reimbursable under § 670.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-no-remuneration\">Mandate - Absence of Remuneration</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "There is no statutory wage requirement for mandates.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-no-remuneration\">Mandate - Absence of Remuneration</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q026",
+      "question": "How do the notes treat opportunity cost in the context of mandates?",
+      "options": {
+        "A": "Claims that opportunity cost is excluded; mandates allow reimbursement of necessary expenses but not lost alternative gains.",
+        "B": "Claims that opportunity cost is reimbursed alongside expenses.",
+        "C": "Claims that opportunity cost is converted into punitive damages.",
+        "D": "Claims that opportunity cost is reimbursed only when certified by auditors."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Mandataries recover necessary expenses but cannot claim losses such as missed alternative work.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-opportunity-cost\">Mandate - Opportunity Cost Exclusion</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes align mandate remedies with NG by excluding opportunity cost.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-opportunity-cost\">Mandate - Opportunity Cost Exclusion</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Punitive damages are not part of the mandate framework.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-opportunity-cost\">Mandate - Opportunity Cost Exclusion</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Auditing requirements are not mentioned; the loss type is what disqualifies reimbursement.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-opportunity-cost\">Mandate - Opportunity Cost Exclusion</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q027",
+      "question": "What does § 667 BGB require of the mandatary after performing the mandate?",
+      "options": {
+        "A": "Claims that the mandatary may retain any enrichment derived from the mandate.",
+        "B": "Claims that the mandatary must return everything received in executing the mandate to the principal.",
+        "C": "Claims that the mandatary must pay double damages to the principal.",
+        "D": "Claims that the mandatary must automatically terminate the mandate."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Section 667 prevents personal enrichment by requiring restitution of all benefits.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-restoration\">Mandate - Principal's Restoration Claim</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes emphasise that the principal is entitled to everything the mandatary obtained in carrying out the mandate.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-restoration\">Mandate - Principal's Restoration Claim</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Punitive multipliers are not mentioned; the focus is restitution.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-restoration\">Mandate - Principal's Restoration Claim</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Section 667 concerns restitution, not automatic termination.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-restoration\">Mandate - Principal's Restoration Claim</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q028",
+      "question": "How do the notes describe the reciprocal structure of mandates?",
+      "options": {
+        "A": "Claims that mandates impose duties only on the principal.",
+        "B": "Claims that mandates give the principal no obligations beyond moral support.",
+        "C": "Claims that mandates give the mandatary full contractual remuneration rights.",
+        "D": "Claims that mandates impose duties on both parties: the mandatary must perform and return gains, while the principal must reimburse necessary expenses despite the absence of remuneration."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The mandatary has performance and restitution duties under §§ 662 and 667.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-imperfect-bilateral\">Mandate - Imperfectly Bilateral Relationship</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The principal must reimburse necessary expenses under § 670.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-expense-recovery\">Mandate - Expense Reimbursement</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Remuneration is generally excluded in mandates.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-no-remuneration\">Mandate - Absence of Remuneration</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "The notes frame mandates as imperfectly bilateral: duties rest on both parties even though no remuneration is owed.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-imperfect-bilateral\">Mandate - Imperfectly Bilateral Relationship</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q029",
+      "question": "How do §§ 662 and 670 BGB interact in the mandate framework?",
+      "options": {
+        "A": "Claims that § 662 provides remuneration while § 670 removes reimbursement rights.",
+        "B": "Claims that § 662 applies only to NG and § 670 only to tort claims.",
+        "C": "Claims that § 662 emphasises the gratuitous nature of the mandate, while § 670 compensates necessary expenses despite the absence of remuneration.",
+        "D": "Claims that § 662 covers restitution duties and § 670 imposes punitive damages."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Mandates are gratuitous under § 662 and reimbursement under § 670 co-exists with that principle.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-bgb-662-670\">Mandate - §§ 662 and 670 Interaction</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Both provisions belong to the mandate framework, not NG or tort exclusively.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-bgb-662-670\">Mandate - §§ 662 and 670 Interaction</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes explain that mandates are gratuitous yet § 670 still refunds necessary expenditure.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-bgb-662-670\">Mandate - §§ 662 and 670 Interaction</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "§ 667 addresses restitution; § 670 does not impose punitive damages.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-bgb-662-670\">Mandate - §§ 662 and 670 Interaction</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q030",
+      "question": "Why do the notes deny mandatary claims for opportunity cost?",
+      "options": {
+        "A": "Claims that the mandatary was free to decline the mandate, so foregone alternatives are not protected, though necessary outlays are reimbursed.",
+        "B": "Claims that civil law never compensates any loss in mandates.",
+        "C": "Claims that opportunity cost is converted into punitive damages.",
+        "D": "Claims that opportunity cost is replaced by statutory interest."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Because the mandatary could refuse the task, lost alternatives are not recoverable even though expenses are.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-opportunity-cost\">Mandate - Opportunity Cost Exclusion</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Necessary expenses are reimbursed; only opportunity cost is excluded.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-opportunity-cost\">Mandate - Opportunity Cost Exclusion</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Punitive damages are not part of the mandate scheme.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-opportunity-cost\">Mandate - Opportunity Cost Exclusion</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "No statutory interest substitute is discussed for opportunity cost.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#mandate-opportunity-cost\">Mandate - Opportunity Cost Exclusion</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q031",
+      "question": "How does BGB § 516 define a donation (gift)?",
+      "options": {
+        "A": "Claims that a donation is any transfer for market value.",
+        "B": "Claims that a donation enriches another from the donor's assets and occurs gratuitously with both parties' agreement.",
+        "C": "Claims that a donation requires court approval to be valid.",
+        "D": "Claims that a donation transfers only services, never property."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Gifts are defined by gratuitous enrichment, not market-value exchange.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-bgb-516\">Civil Law Gifts - BGB § 516</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes quote § 516: a donation enriches another without consideration when both agree to the gratuitous transfer.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-bgb-516\">Civil Law Gifts - BGB § 516</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Court approval is not a validity requirement in § 516.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-bgb-516\">Civil Law Gifts - BGB § 516</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Section 516 applies to transfers of property or rights, not merely services.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-bgb-516\">Civil Law Gifts - BGB § 516</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q032",
+      "question": "What form requirement does BGB § 518 impose on promises of donation?",
+      "options": {
+        "A": "Claims that no form is ever required for gifts.",
+        "B": "Claims that gifts require approval from the tax authority before transfer.",
+        "C": "Claims that gifts must be recorded in court minutes to be valid.",
+        "D": "Claims that a promise of donation must be notarised to be enforceable, but performance cures the lack of form for the executed portion."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes highlight the notarial requirement in § 518.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-bgb-518\">Civil Law Gifts - BGB § 518</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The article specifies notarial form, not tax registration, as the condition.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-bgb-518\">Civil Law Gifts - BGB § 518</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Court recording is not the statutory requirement discussed.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-bgb-518\">Civil Law Gifts - BGB § 518</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Section 518 requires notarisation, but once performance occurs the executed portion cannot be reclaimed despite the form defect.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-bgb-518\">Civil Law Gifts - BGB § 518</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q033",
+      "question": "How does PRC Civil Code Article 657 define a gift contract?",
+      "options": {
+        "A": "Claims that a contract transferring property for consideration.",
+        "B": "Claims that a promise that is revocable even after transfer without exception.",
+        "C": "Claims that a contract where the donor conveys property gratuitously and the donee accepts the gift.",
+        "D": "Claims that a contract that requires judicial confirmation before it is effective."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 657 centres on gratuitous transfer, not consideration.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-prc-657\">Civil Law Gifts - PRC Article 657</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Revocation rules appear in Article 658, not Article 657's definition.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-prc-658\">Civil Law Gifts - PRC Article 658</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes quote Article 657's definition: gratuitous conveyance accepted by the donee.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-prc-657\">Civil Law Gifts - PRC Article 657</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Judicial confirmation is not described as a validity requirement.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-prc-657\">Civil Law Gifts - PRC Article 657</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q034",
+      "question": "What revocation rule does PRC Civil Code Article 658 set out for gifts?",
+      "options": {
+        "A": "Claims that before transfer, the donor may revoke, but notarised gifts are protected and good-faith reliance is respected.",
+        "B": "Claims that donors may revoke a gift at any time even after transfer without restriction.",
+        "C": "Claims that gifts are irrevocable even before transfer.",
+        "D": "Claims that only the donee may revoke the gift."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Article 658 allows pre-transfer revocation but protects notarised gifts and good-faith reliance.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-prc-658\">Civil Law Gifts - PRC Article 658</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes explain that notarised gifts are shielded and revocation is limited to the pre-transfer period.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-prc-658\">Civil Law Gifts - PRC Article 658</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The statute permits pre-transfer revocation; irrevocability applies after compliant transfer.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-prc-658\">Civil Law Gifts - PRC Article 658</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Revocation rights belong to the donor, not the donee.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-prc-658\">Civil Law Gifts - PRC Article 658</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q035",
+      "question": "How does Taiwan Civil Code Article 406 define a gift?",
+      "options": {
+        "A": "Claims that a contract requiring consideration from both parties.",
+        "B": "Claims that a contract where one party gratuitously delivers property to another who agrees to accept it.",
+        "C": "Claims that a unilateral statement that needs no acceptance.",
+        "D": "Claims that a contract that only covers services."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 406 mirrors the gratuitous nature of gifts.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-taiwan-406\">Civil Law Gifts - Taiwan Article 406</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes report Article 406's definition: gratuitous delivery accepted by the donee.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-taiwan-406\">Civil Law Gifts - Taiwan Article 406</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Acceptance by the donee remains necessary under Article 406.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-taiwan-406\">Civil Law Gifts - Taiwan Article 406</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The provision covers property transfers generally, not just services.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-taiwan-406\">Civil Law Gifts - Taiwan Article 406</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q036",
+      "question": "What revocation rule does Taiwan Civil Code Article 408 establish for gifts?",
+      "options": {
+        "A": "Claims that donors may revoke even after transferring rights, regardless of circumstances.",
+        "B": "Claims that only donees may revoke gifts under Taiwanese law.",
+        "C": "Claims that revocation is impossible even before transfer.",
+        "D": "Claims that until transfer, the donor may revoke, but notarised gifts (or transferred portions) remain binding and cannot be revoked for the executed part."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 408 protects executed or notarised gifts from revocation.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-taiwan-408\">Civil Law Gifts - Taiwan Article 408</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Revocation rights belong to the donor, not the donee.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-taiwan-408\">Civil Law Gifts - Taiwan Article 408</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Pre-transfer revocation remains possible under Article 408.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-taiwan-408\">Civil Law Gifts - Taiwan Article 408</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Revocation is limited to untransferred portions and excluded once transfer or notarisation occurs.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-taiwan-408\">Civil Law Gifts - Taiwan Article 408</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q037",
+      "question": "What does Japan Civil Code Article 549 provide about gifts?",
+      "options": {
+        "A": "Claims that gifts require consideration to be effective.",
+        "B": "Claims that gifts are ineffective until notarised.",
+        "C": "Claims that a gift becomes effective when one party manifests an intent to give property gratuitously and the other accepts.",
+        "D": "Claims that gifts become effective only upon court registration."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 549 mirrors the gratuitous, consensual nature of gifts.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-japan-549\">Civil Law Gifts - Japan Article 549</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Notarisation is not a general requirement in Japan's provision.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-japan-549\">Civil Law Gifts - Japan Article 549</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes state that Article 549 recognises gifts through gratuitous intent plus acceptance.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-japan-549\">Civil Law Gifts - Japan Article 549</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Court registration is not specified as a condition.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-japan-549\">Civil Law Gifts - Japan Article 549</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q038",
+      "question": "What revocation rule appears in Japan Civil Code Article 550 for gifts?",
+      "options": {
+        "A": "Claims that unperformed gifts not in writing may be revoked, but performance already rendered cannot be reclaimed.",
+        "B": "Claims that gifts may never be revoked, even if unperformed.",
+        "C": "Claims that gifts must always be notarised to avoid revocation.",
+        "D": "Claims that only the donee may revoke the gift."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Unwritten gifts may be revoked until performance, but executed portions remain binding.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-japan-550\">Civil Law Gifts - Japan Article 550</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Article 550 permits revocation of unwritten, unperformed gifts.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-japan-550\">Civil Law Gifts - Japan Article 550</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Writing, not notarisation, is the key distinction; performance also cures the issue.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-japan-550\">Civil Law Gifts - Japan Article 550</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Revocation rights belong to the donor, not the donee.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-japan-550\">Civil Law Gifts - Japan Article 550</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q039",
+      "question": "What definition of a gift does South Korea Civil Code Article 554 provide?",
+      "options": {
+        "A": "Claims that a contract requiring mutual consideration.",
+        "B": "Claims that a contract effective when one party declares an intention to gratuitously transfer property and the other agrees.",
+        "C": "Claims that a contract that only covers services rendered.",
+        "D": "Claims that a contract effective only after notarisation."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 554 mirrors the gratuitous nature found in other civil law codes.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-korea-554\">Civil Law Gifts - Korea Article 554</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The notes capture Article 554's definition: gratuitous transfer upon the other party's agreement.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-korea-554\">Civil Law Gifts - Korea Article 554</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The provision is not limited to services.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-korea-554\">Civil Law Gifts - Korea Article 554</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Article 554 does not impose a notarisation requirement.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-korea-554\">Civil Law Gifts - Korea Article 554</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q040",
+      "question": "What revocation principle is captured in South Korea Civil Code Articles 555 and 558?",
+      "options": {
+        "A": "Claims that gifts are revocable only if notarised.",
+        "B": "Claims that all gifts are irrevocable once promised, regardless of form.",
+        "C": "Claims that only courts may revoke gifts after transfer.",
+        "D": "Claims that unwritten gifts may be rescinded, but performance already rendered cannot be unwound."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Notarisation is not mentioned; the distinction hinges on writing and performance.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-korea-555-558\">Civil Law Gifts - Korea Articles 555 and 558</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The code permits revocation of unwritten, unperformed gifts.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-korea-555-558\">Civil Law Gifts - Korea Articles 555 and 558</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The statutory rule, not court discretion, governs revocation.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-korea-555-558\">Civil Law Gifts - Korea Articles 555 and 558</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Unwritten gifts may be rescinded, but Articles 555 and 558 protect already performed portions from rescission.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-korea-555-558\">Civil Law Gifts - Korea Articles 555 and 558</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q041",
+      "question": "What form requirement does French Code Civil Article 931 impose on inter vivos donations?",
+      "options": {
+        "A": "Claims that no formalities are required.",
+        "B": "Claims that donations must be approved by a court clerk.",
+        "C": "Claims that donations must be passed before notaries in the ordinary contract form, on pain of nullity.",
+        "D": "Claims that donations require registration with the tax office before execution."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Article 931 imposes a notarial requirement for validity.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-france-931\">Civil Law Gifts - France Article 931</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Court clerk approval is not the statutory formality.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-france-931\">Civil Law Gifts - France Article 931</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes quote Article 931: inter vivos donations must be executed before notaries with a retained minute.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-france-931\">Civil Law Gifts - France Article 931</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The article specifies notarial form, not tax registration, as the condition.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-france-931\">Civil Law Gifts - France Article 931</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q042",
+      "question": "What additional requirement does French Code Civil Article 932 add regarding acceptance of the donation?",
+      "options": {
+        "A": "Claims that acceptance must be express and can be notified after execution, with effect only from notification to the donor.",
+        "B": "Claims that acceptance is unnecessary once the donor signs.",
+        "C": "Claims that acceptance must be implied by performance, never express.",
+        "D": "Claims that acceptance automatically revokes the donation."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Article 932 requires express acceptance, which may be made later by authentic act but binds the donor only upon notification.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-france-932\">Civil Law Gifts - France Article 932</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Acceptance remains necessary even if the donor signs.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-france-932\">Civil Law Gifts - France Article 932</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "The article explicitly contemplates express acceptance, not merely implied acceptance.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-france-932\">Civil Law Gifts - France Article 932</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Acceptance secures, rather than revokes, the donation.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#gift-france-932\">Civil Law Gifts - France Article 932</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q043",
+      "question": "What general duty does BGB § 242 impose on parties?",
+      "options": {
+        "A": "Claims that pursue only their own interests when performing obligations.",
+        "B": "Claims that perform according to the requirements of good faith, taking customary practice into account.",
+        "C": "Claims that rely exclusively on equity instead of the code.",
+        "D": "Claims that convert obligations into punitive damages claims."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Section 242 limits self-interest by imposing a good-faith standard.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-242\">Good Faith - Germany § 242</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "The provision requires performance consistent with good faith and customary practice.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-242\">Good Faith - Germany § 242</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Civil law applies statutory duties; it does not replace them with equity.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-242\">Good Faith - Germany § 242</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Good faith governs performance; punitive damages remain exceptional.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-242\">Good Faith - Germany § 242</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q044",
+      "question": "Which civil law jurisdictions highlighted in the notes embed a general good-faith principle comparable to § 242 BGB?",
+      "options": {
+        "A": "Claims that only Germany; the PRC, Taiwan, and Japan reject good-faith clauses.",
+        "B": "Claims that only France has a good-faith code provision.",
+        "C": "Claims that only common-law jurisdictions embed good-faith rules.",
+        "D": "Claims that germany (§ 242), PRC (Article 7), Taiwan (Article 148), and Japan (Article 1(2)) all embed general good-faith duties."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes list PRC, Taiwan, and Japan alongside Germany as recognising general good-faith clauses.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-prc7\">Good Faith - Comparative Codes</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "France is not the only jurisdiction; the notes survey multiple codes.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-prc7\">Good Faith - Comparative Codes</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Good faith is a hallmark of civil law codification, not exclusive to common law.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-prc7\">Good Faith - Comparative Codes</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Article 7 PRC, Article 148 Taiwan, and Article 1(2) Japan mirror the German good-faith principle.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-prc7\">Good Faith - Comparative Codes</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q045",
+      "question": "What is the role of BGB § 307 in relation to good faith?",
+      "options": {
+        "A": "Claims that it allows any standard term regardless of fairness.",
+        "B": "Claims that it imposes punitive damages on consumers who accept unfair terms.",
+        "C": "Claims that it invalidates standard terms that unreasonably disadvantage the counterparty, reflecting the good-faith requirement.",
+        "D": "Claims that it applies only to tortious conduct."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Section 307 scrutinises, rather than rubber-stamps, standard terms.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-sec307\">Good Faith - BGB § 307</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Section 307 does not sanction consumers; it protects them.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-sec307\">Good Faith - BGB § 307</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes highlight § 307 as an expression of good-faith control over unfair standard terms.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-sec307\">Good Faith - BGB § 307</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "The provision concerns contract terms, not torts.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-sec307\">Good Faith - BGB § 307</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q046",
+      "question": "How have civil law courts used good faith to fill gaps, according to the notes?",
+      "options": {
+        "A": "Claims that they developed positive contract breach doctrines and ancillary duties (e.g. §§ 241(2), 280, 311 BGB) to protect counterparties, with Asian jurisdictions still relying on case law where legislatures have not codified the rules.",
+        "B": "Claims that they refuse to use good faith to fill gaps, leaving all issues to legislation.",
+        "C": "Claims that they rely solely on equity imported from common law.",
+        "D": "Claims that they eliminate contractual freedom by rewriting agreements wholesale."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Positive contract breach and pre-contract duties stem from good faith, later codified in Germany but still case-driven in some Asian jurisdictions.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-gap-filling\">Good Faith - Gap Filling</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "The notes show courts actively using good faith to fill legislative gaps.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-gap-filling\">Good Faith - Gap Filling</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Civil law courts apply their own doctrines rather than common-law equity.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-gap-filling\">Good Faith - Gap Filling</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Good faith refines, not replaces, contractual freedom.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#good-faith-gap-filling\">Good Faith - Gap Filling</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q047",
+      "question": "What caution do the notes give about invoking trust or equity concepts with civil law counterparts?",
+      "options": {
+        "A": "Claims that civil law systems have broader trust law than common law.",
+        "B": "Claims that most civil law jurisdictions lack trust law and split ownership; references to equity may not resonate.",
+        "C": "Claims that civil law requires equity to override code provisions.",
+        "D": "Claims that trust law governs all civil law donations."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes say the opposite: civil law generally lacks trust law.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#absence-trust-law\">Absence of Trust Law in Civil Systems</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Because civil law does not recognise split ownership or equity, using those concepts may confuse counterparts.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#absence-trust-law\">Absence of Trust Law in Civil Systems</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Equity does not override codes; statutory interpretation governs.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#absence-trust-law\">Absence of Trust Law in Civil Systems</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Trust law is generally absent from civil law donations.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#absence-trust-law\">Absence of Trust Law in Civil Systems</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q048",
+      "question": "How do the notes describe the civil law approach to performance compared with common law 'specific performance'?",
+      "options": {
+        "A": "Claims that specific performance is an exceptional remedy even in civil law.",
+        "B": "Claims that civil law always prefers damages over performance.",
+        "C": "Claims that civil law forbids courts from ordering performance.",
+        "D": "Claims that civil law treats performance in specie as the norm (enforced performance) under § 241 BGB, reflecting pacta sunt servanda."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "The notes emphasise that enforced performance is the default, not an exception.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#enforced-performance-241\">Enforced Performance - Civil Law Default</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Damages become secondary; performance remains primary.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#enforced-performance-241\">Enforced Performance - Civil Law Default</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Civil law insists on performance unless exceptions apply.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#enforced-performance-241\">Enforced Performance - Civil Law Default</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "Section 241 BGB embodies the civil law commitment to performance as promised, unlike the common-law terminology of 'specific performance'.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#enforced-performance-241\">Enforced Performance - Civil Law Default</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q049",
+      "question": "Why must the promisee usually grant a grace period (Nachfrist) before pursuing secondary rights under civil law?",
+      "options": {
+        "A": "Claims that civil law prohibits secondary rights entirely.",
+        "B": "Claims that courts refuse to enforce performance after any delay.",
+        "C": "Claims that the debtor is given a second chance to perform and only upon failure may the promisee resort to damages or other secondary rights.",
+        "D": "Claims that civil law requires punitive damages first."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Secondary rights exist but generally require a grace period.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#enforced-performance-grace\">Enforced Performance - Grace Period</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Courts continue to enforce performance; the grace period is part of that commitment.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#enforced-performance-grace\">Enforced Performance - Grace Period</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "The notes explain that civil law gives the promisor a further opportunity to perform before switching to damages or rescission.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#enforced-performance-grace\">Enforced Performance - Grace Period</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Punitive damages are not a prerequisite in civil law remedies.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#enforced-performance-grace\">Enforced Performance - Grace Period</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M2-Q050",
+      "question": "What happens under BGB § 275 when performance becomes impossible?",
+      "options": {
+        "A": "Claims that the duty of performance is excluded to the extent of impossibility, though the promisor owes damages if responsible.",
+        "B": "Claims that the duty of performance persists and the promisor must still perform.",
+        "C": "Claims that the promisee automatically receives punitive damages.",
+        "D": "Claims that the contract is unaffected and no remedies change."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "The notes state that impossibility excludes the claim for performance, but damages may still be due if the promisor caused the impossibility.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#enforced-performance-275\">Enforced Performance - Impossibility</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Section 275 removes the performance duty when impossible.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#enforced-performance-275\">Enforced Performance - Impossibility</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Damages remain compensatory, not punitive.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#enforced-performance-275\">Enforced Performance - Impossibility</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Impossibility changes both primary and secondary rights.",
+            "note_link": "<a href=\"../Notes/csk5-module2.html#enforced-performance-275\">Enforced Performance - Impossibility</a>"
+          }
+        }
+      }
+    }
+  ]
+}

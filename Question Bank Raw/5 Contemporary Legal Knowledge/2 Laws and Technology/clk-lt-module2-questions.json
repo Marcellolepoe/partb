@@ -1,0 +1,1055 @@
+{
+  "module": "CLK Module 2: Laws and Technology - Module 2: Case Studies - Automobiles & Early Internet Regulation",
+  "questions": [
+    {
+      "id": "CLK-LT-M2-Q001",
+      "question": "According to the automobile case study, what was the 'law of the metal horse' and how did it develop?",
+      "options": {
+        "A": "Argues that the mass adoption of cars in the early 1900s increased accidents, so the law had to respond courts applied the word 'driver' (previously for horse carriage drivers) to cars, mainly using negligence rules premised on driver's control of...",
+        "B": "Maintains that the 'law of the metal horse' was a specialized legal framework created immediately when cars were invented, with no connection to horse carriage rules.",
+        "C": "Contends that the 'law of the metal horse' refers only to traffic laws and has no connection to liability or insurance frameworks.",
+        "D": "Posits that the 'law of the metal horse' was created by automobile manufacturers to avoid liability, with no input from courts or legislatures."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "According to the automobile case study, the 'law of the metal horse' refers to the entire framework of law and systems surrounding the automobile that developed as cars replaced horses. The mass adoption of cars in the early 1900s increased the number of accidents, so the law had to respond once the risk was new. Courts applied the word 'driver' (previously applied to the driver of the horse carriage) to cars. Courts mainly used negligence rules, premised on driver's control of vehicle. Horse carriage rules readily applied because they were analogous - no need for special consideration. Because the rules were analogous, courts could adapt existing legal principles rather than creating entirely new frameworks. This demonstrates how existing legal principles can be adapted to new technologies when the situations are analogous.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. The 'law of the metal horse' was not created immediately with no connection to horse carriage rules. Rather, courts applied existing horse carriage rules (like the word 'driver' and negligence rules) to cars because they were analogous.",
+          "C": "This is too narrow. The 'law of the metal horse' includes not just traffic laws, but the entire framework including liability rules, insurance schemes, and other legal systems surrounding automobiles.",
+          "D": "This is incorrect. The 'law of the metal horse' was not created by manufacturers. Rather, it developed through court decisions applying existing legal principles and through legislative responses (like compulsory insurance) to address the rise in accidents."
+        },
+        "reference": "Automobile Case Study - 'Law of the Metal Horse' - Entire Framework of Law and Systems Surrounding Automobile; Mass Adoption of Cars in Early 1900s Increased Accidents; Law Had to Respond; Courts Applied Word 'Driver' (Previously for Horse Carriage) to Cars; Mainly Negligence Rules Premised on Driver's Control; Horse Carriage Rules Readily Applied Because Analogous; Demonstrates How Existing Legal Principles Can Be Adapted to New Technologies"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q002",
+      "question": "According to the automobile case study, why was regulation necessary in addition to liability rules?",
+      "options": {
+        "A": "Argues that liability rules were completely ineffective and never worked for automobile accidents.",
+        "B": "Maintains that regulation was necessary only for commercial vehicles, not private cars.",
+        "C": "Contends that regulation was necessary because courts refused to apply liability rules to automobile accidents.",
+        "D": "Posits that liability proved insufficient given the rise in accidents and judgment-proof defendants people could win lawsuits but never get their money back because defendants were too rich/powerful or too poor to care about the judgment, so regulation (like compulsory..."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to the automobile case study, regulation was necessary in addition to liability because liability proved insufficient given the rise in accidents and judgment-proof defendants. People could win their lawsuits but never get their money back - defendants were judgment-proof, being too rich/powerful or too poor to care about the judgment. This created a legal disconnect between existing laws and new social issues caused by the technology, so regulation was thought to be necessary. The first mover was the UK (ahead of US), which passed the Road Traffic Acts of 1930s, introducing compulsory insurance. Compensation was still premised on proof of negligence, but the insurance scheme ensured that costs fell not upon funds derived largely from the generosity of the charitable, but on those by whom in equity it should be borne by compelling motorists to pay regular premiums. As technology developed, more and more regulation (highway codes, etc.) was added.",
+        "incorrect": {
+          "A": "This is too absolute. Liability rules did work in theory, but the problem was practical - judgment-proof defendants meant victims couldn't recover even when they won. The rules themselves weren't ineffective, but enforcement/recovery was problematic.",
+          "B": "This is too narrow. The Road Traffic Acts introduced compulsory insurance for motorists generally, not just commercial vehicles. The regulation addressed the general problem of judgment-proof defendants in automobile accidents.",
+          "C": "This is incorrect. Courts did apply liability rules to automobile accidents - they applied negligence rules premised on driver's control. The problem wasn't that courts refused to apply liability, but that liability alone was insufficient due to judgment-proof defendants.",
+          "D": "This is the correct answer."
+        },
+        "reference": "Automobile Case Study - Why Regulation Necessary - Liability Proved Insufficient Given Rise in Accidents and Judgment-Proof Defendants; People Could Win Lawsuits But Never Get Money Back; Defendants Too Rich/Powerful or Too Poor to Care About Judgment; Legal Disconnect Between Existing Laws and New Social Issues; UK Passed Road Traffic Acts 1930s Introducing Compulsory Insurance; Compensation Still Premised on Proof of Negligence; Insurance Ensured Costs Fell on Those by Whom in Equity It Should Be Borne"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q003",
+      "question": "According to Jerrold's paper on automated vehicles, what is 'driver-centricity' and how did it emerge?",
+      "options": {
+        "A": "Argues that driver-centricity means that drivers are always at fault in accidents, with no exceptions.",
+        "B": "Maintains that driver-centricity can be unpacked into two layers: first, drivers are central in law as the focal point of tort liability second, drivers are central in practice because compulsory insurance identifies them as the first parties victims consider suing.",
+        "C": "Contends that driver-centricity means that only drivers can be held liable, never manufacturers or other parties.",
+        "D": "Posits that driver-centricity emerged from manufacturers' desire to avoid liability, with no connection to insurance or compensation schemes."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "According to Jerrold's paper, 'driver-centricity' can be unpacked into two layers: (1) First, drivers are central in law as the focal point of tort liability. The natural person to owe the negligence duty was the driver. With liability centered on the driver, insurance obligations followed. (2) Second, drivers are central in practice because compulsory insurance identifies them as the first parties victims consider suing, possibly even if the accident was caused by manufacturing defects. The layers interact. Denning MR in Nettleship v Weston suggested that judges had, since the Road Traffic Acts, become more willing to pin negligence liability on drivers, even in the absence of fault, because this better accorded with the policy of compulsory insurance. Driver-centricity emerged from the search for practical, fair, and efficient means of victim compensation in light of a negligence-based regime inherited from the days of the horse and buggy. Driver-centricity emerged from the transitional period where an untested new technology (car) gradually replaced a familiar one (horse).",
+        "incorrect": {
+          "A": "This is too absolute. Driver-centricity doesn't mean drivers are always at fault. Rather, it means drivers are the focal point of liability analysis and insurance schemes, but fault must still be proven under negligence principles.",
+          "B": "This is the correct answer.",
+          "C": "This is too absolute. Driver-centricity doesn't mean only drivers can be held liable. Rather, it means drivers are the primary focal point, but other parties (like manufacturers) can still be liable. The point is that drivers are the first parties victims consider suing due to compulsory insurance.",
+          "D": "This mischaracterizes the emergence. Driver-centricity didn't emerge from manufacturers' desire to avoid liability. Rather, it emerged from the search for practical, fair, and efficient means of victim compensation, with the natural person to owe the negligence duty being the driver."
+        },
+        "reference": "Jerrold on Driver-Centricity - Two Layers: (1) Drivers Central in Law as Focal Point of Tort Liability, (2) Drivers Central in Practice Because Compulsory Insurance Identifies Them as First Parties Victims Consider Suing; Layers Interact; Emerged from Search for Practical, Fair, Efficient Means of Victim Compensation; In Light of Negligence-Based Regime Inherited from Horse and Buggy Days; Natural Person to Owe Negligence Duty Was Driver; With Liability Centered on Driver, Insurance Obligations Followed"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q004",
+      "question": "According to the 'Criminalizing walking; subsidizing driving' article, how did Lessig's theory play out in the context of automobile regulation?",
+      "options": {
+        "A": "Argues that lessig's theory didn't apply to automobiles because cars are physical objects, not cyberspace.",
+        "B": "Maintains that only law changed - social norms and architecture remained unchanged.",
+        "C": "Contends that lessig's theory plays out nearly note for note - social norms (stigma around jaywalking, victim-blaming), real space architecture (roads, freeways, parking spaces, sidewalks), and laws (jaywalking became illegal) all changed to favor driving over walking, demonstrating how all...",
+        "D": "Posits that only architecture changed - laws and social norms remained the same as before cars."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "According to the 'Criminalizing walking; subsidizing driving' article, Lessig's theory plays out nearly note for note in the automobile context. Social norms changed: stigma around jaywalking (essentially a kind of victim-blaming), claim that 'Jaywalkers are causing most of the incidents!', traffic collisions branded as 'accidents' (the narrative that it's no one's fault). Real space architecture evolved: roads and freeways became the norm, parking spaces took over cities, pedestrians (once free to walk anywhere) were relegated to the sidewalk. Laws also changed: jaywalking became illegal and widely-enforced, sometimes against disadvantaged groups. This demonstrates how all four modalities (market, law, norms, architecture) interacted to regulate behavior in favor of driving over walking. The lesson is that as we move on to more 'newly urgent' cases, we should be able to spot parallels to the past.",
+        "incorrect": {
+          "A": "This is incorrect. Lessig's theory applies to all regulation, not just cyberspace. The four modalities (market, law, norms, architecture) apply to real space as well. The automobile case demonstrates this.",
+          "B": "This is incorrect. The article specifically describes how social norms changed (stigma around jaywalking, victim-blaming) and how architecture changed (roads, freeways, parking spaces, sidewalks). All modalities changed, not just law.",
+          "C": "This is the correct answer.",
+          "D": "This is incorrect. The article specifically describes how laws changed (jaywalking became illegal) and how social norms changed (stigma, victim-blaming). All modalities changed, not just architecture."
+        },
+        "reference": "Criminalizing Walking; Subsidizing Driving - Lessig's Theory Plays Out Nearly Note for Note; Social Norms Changed (Stigma Around Jaywalking, Victim-Blaming, 'Accidents' Narrative); Real Space Architecture Evolved (Roads, Freeways, Parking Spaces, Sidewalks); Laws Changed (Jaywalking Illegal, Widely-Enforced); Demonstrates How All Four Modalities Interacted to Regulate Behavior; Lesson: Should Spot Parallels to Past in Newly Urgent Cases"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q005",
+      "question": "According to the notes on how the Internet works, what is the relationship between IP (Internet Protocol) and TCP (Transmission Control Protocol)?",
+      "options": {
+        "A": "Argues that iP directs packets to a specific computer using an IP address, while TCP directs packets to a specific application on a computer using a port number TCP is responsible for routing application protocols to the correct application, while...",
+        "B": "Maintains that iP and TCP are the same thing - they are just different names for the same protocol.",
+        "C": "Contends that tCP directs packets to computers, while IP directs packets to applications.",
+        "D": "Posits that iP and TCP are completely unrelated and don't work together."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "According to the notes, IP (Internet Protocol) and TCP (Transmission Control Protocol) work together in the protocol stack but have different functions. IP directs packets to a specific computer using an IP address. IP is an unreliable, connectionless protocol - IP doesn't care whether a packet gets to its destination or not, nor does IP know about connections and port numbers. IP's job is to send and route packets to other computers. TCP is responsible for routing application protocols to the correct application on the destination computer using port numbers. Each application on a computer listens on a different port. When a packet arrives, the TCP layer decides which application receives the packet based on the port number of the incoming packet. TCP is connection-oriented, reliable, and includes error-checking. Unlike TCP, IP is unreliable and connectionless - it is TCP's job to make sure packets arrive and are in the correct order.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. IP and TCP are different protocols with different functions. IP handles routing to computers, TCP handles routing to applications and reliability.",
+          "C": "This reverses the functions. IP directs packets to computers (using IP addresses), while TCP directs packets to applications (using port numbers).",
+          "D": "This is incorrect. IP and TCP work together in the protocol stack - IP gets packets to the right computer, TCP gets packets to the right application on that computer and ensures reliability."
+        },
+        "reference": "How Internet Works - IP and TCP Relationship; IP Directs Packets to Specific Computer Using IP Address; IP Is Unreliable, Connectionless Protocol; IP's Job: Send and Route Packets to Other Computers; TCP Directs Packets to Specific Application Using Port Number; TCP Is Connection-Oriented, Reliable, Includes Error-Checking; TCP's Job: Make Sure Packets Arrive and Are in Correct Order; They Work Together in Protocol Stack"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q006",
+      "question": "According to the notes, what is DNS (Domain Name Service) and what does it do?",
+      "options": {
+        "A": "Argues that dNS is a security protocol that encrypts all internet communications.",
+        "B": "Maintains that dNS is the same as HTTP and they perform identical functions.",
+        "C": "Contends that dNS is a protocol that determines which websites are legal and which should be blocked.",
+        "D": "Posits that dNS is how an IP address can be referred to via URL (e g."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to the notes, DNS (Domain Name Service) is how an IP address can be referred to via URL (e.g., www.google.com). There is a DNS database spread across multiple DNS servers that keeps a record of which URL points to which IP address. Home computers normally require a DNS server to be named in the setup process, so that the browser knows where to look for the domain names to get the IP address. When you type a URL into a web browser, if the URL contains a domain name, the browser first connects to a domain name server and retrieves the corresponding IP address for the web server. DNS translates human-readable domain names (like www.google.com) into IP addresses (like 5.6.7.8) that computers use to route packets.",
+        "incorrect": {
+          "A": "This is incorrect. DNS is not a security or encryption protocol. It's a name resolution service that translates domain names to IP addresses.",
+          "B": "This is incorrect. DNS and HTTP are different protocols with different functions. DNS translates domain names to IP addresses. HTTP (Hypertext Transfer Protocol) is the protocol that web browsers and web servers use to communicate with each other over the Internet.",
+          "C": "This is incorrect. DNS doesn't determine which websites are legal or should be blocked. It's a technical service that translates domain names to IP addresses, not a content filtering or legal determination system.",
+          "D": "This is the correct answer."
+        },
+        "reference": "DNS (Domain Name Service) - How IP Address Can Be Referred to Via URL (e.g., www.google.com); DNS Database Spread Across Multiple DNS Servers; Keeps Record of Which URL Points to Which IP Address; Home Computers Require DNS Server Named in Setup Process; Browser Connects to DNS Server to Retrieve IP Address for Domain Name; Translates Human-Readable Domain Names into IP Addresses"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q007",
+      "question": "According to Lessig's discussion of cyberspace architecture, what are the Internet's core values as embedded in its architecture?",
+      "options": {
+        "A": "Argues that the Internet should be as complex as possible, with all intelligence vested in network owners to maximize control.",
+        "B": "Maintains that the network should be kept as simple as possible, and the intelligence required in the network be vested at the edge as far as possible - seen in TCP/IP which just delivers packets without worrying about what they...",
+        "C": "Contends that the Internet should prioritize security over openness, with all communications encrypted and monitored.",
+        "D": "Posits that the Internet should be controlled by a single central authority to ensure consistency and reliability."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "According to Lessig, the Internet's core values as embedded in its architecture are that the network should be kept as simple as possible, and the intelligence required in the network be vested at the edge as far as possible. This is seen in TCP/IP - the protocol just delivers packets without worrying about what they do or who they're meant for. This enables people to innovate for the network without coordinating with any network owner. This encourages innovation and competition (prevents network owners from denying access strategically). These architectural features embed certain values. These values can change, and if they do, the values the Internet promotes will be different. The architecture matters - the same application of 'real-life code' has also affected behavior (e.g., DRM technology to prevent copyright infringement). The point is that architectures matter, and the Internet's architecture embeds values of simplicity, edge intelligence, and innovation without coordination.",
+        "incorrect": {
+          "A": "This reverses the Internet's values. The Internet is designed to be simple, not complex, and intelligence is at the edge (users), not with network owners. This design prevents network owners from controlling innovation.",
+          "B": "This is the correct answer.",
+          "C": "This mischaracterizes the Internet's core values. While security may be important, the core architectural values are simplicity and edge intelligence, not prioritizing security over openness. The original design prioritized openness and innovation.",
+          "D": "This contradicts the Internet's core values. The Internet is designed to avoid central control - intelligence is at the edge, and people can innovate without coordinating with network owners. A single central authority would contradict these values."
+        },
+        "reference": "Lessig on Internet's Core Values - Network Should Be Kept as Simple as Possible; Intelligence Required in Network Vested at Edge as Far as Possible; Seen in TCP/IP: Just Delivers Packets Without Worrying About What They Do or Who They're Meant For; Enables People to Innovate Without Coordinating with Network Owner; Encourages Innovation and Competition; Prevents Network Owners from Denying Access Strategically; Architectural Features Embed Certain Values; Values Can Change"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q008",
+      "question": "According to Lessig's examples (AOL, Counsel Connect, LambdaMOO), what do these examples demonstrate about cyberspace architecture and regulation?",
+      "options": {
+        "A": "Argues that they demonstrate that all online spaces are identical and have the same regulatory characteristics.",
+        "B": "Maintains that they demonstrate that architecture is irrelevant to regulation - only law matters.",
+        "C": "Contends that they demonstrate that different architectures embed different values and enable different forms of regulation - AOL's architecture enables control through code, Counsel Connect enables regulation through norms (real names, reputation), and LambdaMOO shows how communities may need to...",
+        "D": "Posits that they demonstrate that all online spaces should be regulated identically by government."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "According to Lessig's examples, different cyberspace architectures embed different values and enable different forms of regulation. AOL: when you are on AOL, you are subject to the rules of its world - it knows certain things about who you are, makes it harder for other users to know who you are, and it constrains the size of chat rooms making it more difficult for dissidents to organize. If AOL wants to control behavior, it can impose rules, tax the behavior, or change the architecture/code completely to render that behavior impossible. Counsel Connect: an online lawyers' cooperative that used real names (social pressure and responsibility), forced all discussions into threads (forces people to read before speaking), and built reputation within the community tied to real names. This enabled regulation through norms more than code - behavior was more regulable by norms than in AOL. LambdaMOO: an open space where someone did horrible stuff, and community members had to determine whether to turn to vigilantism or institute rules via democracy - the system had failed to self-regulate, and users had to come up with internal norms. These examples show that architectural features of the Internet embed certain values, and these values can change.",
+        "incorrect": {
+          "A": "This is incorrect. The examples specifically demonstrate that different online spaces have different regulatory characteristics - AOL enables code-based control, Counsel Connect enables norm-based regulation, LambdaMOO required community-developed norms.",
+          "B": "This contradicts Lessig's framework. He specifically argues that architecture matters and regulates behavior. The examples demonstrate how architecture enables different forms of regulation, not that architecture is irrelevant.",
+          "C": "This is the correct answer.",
+          "D": "This mischaracterizes the examples. They demonstrate that different architectures enable different regulatory approaches (code, norms, community rules), not that all should be regulated identically by government."
+        },
+        "reference": "Lessig's Examples - AOL: Architecture Enables Control Through Code; Knows Who You Are, Constrains Chat Room Sizes; Can Change Architecture to Render Behavior Impossible; Counsel Connect: Enables Regulation Through Norms (Real Names, Reputation, Threads); Behavior More Regulable by Norms; LambdaMOO: System Failed to Self-Regulate, Users Developed Internal Norms; Demonstrates Different Architectures Embed Different Values and Enable Different Forms of Regulation"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q009",
+      "question": "According to the notes on Internet routing, how do routers work to direct packets to their destinations?",
+      "options": {
+        "A": "Argues that routers are packet switches - each router knows about its sub-networks and which IP addresses they use when a packet arrives, the router looks at the packet's destination IP address and looks for it in the router's routing...",
+        "B": "Maintains that routers broadcast every packet to every computer on the network, and the correct computer accepts it.",
+        "C": "Contends that routers randomly send packets to any computer, hoping they reach the right destination eventually.",
+        "D": "Posits that routers require human operators to manually direct each packet to its destination."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "According to the notes, routers are packet switches. Each router knows about its sub-networks and which IP addresses they use. Routers usually don't know what IP addresses are above them. The information used to get packets to their destinations is contained in routing tables kept by each router connected to the internet. When a packet arrives at a router, the router looks at the packet's destination IP address and looks for it in the router's routing table. If found, the packet is sent there. If the router doesn't know where to send the packet, it sends the packet on a default route, usually up the hierarchy to the next router. If still not found, it sends further up until it reaches a NSP backbone. The routers connected to the NSP backbones hold the largest routing tables, and the packet will be routed to the correct backbone and is sent downwards until it arrives at the destination. Packets are not broadcast to every computer - routers use routing tables to direct packets efficiently.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. Packets are not broadcast to every computer. Routers use routing tables to direct packets to specific destinations based on IP addresses, not by broadcasting to everyone.",
+          "C": "This is incorrect. Routers don't randomly send packets. They use routing tables and IP addresses to systematically direct packets toward their destinations through the network hierarchy.",
+          "D": "This is incorrect. Routers work automatically using routing tables and IP addresses. They don't require human operators to manually direct each packet - the routing happens automatically based on the routing tables and destination IP addresses."
+        },
+        "reference": "Internet Routing - Routers Are Packet Switches; Each Router Knows About Its Sub-Networks and Which IP Addresses They Use; Information in Routing Tables Kept by Each Router; When Packet Arrives, Router Looks at Destination IP Address in Routing Table; If Found, Packet Sent There; If Not Found, Sends on Default Route Up Hierarchy; Routers Connected to NSP Backbones Hold Largest Routing Tables; Packets Routed to Correct Backbone and Sent Downwards to Destination"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q010",
+      "question": "According to the notes, what is HTTP (Hypertext Transfer Protocol) and how does it work?",
+      "options": {
+        "A": "Argues that hTTP is a protocol that encrypts all web communications to ensure security.",
+        "B": "Maintains that hTTP is a protocol that only works for email, not for web browsing.",
+        "C": "Contends that hTTP is the same as DNS and performs the same function of translating domain names.",
+        "D": "Posits that hTTP is an application-level protocol that allows web browsers and web servers to communicate with each other over the Internet when you type a URL, the browser connects to the web server and sends an HTTP request for..."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to the notes, HTTP (Hypertext Transfer Protocol) is the protocol that web browsers and web servers use to communicate with each other over the Internet. It is an application-level protocol that allows web browsers and servers to talk to each other. When you type a URL into a web browser: (1) If the URL contains a domain name, the browser first connects to a domain name server and retrieves the corresponding IP address. (2) The web browser connects to the web server and sends an HTTP request (via the protocol stack) for the desired web page. (3) The web server receives the request and checks for the desired page. If the page exists, the web server sends it. If not, it sends an HTTP 404 error message. (4) The web browser receives the page back and the connection is closed. (5) The browser then parses through the page and looks for other page elements it needs (images, applets, etc.). (6) For each element needed, the browser makes additional connections and HTTP requests to the server for each element. (7) When the browser has finished loading all images, applets, etc., the page will be completely loaded.",
+        "incorrect": {
+          "A": "This is incorrect. HTTP itself does not encrypt communications - that's HTTPS (HTTP Secure). HTTP is the basic protocol for web communication, which may or may not be encrypted depending on whether HTTPS is used.",
+          "B": "This is incorrect. HTTP is for web browsing, not email. Email uses SMTP (Simple Mail Transfer Protocol), not HTTP.",
+          "C": "This is incorrect. HTTP and DNS are different protocols with different functions. DNS translates domain names to IP addresses. HTTP is the protocol for web browser-server communication.",
+          "D": "This is the correct answer."
+        },
+        "reference": "HTTP (Hypertext Transfer Protocol) - Application-Level Protocol That Allows Web Browsers and Web Servers to Communicate; When You Type URL: Browser Connects to DNS Server for IP Address, Connects to Web Server, Sends HTTP Request for Web Page, Server Sends Page Back, Browser Makes Additional HTTP Requests for Page Elements (Images, Applets), Page Loads When All Elements Received"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q011",
+      "question": "According to Jerrold's paper, what was the purpose of the compulsory insurance scheme under the Road Traffic Act 1930 in the UK?",
+      "options": {
+        "A": "Argues that to eliminate the need to prove negligence, making all accident victims automatically entitled to compensation regardless of fault.",
+        "B": "Maintains that to ensure that costs fell not upon funds derived largely from the generosity of the charitable, but on those by whom in equity it should be borne by compelling motorists to pay regular premiums this was not meant...",
+        "C": "Contends that to transfer all liability from drivers to insurance companies, so drivers could never be held personally liable.",
+        "D": "Posits that to create a government fund that would pay all accident victims, eliminating the need for private insurance."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "According to Jerrold's paper, the compulsory insurance scheme under the Road Traffic Act 1930 in the UK was designed specifically to ensure that costs fell not upon funds derived largely from the generosity of the charitable, but on those by whom in equity it should be borne by compelling motorists to pay regular premiums. This was not meant to disturb tort liability principles, as victims were still to prove negligence before being entitled to compensation. The scheme addressed the problem that negligence alone was unsatisfactory because accident victims commonly overcame costly litigation only to find tortfeasors insolvent and judgment-proof. The insurance scheme ensured that when victims proved negligence and won their lawsuits, they could actually recover compensation from the insurance company, rather than being unable to collect from judgment-proof defendants. Compensation was still premised on proof of negligence - the insurance didn't change the liability standard, it just ensured there was a source of funds to pay valid claims.",
+        "incorrect": {
+          "A": "This is incorrect. The compulsory insurance scheme did not eliminate the need to prove negligence. Victims were still required to prove negligence before being entitled to compensation. The insurance scheme ensured there was a source of funds to pay valid claims, but didn't change the liability standard.",
+          "B": "This is the correct answer.",
+          "C": "This is incorrect. The scheme didn't transfer all liability from drivers to insurance companies. Drivers were still personally liable - the insurance was to ensure there were funds to pay valid claims. The insurance company pays on behalf of the driver, but the driver is still the liable party.",
+          "D": "This is incorrect. The scheme didn't create a government fund. Rather, it required motorists to obtain private insurance (compulsory insurance) and pay regular premiums. The insurance was private, not a government fund."
+        },
+        "reference": "Jerrold on Compulsory Insurance - Designed to Ensure Costs Fell on Those by Whom in Equity It Should Be Borne; By Compelling Motorists to Pay Regular Premiums; Not Meant to Disturb Tort Liability Principles; Victims Still to Prove Negligence Before Entitled to Compensation; Addressed Problem of Judgment-Proof Defendants; Insurance Ensured Source of Funds to Pay Valid Claims; Compensation Still Premised on Proof of Negligence"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q012",
+      "question": "According to the notes, what is SMTP (Simple Mail Transfer Protocol) and how does it work?",
+      "options": {
+        "A": "Argues that sMTP is a protocol for web browsing, not for email.",
+        "B": "Maintains that sMTP is a protocol that automatically encrypts all email communications.",
+        "C": "Contends that sMTP is Simple Mail Transfer Protocol used for email the mail client opens a connection to the mail server, the server identifies itself, the client sends SMTP commands (like HELO), the server responds, and this continues until the...",
+        "D": "Posits that sMTP is the same as HTTP and performs identical functions."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "According to the notes, SMTP (Simple Mail Transfer Protocol) is used for email. The process works as follows: (1) The mail client (Netscape Mail, Lotus Notes, Microsoft Outlook, etc.) opens a connection to its default mail server. The mail server's IP address or domain name is typically setup when the mail client is installed. (2) The mail server will always transmit the first message to identify itself. (3) The client will send an SMTP HELO command to which the server will respond with a 250 OK message. (4) Depending on whether the client is checking mail, sending mail, etc., the appropriate SMTP commands will be sent to the server, which will respond accordingly. (5) This request/response transaction will continue until the client sends an SMTP QUIT command. (6) The server will then say goodbye and the connection will be closed. SMTP is an application-level protocol in the protocol stack, used specifically for email communication between mail clients and mail servers.",
+        "incorrect": {
+          "A": "This is incorrect. SMTP is for email, not web browsing. Web browsing uses HTTP (Hypertext Transfer Protocol).",
+          "B": "This is incorrect. SMTP itself does not automatically encrypt communications. Basic SMTP is unencrypted, though there are secure versions (SMTPS) that use encryption. The notes don't indicate that SMTP automatically encrypts.",
+          "C": "This is the correct answer.",
+          "D": "This is incorrect. SMTP and HTTP are different protocols with different functions. SMTP is for email communication between mail clients and servers. HTTP is for web browsing communication between web browsers and web servers."
+        },
+        "reference": "SMTP (Simple Mail Transfer Protocol) - Used for Email; Mail Client Opens Connection to Mail Server; Server Identifies Itself; Client Sends SMTP Commands (HELO); Server Responds (250 OK); Appropriate SMTP Commands Sent Depending on Action (Checking/Sending Mail); Request/Response Transaction Continues Until Client Sends QUIT Command; Connection Closes; Application-Level Protocol for Email Communication"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q013",
+      "question": "According to the automobile case study, how does the development of automobile regulation reflect the Collingridge dilemma?",
+      "options": {
+        "A": "Argues that in hindsight, automobile regulation might look like it's all figured out, but many people died for it, and many people still die today - this reflects the Collingridge dilemma where regulators faced challenges in timing regulation (early stage...",
+        "B": "Maintains that it doesn't reflect the Collingridge dilemma at all, as automobile regulation was straightforward with no timing challenges.",
+        "C": "Contends that the Collingridge dilemma only applies to digital technologies, not physical technologies like automobiles.",
+        "D": "Posits that automobile regulation was perfectly timed with no trade-offs or challenges."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "According to the automobile case study, the development of automobile regulation reflects the Collingridge dilemma. In hindsight, it might look like it's all figured out, but many people died for it, and many people still die today. This reflects the Collingridge dilemma where regulators faced challenges in timing regulation. At an early stage, regulation was problematic due to lack of information about the technology's likely impact. At a late stage, regulation was problematic because the technology was entrenched. The framework developed through painful experience: traffic fatalities and lawsuits over the years. Today's motor vehicle accident compensation schemes are the product of this painful experience. The standalone body of MVA law emerged from a transitional period where an untested new technology (car) gradually replaced a familiar one (horse). The regulation developed over time as problems became apparent, reflecting the timing challenges of the Collingridge dilemma - regulators had to make decisions with imperfect information, and the framework evolved through experience.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. The notes specifically indicate that the development reflects the Collingridge dilemma, noting that 'in hindsight, might look like it's all figured out. But many people died for it, and many people still die today' - this reflects the timing challenges of the dilemma.",
+          "C": "This is incorrect. The Collingridge dilemma applies to technology regulation generally, not just digital technologies. The automobile case study is specifically used to illustrate how the dilemma applies to physical technologies.",
+          "D": "This is incorrect. The notes specifically indicate that many people died during the development of automobile regulation, and the framework developed through 'painful experience' - this shows there were significant trade-offs and challenges, not perfect timing."
+        },
+        "reference": "Automobile Case Study and Collingridge Dilemma - In Hindsight Might Look Like All Figured Out; But Many People Died for It, Many Still Die Today; Reflects Collingridge Dilemma Timing Challenges; Framework Developed Through Painful Experience (Traffic Fatalities, Lawsuits Over Years); Today's Schemes Product of Painful Experience; Regulation Developed Over Time as Problems Became Apparent; Reflects Timing Challenges - Regulators Made Decisions with Imperfect Information"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q014",
+      "question": "According to the notes on Internet infrastructure, what are NSPs (Network Service Providers) and how do they connect?",
+      "options": {
+        "A": "Argues that nSPs are individual home computers that connect directly to each other without any intermediaries.",
+        "B": "Maintains that nSPs are government-controlled networks that regulate all internet traffic.",
+        "C": "Contends that nSPs are the same as routers and perform identical functions.",
+        "D": "Posits that internet backbone is made of many large interconnected networks called Network Service Providers (NSPs) they peer with each other to exchange packet traffic."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to the notes, the Internet backbone is made of many large interconnected networks - these are called Network Service Providers (NSPs). They peer with each other to exchange packet traffic. Each NSP connects to Network Access Points (NAPs) - at each of these, traffic may jump from one backbone to another. NSPs also connect at Metropolitan Area Exchanges (MAEs) - same as NAPs but are privately owned. Both NAPs and MAEs are known as Internet Exchanges (IXs). The NSP backbones are the major networks that form the core infrastructure of the Internet. Smaller networks and individual ISPs connect to these backbones. When packets need to travel from one NSP's network to another, they do so through NAPs or MAEs (Internet Exchanges). This creates the hierarchical structure of the Internet, with NSP backbones at the top level.",
+        "incorrect": {
+          "A": "This is incorrect. NSPs are not individual home computers. They are large networks that form the Internet backbone. Home computers connect to ISPs, which connect to NSP backbones.",
+          "B": "This is incorrect. NSPs are not necessarily government-controlled. They are large networks (often private companies) that form the Internet backbone. The Internet infrastructure includes both public and private networks.",
+          "C": "This is incorrect. NSPs are not the same as routers. NSPs are large networks (the Internet backbone), while routers are devices that direct packets within and between networks. Routers are used within NSP networks and to connect networks.",
+          "D": "This is the correct answer."
+        },
+        "reference": "Internet Infrastructure - NSPs (Network Service Providers) - Internet Backbone Made of Many Large Interconnected Networks; NSPs Peer with Each Other to Exchange Packet Traffic; Each NSP Connects to NAPs (Network Access Points) and MAEs (Metropolitan Area Exchanges); At NAPs/MAEs, Traffic May Jump from One Backbone to Another; Both NAPs and MAEs Known as Internet Exchanges (IXs); NSP Backbones Form Core Infrastructure of Internet"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q015",
+      "question": "According to the 'Criminalizing walking; subsidizing driving' article, what was the significance of branding traffic collisions as 'accidents'?",
+      "options": {
+        "A": "Argues that it was a neutral technical term with no regulatory significance.",
+        "B": "Maintains that it created a narrative that it's no one's fault - this was part of social norms led by corporate interest campaigns that shifted blame away from drivers and the automobile industry, essentially a form of victim-blaming that favored...",
+        "C": "Contends that it was required by law to describe all traffic incidents.",
+        "D": "Posits that it was a term created by pedestrians to protect themselves from liability."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "According to the 'Criminalizing walking; subsidizing driving' article, branding traffic collisions as 'accidents' created a narrative that it's no one's fault. This was part of social norms led by corporate interest campaigns. The article notes that social norms, led by corporate interest campaigns, included: stigma around jaywalking (essentially a kind of victim-blaming), claim that 'Jaywalkers are causing most of the incidents!', and traffic collisions branded as 'accidents' - the narrative that it's no one's fault. This framing shifted responsibility away from drivers and the automobile industry, making collisions seem like unavoidable events rather than consequences of design choices, infrastructure, or driver behavior. This was part of how Lessig's theory plays out - social norms (one of the four modalities) were shaped to favor driving over walking, working alongside changes in architecture (roads, freeways), laws (jaywalking illegal), and market forces. The term 'accident' suggests no one is at fault, which benefits those who might otherwise bear responsibility.",
+        "incorrect": {
+          "A": "This is incorrect. The article specifically indicates that branding collisions as 'accidents' was part of social norms led by corporate interest campaigns, creating a narrative that it's no one's fault. This has regulatory significance as it shapes how we understand and assign responsibility for collisions.",
+          "B": "This is the correct answer.",
+          "C": "This is incorrect. The article doesn't indicate that using 'accidents' was required by law. Rather, it was part of social norms and corporate campaigns - a narrative framing, not a legal requirement.",
+          "D": "This is incorrect. The article indicates that branding collisions as 'accidents' was part of corporate interest campaigns, not something created by pedestrians. The narrative benefited drivers and the automobile industry, not pedestrians."
+        },
+        "reference": "Criminalizing Walking - Traffic Collisions Branded as 'Accidents' - Narrative That It's No One's Fault; Part of Social Norms Led by Corporate Interest Campaigns; Shifted Responsibility Away from Drivers and Automobile Industry; Made Collisions Seem Like Unavoidable Events; Part of How Lessig's Theory Plays Out - Social Norms Shaped to Favor Driving; Worked Alongside Changes in Architecture, Laws, Market Forces"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q016",
+      "question": "According to the notes, what is the protocol stack and how do the different layers work together?",
+      "options": {
+        "A": "Argues that the protocol stack is a single protocol that handles all internet communication in one step.",
+        "B": "Maintains that the protocol stack only has two layers: hardware and software, with no further division.",
+        "C": "Contends that the protocol stack has multiple layers: Application Protocols Layer (WWW, email, FTP), TCP Layer (directs packets to specific application using port number), IP Layer (directs packets to specific computer using IP address), Hardware Layer (converts binary packet data...",
+        "D": "Posits that the protocol stack is irrelevant to how the Internet works - all communication happens directly without layers."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "According to the notes, the protocol stack has multiple layers that work together. The layers are: (1) Application Protocols Layer - protocols specific to applications such as WWW, e-mail, FTP, etc. (2) Transmission Control Protocol (TCP) Layer - TCP directs packets to a specific application on a computer using a port number. (3) Internet Protocol (IP) Layer - IP directs packets to a specific computer using an IP address. (4) Hardware Layer - converts binary packet data to network signals and back (e.g., ethernet network card, modem for phone lines). When sending data: data is broken up into packets, each packet is assigned a port number at TCP layer, each packet is given the destination IP address, then the packet is translated into electronic signals by the hardware layer and sent. When receiving: the process happens in reverse - hardware layer receives signals and converts to binary, IP layer identifies the destination computer, TCP layer identifies the destination application, and the application protocol handles the data.",
+        "incorrect": {
+          "A": "This is incorrect. The protocol stack is not a single protocol - it's a layered system with multiple protocols working together at different levels (application, TCP, IP, hardware).",
+          "B": "This is too simplified. The protocol stack has four main layers (Application, TCP, IP, Hardware), not just two. Each layer has specific functions.",
+          "C": "This is the correct answer.",
+          "D": "This is incorrect. The protocol stack is fundamental to how the Internet works. All internet communication uses this layered approach - data flows through the layers when sending and receiving."
+        },
+        "reference": "Protocol Stack - Multiple Layers: Application Protocols Layer (WWW, Email, FTP), TCP Layer (Directs Packets to Application Using Port Number), IP Layer (Directs Packets to Computer Using IP Address), Hardware Layer (Converts Binary to Network Signals); Data Flows Down Through Layers When Sending, Up Through Layers When Receiving; Each Layer Has Specific Function"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q017",
+      "question": "According to Jerrold's paper, how did US courts approach automobile liability initially, and what was the significance of this approach?",
+      "options": {
+        "A": "Argues that uS courts insisted that rules of law applicable to automobile cases were no different from those which had been developed in the days of the horse and buggy, thus MVA liability was determined by extending negligence rules developed...",
+        "B": "Maintains that uS courts created entirely new legal frameworks specifically for automobiles, with no connection to existing law.",
+        "C": "Contends that uS courts refused to apply any liability rules to automobiles, requiring complete immunity for drivers.",
+        "D": "Posits that uS courts applied strict liability to all automobile accidents, eliminating the need to prove negligence."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "According to Jerrold's paper, US courts initially insisted that rules of law applicable to automobile cases were no different from those which had been developed in the days of the horse and buggy. Thus, MVA (motor vehicle accident) liability was determined by extending negligence rules developed for horses. This shows how existing legal principles were adapted to new technology when the situations were analogous. The courts didn't create entirely new frameworks - they extended existing negligence rules that had been developed for horse-drawn vehicles. This approach is consistent with Easterbrook's 'Law of the Horse' position - existing legal principles can be adapted to handle new technologies when the situations are analogous. However, negligence alone was unsatisfactory because accident victims commonly overcame costly litigation only to find tortfeasors insolvent and judgment-proof, which led to the development of compulsory insurance schemes.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. US courts did not create entirely new frameworks. Rather, they extended existing negligence rules developed for horses, applying them to automobiles because the situations were analogous.",
+          "C": "This is incorrect. US courts did apply liability rules to automobiles - they applied negligence rules that had been developed for horses. They didn't grant immunity.",
+          "D": "This is incorrect. US courts applied negligence rules (requiring proof of fault), not strict liability. The notes indicate that compensation was still premised on proof of negligence, not strict liability."
+        },
+        "reference": "Jerrold on US Courts' Initial Approach - US Courts Insisted Rules Applicable to Automobile Cases Were No Different from Those Developed in Days of Horse and Buggy; MVA Liability Determined by Extending Negligence Rules Developed for Horses; Shows How Existing Legal Principles Were Adapted to New Technology; Consistent with Easterbrook's 'Law of the Horse' Position; However, Negligence Alone Was Unsatisfactory Due to Judgment-Proof Defendants"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q018",
+      "question": "According to Lessig's discussion of AOL, what does the example demonstrate about how architecture can regulate behavior?",
+      "options": {
+        "A": "Argues that aOL demonstrates that architecture has no regulatory effect - only explicit rules matter.",
+        "B": "Maintains that aOL demonstrates that architecture only matters for physical spaces, not cyberspace.",
+        "C": "Contends that aOL demonstrates that all online platforms are identical in their regulatory capabilities.",
+        "D": "Posits that aOL demonstrates that architecture can regulate behavior through code - when you are on AOL, you are subject to the rules of its world it knows certain things about who you are, makes it harder for other users..."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to Lessig's discussion, AOL demonstrates that architecture can regulate behavior through code. When you are on AOL, you are subject to the rules of its world. AOL knows certain things about who you are, makes it harder for other users to know who you are, and it constrains the size of chat rooms making it more difficult for dissidents to organize against AOL's views about how things ought to be. These features have important implications for how AOL is regulated. If AOL wants to control a certain behavior, it can impose rules, tax the behavior, or change the architecture or code completely to render that behavior impossible. The universe of AOL is defined by its rules, and by entering this space you are submitting to a tremendous amount of control. This demonstrates Lessig's point that code regulates behavior - architecture (in this case, AOL's code and platform design) constrains what is possible, making certain behaviors impossible or very difficult through the architecture itself, not just through explicit rules.",
+        "incorrect": {
+          "A": "This contradicts Lessig's point. AOL specifically demonstrates that architecture DOES have regulatory effect - the architecture (code, platform design) constrains behavior by making certain actions possible or impossible, not just through explicit rules.",
+          "B": "This contradicts Lessig's framework. AOL is a cyberspace example, and it specifically demonstrates that architecture matters in cyberspace - the code and platform design regulate behavior. Architecture matters for both physical spaces and cyberspace.",
+          "C": "This is incorrect. Lessig uses AOL as one example, but he also discusses Counsel Connect and LambdaMOO which have different regulatory characteristics. The examples demonstrate that different architectures have different regulatory capabilities, not that they're all identical.",
+          "D": "This is the correct answer."
+        },
+        "reference": "Lessig on AOL Example - Architecture Can Regulate Behavior Through Code; When on AOL, Subject to Rules of Its World; AOL Knows Who You Are, Makes It Harder for Others to Know, Constrains Chat Room Sizes; Makes It Difficult for Dissidents to Organize; If AOL Wants to Control Behavior, Can Change Architecture/Code to Render It Impossible; Universe of AOL Defined by Its Rules; Entering Space Submits You to Tremendous Control; Demonstrates Code Regulates Behavior"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q019",
+      "question": "According to the notes, what is the difference between NAPs (Network Access Points) and MAEs (Metropolitan Area Exchanges)?",
+      "options": {
+        "A": "Argues that nAPs are for international traffic while MAEs are for domestic traffic only.",
+        "B": "Maintains that nAPs and MAEs are the same thing - both are Internet Exchanges (IXs) where traffic may jump from one backbone to another the difference is that MAEs are privately owned while NAPs may have different ownership structures.",
+        "C": "Contends that nAPs are for email traffic while MAEs are for web browsing traffic.",
+        "D": "Posits that nAPs are faster than MAEs and should always be used when available."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "According to the notes, NAPs (Network Access Points) and MAEs (Metropolitan Area Exchanges) are both Internet Exchanges (IXs) where traffic may jump from one backbone to another. They perform the same function - allowing traffic to move between different NSP backbones. The difference is that MAEs are privately owned, while NAPs may have different ownership structures (the notes don't specify NAP ownership, but indicate MAEs are 'privately owned'). Both NAPs and MAEs are known as Internet Exchanges (IXs). At each of these points, traffic may jump from one backbone to another. They serve as connection points where different Network Service Providers (NSPs) can exchange packet traffic, allowing the Internet to function as an interconnected network of networks.",
+        "incorrect": {
+          "A": "This is incorrect. The notes don't indicate that NAPs are for international traffic and MAEs for domestic. Both are Internet Exchanges where traffic can jump between backbones, regardless of whether traffic is international or domestic.",
+          "B": "This is the correct answer.",
+          "C": "This is incorrect. The notes don't indicate that NAPs are for email and MAEs for web browsing. Both are Internet Exchanges that handle all types of traffic - they're connection points between backbones, not content-specific.",
+          "D": "This is incorrect. The notes don't indicate any speed difference between NAPs and MAEs, or that one should be preferred over the other. They're both Internet Exchanges performing the same function, with the main difference being ownership (MAEs are privately owned)."
+        },
+        "reference": "NAPs and MAEs - Both Are Internet Exchanges (IXs) Where Traffic May Jump from One Backbone to Another; Perform Same Function - Allowing Traffic to Move Between Different NSP Backbones; Difference: MAEs Are Privately Owned; Both Serve as Connection Points Where Different NSPs Can Exchange Packet Traffic"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q020",
+      "question": "According to Lessig's discussion of Counsel Connect, what does this example demonstrate about regulation through norms versus code?",
+      "options": {
+        "A": "Argues that counsel Connect demonstrates that code is always more effective than norms at regulating behavior.",
+        "B": "Maintains that counsel Connect demonstrates that norms are irrelevant to online regulation - only code matters.",
+        "C": "Contends that counsel Connect demonstrates that behavior can be more regulable by norms than by code - it used real names (social pressure and responsibility), forced discussions into threads (forces people to read before speaking), and built reputation within the...",
+        "D": "Posits that counsel Connect demonstrates that all online spaces should use real names to maximize regulation."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "According to Lessig's discussion, Counsel Connect demonstrates that behavior can be more regulable by norms than by code. Counsel Connect was an online lawyers' cooperative that used real names - this created social pressure and responsibility for what you say online. It forced all discussions into threads - this forces people to read before speaking, lest points be repeated. This mattered because the person's real name was on the line. Reputation was built within the community, and reputation was tied to a real name in a real community of professionals. Counsel Connect got the benefit of that community and its norms. Thus, Counsel Connect enabled regulation through modalities other than code - behavior was more regulable by norms than in AOL. This contrasts with AOL, where architecture/code was the primary regulator. Counsel Connect shows that different architectural choices (real names, threaded discussions) can enable different forms of regulation (norms-based rather than code-based).",
+        "incorrect": {
+          "A": "This is incorrect. Counsel Connect specifically demonstrates that norms can be effective regulators - behavior was more regulable by norms than in AOL. The example shows norms can be effective, not that code is always more effective.",
+          "B": "This contradicts the example. Counsel Connect specifically demonstrates that norms ARE relevant and effective - behavior was more regulable by norms than in AOL. The example shows norms can be powerful regulators.",
+          "C": "This is the correct answer.",
+          "D": "This is too absolute. Counsel Connect used real names, but the example doesn't demonstrate that all online spaces should use real names. Rather, it demonstrates that architectural choices (like real names) can enable norm-based regulation, but different spaces may have different regulatory needs."
+        },
+        "reference": "Lessig on Counsel Connect - Behavior Can Be More Regulable by Norms Than by Code; Used Real Names (Social Pressure, Responsibility); Forced Discussions into Threads (Forces Reading Before Speaking); Reputation Built Within Community Tied to Real Names; Enabled Regulation Through Norms More Than in AOL; Demonstrates Different Architectural Choices Can Enable Different Forms of Regulation; Shows Norms Can Be Effective Regulators"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q021",
+      "question": "According to Lessig's discussion of LambdaMOO, what does this example demonstrate about self-regulation and community norms?",
+      "options": {
+        "A": "Argues that lambdaMOO was an open space where someone did horrible stuff to other characters, and community members had to determine whether to turn to vigilantism or institute rules via democracy - the system had failed to self-regulate, and users...",
+        "B": "Maintains that lambdaMOO demonstrates that all online communities automatically self-regulate without any problems.",
+        "C": "Contends that lambdaMOO demonstrates that code is the only effective regulator - norms are irrelevant.",
+        "D": "Posits that lambdaMOO demonstrates that government regulation is always necessary for online communities."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "According to Lessig's discussion, LambdaMOO was an open space that people had complete freedom to do things in. Someone did some horrible stuff to other characters, and then some community members sat down to determine whether the community should turn to vigilantism or institute rules via democracy. The point is that the system had failed to self-regulate, and users had to come up with a set of internal norms to govern themselves. This demonstrates that self-regulation doesn't always work automatically - sometimes communities need to consciously develop norms and rules when the system fails to self-regulate. LambdaMOO shows a different approach than AOL (code-based control) or Counsel Connect (norm-based through architecture) - it shows a community that had to develop its own regulatory framework when the initial open system failed. This illustrates that different online spaces may need different regulatory approaches, and that communities may need to actively develop norms rather than relying on automatic self-regulation.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. LambdaMOO specifically demonstrates that self-regulation can fail - someone did horrible stuff, and the system had failed to self-regulate, requiring the community to develop internal norms.",
+          "C": "This contradicts the example. LambdaMOO demonstrates that when code-based self-regulation fails, communities may need to develop norms. The example shows norms can be important, not that they're irrelevant.",
+          "D": "This is too absolute. LambdaMOO shows that communities can develop their own internal norms and rules (through democracy, not vigilantism). It doesn't demonstrate that government regulation is always necessary - rather, it shows communities can self-govern through developed norms."
+        },
+        "reference": "Lessig on LambdaMOO - Open Space with Complete Freedom; Someone Did Horrible Stuff to Other Characters; Community Members Had to Determine Whether to Turn to Vigilantism or Institute Rules via Democracy; System Had Failed to Self-Regulate; Users Had to Come Up with Internal Norms to Govern Themselves; Demonstrates Self-Regulation Doesn't Always Work Automatically; Communities May Need to Consciously Develop Norms When System Fails"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q022",
+      "question": "According to the notes, what is TCP (Transmission Control Protocol) and what are its key characteristics?",
+      "options": {
+        "A": "Argues that tCP is an unreliable, connectionless protocol that doesn't care whether packets arrive.",
+        "B": "Maintains that tCP only works for web browsing and cannot be used for other applications.",
+        "C": "Contends that tCP is the same as IP and performs identical functions.",
+        "D": "Posits that tCP is a connection-oriented, reliable, byte stream service it is responsible for routing application protocols to the correct application using port numbers."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to the notes, TCP (Transmission Control Protocol) is responsible for routing application protocols to the correct application on the destination computer. This is done using port numbers. Each application on a computer listens on a different port. When a packet arrives, the TCP layer decides which application receives the packet based on the port number of the incoming packet. TCP is not a textual protocol - it is a connection-oriented, reliable, byte stream service. Connection-oriented means that two applications using TCP must first establish a connection before exchanging data. TCP is reliable because for each packet received, an acknowledgement is sent to the sender to confirm the delivery. TCP also includes a checksum in its header for error-checking the received data. Unlike IP (which is unreliable and connectionless), TCP ensures packets arrive and are in the correct order.",
+        "incorrect": {
+          "A": "This describes IP, not TCP. IP is unreliable and connectionless. TCP is reliable and connection-oriented - it ensures packets arrive and are in correct order through acknowledgements and error-checking.",
+          "B": "This is incorrect. TCP is used for many applications, not just web browsing. TCP is used for email (SMTP), web browsing (HTTP), file transfer (FTP), and many other applications. It's a general-purpose transport protocol.",
+          "C": "This is incorrect. TCP and IP are different protocols with different functions. IP routes packets to computers (using IP addresses), while TCP routes packets to applications (using port numbers) and ensures reliability.",
+          "D": "This is the correct answer."
+        },
+        "reference": "TCP (Transmission Control Protocol) - Responsible for Routing Application Protocols to Correct Application Using Port Numbers; Each Application Listens on Different Port; TCP Layer Decides Which Application Receives Packet Based on Port Number; Connection-Oriented (Applications Must Establish Connection Before Exchanging Data); Reliable (Acknowledgements Sent for Each Packet, Checksums for Error-Checking); Ensures Packets Arrive and Are in Correct Order; Unlike IP (Unreliable, Connectionless)"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q023",
+      "question": "According to Jerrold's paper, what is the significance of Denning MR's observation in Nettleship v Weston regarding judges' approach to driver liability since the Road Traffic Acts?",
+      "options": {
+        "A": "Argues that it shows that judges became less willing to find drivers liable, making it harder for victims to recover.",
+        "B": "Maintains that it shows that judges had, since the Road Traffic Acts, become more willing to pin negligence liability on drivers, even in the absence of fault, because this better accorded with the policy of compulsory insurance - demonstrating how...",
+        "C": "Contends that it shows that judges refused to apply negligence rules to drivers after the Road Traffic Acts.",
+        "D": "Posits that it shows that judges always found drivers not liable regardless of the facts."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "According to Jerrold's paper, Denning MR in Nettleship v Weston suggested that judges had, since the Road Traffic Acts, become more willing to pin negligence liability on drivers, even in the absence of fault, because this better accorded with the policy of compulsory insurance. This demonstrates how insurance schemes can influence judicial approaches to liability. The layers of driver-centricity interact - drivers are central in law (focal point of tort liability) and in practice (compulsory insurance identifies them as first parties victims consider suing). The insurance scheme created a source of funds, and judges became more willing to find drivers liable (even stretching traditional formulas) because there was insurance to pay the claims. This shows how regulation (compulsory insurance) can affect how law (judicial liability determinations) operates - the modalities interact. Similarly, American courts 'though speaking always in terms of fault, have at times stretched the traditional formulas to the breaking point in order to insure recovery to an injured plaintiff.'",
+        "incorrect": {
+          "A": "This reverses the observation. Denning MR suggested judges became MORE willing to find drivers liable, not less willing. The insurance scheme made judges more willing to pin liability on drivers because there was insurance to pay.",
+          "B": "This is the correct answer.",
+          "C": "This is incorrect. Judges did apply negligence rules to drivers after the Road Traffic Acts. Denning MR's observation was that judges became MORE willing to apply negligence liability, not that they refused to apply it.",
+          "D": "This is too absolute. The observation is that judges became more willing to find drivers liable (even stretching formulas), not that they always found drivers liable regardless of facts. The point is about a shift in judicial approach, not absolute liability."
+        },
+        "reference": "Jerrold on Denning MR's Observation - Judges Had, Since Road Traffic Acts, Become More Willing to Pin Negligence Liability on Drivers, Even in Absence of Fault; Because This Better Accorded with Policy of Compulsory Insurance; Demonstrates How Insurance Schemes Can Influence Judicial Approaches to Liability; Shows How Regulation (Insurance) Can Affect How Law (Judicial Determinations) Operates; Modalities Interact; American Courts Also Stretched Traditional Formulas to Insure Recovery"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q024",
+      "question": "According to the notes on how data travels over the Internet, what happens when a message is sent from one computer to another?",
+      "options": {
+        "A": "Argues that the entire message is sent as one large block directly to the destination computer.",
+        "B": "Maintains that messages are sent via radio waves directly between computers without any intermediate steps.",
+        "C": "Contends that data is broken up into small chunks called packets each packet is assigned a port number at TCP layer (tells recipient which application to direct message to).",
+        "D": "Posits that messages are stored in a central server and the recipient retrieves them later."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "According to the notes, when a message is sent from one computer to another, the process works as follows: (1) Data is broken up into small chunks called packets. (2) Each packet is assigned a port number at TCP layer - the port number tells the recipient (which may have many applications listening for packets) which application to direct the message to. (3) Each packet is given the destination IP address. (4) Then the packet is translated into electronic signals by the hardware layer, and sent on its way over the internet. (5) The process happens in reverse for the recipient computer - the hardware layer receives the electronic signals and converts them back to binary, the IP layer identifies the destination computer, the TCP layer identifies the destination application based on the port number, and the application receives the data. Packets may travel different routes and arrive out of order, but TCP ensures they are reassembled correctly at the destination.",
+        "incorrect": {
+          "A": "This is incorrect. Messages are not sent as one large block. Data is broken up into packets, and each packet is sent separately. Packets may take different routes and arrive at different times.",
+          "B": "This is incorrect. While some wireless connections use radio waves, the process still involves breaking data into packets, adding TCP and IP information, and routing through the Internet infrastructure. It's not a direct radio connection between computers.",
+          "C": "This is the correct answer.",
+          "D": "This is incorrect. While some applications (like email) may use servers, the fundamental Internet communication works by sending packets directly (or through routers) to the destination computer. The recipient doesn't necessarily retrieve from a central server - packets are routed to the destination."
+        },
+        "reference": "How Data Travels Over Internet - Data Broken Up into Small Chunks Called Packets; Each Packet Assigned Port Number at TCP Layer (Tells Recipient Which Application); Each Packet Given Destination IP Address; Packet Translated into Electronic Signals by Hardware Layer and Sent; Process Happens in Reverse for Recipient Computer; Packets May Travel Different Routes; TCP Ensures Reassembly at Destination"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q025",
+      "question": "According to the automobile case study, what does the evolution from horse carriage rules to automobile regulation demonstrate about technology regulation?",
+      "options": {
+        "A": "Argues that it demonstrates how existing legal principles can be adapted to new technologies when situations are analogous (horse carriage rules applied to cars), but also shows that liability alone may be insufficient and regulation may be necessary to address...",
+        "B": "Maintains that it demonstrates that new technologies always require completely new legal frameworks with no connection to existing law.",
+        "C": "Contends that it demonstrates that technology regulation is always straightforward with no challenges or trade-offs.",
+        "D": "Posits that it demonstrates that only criminal law applies to new technologies, not civil liability."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "The automobile case study demonstrates how existing legal principles can be adapted to new technologies when situations are analogous. Courts applied the word 'driver' (previously for horse carriage) to cars, and mainly used negligence rules premised on driver's control of vehicle. Horse carriage rules readily applied because they were analogous - no need for special consideration. This shows Easterbrook's 'Law of the Horse' principle in action - existing legal principles can be adapted. However, the case study also shows that liability alone may be insufficient. Liability proved insufficient given the rise in accidents and judgment-proof defendants. People could win lawsuits but never get their money back. This created a legal disconnect between existing laws and new social issues caused by the technology, so regulation (like compulsory insurance) was necessary. The evolution shows both adaptation of existing principles AND the need for additional regulation to address practical problems that liability alone cannot solve.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. The case study shows the opposite - existing legal principles (horse carriage rules) were adapted to automobiles, not that completely new frameworks were required. Courts applied existing negligence rules because situations were analogous.",
+          "C": "This is incorrect. The case study shows significant challenges - many people died, judgment-proof defendants prevented recovery, and the framework developed through 'painful experience.' There were clear trade-offs and challenges.",
+          "D": "This is incorrect. The case study shows that civil liability (negligence rules) was applied to automobiles. Criminal law may also apply (like jaywalking laws), but the main framework was civil liability with negligence rules."
+        },
+        "reference": "Automobile Case Study - Evolution Demonstrates: Existing Legal Principles Can Be Adapted to New Technologies When Situations Are Analogous (Horse Carriage Rules Applied to Cars); But Liability Alone May Be Insufficient; Regulation May Be Necessary to Address Practical Problems (Judgment-Proof Defendants); Shows Both Adaptation of Existing Principles AND Need for Additional Regulation; Framework Developed Through Painful Experience"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q026",
+      "question": "According to the notes, what is IP (Internet Protocol) and what are its key characteristics?",
+      "options": {
+        "A": "Argues that iP is a reliable, connection-oriented protocol that ensures all packets arrive in order.",
+        "B": "Maintains that iP only works for email and cannot be used for other applications.",
+        "C": "Contends that iP is the same as TCP and performs identical functions.",
+        "D": "Posits that iP is an unreliable, connectionless protocol IP doesn't care whether a packet gets to its destination or not, nor does IP know about connections and port numbers."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to the notes, IP (Internet Protocol) is an unreliable, connectionless protocol. Unlike TCP, IP is unreliable and connectionless. IP doesn't care whether a packet gets to its destination or not. Nor does IP know about connections and port numbers. IP's job is to send and route packets to other computers. IP packets are independent entities and may arrive out of order or not at all. It is TCP's job to make sure packets arrive and are in the correct order. IP directs packets to a specific computer using an IP address. IP works at a lower level than TCP - IP handles routing packets to the right computer, while TCP (which works on top of IP) handles routing to the right application and ensuring reliability. The protocol stack works with IP at the Internet Protocol layer, directing packets to computers, while TCP works at a higher layer to ensure reliability and direct packets to applications.",
+        "incorrect": {
+          "A": "This describes TCP, not IP. TCP is reliable and connection-oriented. IP is unreliable and connectionless - it doesn't ensure packets arrive or arrive in order. That's TCP's job.",
+          "B": "This is incorrect. IP is used for all Internet communication, not just email. IP is the fundamental protocol that routes all packets to their destination computers, regardless of what application (email, web browsing, etc.) is using it.",
+          "C": "This is incorrect. IP and TCP are different protocols with different functions. IP routes packets to computers (unreliable, connectionless), while TCP routes packets to applications and ensures reliability (reliable, connection-oriented).",
+          "D": "This is the correct answer."
+        },
+        "reference": "IP (Internet Protocol) - Unreliable, Connectionless Protocol; IP Doesn't Care Whether Packet Gets to Destination; IP Doesn't Know About Connections and Port Numbers; IP's Job: Send and Route Packets to Other Computers Using IP Addresses; IP Packets Are Independent Entities; May Arrive Out of Order or Not at All; TCP's Job to Make Sure Packets Arrive and Are in Correct Order; IP Directs Packets to Specific Computer; TCP Works on Top of IP to Ensure Reliability"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q027",
+      "question": "According to the 'Criminalizing walking; subsidizing driving' article, what was the lesson for thinking about currently urgent technology regulation issues?",
+      "options": {
+        "A": "Argues that the lesson is irrelevant to current issues because automobiles are old technology.",
+        "B": "Maintains that lessig's theory plays out nearly note for note in the automobile context as we move on to more 'newly urgent' cases, we should be able to spot parallels to the past (e.",
+        "C": "Contends that the lesson is that all technologies should be regulated identically, with no need to consider context or parallels.",
+        "D": "Posits that the lesson is that technology regulation is always wrong and should be avoided."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "According to the 'Criminalizing walking; subsidizing driving' article, the lesson is that Lessig's theory plays out nearly note for note in the automobile context. As we move on to more 'newly urgent' cases, we should be able to spot parallels to the past. Examples given include nuclear energy, genetic engineering, electronic transactions, etc. - and there will be more. As we start to think about the currently urgent issues, we should develop this intuition to spot parallels in the past. The automobile case shows how all four modalities (market, law, norms, architecture) interacted to regulate behavior. Understanding how this played out for automobiles can help us understand and anticipate how regulation might develop for newer technologies. The patterns - early adaptation of existing legal principles, development of additional regulation to address practical problems, interaction of all four modalities - may repeat in different contexts. This helps us think critically about current technology regulation debates.",
+        "incorrect": {
+          "A": "This is incorrect. The article specifically states that the lesson is relevant - 'as we move on to more newly urgent cases, you should be able to spot parallels to the past.' The automobile case is used as a historical example to understand current issues.",
+          "B": "This is the correct answer.",
+          "C": "This is incorrect. The lesson is not that all technologies should be regulated identically. Rather, it's that we should spot parallels and patterns - understanding how regulation developed for automobiles can inform thinking about newer technologies, but each technology may have unique aspects.",
+          "D": "This is incorrect. The article doesn't argue that technology regulation is always wrong. Rather, it shows how regulation developed and how the four modalities interacted. The lesson is about understanding regulatory patterns, not avoiding regulation."
+        },
+        "reference": "Criminalizing Walking - Lesson for Current Issues - Lessig's Theory Plays Out Nearly Note for Note; As We Move to More 'Newly Urgent' Cases, Should Spot Parallels to Past; Examples: Nuclear Energy, Genetic Engineering, Electronic Transactions; Should Develop Intuition to Spot Parallels When Thinking About Currently Urgent Issues; Understanding How Regulation Developed for Automobiles Can Inform Thinking About Newer Technologies"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q028",
+      "question": "According to the notes on Internet routing hierarchy, what happens when a router doesn't know where to send a packet?",
+      "options": {
+        "A": "Argues that the router discards the packet and sends an error message back to the sender.",
+        "B": "Maintains that the router randomly sends the packet to any other router, hoping it reaches the destination eventually.",
+        "C": "Contends that the router sends the packet on a default route, usually up the hierarchy to the next router if still not found, it sends further up until it reaches a NSP backbone.",
+        "D": "Posits that the router requires human intervention to manually route the packet."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "According to the notes on Internet routing hierarchy, when a router doesn't know where to send a packet (the destination IP address is not in the router's routing table), the router sends the packet on a default route, usually up the hierarchy to the next router. If still not found, it sends further up until it reaches a NSP backbone. The routers connected to the NSP backbones hold the largest routing tables, and the packet will be routed to the correct backbone and is sent downwards until it arrives at the destination. This creates a hierarchical routing system: smaller routers know about their sub-networks, but if they don't know where a packet should go, they send it up to routers with more knowledge. The NSP backbone routers have the most comprehensive routing tables and can route packets to the correct backbone, which then routes down to the destination. This ensures packets eventually reach their destination even if intermediate routers don't have complete routing information.",
+        "incorrect": {
+          "A": "This is incorrect. Routers don't discard packets when they don't know the route. Rather, they use default routes to send packets up the hierarchy to routers with more routing information.",
+          "B": "This is incorrect. Routers don't randomly send packets. They use a systematic hierarchical approach - sending packets up the hierarchy to routers with larger routing tables, not randomly.",
+          "C": "This is the correct answer.",
+          "D": "This is incorrect. Internet routing is automatic - routers use routing tables and default routes automatically. Human intervention is not required for normal routing operations."
+        },
+        "reference": "Internet Routing Hierarchy - When Router Doesn't Know Where to Send Packet: Sends on Default Route Up Hierarchy to Next Router; If Still Not Found, Sends Further Up Until Reaches NSP Backbone; Routers Connected to NSP Backbones Hold Largest Routing Tables; Packet Routed to Correct Backbone and Sent Downwards to Destination; Creates Hierarchical Routing System; Smaller Routers Send Up to Routers with More Knowledge"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q029",
+      "question": "According to Jerrold's paper, what is the relationship between driver-centricity and the policy of compulsory insurance?",
+      "options": {
+        "A": "Argues that the layers of driver-centricity interact - drivers are central in law (focal point of tort liability) and in practice (compulsory insurance identifies them as first parties victims consider suing) Denning MR suggested judges became more willing to pin...",
+        "B": "Maintains that driver-centricity and compulsory insurance are completely unrelated concepts with no connection.",
+        "C": "Contends that compulsory insurance eliminated driver-centricity by transferring all liability to insurance companies.",
+        "D": "Posits that driver-centricity only applies when there is no insurance, and disappears once insurance is introduced."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "According to Jerrold's paper, the layers of driver-centricity interact. Drivers are central in law as the focal point of tort liability, and drivers are central in practice because compulsory insurance identifies them as the first parties victims consider suing, possibly even if the accident was caused by manufacturing defects. The layers interact. Denning MR in Nettleship v Weston suggested that judges had, since the Road Traffic Acts, become more willing to pin negligence liability on drivers, even in the absence of fault, because this better accorded with the policy of compulsory insurance. This shows how insurance policy can influence judicial approaches to liability. With liability centered on the driver, insurance obligations followed. The insurance scheme created a source of funds, which made judges more willing to find drivers liable (even stretching traditional formulas) because there was insurance to pay. This demonstrates how the two layers of driver-centricity (legal focal point and practical first party to sue) interact and reinforce each other through the insurance system.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. Driver-centricity and compulsory insurance are closely related. Driver-centricity emerged in part because with liability centered on the driver, insurance obligations followed. The insurance scheme reinforces driver-centricity by making drivers the first parties victims consider suing.",
+          "C": "This is incorrect. Compulsory insurance didn't eliminate driver-centricity - it reinforced it. Drivers remained the focal point of liability, and insurance made them the first parties victims consider suing. Insurance pays on behalf of drivers, but drivers remain the liable parties.",
+          "D": "This is incorrect. Driver-centricity didn't disappear with insurance - it was reinforced. Insurance made drivers the first parties victims consider suing, and judges became more willing to find drivers liable because there was insurance to pay. Insurance strengthened, not eliminated, driver-centricity."
+        },
+        "reference": "Jerrold on Driver-Centricity and Insurance - Layers Interact; Drivers Central in Law (Focal Point of Tort Liability) and in Practice (Compulsory Insurance Identifies Them as First Parties Victims Consider Suing); Denning MR: Judges Became More Willing to Pin Negligence Liability on Drivers Because This Better Accorded with Policy of Compulsory Insurance; Shows How Insurance Policy Can Influence Judicial Approaches; Insurance Reinforces Driver-Centricity; Two Layers Interact and Reinforce Each Other"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q030",
+      "question": "According to Lessig, what is the significance of the fact that 'architectural features of the Internet embed certain values'?",
+      "options": {
+        "A": "Argues that it means the Internet has no values and is completely neutral.",
+        "B": "Maintains that it means only government can embed values in Internet architecture, not private companies.",
+        "C": "Contends that it means the Internet's values are fixed and can never change, regardless of architecture.",
+        "D": "Posits that these values can change, and if they do, the values the Internet promotes will be different architectures matter, and the same application of 'real-life code' has also affected behavior (e."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to Lessig, architectural features of the Internet embed certain values. These values can change, and if they do, the values the Internet promotes will be different. The Internet's values - that the network should be kept as simple as possible, and the intelligence required in the network be vested at the edge as far as possible - are embedded in its architecture (seen in TCP/IP). But these values can change if the architecture changes. Architectures matter, and the same application of 'real-life code' has also affected behavior (e.g., DRM technology to prevent copyright infringement). The significance is that architecture is not neutral - it embeds and promotes certain values. If we change the architecture (e.g., move intelligence from the edge to the center, add more complexity, add DRM), we change the values the Internet promotes. This is why Lessig warns about who controls code and architecture - different controllers may embed different values. The three generations of cyberspace architecture (noncommercial, commercial, potentially governmental) may embed different values.",
+        "incorrect": {
+          "A": "This contradicts Lessig's position. He specifically argues that architectural features DO embed values - the Internet's architecture embeds values of simplicity and edge intelligence. Architecture is not neutral.",
+          "B": "This is incorrect. Lessig's framework shows that different actors can embed values - the three generations show noncommercial sector, commerce, and potentially government all building architecture. It's not limited to government.",
+          "C": "This is incorrect. Lessig specifically states that 'these values can change, and if they do, the values the Internet promotes will be different.' The values are not fixed - they depend on the architecture, which can change.",
+          "D": "This is the correct answer."
+        },
+        "reference": "Lessig on Architectural Features Embedding Values - Architectural Features of Internet Embed Certain Values; These Values Can Change, and If They Do, Values Internet Promotes Will Be Different; Internet's Values: Simplicity, Edge Intelligence (Embedded in TCP/IP); Architectures Matter; Same Application of 'Real-Life Code' Has Affected Behavior (DRM); Architecture Is Not Neutral - Embeds and Promotes Certain Values; If Architecture Changes, Values Change; Who Controls Code Matters - Different Controllers May Embed Different Values"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q031",
+      "question": "According to the notes, what is the hardware layer in the protocol stack and what does it do?",
+      "options": {
+        "A": "Argues that the hardware layer is the same as the application layer and performs identical functions.",
+        "B": "Maintains that the hardware layer converts binary packet data to network signals and back examples include ethernet network card, modem for phone lines.",
+        "C": "Contends that the hardware layer only exists in physical cables and has no function in wireless networks.",
+        "D": "Posits that the hardware layer determines which application should receive the data, using port numbers."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "According to the notes, the hardware layer in the protocol stack converts binary packet data to network signals and back. Examples include ethernet network card, modem for phone lines, etc. When sending data, the hardware layer translates the packet (which has been processed by the application, TCP, and IP layers) into electronic signals that can be transmitted over the physical network medium (cables, wireless, etc.). When receiving data, the hardware layer receives the electronic signals from the network and converts them back to binary packet data, which then moves up through the protocol stack (IP layer identifies destination computer, TCP layer identifies destination application, application layer handles the data). The hardware layer is the lowest layer in the protocol stack, handling the physical transmission of data over the network medium.",
+        "incorrect": {
+          "A": "This is incorrect. The hardware layer and application layer are different layers with different functions. The application layer handles application-specific protocols (WWW, email, FTP), while the hardware layer handles physical signal conversion.",
+          "B": "This is the correct answer.",
+          "C": "This is incorrect. The hardware layer exists in both wired and wireless networks. In wireless networks, it converts binary data to radio signals instead of electrical signals, but it still performs the same function of converting between binary data and network signals.",
+          "D": "This describes the TCP layer, not the hardware layer. TCP uses port numbers to determine which application receives data. The hardware layer handles physical signal conversion, not application routing."
+        },
+        "reference": "Hardware Layer in Protocol Stack - Converts Binary Packet Data to Network Signals and Back; Examples: Ethernet Network Card, Modem for Phone Lines; Translates Packets into Electronic Signals for Transmission; Converts Received Signals Back to Binary Data; Lowest Layer in Protocol Stack; Handles Physical Transmission of Data Over Network Medium"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q032",
+      "question": "According to Jerrold's paper, what was the significance of the fact that today's motor vehicle accident compensation schemes are 'the product of painful experience'?",
+      "options": {
+        "A": "Argues that it means the schemes were designed perfectly from the start with no problems.",
+        "B": "Maintains that it means the schemes were created by accident with no intentional design.",
+        "C": "Contends that today's schemes are the product of traffic fatalities and lawsuits over the years - the framework developed through painful experience, reflecting the Collingridge dilemma where regulation developed over time as problems became apparent, with many people dying during...",
+        "D": "Posits that it means the schemes are no longer necessary because all problems have been solved."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "According to Jerrold's paper, today's motor vehicle accident compensation schemes are the product of painful experience: traffic fatalities and lawsuits over the years. The standalone body of MVA law emerged from a transitional period where an untested new technology (car) gradually replaced a familiar one (horse). The framework developed through painful experience - many people died, many lawsuits occurred, and the legal and regulatory framework evolved in response. This reflects the Collingridge dilemma where regulation developed over time as problems became apparent. Regulators faced challenges: at early stages, lack of information about the technology's impact; at later stages, the technology was entrenched. The framework that exists today developed through this painful process, with many people dying during the development. This illustrates that technology regulation often involves significant human costs during the development process, and that 'in hindsight, might look like it's all figured out. But many people died for it, and many people still die today.'",
+        "incorrect": {
+          "A": "This is incorrect. The paper specifically states the schemes are the product of 'painful experience' - traffic fatalities and lawsuits. They were not designed perfectly from the start. The framework developed through experience, not perfect initial design.",
+          "B": "This is incorrect. The schemes were not created by accident. They were intentionally developed through legislation (Road Traffic Acts) and court decisions, but the development process involved painful experience (fatalities, lawsuits) that informed the design.",
+          "C": "This is the correct answer.",
+          "D": "This is incorrect. The notes indicate that 'many people still die today' - the problems haven't been completely solved. The schemes are the product of painful experience, but that doesn't mean all problems are solved."
+        },
+        "reference": "Jerrold on Painful Experience - Today's Motor Vehicle Accident Compensation Schemes Product of Painful Experience: Traffic Fatalities and Lawsuits Over Years; Framework Developed Through Painful Experience; Standalone Body of MVA Law Emerged from Transitional Period; Reflects Collingridge Dilemma - Regulation Developed Over Time as Problems Became Apparent; Many People Died During Development Process; In Hindsight Might Look Like All Figured Out, But Many People Died for It, Many Still Die Today"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q033",
+      "question": "According to the notes, what is the relationship between packets and the protocol stack when data is transmitted?",
+      "options": {
+        "A": "Argues that data is broken up into packets, and then each packet moves through the protocol stack layers: application layer adds application protocol information, TCP layer adds port number, IP layer adds IP address, hardware layer converts to signals when...",
+        "B": "Maintains that packets are created after all layers have processed the data, so layers don't interact with packets.",
+        "C": "Contends that packets bypass the protocol stack entirely and are sent directly over the network.",
+        "D": "Posits that only one layer creates packets - the other layers don't interact with them."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "According to the notes, when data is transmitted, data is broken up into small chunks called packets. Each packet then moves through the protocol stack layers. At the TCP layer, each packet is assigned a port number - the port number tells the recipient which application to direct the message to. At the IP layer, each packet is given the destination IP address. Then at the hardware layer, the packet is translated into electronic signals by the hardware layer and sent on its way over the internet. The process happens in reverse for the recipient computer - the hardware layer receives signals and converts to binary, the IP layer processes the IP address, the TCP layer processes the port number, and the application layer handles the data. Each layer adds its own information to the packet (port number, IP address) or transforms it (hardware layer converts to/from signals). The packet moves through all layers, with each layer performing its function.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. Packets are created early in the process (data is broken up into packets), and then each packet moves through the protocol stack layers, with each layer adding information or transforming the packet.",
+          "C": "This is incorrect. Packets don't bypass the protocol stack - they move through it. Each layer processes the packet, adding information (port numbers, IP addresses) or transforming it (hardware layer converts to signals).",
+          "D": "This is incorrect. Multiple layers interact with packets. TCP layer adds port numbers, IP layer adds IP addresses, hardware layer converts to/from signals. All layers process the packets as they move through the stack."
+        },
+        "reference": "Packets and Protocol Stack - Data Broken Up into Packets; Each Packet Moves Through Protocol Stack Layers; TCP Layer: Assigns Port Number; IP Layer: Adds Destination IP Address; Hardware Layer: Converts to Electronic Signals; Process Reverses for Recipient; Each Layer Adds Information or Transforms Packet; Packet Moves Through All Layers"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q034",
+      "question": "According to the automobile case study, what does it mean that 'as tech developed, more and more regulation (highway codes etc.)' was added?",
+      "options": {
+        "A": "Argues that it means that regulation decreased as technology improved, because better technology needs less regulation.",
+        "B": "Maintains that it means that regulation only applies to highway codes, not to other aspects of automobile technology.",
+        "C": "Contends that it means that all regulation was created at once when cars were first invented, with no changes over time.",
+        "D": "Posits that it means that as automobile technology developed and became more complex, additional regulation was added over time (highway codes, safety standards, etc ) - showing how regulation often develops incrementally as technology evolves and new issues arise."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to the automobile case study, 'as tech developed, more and more regulation (highway codes etc.)' was added means that as automobile technology developed and became more complex, additional regulation was added over time. Initially, courts applied existing negligence rules. Then compulsory insurance was introduced. Then as technology continued to develop, more regulation was added - highway codes, safety standards, emissions regulations, etc. This shows how regulation often develops incrementally as technology evolves and new issues arise. The framework didn't emerge fully formed - it developed over time in response to technological developments and the problems they created. This reflects the ongoing nature of technology regulation - it's not a one-time event, but a continuous process of adaptation as technology evolves. This connects to the Collingridge dilemma - as technology develops, new regulatory challenges arise, and regulation must continue to adapt.",
+        "incorrect": {
+          "A": "This reverses the relationship. The case study shows that MORE regulation was added as technology developed, not less. As cars became more complex and widespread, more regulatory issues arose, requiring more regulation.",
+          "B": "This is too narrow. The phrase 'highway codes etc.' indicates highway codes are just one example - the 'etc.' suggests other types of regulation were also added (safety standards, emissions, etc.), not just highway codes.",
+          "C": "This is incorrect. The case study specifically shows incremental development - first courts applied existing rules, then compulsory insurance was added, then 'more and more regulation' was added over time as technology developed. It wasn't all created at once.",
+          "D": "This is the correct answer."
+        },
+        "reference": "Automobile Case Study - As Tech Developed, More and More Regulation Added - Highway Codes, Safety Standards, etc.; Shows How Regulation Develops Incrementally as Technology Evolves; Framework Didn't Emerge Fully Formed - Developed Over Time; Reflects Ongoing Nature of Technology Regulation - Continuous Process of Adaptation; Connects to Collingridge Dilemma - New Regulatory Challenges Arise as Technology Develops"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q035",
+      "question": "According to the notes, what are the key differences between how AOL and Counsel Connect regulated behavior, and what does this demonstrate?",
+      "options": {
+        "A": "Argues that aOL and Counsel Connect used identical regulatory approaches with no differences.",
+        "B": "Maintains that aOL primarily regulated through code/architecture (knows who you are, constrains chat room sizes, can change code to render behaviors impossible), while Counsel Connect primarily regulated through norms (real names creating social pressure, threaded discussions, reputation tied to real...",
+        "C": "Contends that aOL used only norms while Counsel Connect used only code.",
+        "D": "Posits that neither AOL nor Counsel Connect actually regulated behavior - regulation only comes from government laws."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "According to the notes, AOL and Counsel Connect used different regulatory approaches. AOL primarily regulated through code/architecture: when you are on AOL, you are subject to the rules of its world; it knows certain things about who you are, makes it harder for other users to know who you are, and it constrains the size of chat rooms. If AOL wants to control behavior, it can change the architecture or code completely to render that behavior impossible. Counsel Connect primarily regulated through norms: it used real names (social pressure and responsibility), forced all discussions into threads (forces people to read before speaking), and built reputation within the community tied to real names. Thus, Counsel Connect enabled regulation through modalities other than code - behavior was more regulable by norms than in AOL. This demonstrates that different architectural choices can enable different forms of regulation. The same technology (online platforms) can be designed to favor code-based regulation (AOL) or norm-based regulation (Counsel Connect), depending on architectural choices.",
+        "incorrect": {
+          "A": "This is incorrect. The notes specifically contrast AOL (code-based regulation) with Counsel Connect (norm-based regulation). They used different approaches, not identical ones.",
+          "B": "This is the correct answer.",
+          "C": "This reverses the approaches. AOL used primarily code/architecture, while Counsel Connect used primarily norms. The notes specifically state that Counsel Connect enabled regulation through norms more than in AOL.",
+          "D": "This contradicts Lessig's framework. Both AOL and Counsel Connect demonstrate that platforms can regulate behavior through code and norms, not just through government laws. The examples show that private platforms are regulators through their architecture and design choices."
+        },
+        "reference": "AOL vs Counsel Connect - AOL: Primarily Code/Architecture-Based Regulation (Knows Who You Are, Constrains Chat Rooms, Can Change Code to Render Behaviors Impossible); Counsel Connect: Primarily Norm-Based Regulation (Real Names, Threaded Discussions, Reputation); Demonstrates Different Architectural Choices Can Enable Different Forms of Regulation; Same Technology Can Be Designed to Favor Code-Based or Norm-Based Regulation"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q036",
+      "question": "According to the notes, what is the significance of the fact that 'not every computer on the internet knows where every other computer is' in the context of Internet routing?",
+      "options": {
+        "A": "Argues that it means the Internet cannot function because computers don't know where to send data.",
+        "B": "Maintains that it means that all routing information is stored in one central location that all computers access.",
+        "C": "Contends that it means that routers use routing tables and a hierarchical system - each router knows about its sub-networks, but routers usually don't know what IP addresses are above them this creates a hierarchical routing system where packets are...",
+        "D": "Posits that it means that packets are broadcast to every computer, and the correct one accepts them."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "According to the notes, the fact that 'not every computer on the internet knows where every other computer is' is significant because it means that routers use routing tables and a hierarchical system. Each router knows about its sub-networks and which IP addresses they use. Routers usually don't know what IP addresses are above them. This creates a hierarchical routing system. When a router doesn't know where to send a packet, it sends the packet on a default route, usually up the hierarchy to the next router. If still not found, it sends further up until it reaches a NSP backbone. The routers connected to the NSP backbones hold the largest routing tables, and the packet will be routed to the correct backbone and is sent downwards until it arrives at the destination. This hierarchical approach is efficient - smaller routers don't need complete routing information, they just need to know their local networks and how to send packets up the hierarchy. This makes the Internet scalable - it can grow without requiring every router to know about every computer.",
+        "incorrect": {
+          "A": "This is incorrect. The Internet functions precisely because of this hierarchical system. Routers don't need to know where every computer is - they use routing tables and send packets up the hierarchy to routers with more knowledge.",
+          "B": "This is incorrect. Routing information is not stored in one central location. Rather, it's distributed - each router has its own routing table, with NSP backbone routers having the largest tables. This distributed approach makes the system more resilient.",
+          "C": "This is the correct answer.",
+          "D": "This is incorrect. Packets are not broadcast to every computer. Routers use routing tables to direct packets to specific destinations based on IP addresses, not by broadcasting to everyone."
+        },
+        "reference": "Internet Routing - Not Every Computer Knows Where Every Other Computer Is; Routers Use Routing Tables and Hierarchical System; Each Router Knows About Its Sub-Networks; Routers Usually Don't Know What IP Addresses Are Above Them; Creates Hierarchical System - Packets Sent Up to Routers with More Knowledge; NSP Backbone Routers Hold Largest Routing Tables; Makes Internet Scalable - Can Grow Without Requiring Every Router to Know About Every Computer"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q037",
+      "question": "According to Jerrold's paper, what was the significance of the 'transitional period where an untested new technology (car) gradually replaced a familiar one (horse)'?",
+      "options": {
+        "A": "Argues that the standalone body of MVA law emerged from this transitional period US courts insisted that rules applicable to automobile cases were no different from those developed for horse and buggy, thus MVA liability was determined by extending negligence...",
+        "B": "Maintains that it means that cars and horses are identical, so no legal adaptation was needed.",
+        "C": "Contends that it means that completely new legal frameworks had to be created with no connection to existing law.",
+        "D": "Posits that it means that no legal changes were needed because cars and horses are regulated identically."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "According to Jerrold's paper, the significance of the transitional period where an untested new technology (car) gradually replaced a familiar one (horse) is that the standalone body of MVA (motor vehicle accident) law emerged from this period. US courts insisted that rules of law applicable to automobile cases were no different from those which had been developed in the days of the horse and buggy. Thus, MVA liability was determined by extending negligence rules developed for horses. This shows how existing legal principles can be adapted during technological transitions when situations are analogous. The courts didn't create entirely new frameworks - they extended existing principles. However, this extension proved insufficient (judgment-proof defendants), leading to additional regulation (compulsory insurance). The transitional period shows both the adaptation of existing principles AND the need for additional regulation when existing principles prove insufficient for new technological contexts. This pattern may repeat in other technological transitions.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. While courts found situations analogous enough to extend existing rules, cars and horses are not identical. The transitional period shows adaptation of existing principles to analogous but not identical situations.",
+          "C": "This is incorrect. The paper shows that courts did NOT create completely new frameworks. Rather, they extended existing negligence rules developed for horses, applying them to automobiles because situations were analogous.",
+          "D": "This is too absolute. While courts extended existing rules, the paper shows that additional regulation (compulsory insurance) was needed because the extended rules proved insufficient. Cars and horses are not regulated identically - there's additional regulation for cars."
+        },
+        "reference": "Jerrold on Transitional Period - Standalone Body of MVA Law Emerged from Transitional Period; US Courts Insisted Rules Applicable to Automobiles Were No Different from Those Developed for Horse and Buggy; MVA Liability Determined by Extending Negligence Rules Developed for Horses; Shows How Existing Legal Principles Can Be Adapted During Technological Transitions When Situations Are Analogous; However, Extension Proved Insufficient, Leading to Additional Regulation"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q038",
+      "question": "According to the notes, what happens when a web browser loads a web page with multiple elements (images, applets, etc.)?",
+      "options": {
+        "A": "Argues that the browser makes one connection and receives all elements in a single transmission.",
+        "B": "Maintains that all elements are automatically included in the initial page request, so no additional requests are needed.",
+        "C": "Contends that the browser cannot load pages with multiple elements - only simple text pages work.",
+        "D": "Posits that the browser receives the main page, then parses through it to find other page elements it needs (images, applets, etc )."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to the notes on HTTP, when a web browser loads a web page with multiple elements, the process works as follows: (1) The web browser connects to the web server and sends an HTTP request for the desired web page. (2) The web server receives the request and sends the page. (3) The web browser receives the page back and the connection is closed. (4) The browser then parses through the page and looks for other page elements it needs to complete the web page. These usually include images, applets, etc. (5) For each element needed, the browser makes additional connections and HTTP requests to the server for each element. (6) When the browser has finished loading all images, applets, etc., the page will be completely loaded in the browser window. This means a single web page may require multiple HTTP connections - one for the main HTML page, and additional connections for each image, applet, or other element referenced in the page.",
+        "incorrect": {
+          "A": "This is incorrect. The notes specifically state that 'for each element needed, the browser makes additional connections and HTTP requests to the server for each element.' Multiple connections are made, not a single transmission.",
+          "B": "This is incorrect. The notes specifically state that the browser makes 'additional connections and HTTP requests to the server for each element.' Elements are not automatically included - separate requests must be made for each element.",
+          "C": "This is incorrect. Browsers can and do load pages with multiple elements. The process involves making multiple HTTP requests - one for the main page and additional requests for each element.",
+          "D": "This is the correct answer."
+        },
+        "reference": "HTTP - Loading Web Pages with Multiple Elements - Browser Receives Main Page; Parses Through Page to Find Other Elements Needed (Images, Applets, etc.); For Each Element Needed, Browser Makes Additional Connections and HTTP Requests to Server; When All Elements Loaded, Page Completely Loaded; Single Web Page May Require Multiple HTTP Connections"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q039",
+      "question": "According to the 'Criminalizing walking; subsidizing driving' article, how did real space architecture evolve to favor driving over walking?",
+      "options": {
+        "A": "Argues that architecture remained unchanged - only laws changed to favor driving.",
+        "B": "Maintains that roads and freeways became the norm parking spaces took over cities.",
+        "C": "Contends that architecture changed to favor walking over driving, making cities more pedestrian-friendly.",
+        "D": "Posits that architecture changes were irrelevant - only social norms mattered."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "According to the 'Criminalizing walking; subsidizing driving' article, real space architecture evolved to favor driving over walking. Roads and freeways became the norm. Parking spaces took over cities. Pedestrians, once free to walk anywhere, were relegated to the sidewalk. This physical architecture change made walking more difficult and driving more convenient. Pedestrians could no longer walk freely anywhere - they were constrained to sidewalks. This demonstrates how architecture can regulate behavior by making certain actions (walking freely) impossible or difficult, while making other actions (driving) easier. This is Lessig's architecture modality in action - the physical design of cities and roads constrains behavior. Combined with changes in laws (jaywalking illegal), norms (stigma around jaywalking), and market forces, all four modalities worked together to favor driving. The architecture didn't just reflect preferences - it actively shaped behavior by making walking less convenient and driving more convenient.",
+        "incorrect": {
+          "A": "This is incorrect. The article specifically describes how architecture changed - roads and freeways became the norm, parking spaces took over cities, pedestrians were relegated to sidewalks. Architecture did change, not just laws.",
+          "B": "This is the correct answer.",
+          "C": "This reverses the change. The article describes architecture changing to favor DRIVING over walking, not the reverse. Roads, freeways, and parking spaces favor driving, while pedestrians were relegated to sidewalks.",
+          "D": "This is incorrect. The article shows that architecture changes were very relevant - they actively constrained behavior. Architecture worked alongside laws, norms, and market forces. All four modalities were relevant, not just social norms."
+        },
+        "reference": "Criminalizing Walking - Architecture Evolution - Roads and Freeways Became Norm; Parking Spaces Took Over Cities; Pedestrians Relegated to Sidewalk; Physical Architecture Made Walking More Difficult, Driving More Convenient; Demonstrates How Architecture Can Regulate Behavior by Making Actions Impossible/Difficult; Combined with Laws, Norms, Market - All Four Modalities Worked Together"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q040",
+      "question": "According to the notes, what is the relationship between ISPs (Internet Service Providers) and the Internet infrastructure?",
+      "options": {
+        "A": "Argues that iSPs are the same as NSPs and perform identical functions at the backbone level.",
+        "B": "Maintains that iSPs are completely separate from the Internet infrastructure and don't connect to it.",
+        "C": "Contends that iSPs maintain a pool of modems for customers and a port server that controls data flow from the modem pool to the line router packets go from there to the ISP backbone, then travel through various backbones and...",
+        "D": "Posits that iSPs only provide email services and don't handle other Internet traffic."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "According to the notes, ISPs (Internet Service Providers) maintain a pool of modems for customers and a port server that controls data flow from the modem pool to the line router. Packets go from there to the ISP backbone. They travel through various backbones and routers until they find their destination. ISPs connect individual customers (home computers, businesses) to the Internet infrastructure. The Internet infrastructure includes NSP (Network Service Provider) backbones - these are the large networks that form the core of the Internet. ISPs are typically smaller networks that connect to these NSP backbones. When a customer sends data, it goes: customer's computer → ISP (modem pool, port server, line router) → ISP backbone → NSP backbones → destination. ISPs are the access layer that connects end users to the broader Internet infrastructure, which is built on NSP backbones connected through Internet Exchanges (NAPs and MAEs).",
+        "incorrect": {
+          "A": "This is incorrect. ISPs and NSPs are different. NSPs are the large networks that form the Internet backbone. ISPs are typically smaller networks that connect customers to the Internet and may connect to NSP backbones. ISPs provide access to end users, while NSPs form the core infrastructure.",
+          "B": "This is incorrect. ISPs are part of the Internet infrastructure - they connect customers to it. The notes describe how packets go from ISPs to ISP backbones and then through various backbones. ISPs are connected to the infrastructure.",
+          "C": "This is the correct answer.",
+          "D": "This is too narrow. ISPs provide Internet access for all services (web browsing, email, file transfer, etc.), not just email. They handle all types of Internet traffic, routing packets to their destinations."
+        },
+        "reference": "ISPs and Internet Infrastructure - ISPs Maintain Pool of Modems for Customers, Port Server, Line Router; Packets Go to ISP Backbone, Then Travel Through Various Backbones and Routers; ISPs Connect Customers to Internet Infrastructure; Infrastructure Includes NSP Backbones (Large Networks Forming Core); ISPs Are Access Layer Connecting End Users to Broader Infrastructure"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q041",
+      "question": "According to the notes, what is HTTP (HyperText Transfer Protocol) and how does it work?",
+      "options": {
+        "A": "Argues that hTTP is a connectionless protocol the web browser connects to the web server and sends an HTTP request for the desired web page.",
+        "B": "Maintains that hTTP is a connection-oriented protocol that maintains persistent connections between browsers and servers.",
+        "C": "Contends that hTTP is the same as TCP and performs identical functions.",
+        "D": "Posits that hTTP only works for text-based web pages and cannot handle images or other media."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "According to the notes, HTTP (HyperText Transfer Protocol) is a connectionless protocol. The process works as follows: (1) The web browser connects to the web server and sends an HTTP request for the desired web page. (2) The web server receives the request and sends the page. (3) The web browser receives the page back and the connection is closed. Each request-response cycle is a separate connection. This is different from connection-oriented protocols like TCP - HTTP uses TCP for transport, but HTTP itself is connectionless in that each HTTP request is independent. After the browser receives the main page, it parses through it to find other page elements (images, applets, etc.) and makes additional HTTP requests for each element, each as a separate connection. HTTP is an application-layer protocol that works on top of TCP/IP.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. HTTP is connectionless - each request-response cycle is a separate connection that is closed after the response. While HTTP uses TCP (which is connection-oriented) for transport, HTTP itself is connectionless in that each HTTP request is independent.",
+          "C": "This is incorrect. HTTP and TCP are different protocols. HTTP is an application-layer protocol that works on top of TCP. TCP handles reliable transport, while HTTP handles web page requests and responses.",
+          "D": "This is incorrect. HTTP can handle images and other media. When a browser loads a page with images, it makes additional HTTP requests for each image. HTTP is used to request any type of web content, not just text."
+        },
+        "reference": "HTTP (HyperText Transfer Protocol) - Connectionless Protocol; Browser Connects to Server, Sends HTTP Request; Server Receives Request and Sends Page; Browser Receives Page and Connection Is Closed; Each Request-Response Cycle Is Separate Connection; HTTP Uses TCP for Transport But Is Connectionless at Application Layer; Works on Top of TCP/IP"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q042",
+      "question": "According to the notes, what is the significance of the Internet's architecture embedding values of 'simplicity' and 'edge intelligence'?",
+      "options": {
+        "A": "Argues that it means the Internet is simple to use and requires no intelligence from users.",
+        "B": "Maintains that it means the Internet has no values and is completely neutral.",
+        "C": "Contends that it means all intelligence must be at the center of the network, not at the edges.",
+        "D": "Posits that the network should be kept as simple as possible, and intelligence should be vested at the edge (endpoints) as far as possible this is seen in TCP/IP which just delivers packets without worrying about what they do or..."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to the notes, the Internet's architecture embeds values of simplicity and edge intelligence. The network should be kept as simple as possible, and the intelligence required in the network be vested at the edge as far as possible. This is seen in TCP/IP - the network just delivers packets without worrying about what they do or who they're meant for. This architectural choice enables people to innovate for the network without coordinating with any network owner. It encourages innovation and competition by preventing network owners from denying access strategically. If intelligence were at the center, network owners could control what applications and services work, potentially blocking competitors. By keeping intelligence at the edge, end users and application developers can create new services without permission from network owners. This is a value embedded in the architecture - it promotes openness, innovation, and competition. However, Lessig notes that these values can change if the architecture changes.",
+        "incorrect": {
+          "A": "This misinterprets 'simplicity' and 'edge intelligence.' 'Simplicity' refers to keeping the network itself simple (just deliver packets), not that it's simple to use. 'Edge intelligence' means intelligence at endpoints, not that users need no intelligence.",
+          "B": "This contradicts Lessig's position. He specifically argues that architectural features DO embed values - simplicity and edge intelligence are values embedded in the architecture. Architecture is not neutral.",
+          "C": "This reverses the principle. The Internet's architecture embeds the value that intelligence should be at the EDGE (endpoints), not at the center. Keeping intelligence at the edge prevents network owners from controlling innovation.",
+          "D": "This is the correct answer."
+        },
+        "reference": "Internet Architecture Values - Simplicity and Edge Intelligence; Network Should Be Kept as Simple as Possible; Intelligence Vested at Edge as Far as Possible; Seen in TCP/IP - Just Delivers Packets Without Worrying About What They Do; Enables Innovation Without Coordinating with Network Owners; Encourages Innovation and Competition; Prevents Network Owners from Denying Access Strategically; Values Can Change If Architecture Changes"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q043",
+      "question": "According to the notes, what is the relationship between NSPs (Network Service Providers) and the Internet backbone?",
+      "options": {
+        "A": "Argues that nSPs are the same as ISPs and perform identical functions.",
+        "B": "Maintains that nSPs are the large networks that form the Internet backbone they are connected through Internet Exchanges (NAPs and MAEs).",
+        "C": "Contends that nSPs are small local networks that only serve individual customers.",
+        "D": "Posits that nSPs don't exist - only ISPs provide Internet services."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "According to the notes, NSPs (Network Service Providers) are the large networks that form the Internet backbone. They are connected through Internet Exchanges (NAPs - Network Access Points, and MAEs - Metropolitan Area Exchanges). The routers connected to the NSP backbones hold the largest routing tables and can route packets to the correct backbone. NSPs form the core infrastructure of the Internet - they are the high-capacity networks that carry traffic between major regions. ISPs (Internet Service Providers) are typically smaller networks that connect customers to the Internet and may connect to NSP backbones. When a packet doesn't have a route in a smaller router's table, it's sent up the hierarchy until it reaches NSP backbone routers, which have comprehensive routing information and can route packets to the correct backbone. NSPs are the foundation of the Internet's hierarchical routing system.",
+        "incorrect": {
+          "A": "This is incorrect. NSPs and ISPs are different. NSPs are large networks forming the backbone, while ISPs are typically smaller networks that connect customers to the Internet. ISPs may connect to NSP backbones, but they serve different roles.",
+          "B": "This is the correct answer.",
+          "C": "This is incorrect. NSPs are large networks forming the backbone, not small local networks. Small local networks that serve individual customers are typically ISPs, not NSPs.",
+          "D": "This is incorrect. NSPs do exist and are distinct from ISPs. NSPs form the backbone infrastructure, while ISPs provide access to end users. Both are part of the Internet infrastructure."
+        },
+        "reference": "NSPs and Internet Backbone - NSPs Are Large Networks Forming Internet Backbone; Connected Through Internet Exchanges (NAPs and MAEs); Routers Connected to NSP Backbones Hold Largest Routing Tables; Can Route Packets to Correct Backbone; NSPs Form Core Infrastructure of Internet; ISPs Connect to NSP Backbones; Foundation of Internet's Hierarchical Routing System"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q044",
+      "question": "According to the notes, what does the example of DRM (Digital Rights Management) technology demonstrate about Lessig's framework?",
+      "options": {
+        "A": "Argues that dRM demonstrates that only laws can regulate behavior, not technology.",
+        "B": "Maintains that dRM demonstrates that technology is always neutral and cannot regulate behavior.",
+        "C": "Contends that dRM demonstrates that 'real-life code' (architecture/technology) can affect behavior - DRM technology prevents copyright infringement by making certain actions (copying) impossible or difficult through technical means, showing how architecture/code can regulate behavior just as laws can.",
+        "D": "Posits that dRM demonstrates that only market forces matter, not law or architecture."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "According to the notes, the example of DRM (Digital Rights Management) technology demonstrates that 'real-life code' (architecture/technology) can affect behavior. DRM technology prevents copyright infringement by making certain actions (copying protected content) impossible or difficult through technical means. This shows how architecture/code can regulate behavior just as laws can. DRM is an example of Lessig's 'architecture' modality - it constrains behavior through technical design, not through legal rules. If you can't copy a file because DRM prevents it, the behavior is regulated regardless of what the law says. This demonstrates that all four modalities (market, law, norms, architecture) can regulate behavior. DRM shows that code/architecture can be used to enforce copyright protection, potentially supplementing or even replacing legal enforcement. This is significant because it shows that who controls code matters - different controllers may embed different values and constraints.",
+        "incorrect": {
+          "A": "This is incorrect. DRM demonstrates the opposite - that technology (code/architecture) CAN regulate behavior, not just laws. DRM prevents copying through technical means, regardless of legal rules.",
+          "B": "This contradicts the example. DRM specifically demonstrates that technology is NOT neutral - it actively prevents copying, regulating behavior through technical constraints. Technology can embed values and constraints.",
+          "C": "This is the correct answer.",
+          "D": "This is too narrow. DRM demonstrates that architecture/code can regulate behavior. While market forces may influence DRM adoption, the example specifically shows how technical architecture constrains behavior, not just market forces."
+        },
+        "reference": "DRM Example - Demonstrates 'Real-Life Code' Can Affect Behavior; DRM Technology Prevents Copyright Infringement by Making Copying Impossible/Difficult Through Technical Means; Shows How Architecture/Code Can Regulate Behavior Just as Laws Can; Example of Lessig's Architecture Modality; Code Can Enforce Copyright Protection; Who Controls Code Matters - Different Controllers May Embed Different Values"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q045",
+      "question": "According to the notes, what is the significance of the three generations of cyberspace architecture (noncommercial, commercial, potentially governmental)?",
+      "options": {
+        "A": "Argues that it shows how cyberspace architecture has evolved over time, with different actors (noncommercial sector, commerce, potentially government) building and controlling architecture different controllers may embed different values in the architecture, and the values the Internet promotes may change...",
+        "B": "Maintains that it means that cyberspace architecture has remained unchanged since the beginning.",
+        "C": "Contends that it means that only government can control cyberspace architecture.",
+        "D": "Posits that it means that architecture is irrelevant to how cyberspace is regulated."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "According to the notes, the three generations of cyberspace architecture show how cyberspace has evolved over time. The first generation was built by the noncommercial sector (academics, researchers). The second generation was built by commerce (commercial entities). The third generation may be built by government. This evolution is significant because different actors building and controlling architecture may embed different values. The Internet's original architecture (noncommercial generation) embedded values of simplicity and edge intelligence. As commerce built more of the architecture (commercial generation), different values may have been embedded. If government builds more architecture (governmental generation), yet different values may be embedded. This matters because architectural features embed certain values, and if they change, the values the Internet promotes will be different. The three generations show that who controls code and architecture matters - different controllers may embed different values and constraints. This is why Lessig warns about invisible regulation through code - different actors controlling architecture can shape behavior in different ways.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. The three generations specifically show that cyberspace architecture HAS evolved - from noncommercial, to commercial, to potentially governmental. It has not remained unchanged.",
+          "C": "This is incorrect. The three generations show that different actors have built architecture - noncommercial sector, commerce, and potentially government. It's not limited to government. The first two generations were built by non-government actors.",
+          "D": "This contradicts Lessig's framework. Architecture is very relevant to how cyberspace is regulated - it's one of the four modalities. The three generations show how architecture evolution affects regulation."
+        },
+        "reference": "Three Generations of Cyberspace Architecture - First Generation: Noncommercial Sector (Academics, Researchers); Second Generation: Commerce (Commercial Entities); Third Generation: Potentially Government; Shows Evolution Over Time; Different Actors Building/Controlling Architecture May Embed Different Values; Who Controls Code Matters - Different Controllers May Embed Different Values; Architectural Features Embed Values, and If They Change, Values Internet Promotes Will Be Different"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q046",
+      "question": "According to the notes, what is the application layer in the protocol stack and what does it do?",
+      "options": {
+        "A": "Argues that the application layer is the same as the hardware layer and performs identical functions.",
+        "B": "Maintains that the application layer determines IP addresses and routes packets to computers.",
+        "C": "Contends that the application layer only handles web browsing and cannot handle other applications.",
+        "D": "Posits that the application layer handles application-specific protocols like WWW (HTTP), email (SMTP), and FTP it works on top of TCP/IP and is responsible for the actual application data and protocols that users interact with."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to the notes, the application layer in the protocol stack handles application-specific protocols. Examples include WWW (HTTP - HyperText Transfer Protocol), email (SMTP - Simple Mail Transfer Protocol), and FTP (File Transfer Protocol). The application layer works on top of TCP/IP. It is responsible for the actual application data and protocols that users interact with. When you browse the web, send email, or transfer files, the application layer handles the specific protocols for those applications. The application layer is the highest layer in the protocol stack - it's what users directly interact with. Below it, TCP handles reliable transport and routing to applications (port numbers), IP handles routing to computers (IP addresses), and the hardware layer handles physical signal conversion. The application layer uses these lower layers to actually transmit the application data.",
+        "incorrect": {
+          "A": "This is incorrect. The application layer and hardware layer are different layers with different functions. The application layer handles application protocols, while the hardware layer handles physical signal conversion.",
+          "B": "This describes the IP layer, not the application layer. IP determines IP addresses and routes packets to computers. The application layer handles application-specific protocols and data.",
+          "C": "This is too narrow. The application layer handles many applications - WWW (HTTP), email (SMTP), FTP, and others. It's not limited to web browsing.",
+          "D": "This is the correct answer."
+        },
+        "reference": "Application Layer in Protocol Stack - Handles Application-Specific Protocols; Examples: WWW (HTTP), Email (SMTP), FTP; Works on Top of TCP/IP; Responsible for Actual Application Data and Protocols Users Interact With; Highest Layer in Protocol Stack; Uses Lower Layers (TCP, IP, Hardware) to Transmit Application Data"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q047",
+      "question": "According to the notes, what is the significance of the fact that 'the Internet enables people to innovate for the network without coordinating with any network owner'?",
+      "options": {
+        "A": "Argues that it means that network owners have complete control over what applications can be used.",
+        "B": "Maintains that this is enabled by the Internet's architecture embedding values of simplicity and edge intelligence - the network is simple (just delivers packets) and intelligence is at the edge, so application developers can create new services without permission from...",
+        "C": "Contends that it means that all innovation must be approved by network owners before it can work.",
+        "D": "Posits that it means that the Internet cannot support innovation because there's no coordination."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "correct": "According to the notes, the significance of the fact that 'the Internet enables people to innovate for the network without coordinating with any network owner' is that this is enabled by the Internet's architecture embedding values of simplicity and edge intelligence. The network is kept simple (just delivers packets without worrying about what they do), and intelligence is vested at the edge (endpoints) as far as possible. This means application developers can create new services and applications without needing permission or coordination with network owners. The network doesn't need to know what the packets contain or what application they're for - it just delivers them. This encourages innovation and competition by preventing network owners from denying access strategically. If network owners controlled what applications could work (by having intelligence at the center), they could block competitors or charge fees for access. By keeping intelligence at the edge, anyone can create new applications without coordinating with network owners. This is a value embedded in the architecture that promotes openness and innovation.",
+        "incorrect": {
+          "A": "This reverses the significance. The architecture specifically prevents network owners from having complete control - intelligence at the edge means network owners can't control what applications work.",
+          "B": "This is the correct answer.",
+          "C": "This is incorrect. The architecture specifically enables innovation WITHOUT approval from network owners. Intelligence at the edge means developers don't need permission - they can create applications that work on the network without coordinating with owners.",
+          "D": "This is incorrect. The Internet DOES support innovation precisely because there's no need for coordination with network owners. The architecture enables innovation by keeping intelligence at the edge, allowing developers to create new services without permission."
+        },
+        "reference": "Internet Enables Innovation Without Coordination - Enabled by Architecture Embedding Values of Simplicity and Edge Intelligence; Network Is Simple (Just Delivers Packets); Intelligence at Edge; Application Developers Can Create New Services Without Permission from Network Owners; Encourages Innovation and Competition; Prevents Network Owners from Denying Access Strategically; Promotes Openness and Innovation"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q048",
+      "question": "According to the notes, what is the relationship between port numbers and applications in the TCP/IP protocol stack?",
+      "options": {
+        "A": "Argues that port numbers are the same as IP addresses and perform identical functions.",
+        "B": "Maintains that port numbers are only used for web browsing and don't apply to other applications.",
+        "C": "Contends that each application on a computer listens on a different port when a packet arrives, the TCP layer decides which application receives the packet based on the port number of the incoming packet.",
+        "D": "Posits that port numbers determine which computer should receive the packet, not which application."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "correct": "According to the notes, port numbers are used by TCP to route application protocols to the correct application on the destination computer. Each application on a computer listens on a different port. When a packet arrives, the TCP layer decides which application receives the packet based on the port number of the incoming packet. This is how TCP routes packets to applications - IP routes packets to computers (using IP addresses), and TCP routes packets to applications (using port numbers). For example, web servers typically listen on port 80 (HTTP), email servers on port 25 (SMTP), etc. When you send a web request, the packet includes the destination IP address (to get to the right computer) and the destination port number (to get to the right application on that computer). Port numbers are different from IP addresses - IP addresses identify computers, while port numbers identify applications on those computers.",
+        "incorrect": {
+          "A": "This is incorrect. Port numbers and IP addresses are different and perform different functions. IP addresses identify computers, while port numbers identify applications on those computers.",
+          "B": "This is too narrow. Port numbers are used for all applications that use TCP - web browsing (HTTP, port 80), email (SMTP, port 25), file transfer (FTP, port 21), and many others. They're not limited to web browsing.",
+          "C": "This is the correct answer.",
+          "D": "This reverses the functions. IP addresses determine which computer should receive the packet. Port numbers determine which application on that computer should receive the packet. TCP uses port numbers to route to applications, while IP uses IP addresses to route to computers."
+        },
+        "reference": "Port Numbers and Applications - Each Application on Computer Listens on Different Port; TCP Layer Decides Which Application Receives Packet Based on Port Number; Port Numbers Allow TCP to Route Application Protocols to Correct Application; IP Routes to Computers (IP Addresses), TCP Routes to Applications (Port Numbers); Examples: Web Servers Port 80 (HTTP), Email Port 25 (SMTP)"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q049",
+      "question": "According to the notes, what does the example of AOL demonstrate about how architecture/code can regulate behavior?",
+      "options": {
+        "A": "Argues that aOL demonstrates that architecture/code can regulate behavior - when you are on AOL, you are subject to the rules of its world AOL knows certain things about who you are, makes it harder for other users to know...",
+        "B": "Maintains that aOL demonstrates that only laws can regulate behavior, not architecture.",
+        "C": "Contends that aOL demonstrates that architecture is always neutral and cannot regulate behavior.",
+        "D": "Posits that aOL demonstrates that only market forces matter, not architecture or laws."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "correct": "According to the notes, the example of AOL demonstrates that architecture/code can regulate behavior. When you are on AOL, you are subject to the rules of its world. AOL knows certain things about who you are, makes it harder for other users to know who you are, and it constrains the size of chat rooms, making it more difficult for dissidents to organize against AOL's views about how things ought to be. These features have important implications for how AOL is regulated. If AOL wants to control a certain behavior, it can impose rules etc. to stop it, or tax the behavior. But it can also change the architecture or code completely to render that behavior impossible. The universe of AOL is defined by its rules, and so by entering this space you are submitting to a tremendous amount of control. This shows how code/architecture can regulate behavior just as laws can - AOL can make certain behaviors impossible through technical design, not just through rules. This is Lessig's architecture modality in action.",
+        "incorrect": {
+          "A": "This is the correct answer.",
+          "B": "This is incorrect. AOL specifically demonstrates that architecture/code CAN regulate behavior, not just laws. AOL can change code to render behaviors impossible, showing code's regulatory power.",
+          "C": "This contradicts the example. AOL specifically demonstrates that architecture is NOT neutral - it actively regulates behavior by knowing who you are, constraining chat rooms, and being able to change code to render behaviors impossible.",
+          "D": "This is too narrow. While market forces may influence AOL's decisions, the example specifically shows how architecture/code can regulate behavior - AOL can control behavior through technical design, not just through market forces."
+        },
+        "reference": "AOL Example - Demonstrates Architecture/Code Can Regulate Behavior; When on AOL, Subject to Rules of Its World; AOL Knows Who You Are, Makes It Harder for Others to Know, Constrains Chat Room Sizes; Can Change Architecture/Code to Render Behaviors Impossible; Shows Code Can Regulate Behavior Just as Laws Can; Lessig's Architecture Modality in Action"
+      }
+    },
+    {
+      "id": "CLK-LT-M2-Q050",
+      "question": "According to the notes, what is the significance of Internet Exchanges (NAPs and MAEs) in the Internet infrastructure?",
+      "options": {
+        "A": "Argues that nAPs and MAEs are the same as ISPs and perform identical functions.",
+        "B": "Maintains that nAPs and MAEs don't exist - all Internet traffic goes through a single central point.",
+        "C": "Contends that nAPs and MAEs only connect individual customers to the Internet, not backbone networks.",
+        "D": "Posits that nAPs (Network Access Points) and MAEs (Metropolitan Area Exchanges) are where NSP backbones are connected they allow different backbone networks to exchange traffic and route packets between backbones."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "correct": "According to the notes, Internet Exchanges (NAPs - Network Access Points, and MAEs - Metropolitan Area Exchanges) are where NSP backbones are connected. They allow different backbone networks to exchange traffic and route packets between backbones. NSPs (Network Service Providers) are the large networks that form the Internet backbone, and they are connected through these Internet Exchanges. This is critical infrastructure because it enables the Internet's hierarchical routing system to function. When a packet needs to travel from one backbone to another, it goes through these exchange points. The routers connected to NSP backbones hold the largest routing tables and can route packets to the correct backbone, and these exchanges enable packets to move between backbones. Without these exchanges, different backbone networks would be isolated and couldn't communicate. They are the interconnection points that make the Internet a unified network rather than separate isolated networks.",
+        "incorrect": {
+          "A": "This is incorrect. NAPs/MAEs and ISPs are different. NAPs/MAEs connect backbone networks (NSPs), while ISPs connect individual customers to the Internet. They serve different roles in the infrastructure.",
+          "B": "This is incorrect. NAPs and MAEs do exist and are critical infrastructure. The Internet doesn't have a single central point - it's a distributed network with multiple exchange points connecting different backbones.",
+          "C": "This is incorrect. NAPs and MAEs connect backbone networks (NSPs), not individual customers. Individual customers connect through ISPs, which may then connect to NSP backbones.",
+          "D": "This is the correct answer."
+        },
+        "reference": "Internet Exchanges (NAPs and MAEs) - Where NSP Backbones Are Connected; Allow Different Backbone Networks to Exchange Traffic; Route Packets Between Backbones; Critical Infrastructure Points; Enable Internet's Hierarchical Routing System to Function; Make Internet Unified Network Rather Than Separate Isolated Networks; Interconnection Points for Backbone Networks"
+      }
+    }
+  ]
+}

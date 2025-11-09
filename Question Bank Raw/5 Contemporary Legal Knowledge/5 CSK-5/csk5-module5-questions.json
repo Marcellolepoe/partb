@@ -1,0 +1,145 @@
+{
+  "module": "CSK-5 Module 5: Codes, Interpretation & Civil Litigation Practice",
+  "questions": [
+    {
+      "id": "CSK5-M5-Q001",
+      "question": "When a civil-law lawyer in Indonesia first maps out a problem, what is their primary point of reference?",
+      "options": {
+        "A": "Claims that they look for published law firm alerts before consulting legislation.",
+        "B": "Claims that they review recent Supreme Court cases because stare decisis is binding.",
+        "C": "Claims that they start with the relevant Civil Code book because the code is the main source of law.",
+        "D": "Claims that they begin with customary practice and only use the code if no custom exists."
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Client alerts may help, but the authoritative source remains the legislation.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#civil-law-sources\">Civil Codes as Primary Sources</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Case law is persuasive rather than binding; stare decisis does not control civil-law courts.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#civil-law-sources\">Civil Codes as Primary Sources</a>"
+          },
+          "C": {
+            "is_correct": true,
+            "explanation": "Civil-law systems such as Indonesia and Thailand are built around comprehensive codes, so practitioners start by reading the relevant Civil Code provisions.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#civil-law-sources\">Civil Codes as Primary Sources</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Custom can influence interpretation, yet only after the coder provisions are consulted.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#civil-law-sources\">Civil Codes as Primary Sources</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M5-Q002",
+      "question": "How do Indonesian civil courts treat long lines of uniform decisions on the same point of law?",
+      "options": {
+        "A": "Claims that uniform precedents automatically bind all lower courts.",
+        "B": "Claims that they are treated as foreign law and must be proved by experts.",
+        "C": "Claims that the decisions are ignored because only statutes matter.",
+        "D": "Claims that they acquire persuasive force under the constant-jurisprudence doctrine and guide later judges."
+      },
+      "correct_answer": "D",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Civil-law courts are not bound by stare decisis; precedent is persuasive, not binding.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#constant-jurisprudence\">Constant Jurisprudence</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Domestic precedents do not need to be proved like foreign law.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#constant-jurisprudence\">Constant Jurisprudence</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Uniform case law is considered; it is not ignored outright.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#constant-jurisprudence\">Constant Jurisprudence</a>"
+          },
+          "D": {
+            "is_correct": true,
+            "explanation": "When past rulings are consistent, courts treat the line as persuasive guidance under the constant-jurisprudence principle.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#constant-jurisprudence\">Constant Jurisprudence</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M5-Q003",
+      "question": "What makes Civil Code Book 3 central to Indonesian commercial work?",
+      "options": {
+        "A": "Claims that it regulates contracts, including default rules for sales, hire and loans.",
+        "B": "Claims that it codifies family and succession matters.",
+        "C": "Claims that it only deals with criminal offences related to commerce.",
+        "D": "Claims that it is the only book that has been repealed in its entirety."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": true,
+            "explanation": "Book 3 covers obligations and specific contracts, so it supplies the default civil-law rules for commercial dealings.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#indonesia-code-structure\">Indonesian Civil Code Structure</a>"
+          },
+          "B": {
+            "is_correct": false,
+            "explanation": "Family and succession issues are handled in Books 1 and 4.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#indonesia-code-structure\">Indonesian Civil Code Structure</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Criminal offences sit outside the Civil Code and are governed by separate statutes.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#indonesia-code-structure\">Indonesian Civil Code Structure</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Book 3 remains in force and is relied on daily by Indonesian lawyers.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#indonesia-code-structure\">Indonesian Civil Code Structure</a>"
+          }
+        }
+      }
+    },
+    {
+      "id": "CSK5-M5-Q004",
+      "question": "How do Indonesian legislators deal with outdated Dutch-language provisions in the Civil Code?",
+      "options": {
+        "A": "Claims that they simply ignore the code and leave the issue unresolved.",
+        "B": "Claims that they translate the entire code into English each year.",
+        "C": "Claims that they enact new statutes or implementing regulations that override or clarify the old provisions.",
+        "D": "Claims that they amend the Dutch text directly in every case."
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "options": {
+          "A": {
+            "is_correct": false,
+            "explanation": "Lawmakers actively address gaps; they do not leave matters untouched.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#implementing-regs\">Implementing Regulations</a>"
+          },
+          "B": {
+            "is_correct": true,
+            "explanation": "Hmm",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#implementing-regs\">Implementing Regulations</a>"
+          },
+          "C": {
+            "is_correct": false,
+            "explanation": "Correct option is D; see explanation for why translation is key.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#implementing-regs\">Implementing Regulations</a>"
+          },
+          "D": {
+            "is_correct": false,
+            "explanation": "Revising the original Dutch text is difficult, so new legislation is preferred.",
+            "note_link": "<a href=\"../Notes/csk5-module5.html#implementing-regs\">Implementing Regulations</a>"
+          }
+        }
+      }
+    }
+  ]
+}
