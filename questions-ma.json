@@ -15,8 +15,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "**Statement I (INCORRECT):** The bank loan secured against InnovateCorp's assets is not financial assistance as it's not provided by InnovateCorp itself. **Statement II (CORRECT):** The S$5 million loan from InnovateCorp to TechStart violates section 76 as it constitutes financial assistance for the acquisition of InnovateCorp's own shares. **Statement III (INCORRECT):** Section 76 applies to public companies and their subsidiaries, not private companies. **Statement IV (CORRECT):** The bank loan is permissible as it's provided by a third party (the bank) and secured against InnovateCorp's assets, not provided by InnovateCorp itself. **Statement V (INCORRECT):** Section 160 applies to disposal of company property, not acquisition of shares.",
-    "detailed_explanation": "### Understanding Financial Assistance Under Section 76 Companies Act\n\n**What this question is testing:** This question tests your understanding of the financial assistance prohibition under section 76 of the Companies Act, including what constitutes financial assistance and to which companies it applies.\n\n**Key Legal Principles:**\n*   **Section 76(1) CA:** Public companies and their subsidiaries cannot give financial assistance for the acquisition of their own shares.\n*   **Section 76(2) CA:** Financial assistance includes loans, guarantees, provision of security, release of obligations, etc.\n*   **Scope:** Only applies to public companies and their subsidiaries, not private companies.\n*   **Third-party assistance:** Financial assistance provided by third parties (like banks) is not prohibited.\n*   **Section 160 CA:** Requires shareholder approval for disposal of substantially the whole of company's property.\n\n**Why each statement is correct or wrong:**\n\n*   **I. The S$25 million bank loan secured against InnovateCorp's assets violates section 76 as it constitutes financial assistance.**\n    *   **INCORRECT.** This is a red herring. The bank loan is provided by a third party (the bank), not by InnovateCorp itself. Section 76 only prohibits financial assistance given by the company whose shares are being acquired, not by third parties.\n\n*   **II. The S$5 million loan from InnovateCorp to TechStart violates section 76 as it constitutes financial assistance for the acquisition of InnovateCorp's own shares.**\n    *   **CORRECT.** This is a clear violation of section 76. InnovateCorp (a public company) is providing financial assistance (a loan) to TechStart for the acquisition of InnovateCorp's own shares. This is exactly what section 76 prohibits.\n\n*   **III. The transaction structure is permissible as InnovateCorp is a public company and section 76 only applies to private companies.**\n    *   **INCORRECT.** This is a common exam trap. Section 76 applies to public companies and their subsidiaries, not private companies. The statement has the rule backwards.\n\n*   **IV. The bank loan is permissible as it is secured against InnovateCorp's assets but not provided by InnovateCorp itself.**\n    *   **CORRECT.** The bank loan is provided by a third party (the bank) and is secured against InnovateCorp's assets. This is permissible as it's not financial assistance provided by InnovateCorp itself.\n\n*   **V. The transaction requires shareholder approval under section 160 as it involves the disposal of substantially the whole of InnovateCorp's property.**\n    *   **INCORRECT.** Section 160 applies to disposal of company property, not acquisition of shares. This is a share purchase transaction, not an asset disposal.\n\n**Exam Tips:** Remember that section 76 only applies to public companies and their subsidiaries, and only prohibits financial assistance provided by the company whose shares are being acquired. Third-party assistance is not prohibited. Section 160 applies to disposal of company property, not acquisition of shares.",
+    "explanation": {
+      "correct": "**Statement I (INCORRECT):** The bank loan secured against InnovateCorp's assets is not financial assistance as it's not provided by InnovateCorp itself. **Statement II (CORRECT):** The S$5 million loan from InnovateCorp to TechStart violates section 76 as it constitutes financial assistance for the acquisition of InnovateCorp's own shares. **Statement III (INCORRECT):** Section 76 applies to public companies and their subsidiaries, not private companies. **Statement IV (CORRECT):** The bank loan is permissible as it's provided by a third party (the bank) and secured against InnovateCorp's assets, not provided by InnovateCorp itself. **Statement V (INCORRECT):** Section 160 applies to disposal of company property, not acquisition of shares.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act s76, s160; Intraco v Multi-Pak [1995]"
   },
   {
@@ -35,8 +42,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "**Statement I (INCORRECT):** While share purchase may be simpler in some respects, it doesn't allow GlobalCorp to acquire only the desired business line. **Statement II (CORRECT):** Asset purchase allows GlobalCorp to cherry-pick only the software development business. **Statement III (CORRECT):** Share purchase means GlobalCorp inherits all business lines and must deal with potential redundancies. **Statement IV (CORRECT):** Asset purchase requires novation of contracts and transfer of employees, making it more complex. **Statement V (CORRECT):** The choice depends on commercial objectives, risk tolerance, and specific circumstances.",
-    "detailed_explanation": "### Understanding Share Purchase vs Asset Purchase in M&A\n\n**What this question is testing:** This question tests your understanding of the fundamental choice between share purchase and asset purchase in M&A transactions, including the advantages and disadvantages of each structure.\n\n**Key Legal Principles:**\n*   **Share purchase:** Acquire the shares of the company that owns/runs the business.\n*   **Asset purchase:** Acquire specific assets (contracts, land, IP, employees) that comprise the business.\n*   **Multiple businesses:** Share purchase inherits all business lines; asset purchase allows cherry-picking.\n*   **Merger of operations:** Share purchase may create redundancies; asset purchase avoids overlaps.\n*   **Execution complexity:** Share purchase is generally simpler; asset purchase requires more planning.\n*   **Third-party consents:** Asset purchase requires more consents for contract novations.\n\n**Why each statement is correct or wrong:**\n\n*   **I. A share purchase is preferable as it is simpler to execute and requires fewer consents from third parties.**\n    *   **INCORRECT.** This is a red herring. While share purchase may be simpler in some respects, it doesn't address GlobalCorp's specific need to acquire only the software development business. The statement ignores the fundamental issue that share purchase would give GlobalCorp all three business lines.\n\n*   **II. An asset purchase is preferable as it allows GlobalCorp to acquire only the software development business.**\n    *   **CORRECT.** Asset purchase allows GlobalCorp to cherry-pick only the desired business line (software development) without inheriting the IT consulting and hardware distribution businesses.\n\n*   **III. A share purchase will require GlobalCorp to deal with the other business lines and potential redundancies.**\n    *   **CORRECT.** Share purchase means GlobalCorp inherits all three business lines and must deal with potential redundancies and overlaps with its existing operations.\n\n*   **IV. An asset purchase will require novation of contracts and transfer of employees, making it more complex.**\n    *   **CORRECT.** Asset purchase requires more complex execution, including novation of contracts, transfer of employees, and obtaining consents from third parties.\n\n*   **V. The choice between share and asset purchase depends on GlobalCorp's commercial objectives and risk tolerance.**\n    *   **CORRECT.** The choice between share and asset purchase depends on various factors including commercial objectives, risk tolerance, execution complexity, and specific circumstances of the transaction.\n\n**Exam Tips:** Always consider the specific circumstances and objectives of the acquirer when choosing between share and asset purchase. Share purchase is simpler but inherits everything; asset purchase is more complex but allows cherry-picking. The choice depends on commercial goals and risk tolerance.",
+    "explanation": {
+      "correct": "**Statement I (INCORRECT):** While share purchase may be simpler in some respects, it doesn't allow GlobalCorp to acquire only the desired business line. **Statement II (CORRECT):** Asset purchase allows GlobalCorp to cherry-pick only the software development business. **Statement III (CORRECT):** Share purchase means GlobalCorp inherits all business lines and must deal with potential redundancies. **Statement IV (CORRECT):** Asset purchase requires novation of contracts and transfer of employees, making it more complex. **Statement V (CORRECT):** The choice depends on commercial objectives, risk tolerance, and specific circumstances.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; M&A practice guides; Case law on share vs asset purchases"
   },
   {
@@ -55,8 +69,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -75,8 +96,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -95,8 +123,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -115,8 +150,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -135,8 +177,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -155,8 +204,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -175,8 +231,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -195,8 +258,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -215,8 +285,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -235,8 +312,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -255,8 +339,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -275,8 +366,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -295,8 +393,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -315,8 +420,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -335,8 +447,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -355,8 +474,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -375,8 +501,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -395,8 +528,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -415,8 +555,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -435,8 +582,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -455,8 +609,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -475,8 +636,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -495,8 +663,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -515,8 +690,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -535,8 +717,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -555,8 +744,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -575,8 +771,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -595,8 +798,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -615,8 +825,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -635,8 +852,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -655,8 +879,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -675,8 +906,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -695,8 +933,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -715,8 +960,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -735,8 +987,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -755,8 +1014,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -775,8 +1041,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -795,8 +1068,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -815,8 +1095,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -835,8 +1122,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -855,8 +1149,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -875,8 +1176,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -895,8 +1203,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -915,8 +1230,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -935,8 +1257,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -955,8 +1284,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -975,8 +1311,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -995,8 +1338,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1015,8 +1365,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1035,8 +1392,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1055,8 +1419,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1075,8 +1446,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1095,8 +1473,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1115,8 +1500,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1135,8 +1527,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1155,8 +1554,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1175,8 +1581,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1195,8 +1608,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1215,8 +1635,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1235,8 +1662,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1255,8 +1689,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1275,8 +1716,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1295,8 +1743,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1315,8 +1770,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1335,8 +1797,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1355,8 +1824,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1375,8 +1851,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1395,8 +1878,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1415,8 +1905,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1435,8 +1932,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1455,8 +1959,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1475,8 +1986,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1495,8 +2013,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1515,8 +2040,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1535,8 +2067,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1555,8 +2094,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1575,8 +2121,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1595,8 +2148,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1615,8 +2175,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1635,8 +2202,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1655,8 +2229,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1675,8 +2256,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1695,8 +2283,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1715,8 +2310,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1735,8 +2337,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1755,8 +2364,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1775,8 +2391,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1795,8 +2418,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1815,8 +2445,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1835,8 +2472,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1855,8 +2499,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1875,8 +2526,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1895,8 +2553,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1915,8 +2580,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1935,8 +2607,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1955,8 +2634,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1975,8 +2661,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   },
   {
@@ -1995,8 +2688,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
-    "detailed_explanation": "Comprehensive analysis including key legal principles, practical application, common exam traps, and detailed explanation of why each statement is correct or incorrect.",
+    "explanation": {
+      "correct": "Detailed explanation of each statement's M&A treatment with specific reference to Companies Act provisions and M&A practice.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Companies Act; Takeover Code; M&A practice guides; Case law"
   }
 ]

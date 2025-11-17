@@ -15,8 +15,15 @@
       "D. I and V only"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II and V are typically required conditions precedent for drawdown. Statement III (pro forma financials) is not typically required unless specifically agreed. Statement IV (director confirmation) sounds reasonable but is not a standard requirement - the facility agreement and corporate authority (board resolutions) already establish the company's authority to borrow.",
-    "detailed_explanation": "**BASIC CONCEPT: Conditions Precedent for Drawdown**\n\nConditions precedent (CPs) are requirements that must be satisfied before a borrower can draw down funds under a loan facility. Think of them as 'checkpoints' that protect the lender.\n\n**What this question tests:** Your understanding of standard banking practice and what lenders typically require before releasing funds.\n\n**Why each statement matters:**\n\n**I. Representations & Warranties (R&W) - CORRECT**\n- R&Ws are factual statements made by the borrower about its financial condition, legal status, and business operations\n- These must remain true at drawdown to ensure the lender's risk assessment is still valid\n- Example: If borrower represented it had no litigation, but a major lawsuit was filed, this would breach the R&W\n\n**II. Material Adverse Change (MAC) - CORRECT**\n- MAC clauses protect lenders from significant negative changes in borrower's condition\n- Prevents drawdown if something major has happened since the loan was agreed\n- Example: If borrower's main customer went bankrupt, this could trigger MAC\n\n**V. Events of Default (EOD) - CORRECT**\n- EODs are situations that allow lenders to demand immediate repayment\n- Must ensure no EODs exist and none would be created by the drawdown\n- Example: If borrower is already in breach of a covenant, drawing down would make it worse\n\n**III. Pro Forma Financials - INCORRECT**\n- Pro forma means 'as if' - showing what financials would look like after the transaction\n- Not a standard CP unless specifically negotiated\n- Lenders typically rely on original financials and ongoing reporting\n\n**IV. Director Confirmation - INCORRECT**\n- Sounds reasonable but is redundant\n- Board resolutions and facility agreement already establish corporate authority\n- Directors' duties already require them to act in company's best interests\n\n**Exam Tips:**\n- Always think about what protects the lender's interests\n- Standard CPs are: R&W confirmations, MAC confirmations, EOD confirmations\n- Non-standard items are usually red flags in multiple choice questions",
+    "explanation": {
+      "correct": "Statements I, II and V are typically required conditions precedent for drawdown. Statement III (pro forma financials) is not typically required unless specifically agreed. Statement IV (director confirmation) sounds reasonable but is not a standard requirement - the facility agreement and corporate authority (board resolutions) already establish the company's authority to borrow.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "Statement III (Pro Forma Financials) is incorrect: Pro forma means 'as if' - showing what financials would look like after the transaction Statement IV (Director Confirmation) is incorrect: Sounds reasonable but is redundant",
+        "C": "Statement III (Pro Forma Financials) is incorrect: Pro forma means 'as if' - showing what financials would look like after the transaction",
+        "D": "While statement I is correct, this option excludes other correct statements (II). While statement V is correct, this option excludes other correct statements (II)."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4A: Conditions Precedent checklist"
   },
   {
@@ -35,35 +42,22 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements III and V are correct. The facility agent generally has no liability for following majority lender instructions (III), but it does have a duty to act in good faith and exercise reasonable care (V). Statement I is incorrect - facility agents don't have unlimited liability. Statement II is incorrect - individual lenders don't have joint liability for voting decisions. Statement IV is incorrect - lenders who vote against acceleration could still have liability if they participate in wrongful enforcement.",
-    "detailed_explanation": "**BASIC CONCEPT: Syndicated Loan Liability Framework**\n\nIn syndicated loans, multiple banks lend to one borrower, with one bank acting as 'facility agent' to coordinate between lenders and borrower.\n\n**What this question tests:** Your understanding of liability allocation in syndicated lending and the role of facility agents.\n\n**Key Legal Principles:**\n\n**Facility Agent Liability (III & V - CORRECT):**\n- **III CORRECT:** Facility agents are generally protected when following majority lender instructions\n- **V CORRECT:** But they must still act in good faith and exercise reasonable care\n- This creates a balance: protection for following instructions, but liability for bad faith or negligence\n\n**Why other statements are wrong:**\n\n**I. Unlimited Liability - INCORRECT**\n- Facility agents don't have unlimited liability\n- They have limited, specific duties and protections\n- Would make syndicated lending unworkable if agents faced unlimited exposure\n\n**II. Joint Liability for Voting - INCORRECT**\n- Individual lenders don't have joint liability just for voting\n- Each lender's liability is separate and limited to their loan commitment\n- Voting is a contractual right, not a source of liability\n\n**IV. No Liability for Voting Against - INCORRECT**\n- Lenders who vote against acceleration could still have liability\n- If they participate in wrongful enforcement actions later, they could be liable\n- Voting is just one part of the enforcement process\n\n**Exam Tips:**\n- Facility agents have limited liability but must act in good faith\n- Individual lenders' liability is separate from voting decisions\n- Look for the balance between protection and responsibility",
+    "explanation": {
+      "correct": "Statements III and V are correct. The facility agent generally has no liability for following majority lender instructions (III), but it does have a duty to act in good faith and exercise reasonable care (V). Statement I is incorrect - facility agents don't have unlimited liability. Statement II is incorrect - individual lenders don't have joint liability for voting decisions. Statement IV is incorrect - lenders who vote against acceleration could still have liability if they participate in wrongful enforcement.",
+      "incorrect": {
+        "A": "Statement I (Unlimited Liability) is incorrect: Facility agents don't have unlimited liability Statement II (Joint Liability for Voting) is incorrect: Individual lenders don't have joint liability just for voting",
+        "B": "This is the correct answer.",
+        "C": "Statement II (Joint Liability for Voting) is incorrect: Individual lenders don't have joint liability just for voting",
+        "D": "Statement I (Unlimited Liability) is incorrect: Facility agents don't have unlimited liability Statement II (Joint Liability for Voting) is incorrect: Individual lenders don't have joint liability just for voting"
+      }
+    },
     "reference": "Syndicated Lending Documentation - Facility Agent Liability Provisions"
-  },
-  {
-    "question": "TechCorp Pte Ltd has entered into a committed five-year term loan facility for S$200 million with MegaBank. The company intends to give the bank a drawdown notice tomorrow, and the CFO has asked you what, if anything, she should ensure before issuing the drawdown notice. Which of the following statements may apply?",
-    "statements": [
-      "I. She should ensure that all representations and warranties in the facility agreement remain true and accurate.",
-      "II. She should ensure that no material adverse change has occurred since the original financial statements were provided by the company.",
-      "III. She should prepare a copy of the company's pro forma financial statements for the period up to the date of the drawdown notice.",
-      "IV. She should obtain a written confirmation by each of the directors that it is in the company's best interests to drawdown on the facility.",
-      "V. She should ensure that there are no events of default in existence and that none would result from borrowing under the facility agreement."
-    ],
-    "options": [
-      "A. I, II and V only",
-      "B. All of the above",
-      "C. I, II, III and V only",
-      "D. I and V only"
-    ],
-    "correct_answer": "A",
-    "explanation": "Statements I, II and V are typically required conditions precedent for drawdown. Statement III (pro forma financials) is not typically required unless specifically agreed. Statement IV (director confirmation) sounds reasonable but is not a standard requirement - the facility agreement and corporate authority (board resolutions) already establish the company's authority to borrow.",
-    "detailed_explanation": "Drawdown Conditions Precedent: I) R&W confirmations ensure ongoing compliance with factual statements made at signing. II) MAC clauses protect lenders from material adverse changes affecting the borrower's ability to perform obligations. V) EOD confirmations ensure the borrower remains in compliance. III) Pro forma financials are not standard CPs - lenders rely on original financials and ongoing covenants. IV) Director confirmations are redundant where board resolutions and facility agreements already establish corporate authority and best interests.",
-    "reference": "Banking & Finance Quick Notes - Section 4A: Conditions Precedent checklist"
   },
   {
     "question": "GlobalCorp Ltd has a syndicated revolving credit facility with five banks led by MegaBank as facility agent. The company breached its debt-to-equity covenant when it reported its quarterly results. MegaBank sent a formal notice of default, but two of the five lenders want to grant a waiver while the other three want to accelerate the facility. The CFO is concerned about liability exposure. Which of the following statements about liability in this situation may apply?",
     "statements": [
       "I. MegaBank, as facility agent, will be personally liable to the borrower if it accelerates the facility without proper majority lender consent.",
-      "II. The three lenders who voted to accelerate will be jointly and severally liable to the borrower for damages if the acceleration is later found to be wrongful.",
+      "II. The three lenders who voted to accelerate may be individually liable to the borrower for damages if the acceleration is later found to be wrongful, but their liability is separate, not joint and several.",
       "III. Individual lenders who vote to accelerate may be liable to other lenders if their vote was based on material misrepresentations by the borrower.",
       "IV. The borrower may have a claim against MegaBank if the facility agent failed to properly notify all lenders of the covenant breach before calling for a vote.",
       "V. The two lenders who voted for the waiver cannot be held liable to the three accelerating lenders for the borrower's default."
@@ -75,8 +69,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements II, III and IV address potential liability scenarios. Statement I is incorrect - facility agents typically have broad discretion and protection clauses. Statement V is incorrect - lenders voting for waivers could potentially face liability if they acted negligently or in bad faith. The key liability issues are: wrongful acceleration (II), misrepresentation-based voting (III), and agent notification failures (IV).",
-    "detailed_explanation": "Syndicated Loan Liability: II) Lenders who accelerate may face liability if acceleration is wrongful (e.g., improper majority consent, breach of good faith). III) Lenders voting based on misrepresentations may be liable to other lenders for resulting losses. IV) Facility agents must properly notify all lenders and follow procedures - failure creates liability exposure. I) Facility agents typically have broad protection clauses and discretion. V) Lenders voting for waivers aren't automatically protected - they could face liability for negligent or bad faith decisions.",
+    "explanation": {
+      "correct": "Statements II, III and IV are correct. Statement II: Lenders voting to accelerate may be individually liable if acceleration is wrongful, but each lender's liability is separate (not joint and several). Statement III: Lenders may be liable to other lenders if their vote was based on misrepresentations. Statement IV: Facility agents have a duty to properly notify lenders and may be liable for failures. Statement I is incorrect - facility agents don't have personal liability for following majority lender instructions. Statement V is incorrect - lenders voting for waivers could potentially face liability if they acted negligently.",
+      "incorrect": {
+        "A": "Statement I is incorrect: Facility agents acting as agents for lenders don't have personal liability for following majority lender instructions - they're protected when acting within their agency role. Statement II is partially correct but this option incorrectly includes Statement I.",
+        "B": "This is the correct answer.",
+        "C": "Statement I is incorrect: Facility agents don't have personal liability for following majority lender instructions. While Statements II, III and IV are correct, Statement I makes this option incorrect.",
+        "D": "Statement I is incorrect: Facility agents don't have personal liability for following majority lender instructions. Statement V is also incorrect: Lenders voting for waivers could potentially face liability if they acted negligently or in bad faith."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 2A: Facility Agent duties and lender liability in syndicated facilities"
   },
   {
@@ -95,8 +96,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements II and IV are correct. Statement I is incorrect - fixed charges are not automatically invalid within 6 months (unlike floating charges). Statement III is incorrect - pledges don't require the same assets to remain pledged. Statement V is incorrect - only land charges require SLA registration; company charges require ACRA registration.",
-    "detailed_explanation": "Security Validity in Liquidation: II) Floating charges created within 6 months of liquidation may be invalid unless new value was given after creation (Companies Act s329). IV) Floating charges crystallize into fixed charges upon appointment of receiver or other crystallization events. I) Fixed charges are not subject to the 6-month clawback rule that applies to floating charges. III) Pledges don't require the same specific assets - the pledge interest attaches to the class of inventory. V) Only land charges require SLA registration; company charges require ACRA registration within 30 days.",
+    "explanation": {
+      "correct": "Statements II and IV are correct. Statement II: Floating charges created within 6 months of liquidation may be invalid under Companies Act s329 unless new value was given after creation. Statement IV: Floating charges crystallize into fixed charges upon appointment of receiver or other crystallization events. Statement I is incorrect - fixed charges are not automatically invalid within 6 months (only floating charges face this vulnerability). Statement III is incorrect - pledges don't require the same specific assets to remain pledged - replacement inventory is still subject to the pledge. Statement V is incorrect - while land charges require SLA registration, company charges over land require ACRA registration (SLA is for land registry, ACRA for company charges).",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "Statement I is incorrect: Fixed charges are not automatically invalid within 6 months of liquidation - only floating charges face this vulnerability under Companies Act s329. Statement V is incorrect: While land charges require SLA registration for land registry purposes, company charges require ACRA registration (SLA registration is separate from ACRA registration for company charges). Statement II is correct but this option includes incorrect statements.",
+        "C": "Statement III is incorrect: Pledges don't require the same specific assets to remain pledged - the pledge attaches to the category of assets (inventory), so replacement inventory is still subject to the pledge. Statement II is correct but this option includes Statement III which is incorrect.",
+        "D": "Statement I is incorrect: Fixed charges are not automatically invalid within 6 months (unlike floating charges). Statement III is incorrect: Pledges don't require the same assets to remain pledged. Statement V is incorrect: Only land charges require SLA registration; company charges require ACRA registration."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 3C: Security validity and clawback provisions in insolvency"
   },
   {
@@ -115,8 +123,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, III and V are correct. Statement II is incorrect - 60% of S$75 million is S$45 million, and current drawings are S$55 million, so the threshold is exceeded, but the utilization fee calculation method matters. Statement IV is incorrect - commitment fees are typically calculated on a daily basis, not monthly.",
-    "detailed_explanation": "Facility Cost Calculations: I) Commitment fees are calculated on average daily undrawn balances over the period. III) Interest uses weighted average drawn amounts to reflect timing of drawdowns/repayments. V) Utilization fees are typically calculated only on the excess amount above the threshold, not the entire drawn amount. II) The threshold calculation is correct (60% of S$75m = S$45m), but the fee calculation method determines whether it applies to excess or total. IV) Commitment fees use daily balances, not month-end snapshots.",
+    "explanation": {
+      "correct": "Statements I, III and V are correct. Statement I: Commitment fees are calculated on average daily undrawn balances over the period, not just the current undrawn amount. Statement III: Interest uses weighted average drawn amounts to reflect timing of drawdowns/repayments throughout the quarter. Statement V: Utilization fees are typically calculated only on the excess amount above the threshold (S$55M - S$45M = S$10M), not on the entire drawn amount. Statement II is incorrect - while S$55 million does exceed 60% of S$75 million (S$45 million threshold), the statement incorrectly describes '60% of the facility limit' as S$45 million, when the facility limit is actually S$75 million (60% of which equals S$45 million). The wording is misleading. Statement IV is incorrect - commitment fees are calculated on a daily basis throughout the period, not just at month-end.",
+      "incorrect": {
+        "A": "Statement II is incorrect: While S$55 million does exceed 60% of S$75 million (S$45 million threshold), the statement incorrectly describes the facility limit as S$45 million when it is actually S$75 million. The utilization fee threshold is 60% of the total facility (S$75M), not 60% of some other amount. Statements I and III are correct but this option includes Statement II which is incorrect.",
+        "B": "This is the correct answer.",
+        "C": "Statement II is incorrect: The statement incorrectly states the facility limit as S$45 million when it is S$75 million. While S$55 million does exceed the 60% threshold (S$45 million), the statement misstates the facility limit. Statements III and V are correct but this option includes Statement II which is incorrect.",
+        "D": "Statement II is incorrect: The statement misstates the facility limit. Statement IV is incorrect: Commitment fees are calculated on a daily basis, not monthly."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4B: Cost calculation methods and fee structures"
   },
   {
@@ -135,8 +150,15 @@
       "D. All of the above"
     ],
     "correct_answer": "C",
-    "explanation": "Statements I, III and V are correct. Statement II is incorrect - damages are limited to actual losses, not the full facility amount. Statement IV is incorrect - actual knowledge may provide a defense, but it depends on the specific terms of the facility agreement.",
-    "detailed_explanation": "R&W Breach Consequences: I) Business R&W breaches (like environmental compliance) typically allow immediate acceleration as they go to fundamental business operations. III) Damages for R&W breaches are limited to actual losses directly caused by the misrepresentation, not punitive amounts. V) Solvency breaches can trigger cross-defaults as they indicate fundamental financial distress. II) Damages are compensatory, not punitive - lenders can't claim the full facility amount without proving actual loss. IV) Actual knowledge defenses depend on facility agreement terms and may not always apply.",
+    "explanation": {
+      "correct": "Statements I, III and V are correct. Statement I: Business R&W breaches (like environmental compliance) typically allow immediate acceleration as they go to fundamental business operations - no cure period is usually required. Statement III: Damages for R&W breaches are limited to actual losses directly caused by the misrepresentation, not punitive amounts. Statement V: Solvency R&W breaches are fundamental and typically trigger cross-defaults in other agreements. Statement II is incorrect - damages are limited to actual losses, not the full facility amount. Statement IV is incorrect - while actual knowledge may provide a defense, it depends on specific facility agreement terms and may not always absolve liability.",
+      "incorrect": {
+        "A": "Statement V is also correct: Solvency R&W breaches are fundamental and typically trigger cross-default provisions in other facility agreements regardless of materiality thresholds, as solvency goes to the core of the borrower's ability to perform. This option excludes Statement V.",
+        "B": "Statement II is incorrect: Damages for R&W breaches are limited to actual losses directly caused by the misrepresentation, not the full facility amount. Statement IV is incorrect: Actual knowledge may provide a defense but depends on specific facility agreement terms - it's not an automatic defense.",
+        "C": "This is the correct answer.",
+        "D": "Statement II is incorrect: Damages are limited to actual losses, not the full facility amount. Statement IV is incorrect: Actual knowledge defense depends on specific agreement terms and may not always apply."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4C: R&W breach consequences and liability limitations"
   },
   {
@@ -155,8 +177,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I and II are correct. Statement III is incorrect - financial covenant improvements don't override negative covenant restrictions. Statement IV is incorrect - negative covenants typically require prior consent, not just notice. Statement V is incorrect - mandatory prepayment provisions depend on specific facility agreement terms, not automatic percentages.",
-    "detailed_explanation": "Negative Covenant Compliance: I) Asset disposal covenants typically allow sales if proceeds are used for permitted purposes (debt reduction, reinvestment) within specified timeframes. II) Acquisition covenants usually require prior consent unless acquisitions meet pre-agreed criteria (size, industry, etc.). III) Financial covenant improvements don't override negative covenant restrictions - both must be complied with. IV) Negative covenants require prior consent, not just notice periods. V) Mandatory prepayment obligations are facility-specific and not automatic percentages.",
+    "explanation": {
+      "correct": "Statements I and II are correct. Statement I: Negative covenants against asset disposals typically permit disposals if proceeds are used to reduce debt or reinvest within a specified period (often 12 months). Statement II: Negative covenants against acquisitions typically require prior written consent unless the acquisition meets specified carve-out criteria (size limits, industry restrictions, etc.). Statement III is incorrect - financial covenant improvements don't override negative covenant restrictions - negative covenants operate independently and must be complied with regardless of financial covenant performance. Statement IV is incorrect - negative covenants typically require prior written consent, not just notice with a non-objection period. Statement V is incorrect - mandatory prepayment obligations depend on specific facility agreement terms and are not automatic fixed percentages.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "Statement V is incorrect: Mandatory prepayment obligations are not automatic fixed percentages - they depend on specific facility agreement terms. Some agreements may require 100% of proceeds, others may have different percentages or thresholds, and some may not require prepayment at all if proceeds are reinvested. Statements I and II are correct but this option includes Statement V which is incorrect.",
+        "C": "Statement III is incorrect: Financial covenant improvements don't override negative covenant restrictions - negative covenants must be complied with independently. Statement V is incorrect: Mandatory prepayment percentages depend on specific facility agreement terms, not automatic percentages. Statement II is correct but this option includes incorrect statements.",
+        "D": "Statement III is incorrect: Financial covenant improvements don't override negative covenant restrictions. Statement IV is incorrect: Negative covenants require prior consent, not just notice. Statement V is incorrect: Mandatory prepayment obligations depend on specific agreement terms."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4D: Negative covenant restrictions and permitted activities"
   },
   {
@@ -175,8 +204,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements II and IV are correct. Statement I is incorrect - payment defaults typically have grace periods. Statement III is incorrect - customer bankruptcy doesn't automatically trigger cross-default unless specifically defined as such. Statement V is incorrect - cure periods vary by EOD type and are not universal.",
-    "detailed_explanation": "Events of Default Analysis: II) MAC clauses are triggered by material adverse changes affecting the borrower's ability to perform obligations - customer bankruptcy representing 40% of revenue could qualify. IV) Payment defaults typically have grace periods (3-5 business days) before triggering EOD. I) Zero-day grace periods are unusual - most facilities provide short grace periods for payment defaults. III) Cross-default clauses typically relate to other debt defaults, not customer bankruptcy. V) Cure periods vary by EOD type - payment defaults may have short grace periods, while covenant breaches may have longer cure periods.",
+    "explanation": {
+      "correct": "Statements II and IV are correct. Statement II: MAC clauses can be triggered by events that materially affect the borrower's ability to perform obligations - losing 40% of revenue through customer bankruptcy could qualify if it materially impacts ability to repay. Statement IV: Payment defaults typically have grace periods (usually 3-5 business days) - if payment is made within the grace period, no EOD occurs. Statement I is incorrect - payment defaults typically have grace periods (3-5 business days), not zero-day grace periods. Statement III is incorrect - customer bankruptcy doesn't automatically trigger cross-default unless specifically defined as a default event in other facility agreements (cross-default typically relates to defaults under other debt facilities, not customer events). Statement V is incorrect - cure periods vary by EOD type (some EODs like payment defaults have short grace periods, others like MAC may have longer cure periods or none at all) and are not universal 30-day periods.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "Statement I is incorrect: Payment defaults typically have grace periods of 3-5 business days, not zero-day grace periods. Statement III is incorrect: Customer bankruptcy doesn't automatically trigger cross-default - cross-default provisions relate to defaults under other debt facilities, not customer events. Statement IV is correct but this option includes incorrect statements.",
+        "C": "Statement III is incorrect: Cross-default provisions relate to defaults under other debt facilities, not customer bankruptcy events. Statement V is incorrect: Cure periods vary by EOD type and are not universal 30-day periods - payment defaults have short grace periods (3-5 days), while MAC clauses may have different cure periods or none. Statement II is correct but this option includes incorrect statements.",
+        "D": "Statement I is incorrect: Payment defaults have grace periods, not zero-day periods. Statement III is incorrect: Cross-default relates to other debt facility defaults, not customer events. Statement V is incorrect: Cure periods vary by EOD type and are not universal."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4E: Events of Default triggers and grace periods"
   },
   {
@@ -195,8 +231,15 @@
       "D. All of the above"
     ],
     "correct_answer": "C",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - while DCM typically requires established companies with good credit, it's not limited to investment-grade only. The key advantages are broader investor base (I), lighter covenants (II), more disclosure requirements (III), and flexible structures (IV).",
-    "detailed_explanation": "DCM vs Bank Lending: I) DCM provides access to institutional investors (pension funds, insurers, companies) beyond just banks. II) Bonds typically have lighter covenants - often just negative pledge vs comprehensive operational covenants in loans. III) DCM requires extensive disclosure through prospectuses/OIS/IMs vs private bank arrangements. IV) Bonds offer flexible structures (fixed, floating, zero, convertible) vs mainly floating rate loans. V) DCM requires good credit but not necessarily investment-grade only - depends on market appetite and structure.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement I: DCM provides access to institutional investors (pension funds, insurers, asset managers) beyond just banks. Statement II: Bond covenants are typically lighter, often just negative pledge clauses, compared to comprehensive financial and operational covenants in bank loans. Statement III: DCM requires public disclosure through prospectuses/IMs, while bank lending is private. Statement IV: Bonds offer flexible structures (fixed, floating, zero-coupon, convertible) while bank loans are typically floating rate. Statement V is incorrect - while DCM typically requires established companies with good credit profiles, it's not limited to investment-grade (BBB and above) - high-yield bonds exist for sub-investment grade companies.",
+      "incorrect": {
+        "A": "Statement IV is also correct: Bond issuances offer flexible interest rate structures (fixed, floating, zero-coupon, convertible) while bank loans are typically floating rate only. This option excludes Statement IV.",
+        "B": "Statement I is also correct: DCM provides access to a broader investor base including institutional investors, while bank lending is limited to banks. This option excludes Statement I.",
+        "C": "This is the correct answer.",
+        "D": "Statement V is incorrect: DCM is not limited to investment-grade companies - high-yield bonds exist for sub-investment grade companies, though DCM typically requires established companies with reasonable credit profiles."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 2.1.2: Why bond vs loan feature comparisons table"
   },
   {
@@ -215,8 +258,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I and IV are correct. Statement II is incorrect - Eurobonds can be denominated in any currency and issued by any nationality. Statement III is incorrect - Eurobonds require multi-jurisdictional compliance, not domestic bonds. Statement V is incorrect - both can include security packages and guarantees.",
-    "detailed_explanation": "Eurobond vs Domestic Bond: I) Eurobonds are denominated in a currency different from the country(ies) of sale, while domestic bonds use local currency for local markets. IV) Eurobonds are traded globally across major financial centers, providing access to larger capital pools. II) Eurobonds can be denominated in any currency (USD, EUR, GBP, etc.) and issued by any nationality. III) Eurobonds require multi-jurisdictional compliance across all markets where they're sold. V) Both Eurobonds and domestic bonds can include security packages and guarantees - the distinction is currency and market scope, not security structure.",
+    "explanation": {
+      "correct": "Statements I and IV are correct. Statement I: Eurobonds are defined by being denominated in a currency different from the country where they are sold (e.g., USD bonds sold in Singapore), while domestic bonds are issued in local currency to local investors. Statement IV: Eurobonds are traded globally across major financial centers, providing access to larger capital pools. Statement II is incorrect - Eurobonds can be denominated in any currency (USD, EUR, SGD, etc.) and issued by companies of any nationality, not just European companies. Statement III is incorrect - Eurobonds require multi-jurisdictional compliance (issuer's home country, listing jurisdiction, selling jurisdictions), while domestic bonds typically only need to comply with the issuer's home country regulations. Statement V is incorrect - both Eurobonds and domestic bonds can include security packages and guarantees - security structures are not determined by whether a bond is Eurobond or domestic.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "Statement III is incorrect: Eurobonds require multi-jurisdictional compliance (issuer's home country, listing jurisdiction, selling jurisdictions), while domestic bonds typically only need to comply with the issuer's home country regulations. Statements I and IV are correct but this option includes Statement III which is incorrect.",
+        "C": "Statement II is incorrect: Eurobonds can be denominated in any currency and issued by companies of any nationality, not just European companies. Statement III is incorrect: Eurobonds require multi-jurisdictional compliance, not domestic bonds. Statement V is incorrect: Both Eurobonds and domestic bonds can include security packages.",
+        "D": "Statement II is incorrect: Eurobonds are not limited to European companies or EUR denomination. Statement III is incorrect: Eurobonds require multi-jurisdictional compliance. Statement V is incorrect: Both bond types can include security packages."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 2.1.3: Eurobond vs Domestic comparison table"
   },
   {
@@ -235,8 +285,15 @@
       "D. All of the above"
     ],
     "correct_answer": "C",
-    "explanation": "Statements I, IV and V are correct. Statement II is incorrect - MTN programmes are suitable for various issuer profiles and issue sizes, not just large investment-grade issuers. Statement III is incorrect - MTN programmes streamline subsequent issuances with pre-established frameworks.",
-    "detailed_explanation": "MTN Programme vs Standalone: I) MTN programmes have higher upfront costs but provide frameworks for quick, consistent issuances. IV) Standalone offers more flexibility for bespoke terms, while MTN programmes work best with standard structures. V) MTN programmes enable quick market reactions and exploit funding windows efficiently. II) MTN programmes are suitable for various issuer profiles - the key is frequency of issuance, not size or rating. III) MTN programmes provide efficiency gains through pre-established documentation and procedures for subsequent issuances.",
+    "explanation": {
+      "correct": "Statements I, IV and V are correct. Statement II is incorrect - MTN programmes are suitable for various issuer profiles and issue sizes, not just large investment-grade issuers. Statement III is incorrect - MTN programmes streamline subsequent issuances with pre-established frameworks.",
+      "incorrect": {
+        "A": "This option (A. I and V only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This is the correct answer.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 2.1.4: Standalone vs MTN Programme comparison table"
   },
   {
@@ -255,8 +312,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I and IV are correct. Statement II is incorrect - there are no regulatory size thresholds mandating trustee structures. Statement III is incorrect - the roles are reversed (trustee acts for bondholders, fiscal agent acts for issuer). Statement V is incorrect - trustee structures provide streamlined collective action, which is generally more efficient than individual enforcement.",
-    "detailed_explanation": "Trustee vs Fiscal Agency Structure: I) Trustee structures are generally required for SGX listings unless wholesale carve-out applies (specified investors + S$200k minimum lots). IV) Fiscal agency requires individual bondholder monitoring and enforcement, while trustee structures provide streamlined collective action. II) No regulatory size thresholds exist - the choice depends on listing requirements and investor base. III) Trustee acts for bondholders with fiduciary duties, while fiscal agent acts for issuer. V) Trustee structures provide efficiency through collective action rather than limiting rights - individual enforcement in fiscal agency structures is often impractical with dispersed bondholders.",
+    "explanation": {
+      "correct": "Statements I and IV are correct. Statement II is incorrect - there are no regulatory size thresholds mandating trustee structures. Statement III is incorrect - the roles are reversed (trustee acts for bondholders, fiscal agent acts for issuer). Statement V is incorrect - trustee structures provide streamlined collective action, which is generally more efficient than individual enforcement.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 2.2.2: Trustee vs Fiscal Agency structures comparison table"
   },
   {
@@ -275,8 +339,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I and IV are correct. Statement II is incorrect - exemptions exist for institutional/accredited investors and listed issuers. Statement III is incorrect - IMs have different liability regimes (SFA ss199-200 vs ss253-254). Statement V is incorrect - exempt offers still have liability regimes and regulatory requirements.",
-    "detailed_explanation": "Prospectus Requirements & Exemptions: I) Public offers require prospectuses unless exempt - key exemptions include institutional investors (SFA s274) and accredited investors (SFA s275) who receive IMs. IV) Listed issuers can use OIS for retail offers, requiring lodgement but not registration, with same liability as prospectuses. II) Multiple exemptions exist under SFA - not all bond offerings require prospectuses. III) IMs have limited statutory liability (SFA ss199-200) vs full prospectus liability (SFA ss253-254). V) Exempt offers still subject to liability regimes, anti-fraud provisions, and disclosure requirements - they're not unregulated.",
+    "explanation": {
+      "correct": "Statements I and IV are correct. Statement II is incorrect - exemptions exist for institutional/accredited investors and listed issuers. Statement III is incorrect - IMs have different liability regimes (SFA ss199-200 vs ss253-254). Statement V is incorrect - exempt offers still have liability regimes and regulatory requirements.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 2.3.3: Prospectus exemptions and liability matrix"
   },
   {
@@ -295,8 +366,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I and V are correct. Statement II is incorrect - private companies are subject to SFA obligations for share offerings. Statement III is incorrect - private placements require no advertisements. Statement IV is incorrect - exempt offers still have liability regimes.",
-    "detailed_explanation": "Private Share Offering Exemptions: I) Key exemptions include small offers (under S$5m in 12 months), private placements (under 50 persons with no ads), and institutional/accredited investors, but private companies limited to 50 shareholders. V) Small offers still subject to resale restrictions and conditions - exemption applies to initial offering only. II) Private companies are subject to SFA for share offerings - the exemptions apply to all companies, not just private ones. III) Private placements require no advertisements - the exemption is based on both numbers AND no publicity. IV) Exempt offers still subject to liability regimes (SFA ss199-200, common law) and disclosure requirements.",
+    "explanation": {
+      "correct": "Statements I and V are correct. Statement II is incorrect - private companies are subject to SFA obligations for share offerings. Statement III is incorrect - private placements require no advertisements. Statement IV is incorrect - exempt offers still have liability regimes.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 2.2: Prospectus Exemptions for private companies"
   },
   {
@@ -315,8 +393,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I and V are correct. Statement II is incorrect - VCs typically take minority positions with strong contractual protections. Statement III is incorrect - anti-dilution often uses weighted-average. Statement IV is incorrect - transfer restrictions are enforceable when properly structured.",
-    "detailed_explanation": "VC Investor Protections: I) Reserved matters require investor consent for key decisions; anti-dilution mechanisms typically use weighted-average adjustments; liquidation preferences ensure priority in exits; pre-emption rights allow participation in new rounds; transfer restrictions include ROFR, tag-along, drag-along rights. V) Liquidation preferences can be non-participating (fixed amount) or participating (fixed amount plus pro rata share of remaining proceeds), often expressed as multiples (1x, 2x) of original investment. II) VCs typically take minority positions with strong contractual protections rather than seeking majority control. III) Anti-dilution mechanisms typically use weighted-average adjustments rather than full ratchet, which is rare and punitive. IV) Transfer restrictions are enforceable when properly structured in shareholders' agreements and constitutions.",
+    "explanation": {
+      "correct": "Statements I and V are correct. Statement II is incorrect - VCs typically take minority positions with strong contractual protections. Statement III is incorrect - anti-dilution often uses weighted-average. Statement IV is incorrect - transfer restrictions are enforceable when properly structured.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4: Typical Protections VC Investors Negotiate"
   },
   {
@@ -335,8 +420,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I and V are correct. Statement II is incorrect - requirements vary by test and don't require 5 years or S$1b minimum. Statement III is incorrect - free float varies by market cap. Statement IV is incorrect - public tranches are mandatory.",
-    "detailed_explanation": "SGX Mainboard Requirements: I) Track record - 1 year meeting one of: Profitability Test A (S$30m pre-tax profit + 3-year record), Profitability Test B (profitable latest year + 3-year record + S$150m market cap), Market Cap Test (revenue + S$300m market cap). Free float: 12-25% depending on market cap. Minimum 500 shareholders. Public subscription: 5% of shares or S$50m (whichever lower). V) Profitability Test A requires S$30m pre-tax profit latest year + 3-year operating record. Profitability Test B requires profitable latest year + 3-year record + S$150m market cap. II) No minimum S$1b market cap or 5-year profitability requirement - multiple tests available. III) Free float varies: <S$300m requires 25%, S$300-400m requires 20%, S$400m-<S$1b requires 15%, ≥S$1b requires 12%. IV) Public subscription tranches are mandatory for Mainboard IPOs.",
+    "explanation": {
+      "correct": "Statements I and V are correct. Statement II is incorrect - requirements vary by test and don't require 5 years or S$1b minimum. Statement III is incorrect - free float varies by market cap. Statement IV is incorrect - public tranches are mandatory.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 3.1: SGX Boards & Admission Mainboard requirements"
   },
   {
@@ -355,8 +447,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I and V are correct. Statement II is incorrect - Catalist has obligations too. Statement III is incorrect - material disclosure is mandatory. Statement IV is incorrect - IPT thresholds are percentage-based.",
-    "detailed_explanation": "Continuing Obligations: I) Material information disclosure required to avoid false markets (Rule 703). Periodic reporting: half-year within 45 days, full-year within 60 days. IPT requirements: 3% threshold for immediate announcement, 5% threshold for shareholder approval (both based on latest audited NTA). V) Quarterly reporting required for issuers with adverse audit opinions or going concern issues, while normal issuers need half-yearly and annual reporting. II) Catalist issuers have continuing obligations too, including disclosure and reporting requirements. III) Material information disclosure is mandatory under Rule 703 - not discretionary. IV) IPT thresholds are percentage-based (3% and 5% of latest audited NTA), not fixed amounts, and transactions under S$100k are generally excluded.",
+    "explanation": {
+      "correct": "Statements I and V are correct. Statement II is incorrect - Catalist has obligations too. Statement III is incorrect - material disclosure is mandatory. Statement IV is incorrect - IPT thresholds are percentage-based.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4: Continuing Obligations for listed issuers"
   },
   {
@@ -375,8 +474,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I and V are correct. Statement II is incorrect - pledges don't require ACRA registration. Statement III is incorrect - late registration may be possible. Statement IV is incorrect - there are no value thresholds for registration.",
-    "detailed_explanation": "Security Registration Requirements: I) Charges over company assets (fixed, floating, mortgages) must be registered with ACRA within 30 days under Companies Act s131. Land charges require both ACRA and SLA registration. V) Companies Act s131(3) specifically lists registrable charges including charges over book debts, goodwill, patents, trademarks, copyrights, and registered designs - all must be registered within 30 days. II) Pledges don't require ACRA registration as possession perfects the security interest. III) Late registration may be possible but creates risks and requires court approval. IV) No value thresholds apply - all registrable charges must be registered regardless of amount. Failure to register makes charges void against liquidators and creditors.",
+    "explanation": {
+      "correct": "Statements I and V are correct. Statement II is incorrect - pledges don't require ACRA registration. Statement III is incorrect - late registration may be possible. Statement IV is incorrect - there are no value thresholds for registration.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 3C: Perfection & Registration ACRA cheat sheet"
   },
   {
@@ -395,8 +501,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II and III are correct. Statement IV is incorrect - cross-default triggers depend on specific facility agreement terms. Statement V is incorrect - such reclassifications may violate accounting standards and facility agreement terms.",
-    "detailed_explanation": "Financial Covenant Breach Consequences: I) Breaches trigger EOD unless grace periods apply - financial covenants typically have 30-90 day grace periods. II) Waivers are possible but require lender consent, fees, and often additional restrictions. III) Uncured breaches allow acceleration and demand for immediate repayment. IV) Cross-default triggers depend on specific facility agreement definitions - not automatic for all breaches. V) Reclassifying liabilities as equity may violate accounting standards (FRS) and facility agreement terms requiring compliance with GAAP.",
+    "explanation": {
+      "correct": "Statements I, II and III are correct. Statement IV is incorrect - cross-default triggers depend on specific facility agreement terms. Statement V is incorrect - such reclassifications may violate accounting standards and facility agreement terms.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4D: Financial covenant breach consequences and remedies"
   },
   {
@@ -415,8 +528,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, III and V are correct. Statement IV is incorrect - floating charges may be valid if new value was given, and fixed charges can be subject to clawback in certain circumstances.",
-    "detailed_explanation": "Fixed vs Floating Charges: I) Fixed charges provide immediate control and prevent dealing without consent; floating charges allow ordinary course dealing. II) Floating charges crystallize on liquidation, receivership, cessation of business, or other specified events. III) Fixed charges generally rank ahead, but floating charges may have priority if created first and fixed chargee had notice. V) The test is substance over form - degree of control determines the charge type, not just document language. IV) Floating charges may be valid within 6 months if new value was given; fixed charges can be subject to clawback if created to prefer creditors.",
+    "explanation": {
+      "correct": "Statements I, II, III and V are correct. Statement IV is incorrect - floating charges may be valid if new value was given, and fixed charges can be subject to clawback in certain circumstances.",
+      "incorrect": {
+        "A": "This option (A. I, II and V only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 3B: Fixed vs Floating charge characteristics and priorities"
   },
   {
@@ -435,8 +555,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II and IV are correct. Statement III is incorrect - cross-default triggers depend on specific facility agreement terms. Statement V is incorrect - cross-default provisions are contractual, not regulatory requirements.",
-    "detailed_explanation": "Cross-Default Provisions: I) 'Debt' definitions typically include borrowings, guarantees, derivatives, but exclude trade payables and ordinary course obligations. II) Triggers depend on specific facility agreement definitions - may include materiality thresholds, grace periods, or exclude certain defaults. IV) Individual lenders can waive cross-defaults, but waivers are facility-specific and don't affect other agreements. III) Cross-default triggers depend on specific facility agreement terms - not automatic across all facilities. V) Cross-default provisions are contractual terms, not regulatory requirements under Singapore banking law.",
+    "explanation": {
+      "correct": "Statements I, II and IV are correct. Statement III is incorrect - cross-default triggers depend on specific facility agreement terms. Statement V is incorrect - cross-default provisions are contractual, not regulatory requirements.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4E: Cross-default clause definitions and triggers"
   },
   {
@@ -455,8 +582,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I and II are correct. Statement III is incorrect - MAC clauses typically require notice and may have cure periods. Statement IV is incorrect - temporary changes may still trigger MAC if they affect ability to perform. Statement V is incorrect - foreseeability is not typically a requirement for MAC enforcement.",
-    "detailed_explanation": "Material Adverse Change Clauses: I) MAC clauses are typically subjective, requiring lender's reasonable belief that change materially affects borrower's ability to perform obligations. II) Carve-outs for general economic conditions, industry downturns, law changes must be specifically negotiated and included in the agreement. III) MAC clauses may require notice periods and cure opportunities before acceleration - not immediate triggers. IV) Temporary changes can still trigger MAC if they materially affect ability to perform obligations, regardless of liquidity position. V) MAC clauses don't typically require unforeseeability - they can apply to foreseeable changes if they materially affect performance ability.",
+    "explanation": {
+      "correct": "Statements I and II are correct. Statement III is incorrect - MAC clauses typically require notice and may have cure periods. Statement IV is incorrect - temporary changes may still trigger MAC if they affect ability to perform. Statement V is incorrect - foreseeability is not typically a requirement for MAC enforcement.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4E: Material Adverse Change clause interpretation and triggers"
   },
   {
@@ -475,8 +609,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, III and V are correct. Statement IV is incorrect - materiality requirements depend on specific facility agreement terms and may not be a universal defense.",
-    "detailed_explanation": "Representations & Warranties: I) R&Ws are factual statements at signing and drawdown, covering legal (corporate authority, compliance), business (operations, contracts), and financial (statements, accounting) matters. II) Breaches allow refusal of drawdowns, acceleration, or damages claims, with liability typically limited to actual losses directly caused. III) Financial R&Ws require compliance with accounting standards and material accuracy; legal R&Ws cover corporate authority, regulatory compliance, litigation. V) Actual knowledge defenses may apply depending on facility agreement terms, even if not disclosed in writing. IV) Materiality requirements vary by facility agreement - some require materiality, others don't - not a universal defense.",
+    "explanation": {
+      "correct": "Statements I, II, III and V are correct. Statement IV is incorrect - materiality requirements depend on specific facility agreement terms and may not be a universal defense.",
+      "incorrect": {
+        "A": "This option (A. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4C: R&W categories and breach consequences"
   },
   {
@@ -495,8 +636,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements II, IV and V are correct. Statement I is incorrect - syndicated loans typically require collective action. Statement III is incorrect - lenders are not jointly liable for wrongful actions of others.",
-    "detailed_explanation": "Syndicated Loan Participation: II) Facility agents have discretion for routine matters but need majority consent for major decisions like acceleration, waivers, amendments. IV) Lenders can transfer participations subject to minimum amounts and eligibility requirements without consent from others. V) Agents owe duties to all lenders - failure to follow procedures creates liability exposure to the agent, not other lenders. I) Syndicated loans typically require collective action through the agent - individual enforcement is usually restricted. III) Lenders are not jointly liable for wrongful actions of other lenders or the agent - liability is individual.",
+    "explanation": {
+      "correct": "Statements II, IV and V are correct. Statement I is incorrect - syndicated loans typically require collective action. Statement III is incorrect - lenders are not jointly liable for wrongful actions of others.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 2A: Syndicated loan structure and lender rights"
   },
   {
@@ -515,8 +663,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - unperfected security may still be enforceable between original parties.",
-    "detailed_explanation": "Security Perfection Requirements: I) Land charges need both ACRA (30 days) and SLA registration; equipment charges need ACRA registration only. II) Pledges require possession; charges require ACRA registration. III) Receivables charges need ACRA registration + notification to debtors for full protection. IV) IP charges need both ACRA and IPOS registration for effectiveness against third parties. V) Unperfected security may still be enforceable between original parties - perfection affects third-party effectiveness, not basic enforceability.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - unperfected security may still be enforceable between original parties.",
+      "incorrect": {
+        "A": "This option (A. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 3C: Security perfection methods by asset type"
   },
   {
@@ -535,8 +690,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - borrowing restrictions may allow various types of debt with specific conditions.",
-    "detailed_explanation": "Negative Covenant Scope: I) Negative covenants restrict disposals, acquisitions, borrowings, dividends with carve-outs for ordinary course, permitted amounts, agreed exceptions. II) Disposal proceeds typically must be used for debt reduction or reinvestment within 12-24 months. III) Acquisitions need prior consent unless meeting pre-agreed criteria (size, industry, financial impact). IV) Dividends often limited to percentage of net income/retained earnings, prohibited during defaults. V) Borrowing restrictions may allow various debt types (pari passu, subordinated, trade credit) with specific conditions - not unlimited for subordinated debt.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - borrowing restrictions may allow various types of debt with specific conditions.",
+      "incorrect": {
+        "A": "This option (A. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4D: Negative covenant restrictions and permitted activities"
   },
   {
@@ -555,8 +717,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II and IV are correct. Statement III is incorrect - liability is not automatically joint and several across facilities. Statement V is incorrect - contributory negligence defenses can be successful.",
-    "detailed_explanation": "Borrower Liability & Indemnification: I) Borrowers indemnify lenders for facility-related costs but liability limited to actual losses from breaches/misrepresentations. II) Indemnification covers legal costs, enforcement expenses, currency losses but typically excludes consequential damages and lost profits. IV) Liability caps common, limiting exposure to principal + interest + reasonable costs. III) Liability not automatically joint/several across facilities - each facility has separate liability exposure. V) Contributory negligence defenses can be successful if lenders failed to mitigate or contributed to losses through negligence.",
+    "explanation": {
+      "correct": "Statements I, II and IV are correct. Statement III is incorrect - liability is not automatically joint and several across facilities. Statement V is incorrect - contributory negligence defenses can be successful.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4F: Borrower liability and indemnification scope"
   },
   {
@@ -575,8 +744,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, IV and V are correct. Statement III is incorrect - debt-for-equity swaps require lender consent and may not always be permitted.",
-    "detailed_explanation": "Financial Restructuring Options: I) Waivers/amendments require lender consent (often unanimous) and amendment fees. II) Standstill agreements suspend enforcement during negotiations but need lender cooperation and may include restrictions. IV) Pre-packs need court approval and may trigger cross-defaults. V) Informal workouts preserve value and avoid court costs/delays. III) Debt-for-equity swaps require lender consent and may not be permitted under all facility agreements - not automatic benefits.",
+    "explanation": {
+      "correct": "Statements I, II, IV and V are correct. Statement III is incorrect - debt-for-equity swaps require lender consent and may not always be permitted.",
+      "incorrect": {
+        "A": "This option (A. I, II and V only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 5: Restructuring options and implications"
   },
   {
@@ -595,8 +771,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, IV and V are correct. Statement III is incorrect - set-off rights depend on specific contractual provisions and may require notice.",
-    "detailed_explanation": "Enforcement Rights & Remedies: I) Lenders can accelerate, appoint receivers, commence proceedings but must follow proper notice procedures. II) Receivers have broad powers but must act in interests of all secured creditors. IV) Cross-defaults allow acceleration of other facilities with proper notice and subject to cure periods. V) Borrowers can challenge enforcement if lender breached agreement or failed to provide funding. III) Set-off rights depend on contractual provisions and may require notice or specific conditions - not automatic.",
+    "explanation": {
+      "correct": "Statements I, II, IV and V are correct. Statement III is incorrect - set-off rights depend on specific contractual provisions and may require notice.",
+      "incorrect": {
+        "A": "This option (A. I, II and V only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4G: Enforcement rights and borrower defenses"
   },
   {
@@ -615,8 +798,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - default interest typically requires notice and may not apply automatically.",
-    "detailed_explanation": "Interest Rate Calculations: I) Variable rates = base rate (SORA, LIBOR) + margin, with daily accrual on outstanding principal. II) Interest calculated using 360-day year for administrative convenience. III) Fallback provisions needed when base rates become unavailable (e.g., SORA discontinuation). IV) Floors/caps limit exposure to extreme rate movements. V) Default interest requires notice and doesn't apply automatically - terms vary by facility agreement.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - default interest typically requires notice and may not apply automatically.",
+      "incorrect": {
+        "A": "This option (A. I, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4B: Interest calculation methods and rate structures"
   },
   {
@@ -635,8 +825,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - duress and bad faith defenses can be successful in appropriate circumstances.",
-    "detailed_explanation": "Corporate Guarantees: I) Guarantees create joint and several liability - guarantor liable for full amount, not proportional share. II) Limitation clauses can restrict liability to specific amounts, time periods, or obligation types. III) Lenders can demand immediate payment from guarantors without first pursuing borrowers. IV) Board resolutions required; shareholder approval needed if guarantee exceeds thresholds relative to net assets. V) Duress and bad faith defenses can be successful if properly established - not rare defenses.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - duress and bad faith defenses can be successful in appropriate circumstances.",
+      "incorrect": {
+        "A": "This option (A. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 3D: Corporate guarantees and liability scope"
   },
   {
@@ -655,8 +852,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - documents can be executed on different dates if properly coordinated.",
-    "detailed_explanation": "Facility Documentation: I) Facility agreements include terms, R&Ws, covenants, EODs, governing law; may be supplemented by separate security documents. II) Security documents separate from facility agreements, executed simultaneously for effectiveness. III) Legal opinions required from borrower's counsel confirming authority, enforceability, compliance. IV) Due diligence documents (financials, business plans, certificates) not binding unless incorporated. V) Documents can be executed on different dates if properly coordinated - not required to be same date.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - documents can be executed on different dates if properly coordinated.",
+      "incorrect": {
+        "A": "This option (A. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 1: Facility documentation structure and requirements"
   },
   {
@@ -675,8 +879,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II and III are correct. Statement IV is incorrect - MAS doesn't prescribe specific borrower criteria. Statement V is incorrect - MAS doesn't require prior approval for facility agreements.",
-    "detailed_explanation": "MAS Banking Regulations: I) Banking Act regulates banks with prudential requirements for capital adequacy, liquidity, risk management. II) AML requirements include customer due diligence, suspicious transaction reporting, record-keeping. III) MAS requires adequate risk management systems but doesn't prescribe specific methodologies. IV) MAS doesn't prescribe specific borrower financial criteria - banks set their own credit policies. V) MAS doesn't require prior approval for facility agreements - banks have discretion subject to prudential limits.",
+    "explanation": {
+      "correct": "Statements I, II and III are correct. Statement IV is incorrect - MAS doesn't prescribe specific borrower criteria. Statement V is incorrect - MAS doesn't require prior approval for facility agreements.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 1: MAS regulatory framework and requirements"
   },
   {
@@ -695,8 +906,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - unperfected security may not rank ahead of unsecured creditors in insolvency.",
-    "detailed_explanation": "Security Priority Rules: I) Priority generally determined by creation/perfection date - earlier perfected security ranks ahead. II) Fixed charges typically ahead of floating charges, but floating charges may have priority if created first and fixed chargee had notice. III) Proper perfection required for priority - requirements vary by asset type (ACRA registration, possession, notification). IV) Subordination agreements can contractually alter priority regardless of creation dates. V) Unperfected security may not rank ahead of unsecured creditors in insolvency - perfection affects priority.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - unperfected security may not rank ahead of unsecured creditors in insolvency.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 3B: Security priority rules and subordination"
   },
   {
@@ -715,8 +933,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - even exempt offerings have liability regimes and disclosure requirements.",
-    "detailed_explanation": "Disclosure Requirements: I) Public offerings need detailed prospectuses; private offerings can use IMs with less detail. II) Listed issuers can use OIS for retail offerings with less disclosure but MAS lodgement required. III) Material changes require updates between document date and offering date. IV) Liability extends to directors, underwriters, others but limited to actual damages. V) Even exempt offerings (institutional, accredited) have liability regimes and disclosure requirements - not completely exempt.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - even exempt offerings have liability regimes and disclosure requirements.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 2.3: Disclosure requirements and liability regimes"
   },
   {
@@ -735,8 +960,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, III and V are correct. Statement IV is incorrect - conversion rights are typically irrevocable once exercised.",
-    "detailed_explanation": "Convertible Bonds: I) Convertible bonds give right to convert debt to equity at predetermined ratios during specified periods. II) Conversion ratios may be fixed or adjustable with anti-dilution provisions protecting against equity issuances. III) Shareholder approval required if conversion would exceed thresholds relative to existing share capital. V) Treated as debt for accounting/tax until conversion regardless of likelihood or trading price. IV) Conversion rights typically irrevocable once exercised - no withdrawal rights after exercise.",
+    "explanation": {
+      "correct": "Statements I, II, III and V are correct. Statement IV is incorrect - conversion rights are typically irrevocable once exercised.",
+      "incorrect": {
+        "A": "This option (A. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 2.1.5: Convertible bond structures and conversion mechanics"
   },
   {
@@ -755,8 +987,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - callable bonds don't require bondholder consent for redemption.",
-    "detailed_explanation": "Bond Redemption: I) Callable bonds redeemable at predetermined dates at par + accrued interest + call premiums. II) Redemption notices required within specified periods (30-90 days) before redemption date. III) Redemption proceeds must cover principal + interest + premiums but not market value differences. IV) Bondholders cannot refuse redemption if issuer exercises call rights according to terms. V) Callable bonds don't require bondholder consent for redemption - that's the point of callability.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - callable bonds don't require bondholder consent for redemption.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 2.2.3: Bond redemption mechanics and requirements"
   },
   {
@@ -775,8 +1014,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - bond listing is voluntary, not mandatory under Singapore regulations.",
-    "detailed_explanation": "Bond Listing: I) SGX bond listing requires minimum issue size, ratings, disclosure but less stringent than equity. II) Listed bonds need ongoing disclosure including annual reports, material changes, IPTs. III) Listing fees include initial (based on issue size) and annual fees, typically lower than equity. IV) Benefits include enhanced liquidity, broader access but require SGX compliance and oversight. V) Bond listing is voluntary under Singapore regulations - not mandatory for any issue size.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - bond listing is voluntary, not mandatory under Singapore regulations.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 2.3.4: SGX bond listing requirements and obligations"
   },
   {
@@ -795,8 +1041,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - cross-default provisions may have materiality thresholds and exceptions.",
-    "detailed_explanation": "Default Consequences: I) Cross-defaults depend on specific definitions in each facility agreement. II) Lenders can accelerate but borrowers may have grace periods/cure rights. III) Default events broadly defined including payment, covenant, MAC, insolvency events. IV) Force majeure defenses may apply if default caused by circumstances beyond control. V) Cross-default provisions may have materiality thresholds and exclude minor/technical breaches - not automatic triggers.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - cross-default provisions may have materiality thresholds and exceptions.",
+      "incorrect": {
+        "A": "This option (A. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4E: Default consequences and cross-default triggers"
   },
   {
@@ -815,8 +1068,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - waivers are specific to the particular breach and circumstances.",
-    "detailed_explanation": "Covenant Waivers: I) Waivers require lender consent, involve fees, may include additional covenants/restrictions. II) Waivers are temporary relief, not permanent modification of underlying terms. III) Written requests needed with explanations of breach, remedies, compliance timeline. IV) Individual or collective waivers possible, but unanimous consent typically required for material waivers. V) Waivers are specific to particular breaches - don't automatically extend to future breaches of same type.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - waivers are specific to the particular breach and circumstances.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4D: Covenant waiver process and requirements"
   },
   {
@@ -835,8 +1095,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - amendments only apply to specifically identified facilities.",
-    "detailed_explanation": "Facility Amendments: I) Amendments require lender consent, involve fees, consent level depends on change nature/materiality. II) Requests must specify changes, reasons, additional conditions. III) Can modify rates, covenants, EODs, other terms; fundamental changes may need new agreements. IV) Documentation must be executed by all parties, delivered, legal opinions required. V) Amendments only apply to specifically identified facilities - not automatically to all facilities.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - amendments only apply to specifically identified facilities.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4H: Facility amendment process and documentation"
   },
   {
@@ -855,8 +1122,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - security interests and guarantees may require separate documentation.",
-    "detailed_explanation": "Facility Assignments: I) Assignments require borrower consent unless to affiliate or agreement permits without consent. II) Written documentation required, legal opinions may be needed for assignee rights. III) Assignors remain liable for pre-assignment obligations unless specifically released. IV) Assignment fees paid by assignor for admin costs, assignee may bear due diligence/documentation costs. V) Security interests and guarantees may require separate documentation - not automatically transferred.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - security interests and guarantees may require separate documentation.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4I: Facility assignment process and requirements"
   },
   {
@@ -875,8 +1149,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - prepayments don't automatically release security unless all obligations are satisfied.",
-    "detailed_explanation": "Facility Prepayment: I) Voluntary prepayments permitted subject to notice and fees (percentage or yield maintenance). II) Mandatory prepayments triggered by disposals, equity issuances, calculated as percentage of proceeds. III) Prepayment fees compensate for lost interest, may be waived/reduced with consent. IV) Partial prepayments subject to minimum amounts/notice; full prepayments need longer notice. V) Security interests not automatically released unless all obligations satisfied - prepayment doesn't release remaining debt.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - prepayments don't automatically release security unless all obligations are satisfied.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4J: Prepayment mechanics and fee calculations"
   },
   {
@@ -895,8 +1176,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II and III are correct. Statement IV is incorrect - borrowers cannot refuse reasonable lender access. Statement V is incorrect - information requirements can be customized.",
-    "detailed_explanation": "Monitoring & Reporting: I) Regular financial statements, compliance certificates, other specified information required. II) Annual audited, quarterly management accounts, ad-hoc material development reports. III) Compliance certificates confirm covenant compliance, signed by authorized officers within specified periods. IV) Lenders have right to inspect books/records - borrowers cannot refuse reasonable access. V) Information requirements can be customized to borrower circumstances and business needs.",
+    "explanation": {
+      "correct": "Statements I, II and III are correct. Statement IV is incorrect - borrowers cannot refuse reasonable lender access. Statement V is incorrect - information requirements can be customized.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4K: Monitoring requirements and reporting obligations"
   },
   {
@@ -915,8 +1203,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - R&Ws may survive termination for specified periods.",
-    "detailed_explanation": "Facility Termination: I) Agreements have specified terms, can be terminated with notice subject to payment of outstanding obligations. II) Early termination may trigger prepayment fees/break costs for lost interest and admin costs. III) Termination doesn't affect repayment obligations but may release unused commitments and reduce fees. IV) Security interests and guarantees remain until obligations satisfied unless specifically released. V) R&Ws may survive termination for specified periods - not automatically released upon termination.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - R&Ws may survive termination for specified periods.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4L: Facility termination process and consequences"
   },
   {
@@ -935,8 +1230,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - insurance requirements can apply to various asset types.",
-    "detailed_explanation": "Insurance Requirements: I) Security agreements require adequate insurance with lenders as loss payees/additional insureds. II) Requirements specify minimum coverage, types, acceptable insurers, regular certificates. III) Material changes must be notified, coverage reduction requires consent. IV) Proceeds used for repair/replacement unless other use consented by lender. V) Insurance requirements can apply to various asset types beyond real property/equipment - depends on asset nature and value.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - insurance requirements can apply to various asset types.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 3D: Insurance requirements for secured assets"
   },
   {
@@ -955,8 +1257,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - environmental liability doesn't automatically transfer to lenders.",
-    "detailed_explanation": "Environmental Liability: I) Environmental liability can attach to secured assets regardless of causation, affecting security value/marketability. II) Lenders may require environmental assessments and ongoing monitoring for compliance. III) Environmental liability typically excluded from standard insurance, needs separate policies. IV) Borrowers must maintain environmental compliance, violations may constitute EOD. V) Environmental liability doesn't automatically transfer to lenders upon foreclosure - depends on specific circumstances and lender involvement.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - environmental liability doesn't automatically transfer to lenders.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 3E: Environmental liability and security implications"
   },
   {
@@ -975,8 +1284,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - tax implications vary significantly by jurisdiction and require specific analysis.",
-    "detailed_explanation": "Tax Implications: I) Interest payments may be subject to withholding taxes depending on lender jurisdiction and tax treaties. II) Tax-efficient structures may use SPVs or intermediate holding companies for optimization. III) Security creation/enforcement may have stamp duty, capital gains, transfer tax implications. IV) Tax considerations affect governing law and jurisdiction choices, especially for cross-border transactions. V) Tax implications vary significantly by jurisdiction and require specific analysis for each transaction and lender structure.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - tax implications vary significantly by jurisdiction and require specific analysis.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 3F: Tax implications and structuring considerations"
   },
   {
@@ -995,8 +1311,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - currency hedging is not mandatory under Singapore regulations.",
-    "detailed_explanation": "Currency & Hedging: I) Cross-border facilities involve multiple currencies with exchange rate risk managed through swaps/forwards. II) Hedging agreements separate from facilities, may need additional documentation/credit support. III) Minimum hedging ratios may be required to protect against currency fluctuations affecting debt service. IV) Currency exposure managed through natural hedges, financial hedges, or combinations. V) Currency hedging not mandatory under Singapore regulations - depends on borrower risk tolerance and exposure.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - currency hedging is not mandatory under Singapore regulations.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 3G: Currency risk and hedging strategies"
   },
   {
@@ -1015,8 +1338,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - closing documentation can be executed on different dates if properly coordinated.",
-    "detailed_explanation": "Facility Closing: I) Closing requires satisfaction of all CPs including legal opinions, resolutions, security documentation. II) Closing docs include facility agreements, security docs, legal opinions, corporate authorizations. III) Legal opinions from borrower's counsel confirming authority, enforceability, compliance. IV) Closing can proceed with minor CPs unsatisfied if borrower agrees to satisfy within reasonable time. V) Documentation can be executed on different dates if properly coordinated - not required to be same date.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - closing documentation can be executed on different dates if properly coordinated.",
+      "incorrect": {
+        "A": "This option (A. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 1: Facility closing process and documentation requirements"
   },
   {
@@ -1035,8 +1365,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, II, III and IV are correct. Statement V is incorrect - ongoing obligations can extend to operational matters that affect creditworthiness.",
-    "detailed_explanation": "Ongoing Obligations: I) Include covenant compliance, regular reporting, payment of fees/interest. II) Must notify lenders of material changes in business/financial condition. III) Include covenant testing, financial reporting, compliance certification. IV) Can modify operations without consent if no covenant/representation breaches. V) Ongoing obligations can extend to operational/strategic decisions that affect creditworthiness - not limited to financial matters.",
+    "explanation": {
+      "correct": "Statements I, II, III and IV are correct. Statement V is incorrect - ongoing obligations can extend to operational matters that affect creditworthiness.",
+      "incorrect": {
+        "A": "This option (A. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III, IV and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - Section 4: Ongoing obligations and compliance requirements"
   },
   {
@@ -1055,8 +1392,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1075,8 +1419,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1095,8 +1446,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1115,8 +1473,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1135,8 +1500,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1155,8 +1527,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1175,8 +1554,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1195,8 +1581,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1215,8 +1608,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1235,8 +1635,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1255,8 +1662,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1275,8 +1689,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1295,8 +1716,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1315,8 +1743,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1335,8 +1770,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1355,8 +1797,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1375,8 +1824,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1395,8 +1851,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1415,8 +1878,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1435,8 +1905,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1455,8 +1932,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1475,8 +1959,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1495,8 +1986,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1515,8 +2013,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1535,8 +2040,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1555,8 +2067,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1575,8 +2094,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1595,8 +2121,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1615,8 +2148,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1635,8 +2175,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1655,8 +2202,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1675,8 +2229,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1695,8 +2256,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1715,8 +2283,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1735,8 +2310,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1755,8 +2337,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1775,8 +2364,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1795,8 +2391,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1815,8 +2418,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1835,8 +2445,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1855,8 +2472,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1875,8 +2499,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1895,8 +2526,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1915,8 +2553,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1935,8 +2580,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1955,8 +2607,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1975,8 +2634,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   },
   {
@@ -1995,8 +2661,15 @@
       "D. None of the above"
     ],
     "correct_answer": "A",
-    "explanation": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
-    "detailed_explanation": "**BASIC CONCEPT: [Topic Name]**\n\nThis would be a detailed explanation of the underlying legal concept being tested.\n\n**What this question tests:** Your understanding of [specific area of banking law].\n\n**Why each statement matters:**\n\n**I. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**II. [Statement Analysis] - CORRECT/INCORRECT**\n- Detailed explanation of why this statement is correct or incorrect\n- Legal basis and practical implications\n- Examples and case law references\n\n**Exam Tips:**\n- Key points to remember for the exam\n- Common traps and pitfalls to avoid\n- How this concept relates to other areas of banking law",
+    "explanation": {
+      "correct": "This is a placeholder explanation that would be replaced with a comprehensive explanation of the correct answer and why other options are incorrect.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II, III and IV only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option includes statements that are incorrect.",
+        "D": "This option excludes statements that are correct."
+      }
+    },
     "reference": "Banking & Finance Quick Notes - [Relevant Section]"
   }
 ]

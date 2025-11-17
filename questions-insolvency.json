@@ -14,8 +14,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "I is correct - Alpha Bank is a creditor under s 124(1)(c) IRDA and has locus standi. II is correct - the statutory demand procedure under s 125(2)(a) creates a deemed inability to pay debts. III is wrong - the court has discretion under s 128 IRDA and can refuse the order for public policy reasons. IV is wrong - the statutory demand creates a deemed inability, actual insolvency proof is not required.",
-    "detailed_explanation": "**BASIC CONCEPT: Compulsory Winding Up (CWU) - Three-Stage Legal Framework**\n\nCompulsory winding up is a court-ordered process to liquidate a company. The law requires three things: (1) someone with standing to apply, (2) a valid ground for winding up, and (3) court discretion to make the order.\n\n**What this question tests:** Your understanding of the three-stage framework for compulsory winding up applications and the statutory demand procedure.\n\n**Key Legal Principles:**\n\n**I. Locus Standi - Creditor Status (CORRECT):**\n- **s 124(1)(c) IRDA** gives creditors the right to apply for winding up\n- Alpha Bank is clearly a creditor (owed S$25,000)\n- This satisfies the 'standing' requirement\n- Without locus standi, the application would be dismissed\n\n**II. Statutory Ground - Deemed Inability to Pay (CORRECT):**\n- **s 125(2)(a) IRDA** creates a 'deemed inability to pay debts'\n- Requirements: (1) debt > S$15,000, (2) written demand served, (3) 3 weeks non-compliance\n- All requirements met: S$25,000 > S$15,000, demand served, 4 weeks non-compliance\n- This creates a statutory ground for winding up\n\n**Why other statements are wrong:**\n\n**III. Court Must Grant Order (INCORRECT):**\n- **s 128 IRDA** gives the court discretion to refuse winding up\n- Court can refuse for public policy reasons (BNP Paribas case)\n- Even if all requirements are met, court doesn't have to grant the order\n- Court considers factors like public interest, alternative remedies\n\n**IV. Must Prove Actual Insolvency (INCORRECT):**\n- Statutory demand creates a 'deemed' inability to pay\n- No need to prove actual insolvency under cash flow test\n- The 3-week non-compliance is enough\n- This is the whole point of the statutory demand procedure\n\n**Exam Tips:**\n- Remember the three-stage framework: locus standi → statutory grounds → court discretion\n- Statutory demand creates 'deemed' inability, not actual insolvency\n- Court has discretion even when all requirements are met\n- Look for the S$15,000 threshold and 3-week period",
+    "explanation": {
+      "correct": "I is correct - Alpha Bank is a creditor under s 124(1)(c) IRDA and has locus standi. II is correct - the statutory demand procedure under s 125(2)(a) creates a deemed inability to pay debts. III is wrong - the court has discretion under s 128 IRDA and can refuse the order for public policy reasons. IV is wrong - the statutory demand creates a deemed inability, actual insolvency proof is not required.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "Insolvency, Restructuring and Dissolution Act (IRDA) - ss 124, 125, 128; BNP Paribas case law"
   },
   {
@@ -33,47 +40,16 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - creditors have locus standi under s 124(1)(c) IRDA. II is correct - the statutory ground is satisfied. III is correct - the court has discretion under s 128 IRDA. IV is wrong - commencement depends on whether VWU resolution was passed earlier under s 126(1)(a) IRDA.",
-    "detailed_explanation": "**BASIC CONCEPT: Execution Returned Unsatisfied as Ground for Winding Up**\n\nWhen a creditor gets a judgment but can't collect the money (execution returned unsatisfied), this can be grounds for winding up the debtor company.\n\n**What this question tests:** Your understanding of the execution returned unsatisfied procedure and the three-stage winding up framework.\n\n**Key Legal Principles:**\n\n**I. Locus Standi - Creditor Status (CORRECT):**\n- **s 124(1)(c) IRDA** gives creditors the right to apply for winding up\n- SupplierCo is a creditor (owed S$30,000 judgment debt)\n- This satisfies the standing requirement\n- Creditors have automatic standing to apply\n\n**II. Statutory Ground - Execution Returned Unsatisfied (CORRECT):**\n- **s 125(2)(b) IRDA** makes execution returned unsatisfied a ground for winding up\n- Requirements: (1) judgment debt, (2) writ of execution issued, (3) execution returned unsatisfied\n- All requirements met: S$30,000 judgment, writ issued, returned unsatisfied\n- This creates a statutory ground for winding up\n\n**III. Court Discretion Required (CORRECT):**\n- **s 128 IRDA** requires court to exercise discretion before making winding up order\n- Court considers factors like public interest, alternative remedies\n- Even with valid grounds, court can refuse the order\n- This is the third stage of the winding up framework\n\n**Why Statement IV is wrong:**\n\n**IV. Commencement Date (INCORRECT):**\n- **s 126 IRDA** determines when winding up commences\n- If voluntary winding up (VWU) resolution passed earlier, CWU commences from VWU date\n- If no VWU resolution, CWU commences from application filing date\n- Commencement depends on whether VWU happened first\n\n**Exam Tips:**\n- Execution returned unsatisfied = statutory ground for winding up\n- Remember the three-stage framework: locus standi → statutory grounds → court discretion\n- Commencement date depends on whether VWU resolution was passed earlier\n- Court always has discretion to refuse winding up orders",
+    "explanation": {
+      "correct": "I is correct - creditors have locus standi under s 124(1)(c) IRDA. II is correct - the statutory ground is satisfied. III is correct - the court has discretion under s 128 IRDA. IV is wrong - commencement depends on whether VWU resolution was passed earlier under s 126(1)(a) IRDA.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "IRDA - ss 124, 125, 126, 128; Execution procedures under Rules of Court"
-  },
-  {
-    "question": "TechStart Pte Ltd owes Alpha Bank S$25,000 under a loan facility that matured 2 months ago. The company has been experiencing cash flow difficulties and has not responded to Alpha Bank's repeated demands for payment. Alpha Bank served a statutory demand on TechStart 4 weeks ago, requiring payment of the S$25,000 debt. TechStart has not paid, secured, or compounded the debt to Alpha Bank's satisfaction. Alpha Bank now wishes to apply for a compulsory winding up order against TechStart. Which of the following statements is correct regarding Alpha Bank's application?",
-    "statements": [
-      "I. Alpha Bank has locus standi to apply for winding up as it is a creditor under s 124(1)(c) IRDA.",
-      "II. Alpha Bank can establish TechStart's inability to pay debts under s 125(2)(a) IRDA through the statutory demand procedure.",
-      "III. The court must grant the winding up order as TechStart has failed to comply with the statutory demand for 3 weeks.",
-      "IV. Alpha Bank must prove that TechStart is actually insolvent under the cash flow test before the court will make a winding up order."
-    ],
-    "options": [
-      "A. I and II only",
-      "B. I, II and III only",
-      "C. I, II and IV only",
-      "D. All of the above"
-    ],
-    "correct_answer": "A",
-    "explanation": "I is correct - Alpha Bank is a creditor under s 124(1)(c) IRDA and has locus standi. II is correct - the statutory demand procedure under s 125(2)(a) creates a deemed inability to pay debts. III is wrong - the court has discretion under s 128 IRDA and can refuse the order for public policy reasons. IV is wrong - the statutory demand creates a deemed inability, actual insolvency proof is not required.",
-    "detailed_explanation": "Under s 124(1)(c) IRDA, a creditor has locus standi to apply for winding up. The statutory demand procedure in s 125(2)(a) IRDA creates a deemed inability to pay debts if: (1) the company is indebted in a sum exceeding S$15,000, (2) the creditor served a written demand at the registered office, and (3) the company neglected to pay, secure, or compound the debt for 3 weeks. However, the court retains discretion under s 128 IRDA and can refuse the order for public policy reasons (BNP Paribas). The statutory demand creates a deemed inability - actual insolvency proof is not required.",
-    "reference": ""
-  },
-  {
-    "question": "DebtCorp Pte Ltd has failed to pay a judgment debt of S$30,000 to SupplierCo Pte Ltd. SupplierCo obtained a writ of execution but it was returned unsatisfied. SupplierCo now wishes to apply for compulsory winding up. Which of the following statements is correct regarding the execution returned unsatisfied under s 125(2)(b) IRDA?",
-    "statements": [
-      "I. The applicant has locus standi under s 124(1) IRDA to apply for winding up.",
-      "II. The statutory ground for winding up under s 125(1) IRDA is satisfied.",
-      "III. The court must exercise its discretion under s 128 IRDA before making a winding up order.",
-      "IV. The winding up will commence from the date the application is filed under s 126 IRDA."
-    ],
-    "options": [
-      "A. I and II only",
-      "B. I, II and III only",
-      "C. I, II and IV only",
-      "D. All of the above"
-    ],
-    "correct_answer": "B",
-    "explanation": "I is correct - creditors have locus standi under s 124(1)(c) IRDA. II is correct - the statutory ground is satisfied. III is correct - the court has discretion under s 128 IRDA. IV is wrong - commencement depends on whether VWU resolution was passed earlier under s 126(1)(a) IRDA.",
-    "detailed_explanation": "The execution returned unsatisfied under s 125(2)(b) IRDA involves the three-stage legal framework for CWU: (1) locus standi under s 124 IRDA, (2) statutory grounds under s 125 IRDA, and (3) court discretion under s 128 IRDA. The court retains discretion to refuse winding up for public policy reasons. Commencement timing depends on whether a VWU resolution was passed earlier.",
-    "reference": ""
   },
   {
     "question": "TechCorp Pte Ltd is unable to pay its debts as they fall due. The company has current assets of S$500,000 but current liabilities of S$800,000, with S$600,000 due within 12 months. A creditor wishes to apply for winding up. Which of the following statements is correct regarding the cash flow test for insolvency under s 125(2)(c) IRDA?",
@@ -90,8 +66,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - creditors have locus standi under s 124(1)(c) IRDA. II is correct - the statutory ground is satisfied. III is correct - the court has discretion under s 128 IRDA. IV is wrong - commencement depends on whether VWU resolution was passed earlier under s 126(1)(a) IRDA.",
-    "detailed_explanation": "The cash flow test for insolvency under s 125(2)(c) IRDA involves the three-stage legal framework for CWU: (1) locus standi under s 124 IRDA, (2) statutory grounds under s 125 IRDA, and (3) court discretion under s 128 IRDA. The court retains discretion to refuse winding up for public policy reasons. Commencement timing depends on whether a VWU resolution was passed earlier.",
+    "explanation": {
+      "correct": "I is correct - creditors have locus standi under s 124(1)(c) IRDA. II is correct - the statutory ground is satisfied. III is correct - the court has discretion under s 128 IRDA. IV is wrong - commencement depends on whether VWU resolution was passed earlier under s 126(1)(a) IRDA.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -109,8 +92,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - creditors have locus standi under s 124(1)(c) IRDA. II is correct - the statutory ground is satisfied. III is correct - the court has discretion under s 128 IRDA. IV is wrong - commencement depends on whether VWU resolution was passed earlier under s 126(1)(a) IRDA.",
-    "detailed_explanation": "The disputed debts and substantial grounds under s 128 IRDA involves the three-stage legal framework for CWU: (1) locus standi under s 124 IRDA, (2) statutory grounds under s 125 IRDA, and (3) court discretion under s 128 IRDA. The court retains discretion to refuse winding up for public policy reasons. Commencement timing depends on whether a VWU resolution was passed earlier.",
+    "explanation": {
+      "correct": "I is correct - creditors have locus standi under s 124(1)(c) IRDA. II is correct - the statutory ground is satisfied. III is correct - the court has discretion under s 128 IRDA. IV is wrong - commencement depends on whether VWU resolution was passed earlier under s 126(1)(a) IRDA.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -128,8 +118,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "I is correct - s 160 IRDA requires a special resolution for VWU. II is correct - s 163 IRDA requires directors' declarations. III is wrong - creditors' meetings are only required for CVWU, not MVWU. IV is wrong - liquidator appointment depends on whether it's MVWU or CVWU.",
-    "detailed_explanation": "The MVWU requirements and declaration of solvency under s 163 IRDA involves the legal framework for VWU. Under s 160 IRDA, a special resolution is required. Directors must make declarations under s 163 IRDA. For MVWU, no creditors' meeting is required and the company appoints the liquidator. For CVWU, creditors' meetings are required and creditors can choose the liquidator.",
+    "explanation": {
+      "correct": "I is correct - s 160 IRDA requires a special resolution for VWU. II is correct - s 163 IRDA requires directors' declarations. III is wrong - creditors' meetings are only required for CVWU, not MVWU. IV is wrong - liquidator appointment depends on whether it's MVWU or CVWU.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -147,8 +144,15 @@
       "D. All of the above"
     ],
     "correct_answer": "A",
-    "explanation": "I is correct - s 160 IRDA requires a special resolution for VWU. II is correct - s 163 IRDA requires directors' declarations. III is wrong - creditors' meetings are only required for CVWU, not MVWU. IV is wrong - liquidator appointment depends on whether it's MVWU or CVWU.",
-    "detailed_explanation": "The CVWU requirements and creditors' rights under s 166-170 IRDA involves the legal framework for VWU. Under s 160 IRDA, a special resolution is required. Directors must make declarations under s 163 IRDA. For MVWU, no creditors' meeting is required and the company appoints the liquidator. For CVWU, creditors' meetings are required and creditors can choose the liquidator.",
+    "explanation": {
+      "correct": "I is correct - s 160 IRDA requires a special resolution for VWU. II is correct - s 163 IRDA requires directors' declarations. III is wrong - creditors' meetings are only required for CVWU, not MVWU. IV is wrong - liquidator appointment depends on whether it's MVWU or CVWU.",
+      "incorrect": {
+        "A": "This is the correct answer.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -166,8 +170,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - s 91 IRDA allows company applications when likely to become insolvent. II is correct - s 91(3) IRDA requires the better result test. III is correct - s 95 IRDA gives exclusive management powers to the judicial manager. IV is correct - s 95 IRDA suspends directors' powers.",
-    "detailed_explanation": "The JM application grounds and better result test under s 91 IRDA involves the judicial management framework under Part 7 IRDA. Under s 91 IRDA, applications can be made by the company or creditors. The court must be satisfied under s 91(3) that JM is likely to achieve a better result than winding up. Under s 95 IRDA, the judicial manager has exclusive management powers and directors' powers are suspended.",
+    "explanation": {
+      "correct": "I is correct - s 91 IRDA allows company applications when likely to become insolvent. II is correct - s 91(3) IRDA requires the better result test. III is correct - s 95 IRDA gives exclusive management powers to the judicial manager. IV is correct - s 95 IRDA suspends directors' powers.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -185,8 +196,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - s 91 IRDA allows company applications when likely to become insolvent. II is correct - s 91(3) IRDA requires the better result test. III is correct - s 95 IRDA gives exclusive management powers to the judicial manager. IV is correct - s 95 IRDA suspends directors' powers.",
-    "detailed_explanation": "The schemes of arrangement in JM under s 117 IRDA involves the judicial management framework under Part 7 IRDA. Under s 91 IRDA, applications can be made by the company or creditors. The court must be satisfied under s 91(3) that JM is likely to achieve a better result than winding up. Under s 95 IRDA, the judicial manager has exclusive management powers and directors' powers are suspended.",
+    "explanation": {
+      "correct": "I is correct - s 91 IRDA allows company applications when likely to become insolvent. II is correct - s 91(3) IRDA requires the better result test. III is correct - s 95 IRDA gives exclusive management powers to the judicial manager. IV is correct - s 95 IRDA suspends directors' powers.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -204,8 +222,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - s 140 IRDA gives liquidators general powers. II is correct - liquidators have fiduciary duties to creditors. III is correct - liquidators can be personally liable for breaches (Nova Leisure v Dynasty). IV is wrong - court approval is not required for all actions, only significant ones.",
-    "detailed_explanation": "The liquidator's powers under s 140 IRDA and duties to creditors involves the liquidator's powers and duties. Under s 140 IRDA, liquidators have general powers to deal with company assets. They have fiduciary duties to act in the best interests of creditors. In Nova Leisure v Dynasty, the court held that liquidators can be personally liable for breaches of duty. Court approval is required for significant actions but not for routine matters.",
+    "explanation": {
+      "correct": "I is correct - s 140 IRDA gives liquidators general powers. II is correct - liquidators have fiduciary duties to creditors. III is correct - liquidators can be personally liable for breaches (Nova Leisure v Dynasty). IV is wrong - court approval is not required for all actions, only significant ones.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -223,8 +248,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - s 140 IRDA gives liquidators general powers. II is correct - liquidators have fiduciary duties to creditors. III is correct - liquidators can be personally liable for breaches (Nova Leisure v Dynasty). IV is wrong - court approval is not required for all actions, only significant ones.",
-    "detailed_explanation": "The order of priority under s 203 IRDA and pari passu principle under s 172 IRDA involves the liquidator's powers and duties. Under s 140 IRDA, liquidators have general powers to deal with company assets. They have fiduciary duties to act in the best interests of creditors. In Nova Leisure v Dynasty, the court held that liquidators can be personally liable for breaches of duty. Court approval is required for significant actions but not for routine matters.",
+    "explanation": {
+      "correct": "I is correct - s 140 IRDA gives liquidators general powers. II is correct - liquidators have fiduciary duties to creditors. III is correct - liquidators can be personally liable for breaches (Nova Leisure v Dynasty). IV is wrong - court approval is not required for all actions, only significant ones.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -242,8 +274,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - s 140 IRDA gives liquidators general powers. II is correct - liquidators have fiduciary duties to creditors. III is correct - liquidators can be personally liable for breaches (Nova Leisure v Dynasty). IV is wrong - court approval is not required for all actions, only significant ones.",
-    "detailed_explanation": "The mutual debts and set-off under s 219 IRDA involves the liquidator's powers and duties. Under s 140 IRDA, liquidators have general powers to deal with company assets. They have fiduciary duties to act in the best interests of creditors. In Nova Leisure v Dynasty, the court held that liquidators can be personally liable for breaches of duty. Court approval is required for significant actions but not for routine matters.",
+    "explanation": {
+      "correct": "I is correct - s 140 IRDA gives liquidators general powers. II is correct - liquidators have fiduciary duties to creditors. III is correct - liquidators can be personally liable for breaches (Nova Leisure v Dynasty). IV is wrong - court approval is not required for all actions, only significant ones.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -261,8 +300,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - s 140 IRDA gives liquidators general powers. II is correct - liquidators have fiduciary duties to creditors. III is correct - liquidators can be personally liable for breaches (Nova Leisure v Dynasty). IV is wrong - court approval is not required for all actions, only significant ones.",
-    "detailed_explanation": "The moratorium under s 206 IRDA and leave to proceed involves the liquidator's powers and duties. Under s 140 IRDA, liquidators have general powers to deal with company assets. They have fiduciary duties to act in the best interests of creditors. In Nova Leisure v Dynasty, the court held that liquidators can be personally liable for breaches of duty. Court approval is required for significant actions but not for routine matters.",
+    "explanation": {
+      "correct": "I is correct - s 140 IRDA gives liquidators general powers. II is correct - liquidators have fiduciary duties to creditors. III is correct - liquidators can be personally liable for breaches (Nova Leisure v Dynasty). IV is wrong - court approval is not required for all actions, only significant ones.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -280,8 +326,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - s 140 IRDA gives liquidators general powers. II is correct - liquidators have fiduciary duties to creditors. III is correct - liquidators can be personally liable for breaches (Nova Leisure v Dynasty). IV is wrong - court approval is not required for all actions, only significant ones.",
-    "detailed_explanation": "The provable debts under s 218 IRDA and valuation of contingent debts involves the liquidator's powers and duties. Under s 140 IRDA, liquidators have general powers to deal with company assets. They have fiduciary duties to act in the best interests of creditors. In Nova Leisure v Dynasty, the court held that liquidators can be personally liable for breaches of duty. Court approval is required for significant actions but not for routine matters.",
+    "explanation": {
+      "correct": "I is correct - s 140 IRDA gives liquidators general powers. II is correct - liquidators have fiduciary duties to creditors. III is correct - liquidators can be personally liable for breaches (Nova Leisure v Dynasty). IV is wrong - court approval is not required for all actions, only significant ones.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -299,8 +352,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -318,8 +378,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -337,8 +404,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -356,8 +430,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -375,8 +456,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -394,8 +482,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -413,8 +508,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -432,8 +534,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -451,8 +560,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -470,8 +586,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -489,8 +612,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -508,8 +638,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -527,8 +664,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -546,8 +690,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -565,8 +716,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -584,8 +742,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -603,8 +768,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -622,8 +794,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -641,8 +820,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -660,8 +846,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -679,8 +872,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -698,8 +898,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -717,8 +924,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -736,8 +950,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -755,8 +976,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -774,8 +1002,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -793,8 +1028,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -812,8 +1054,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -831,8 +1080,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -850,8 +1106,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -869,8 +1132,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -888,8 +1158,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -907,8 +1184,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -926,8 +1210,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -945,8 +1236,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -964,8 +1262,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -983,8 +1288,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1002,8 +1314,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1021,8 +1340,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1040,8 +1366,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1059,8 +1392,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1078,8 +1418,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1097,8 +1444,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1116,8 +1470,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1135,8 +1496,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1154,8 +1522,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1173,8 +1548,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1192,8 +1574,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1211,8 +1600,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1230,8 +1626,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1249,8 +1652,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1268,8 +1678,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1287,8 +1704,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1306,8 +1730,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1325,8 +1756,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1344,8 +1782,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1363,8 +1808,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1382,8 +1834,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1401,8 +1860,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1420,8 +1886,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1439,8 +1912,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1458,8 +1938,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1477,8 +1964,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1496,8 +1990,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1515,8 +2016,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1534,8 +2042,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1553,8 +2068,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1572,8 +2094,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1591,8 +2120,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1610,8 +2146,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1629,8 +2172,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1648,8 +2198,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1667,8 +2224,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1686,8 +2250,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1705,8 +2276,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1724,8 +2302,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1743,8 +2328,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1762,8 +2354,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1781,8 +2380,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1800,8 +2406,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1819,8 +2432,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1838,8 +2458,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1857,8 +2484,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1876,8 +2510,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1895,8 +2536,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
-    "detailed_explanation": "The IRDA provides a comprehensive framework for corporate insolvency and restructuring in Singapore. Courts have discretion in insolvency matters and must consider various factors including public policy. The balance between creditor rights and company rehabilitation is a key consideration. Insolvency practitioners have significant responsibilities and can face personal liability for breaches of duty.",
+    "explanation": {
+      "correct": "I is correct - the IRDA provides comprehensive insolvency procedures. II is correct - courts have discretion and consider public policy. III is correct - creditor rights must be balanced with rehabilitation. IV is correct - insolvency practitioners have significant responsibilities and liability exposure.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   }
 ]

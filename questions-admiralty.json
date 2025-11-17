@@ -15,8 +15,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements I, III and IV are correct. Statement I: The ship that caused the damage can be arrested for collision claims. Statement III: A prima facie case is required for arrest. Statement IV: Arrest can proceed regardless of other assets. Statement II is incorrect - beneficial ownership is not required for collision claims. Statement V is incorrect - providing security doesn't automatically set aside arrest, it provides an alternative to arrest.",
-    "detailed_explanation": "**BASIC CONCEPT: Ship Arrest for Collision Claims**\n\nShip arrest is a powerful remedy in admiralty law that allows claimants to secure their claims by detaining a vessel. Collision claims are one of the most common grounds for ship arrest.\n\n**What this question tests:** Your understanding of the requirements for ship arrest, particularly for collision claims, and the relationship between arrest and security.\n\n**Key Legal Principles:**\n\n**I. Arrest of Collision-Causing Ship (CORRECT):**\n- **s 3(1)(d) High Court (Admiralty Jurisdiction) Act** allows arrest for collision damage\n- The ship that caused the damage can be arrested to secure the claim\n- This is a maritime lien that attaches to the ship itself\n- Ocean Star can be arrested because it caused the collision\n\n**III. Prima Facie Case Required (CORRECT):**\n- **O 70 r 4(1) Rules of Court** requires a prima facie case for arrest\n- Must show reasonable grounds for believing the claim is valid\n- Collision negligence must be established on the evidence\n- This prevents frivolous arrests and protects shipowners\n\n**IV. No Need for Other Assets (CORRECT):**\n- Ship arrest is independent of the shipowner's other assets\n- The ship itself is the security for the claim\n- Maritime liens attach to the ship, not the owner's general assets\n- This is what makes ship arrest so powerful\n\n**Why other statements are wrong:**\n\n**II. Beneficial Ownership Not Required (INCORRECT):**\n- For collision claims, beneficial ownership is not required\n- Maritime liens attach to the ship itself, regardless of ownership\n- This is different from other types of claims where ownership matters\n- The ship can be arrested even if owned by a different entity\n\n**V. Security Doesn't Auto-Set Aside Arrest (INCORRECT):**\n- Providing security doesn't automatically set aside arrest\n- Security provides an alternative to arrest (ship can be released)\n- But the arrest itself remains valid until court orders release\n- Security and arrest are separate legal concepts\n\n**Exam Tips:**\n- Collision claims = maritime liens = ship can be arrested\n- Prima facie case always required for arrest\n- Maritime liens attach to ship, not owner's other assets\n- Security provides alternative to arrest, doesn't invalidate it",
+    "explanation": {
+      "correct": "Statements I, III and IV are correct. Statement I: The ship that caused the damage can be arrested for collision claims. Statement III: A prima facie case is required for arrest. Statement IV: Arrest can proceed regardless of other assets. Statement II is incorrect - beneficial ownership is not required for collision claims. Statement V is incorrect - providing security doesn't automatically set aside arrest, it provides an alternative to arrest.",
+      "incorrect": {
+        "A": "This option (A. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II, III and V only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "High Court (Admiralty Jurisdiction) Act s 3(1)(d); Rules of Court O 70 r 4(1); Admiralty Practice Guide"
   },
   {
@@ -35,8 +42,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "Statements II and IV are correct. Statement II: The shipowners must be the carriers under the bill of lading for arrest to proceed. Statement IV: Providing security (bank guarantee) will result in the arrest being set aside and the ship released. Statement I is incorrect - bill of lading doesn't create maritime liens for cargo damage. Statement III is incorrect - no judgment required before arrest. Statement V is incorrect - can only arrest the specific vessel involved in the claim.",
-    "detailed_explanation": "**BASIC CONCEPT: Ship Arrest for Cargo Claims**\n\nCargo claims are common in admiralty practice, but they have different rules from collision claims. Understanding the distinction between maritime liens and statutory rights is crucial.\n\n**What this question tests:** Your understanding of cargo claims, maritime liens vs statutory rights, and the requirements for arresting vessels for cargo damage.\n\n**Key Legal Principles:**\n\n**II. Shipowners Must Be Carriers (CORRECT):**\n- For cargo claims, the shipowners must be the carriers under the bill of lading\n- This establishes the necessary connection between the claim and the ship\n- If shipowners are not the carriers, arrest cannot proceed\n- This is different from collision claims where the ship itself is liable\n\n**IV. Security Sets Aside Arrest (CORRECT):**\n- **O 70 r 7 Rules of Court** allows shipowners to provide security\n- Bank guarantee is acceptable security for cargo claims\n- Once security is provided, arrest is set aside and ship is released\n- This is the standard procedure in admiralty practice\n\n**Why other statements are wrong:**\n\n**I. No Maritime Lien for Cargo Damage (INCORRECT):**\n- Bill of lading doesn't create maritime liens for cargo damage\n- Cargo claims are statutory rights under **s 3(1)(g) High Court (Admiralty Jurisdiction) Act**\n- Maritime liens are limited to specific claims (collision, salvage, wages)\n- This is a fundamental distinction in admiralty law\n\n**III. No Judgment Required (INCORRECT):**\n- Arrest can proceed without a judgment\n- **O 70 r 4(1) Rules of Court** only requires a prima facie case\n- Judgment comes after arrest, not before\n- This is what makes arrest so powerful - it secures claims before judgment\n\n**V. Only Specific Vessel Can Be Arrested (INCORRECT):**\n- Can only arrest the vessel involved in the specific claim\n- **s 3(1)(g)** allows arrest of the ship in connection with which the claim arose\n- Cannot arrest other vessels owned by the same shipowner\n- This is different from general civil enforcement\n\n**Exam Tips:**\n- Cargo claims = statutory rights, not maritime liens\n- Shipowners must be carriers for cargo arrest\n- No judgment required before arrest\n- Can only arrest the specific vessel involved\n- Security sets aside arrest and releases ship",
+    "explanation": {
+      "correct": "Statements II and IV are correct. Statement II: The shipowners must be the carriers under the bill of lading for arrest to proceed. Statement IV: Providing security (bank guarantee) will result in the arrest being set aside and the ship released. Statement I is incorrect - bill of lading doesn't create maritime liens for cargo damage. Statement III is incorrect - no judgment required before arrest. Statement V is incorrect - can only arrest the specific vessel involved in the claim.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": "High Court (Admiralty Jurisdiction) Act s 3(1)(g); Rules of Court O 70 rr 4(1), 7; Admiralty Practice Guide"
   },
   {
@@ -54,8 +68,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - the HCAJA provides admiralty jurisdiction for this type of claim. II is correct - in rem actions require the defendant to be beneficial owner when cause of action arose. III is correct - Singapore courts have jurisdiction over maritime incidents in Singapore waters. IV is wrong - no leave required for admiralty proceedings.",
-    "detailed_explanation": "The admiralty jurisdiction under s 3(1)(d) HCAJA for collision claims involves the High Court's admiralty jurisdiction under the HCAJA. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Singapore courts have jurisdiction over maritime incidents in Singapore waters regardless of the parties' nationality. No leave of court is required to commence admiralty proceedings.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides admiralty jurisdiction for this type of claim. II is correct - in rem actions require the defendant to be beneficial owner when cause of action arose. III is correct - Singapore courts have jurisdiction over maritime incidents in Singapore waters. IV is wrong - no leave required for admiralty proceedings.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -73,8 +94,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - the HCAJA provides admiralty jurisdiction for this type of claim. II is correct - in rem actions require the defendant to be beneficial owner when cause of action arose. III is correct - Singapore courts have jurisdiction over maritime incidents in Singapore waters. IV is wrong - no leave required for admiralty proceedings.",
-    "detailed_explanation": "The admiralty jurisdiction for damage to cargo and vessel involves the High Court's admiralty jurisdiction under the HCAJA. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Singapore courts have jurisdiction over maritime incidents in Singapore waters regardless of the parties' nationality. No leave of court is required to commence admiralty proceedings.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides admiralty jurisdiction for this type of claim. II is correct - in rem actions require the defendant to be beneficial owner when cause of action arose. III is correct - Singapore courts have jurisdiction over maritime incidents in Singapore waters. IV is wrong - no leave required for admiralty proceedings.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -92,8 +120,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - the HCAJA provides admiralty jurisdiction for this type of claim. II is correct - in rem actions require the defendant to be beneficial owner when cause of action arose. III is correct - Singapore courts have jurisdiction over maritime incidents in Singapore waters. IV is wrong - no leave required for admiralty proceedings.",
-    "detailed_explanation": "The admiralty jurisdiction for loss of life and personal injury under s 3(1)(e) HCAJA involves the High Court's admiralty jurisdiction under the HCAJA. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Singapore courts have jurisdiction over maritime incidents in Singapore waters regardless of the parties' nationality. No leave of court is required to commence admiralty proceedings.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides admiralty jurisdiction for this type of claim. II is correct - in rem actions require the defendant to be beneficial owner when cause of action arose. III is correct - Singapore courts have jurisdiction over maritime incidents in Singapore waters. IV is wrong - no leave required for admiralty proceedings.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -111,8 +146,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - this type of claim gives rise to a maritime lien under the HCAJA. II is correct - maritime liens attach automatically without court proceedings. III is wrong - maritime liens can be enforced without prior judgment. IV is correct - maritime liens have high priority over most other claims.",
-    "detailed_explanation": "The ship arrest for maritime liens under s 4(3) HCAJA for crew wages involves maritime liens that arise automatically under the HCAJA and attach to the vessel without requiring court proceedings or registration. These liens can be enforced through ship arrest without the need for a prior judgment. Maritime liens typically have high priority, ranking after salvage and collision damage but before most other claims.",
+    "explanation": {
+      "correct": "I is correct - this type of claim gives rise to a maritime lien under the HCAJA. II is correct - maritime liens attach automatically without court proceedings. III is wrong - maritime liens can be enforced without prior judgment. IV is correct - maritime liens have high priority over most other claims.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II and III only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -130,8 +172,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - this type of claim gives rise to a maritime lien under the HCAJA. II is correct - maritime liens attach automatically without court proceedings. III is wrong - maritime liens can be enforced without prior judgment. IV is correct - maritime liens have high priority over most other claims.",
-    "detailed_explanation": "The ship arrest for salvage claims and maritime liens involves maritime liens that arise automatically under the HCAJA and attach to the vessel without requiring court proceedings or registration. These liens can be enforced through ship arrest without the need for a prior judgment. Maritime liens typically have high priority, ranking after salvage and collision damage but before most other claims.",
+    "explanation": {
+      "correct": "I is correct - this type of claim gives rise to a maritime lien under the HCAJA. II is correct - maritime liens attach automatically without court proceedings. III is wrong - maritime liens can be enforced without prior judgment. IV is correct - maritime liens have high priority over most other claims.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II and III only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -149,8 +198,15 @@
       "D. All of the above"
     ],
     "correct_answer": "B",
-    "explanation": "I is correct - this type of claim gives rise to a maritime lien under the HCAJA. II is correct - maritime liens attach automatically without court proceedings. III is wrong - maritime liens can be enforced without prior judgment. IV is correct - maritime liens have high priority over most other claims.",
-    "detailed_explanation": "The ship arrest for necessaries supplied to vessel involves maritime liens that arise automatically under the HCAJA and attach to the vessel without requiring court proceedings or registration. These liens can be enforced through ship arrest without the need for a prior judgment. Maritime liens typically have high priority, ranking after salvage and collision damage but before most other claims.",
+    "explanation": {
+      "correct": "I is correct - this type of claim gives rise to a maritime lien under the HCAJA. II is correct - maritime liens attach automatically without court proceedings. III is wrong - maritime liens can be enforced without prior judgment. IV is correct - maritime liens have high priority over most other claims.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This is the correct answer.",
+        "C": "This option (C. II and III only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -168,8 +224,15 @@
       "D. All of the above"
     ],
     "correct_answer": "C",
-    "explanation": "I is correct - in rem actions require the defendant to be beneficial owner when cause of action arose. II is correct - in personam actions can be brought for breach of contract or tort. III is correct - in rem actions fail if defendant was not beneficial owner. IV is wrong - both actions can be pursued simultaneously.",
-    "detailed_explanation": "The in rem vs in personam actions for charter hire claims involves the distinction between in rem and in personam actions. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. In personam actions can always be brought against the defendant for breach of contract or tort. The key requirement for in rem actions is that the defendant must be the beneficial owner of the vessel when the cause of action arose. Both types of actions can be pursued simultaneously.",
+    "explanation": {
+      "correct": "I is correct - in rem actions require the defendant to be beneficial owner when cause of action arose. II is correct - in personam actions can be brought for breach of contract or tort. III is correct - in rem actions fail if defendant was not beneficial owner. IV is wrong - both actions can be pursued simultaneously.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This is the correct answer.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -187,8 +250,15 @@
       "D. All of the above"
     ],
     "correct_answer": "C",
-    "explanation": "I is correct - in rem actions require the defendant to be beneficial owner when cause of action arose. II is correct - in personam actions can be brought for breach of contract or tort. III is correct - in rem actions fail if defendant was not beneficial owner. IV is wrong - both actions can be pursued simultaneously.",
-    "detailed_explanation": "The in rem actions for collision damage claims involves the distinction between in rem and in personam actions. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. In personam actions can always be brought against the defendant for breach of contract or tort. The key requirement for in rem actions is that the defendant must be the beneficial owner of the vessel when the cause of action arose. Both types of actions can be pursued simultaneously.",
+    "explanation": {
+      "correct": "I is correct - in rem actions require the defendant to be beneficial owner when cause of action arose. II is correct - in personam actions can be brought for breach of contract or tort. III is correct - in rem actions fail if defendant was not beneficial owner. IV is wrong - both actions can be pursued simultaneously.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This is the correct answer.",
+        "D": "This option includes statements that are incorrect."
+      }
+    },
     "reference": ""
   },
   {
@@ -206,8 +276,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - Singapore admiralty law applies to this situation. II is correct - proper procedures must be followed. III is correct - courts consider specific facts and circumstances. IV is correct - security or court orders may be required.",
-    "detailed_explanation": "The general average contributions and salvage claims involves complex legal principles under Singapore admiralty law. Claimants must follow proper procedures to enforce their rights, including obtaining necessary court orders and providing security where required. Courts will consider the specific facts and circumstances of each case in applying the relevant legal principles.",
+    "explanation": {
+      "correct": "I is correct - Singapore admiralty law applies to this situation. II is correct - proper procedures must be followed. III is correct - courts consider specific facts and circumstances. IV is correct - security or court orders may be required.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -225,8 +302,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - Singapore admiralty law applies to this situation. II is correct - proper procedures must be followed. III is correct - courts consider specific facts and circumstances. IV is correct - security or court orders may be required.",
-    "detailed_explanation": "The limitation of liability under the Limitation of Liability for Maritime Claims Act involves complex legal principles under Singapore admiralty law. Claimants must follow proper procedures to enforce their rights, including obtaining necessary court orders and providing security where required. Courts will consider the specific facts and circumstances of each case in applying the relevant legal principles.",
+    "explanation": {
+      "correct": "I is correct - Singapore admiralty law applies to this situation. II is correct - proper procedures must be followed. III is correct - courts consider specific facts and circumstances. IV is correct - security or court orders may be required.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -244,8 +328,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - Singapore admiralty law applies to this situation. II is correct - proper procedures must be followed. III is correct - courts consider specific facts and circumstances. IV is correct - security or court orders may be required.",
-    "detailed_explanation": "The priority of maritime liens and claims against vessels involves complex legal principles under Singapore admiralty law. Claimants must follow proper procedures to enforce their rights, including obtaining necessary court orders and providing security where required. Courts will consider the specific facts and circumstances of each case in applying the relevant legal principles.",
+    "explanation": {
+      "correct": "I is correct - Singapore admiralty law applies to this situation. II is correct - proper procedures must be followed. III is correct - courts consider specific facts and circumstances. IV is correct - security or court orders may be required.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -263,8 +354,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -282,8 +380,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -301,8 +406,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -320,8 +432,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -339,8 +458,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -358,8 +484,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -377,8 +510,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -396,8 +536,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -415,8 +562,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -434,8 +588,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -453,8 +614,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -472,8 +640,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -491,8 +666,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -510,8 +692,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -529,8 +718,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -548,8 +744,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -567,8 +770,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -586,8 +796,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -605,8 +822,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -624,8 +848,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -643,8 +874,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -662,8 +900,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -681,8 +926,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -700,8 +952,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -719,8 +978,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -738,8 +1004,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -757,8 +1030,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -776,8 +1056,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -795,8 +1082,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -814,8 +1108,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -833,8 +1134,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -852,8 +1160,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -871,8 +1186,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -890,8 +1212,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -909,8 +1238,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -928,8 +1264,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -947,8 +1290,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -966,8 +1316,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -985,8 +1342,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1004,8 +1368,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1023,8 +1394,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1042,8 +1420,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1061,8 +1446,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1080,8 +1472,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1099,8 +1498,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1118,8 +1524,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1137,8 +1550,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1156,8 +1576,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   },
   {
@@ -1175,8 +1602,15 @@
       "D. All of the above"
     ],
     "correct_answer": "D",
-    "explanation": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
-    "detailed_explanation": "The High Court (Admiralty Jurisdiction) Act provides the statutory basis for admiralty jurisdiction in Singapore. Maritime liens arise automatically and attach to vessels without requiring court proceedings or registration. In rem actions can be brought against vessels where the defendant was the beneficial owner when the cause of action arose. Admiralty law provides specialized procedures for ship arrest and enforcement of maritime claims.",
+    "explanation": {
+      "correct": "I is correct - the HCAJA provides the statutory basis for admiralty jurisdiction. II is correct - maritime liens arise automatically. III is correct - in rem actions require beneficial ownership. IV is correct - admiralty law provides specialized procedures.",
+      "incorrect": {
+        "A": "This option (A. I and II only) is incorrect. Review each statement to determine which are correct.",
+        "B": "This option (B. I, II and III only) is incorrect. Review each statement to determine which are correct.",
+        "C": "This option (C. I, II and IV only) is incorrect. Review each statement to determine which are correct.",
+        "D": "This is the correct answer."
+      }
+    },
     "reference": ""
   }
 ]
